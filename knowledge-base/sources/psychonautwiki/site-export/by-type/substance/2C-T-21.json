@@ -1,0 +1,417 @@
+{
+ "id": "psychonautwiki:14969",
+ "type": "substance",
+ "title": "2C-T-21",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2C-T-21",
+  "pageid": 14969,
+  "last_edited": "2022-08-12T06:06:15Z"
+ },
+ "categories": [
+  "2C-T-x",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Articles with unsourced statements from December 2007",
+  "CS1 German-language sources (de)",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/2C-T-21",
+ "substance_box": {
+  "names": {
+   "common": "2C-T-21, Aurora",
+   "substitutive": "4-Fluoroethylthio-2,5-dimethoxyphenethylamine",
+   "systematic": "4-(2-Fluoroethylthio)-2,5-dimethoxyphenethylamine"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 12 mg",
+    "strong": "12 - 15 mg",
+    "heavy": "15 mg +",
+    "duration": "10 - 12 hours",
+    "onset": "90 - 120 minutes",
+    "peak": "3 - 4 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "2C-T-21",
+    "Aurora"
+   ],
+   "systematic name": [
+    "4-(2-Fluoroethylthio)-2,5-dimethoxyphenethylamine"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Phenethylamine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "12"
+   ],
+   "Oral min strong dose": [
+    "12"
+   ],
+   "Oral max strong dose": [
+    "15"
+   ],
+   "Oral heavy dose": [
+    "15"
+   ],
+   "Oral min total time": [
+    "10"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "90"
+   ],
+   "Oral max onset time": [
+    "120"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "4"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 2C-T-21.",
+   "clean": "Molecular structure of 2C-T-21."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:2C-T-21.svg",
+   "clean": "File:2C-T-21.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::2C-T-21]], [[common name::Aurora]]",
+   "clean": "2C-T-21, Aurora"
+  },
+  "NameSubstitution": {
+   "raw": "4-Fluoroethylthio-2,5-dimethoxyphenethylamine",
+   "clean": "4-Fluoroethylthio-2,5-dimethoxyphenethylamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::4-(2-Fluoroethylthio)-2,5-dimethoxyphenethylamine]]",
+   "clean": "4-(2-Fluoroethylthio)-2,5-dimethoxyphenethylamine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::12]] mg",
+   "clean": "10 - 12 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::12]] - [[Oral max strong dose::15]] mg",
+   "clean": "12 - 15 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::15]] mg +",
+   "clean": "15 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::10]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "10 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::90]] - [[Oral max onset time::120]] [[Oral onset time units::minutes]]",
+   "clean": "90 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::4]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "2,5-Dimethoxy-4-ethylfluorothiophenethylamine (also known as 2C-T-21, or colloquially as Aurora) is a psychedelic substance of the phenethylamine chemical class that produces psychedelic effects when administered. It is a member of the 2C-x family of psychedelic phenethylamines, all of which were derived from the systematic modification of the mescaline molecule. \n\n2C-T-21 was first synthesized by Alexander Shulgin and documented in his book PiHKAL (\"Phenethylamines I Have Known and Loved\"). The dosage range is listed as 8–12 mg. It is described in various reports as being generally relaxed and clear-headed with mild visual effects. In Thanatos To Eros, 35 Years of Psychedelic Exploration, Myron Stolaroff describes it as \"not psychedelic, but a wonderful energizer\", along with displaying a notable lack of appetite suppression typically observed with members of its class. However he also mentions concerns regarding toxicity. \n\nIn March 2004, a 22-year-old American male died after ingesting an unknown amount of 2C-T-21. This death became part of a two-year DEA investigation called \"Operation Web Tryp\" which ended with the arrests of 10 persons involved in the online distribution of research chemicals. 2C-T-21 remains unscheduled in the United States.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2C-T-21, although a paper by Daniel Trachsel hypothesizes that one of its metabolites is the poison fluoroacetate. It has little history of human usage. It is strongly advised to use harm reduction practices if using this substance.\n\nChemistry\n\n2C-T-21, or 2,5-dimethoxy-4-ethylfluorothiophenethylamine, is a substituted phenethylamine featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain. 2C-T-21 contain methoxy functional groups CH3O- attached to carbons R2 and R5 of the benzene ring as well as an ethylfluoro thioether group attached to carbon R4 of the phenyl ring. \n\n2C-T-21 belongs to the 2C family of phenethylamines, all of which contain methoxy groups on the 2 and 5 positions of the benzene ring.\n\nPharmacology\n\n2C-T-21's psychedelic effects are believed to come from its efficacy at the 5-HT2A receptor as a partial agonist. However, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nThis compound, being similar in structure to 2C-T-2 and 2C-T-7 is also believed to potentially have MAOI properties.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: 2C-T-21\n\nToxicity and harm potential\n\nOn March 9, 2004, a 22-year-old American male consumed an unknown dose of 2C-T-21 by sticking his tongue into a vial of powder he had purchased online. He developed a temperature of 108 degrees Fahrenheit (42 degrees Celsius), had a tonic-clonic seizure, and slipped into a coma before dying four days later. These symptoms are consistent with those seen in fluoroacetate poisoning, for which there is no known effective antidote.\n\nFluoroacetate is hypothesized to be a metabolite of 2C-T-21. Sub-lethal doses of fluoroacetate take up to four days to clear from the body. As such, it is likely dangerous to take 2C-T-21 multiple days in a row as this poisonous metabolite will accumulate. Furthermore, sub-lethal doses may cause damage to tissue with high energy needs (e.g. the brain, gonads, heart, lungs, and fetus). This may account for the experience of a couple who became \"convinced that it is toxic\" in Stolaroff's book.\n\nThere is no anecdotal evidence to suggest that a single, moderate dose of 2C-T-21 can cause negative health effects, although nothing can be guaranteed.\n\nIt is strongly discouraged to administer 2C-T-21 non-orally because this may cause vomiting, numerous negative side effects, or death at high doses.\n\nIt is strongly recommended that one use harm reduction practices, such as volumetric dosing, when using this substance to ensure the accurate administration of the intended dose.\n\nTolerance and addiction potential\n\n2C-T-21 is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 2C-T-21 is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 2C-T-21 presents cross-tolerance with all psychedelics, meaning that after the consumption of 2C-T-21 all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nIf 2C-T-21 does have MAOI effects as commonly speculated, this could indicate that 2C-T-21 is more likely to induce serotonin syndrome or general neurotransmitter overload (especially at high dosages) than other serotonergic psychedelics. This may make it dangerous to combine it with other MAOIs, stimulants and certain substances which releases neurotransmitters such as serotonin or dopamine. These substances include but are not limited to:\n{|\n|-\n|\n*5-MeO-MiPT\n*2C-T-2\n*2C-T-7\n*AMT\n*Ayahuasca\n*Harmala alkaloids\n*2-AI\n*2-FMA\n*3-FPM\n*4-FA\n*A-PVP\n*Amphetamine\n*Cocaine\n*Ethylphenidate\n||\n*N-Methylbisfluoromodafinil\n*Isopropylphenidate\n*MDAI\n*MDMA\n*Mephedrone\n*Methamphetamine\n*Methiopropamine\n*Methylone\n*Methylphenidate\n*Modafinil\n*Nicotine\n*NM-2-AI\n*Noopept\n|}\n\nLegal status\n\n*Austria: 2C-T-21 is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Canada: As of October 31st, 2016; 2C-T-21 is a controlled substance (Schedule III) in Canada.\n*Germany: 2C-T-21 is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable. The legislator considers it possible that orders of 2C-T-21 are punishable as an incitement to place it on the market.\n*Switzerland: 2C-T-21 can be considered a controlled substance as a defined derivative of Phenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.\n*United Kingdom: 2C-T-21 is a Class A drug in the United Kingdom as a result of the phenethylamine catch-all clause.\n*United States: 2C-T-21 is technically not scheduled in the United States, but could be considered an analogue of 2C-T or 2C-T-7 and may therefore be considered a Schedule I drug under the Federal Analogue Act.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Research chemical\n*MAOI\n*2C-x\n*2C-T-7\n*2C-E\n\nExternal links\n\n*2C-T-21 (Wikipedia)\n*2C-T-21 (Erowid Vault)\n*2C-T-21 (PiHKAL / Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:2C-T-x\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/2C-T-21}}\n'''2,5-Dimethoxy-4-ethylfluorothiophenethylamine''' (also known as '''2C-T-21''', or colloquially as '''Aurora''') is a [[psychoactive class::psychedelic]] substance of the [[chemical class::phenethylamine]] chemical class that produces [[psychedelic]] effects when [[administered]]. It is a member of the [[2C-x family]] of psychedelic phenethylamines, all of which were derived from the systematic modification of the [[mescaline]] molecule. \n\n2C-T-21 was first synthesized by [[Alexander Shulgin]] and documented in his book [[PiHKAL]] (\"Phenethylamines I Have Known and Loved\"). The dosage range is listed as 8–12 mg. It is described in various reports as being generally relaxed and clear-headed with mild visual effects.<ref name=\"PiHKAL\">{{cite book|title=PiHKAL: A Chemical Love Story|title-link=PiHKAL|author-link1=Alexander Shulgin|author1=Alexander Shulgin|author2=Ann Shulgin|year=1991|publisher=Transform Press|location=United States|isbn=0963009605|oclc=1166889264|chapter-url=https://erowid.org/library/books_online/pihkal/pihkal049.shtml|chapter=#49. 2C-T-21}}</ref> In ''Thanatos To Eros, 35 Years of Psychedelic Exploration'', Myron Stolaroff describes it as \"not psychedelic, but a wonderful energizer\", along with displaying a notable lack of [[appetite suppression]] typically observed with members of its class. However he also mentions concerns regarding toxicity.<ref name=\":0\">{{cite web|url=http://www.maps.org/index.php?option=com_content&view=article&id=5406|title=Thanatos To Eros, 35 Years of Psychedelic Exploration|author=Myron J. Stolaroff|year=1994|publisher=Multidisciplinary Association for Psychedelic Studies (MAPS)}}</ref> \n\nIn March 2004, a 22-year-old American male died after ingesting an unknown amount of 2C-T-21. This death became part of a two-year DEA investigation called \"Operation Web Tryp\" which ended with the arrests of 10 persons involved in the online distribution of [[research chemicals]].<ref name=\"DEAnews\">{{cite web|url=https://www.dea.gov/pubs/pressrel/pr072204.html|archive-url=https://web.archive.org/web/20171022211020/https://www.dea.gov/pubs/pressrel/pr072204.html|archive-date=October 22, 2017|title=DEA Announces Arrests Of Website: Operators Selling Illegal Designer Drugs|date=July 22, 2004|publisher=Drug Enforcement Administration (DEA)}}</ref> 2C-T-21 remains unscheduled in the United States.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2C-T-21, although a paper by Daniel Trachsel hypothesizes that one of its metabolites is the poison [https://en.wikipedia.org/wiki/Fluoroacetate fluoroacetate].<ref name=\":1\">Trachsel, Daniel. (2012) [https://pubmed.ncbi.nlm.nih.gov/22374819 Fluorine in psychedelic phenethylamines], ''Drug Testing and Analysis'', Vol. 4, Issue 7-8 (Special Issue: Psychedelic Substances), July-August 2012, pp. 577-590. [https://doi.org/10.1002/dta.413 DOI:10.1002/dta.413]</ref> It has little history of human usage. It is strongly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n2C-T-21, or 2,5-dimethoxy-4-ethylfluorothiophenethylamine, is a [[substituted phenethylamine]] featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain. 2C-T-21 contain methoxy functional groups CH<sub>3</sub>O- attached to carbons R<sub>2</sub> and R<sub>5</sub> of the benzene ring as well as an ethylfluoro thioether group attached to carbon R<sub>4</sub> of the phenyl ring. \n\n2C-T-21 belongs to the 2C family of phenethylamines, all of which contain methoxy groups on the 2 and 5 positions of the benzene ring.\n\n==Pharmacology==\n{{pharmacology}}\n2C-T-21's [[psychedelic]] effects are believed to come from its efficacy at the [[Serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] as a [[Agonist#Agonists|partial agonist]]. However, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain elusive.\n\nThis compound, being similar in structure to [[2C-T-2]] and [[2C-T-7]] is also believed to potentially have [[MAOI]] properties.\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, 2C-T-21 is generally considered to be energetic and stimulating in a fashion is comparable to that of other [[phenethylamines]] such as [[2C-B]], [[2C-E]] and [[2C-P]]. However, at certain doses and contexts, it may produce periods of notable [[sedation]].\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of 2C-T-21 is intense, but in comparison to [[2C-E]] or [[2C-B]], it can be considered mild though is still capable of becoming very powerful and highly physically euphoric. The sensation itself can be described as intense and will manifest itself in the form of a continuously shifting tingling sensation that travels up and down the body in spontaneous waves.  \n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Changes in felt bodily form]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Temperature regulation suppression]]'''\n**'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Diarrhea]]'''\n*'''[[Effect::Difficulty urinating]]''' or [[Effect::Frequent urination]]\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Nausea]]''' -  Mild to extreme nausea is commonly reported when consumed in moderate to high dosages, and either passes once the user has vomited or gradually fades by itself as the peak sets in.\n*'''[[Effect::Stomach bloating]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Excessive yawning]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Watery eyes]]'''\n\n}}\n{{effects/visual|\n\n====[[Visual effects - Psychedelics#Enhancements|Enhancements]]====\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n====[[Visual effects - Psychedelics#Distortions|Distortions]]====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Flowing|flowing]], [[Visual drifting#Breathing|breathing]] and [[Visual drifting# morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, static in appearance. <!-- and extremely realistic in style but with a subtle digital/cartoonish form. -->\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Colour shifting]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry that is present throughout this trip can be described as more similar in appearance to that of [[psilocin]] than that of [[LSD]]. <!--\n They can be comprehensively described as structured in their organization, organic in geometric style, intricate in complexity, large, fast and smooth in motion, colorful in scheme, glossy in color, sharp in their edges and equally rounded and angular in their corners. It gives off a contradictory natural and synthetic feel with slightly more mystical and shamanic undertones in comparison to other [[phenethylamines]]. At higher dosages, they are equally likely to result in states of [[Effect::8A Geometry|Level 8A]] visual geometry or [[Effect::8B Geometry|Level 8B]]. -->\n\n====Hallucinatory states====\n<!-- 2C-T-7 produces a full range of high level hallucinatory states in a fashion that is more consistent and reproducible than that of many other commonly used psychedelics. This holds particularly true in comparison to other substances within the [[phenethylamines|phenethylamine]] family. These effects include: -->\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')<!-- - This effect is very consistent in dark environments at appropriately high dosages. They can be comprehensively described through their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, autonomous in controllability, [[Geometry|geometry]]-based in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme. -->\n\n}}\n|{{effects/cognitive|\nThe head space of 2C-T-21 is described by many as one which is both insightful and relatively normal in its thought processes even at moderate to high dosages.\n\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis enhancement]]''' - 2C-T-21 is notable for providing an unusual sense of [[outrospection]].\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n\n}}\n{{effects/transpersonal|\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_2CT21.shtml Erowid Experience Vaults: 2C-T-21]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nOn March 9, 2004, a 22-year-old American male consumed an unknown dose of 2C-T-21 by sticking his tongue into a vial of powder he had purchased online. He developed a temperature of 108 degrees Fahrenheit (42 degrees Celsius),<ref name=\"DEAnews\" /> had a tonic-clonic seizure, and slipped into a coma before dying four days later.{{Citation needed|date=December 2007}} These symptoms are consistent with those seen in fluoroacetate poisoning, for which there is no known effective antidote.<ref>Proudfoot et al. (2006) [https://link.springer.com/article/10.2165/00139709-200625040-00002 Sodium Fluoroacetate Poisoning] . ''Toxicological Review''s, '''25''' pp. 213–219.</ref>\n\nFluoroacetate is hypothesized to be a metabolite of 2C-T-21.<ref name=\":1\" /> Sub-lethal doses of fluoroacetate take up to four days to clear from the body.<ref>Eason et al. (1993) [https://books.google.ie/books?id=ACI4AAAAIAAJ&pg=PA330&redir_esc=y#v=onepage&q&f=false Sodium monofluoroacetate and alternative toxins for possum control], ''New Zealand Journal of Zoology'', Vol. 20, Issue 4, pp. 329-334. [https://doi.org/10.1080/03014223.1993.10420354 DOI:10.1080/03014223.1993.10420354] </ref> As such, it is likely dangerous to take 2C-T-21 multiple days in a row as this poisonous metabolite will accumulate. Furthermore, sub-lethal doses may cause damage to tissue with high energy needs (e.g. the brain, gonads, heart, lungs, and fetus). This may account for the experience of a couple who became \"convinced that it is toxic\" in Stolaroff's book.<ref name=\":0\" />\n\nThere is no anecdotal evidence to suggest that a single, moderate dose of 2C-T-21 can cause negative health effects, although nothing can be guaranteed.\n\nIt is strongly discouraged to administer 2C-T-21 non-orally because this may cause vomiting, numerous negative side effects, or death at high doses.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]], such as [[volumetric dosing]], when using this substance to ensure the accurate administration of the intended dose.\n\n===Tolerance and addiction potential===\n2C-T-21 is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 2C-T-21 is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::7 days]] to be back at baseline (in the absence of further consumption). 2C-T-21 presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of 2C-T-21 all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\nIf 2C-T-21 does have [[MAOI]] effects as commonly speculated, this could indicate that 2C-T-21 is more likely to induce [[serotonin syndrome]] or general [[neurotransmitter]] overload (especially at high dosages) than other [[serotonergic psychedelic]]s.<ref>{{cite journal|title=Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors:  Biological Activities, CoMFA Analysis, and Active Site Modeling|doi=10.1021/jm0493109|pmid=15801832|url=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.689.281&rep=rep1&type=pdf|first1=A.|last1=Gallardo-Godoy|first2=A.|last2=Fierro|first3=T. H.|last3=McLean|first4=M.|last4=Castillo|first5=B. K.|last5=Cassels|first6=M.|last6=Reyes-Parada|first7=D. E.|last7=Nichols|author-link7=David E. Nichols|year=2005|volume=48|issue=7|pages=2407–2419|journal=Journal of Medicinal Chemistry|issn=0022-2623|eissn=1520-4804|oclc=39480771}}</ref> This may make it dangerous to combine it with other [[MAOI]]s, [[stimulant]]s and certain substances which releases neurotransmitters such as [[serotonin]] or [[dopamine]]. These substances include but are not limited to:\n{|\n|-\n|\n*'''[[5-MeO-MiPT]]'''\n*'''[[2C-T-2]]'''\n*'''[[2C-T-7]]'''\n*'''[[AMT]]'''\n*'''[[Ayahuasca]]'''\n*'''[[Harmala alkaloids]]'''\n*'''[[2-AI]]'''\n*'''[[2-FMA]]'''\n*'''[[3-FPM]]'''\n*'''[[4-FA]]'''\n*'''[[A-PVP]]'''\n*'''[[Amphetamine]]'''\n*'''[[Cocaine]]'''\n*'''[[Ethylphenidate]]'''\n||\n*'''[[N-Methylbisfluoromodafinil]]'''\n*'''[[Isopropylphenidate]]'''\n*'''[[MDAI]]'''\n*'''[[MDMA]]'''\n*'''[[Mephedrone]]'''\n*'''[[Methamphetamine]]'''\n*'''[[Methiopropamine]]'''\n*'''[[Methylone]]'''\n*'''[[Methylphenidate]]'''\n*'''[[Modafinil]]'''\n*'''[[Nicotine]]'''\n*'''[[NM-2-AI]]'''\n*'''[[Noopept]]'''\n|}\n\n==Legal status==\n{{LegalStub}}\n\n*'''Austria''': 2C-T-21 is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Canada''': As of October 31st, 2016; 2C-T-21 is a controlled substance (Schedule III) in Canada.<ref>{{cite journal|url=http://gazette.gc.ca/rp-pr/p2/2016/2016-05-04/html/sor-dors72-eng.php|title=Regulations Amending the Food and Drug Regulations (Part J — 2C-phenethylamines)|id=SOR/2016-72|issn=0045-4206|work=Canada Gazette Part II|volume=150|issue=9|publication-date=May 4, 2016|date=April 15, 2016|}}</ref>\n*'''Germany''': 2C-T-21 is controlled under the NpSG<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> (''New Psychoactive Substances Act'') as of November 26, 2016.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|pages=2615-2622|issn=0341-1095|oclc=1004462279|publisher=Bundesanzeiger Verlag|date=November 21, 2016|publication-date=November 25, 2016|language=de|work=Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55}}</ref> Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__3.html|title=§ 3 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> The legislator considers it possible that orders of 2C-T-21 are punishable as an incitement to place it on the market.<ref>{{cite web|url=http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf|title=Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|page=20|date=May 30, 2016|id=Drucksache 18/8579|publisher=Deutscher Bundestag|language=de}}</ref>\n*'''Switzerland''': 2C-T-21 can be considered a controlled substance as a defined derivative of Phenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': 2C-T-21 is a Class A drug in the United Kingdom as a result of the phenethylamine catch-all clause.<ref>{{cite web|title=Schedule 2: Part I: Class A Drugs|url=http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I|work=\"Misuse of Drugs Act 1971\"|access-date=August 20, 2020|publisher=UK Government}}</ref>\n*'''United States''': 2C-T-21 is technically not scheduled in the United States, but could be considered an analogue of 2C-T or 2C-T-7 and may therefore be considered a Schedule I drug under the Federal Analogue Act.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Research chemical]]\n*[[MAOI]]\n*[[2C-x]]\n*[[2C-T-7]]\n*[[2C-E]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/2C-T-21 2C-T-21 (Wikipedia)]\n*[https://erowid.org/chemicals/2ct21/ 2C-T-21 (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=49 2C-T-21 (PiHKAL / Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:2C-T-x]]\n[[Category:Research chemical]]"
+}

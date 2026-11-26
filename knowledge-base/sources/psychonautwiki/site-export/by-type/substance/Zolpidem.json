@@ -1,0 +1,345 @@
+{
+ "id": "psychonautwiki:10300",
+ "type": "substance",
+ "title": "Zolpidem",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Zolpidem",
+  "pageid": 10300,
+  "last_edited": "2026-03-12T13:01:42Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "GABAergic hallucinogens",
+  "Hallucinogen",
+  "Imidazopyridine"
+ ],
+ "substance_box_template": "SubstanceBox/Zolpidem",
+ "substance_box": {
+  "names": {
+   "common": "Ambien, Intermezzo, Edluar, Zolpimist",
+   "substitutive": "Zolpidem",
+   "systematic": "N,N-dimethyl-2-(6-methyl-2-p-tolylimidazo[1,2-a]pyridin-3-yl)acetamide"
+  },
+  "classes": {
+   "psychoactive": "Depressant / Hallucinogen",
+   "chemical": "Imidazopyridine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "This dosage information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 - 20 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1 - 1.5 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ambien",
+    "Intermezzo",
+    "Edluar",
+    "Zolpimist"
+   ],
+   "psychoactive class": [
+    "Depressant",
+    "Hallucinogen"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "5"
+   ],
+   "Oral max onset time": [
+    "20"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "1.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "4"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "Zolpidem",
+   "clean": "Zolpidem"
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Zolpidem",
+   "clean": "Molecular structure of Zolpidem"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Zolpidem.svg",
+   "clean": "File:Zolpidem.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name:: Ambien]], [[common name::Intermezzo]], [[common name::Edluar]], [[common name::Zolpimist]]",
+   "clean": "Ambien, Intermezzo, Edluar, Zolpimist"
+  },
+  "NameSubstitution": {
+   "raw": "Zolpidem",
+   "clean": "Zolpidem"
+  },
+  "NameSystematic": {
+   "raw": "N,N-dimethyl-2-(6-methyl-2-p-tolylimidazo[1,2-a]pyridin-3-yl)acetamide",
+   "clean": "N,N-dimethyl-2-(6-methyl-2-p-tolylimidazo[1,2-a]pyridin-3-yl)acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]] / [[psychoactive class::Hallucinogen]]",
+   "clean": "Depressant / Hallucinogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[Imidazopyridine]]",
+   "clean": "Imidazopyridine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "<br>'''This dosage information has been sourced from [http://drugs.tripsit.me/zolpidem TripSit]'''",
+   "clean": "This dosage information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::30]] mg",
+   "clean": "20 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::20]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::1.5]] [[Oral peak time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::4]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  }
+ },
+ "plain_text": "Zolpidem (also known as Ambien, Intermezzo, Edluar, Stilnoct, Stilnox, Zolpimist, and others) is a non-benzodiazepine hypnotic of the imidazopyridine chemical class which is primarily used in the treatment of insomnia. \n\nWhen taken at recreational doses, it reportedly produces powerful and notoriously bizarre atypical hallucinogenic, dissociative, deliriant and even psychedelic effects.\n\nZolpidem is a member of a family colloquially known as a \"Z-drug.\" Other Z-drugs include zaleplon (Sonata) and zopiclone (Imovane). These drugs were initially thought to be less addictive and/or habit-forming than benzodiazepines. However, this evaluation has shifted  in the last few years as cases of addiction and habituation have accumulated. \n\nZolpidem should not be taken on a full stomach and it is recommended on a short-term basis only. Daily or continuous use of the drug is not usually advised.\n\nChemistry\n\nZolpidem is a hypnotic nonbenzodiazepine drug of the imidazopyridine class. This class of drugs is named for having an imidazole constituent, a five-membered ring with two non-adjacent nitrogen constituents fused to a pyridine ring, a six-membered nitrogenous ring which shares a nitrogen with the imidazole group. \n\nGABAA-agonizing imidazopyridines such as zolpidem are often grouped with pyrazolopyrimidines, and cyclopyrrones under the label \"nonbenzodiazepines\" for their similar effects.\n\nThree syntheses of zolpidem are common. 4-methylacetophenone is used as a common precursor. This is brominated and reacted with 2-amino-5-methylpyridine to give the imidazopyridine. From here the reactions use a variety of reagents to complete the synthesis, either involving thionyl chloride or sodium cyanide. These reagents are challenging to handle and require thorough safety assessments. Though such safety procedures are common in industry, they make clandestine manufacture difficult.\n\nA number of major side-products of the sodium cyanide reaction have been characterised and include dimers and mannich products.\n\nPharmacology\n\nZolpidem interacts with the GABA-BZ receptor system and shares some of the pharmacological properties of traditional benzodiazepines. \n\nIn contrast to benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes among others, zolpidem binds to the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits. It's this selective binding in comparison to traditional benzodiazepines that gives zolpidem very weak anxiolytic, muscle relaxant, and anticonvulsant properties but very strong hypnotic or sedative properties.\n\nAs the GABA site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming) effects of zolpidem on the nervous system.\n\nIn regards to how the consumption of this compound results in its bizarre hallucinations, the pharmacological mechanics behind this are not understood and do not seem to have been directly studied. It is worth noting, however, that zolpidem impact on regional activity may overlap with that of other hallucinogenic GABAergic drugs such as muscimol, the active compound within the hallucinogenic amanita muscaria mushroom.\n\nSubjective effects\n\nThe subjective effects of zolpidem seem to vary wildly between individuals with certain users experiencing a complete lack of hallucinations whilst others experience them even at lower dosages. Generally, a recreational zolpidem dose has features comparable to DXM, DPH, alprazolam and psilocin. It is also quite similar to the hallucinogen amanita muscaria.\n\nIt contains many of the physical and cognitive effects of benzodiazepines with a moderately dissociated headspace most similar to that of DXM. This occurs alongside bizarre thought patterns and external hallucinations similar to those of deliriants and visual distortions most similar to those of psychedelics. Overall, this makes zolpidem an extremely unique and unpredictable hallucinogen which it is strongly recommended to have a trip sitter.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Zolpidem\n\nToxicity and harm potential\n\nZolpidem has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nZolpidem has been reported to cause psychosis, delusions and delirium at a significantly higher rate than other hallucinogens like LSD, ketamine, or DMT. There are a large number of experience reports online which describe states of delirium, amnesia, bizarre behavior, sleep walking, driving while impaired and other serious consequences after abusing the drug. In many cases this has resulted in hospitalization, arrests, car crashes, lengthy court cases and even death. \n\nIt is strongly recommended that one use harm reduction practices and have a trip sitter when using this drug.\n\nTolerance and addiction potential\n\nZolpidem is moderately addictive. A review of 36 human case reports found that reported dependence to zolpidem was lower than that of benzodiazepines. \n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from zolpidem in a controlled manner, please see this guide while keeping in mind it is intended for benzodiazepines.\n\nAlthough dependence builds up more slowly than in benzodiazepines, discontinuation from regular recreational doses of zolpidem appear to be as difficult as  benzodiazepine discontinuation; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids, benzodiazepines)- This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine zolpidem with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of zolpidem, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of zolpidem will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of zolpidem every few hours at minimum. This combination can also potentially result in severe dehydration if hydration is not monitored. Furthermore, zolpidem is known to  cause an Increased heart rate or an Abnormal heartbeat, which could lead to even more cardiovascular problems.\n\nLegal status\n\nInternationally, zolpidem is a Schedule IV substance under the Convention on Psychotropic Substances.\n\n*Australia: Zolpidem is only available by prescription.\n*Canada: Zolpidem is only available by prescription.\n*China: Zolpidem is a controlled Class II psychotropic substances. Prescriptions for psychotropic substances in Class II are generally limited to a 7-day supply.\n*Germany: Zolpidem is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form. There is an exception for oral preperations, containing up to 8,5mg zolpidem per unit, which can be prescribed on a regular prescription form.\n*Netherlands: Zolpidem is only available by prescription.\n*Russia: In Russia, since 2013, zolpidem is a Schedule III controlled substance.\n*Switzerland: Zolpidem is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*The Netherlands: Zolpidem is a List 2 substance of the Opium Law.\n*United Kingdom: Zolpidem has been a class C drug in the UK since 2003. It is illegal to possess (without a legitimate prescription), supply, produce or import.\n*United States: Zolpidem is listed as a Schedule IV drug due to evidence that the drug has addictive properties similar to benzodiazepines.\n\nSee also\n\n*Responsible use\n*Hallucinogens\n*Deliriants\n*Zopiclone\n\nExternal links\n\n*Zolpidem (Wikipedia)\n*Zolpidem (Erowid Vault)\n*Zolpidem (Isomer Design)\n*Zolpidem (DrugBank)\n*Zolpidem (Drugs.com)\n*The Ambien Walrus Collection\n\nReferences\n\nCategory:Imidazopyridine\nCategory:Depressant\nCategory:Hallucinogen\nCategory:GABAergic hallucinogens",
+ "wikitext": "{{headerpanel|{{DepressantOD|GABAergics}}}}\n{{SummarySheet}}\n{{SubstanceBox/Zolpidem}}\n\n'''Zolpidem '''(also known as '''Ambien''', '''Intermezzo''', '''Edluar''', '''Stilnoct''', '''Stilnox''', '''Zolpimist'''<ref name=\":0\">http://www.drugs.com/zolpidem.html | Zolpidem (Drugs.com)</ref>, and others) is a non-[[benzodiazepine]] [[hypnotic]] of the [[chemical class::imidazopyridine]] chemical class which is primarily used in the treatment of [[insomnia]].<ref name=\":0\" /><ref>{{cite journal | vauthors=((Du, B.)), ((Shan, A.)), ((Zhong, X.)), ((Zhang, Y.)), ((Chen, D.)), ((Cai, K.)) | journal=The American Journal of the Medical Sciences | title=Zolpidem Arouses Patients in Vegetative State After Brain Injury: Quantitative Evaluation and Indications | volume=347 | issue=3 | pages=178–182 | date= March 2014 | url=https://linkinghub.elsevier.com/retrieve/pii/S0002962915303827 | issn=00029629 | doi=10.1097/MAJ.0b013e318287c79c}}</ref> \n\nWhen taken at recreational doses, it reportedly produces powerful and notoriously bizarre atypical [[psychoactive class::hallucinogen]]ic, [[dissociative]], [[deliriant]] and even [[psychedelic]] effects.\n\nZolpidem is a member of a family colloquially known as a \"Z-drug.\" Other Z-drugs include [[zaleplon]] (''Sonata'') and [[zopiclone]] (Imovane). These drugs were initially thought to be less addictive and/or habit-forming than benzodiazepines. However, this evaluation has shifted  in the last few years as cases of addiction and habituation have accumulated.{{citation needed}} \n\nZolpidem should not be taken on a full stomach and it is recommended on a short-term basis only. Daily or continuous use of the drug is not usually advised.\n\n==Chemistry==\nZolpidem is a hypnotic nonbenzodiazepine drug of the [[chemical class::imidazopyridine]] class. This class of drugs is named for having an imidazole constituent, a five-membered ring with two non-adjacent nitrogen constituents fused to a pyridine ring, a six-membered nitrogenous ring which shares a nitrogen with the imidazole group. \n\nGABA<sub>A</sub>-agonizing imidazopyridines such as zolpidem are often grouped with pyrazolopyrimidines, and cyclopyrrones under the label \"nonbenzodiazepines\" for their similar effects.\n\nThree syntheses of zolpidem are common. 4-methylacetophenone is used as a common precursor. This is brominated and reacted with 2-amino-5-methylpyridine to give the imidazopyridine. From here the reactions use a variety of reagents to complete the synthesis, either involving thionyl chloride or sodium cyanide. These reagents are challenging to handle and require thorough safety assessments.<ref>{{cite book | veditors=((Johnson, D. S.)), ((Li, J. J.)) | date= 2007 | title=The art of drug synthesis | publisher=Wiley-Interscience | isbn=9780471752158}}</ref> Though such safety procedures are common in industry, they make clandestine manufacture difficult.\n\nA number of major side-products of the sodium cyanide reaction have been characterised and include dimers and mannich products.<ref>{{cite journal | vauthors=((Sumalatha, Y.)), ((Reddy, P. P.)), ((Reddy, R.)), ((Satyanarayana, B.)) | journal=Arkivoc | title=Synthesis and spectral characterization of zolpidem related substances - hypnotic agent | volume=2009 | issue=7 | pages=143–149 | date=7 April 2009 | url=https://www.arkat-usa.org/arkivoc-journal/browse-arkivoc/ark.5550190.0010.714 | issn=1551-7012 | doi=10.3998/ark.5550190.0010.714}}</ref>\n\n==Pharmacology==\nZolpidem interacts with the [[GABA]]-BZ [[receptor]] system<ref>{{cite journal | vauthors=((Kovacic, P.)), ((Somanathan, R.)) | journal=Oxidative Medicine and Cellular Longevity | title=Zolpidem, a clinical hypnotic that affects electronic transfer, alters synaptic activity through potential GABA receptors in the nervous system without significant free radical generation | volume=2 | issue=1 | pages=52–57 | date= 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763231/ | issn=1942-0900}}</ref> and shares some of the pharmacological properties of traditional [[benzodiazepines]]. \n\nIn contrast to benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes among others, zolpidem binds to the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits. It's this selective binding in comparison to traditional benzodiazepines that gives zolpidem very weak [[anxiolytic]], [[muscle relaxant]], and [[anticonvulsant]] properties but very strong [[hypnotic]] or [[sedative]] properties.<ref>{{cite journal | vauthors=((Salvà, P.)), ((Costa, J.)) | journal=Clinical Pharmacokinetics | title=Clinical pharmacokinetics and pharmacodynamics of zolpidem. Therapeutic implications | volume=29 | issue=3 | pages=142–153 | date= September 1995 | issn=0312-5963 | doi=10.2165/00003088-199529030-00002}}</ref>\n\nAs the GABA site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming)]] effects of zolpidem on the nervous system.\n\nIn regards to how the consumption of this compound results in its bizarre hallucinations, the pharmacological mechanics behind this are not understood and do not seem to have been directly studied. It is worth noting, however, that zolpidem impact on regional activity may overlap with that of other hallucinogenic GABAergic drugs such as [[muscimol]], the active compound within the hallucinogenic [[amanita muscaria]] mushroom.\n\n==Subjective effects==\nThe subjective effects of zolpidem seem to vary wildly between individuals with certain users experiencing a complete lack of hallucinations whilst others experience them even at lower dosages. Generally, a recreational zolpidem dose has features comparable to [[DXM]], [[DPH]], [[alprazolam]] and [[psilocin]]. It is also quite similar to the hallucinogen [[amanita muscaria]].\n\nIt contains many of the physical and cognitive effects of [[benzodiazepines]] with a moderately [[dissociative#subjective effects|dissociated]] headspace most similar to that of [[DXM]]. This occurs alongside bizarre thought patterns and [[external hallucinations]] similar to those of [[deliriants]] and [[visual distortions]] most similar to those of [[psychedelics]]. Overall, this makes zolpidem an extremely unique and unpredictable [[hallucinogen]] which it is strongly recommended to have a [[trip sitter]].\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\nThe physical effects of zolpidem are almost identical to that of [[benzodiazepines]] such as [[alprazolam]], although with less intensive [[muscle relaxation]]. They can be broken down into several components. \n\nThese are described below and generally include:\n* '''[[Effect::Sedation]]''' - The sedation present within this compound is significantly stronger than that of other [[GABAergic]] [[depressant]] when proportionally compared to their other effects. This is why zolpidem is commonly prescribed as a sleep aid to those who struggle with insomnia.\n*'''[[Effect::Physical euphoria]]''' - This manifests itself as a warm, soft glow which emanates from the center of the user's body.\n*'''[[Effect::Appetite enhancement]]''' - Many users of zolpidem report binge eating bizarre mixtures of various foods while they are \"asleep\" with little or no memory of the activity upon waking up.<ref>{{Citation | vauthors=((DeNoon, D. J.)) | title=Ambien Linked to “Sleep Eating” | url=https://www.webmd.com/sleep-disorders/news/20060315/ambien-linked-to-sleep-eating}}</ref> This likely occurs as a result of zolpidem's cognitive effects such as [[disinhibition]] and [[amnesia]].\n*'''[[Effect::Changes in felt gravity]]''' - This is not as strong or apparent as it is with [[dissociatives]] or [[salvia]].\n*'''[[Effect::Gustatory hallucination]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Nausea]]''' - At moderate to heavy dosages, a slight discomfort may be felt in the stomach. This will go away once the user has vomited.\n* '''[[Effect::Muscle relaxation]]''' - Although muscle relaxation is definitely present, it usually only manifests itself at heavier dosages and is significantly weaker than that of benzodiazepines.\n* '''[[Effect::Motor control loss]]'''\n* '''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Increased heart rate]]''' - Zolpidem can increase heart rate.{{citation needed}}\n*'''[[Effect::Increased blood pressure]]''' - Zolpidem can increase blood pressure.{{citation needed}}\n*'''[[Effect::Tactile hallucination]]'''\n\n}}\n{{effects/disconnective|\n\n*'''[[Effect::Visual disconnection]]''' - This effect is only present at moderate to heavy recreational dosages and is comparable to that of a [[dissociatives]] such as [[DXM]] and [[ketamine]]. It commonly results in feeling as if one's sense of vision is distant or vague and being viewed through a screen or window. However, it is not capable of higher end visual disconnection such as [[holes, spaces and voids]] or [[Visual_disconnection#Structures|hallucinatory structures]] in the same way that traditional dissociatives are. This is likely due to the way in which zolpidem's sedative effects render the user unconscious at dosages far lower than one could consume to reach such a state.\n*'''[[Effect::Consciousness disconnection]]''' - This effect is only present at moderate to heavy recreational dosages and is comparable to that of [[dissociative]]s such as [[DXM]] and [[ketamine]]. However, it is not capable of higher end cognitive disconnection in the same way that dissociatives are. This is likely due to the way in which zolpidem's sedative effects render the user unconscious at dosages far lower than one could consume to reach such a state.\n\n}}\n{{effects/visual|\nThe visual effects of zolpidem are comparable to that of certain aspects [[deliriants]], [[dissociatives]] and [[psychedelics]]. At lower dosages, these effects manifest as simple [[visual suppressions]] but at higher doses, they may escalate into full-blown complex hallucinatory states of a bizarre and unique nature. \n\n*'''[[Effect::Acuity suppression]]'''\n**'''[[Effect::Visual snow]]'''\n*'''[[Effect::After images]]''' - These may spontaneously develop in peripheral vision.\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Double vision]]''' - Double vision produced by zolpidem may apply to the whole field of view or alternatively on single or multiple objects only, sometimes alongside [[transformations]].\n*'''[[Effect::Magnification]]'''\n*'''[[Effect::Object activation]]'''\n*'''[[Effect::Object alteration]]'''\n*'''[[Effect::Peripheral information misinterpretation]]'''\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Visual acuity suppression|Acuity suppression]]'''\n*'''[[Effect::Drifting]]''' - At heavier dosages, this compound may induce the experience of scenery, walls, objects and people appearing to melt and distort in a manner which is comparable to traditional [[psychedelic]]s such as [[psilocin]] or [[LSD]].\n*'''[[Effect::Geometry]]''' - The geometry produced by zolpidem shares similarities with [[DXM]] and generally shifts between jitteriness and static.\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  The internal hallucinations present on this compound can be described as vivid dream-like states similar in style to that of [[deliriants]]. This effect typically occurs briefly and spontaneously at moderate dosages but becomes progressively extended in its occurrence and duration proportional to dosage consumed before eventually becoming all-encompassing. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, interactive in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style. \n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other classes of [[hallucinogen]], this effect exclusively occurs at heavy dosages and is comparable to [[deliriant]]s such as [[DPH]] and [[datura]]. This effect can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, autonomous in controllability and solid in style. The most common themes for these hallucinations include those of both everyday occurrences such as talking to people who are not there and impossible occurrences such as inanimate objects coming to life or [[shadow people]].\n*'''[[Effect::Shadow people]]'''\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of zolpidem are comparable to that of [[benzodiazepines]] although with less intensive [[anxiety suppression]]. At heavier more recreational dosages, additional effects which are usually associated with deliriants may become present. These include [[thought disorganization]] and [[delusions]]. The specific effects can be broken down into several components. \n\nThese are described below and generally include: \n\n*'''[[Effect::Amnesia]]''' - The amnesia following zolpidem varies greatly between people with some people not experiencing this effect as much while others experience complete blackouts for extended periods of time even at low or therapeutic dosages. There have been many cases of bizarre behavior where people can't recall the entire event.\n*'''[[Effect::Anxiety suppression]]''' - Although anxiety suppression is definitely present, it usually only manifests itself at heavier dosages and is significantly weaker than that of benzodiazepines.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Psychosis]]'''\n*'''[[Effect::Delusion]]'''<ref>{{Citation | title=Ambien, delusions, and violence: Is there a link?, Psychology Today | url=https://www.psychologytoday.com/us/blog/the-measure-madness/201005/ambien-delusions-and-violence-is-there-link}}</ref><ref>{{Citation | title=Side Effects of Ambien (Zolpidem Tartrate), Warnings, Uses | url=https://www.rxlist.com/ambien-side-effects-drug-center.htm}}</ref> - At heavier dosages, this effect may become present in a manner which is comparable to traditional deliriants. It is often accompanied by [[external hallucinations]] which tend to reinforce one's belief of the delusion.\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages. Experience reports indicate that zolpidem may provoke these delusions in equal or greater strength than benzodiazepines.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Emotion enhancement]]''' - Some users report increased emotions and empathy with zolpidem, especially happiness and sadness.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This effect is far not as strong as with entactogens like [[MDMA]] and [[2C-B]] but is delirious in nature.\n*'''[[Effect::Laughter]]''' \n*'''[[Effect::Mania]]'''\n*'''[[Effect::Déjà vu]]''' - Spontaneous memory replays integrate into the thought patterns and produce a strong sense of déjà vu.\n*'''[[Effect::Confusion]]'''\n*'''[[Effect::Increased music appreciation]]''' \n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Language suppression]]''' - At heavier dosages of zolpidem, one may find that they have a distinct difficulty vocalizing their thoughts in a coherent manner.\n*'''[[Effect::Memory suppression|Short-term memory suppression]]''' - At heavier dosages, many users find that they cannot recall things from 10 or 30 seconds ago due to suppression of their short-term memory. This can potentially lead to confusion, repetitive behaviour and [[thought loops]].\n*'''[[Effect::Sleepiness]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought disorganization]]''' - This effect is present at heavier dosages and tends to synergise with disinihibition and delusions in a manner which results in bizarre decision-making processes or thought processes which are often out of character and make little to no sense once the user has sobered up from the experience.\n*'''[[Effect::Time distortion]]''' - Similar to [[benzodiazepines]], time may feel like it passes quicker than usual.\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory hallucination]]''' - At heavier dosages, one may experience the perception of imagined sounds such as voices or music, sometimes incorporated into ambient sounds or music. These are often accompanied by [[external hallucinations]] and [[delusions]].\n*'''[[Effect::Auditory enhancement]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Zolpidem]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Zolpidem.shtml Erowid Experience Vaults: Zolpidem]\n\n==Toxicity and harm potential==\n{{Further|Responsible use#Hallucinogens}}\nZolpidem has a [[Toxicity::low toxicity]] relative to dose.<ref>{{Citation | vauthors=PubChem | title=Zolpidem | url=https://pubchem.ncbi.nlm.nih.gov/compound/5732}}</ref>  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nZolpidem has been reported to cause [[psychosis]], [[delusions]] and delirium at a significantly higher rate than other [[hallucinogens]] like [[LSD]], [[ketamine]], or [[DMT]]. There are a large number of experience reports online which describe states of delirium, amnesia, bizarre behavior,<ref>/r/ambien (reddit) | https://www.reddit.com/r/ambien/top/</ref> sleep walking,<ref name=\"Hoque2009\">{{cite journal | vauthors=((Hoque, R.)), ((Chesson, A. L.)) | journal=Journal of Clinical Sleep Medicine : JCSM : Official Publication of the American Academy of Sleep Medicine | title=Zolpidem-Induced Sleepwalking, Sleep Related Eating Disorder, and Sleep-Driving: Fluorine-18-Flourodeoxyglucose Positron Emission Tomography Analysis, and a Literature Review of Other Unexpected Clinical Effects of Zolpidem | volume=5 | issue=5 | pages=471–476 | date=15 October 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2762721/ | issn=1550-9389}}</ref> driving while impaired<ref name=\"Hoque2009\" /><ref>http://www.nhcriminaldefense.com/auto_accident_injury.html</ref> and other serious consequences after abusing the drug. In many cases this has resulted in hospitalization, arrests,<ref>{{Citation | title=Passengers recount horror as Air Force vet threatens to bring down transatlantic Delta flight | url=https://www.nydailynews.com/news/national/passengers-recount-horror-air-force-vet-threatens-bring-transatlantic-delta-flight-article-1.169677}}</ref> car crashes,<ref>{{Citation | vauthors=((News, A. B. C.)) | title=Kerry Kennedy Says Ambien “Overtook” Her, Causing Car Crash | url=https://abcnews.go.com/US/kerry-kennedy-ambien-overtook-causing-car-crash/story?id=22679672}}</ref> lengthy court cases and even death.<ref>{{Citation | year=2014 | title=The Disturbing Side Effect Of The No. 1 Prescription Sleep Aid | url=https://www.huffpost.com/entry/ambien-side-effect-sleepwalking-sleep-aid_n_4589743}}</ref> \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] and have a [[trip sitter]] when using this drug.\n\n===Tolerance and addiction potential===\nZolpidem is [[Addiction potential::moderately addictive]]. A review of 36 human case reports found that reported dependence to zolpidem was lower than that of benzodiazepines.<ref>{{cite journal | vauthors=((Hajak, G.)), ((Müller, W. E.)), ((Wittchen, H. U.)), ((Pittrow, D.)), ((Kirch, W.)) | journal=Addiction | title=Abuse and dependence potential for the non-benzodiazepine hypnotics zolpidem and zopiclone: a review of case reports and epidemiological data: Abuse and dependence of zolpidem and zopiclone | volume=98 | issue=10 | pages=1371–1378 | date= October 2003 | url=http://doi.wiley.com/10.1046/j.1360-0443.2003.00491.x | issn=09652140 | doi=10.1046/j.1360-0443.2003.00491.x}}</ref> \n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.<ref name=\"Sethi2005\">{{cite journal | vauthors=((Sethi, P. K.)), ((Khandelwal, D. C.)) | journal=The Journal of the Association of Physicians of India | title=Zolpidem at supratherapeutic doses can cause drug abuse, dependence and withdrawal seizure | volume=53 | pages=139–140 | date= February 2005 | issn=0004-5772}}</ref> For more information on tapering from zolpidem in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide] while keeping in mind it is intended for benzodiazepines.\n\nAlthough dependence builds up more slowly than in benzodiazepines, discontinuation from regular recreational doses of zolpidem appear to be as difficult as  [[Benzodiazepine#Discontinuation|benzodiazepine discontinuation]];<ref name=\"Sethi2005\" /> it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of [[hypertension]], [[seizures]], and death.<ref>{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> Drugs which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]], [[benzodiazepines]]'')- This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  It is dangerous to combine zolpidem with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of zolpidem, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of zolpidem will be significantly increased, leading to intensified [[disinhibition]] as well as [[Zolpidem#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of zolpidem every few hours at minimum. This combination can also potentially result in severe dehydration if hydration is not monitored. Furthermore, zolpidem is known to  cause an [[Increased heart rate]] or an [[Abnormal heartbeat]], which could lead to even more cardiovascular problems.\n\n==Legal status==\nInternationally, zolpidem is a Schedule IV substance under the Convention on Psychotropic Substances.<ref>{{cite web|archive-url=http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf|url=http://www.incb.org/pdf/e/list/green.pdf|archive-date=March 2, 2007|title=List of psychotropic substances under international control (Green List)|edition=23rd|date=August 2003|publisher=International Narcotics Control Board (INCB)}}</ref>\n\n*'''Australia:''' Zolpidem is only available by prescription.{{citation needed}}\n*'''Canada:''' Zolpidem is only available by prescription.{{citation needed}}\n*'''China:''' Zolpidem is a controlled Class II psychotropic substances.<ref>《麻醉药品和精神药品品种目录（2023版）》-国有资产管理处 (tjnu.edu.cn)</ref> Prescriptions for psychotropic substances in Class II are generally limited to a 7-day supply.<ref>卫生部关于印发《麻醉药品、精神药品处方管理规定》的通知　　麻醉药品、精神药品处方管理规定__2006年第28号国务院公报_中国政府网 (www.gov.cn)</ref>\n*'''Germany:''' Zolpidem is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form. There is an exception for oral preperations, containing up to 8,5mg zolpidem per unit, which can be prescribed on a regular prescription form.<ref>{{Citation | title=Anlage III BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html}}</ref>\n*'''Netherlands:''' Zolpidem is only available by prescription.{{citation needed}}\n*'''Russia:''' In Russia, since 2013, zolpidem is a Schedule III controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100002&date=02.12.2019}}</ref>\n*'''Switzerland''': Zolpidem is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''The Netherlands''': Zolpidem is a List 2 substance of the Opium Law.<ref>{{Citation|title=Opiumwet, Lijst II (Dutch) | year=2023|url=https://wetten.overheid.nl/BWBR0001941/2023-09-12#BijlageII}}</ref>\n*'''United Kingdom:''' Zolpidem has been a class C drug in the UK since 2003.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Modification) Order 2003 | url=https://www.legislation.gov.uk/uksi/2003/1243/contents/made}}</ref> It is illegal to possess (without a legitimate prescription), supply, produce or import.{{citation needed}}\n*'''United States:''' Zolpidem is listed as a Schedule IV drug due to evidence that the drug has addictive properties similar to [[benzodiazepines]].{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Hallucinogens]]\n*[[Deliriants]]\n*[[Zopiclone]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Zolpidem Zolpidem (Wikipedia)]\n*[https://www.erowid.org/pharms/zolpidem/zolpidem.shtml Zolpidem (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3360 Zolpidem (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00425 Zolpidem (DrugBank)]\n*[https://www.drugs.com/zolpidem.html Zolpidem (Drugs.com)]\n*[http://ambien.blogspot.com/2010/12/ambien-walrus-collection.html The Ambien Walrus Collection]\n\n==References==\n{{reflist|2}}\n\n[[Category:Imidazopyridine]]\n[[Category:Depressant]]\n[[Category:Hallucinogen]]\n[[Category:GABAergic hallucinogens]]\n\n{{#set:Featured=true}}"
+}

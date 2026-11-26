@@ -1,0 +1,1233 @@
+{
+ "id": "psychonautwiki:11736",
+ "type": "substance",
+ "title": "DMT ingestion methods",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/DMT_ingestion_methods",
+  "pageid": 11736,
+  "last_edited": "2023-01-29T20:23:00Z"
+ },
+ "categories": [
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/DMT",
+ "substance_box": {
+  "names": {
+   "common": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule",
+   "substitutive": "N,N-Dimethyltryptamine",
+   "systematic": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60+ mg",
+    "duration": "5 - 20 minutes",
+    "onset": "20 - 40 seconds",
+    "comeup": "1 - 3 minutes",
+    "peak": "2 - 8 minutes",
+    "offset": "1 - 6 minutes",
+    "aftereffects": "10 - 60 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "30 - 60 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "10 - 20 minutes",
+    "offset": "20 - 40 minutes",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "15 - 30 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "2 - 5 minutes",
+    "offset": "10 - 20 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "DMT",
+    "N,N-DMT",
+    "Dmitry",
+    "The Glory",
+    "The Spirit Molecule"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Tryptamine"
+   ],
+   "Smoked threshold dose": [
+    "2"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "10"
+   ],
+   "Smoked max light dose": [
+    "20"
+   ],
+   "Smoked min common dose": [
+    "20"
+   ],
+   "Smoked max common dose": [
+    "40"
+   ],
+   "Smoked min strong dose": [
+    "40"
+   ],
+   "Smoked max strong dose": [
+    "60"
+   ],
+   "Smoked heavy dose": [
+    "60"
+   ],
+   "Smoked min total time": [
+    "5"
+   ],
+   "Smoked max total time": [
+    "20"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "20"
+   ],
+   "Smoked max onset time": [
+    "40"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "1"
+   ],
+   "Smoked max comeup time": [
+    "3"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "8"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "6"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "10"
+   ],
+   "Smoked max afterglow time": [
+    "60"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Intramuscular threshold dose": [
+    "4"
+   ],
+   "Intramuscular dose units": [
+    "mg"
+   ],
+   "Intramuscular min light dose": [
+    "4"
+   ],
+   "Intramuscular max light dose": [
+    "10"
+   ],
+   "Intramuscular min common dose": [
+    "10"
+   ],
+   "Intramuscular max common dose": [
+    "15"
+   ],
+   "Intramuscular min strong dose": [
+    "15"
+   ],
+   "Intramuscular max strong dose": [
+    "20"
+   ],
+   "Intramuscular heavy dose": [
+    "20"
+   ],
+   "Intramuscular min total time": [
+    "30"
+   ],
+   "Intramuscular max total time": [
+    "60"
+   ],
+   "Intramuscular total time units": [
+    "minutes"
+   ],
+   "Intramuscular min onset time": [
+    "2"
+   ],
+   "Intramuscular max onset time": [
+    "10"
+   ],
+   "Intramuscular onset time units": [
+    "seconds"
+   ],
+   "Intramuscular min comeup time": [
+    "70"
+   ],
+   "Intramuscular max comeup time": [
+    "100"
+   ],
+   "Intramuscular comeup time units": [
+    "seconds"
+   ],
+   "Intramuscular min peak time": [
+    "10"
+   ],
+   "Intramuscular max peak time": [
+    "20"
+   ],
+   "Intramuscular peak time units": [
+    "minutes"
+   ],
+   "Intramuscular min offset time": [
+    "20"
+   ],
+   "Intramuscular max offset time": [
+    "40"
+   ],
+   "Intramuscular offset time units": [
+    "minutes"
+   ],
+   "Intravenous threshold dose": [
+    "4"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "4"
+   ],
+   "Intravenous max light dose": [
+    "10"
+   ],
+   "Intravenous min common dose": [
+    "10"
+   ],
+   "Intravenous max common dose": [
+    "15"
+   ],
+   "Intravenous min strong dose": [
+    "15"
+   ],
+   "Intravenous max strong dose": [
+    "20"
+   ],
+   "Intravenous heavy dose": [
+    "20"
+   ],
+   "Intravenous min total time": [
+    "15"
+   ],
+   "Intravenous max total time": [
+    "30"
+   ],
+   "Intravenous total time units": [
+    "minutes"
+   ],
+   "Intravenous min onset time": [
+    "2"
+   ],
+   "Intravenous max onset time": [
+    "10"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "70"
+   ],
+   "Intravenous max comeup time": [
+    "100"
+   ],
+   "Intravenous comeup time units": [
+    "seconds"
+   ],
+   "Intravenous min peak time": [
+    "2"
+   ],
+   "Intravenous max peak time": [
+    "5"
+   ],
+   "Intravenous peak time units": [
+    "minutes"
+   ],
+   "Intravenous min offset time": [
+    "10"
+   ],
+   "Intravenous max offset time": [
+    "20"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N,N-Dimethyltryptamine.",
+   "clean": "Molecular structure of N,N-Dimethyltryptamine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:DMT.svg",
+   "clean": "File:DMT.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::DMT]], [[common name::N,N-DMT]], [[common name::Dmitry]], [[common name::The Glory]], [[common name::The Spirit Molecule]]",
+   "clean": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule"
+  },
+  "NameSubstitution": {
+   "raw": "N,N-Dimethyltryptamine",
+   "clean": "N,N-Dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine",
+   "clean": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2]] [[Smoked dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::10]] - [[Smoked max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::20]] - [[Smoked max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::40]] - [[Smoked max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::60]]+ mg",
+   "clean": "60+ mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::5]] - [[Smoked max total time::20]] [[Smoked total time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::20]] - [[Smoked max onset time::40]] [[Smoked onset time units::seconds]]",
+   "clean": "20 - 40 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::1]] - [[Smoked max comeup time::3]] [[Smoked comeup time units::minutes]]",
+   "clean": "1 - 3 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::8]] [[Smoked peak time units::minutes]]",
+   "clean": "2 - 8 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::6]] [[Smoked offset time units::minutes]]",
+   "clean": "1 - 6 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::10]] - [[Smoked max afterglow time::60]] [[Smoked afterglow time units::minutes]]",
+   "clean": "10 - 60 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "[[Intramuscular threshold dose::4]] [[Intramuscular dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Intramuscular min light dose::4]] - [[Intramuscular max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Intramuscular min common dose::10]] - [[Intramuscular max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Intramuscular min strong dose::15]] - [[Intramuscular max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Intramuscular heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Intramuscular min total time::30]] - [[Intramuscular max total time::60]] [[Intramuscular total time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Intramuscular min onset time::2]] - [[Intramuscular max onset time::10]] [[Intramuscular onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Intramuscular min comeup time::70]] - [[Intramuscular max comeup time::100]] [[Intramuscular comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Intramuscular min peak time::10]] - [[Intramuscular max peak time::20]] [[Intramuscular peak time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Intramuscular min offset time::20]] - [[Intramuscular max offset time::40]] [[Intramuscular offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::4]] [[Intravenous dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::4]] - [[Intravenous max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::10]] - [[Intravenous max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::15]] - [[Intravenous max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::15]] - [[Intravenous max total time::30]] [[Intravenous total time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::2]] - [[Intravenous max onset time::10]] [[Intravenous onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::70]] - [[Intravenous max comeup time::100]] [[Intravenous comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::2]] - [[Intravenous max peak time::5]] [[Intravenous peak time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::10]] - [[Intravenous max offset time::20]] [[Intravenous offset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "__NOTOC__\n\nDMT in its pure form must be administered either by vaporization or smoking. This article covers a variety of different techniques which one can use to ingest DMT via inhalation.\n\nVaporization\n\nOil burner/Freebase pipe\n\nIn an oil burner or freebase pipe, sometimes referred to as a meth pipe, DMT crystals are placed in the bulb, then a heat source is used to heat up the glass and vaporize the DMT via conduction. The resulting vapor is then inhaled and held in the lungs for a 10-20 second period to allow for maximum absorption.\n\nGlass Vapor Genie (GVG)\n\nOften referred to as one of the most efficient and easy ways to ingest DMT, the Glass Vapor Genie and similar vaporizers use convection to vaporize the DMT by passing a heated air stream over the crystals. While the GVG is one of the more expensive tools for DMT ingestion, it is often the highest-rated due to it's ease of use and efficiency.\n\n\"The Machine\"\n\n\"The Machine\" is made by taking a small glass bottle and putting a copper scrubber in the neck and a hole in the bottom. The copper mesh is heated before pouring the DMT onto it, allowing it to stick to the metal. It is important to heat the scrubber thoroughly before using it to burn off any coatings that may be on it. After the DMT is on the copper, a lighter is used much the same way as the GVG above in order to vaporize using a hot air stream and by heating the scrubber. A straw is often put in the hole of the bottle to make it easier to breathe from.\n\nDab Rigs\n\nDab rigs, commonly used to vaporize cannabis concentrate, can also be used to vaporize DMT. As with other vaporization methods, care must be taken to ensure the dose you are taking is adequate. If your normal sandwich method dose were, say, 50mg, start dabbing at half that (25mg), as no DMT will be lost to accidental combustion (assuming your nail has been heated adequately). For any normal sized DMT dab, a temperature of 300 degrees Fahrenheit is more than enough to allow for complete vaporization, and too much higher than this may cause unwanted combustion. If you are using a quartz banger/nail you use for THC concentrate as well, consider investing in another nail for DMT dabbing, as you may receive unwanted psychoactive effects from cannabis dabs thereafter, and not to mention the residue that would be left on the nail.\n\nSmoked\n\nSandwich method\n\nThe sandwich method involves layering DMT between a herb such a marijuana, an inactive herb, or ash, put into a pipe, bong, or anything else commonly used for smoking. With this method a lighter is used above the bed of herbs, trying not to light it on fire, in order to use the heat to vaporize the DMT between the layers. This method allows for a little room for error in that it will still work fairly well if the herb is allowed to catch on fire, but is otherwise known to be inefficient and difficult to fully breakthrough on without using up excess material.\n\nThis method can also be used to create a gravity or waterfall bong to create a larger hit easier.\n\nEnhanced leaf\n\nEnhanced leaf is created by taking a herb (often an inactive one such as mint) and mixing it with a solution of DMT and solvent such as isopropyl alcohol, butane, or acetone. There are many different recipes and mixtures for enhanced leaf, often based on changing the proportions of DMT and herb, but the basic recipe for a simple 1:1 mix is as follows:\n\n#Weigh out the amount of DMT you wish to use. It is often suggested to work for the amount in excess of 250mg to make it easier to work with.\n#Weigh out an equal amount of herb.\n#Put DMT and herb in a container. Often a glass shot glass is reccomended due to it's appropriate size, clearness, and ease of cleaning.\n#Add enough solvent to cover the DMT-herb mix.\n#Mix until no DMT is visible, so it all dissolves in the solvent.\n#Let dry for several days. Drying is complete when you can no longer smell the solvent, and the herb may take on a slight DMT smell.\n\nOnce the enhanced leaf is done, it can be smoked like any other herb. There have been accounts of attempting to vaporize but with limited success.\n\nA note on naming: some claim \"enhanced leaf\" is a term for adding DMT to something that is already active, such as marijuana or salvia, so perhaps this could be more appropriately called \"infused leaf\" if an inactive herb is used.\n\nChanga\n\nChanga is similar to enhanced leaf in the process to make it, but uses an MAOI containg herb in order to lengthen the experience. There are also many different changa recipes in terms of ratios and what is used to make it, with common MAOIs being caapi, blue lotus, and passionflower. While the experience is lengthened by the addition of an MAOI, it is also reported to be slowed down, similar to an Ayahuasca experience, but not lasting as long.\n\nOther methods (not suggested due to possible toxicity)\n\nBottle and tinfoil\n\nThe bottle and tinfoil method works by cutting the bottom of a plastic bottle off and covering the bottom with tinfoil. The DMT is then placed on the tinfoil and vaporized with a lighter under the foil. This method is not suggested due to possible toxicity of the heated foil.\n\nLight bulb\n\nA light bulb can be used like an oil burner pipe, but can be hard to handle safely, and some light bulbs have coatings that can be toxic when inhaled.\n\nSee also\n\n*Responsible use\n*Tutorial index\n*DMT\n*Tryptamines\n*Psychedelics\n*Ayahuasca\n\nCategory:Preparation",
+ "wikitext": "{{headerpanel|{{Disclaimer}} }}\n\n{{SubstanceBox/DMT}}\n__NOTOC__\n\n'''DMT''' in its pure form must be administered either by vaporization or smoking. This article covers a variety of different techniques which one can use to ingest DMT via inhalation.\n\n==Vaporization==\n\n===Oil burner/Freebase pipe===\nIn an oil burner or freebase pipe, sometimes referred to as a meth pipe, DMT crystals are placed in the bulb, then a heat source is used to heat up the glass and vaporize the DMT via conduction. The resulting vapor is then inhaled and held in the lungs for a 10-20 second period to allow for maximum absorption.\n\n===Glass Vapor Genie (GVG)===\nOften referred to as one of the most efficient and easy ways to ingest DMT, the Glass Vapor Genie and similar vaporizers use convection to vaporize the DMT by passing a heated air stream over the crystals. While the GVG is one of the more expensive tools for DMT ingestion, it is often the highest-rated due to it's ease of use and efficiency.\n\n===\"The Machine\"===\n\"The Machine\" is made by taking a small glass bottle and putting a copper scrubber in the neck and a hole in the bottom. The copper mesh is heated before pouring the DMT onto it, allowing it to stick to the metal. It is important to heat the scrubber thoroughly before using it to burn off any coatings that may be on it. After the DMT is on the copper, a lighter is used much the same way as the GVG above in order to vaporize using a hot air stream and by heating the scrubber. A straw is often put in the hole of the bottle to make it easier to breathe from.\n\n=== Dab Rigs ===\nDab rigs, commonly used to vaporize cannabis concentrate, can also be used to vaporize DMT. As with other vaporization methods, care must be taken to ensure the dose you are taking is adequate. If your normal sandwich method dose were, say, 50mg, start dabbing at half that (25mg), as no DMT will be lost to accidental combustion (assuming your nail has been heated adequately). For any normal sized DMT dab, a temperature of 300 degrees Fahrenheit is more than enough to allow for complete vaporization, and too much higher than this may cause unwanted combustion. If you are using a quartz banger/nail you use for THC concentrate as well, consider investing in another nail for DMT dabbing, as you may receive unwanted psychoactive effects from cannabis dabs thereafter, and not to mention the residue that would be left on the nail.\n\n==Smoked==\n\n===Sandwich method===\nThe sandwich method involves layering DMT between a herb such a marijuana, an inactive herb, or ash, put into a pipe, bong, or anything else commonly used for smoking. With this method a lighter is used above the bed of herbs, trying not to light it on fire, in order to use the heat to vaporize the DMT between the layers. This method allows for a little room for error in that it will still work fairly well if the herb is allowed to catch on fire, but is otherwise known to be inefficient and difficult to fully breakthrough on without using up excess material.\n\nThis method can also be used to create a gravity or waterfall bong to create a larger hit easier.\n\n===Enhanced leaf===\nEnhanced leaf is created by taking a herb (often an inactive one such as mint) and mixing it with a solution of DMT and solvent such as isopropyl alcohol, butane, or acetone. There are many different recipes and mixtures for enhanced leaf, often based on changing the proportions of DMT and herb, but the basic recipe for a simple 1:1 mix is as follows:\n\n#Weigh out the amount of DMT you wish to use. It is often suggested to work for the amount in excess of 250mg to make it easier to work with.\n#Weigh out an equal amount of herb.\n#Put DMT and herb in a container. Often a glass shot glass is reccomended due to it's appropriate size, clearness, and ease of cleaning.\n#Add enough solvent to cover the DMT-herb mix.\n#Mix until no DMT is visible, so it all dissolves in the solvent.\n#Let dry for several days. Drying is complete when you can no longer smell the solvent, and the herb may take on a slight DMT smell.\n\nOnce the enhanced leaf is done, it can be smoked like any other herb. There have been accounts of attempting to vaporize but with limited success.\n\nA note on naming: some claim \"enhanced leaf\" is a term for adding DMT to something that is already active, such as marijuana or salvia, so perhaps this could be more appropriately called \"infused leaf\" if an inactive herb is used.\n\n===Changa===\nChanga is similar to enhanced leaf in the process to make it, but uses an [[MAOI]] containg herb in order to lengthen the experience. There are also many different changa recipes in terms of ratios and what is used to make it, with common MAOIs being caapi, blue lotus, and passionflower. While the experience is lengthened by the addition of an MAOI, it is also reported to be slowed down, similar to an [[Ayahuasca]] experience, but not lasting as long.\n\n==Other methods (not suggested due to possible toxicity)==\n\n====Bottle and tinfoil====\nThe bottle and tinfoil method works by cutting the bottom of a plastic bottle off and covering the bottom with tinfoil. The DMT is then placed on the tinfoil and vaporized with a lighter under the foil. This method is not suggested due to possible toxicity of the heated foil.\n\n====Light bulb====\nA light bulb can be used like an oil burner pipe, but can be hard to handle safely, and some light bulbs have coatings that can be toxic when inhaled.\n\n==See also==\n\n*[[Responsible use]]\n*[[Tutorial index]]\n*[[DMT]]\n*[[Tryptamines]]\n*[[Psychedelics]]\n*[[Ayahuasca]]\n\n[[Category:Preparation]]"
+}

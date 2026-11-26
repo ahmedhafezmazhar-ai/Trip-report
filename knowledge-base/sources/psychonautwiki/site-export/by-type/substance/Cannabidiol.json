@@ -1,0 +1,319 @@
+{
+ "id": "psychonautwiki:16625",
+ "type": "substance",
+ "title": "Cannabidiol",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabidiol",
+  "pageid": 16625,
+  "last_edited": "2025-11-13T00:26:30Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Cannabinoid",
+  "Entheogen",
+  "Pages with citations having bare URLs",
+  "Pages with citations lacking titles",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Cannabidiol",
+ "substance_box": {
+  "names": {
+   "common": "Cannabidiol, CBD, Epidiolex",
+   "substitutive": "Cannabidiol",
+   "systematic": "(-)-trans-2-p-Mentha-1,8-dien-3-yl-5-pentylresorcinol"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Cannabinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "1.5 - 4 hours",
+    "onset": "",
+    "comeup": "15 - 30 minutes",
+    "peak": "",
+    "offset": "1 - 1.5 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cannabidiol",
+    "CBD",
+    "Epidiolex"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Cannabinoid"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "1.5"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "30"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "1.5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Chemical structure of cannabidiol.",
+   "clean": "Chemical structure of cannabidiol."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:CBD.svg",
+   "clean": "File:CBD.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cannabidiol]], [[common name::CBD]], [[common name::Epidiolex]]",
+   "clean": "Cannabidiol, CBD, Epidiolex"
+  },
+  "NameSubstitution": {
+   "raw": "Cannabidiol",
+   "clean": "Cannabidiol"
+  },
+  "NameSystematic": {
+   "raw": "(-)-trans-2-p-Mentha-1,8-dien-3-yl-5-pentylresorcinol",
+   "clean": "(-)-trans-2-p-Mentha-1,8-dien-3-yl-5-pentylresorcinol"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/mxe TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1.5]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "1.5 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::30]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::1.5]] [[Oral offset time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Cannabidiol (also known as CBD and Epidiolex®) is a naturally-occurring cannabinoid found in the cannabis plant. It is one of some 113 identified cannabinoids in cannabis plants, accounting for up to 40% of the plant's extract. It does not possess the same psychoactivity as tetrahydrocannabinol (THC), which is responsible for the euphoric and hallucinogenic aspects of cannabis, and is typically described as non-intoxicating. \n\nCannabidiol can be administered by multiple routes, including by inhalation of cannabis smoke or vapor, as an aerosol spray into the cheek, and by mouth. It may be supplied as CBD oil containing only CBD as the active ingredient (i.e. no added THC or terpenes), a full-plant CBD-dominant hemp extract oil, capsules, dried cannabis, or as a prescription liquid solution.\n\nIn the United States, the cannabidiol drug Epidiolex is approved by the Food and Drug Administration for the treatment of epilepsy disorders. The U.S. Drug Enforcement Administration has assigned Epidiolex a Schedule V classification, while non-Epidiolex CBD remains a Schedule I drug prohibited for any use. Cannabidiol is not scheduled under any United Nations drug control treaties.\n\nSubjective effects include anxiety suppression, muscle relaxation, and pain relief. \n\nCannabidiol is generally well-tolerated with a good safety profile. However, it may have the potential to cause adverse drug-drug interactions. As a result, it is advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nCannibidiol was first isolated from Mexican marijuana by Roger Adams and from Indian charas by Alexander Todd, both in 1940. On the basis of chemical degradation and correlation with cannabinol, a general structure was proposed. In 1963, Raphael Mechoulam isolated CBD from Lebanese hashish and established its structure and relative stereochemistry. Its absolute stereochemistry was determined in 1967.\n\nAdulterated CBD-products\n\nAt least 128 samples out of more than 350 tested by government labs in nine states, nearly all in the South, had 371 types of synthetic cannabinoids in products marketed as CBD. Half of the 28 tested CBD-vape products contained less than 0.3% CBD.\n\nChemistry\n\nCannabis contains more than 400 different chemical compounds, of which 61 are considered cannabinoids, a class of compounds that act upon endogenous cannabinoid receptors of the body. CBD accounts for up to 41% of the plant's extract.\n\nCannabis produces CBD-carboxylic acid through the same metabolic pathway as THC, until the next to last step, where CBDA synthase performs catalysis instead of THCA synthase.\n\nAt room temperature, cannabidiol is a colorless crystalline solid. It is practically insoluble in water.\n\nPharmacology\n\nThe exact mechanism of action of CBD and THC is not currently fully understood. However, it is known that CBD acts on cannabinoid (CB) receptors of the endocannabinoid system, which are found in numerous areas of the body, including the peripheral and central nervous systems (such as the brain)). The endocannabinoid system regulates many physiological responses of the body including pain, memory, appetite, and mood. \n\nMore specifically, CB1 receptors can be found within the pain pathways of the brain and spinal cord where they may affect CBD-induced analgesia and anxiolysis, and CB2 receptors have an effect on immune cells, where they may affect CBD-induced anti-inflammatory processes. CBD has been shown to act as a negative allosteric modulator of the cannabinoid CB1 receptor, the most abundant G-Protein Coupled Receptor (GPCR) in the body. Allosteric modulators differ from receptor agonists in that they alter the activity of the receptor by binding to a functionally distinct binding site rather than directly to the receptor. \n\nIn addition to the well-known activity on CB1 and CB2 receptors, there is further evidence that CBD also activates 5-HT1A/2A/3A serotonergic and TRPV1–2 vanilloid receptors, antagonizes alpha-1 adrenergic and µ-opioid receptors, inhibits synaptosomal uptake of noradrenaline, dopamine, serotonin and gamma-aminobutyric acid (GABA), and cellular uptake of anandamide, acts on mitochondria Ca2+ stores, blocks low-voltage-activated (T-type) Ca2+ channels, stimulates activity of the inhibitory glycine-receptor, and inhibits activity of fatty amide hydrolase (FAAH).\n\nThe oral bioavailability of CBD is 13 to 19%, while its bioavailability via inhalation is 11 to 45% (mean 31%). The elimination half-life of CBD is 18–32 hours.\n\nCannabidiol is metabolized in the liver and intestines by enzymes CYP2C19 and CYP3A4, and UGT1A7, UGT1A9, and UGT2B7 isoforms.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Cannabidiol\n\nMedical use\n\nCannabidiol is currently approved in the United States under the name Epidiolex as a treatment for epilepsy disorders.\n\nAt lower doses, some studies have shown cannabidiol to have various antioxidative, anti-inflammatory, and neuroprotective properties. For instance, CBD is more effective than vitamin C and E as a neuroprotective antioxidant and can ameliorate skin conditions such as acne. It should be noted that cannabidiol has been the subject of sensational health claims in the popular media. A 2016 study found that there is only limited high-quality evidence for cannabidiol having any neurological effect in people.\n\nResearch\n\nCBD is under preliminary research for its potential antipsychotic effect, possibly mitigating some of the negative, psychosis-like effects of THC.\n\nRisks with vaped/smoked CBD\n\nToxicity and harm potential\n\nAccording to clinical studies, cannabidiol is well-tolerated and shows little to no toxicity. \n\nIn a 2011 literature review, CBD was found to not alter physiological parameters such as heart rate, blood pressure, and body temperature. Moreover, psychological and psychomotor functions are not adversely affected. Chronic use and high doses of up to 1500  mg per day have been repeatedly shown to be well tolerated by humans. As a result, it is considered to have a good safety profile. However, this information should be interpreted cautiously as cannabidiol has been subject to relatively few human studies; further research is needed to fully establish its safety profile.\n\nCommonly reported side effects from prescribed cannabidiol use include tiredness, diarrhea, and changes of appetite and weight.\n\nDependence and abuse potential\n\nCannabidiol is considered to have low abuse potential compared to THC and other recreational substances. Cannabidiol administration does not produce euphoria or other reinforcing effects and there is no evidence that use results in physical or psychological dependence.\n\nDangerous interactions\n\nCannabidiol can be an inhibitor of CYP enzymes (including CYP3A4), which are involved in the metabolism of many psychoactive substances. As a result, it has the potential to cause dangerous interactions. Caution is advised when combining cannabidiol with other substances, particularly with higher doses.\n\nLegal status\n\nInternationally, cannabidiol is not scheduled under the Convention on Psychotropic Substances or any other UN drug treaty.\n\n*Australia: Cannabidiol (in preparations for therapeutic use containing 2 per cent or less of other cannabinoids found in cannabis) was placed in Schedule 4 as a \"Prescription Only Medicine OR Prescription Animal Remedy\" in 2015. It was previously listed in Schedule 9 as a prohibited substance.\n*Canada: Cannabidiol is specifically listed in the Schedule II Controlled Drugs and Substances Act. However, in 2016 Canada’s \"Access to Cannabis for Medical Purposes Regulations\" came into effect. These regulations improve access to cannabis used for medicinal purposes, including CBD.\n*Hong Kong: Illegal in Hong Kong since 1st February 2023, punishable by 7 years imprisonment.\n*New Zealand: Cannabidiol is a controlled substance in New Zealand. However, by passing the Misuse of Drugs Amendment Regulations 2017 in  September 2017, many of the restrictions currently imposed by the regulations are removed since then. The changes will mean that CBD products, where the level of other naturally occurring cannabinoids is less than 2% of the cannabinoid content, will be easier to access for medical use.\n*Switzerland: Cannabidiol is not subject to the Narcotics Act in Switzerland because it does not produce a psychoactive effect. It is still subject to standard Swiss legislation.\n*United Kingdom: In 2016, the Medicines and Healthcare products Regulatory Agency (MHRA) issued a statement that products containing CBD used for medical purposes are considered as a medicine subject to standard licensing requirements.\n*United States: Cannabidiol is legal under the 2018 Farm Bill. The rest of the cannabis plant (anything with more than 0.3% Delta-9-THC) is still under Schedule I of the Controlled Substances Act.\n\nExternal links\n\n*Cannabidiol (Wikipedia)\n*Cannabidiol (Isomer Design)\n*Cannabidiol (Drugs-Forum)\n*Project CBD\n\nLiterature\n\n*Mechoulam, R., Peters, M., Murillo-Rodríguez, E., & Hanuš, L.O. (2007). Cannabidiol--recent advances. Chemistry & Biodiversity, 4 8, 1678-92.\n*Mechoulam, R., Parker, L. A., & Gallily, R. (2002). Cannabidiol: an overview of some pharmacological aspects. The Journal of Clinical Pharmacology, 42(S1).\n*Devinsky, O., Cilio, M. R., Cross, H., Fernandez‐Ruiz, J., French, J., Hill, C., ... & Martinez‐Orgado, J. (2014). Cannabidiol: pharmacology and potential therapeutic role in epilepsy and other neuropsychiatric disorders. Epilepsia, 55(6), 791-802. https://doi.org/0.1111/epi.12631\n\nReferences\n\nCategory:Substance\nCategory:Entheogen\nCategory:Cannabinoid",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Cannabidiol}}\n'''Cannabidiol''' (also known as '''CBD''' and '''Epidiolex®''') is a [[naturally-occurring]] [[psychoactive class::cannabinoid]] found in the [[cannabis]] plant. It is one of some 113 identified cannabinoids in cannabis plants, accounting for up to 40% of the plant's extract.<ref>{{cite journal | vauthors=((Campos, A. C.)), ((Moreira, F. A.)), ((Gomes, F. V.)), ((Del Bel, E. A.)), ((Guimarães, F. S.)) | journal=Philosophical Transactions of the Royal Society B: Biological Sciences | title=Multiple mechanisms involved in the large-spectrum therapeutic potential of cannabidiol in psychiatric disorders | volume=367 | issue=1607 | pages=3364–3378 | date=5 December 2012 | url=https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0389 | issn=0962-8436 | doi=10.1098/rstb.2011.0389}}</ref> It does not possess the same psychoactivity as tetrahydrocannabinol ('''THC'''), which is responsible for the [[euphoric]] and [[hallucinogenic]] aspects of cannabis, and is typically described as non-intoxicating. \n\nCannabidiol can be [[administered]] by multiple routes, including by inhalation of cannabis [[smoking|smoke or vapor]], as an aerosol spray into the cheek, and [[oral|by mouth]]. It may be supplied as CBD oil containing only CBD as the active ingredient (i.e. no added THC or terpenes), a full-plant CBD-dominant hemp extract oil, capsules, dried cannabis, or as a prescription liquid solution.<ref>\"Epidiolex (Cannabidiol) FDA Label\" (PDF). fda.gov. Retrieved 28 June 2018. For label updates see FDA index page for NDA 210365</ref>\n\nIn the United States, the cannabidiol drug Epidiolex is approved by the Food and Drug Administration for the treatment of epilepsy disorders.<ref name=\"FDA2018\">{{Citation | year=2018 | title=FDA Approves First Drug Comprised of an Active Ingredient Derived from Marijuana to Treat Rare, Severe Forms of Epilepsy | url=https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-comprised-active-ingredient-derived-marijuana-treat-rare-severe-forms | access-date=25 June 2018}}</ref> The U.S. Drug Enforcement Administration has assigned Epidiolex a Schedule V classification, while non-Epidiolex CBD remains a Schedule I drug prohibited for any use.<ref>{{Citation | vauthors=((LaVito, A.)) | title=DEA reschedules Epidiolex, marijuana-derived drug, paving the way for it to hit the market | url=https://www.cnbc.com/2018/09/27/dea-schedules-epidiolex-allowing-gw-pharma-to-start-selling-the-drug.html}}</ref> Cannabidiol is not scheduled under any United Nations drug control treaties.<ref>{{Citation | vauthors=((Angell, T.)) | year=2018 | title=UN Launches First-Ever Full Review Of Marijuana’s Status Under International Law | url=https://www.marijuanamoment.net/un-launches-first-ever-full-review-of-marijuanas-status-under-international-law/}}</ref>\n\n[[Subjective effects]] include [[anxiety suppression]], [[muscle relaxation]], and [[pain relief]]. \n\nCannabidiol is generally well-tolerated with a good safety profile.<ref name=\"IfflandGrotenhermen2017\">{{cite journal|last1=Iffland|first1=Kerstin|last2=Grotenhermen|first2=Franjo|title=An Update on Safety and Side Effects of Cannabidiol: A Review of Clinical Data and Relevant Animal Studies|journal=Cannabis and Cannabinoid Research|volume=2|issue=1|year=2017|pages=139–154|issn=2378-8763|doi=10.1089/can.2016.0034}}</ref> However, it may have the potential to cause adverse drug-drug interactions. As a result, it is advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{historyStub}}\nCannibidiol was first isolated from Mexican marijuana by Roger Adams and from Indian charas by Alexander Todd, both in 1940. On the basis of chemical degradation and correlation with cannabinol, a general structure was proposed. In 1963, Raphael Mechoulam isolated CBD from Lebanese hashish and established its structure and relative stereochemistry.<ref name=\"Mechoulam\">{{cite journal | vauthors=((Mechoulam, R.)), ((Hanuš, L.)) | journal=Chemistry and Physics of Lipids | title=Cannabidiol: an overview of some chemical and pharmacological aspects. Part I: chemical aspects | volume=121 | issue=1–2 | pages=35–43 | date= December 2002 | url=https://linkinghub.elsevier.com/retrieve/pii/S0009308402001445 | issn=00093084 | doi=10.1016/S0009-3084(02)00144-5}}</ref> Its absolute stereochemistry was determined in 1967.<ref name=\"Mechoulam\" />\n\n===Adulterated CBD-products===\nAt least 128 samples out of more than 350 tested by government labs in nine states, nearly all in the South, had 371 types of [[synthetic cannabinoids]] in products marketed as CBD. Half of the 28 tested CBD-vape products contained less than 0.3% CBD.<ref>{{Citation | year=2019 | title=How the Associated Press collected information on CBD vapes | url=https://apnews.com/article/f317c5c9682e4c5cb125d56f9fe6b737}}</ref>\n\n==Chemistry==\nCannabis contains more than 400 different chemical compounds, of which 61 are considered cannabinoids, a class of compounds that act upon endogenous cannabinoid receptors of the body.<ref>{{cite journal | vauthors=((Sharma, P.)), ((Murthy, P.)), ((Bharath, M. M. S.)) | journal=Iranian Journal of Psychiatry | title=Chemistry, metabolism, and toxicology of cannabis: clinical implications | volume=7 | issue=4 | pages=149–156 | date= 2012 | issn=1735-4587}}</ref> CBD accounts for up to 41% of the plant's extract.{{citation needed}}\n\nCannabis produces CBD-carboxylic acid through the same metabolic pathway as THC, until the next to last step, where CBDA synthase performs catalysis instead of THCA synthase.<ref>{{cite journal | vauthors=((Marks, M. D.)), ((Tian, L.)), ((Wenger, J. P.)), ((Omburo, S. N.)), ((Soto-Fuentes, W.)), ((He, J.)), ((Gang, D. R.)), ((Weiblen, G. D.)), ((Dixon, R. A.)) | journal=Journal of Experimental Botany | title=Identification of candidate genes affecting Δ9-tetrahydrocannabinol biosynthesis in Cannabis sativa | volume=60 | issue=13 | pages=3715–3726 | date= September 2009 | url=https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/erp210 | issn=1460-2431 | doi=10.1093/jxb/erp210}}</ref>\n\nAt room temperature, cannabidiol is a colorless crystalline solid.<ref>{{cite journal | vauthors=((Jones, P. G.)), ((Falvello, L.)), ((Kennard, O.)), ((Sheldrick, G. M.)), ((Mechoulam, R.)) | journal=Acta Crystallographica Section B Structural Crystallography and Crystal Chemistry | title=Cannabidiol | volume=33 | issue=10 | pages=3211–3214 | date=1 October 1977 | url=http://scripts.iucr.org/cgi-bin/paper?S0567740877010577 | issn=0567-7408 | doi=10.1107/S0567740877010577}}</ref> It is practically insoluble in water.<ref name=\"CBDDrugBank\">{{Citation | title=Cannabidiol | publisher=DrugBank | url=https://go.drugbank.com/drugs/DB09061}}</ref>\n\n==Pharmacology==\n\nThe exact mechanism of action of CBD and THC is not currently fully understood. However, it is known that CBD acts on cannabinoid (CB) receptors of the endocannabinoid system, which are found in numerous areas of the body, including the peripheral and central nervous systems (such as the brain)). The endocannabinoid system regulates many physiological responses of the body including pain, memory, appetite, and mood. \n\nMore specifically, CB1 receptors can be found within the pain pathways of the brain and spinal cord where they may affect CBD-induced analgesia and anxiolysis, and CB2 receptors have an effect on immune cells, where they may affect CBD-induced anti-inflammatory processes.<ref name=\"CBDDrugBank\" /> CBD has been shown to act as a negative allosteric modulator of the cannabinoid CB1 receptor, the most abundant G-Protein Coupled Receptor (GPCR) in the body.<ref>{{cite journal | vauthors=((Laprairie, R. B.)), ((Bagher, A. M.)), ((Kelly, M. E. M.)), ((Denovan-Wright, E. M.)) | journal=British Journal of Pharmacology | title=Cannabidiol is a negative allosteric modulator of the cannabinoid CB 1 receptor: Negative allosteric modulation of CB 1 by cannabidiol | volume=172 | issue=20 | pages=4790–4805 | date= October 2015 | url=https://onlinelibrary.wiley.com/doi/10.1111/bph.13250 | issn=00071188 | doi=10.1111/bph.13250}}</ref> Allosteric modulators differ from receptor agonists in that they alter the activity of the receptor by binding to a functionally distinct binding site rather than directly to the receptor. \n\nIn addition to the well-known activity on CB1 and CB2 receptors, there is further evidence that CBD also activates 5-HT1A/2A/3A serotonergic and TRPV1–2 vanilloid receptors, antagonizes alpha-1 adrenergic and µ-opioid receptors, inhibits synaptosomal uptake of noradrenaline, dopamine, serotonin and gamma-aminobutyric acid (GABA), and cellular uptake of anandamide, acts on mitochondria Ca2+ stores, blocks low-voltage-activated (T-type) Ca2+ channels, stimulates activity of the inhibitory glycine-receptor, and inhibits activity of fatty amide hydrolase (FAAH).<ref>{{cite journal | vauthors=((Ibeas Bih, C.)), ((Chen, T.)), ((Nunn, A. V. W.)), ((Bazelot, M.)), ((Dallas, M.)), ((Whalley, B. J.)) | journal=Neurotherapeutics | title=Molecular Targets of Cannabidiol in Neurological Disorders | volume=12 | issue=4 | pages=699–730 | date= October 2015 | url=http://link.springer.com/10.1007/s13311-015-0377-3 | issn=1933-7213 | doi=10.1007/s13311-015-0377-3}}</ref><ref>{{cite journal | vauthors=((Zhornitsky, S.)), ((Potvin, S.)) | journal=Pharmaceuticals | title=Cannabidiol in Humans—The Quest for Therapeutic Targets | volume=5 | issue=5 | pages=529–552 | date=21 May 2012 | url=http://www.mdpi.com/1424-8247/5/5/529 | issn=1424-8247 | doi=10.3390/ph5050529}}</ref>\n\nThe oral bioavailability of CBD is 13 to 19%, while its bioavailability via inhalation is 11 to 45% (mean 31%).<ref>{{cite journal | vauthors=((Scuderi, C.)), ((Filippis, D. D.)), ((Iuvone, T.)), ((Blasio, A.)), ((Steardo, A.)), ((Esposito, G.)) | journal=Phytotherapy Research | title=Cannabidiol in medicine: a review of its therapeutic potential in CNS disorders: CANNABIDIOL IN CNS DISORDERS | volume=23 | issue=5 | pages=597–602 | date= May 2009 | url=https://onlinelibrary.wiley.com/doi/10.1002/ptr.2625 | issn=0951418X | doi=10.1002/ptr.2625}}</ref><ref>{{cite journal | vauthors=((Mechoulam, R.)), ((Parker, L. A.)), ((Gallily, R.)) | journal=The Journal of Clinical Pharmacology | title=Cannabidiol: An Overview of Some Pharmacological Aspects | volume=42 | issue=S1 | pages=11S-19S | date= November 2002 | url=https://onlinelibrary.wiley.com/doi/10.1002/j.1552-4604.2002.tb05998.x | issn=00912700 | doi=10.1002/j.1552-4604.2002.tb05998.x}}</ref> The elimination half-life of CBD is 18–32 hours.<ref>{{cite journal | vauthors=((Devinsky, O.)), ((Cilio, M. R.)), ((Cross, H.)), ((Fernandez-Ruiz, J.)), ((French, J.)), ((Hill, C.)), ((Katz, R.)), ((Di Marzo, V.)), ((Jutras-Aswad, D.)), ((Notcutt, W. G.)), ((Martinez-Orgado, J.)), ((Robson, P. J.)), ((Rohrback, B. G.)), ((Thiele, E.)), ((Whalley, B.)), ((Friedman, D.)) | journal=Epilepsia | title=Cannabidiol: Pharmacology and potential therapeutic role in epilepsy and other neuropsychiatric disorders | volume=55 | issue=6 | pages=791–802 | date= June 2014 | url=https://onlinelibrary.wiley.com/doi/10.1111/epi.12631 | issn=00139580 | doi=10.1111/epi.12631}}</ref>\n\nCannabidiol is metabolized in the liver and intestines by enzymes CYP2C19 and CYP3A4, and UGT1A7, UGT1A9, and UGT2B7 isoforms.<ref>\"Epidiolex (Cannabidiol) FDA Label\" (PDF). fda.gov. Retrieved 28 June 2018. For label updates see FDA index page for NDA 210365</ref>\n\n==Subjective effects==\n{{EffectStub|Cognitive Effects=|Depression Reduction=}}\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Addiction suppression]]''' - There are some anecdotal reports that suggest CBD may have some addiction suppressing effects. However, this has not been subjected to rigorous clinical studies and more research is needed.\n*'''[[Effect::Muscle relaxation]]''' - Some users report that CBD produces a mild to moderate degree of muscle relaxation that is weaker than that of [[benzodiazepines]] and [[muscle relaxants]]. However, other users do not experience this effect.\n*'''[[Effect::Pain relief]]''' \n*'''[[Effect::Seizure suppression]]''' \n*'''[[Effect::Diarrhea]]''' \n}}\n|{{effects/cognitive|\n*'''[[Effect::Addiction suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Sleepiness]]''' - Sleepiness on CBD depends mostly on dose and/or strain of the plant (if using a full spectrum or hemp extract) and is most prominent after the peak subsides. \n}}\n\n{{effects/visual|\n*'''[[Effect::Peripheral information misinterpretation]]'''\n}}}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Cannabidiol.shtml Erowid Experience Vaults: Cannabidiol]\n\n==Medical use==\nCannabidiol is currently approved in the United States under the name Epidiolex as a treatment for epilepsy disorders.<ref name=\"FDA2018\" />\n\nAt lower doses, some studies have shown cannabidiol to have various antioxidative, anti-inflammatory, and neuroprotective properties. For instance, CBD is more effective than vitamin C and E as a neuroprotective antioxidant and can ameliorate skin conditions such as acne.<ref>{{cite journal | vauthors=((Hampson, A. J.)), ((Grimaldi, M.)), ((Axelrod, J.)), ((Wink, D.)) | journal=Proceedings of the National Academy of Sciences | title=Cannabidiol and (−)Δ 9 -tetrahydrocannabinol are neuroprotective antioxidants | volume=95 | issue=14 | pages=8268–8273 | date=7 July 1998 | url=https://pnas.org/doi/full/10.1073/pnas.95.14.8268 | issn=0027-8424 | doi=10.1073/pnas.95.14.8268}}</ref><ref>{{cite journal | vauthors=((Oláh, A.)), ((Tóth, B. I.)), ((Borbíró, I.)), ((Sugawara, K.)), ((Szöllõsi, A. G.)), ((Czifra, G.)), ((Pál, B.)), ((Ambrus, L.)), ((Kloepper, J.)), ((Camera, E.)), ((Ludovici, M.)), ((Picardo, M.)), ((Voets, T.)), ((Zouboulis, C. C.)), ((Paus, R.)), ((Bíró, T.)) | journal=Journal of Clinical Investigation | title=Cannabidiol exerts sebostatic and antiinflammatory effects on human sebocytes | volume=124 | issue=9 | pages=3713–3724 | date=2 September 2014 | url=http://www.jci.org/articles/view/64628 | issn=0021-9738 | doi=10.1172/JCI64628}}</ref> It should be noted that cannabidiol has been the subject of sensational health claims in the popular media. A 2016 study found that there is only limited high-quality evidence for cannabidiol having any neurological effect in people.<ref name=\"pmid26056464\">{{cite journal | vauthors = Prud'homme M, Cata R, Jutras-Aswad D | title = Cannabidiol as an Intervention for Addictive Behaviors: A Systematic Review of the Evidence | journal = Substance Abuse | volume = 9 | pages = 33–8 | year = 2015 | pmid = 26056464 | pmc = 4444130 | doi = 10.4137/SART.S25081}}</ref>\n\n===Research===\nCBD is under preliminary research for its potential antipsychotic effect, possibly mitigating some of the negative, psychosis-like effects of THC.<ref name=\"pmid31570536\">{{cite journal | vauthors = Hudson R, Renard J, Norris C, Rushlow WJ, Laviolette SR | title = Cannabidiol Counteracts the Psychotropic Side-Effects of Δ-9-Tetrahydrocannabinol in the Ventral Hippocampus through Bidirectional Control of ERK1-2 Phosphorylation | journal = The Journal of Neuroscience| volume = 39 | issue = 44 | pages = 8762–8777 | date = October 2019 | pmid = 31570536 | pmc = 6820200 | doi = 10.1523/JNEUROSCI.0708-19.2019}}\n\n*{{cite press release |date=September 30, 2019 |title=Cannabis study reveals how CBD offsets the psychiatric side-effects of THC |website=ScienceDaily |url=https://www.sciencedaily.com/releases/2019/09/190930131115.htm}}</ref><ref>{{cite web |url=https://www.scielo.br/j/bjmbr/a/5sGSHxqFkYHxCYhRZh6fWKH/?format=pdf&lang=en}}</ref>\n\n===Risks with vaped/smoked CBD===\n{{Risks with inhaled CBD}}\n\n==Toxicity and harm potential==\nAccording to clinical studies, cannabidiol is [[toxicity::well-tolerated and shows little to no toxicity]].<ref>{{cite journal | vauthors=((Cunha, J. M.)), ((Carlini, E. A.)), ((Pereira, A. E.)), ((Ramos, O. L.)), ((Pimentel, C.)), ((Gagliardi, R.)), ((Sanvito, W. L.)), ((Lander, N.)), ((Mechoulam, R.)) | journal=Pharmacology | title=Chronic Administration of Cannabidiol to Healthy Volunteers and Epileptic Patients | volume=21 | issue=3 | pages=175–185 | date= 1980 | url=https://www.karger.com/Article/FullText/137430 | issn=1423-0313 | doi=10.1159/000137430}}</ref> \n\nIn a 2011 literature review, CBD was found to not alter physiological parameters such as heart rate, blood pressure, and body temperature. Moreover, psychological and psychomotor functions are not adversely affected. Chronic use and high doses of up to 1500  mg per day have been repeatedly shown to be well tolerated by humans. As a result, it is considered to have a good safety profile.<ref>{{cite journal | vauthors=((Bergamaschi, M. M.)), ((Queiroz, R. H. C.)), ((Zuardi, A. W.)), ((Crippa, J. A. S.)) | journal=Current Drug Safety | title=Safety and Side Effects of Cannabidiol, a Cannabis sativa Constituent | volume=6 | issue=4 | pages=237–249 | url=https://www.eurekaselect.com/article/20728}}</ref> However, this information should be interpreted cautiously as cannabidiol has been subject to relatively few human studies; further research is needed to fully establish its safety profile.\n\nCommonly reported side effects from prescribed cannabidiol use include tiredness, [[diarrhea]], and changes of appetite and weight.<ref>{{cite journal | vauthors=((Iffland, K.)), ((Grotenhermen, F.)) | journal=Cannabis and Cannabinoid Research | title=An Update on Safety and Side Effects of Cannabidiol: A Review of Clinical Data and Relevant Animal Studies | volume=2 | issue=1 | pages=139–154 | date= January 2017 | url=https://www.liebertpub.com/doi/10.1089/can.2016.0034 | issn=2378-8763 | doi=10.1089/can.2016.0034}}</ref>\n\n===Dependence and abuse potential===\nCannabidiol is considered to have [[Addiction potential::low abuse potential]] compared to [[THC]] and other recreational substances. Cannabidiol administration does not produce [[euphoria]] or other reinforcing effects and there is no evidence that use results in physical or psychological dependence.\n\n===Dangerous interactions===\n{{DangerousInteractions}}\nCannabidiol can be an inhibitor of CYP enzymes (including CYP3A4),<ref name=\"YamaoriEbisawa2011\">{{cite journal|last1=Yamaori|first1=Satoshi|last2=Ebisawa|first2=Juri|last3=Okushima|first3=Yoshimi|last4=Yamamoto|first4=Ikuo|last5=Watanabe|first5=Kazuhito|title=Potent inhibition of human cytochrome P450 3A isoforms by cannabidiol: Role of phenolic hydroxyl groups in the resorcinol moiety|journal=Life Sciences|volume=88|issue=15-16|year=2011|pages=730–736|issn=00243205|doi=10.1016/j.lfs.2011.02.017}}</ref> which are involved in the metabolism of many psychoactive substances. As a result, it has the potential to cause dangerous interactions. Caution is advised when combining cannabidiol with other substances, particularly with higher doses.\n\n==Legal status==\nInternationally, cannabidiol is not scheduled under the Convention on Psychotropic Substances or any other UN drug treaty.\n\n*'''Australia:''' Cannabidiol (in preparations for therapeutic use containing 2 per cent or less of other cannabinoids found in cannabis) was placed in Schedule 4 as a \"Prescription Only Medicine OR Prescription Animal Remedy\" in 2015. It was previously listed in Schedule 9 as a prohibited substance.<ref>Australian Government Department of Health Therapeutic Goods Administration. (2017, August 1). Retrieved from https://www.tga.gov.au/book/part-final-decisions-matters-referred-expert-advisory-committee-2</ref>\n*'''Canada:''' Cannabidiol is specifically listed in the Schedule II Controlled Drugs and Substances Act. However, in 2016 Canada’s \"Access to Cannabis for Medical Purposes Regulations\" came into effect. These regulations improve access to cannabis used for medicinal purposes, including CBD.<ref>{{Citation | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/FullText.html}}</ref>\n*'''Hong Kong''': <span style=\"color:red\">Illegal</span> in Hong Kong since 1st February 2023, punishable by 7 years imprisonment.<ref>https://hongkongfp.com/2023/02/01/cannabis-compound-cbd-now-banned-in-hong-kong-7-year-jail-term-for-possession-to-match-meth-cocaine/</ref>\n*'''New Zealand:''' Cannabidiol is a controlled substance in New Zealand. However, by passing the Misuse of Drugs Amendment Regulations 2017 in  September 2017, many of the restrictions currently imposed by the regulations are removed since then. The changes will mean that CBD products, where the level of other naturally occurring cannabinoids is less than 2% of the cannabinoid content, will be easier to access for medical use.<ref>{{Citation | title=Medicinal Cannabis Agency - Cannabidiol (CBD) products | url=https://www.health.govt.nz/our-work/regulation-health-and-disability-system/medicinal-cannabis-agency/medicinal-cannabis-agency-information-industry/medicinal-cannabis-agency-working-medicinal-cannabis/medicinal-cannabis-agency-cannabidiol-cbd-products}}</ref>\n*'''Switzerland:''' Cannabidiol is not subject to the Narcotics Act in Switzerland because it does not produce a psychoactive effect. It is still subject to standard Swiss legislation.<ref>Swiss Agency for Therapeutic Products. (2017, August 1). Retrieved from https://www.swissmedic.ch/aktuell/00673/03778/index.html?lang=en</ref>\n*'''United Kingdom:''' In 2016, the Medicines and Healthcare products Regulatory Agency (MHRA) issued a statement that products containing CBD used for medical purposes are considered as a medicine subject to standard licensing requirements.<ref>{{Citation | title=MHRA statement on products containing Cannabidiol (CBD) | url=https://www.gov.uk/government/news/mhra-statement-on-products-containing-cannabidiol-cbd}}</ref>\n*'''United States:''' Cannabidiol is legal under the 2018 Farm Bill<ref>https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd#farmbill</ref>. The rest of the [[cannabis]] plant (anything with more than 0.3% Delta-9-THC) is still under Schedule I of the Controlled Substances Act.{{citation needed}}\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Cannabidiol Cannabidiol (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=4967 Cannabidiol (Isomer Design)]\n*[https://drugs-forum.com/wiki/Cannabidiol Cannabidiol (Drugs-Forum)]\n*[https://www.projectcbd.org/ Project CBD]\n\n==Literature==\n\n*Mechoulam, R., Peters, M., Murillo-Rodríguez, E., & Hanuš, L.O. (2007). Cannabidiol--recent advances. Chemistry & Biodiversity, 4 8, 1678-92.\n*Mechoulam, R., Parker, L. A., & Gallily, R. (2002). Cannabidiol: an overview of some pharmacological aspects. The Journal of Clinical Pharmacology, 42(S1).\n*Devinsky, O., Cilio, M. R., Cross, H., Fernandez‐Ruiz, J., French, J., Hill, C., ... & Martinez‐Orgado, J. (2014). Cannabidiol: pharmacology and potential therapeutic role in epilepsy and other neuropsychiatric disorders. Epilepsia, 55(6), 791-802. https://doi.org/0.1111/epi.12631\n\n==References==\n<references />\n[[Category:Substance]]\n[[Category:Entheogen]]\n[[Category:Cannabinoid]]"
+}

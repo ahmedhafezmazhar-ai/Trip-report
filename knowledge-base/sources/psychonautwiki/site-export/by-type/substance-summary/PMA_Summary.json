@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13113",
+ "type": "substance-summary",
+ "title": "PMA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PMA/Summary",
+  "pageid": 13113,
+  "last_edited": "2016-11-01T23:31:30Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "PMA",
+ "plain_text": "",
+ "wikitext": "{{Summary|PMA}}"
+}

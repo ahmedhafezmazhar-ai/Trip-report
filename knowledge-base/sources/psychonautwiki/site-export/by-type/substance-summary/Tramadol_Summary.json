@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10920",
+ "type": "substance-summary",
+ "title": "Tramadol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tramadol/Summary",
+  "pageid": 10920,
+  "last_edited": "2015-11-13T08:28:24Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Tramadol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Tramadol}}"
+}

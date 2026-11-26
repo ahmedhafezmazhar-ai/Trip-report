@@ -1,0 +1,682 @@
+{
+ "id": "psychonautwiki:13606",
+ "type": "substance",
+ "title": "Hydromorphone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Hydromorphone",
+  "pageid": 13606,
+  "last_edited": "2025-11-13T11:16:32Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 German-language sources (de)",
+  "Morphinan",
+  "Opioid",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Hydromorphone",
+ "substance_box": {
+  "names": {
+   "common": "Dilaudid, Jurnista, Palladone",
+   "substitutive": "Hydromorphone",
+   "systematic": "(4R,4aR,7aR,12bS)-9-hydroxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-7-one"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.5 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 8 mg",
+    "heavy": "8 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "1 - 2 hours",
+    "peak": "2 - 4 hours",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 8 mg",
+    "heavy": "8 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "1 - 5 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "15 - 30 minutes",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 6 mg",
+    "heavy": "6 mg +",
+    "duration": "3 - 4 hours",
+    "onset": "4 - 5 minutes",
+    "comeup": "10 - 20 minutes",
+    "peak": "30 - 90 minutes",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 2 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Dilaudid",
+    "Jurnista",
+    "Palladone"
+   ],
+   "Psychoactive class": [
+    "Opioid"
+   ],
+   "Chemical class": [
+    "Morphinan"
+   ],
+   "Oral threshold dose": [
+    "0.5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "1"
+   ],
+   "Oral max light dose": [
+    "2"
+   ],
+   "Oral min common dose": [
+    "2"
+   ],
+   "Oral max common dose": [
+    "4"
+   ],
+   "Oral min strong dose": [
+    "4"
+   ],
+   "Oral max strong dose": [
+    "8"
+   ],
+   "Oral heavy dose": [
+    "8"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "5"
+   ],
+   "Oral max onset time": [
+    "15"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "30"
+   ],
+   "Oral max offset time": [
+    "60"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "1"
+   ],
+   "Insufflated max light dose": [
+    "2"
+   ],
+   "Insufflated min common dose": [
+    "2"
+   ],
+   "Insufflated max common dose": [
+    "4"
+   ],
+   "Insufflated min strong dose": [
+    "4"
+   ],
+   "Insufflated max strong dose": [
+    "8"
+   ],
+   "Insufflated heavy dose": [
+    "8"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "1"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "10"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "60"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "15"
+   ],
+   "Insufflated max offset time": [
+    "30"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "12"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Intravenous threshold dose": [
+    "1"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "1"
+   ],
+   "Intravenous max light dose": [
+    "2"
+   ],
+   "Intravenous min common dose": [
+    "2"
+   ],
+   "Intravenous max common dose": [
+    "4"
+   ],
+   "Intravenous min strong dose": [
+    "4"
+   ],
+   "Intravenous max strong dose": [
+    "6"
+   ],
+   "Intravenous heavy dose": [
+    "6"
+   ],
+   "Intravenous min total time": [
+    "3"
+   ],
+   "Intravenous max total time": [
+    "4"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "4"
+   ],
+   "Intravenous max onset time": [
+    "5"
+   ],
+   "Intravenous onset time units": [
+    "minutes"
+   ],
+   "Intravenous min comeup time": [
+    "10"
+   ],
+   "Intravenous max comeup time": [
+    "20"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "30"
+   ],
+   "Intravenous max peak time": [
+    "90"
+   ],
+   "Intravenous peak time units": [
+    "minutes"
+   ],
+   "Intravenous min offset time": [
+    "1"
+   ],
+   "Intravenous max offset time": [
+    "2"
+   ],
+   "Intravenous offset time units": [
+    "hours"
+   ],
+   "Intravenous min afterglow time": [
+    "1"
+   ],
+   "Intravenous max afterglow time": [
+    "2"
+   ],
+   "Intravenous afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Hydromorphone.svg",
+   "clean": "File:Hydromorphone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Dilaudid]], [[common name::Jurnista]], [[common name::Palladone]]",
+   "clean": "Dilaudid, Jurnista, Palladone"
+  },
+  "NameSubstitution": {
+   "raw": "Hydromorphone",
+   "clean": "Hydromorphone"
+  },
+  "NameSystematic": {
+   "raw": "(4R,4aR,7aR,12bS)-9-hydroxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-7-one",
+   "clean": "(4R,4aR,7aR,12bS)-9-hydroxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-7-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.5]] [[Oral dose units::mg]]",
+   "clean": "0.5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1]] - [[Oral max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::2]] - [[Oral max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::4]] - [[Oral max strong dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::8]] mg +",
+   "clean": "8 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::15]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::30]] - [[Oral max offset time::60]] [[Oral offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::1]] - [[Insufflated max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::2]] - [[Insufflated max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::4]] - [[Insufflated max strong dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::8]] mg +",
+   "clean": "8 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::1]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::10]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::60]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::15]] - [[Insufflated max offset time::30]] [[Insufflated offset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::12]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::1]] [[Intravenous dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::1]] - [[Intravenous max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::2]] - [[Intravenous max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::4]] - [[Intravenous max strong dose::6]] mg",
+   "clean": "4 - 6 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::6]] mg +",
+   "clean": "6 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::3]] - [[Intravenous max total time::4]] [[Intravenous total time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::4]] - [[Intravenous max onset time::5]] [[Intravenous onset time units::minutes]]",
+   "clean": "4 - 5 minutes"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::10]] - [[Intravenous max comeup time::20]] [[Intravenous comeup time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::30]] - [[Intravenous max peak time::90]] [[Intravenous peak time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::1]] - [[Intravenous max offset time::2]] [[Intravenous offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "[[Intravenous min afterglow time::1]] - [[Intravenous max afterglow time::2]] [[Intravenous afterglow time units::hours]]",
+   "clean": "1 - 2 hours"
+  }
+ },
+ "plain_text": "Hydromorphone (also known by the brand name Dilaudid in the United States) is a semisynthetic opioid of the morphinan chemical class that produces  analgesic and euphoric effects when administered. It is occasionally prescribed for use in the management of moderate to severe pain and is structurally similar to other opioids such as morphine and heroin. \n\nHydromorphone is commonly used in a medical setting, mostly intravenously due its very low oral, rectal, and intranasal bioavailability. \n\nIf using this substance intravenously in a non-medical, recreational setting, the safer injection guide should be followed along with all harm reduction practices. Sublingual administration is also considered to be superior to oral administration in due to its increased bioavailability; however, hydromorphone is bitter and hydrophilic because the molecule is mostly ionized, true through‑mucosa uptake is limited, so it is absorbed poorly and slowly through mouth membranes.\n\nChemistry\n\nHydromorphone is an opioid of the morphinan class. Hydromorphone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R9 and R13 with the nitrogen member looking at R17 of the combined structure. This structure is called morphinan. Hydromorphone is a hydrogenated ketone of morphine and thus is extremely similar in structure. \n\nIt is a derivative of morphine; to be specific, it is a hydrogenated ketone thereof. Comparatively, hydromorphone is to morphine as hydrocodone is to codeine—that is, also a semi-synthetic drug. Hydromorphone is made from morphine either by direct re-arrangement (made by reflux heating of alcoholic or acidic aqueous solution of morphine in the presence of platinum or palladium catalyst) or reduction to dihydromorphine (usually via catalytic hydrogenation), followed by oxidation with benzophenone in presence of potassium tert butoxide or aluminium tert butoxide (Oppenauer oxidation). The 6 ketone group may be replaced with a methylene group via the Wittig reaction to produce 6-Methylenedihydrodesoxymorphine, which is 80× stronger than morphine.\n\nHydromorphone is more soluble in water than morphine; therefore, hydromorphone solutions may be produced to deliver the drug in a smaller volume of water. The hydrochloride salt is soluble in three parts of water, whereas a gram of morphine hydrochloride dissolves in 16 ml of water; for all common purposes, the pure powder for hospital use can be used to produce solutions of virtually arbitrary concentration. When the powder appeared on the street, this very small volume of powder needed for a dose means that overdoses are likely for those who mistake it for heroin or other powdered narcotics, especially those that have been diluted prior to consumption.\n\nPharmacology\n\nHydromorphone molecules exert their effects by binding to and activating the μ-opioid receptor as an agonist. This occurs due to the way in which opioids structurally mimic endogenous endorphins. Endorphins are responsible for analgesia, sedation, and cognitive euphoria along with physical euphoria. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's euphoric, analgesic (pain relief), and anxiolytic (anti-anxiety) effects.\n\nThe recreational effects of this compound, including cognitive euphoria and physical euphoria, occur because opioids structurally mimic endogenous endorphins which are naturally produced within the body and are also active on the μ-opioid receptor set in the brain. The way in which synthetic opioids such as heroin structurally mimic these natural endorphins results in their euphoric, pain relief and anxiolytic effects. This is because natural endorphins are responsible for reducing pain, causing sedation, and feelings of pleasure. The natural endorphins can be released in response to pain, strenuous exercise, orgasm, or general excitement. \n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Hydromorphone\n\nToxicity and harm potential\n\nLike most opioids, unadulterated hydromorphone does not cause many long-term complications other than psychological and physical dependence and constipation. The harmful or toxic aspects of hydromorphone's usage as a recreational substance are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing, and using impure or adulterated batches of the substance. \n\nHeavy dosages of hydromorphone can result in respiratory depression, leading onto fatal or dangerous levels of oxygen deprivation. This occurs because the breathing reflex is suppressed by agonism of µ-opioid receptors - this effect is proportional to the dosage of opiates consumed. \n\nHydromorphone can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates on their own vomit. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the recovery position). \n\nOpioid overdoses can be fatal if not treated immediately by calling the local emergency medical services and administering an opioid antagonist such as naloxone to the overdosed user.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other opiate-based painkillers, the chronic use of hydromorphone can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of hydromorphone develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. Hydromorphone presents cross-tolerance with all other opioids, meaning that after the consumption of hydromorphone all opioids will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced physical tolerance to the depressant effects of the opioid. To account for this lack of tolerance, it is safer for a user that has been sober for an extended period of time to only dose a fraction of one's usual dosage when using again. It has also been found that the environment one is in can play a role in opioid tolerance. \n\nIn one study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment. Because of the structral and chemical similarity of hydromorphone and heroin, it can be assumed that the same interaction between physical tolerance and the environment occurs in hydromorphone use. \n\nDangerous interactions\n\nHydromorphone is dangerous to use in combination with other depressants as many fatalities reported as overdoses are caused by interactions with other depressant drugs like alcohol or benzodiazepines, resulting in dangerously high levels of respiratory depression.\n\nLegal status\n\n*Austria: Hydromorphone is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Germany: Hydromorphone is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.\n*Russia: Hydromorphone is a Schedule II controlled substance.\n*Sweden: Hydromorphone is a prescription only medication.\n*Switzerland: Hydromorphone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*Turkey: Hydromorphone is a 'red prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: Hydromorphone is a Class A, Schedule 2 drug in the United Kingdom.\n*United States: Hydromorphone is a Schedule II Controlled Substance in the United States.\n\nSee also\n\n*Responsible use\n*Safer injection guide\n*Opioids\n*Morphine\n*Oxymorphone\n*Naloxone\n\nExternal links\n\n*Hydromorphone (Wikipedia)\n*Hydromorphone (Erowid Vault)\n*Hydromorphone (Isomer Design)\n*Hydromorphone (DrugBank)\n*Hydromorphone (Drugs.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Benzofuran\nCategory:Morphinan\nCategory:Opioid",
+ "wikitext": "{{headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Hydromorphone}}\n\n'''Hydromorphone''' (also known by the brand name '''Dilaudid''' in the United States) is a semisynthetic [[psychoactive class::opioid]] of the [[chemical class::morphinan]] chemical class that produces [[pain relief | analgesic]] and [[euphoria|euphoric]] effects when [[Routes of administration|administered]]. It is occasionally prescribed for use in the management of moderate to severe pain and is structurally similar to other opioids such as [[morphine]] and [[heroin]]. \n\nHydromorphone is commonly used in a medical setting, mostly [[Routes of administration#Intravenously|intravenously]] due its very low [[oral]], [[rectal]], and [[intranasal]] bioavailability. \n\nIf using this substance intravenously in a non-medical, recreational setting, the [[safer injection guide]] should be followed along with all [[responsible drug use|harm reduction]] practices. [[Sublingual]] administration is also considered to be superior to oral administration in due to its increased bioavailability; however, hydromorphone is bitter and hydrophilic because the molecule is mostly ionized, true through‑mucosa uptake is limited, so it is absorbed poorly and slowly through mouth membranes.<ref>Hydromorphone Sheet|https://www.drugs.com/pro/hydromorphone.http</ref>\n\n==Chemistry==\n{{chemistry}}\nHydromorphone is an opioid of the morphinan class. Hydromorphone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub> with the nitrogen member looking at R<sub>17</sub> of the combined structure. This structure is called morphinan. Hydromorphone is a hydrogenated ketone of [[morphine]] and thus is extremely similar in structure. \n\nIt is a derivative of [[morphine]]; to be specific, it is a hydrogenated ketone thereof. Comparatively, hydromorphone is to morphine as [[hydrocodone]] is to [[codeine]]—that is, also a semi-synthetic drug. Hydromorphone is made from morphine either by direct re-arrangement (made by reflux heating of alcoholic or acidic aqueous solution of morphine in the presence of platinum or palladium catalyst) or reduction to dihydromorphine (usually via catalytic hydrogenation), followed by oxidation with benzophenone in presence of potassium tert butoxide or aluminium tert butoxide (Oppenauer oxidation). The 6 ketone group may be replaced with a methylene group via the Wittig reaction to produce 6-Methylenedihydrodesoxymorphine, which is 80× stronger than morphine.<ref>PHA 4220 – Neurology Pharmacotherapeutics </ref>\n\nHydromorphone is more soluble in water than morphine; therefore, hydromorphone solutions may be produced to deliver the drug in a smaller volume of water. The hydrochloride salt is soluble in three parts of water, whereas a gram of morphine hydrochloride dissolves in 16 ml of water; for all common purposes, the pure powder for hospital use can be used to produce solutions of virtually arbitrary concentration. When the powder appeared on the street, this very small volume of powder needed for a dose means that overdoses are likely for those who mistake it for heroin or other powdered narcotics, especially those that have been diluted prior to consumption.<ref>''Hydromorphone Hydrochloride''; MSDS No. 71681; Purdue Pharma L.P.: Stamford, CT, 13 October 2009. <nowiki>http://www.purduepharma.com/msdss/Dilaudid_2_4_8mgTablets_OralLiquid_MSDS.pdf</nowiki></ref>\n\n==Pharmacology==\nHydromorphone molecules exert their effects by binding to and activating the [[μ-opioid]] [[receptor]] as an [[agonist]]. This occurs due to the way in which opioids structurally mimic endogenous endorphins. Endorphins are responsible for analgesia, [[sedation]], and [[cognitive euphoria]] along with [[physical euphoria]]. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's [[physical euphoria|euphoric]], [[pain relief|analgesic]] (pain relief), and [[anxiety suppression|anxiolytic]] (anti-anxiety) effects.\n\nThe recreational effects of this compound, including [[cognitive euphoria]] and [[physical euphoria]], occur because opioids structurally mimic endogenous endorphins which are naturally produced within the body and are also active on the μ-opioid receptor set in the brain. The way in which synthetic opioids such as heroin structurally mimic these natural endorphins results in their [[physical euphoria|euphoric]], [[pain relief]] and [[anxiolytic]] effects. This is because natural endorphins are responsible for reducing pain, causing [[sedation]], and feelings of pleasure. The natural endorphins can be released in response to pain, strenuous exercise, orgasm, or general excitement. \n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Physical euphoria]]''' - In comparison to other opioids, this particular substance can be considered similar in its physical euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) and more intense when compared to [[kratom]] and [[hydrocodone]]. The sensation itself can be described as feelings of intense physical comfort, warmth, love and bliss.\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Respiratory depression]]''' - This can lead to an increased risk in overdose at high doses.\n*'''[[Effect::Skin flushing]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria]]''' - In comparison to other opioids, this particular substance can be considered similar in its cognitive euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) and more intense when compared to [[kratom]] and [[hydrocodone]]. The sensation itself can be described as powerful and overwhelming feelings of emotional bliss, contentment, and happiness.\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Dream potentiation]]'''\n\n}}\n{{effects/visual|\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and [[hypnagogia]] during heavy dosage nodding which results in dream-like states and up to level 3 [[Lucid_dreaming#Internally_sourced_sensory_input|imagery]]. This is often accompanied by ill-defined [[geometry]].\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Hydromorphone.shtml Erowid Experience Vaults: Hydromorphone]\n\n==Toxicity and harm potential==\nLike most opioids, unadulterated hydromorphone does not cause many long-term complications other than psychological and physical dependence and constipation.<ref>Merck Manual of Home Health Handbook – 2nd edition, 2003, p. 2097</ref> The harmful or toxic aspects of hydromorphone's usage as a recreational substance are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing, and using impure or adulterated batches of the substance. \n\nHeavy dosages of hydromorphone can result in [[respiratory depression]], leading onto fatal or dangerous levels of oxygen deprivation. This occurs because the breathing reflex is suppressed by [[agonists|agonism]] of [[µ-opioid receptors]] - this effect is proportional to the dosage of opiates consumed. \n\nHydromorphone can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates on their own vomit. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the [[recovery position]]). \n\nOpioid overdoses can be fatal if not treated immediately by calling the local emergency medical services and administering an opioid antagonist such as [[naloxone]] to the overdosed user.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with other opiate-based painkillers, the chronic use of hydromorphone can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of hydromorphone develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. Hydromorphone presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of hydromorphone all [[opioid]]s will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and [[relapse]], largely because of reduced physical tolerance to the [[depressant]] effects of the opioid.<ref>Why Heroin Relapse Often Ends In Death - Lauren F Friedman (Business Insider) | http://www.businessinsider.com.au/philip-seymour-hoffman-overdose-2014-2</ref> To account for this lack of tolerance, it is safer for a user that has been sober for an extended period of time to only dose a fraction of one's usual [[dosage]] when using again. It has also been found that the environment one is in can play a role in opioid tolerance. \n\nIn one study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.<ref>{{cite journal | vauthors=((Siegel, S.)), ((Hinson, R. E.)), ((Krank, M. D.)), ((McCully, J.)) | journal=Science | title=Heroin “Overdose” Death: Contribution of Drug-Associated Environmental Cues | volume=216 | issue=4544 | pages=436–437 | date=23 April 1982 | url=https://www.science.org/doi/10.1126/science.7200260 | issn=0036-8075 | doi=10.1126/science.7200260}}</ref> Because of the structral and chemical similarity of hydromorphone and [[heroin]], it can be assumed that the same interaction between physical tolerance and the environment occurs in hydromorphone use. \n\n===Dangerous interactions===\nHydromorphone is dangerous to use in combination with other [[depressants]] as many fatalities reported as overdoses are caused by interactions with other depressant drugs like [[alcohol]] or [[benzodiazepines]], resulting in dangerously high levels of [[Respiratory depression|respiratory depression]].<ref>{{cite journal | vauthors=((Darke, S.)), ((Zador, D.)) | journal=Addiction (Abingdon, England) | title=Fatal heroin “overdose”: a review | volume=91 | issue=12 | pages=1765–1772 | date= December 1996 | issn=0965-2140 | doi=10.1046/j.1360-0443.1996.911217652.x}}</ref>\n\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Opioids}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Austria:''' Hydromorphone is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Germany:''' Hydromorphone is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.<ref>{{Citation | title=Anlage III BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html}}</ref>\n*'''Russia:''' Hydromorphone is a Schedule II controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=100259&date=03.12.2019}}</ref>\n*'''Sweden''': Hydromorphone is a prescription only medication.<ref>Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika, konsoliderad version t.o.m. LVFS 2010:1</ref>\n*'''Switzerland''': Hydromorphone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Hydromorphone is a 'red prescription' only substance<ref>KIRMIZI REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/K%C4%B1rm%C4%B1z%C4%B1%20Re%C3%A7eteye%20Tabi%20%C4%B0la%C3%A7lar%2005072019_ebcc7e92-6661-4983-870a-fe8983a9c2b7.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''United Kingdom:''' Hydromorphone is a Class A, Schedule 2 drug in the United Kingdom.<ref>{{Citation | title=List of most commonly encountered drugs currently controlled under the misuse of drugs legislation | url=https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation}}</ref>\n*'''United States:''' Hydromorphone is a Schedule II Controlled Substance in the United States.<ref>Drug Enforcement Administration Controlled Substances | https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Safer injection guide]]\n*[[Opioids]]\n*[[Morphine]]\n*[[Oxymorphone]]\n*[[Naloxone]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Hydromorphone Hydromorphone (Wikipedia)]\n*[https://erowid.org/pharms/hydromorphone/ Hydromorphone (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9724 Hydromorphone (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00327 Hydromorphone (DrugBank)]\n*[https://www.drugs.com/mtm/hydromorphone.html Hydromorphone (Drugs.com)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Benzofuran]]\n[[Category:Morphinan]]\n[[Category:Opioid]]"
+}

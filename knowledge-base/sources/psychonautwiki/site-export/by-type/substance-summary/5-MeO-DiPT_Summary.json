@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11818",
+ "type": "substance-summary",
+ "title": "5-MeO-DiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-MeO-DiPT/Summary",
+  "pageid": 11818,
+  "last_edited": "2016-05-03T07:59:55Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-MeO-DiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-MeO-DiPT}}"
+}

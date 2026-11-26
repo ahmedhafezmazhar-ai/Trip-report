@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14887",
+ "type": "substance-summary",
+ "title": "25C-NBOH/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25C-NBOH/Summary",
+  "pageid": 14887,
+  "last_edited": "2017-07-21T17:07:35Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "25C-NBOH",
+ "plain_text": "",
+ "wikitext": "{{Summary|25C-NBOH}}"
+}

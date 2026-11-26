@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13371",
+ "type": "substance-summary",
+ "title": "4-AcO-MiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-AcO-MiPT/Summary",
+  "pageid": 13371,
+  "last_edited": "2016-11-28T03:19:19Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-AcO-MiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-AcO-MiPT}}"
+}

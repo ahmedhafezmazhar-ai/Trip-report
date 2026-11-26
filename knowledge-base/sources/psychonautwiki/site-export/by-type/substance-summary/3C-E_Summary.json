@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14790",
+ "type": "substance-summary",
+ "title": "3C-E/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3C-E/Summary",
+  "pageid": 14790,
+  "last_edited": "2017-07-07T16:59:57Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "3C-E",
+ "plain_text": "",
+ "wikitext": "{{Summary|3C-E}}"
+}

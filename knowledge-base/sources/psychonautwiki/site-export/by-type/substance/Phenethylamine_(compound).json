@@ -1,0 +1,174 @@
+{
+ "id": "psychonautwiki:18278",
+ "type": "substance",
+ "title": "Phenethylamine (compound)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenethylamine_%28compound%29",
+  "pageid": 18278,
+  "last_edited": "2025-01-31T18:31:37Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Article without enough references",
+  "Articles with unsourced statements",
+  "Entactogen",
+  "Neurotransmitter",
+  "Phenethylamine"
+ ],
+ "substance_box_template": "SubstanceBox/Phenethylamine",
+ "substance_box": {
+  "names": {
+   "common": "Phenylethylamine; PEA",
+   "substitutive": "",
+   "systematic": "2-Phenylethan-1-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Arylethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": false
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Phenylethylamine",
+    "PEA"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of phenethylamine",
+   "clean": "Molecular structure of phenethylamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Phenethylamine.svg",
+   "clean": "File:Phenethylamine.svg"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Phenylethylamine]]; [[common name::PEA]]",
+   "clean": "Phenylethylamine; PEA"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-Phenylethan-1-amine",
+   "clean": "2-Phenylethan-1-amine"
+  },
+  "EffectClass": {
+   "raw": "[[Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Arylethylamine]]",
+   "clean": "Arylethylamine"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  }
+ },
+ "plain_text": "Phenethylamine (also called PEA, β-phenylethylamine, β-phenethylamine, or benzeneethanamine) is a trace amine and influencer of many neurotransmitters, such as dopamine and serotonin. Phenethylamine is an important molecule in the brain, but is not often used as a supplement because it is rapidly broken down into inactive components before it is able to reach and cross the blood-brain barrier.\n\nPhenylethylamine functions as a monoaminergic neuromodulator and, to a lesser extent, a neurotransmitter in the human central nervous system.  In addition to its presence in mammals, phenethylamine is found in many other organisms and foods, such as chocolate. It is also plays a role in feelings of affection, and this mechanism is perhaps partially responsible for its ability to enhance empathy, affection, and sociability.\n\nWhen taken in combination with an MAOI such as hordenine, it can produce profound entactogenic effects similar to that of MDMA. However, the effects are notably shorter-lived and accompanied by more severe side effects. A thorough investigation of 179 phenethylamine compounds was published by Ann and Alexander Shulgin under the title PiHKAL.\n\nChemistry\n\nPhenethylamine is comprised of a benzene ring attached to a mono-amine group via an ethyl side-chain. Orally ingested without a MAOI, phenethylamine goes through extensive first-pass metabolism by monoamine oxidase B (MAO-B) and then aldehyde dehydrogenase (ALDH), which metabolize it into phenylacetic acid. This prevents significant concentrations from reaching the brain in low doses.\n\nIn the body, it is biosynthesized from the amino acid L-phenylalanine by enzymatic decarboxylation via the enzyme aromatic L-amino acid decarboxylase.\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy, and half-life.\n\nPharmacology\n\nSeveral neurotransmitters are derived from phenethylamine such as adrenaline, dopamine, norepinephrine.\n\nPhenethylamine, being similar to Amphetamine in its action at their common biomolecular targets, releases Norepinephrine and Dopamine. Phenethylamine also appears to induce Acetylcholine release via a glutamate-mediated mechanism.\n\nPhenethylamine has been shown to bind to human trace amine-associated receptor 1 (hTAAR1) as an Agonist. Phenethylamine is also an odorant binding TAAR4 in mice thought to mediate predator avoidance.\n\nSubjective effects\n\nThe effects described are most often associated with combining phenethylamine with a MAOI such as hordenine, but may be present by itself in high doses.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Phenethylamine\n\nToxicity and harm potential\n\nThere are some cases of users experiencing extremely dangerous brain bleeds caused by the increase in blood pressure in high doses. Even normal high dose use that doesn't cause a brain bleed, causes a rapid and dangerous increases in blood pressure and could result in many acute medical issues. Extreme caution should be used when taking this substance, especially with an MAOI. \n\nLegal status\n\nIn most countries, phenethylamine is easily accessible. It is sold as a dietary supplement for purported mood- and weight loss-related therapeutic benefits.\n\nSee also\n\n*Responsible use\n*Substituted Phenethylamine\n*Alexander Shulgin\n\nExternal links\n\n*Phenethylamine (Wikipedia)\n*Phenethylamine (PiHKAL / Isomer Design)\n\nReferences\n\nCategory:Neurotransmitter\nCategory:Alkaloid\n \nCategory:Entactogen\n0x270 ~ > vim phenethylamine\n0x270 ~ > cat phenethylamine \n \nthumb|right|280px|Generic structure of a phenethylamine molecule\n\nPhenethylamine (also called PEA, β-phenylethylamine, β-phenethylamine, or benzeneethanamine) is a trace amine and influencer of many neurotransmitters, such as dopamine and serotonin. Phenethylamine is an important molecule in the brain, but is not often used as a supplement because it is rapidly broken down into inactive components before it is able to reach and cross the blood-brain barrier.\n\nPhenylethylamine functions as a monoaminergic neuromodulator and, to a lesser extent, a neurotransmitter in the human central nervous system.  In addition to its presence in mammals, phenethylamine is found in many other organisms and foods, such as chocolate. It is also plays a role in feelings of affection, and this mechanism is perhaps partially responsible for its ability to enhance empathy, affection, and sociability.\n\nWhen taken in combination with an MAOI such as hordenine, it can produce profound entactogenic effects similar to that of MDMA. However, the effects are notably shorter-lived and accompanied by more severe side effects. A thorough investigation of 179 phenethylamine compounds was published by Ann and Alexander Shulgin under the title PiHKAL.\n\nChemistry\n\nPhenethylamine is comprised of a benzene ring attached to a mono-amine group via an ethyl side-chain. Orally ingested without a MAOI, phenethylamine goes through extensive first-pass metabolism by monoamine oxidase B (MAO-B) and then aldehyde dehydrogenase (ALDH), which metabolize it into phenylacetic acid. This prevents significant concentrations from reaching the brain in low doses.\n\nIn the body, it is biosynthesized from the amino acid L-phenylalanine by enzymatic decarboxylation via the enzyme aromatic L-amino acid decarboxylase.\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy, and half-life.\n\nPharmacology\n\nSeveral neurotransmitters are derived from phenethylamine such as adrenaline, dopamine, norepinephrine.\n\nPhenethylamine, being similar to Amphetamine in its action at their common biomolecular targets, releases Norepinephrine and Dopamine. Phenethylamine also appears to induce Acetylcholine release via a glutamate-mediated mechanism.\n\nPhenethylamine has been shown to bind to human trace amine-associated receptor 1 (hTAAR1) as an Agonist. Phenethylamine is also an odorant binding TAAR4 in mice thought to mediate predator avoidance.\n\nSubjective effects\n\nThe effects described are most often associated with combining phenethylamine with a MAOI such as hordenine, but may be present by itself in high doses.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Phenethylamine\n\nToxicity and harm potential\n\nThere are some cases of users experiencing extremely dangerous brain bleeds caused by the increase in blood pressure in high doses. Even normal high dose use that doesn't cause a brain bleed, causes a rapid and dangerous increases in blood pressure and could result in many acute medical issues. Extreme caution should be used when taking this substance, especially with an MAOI. \n\nLegal status\n\nIn most countries, phenethylamine is easily accessible. It is sold as a dietary supplement for purported mood- and weight loss-related therapeutic benefits.\n\nSee also\n\n*Responsible use\n*Substituted Phenethylamine\n*Alexander Shulgin\n\nExternal links\n\n*Phenethylamine (Wikipedia)\n*Phenethylamine (PiHKAL / Isomer Design)\n\nReferences\n\nCategory:Neurotransmitter\nCategory:Alkaloid\nCategory:Phenethylamine\nCategory:Entactogen",
+ "wikitext": "{{SubstanceBox/Phenethylamine}}\n\n'''Phenethylamine''' (also called '''PEA''', '''β-phenylethylamine''', '''β-phenethylamine''', or '''benzeneethanamine''') is a trace amine and influencer of many neurotransmitters, such as [[dopamine]] and [[serotonin]]. Phenethylamine is an important molecule in the brain, but is not often used as a supplement because it is rapidly broken down into inactive components before it is able to reach and cross the blood-brain barrier.<ref>http://www.hmdb.ca/metabolites/HMDB12275</ref>\n\nPhenylethylamine functions as a monoaminergic neuromodulator and, to a lesser extent, a neurotransmitter in the human central nervous system.  In addition to its presence in mammals, phenethylamine is found in many other organisms and foods, such as chocolate.<ref name=\"Berry2004\" /> It is also plays a role in feelings of affection, and this mechanism is perhaps partially responsible for its ability to [[empathy, affection, and sociability enhancement|enhance empathy, affection, and sociability]].<ref>http://xray.bmc.uu.se/Courses/Bke1/1998/Projects/Lovechem/projekt.html</ref>\n\nWhen taken in combination with an [[MAOI]] such as hordenine, it can produce profound [[Entactogen|entactogenic]] effects similar to that of [[MDMA]]. However, the effects are notably shorter-lived and accompanied by more severe side effects. A thorough investigation of 179 phenethylamine compounds was published by Ann and Alexander Shulgin under the title [[PiHKAL]].\n\n==Chemistry==\nPhenethylamine is comprised of a benzene ring attached to a mono-amine group via an ethyl side-chain. Orally ingested without a [[MAOI]], phenethylamine goes through extensive first-pass metabolism by monoamine oxidase B (MAO-B) and then aldehyde dehydrogenase (ALDH), which metabolize it into phenylacetic acid. This prevents significant concentrations from reaching the brain in low doses.<ref>http://www.hmdb.ca/metabolites/HMDB12275</ref>\n\nIn the body, it is biosynthesized from the amino acid L-phenylalanine by enzymatic decarboxylation via the enzyme aromatic L-amino acid decarboxylase.<ref name=\"Berry2004\">{{cite journal | vauthors=((Berry, M. D.)) | journal=Journal of Neurochemistry | title=Mammalian central nervous system trace amines. Pharmacologic amphetamines, physiologic neuromodulators | volume=90 | issue=2 | pages=257–271 | date= July 2004 | issn=0022-3042 | doi=10.1111/j.1471-4159.2004.02501.x}}</ref>\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy, and half-life.\n\n==Pharmacology==\nSeveral [[neurotransmitter]]s are derived from phenethylamine such as [[adrenaline]], [[dopamine]], [[norepinephrine]].\n\nPhenethylamine, being similar to [[Amphetamine]] in its action at their common biomolecular targets, releases Norepinephrine and Dopamine.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019297</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005101</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4224135</ref> Phenethylamine also appears to induce [[Acetylcholine]] release via a glutamate-mediated mechanism.<ref>https://doi.org/10.5350%2FKPB-BCP201121113</ref>\n\nPhenethylamine has been shown to bind to [https://en.wikipedia.org/wiki/Human_trace_amine-associated_receptor_1 human trace amine-associated receptor 1] (hTAAR1) as an [[Agonist]].<ref>https://doi.org/10.1016%2Fj.biopha.2016.07.002\n\nhttps://pubmed.ncbi.nlm.nih.gov/27424325</ref> Phenethylamine is also an odorant binding TAAR4 in mice thought to mediate predator avoidance.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508243</ref>\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}} \n\nThe effects described are most often associated with combining phenethylamine with a [[MAOI]] such as [[hordenine]], but may be present by itself in high doses.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Motor controll loss]]'''\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of phenethylamine can be described as a moderate to extreme euphoric, soft, fuzzy, and warm tingling sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Increased heart rate]]''' {{citation needed}}\n*'''[[Effect::Increased blood pressure]]''' {{citation needed}}\n\n}}\n\n{{effects/visual|\nThe visual effects of phenethylamine only occur at higher doses and are subtly psychedelic. These generally include:\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Visual haze]]'''\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of phenethylamine can be broken down into several components which progressively intensify proportional to dosage. The general head space of phenethylamine is described by many as one of euphoria and feelings of love or empathy. It contains a number of typical [[Entactogens|entactogenic]] cognitive effects. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Strong emotional euphoria and feelings of happiness are present within phenethylamine and are a direct result of [[serotonin]] and [[dopamine]] release.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n}}\n\n|{{effects/transpersonal|\n*'''[[Effect::Unity and interconnectedness]] '''- At higher doses, some people report that this particular effect can be equally as pronounced and powerful as [[MDMA]], albeit very short-lived.\n\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Phenethylamine]][[Category:Experience]]|format=ul|Columns=2}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Phenethylamine.shtml Erowid Experience Vaults: Phenethylamine]\n\n==Toxicity and harm potential==\n{{toxicity}}\nThere are some cases of users experiencing extremely dangerous brain bleeds caused by the increase in blood pressure in high doses. Even normal high dose use that doesn't cause a brain bleed, causes a rapid and dangerous increases in blood pressure and could result in many acute medical issues. Extreme caution should be used when taking this substance, especially with an MAOI. \n\n==Legal status==\n{{LegalStub}}\nIn most countries, phenethylamine is easily accessible. It is sold as a dietary supplement for purported mood- and weight loss-related therapeutic benefits.\n\n==See also==\n\n*[[Responsible use]]\n*[[Substituted Phenethylamine]]\n*[[Alexander Shulgin]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Phenethylamine Phenethylamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=142 Phenethylamine (PiHKAL / Isomer Design)]\n\n==References==\n{{references}}\n\n[[Category:Neurotransmitter]]\n[[Category:Alkaloid]]\n[[Category:Phenethylamine| ]]\n[[Category:Entactogen]]\n0x270 ~ > vim phenethylamine\n0x270 ~ > cat phenethylamine \n{{For|the group of organic compounds based on phenethylamine|Substituted phenethylamine}} \n[[File:Phenethylamine.svg|thumb|right|280px|Generic structure of a ''phenethylamine'' molecule]]\n\n'''Phenethylamine''' (also called '''PEA''', '''β-phenylethylamine''', '''β-phenethylamine''', or '''benzeneethanamine''') is a trace amine and influencer of many neurotransmitters, such as [[dopamine]] and [[serotonin]]. Phenethylamine is an important molecule in the brain, but is not often used as a supplement because it is rapidly broken down into inactive components before it is able to reach and cross the blood-brain barrier.<ref>http://www.hmdb.ca/metabolites/HMDB12275</ref>\n\nPhenylethylamine functions as a monoaminergic neuromodulator and, to a lesser extent, a neurotransmitter in the human central nervous system.  In addition to its presence in mammals, phenethylamine is found in many other organisms and foods, such as chocolate.<ref name=\"Berry2004\" /> It is also plays a role in feelings of affection, and this mechanism is perhaps partially responsible for its ability to [[empathy, affection, and sociability enhancement|enhance empathy, affection, and sociability]].<ref>http://xray.bmc.uu.se/Courses/Bke1/1998/Projects/Lovechem/projekt.html</ref>\n\nWhen taken in combination with an [[MAOI]] such as hordenine, it can produce profound [[Entactogen|entactogenic]] effects similar to that of [[MDMA]]. However, the effects are notably shorter-lived and accompanied by more severe side effects. A thorough investigation of 179 phenethylamine compounds was published by Ann and Alexander Shulgin under the title [[PiHKAL]].\n\n==Chemistry==\nPhenethylamine is comprised of a benzene ring attached to a mono-amine group via an ethyl side-chain. Orally ingested without a [[MAOI]], phenethylamine goes through extensive first-pass metabolism by monoamine oxidase B (MAO-B) and then aldehyde dehydrogenase (ALDH), which metabolize it into phenylacetic acid. This prevents significant concentrations from reaching the brain in low doses.<ref>http://www.hmdb.ca/metabolites/HMDB12275</ref>\n\nIn the body, it is biosynthesized from the amino acid L-phenylalanine by enzymatic decarboxylation via the enzyme aromatic L-amino acid decarboxylase.<ref name=\"Berry2004\">{{cite journal | vauthors=((Berry, M. D.)) | journal=Journal of Neurochemistry | title=Mammalian central nervous system trace amines. Pharmacologic amphetamines, physiologic neuromodulators | volume=90 | issue=2 | pages=257–271 | date= July 2004 | issn=0022-3042 | doi=10.1111/j.1471-4159.2004.02501.x}}</ref>\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy, and half-life.\n\n==Pharmacology==\nSeveral [[neurotransmitter]]s are derived from phenethylamine such as [[adrenaline]], [[dopamine]], [[norepinephrine]].\n\nPhenethylamine, being similar to [[Amphetamine]] in its action at their common biomolecular targets, releases Norepinephrine and Dopamine.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019297</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005101</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4224135</ref> Phenethylamine also appears to induce [[Acetylcholine]] release via a glutamate-mediated mechanism.<ref>https://doi.org/10.5350%2FKPB-BCP201121113</ref>\n\nPhenethylamine has been shown to bind to [https://en.wikipedia.org/wiki/Human_trace_amine-associated_receptor_1 human trace amine-associated receptor 1] (hTAAR1) as an [[Agonist]].<ref>https://doi.org/10.1016%2Fj.biopha.2016.07.002\n\nhttps://pubmed.ncbi.nlm.nih.gov/27424325</ref> Phenethylamine is also an odorant binding TAAR4 in mice thought to mediate predator avoidance.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508243</ref>\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}} \n\nThe effects described are most often associated with combining phenethylamine with a [[MAOI]] such as [[hordenine]], but may be present by itself in high doses.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Motor controll loss]]'''\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of phenethylamine can be described as a moderate to extreme euphoric, soft, fuzzy, and warm tingling sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Increased heart rate]]''' {{citation needed}}\n*'''[[Effect::Increased blood pressure]]''' {{citation needed}}\n\n}}\n\n{{effects/visual|\nThe visual effects of phenethylamine only occur at higher doses and are subtly psychedelic. These generally include:\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Visual haze]]'''\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of phenethylamine can be broken down into several components which progressively intensify proportional to dosage. The general head space of phenethylamine is described by many as one of euphoria and feelings of love or empathy. It contains a number of typical [[Entactogens|entactogenic]] cognitive effects. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Strong emotional euphoria and feelings of happiness are present within phenethylamine and are a direct result of [[serotonin]] and [[dopamine]] release.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n}}\n\n|{{effects/transpersonal|\n*'''[[Effect::Unity and interconnectedness]] '''- At higher doses, some people report that this particular effect can be equally as pronounced and powerful as [[MDMA]], albeit very short-lived.\n\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Phenethylamine]][[Category:Experience]]|format=ul|Columns=2}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Phenethylamine.shtml Erowid Experience Vaults: Phenethylamine]\n\n==Toxicity and harm potential==\n{{toxicity}}\nThere are some cases of users experiencing extremely dangerous brain bleeds caused by the increase in blood pressure in high doses. Even normal high dose use that doesn't cause a brain bleed, causes a rapid and dangerous increases in blood pressure and could result in many acute medical issues. Extreme caution should be used when taking this substance, especially with an MAOI. \n\n==Legal status==\n{{LegalStub}}\nIn most countries, phenethylamine is easily accessible. It is sold as a dietary supplement for purported mood- and weight loss-related therapeutic benefits.\n\n==See also==\n\n*[[Responsible use]]\n*[[Substituted Phenethylamine]]\n*[[Alexander Shulgin]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Phenethylamine Phenethylamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=142 Phenethylamine (PiHKAL / Isomer Design)]\n\n==References==\n{{references}}\n\n[[Category:Neurotransmitter]]\n[[Category:Alkaloid]]\n[[Category:Phenethylamine]]\n[[Category:Entactogen]]"
+}

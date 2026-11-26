@@ -1,0 +1,466 @@
+{
+ "id": "psychonautwiki:19233",
+ "type": "substance",
+ "title": "Midazolam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Midazolam",
+  "pageid": 19233,
+  "last_edited": "2024-06-03T00:11:45Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Approval",
+  "Articles with unsourced statements",
+  "Benzodiazepine",
+  "Depressant",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Midazolam",
+ "substance_box": {
+  "names": {
+   "common": "Midazolam, Versed",
+   "substitutive": "Midazolam",
+   "systematic": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "40%",
+    "threshold": "1 mg",
+    "light": "2.5 - 5 mg",
+    "common": "5 - 15 mg",
+    "strong": "15 - 30 mg",
+    "heavy": "30 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "30 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 5 mg",
+    "heavy": "5 mg +",
+    "duration": "2 - 6 hours",
+    "onset": "4 - 6 minutes",
+    "peak": "1 - 4 hours",
+    "offset": "0.5 - 1.5 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Midazolam",
+    "Versed"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "15"
+   ],
+   "Oral min strong dose": [
+    "15"
+   ],
+   "Oral max strong dose": [
+    "30"
+   ],
+   "Oral heavy dose": [
+    "30"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Intravenous threshold dose": [
+    "1"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "1"
+   ],
+   "Intravenous max light dose": [
+    "2"
+   ],
+   "Intravenous min common dose": [
+    "2"
+   ],
+   "Intravenous max common dose": [
+    "4"
+   ],
+   "Intravenous min strong dose": [
+    "4"
+   ],
+   "Intravenous max strong dose": [
+    "5"
+   ],
+   "Intravenous heavy dose": [
+    "5"
+   ],
+   "Intravenous min total time": [
+    "2"
+   ],
+   "Intravenous max total time": [
+    "6"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "4"
+   ],
+   "Intravenous max onset time": [
+    "6"
+   ],
+   "Intravenous onset time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "1"
+   ],
+   "Intravenous max peak time": [
+    "4"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "0.5"
+   ],
+   "Intravenous max offset time": [
+    "1.5"
+   ],
+   "Intravenous offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Midazolam",
+   "clean": "Molecular structure of Midazolam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Midazolam.svg",
+   "clean": "File:Midazolam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Midazolam]], [[common name::Versed]]",
+   "clean": "Midazolam, Versed"
+  },
+  "NameSubstitution": {
+   "raw": "Midazolam",
+   "clean": "Midazolam"
+  },
+  "NameSystematic": {
+   "raw": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine",
+   "clean": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "40%",
+   "clean": "40%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg",
+   "clean": "2.5 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::15]] - [[Oral max strong dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::30]] mg +",
+   "clean": "30 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::1]] [[Intravenous dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::1]] - [[Intravenous max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::2]] - [[Intravenous max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::4]] - [[Intravenous max strong dose::5]] mg",
+   "clean": "4 - 5 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::5]] mg +",
+   "clean": "5 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::2]] - [[Intravenous max total time::6]] [[Intravenous total time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::4]] - [[Intravenous max onset time::6]] [[Intravenous onset time units::minutes]]",
+   "clean": "4 - 6 minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::1]] - [[Intravenous max peak time::4]] [[Intravenous peak time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::0.5]] - [[Intravenous max offset time::1.5]] [[Intravenous offset time units::hours]]",
+   "clean": "0.5 - 1.5 hours"
+  }
+ },
+ "plain_text": "Midazolam (trade name Versed) is a depressant substance of the benzodiazepine class. It acts as a GABA receptor agonist. \n\nMidazolam was patented in 1974 and was adopted for medical use in 1982. It is used for anesthesia, procedural sedation, trouble sleeping, seizures, and severe agitation. It is on the World Health Organization's List of Essential Medicines.\n\nSubjective effects include sedation, anxiety suppression, disinhibition, muscle relaxation, respiratory depression, and moderate euphoria. It can be administered orally, intravenously, or by injection into a muscle.\n\nAdditionally, it should be noted that the sudden discontinuation of benzodiazepines can be dangerous or even life-threatening for individuals for heavy or long-term users. As a result, individuals who are physically dependent on this substance are advised to taper their dose by gradually lowering the amount taken each day over a prolonged period instead of stopping use abruptly.\n\nIt is strongly advised to use harm reduction practices if using this substance. \n\nChemistry\n\nMidazolam Hydrochloride is the hydrochloride salt of the short-acting benzodiazepine derivative with an imidazole core structure, making it an imidazobenzodiazepine. It is water-soluble at pH less than 4 and lipid-soluble at physiological pH. The pK of midazolam is 6.15, which permits the preparations of salts to be water soluble. The parenteral solution of midazolam used clinically is buffered to an acidic pH of 3.5.\n\nPharmacology\n\nMidazolam is a short-acting benzodiazepine in adults with an elimination half-life of 1.5–2.5 hours. Midazolam is metabolised into an active metabolite alpha1-hydroxymidazolam. However, the active metabolite of midazolam is minor and contributes to only 10 percent of biological activity of midazolam. Midazolam is poorly absorbed orally, with only 50 percent of the drug reaching the bloodstream.\n\nMidazolam is metabolized by cytochrome P450 (CYP) enzymes and by glucuronide conjugation. The therapeutic and adverse effects of midazolam are a result of its effects on the GABAA receptors; midazolam does not activate GABAA receptors directly but, as with other benzodiazepines, it enhances the effect of the neurotransmitter GABA on the GABAA receptors (↑ frequency of Cl− channel opening) resulting in neural inhibition. Almost all of the pharmacokinetic properties can be explained by the actions of benzodiazepines on GABAA receptors.\n\nSubjective effects\n\nPeople experiencing amnesia as a side effect of midazolam are generally unaware their memory is impaired, unless they had previously known it as a side effect.Long-term use of benzodiazepines has been associated with long-lasting deficits of memory, and show only partial recovery six months after stopping benzodiazepines. It is unclear whether full recovery occurs after longer periods of abstinence. Benzodiazepines can cause or worsen depression. Paradoxical excitement occasionally occurs with benzodiazepines, including a worsening of seizures.\n\nToxicity and harm potential\n\nDependence and abuse potential\n\nBenzodiazepine dependence occurs in about one-third of individuals who are treated with benzodiazepines for longer than 4 weeks, which typically results in tolerance and benzodiazepine withdrawal syndrome when the dose is reduced too rapidly. Midazolam infusions may induce tolerance and a withdrawal syndrome in a matter of days. \n\nThe risk factors for dependence include dependent personality, use of a benzodiazepine that is short-acting, high potency and long-term use of benzodiazepines. Withdrawal symptoms from midazolam can range from insomnia and anxiety to seizures and psychosis. Withdrawal symptoms can sometimes resemble a person's underlying condition. \n\nGradual reduction of midazolam after regular use can minimise withdrawal and rebound effects. Tolerance and the resultant withdrawal syndrome may be due to receptor down-regulation and GABAA receptor alterations in gene expression, which causes long-term changes in the function of the GABAergic neuronal system.\n\nOverdose\n\nA midazolam overdose is considered a medical emergency and generally requires the immediate attention of medical personnel. Benzodiazepine overdose in healthy individuals is rarely life-threatening with proper medical support; however, the toxicity of benzodiazepines increases when they are combined with other CNS depressants such as alcohol, opioids, or tricyclic antidepressants. The toxicity of benzodiazepine overdose and risk of death is also increased in the elderly and those with obstructive pulmonary disease or when used intravenously.\n\nDangerous interactions\n\nProtease inhibitors, nefazodone, sertraline, grapefruit, fluoxetine, erythromycin, diltiazem, clarithromycin inhibit the metabolism of midazolam, leading to a prolonged action. St John's wort, rifapentine, rifampin, rifabutin, phenytoin enhance the metabolism of midazolam leading to a reduced action. Sedating antidepressants, antiepileptic drugs such as phenobarbital, phenytoin and carbamazepine, sedative antihistamines, opioids, antipsychotics and alcohol enhance the sedative effects of midazolam.\n\nSt John's wort decreases the blood levels of midazolam. Grapefruit juice reduces intestinal 3A4 and results in less metabolism and higher plasma concentrations.\n\nLegal status\n\n*Sweden: Midazolam is a prescription only medication.\n*Brazil: Midazolam is a prescription only medication.\n*United States: Midazolam is a Schedule IV substance.\n\nSee also\n\n*Responsible use\n*Depressants\n*Benzodiazepines\n\nExternal links\n\n*Midazolam (Wikipedia)\n*Midazolam (Isomer Design)\n*Midazolam (DrugBank)\n*Midazolam (Drugs.com)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Benzodiazepine\nCategory:Approval\n__FORCETOC__\n__INDEX__",
+ "wikitext": "{{Headerpanel|{{DepressantOD|benzodiazepines}}{{approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/Midazolam}}\n'''Midazolam''' (trade name '''Versed''') is a [[psychoactive class::depressant]] substance of the [[chemical class::benzodiazepine]] class. It acts as a [[GABA]] [[receptor]] [[agonist]]. \n\nMidazolam was patented in 1974 and was adopted for medical use in 1982.<ref>{{cite book | vauthors=((Fischer, J.)), ((Ganellin, C. R.)) | date= 2006 | title=Analogue-based drug discovery | publisher=Wiley-VCH | url=http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=481323 | isbn=9783527607495}}</ref> It is used for anesthesia, procedural sedation, trouble sleeping, [[Seizure|seizures]], and severe agitation.<ref>\"Midazolam Hydrochloride\". The American Society of Health-System Pharmacists. Archived from the original on 5 September 2015.</ref> It is on the World Health Organization's List of Essential Medicines.<ref>World Health Organization (2019). World Health Organization model list of essential medicines: 21st list 2019. Geneva: World Health Organization. hdl:10665/325771. WHO/MVP/EMP/IAU/2019.06. License: CC BY-NC-SA 3.0 IGO.</ref>\n\n[[Subjective effects]] include [[sedation]], [[anxiety suppression]], [[disinhibition]], [[muscle relaxation]], [[respiratory depression]], and moderate [[euphoria]]. It can be administered orally, intravenously, or by injection into a muscle.\n\nAdditionally, it should be noted that the sudden discontinuation of benzodiazepines can be dangerous or even life-threatening for individuals for heavy or long-term users. As a result, individuals who are physically dependent on this substance are advised to [[taper]] their dose by gradually lowering the amount taken each day over a prolonged period instead of stopping use abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\nIt is strongly advised to use [[harm reduction practices]] if using this substance. \n\n==Chemistry==\n{{chemistry}}\nMidazolam Hydrochloride is the hydrochloride salt of the short-acting [[Benzodiazepines|benzodiazepine]] derivative with an imidazole core structure, making it an imidazobenzodiazepine. It is water-soluble at pH less than 4 and lipid-soluble at physiological pH. The pK of midazolam is 6.15, which permits the preparations of salts to be water soluble. The parenteral solution of midazolam used clinically is buffered to an acidic pH of 3.5.<ref>{{cite journal | vauthors=((Basu, S.)), ((Bandyopadhyay, A. K.)) | journal=AAPS PharmSciTech | title=Development and Characterization of Mucoadhesive In Situ Nasal Gel of Midazolam Prepared with Ficus carica Mucilage | volume=11 | issue=3 | pages=1223–1231 | date= September 2010 | url=http://link.springer.com/10.1208/s12249-010-9477-x | issn=1530-9932 | doi=10.1208/s12249-010-9477-x}}</ref>\n\n==Pharmacology==\n{{pharmacology}}\nMidazolam is a short-acting benzodiazepine in adults with an elimination half-life of 1.5–2.5 hours.<ref>\"Midazolam Injection\" (PDF). Medsafe. New Zealand Ministry of Health. 26 October 2012. Archived from the original (PDF) on 22 February 2016.</ref> Midazolam is metabolised into an active metabolite alpha1-hydroxymidazolam. However, the active metabolite of midazolam is minor and contributes to only 10 percent of biological activity of midazolam. Midazolam is poorly absorbed orally, with only 50 percent of the drug reaching the bloodstream.<ref name=\"Riss2008\">{{cite journal | vauthors=((Riss, J.)), ((Cloyd, J.)), ((Gates, J.)), ((Collins, S.)) | journal=Acta Neurologica Scandinavica | title=Benzodiazepines in epilepsy: pharmacology and pharmacokinetics | volume=118 | issue=2 | pages=69–86 | date= August 2008 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0404.2008.01004.x | issn=00016314 | doi=10.1111/j.1600-0404.2008.01004.x}}</ref>\n\nMidazolam is metabolized by cytochrome P450 (CYP) enzymes and by glucuronide conjugation. The therapeutic and adverse effects of midazolam are a result of its effects on the GABAA receptors; midazolam does not activate GABAA receptors directly but, as with other benzodiazepines, it enhances the effect of the neurotransmitter GABA on the GABAA receptors (↑ frequency of Cl− channel opening) resulting in neural inhibition. Almost all of the pharmacokinetic properties can be explained by the actions of benzodiazepines on GABAA receptors.\n\n==Subjective effects==\nPeople experiencing amnesia as a side effect of midazolam are generally unaware their memory is impaired, unless they had previously known it as a side effect.<ref name=\":0\">{{cite journal | vauthors=((Merritt, P.)), ((Hirshman, E.)), ((Hsu, J.)), ((Berrigan, M.)) | journal=Psychopharmacology | title=Metamemory without the memory: are people aware of midazolam-induced amnesia? | volume=177 | issue=3 | pages=336–343 | date= January 2005 | url=http://link.springer.com/10.1007/s00213-004-1958-8 | issn=0033-3158 | doi=10.1007/s00213-004-1958-8}}</ref>Long-term use of benzodiazepines has been associated with long-lasting deficits of memory, and show only partial recovery six months after stopping benzodiazepines. It is unclear whether full recovery occurs after longer periods of abstinence. Benzodiazepines can cause or worsen depression. Paradoxical excitement occasionally occurs with benzodiazepines, including a worsening of seizures.<ref name=\":0\" />\n==Toxicity and harm potential==\n{{toxicityStub}}\n\n===Dependence and abuse potential===\n\nBenzodiazepine dependence occurs in about one-third of individuals who are treated with benzodiazepines for longer than 4 weeks, which typically results in tolerance and benzodiazepine withdrawal syndrome when the dose is reduced too rapidly. Midazolam infusions may induce tolerance and a withdrawal syndrome in a matter of days. \n\nThe risk factors for dependence include dependent personality, use of a benzodiazepine that is short-acting, high potency and long-term use of benzodiazepines. Withdrawal symptoms from midazolam can range from insomnia and anxiety to seizures and psychosis. Withdrawal symptoms can sometimes resemble a person's underlying condition. \n\nGradual reduction of midazolam after regular use can minimise withdrawal and rebound effects. Tolerance and the resultant withdrawal syndrome may be due to receptor down-regulation and GABA<sub>A</sub> receptor alterations in gene expression, which causes long-term changes in the function of the GABAergic neuronal system.<ref name=\"Riss2008\" />\n\n===Overdose===\nA midazolam overdose is considered a medical emergency and generally requires the immediate attention of medical personnel. Benzodiazepine overdose in healthy individuals is rarely life-threatening with proper medical support; however, the toxicity of benzodiazepines increases when they are combined with other CNS depressants such as alcohol, opioids, or tricyclic antidepressants. The toxicity of benzodiazepine overdose and risk of death is also increased in the elderly and those with obstructive pulmonary disease or when used intravenously.\n\n===Dangerous interactions===\nProtease inhibitors, nefazodone, sertraline, grapefruit, fluoxetine, erythromycin, diltiazem, clarithromycin inhibit the metabolism of midazolam, leading to a prolonged action. St John's wort, rifapentine, rifampin, rifabutin, phenytoin enhance the metabolism of midazolam leading to a reduced action. Sedating antidepressants, antiepileptic drugs such as phenobarbital, phenytoin and carbamazepine, sedative antihistamines, opioids, antipsychotics and alcohol enhance the sedative effects of midazolam.<ref name=\"Riss2008\" />\n\nSt John's wort decreases the blood levels of midazolam. Grapefruit juice reduces intestinal 3A4 and results in less metabolism and higher plasma concentrations.\n\n==Legal status==\n{{legalStub}}\n\n*'''Sweden''': Midazolam is a prescription only medication.\n*'''Brazil''': Midazolam is a prescription only medication.\n*'''United States''': Midazolam is a Schedule IV substance.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Midazolam Midazolam (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3023 Midazolam (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00683 Midazolam (DrugBank)]\n*[https://www.drugs.com/mtm/midazolam.html Midazolam (Drugs.com)]\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Benzodiazepine]]\n[[Category:Approval]]\n__FORCETOC__\n__INDEX__"
+}

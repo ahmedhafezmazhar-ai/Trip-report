@@ -1,0 +1,241 @@
+{
+ "id": "psychonautwiki:16908",
+ "type": "substance",
+ "title": "LAE-32",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/LAE-32",
+  "pageid": 16908,
+  "last_edited": "2022-04-07T07:15:54Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Entheogen",
+  "Hallucinogen",
+  "Lysergamide",
+  "Proofread",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Stub"
+ ],
+ "substance_box_template": "SubstanceBox/LAE-32",
+ "substance_box": {
+  "names": {
+   "common": "LAE-32",
+   "substitutive": "d-Lysergic acid ethylamide",
+   "systematic": "(6aR,9R)-N-Ethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "common": "500 - 1500 µg",
+    "duration": "4 - 10 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Lysergamide"
+   ],
+   "Oral min common dose": [
+    "500"
+   ],
+   "Oral max common dose": [
+    "1500"
+   ],
+   "Oral dose units": [
+    "µg"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of LAE-32",
+   "clean": "Molecular structure of LAE-32"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:LAE-32.svg",
+   "clean": "File:LAE-32.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "LAE-32",
+   "clean": "LAE-32"
+  },
+  "NameSubstitution": {
+   "raw": "d-Lysergic acid ethylamide",
+   "clean": "d-Lysergic acid ethylamide"
+  },
+  "NameSystematic": {
+   "raw": "(6aR,9R)-N-Ethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide",
+   "clean": "(6aR,9R)-N-Ethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::500]] - [[Oral max common dose::1500]] [[Oral dose units::µg]]",
+   "clean": "500 - 1500 µg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Lysergic acid ethylamide (also known as LAE-32, LAE, and d-ethyllysergamide) is a lesser-known psychedelic substance of the lysergamide class. It is one of the least known and least researched psychedelic substances.\n\nThe pharmacology of LAE-32 is complex, but it acts primarily by binding to serotonin receptors in the brain, much like LSD and other serotonergic psychedelics.\n\nHistory and culture\n\nThe CIA and Project MKULTRA Findings\n\nLAE-32 was experimented with by the CIA as part of Project MKULTRA. It was reported to create a condition similar to that of schizophrenia in mentally healthy individuals, characterized by indifference and depersonalization. While it was reported that, when used on schizophrenics, it created a condition that allowed the patients to become indifferent to their hallucinations and cease hallucinatory excitation.\n\nChemistry\n\nLAE-32, or d-lysergic acid ethylamide, is a semisynthetic substance of the lysergamide family. \n\nIts chemical structure consists of a bicyclic hexahydroindole ring fused to a bicyclic quinoline group (lysergic acid). At carbon 8 of the quinoline an N, generally N-ethyl carboxamide is bound, LAE-32 is additionally substituted at carbon 6 with a methyl group.\n\nPharmacology\n\nLAE-32 most likely acts by binding to serotonin receptors in the brain. It may, like LSD, bind to dopamine receptors as well.\n\nSubjective effects\n\nThe subjective effects of LAE-32 are reportedly mainly sedating and depersonalizing, creating a state of indifference in users.\n\nDangerous interactions\n\n*Cannabis - Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like anxiety, confusion and psychosis. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*Amphetamines & Cocaine - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*Tramadol - Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.\n\nLegal status\n\nLAE-32 is not explicitly illegal in any nation, but it is possibly illegal to possess in the United States for purposes of consumption due to the Federal Analog Act.\n\nSee also\n\n* Responsible use (Hallucinogens)\n* Psychedelics\n* Lysergamide\n* LSD\n* Psilocin\n* Mescaline\n\nExternal links\n\n* LAE-32 (Wikipedia)\n* Project MKULTRA: LSD and LAE-32 (Imgur images of declassified CIA MKULTRA documents)\n* LAE-32 (TiHKAL / Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Entheogen\nCategory:Hallucinogen\nCategory:Psychedelic\nCategory:Lysergamide\nCategory:Approval\nCategory:Proofread",
+ "wikitext": "{{approval}}\n{{stub}}\n{{SummarySheet}}\n{{SubstanceBox/LAE-32}}\n\n'''Lysergic acid ethylamide''' (also known as '''LAE-32''', '''LAE''', and '''d-ethyllysergamide''') is a lesser-known [[psychoactive class::psychedelic]] substance of the [[chemical class::lysergamide]] class. It is one of the least known and least researched psychedelic substances.\n\nThe pharmacology of LAE-32 is complex{{citation needed}}, but it acts primarily by binding to [[serotonin]] [[receptors]] in the brain, much like LSD and other serotonergic psychedelics.{{citation needed}}\n\n==History and culture==\n{{historyStub}}\n===The CIA and Project MKULTRA Findings===\nLAE-32 was experimented with by the CIA as part of Project MKULTRA. It was reported to create a condition similar to that of schizophrenia in mentally healthy individuals, characterized by indifference and depersonalization. While it was reported that, when used on schizophrenics, it created a condition that allowed the patients to become indifferent to their hallucinations and cease hallucinatory excitation.\n\n==Chemistry==\nLAE-32, or d-lysergic acid ethylamide, is a semisynthetic substance of the [[lysergamide]] family. \n\nIts chemical structure consists of a bicyclic hexahydroindole ring fused to a bicyclic quinoline group (lysergic acid). At carbon 8 of the quinoline an N, generally N-ethyl carboxamide is bound, LAE-32 is additionally substituted at carbon 6 with a methyl group.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nLAE-32 most likely acts by binding to serotonin receptors in the brain. It may, like [[LSD]], bind to dopamine receptors as well.\n\n==Subjective effects==\nThe subjective effects of LAE-32 are reportedly mainly sedating and depersonalizing, creating a state of indifference in users.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Sedation]]''' - This effect is mild compared to traditional [[sedatives]] such as [[barbiturates]] and [[benzodiazepines]].\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Motivation suppression]]''' - LAE-32 is unique among psychedelics for its ability to suppress willpower. \n*'''[[Effect::Personality regression]]'''\n\n}}\n}}\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::Cannabis]]''' - Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like [[anxiety]], [[confusion]] and [[psychosis]]. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*'''[[UncertainInteraction::Amphetamines]]''' & '''[[UncertainInteraction::Cocaine]]''' - Stimulants increase [[anxiety]] levels and the risk of [[thought loops]] which can lead to negative experiences.\n*'''[[UnsafeInteraction::Tramadol]]''' - Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.\n\n==Legal status==\nLAE-32 is not explicitly illegal in any nation, but it is possibly illegal to possess in the United States for purposes of consumption due to the Federal Analog Act.\n\n==See also==\n* [[Responsible use (Hallucinogens)]]\n* [[Psychedelics]]\n* [[Lysergamide]]\n* [[LSD]]\n* [[Psilocin]]\n* [[Mescaline]]\n\n==External links==\n* [https://en.wikipedia.org/wiki/LAE-32 LAE-32 (Wikipedia)]\n* [https://imgur.com/a/Y4CTo Project MKULTRA: LSD and LAE-32 (Imgur images of declassified CIA MKULTRA documents)]\n* [https://isomerdesign.com/PiHKAL/explore.php?domain=tk&id=5311 LAE-32 (TiHKAL / Isomer Design)]\n\n==References==\n{{reflist|2}}\n[[Category:Psychoactive substance]]\n[[Category:Entheogen]]\n[[Category:Hallucinogen]]\n[[Category:Psychedelic]]\n[[Category:Lysergamide]]\n[[Category:Approval]]\n[[Category:Proofread]]\n{{#set:Featured=true}}"
+}

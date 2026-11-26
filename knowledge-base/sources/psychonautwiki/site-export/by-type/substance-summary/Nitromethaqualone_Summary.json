@@ -1,0 +1,499 @@
+{
+ "id": "psychonautwiki:22448",
+ "type": "substance-summary",
+ "title": "Nitromethaqualone/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nitromethaqualone/Summary",
+  "pageid": 22448,
+  "last_edited": "2024-07-14T17:59:38Z"
+ },
+ "categories": [],
+ "substance_box_template": "SubstanceBox/Nitromethaqualone",
+ "substance_box": {
+  "names": {
+   "common": "Nitromethaqualone",
+   "substitutive": "Nitromethaqualone",
+   "systematic": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Quinazolinone"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "5 - 10 minutes",
+    "comeup": "10 - 20 minutes",
+    "peak": "1 - 3 hours",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "4 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 25 mg",
+    "common": "25 - 50 mg",
+    "strong": "50 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Nitromethaqualone"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "5"
+   ],
+   "Insufflated max light dose": [
+    "10"
+   ],
+   "Insufflated min common dose": [
+    "10"
+   ],
+   "Insufflated max common dose": [
+    "30"
+   ],
+   "Insufflated min strong dose": [
+    "30"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "8"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "10"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "20"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "60"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "4"
+   ],
+   "Insufflated max afterglow time": [
+    "12"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "25"
+   ],
+   "Oral min common dose": [
+    "25"
+   ],
+   "Oral max common dose": [
+    "50"
+   ],
+   "Oral min strong dose": [
+    "50"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Nitromethaqualone.svg",
+   "clean": "File:Nitromethaqualone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Nitromethaqualone]]",
+   "clean": "Nitromethaqualone"
+  },
+  "NameSubstitution": {
+   "raw": "Nitromethaqualone",
+   "clean": "Nitromethaqualone"
+  },
+  "NameSystematic": {
+   "raw": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone",
+   "clean": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Quinazolinone]]",
+   "clean": "Quinazolinone"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::5]] - [[Insufflated max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::10]] - [[Insufflated max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::30]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::8]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::10]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::20]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::60]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::4]] - [[Insufflated max afterglow time::12]] [[Insufflated afterglow time units::hours]]",
+   "clean": "4 - 12 hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::25]] - [[Oral max common dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::50]] - [[Oral max strong dose::60]] mg",
+   "clean": "50 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  }
+ },
+ "summary_of": "Nitromethaqualone",
+ "plain_text": "Nitromethaqualone is a central nervous system (CNS) depressant of the quinazolinone class that acts as a sedative and hypnotic. Nitromethaqualone is a derivative of methaqualone, distinguished by the presence of a nitro group, which affects its pharmacological profile. While methaqualone gained popularity in the 1960s and 70s, nitromethaqualone has been studied less extensively but exhibits similar depressant effects.\n\nChemistry\n\nNitromethaqualone, or 2-methyl-3-(2-nitrophenyl)-4(3H)-quinazolinone, is a compound of the quinazolinone class. Quinazolinone is a bicyclic structure containing a phenyl ring bound to another six-membered ring with two nitrogen members and a ketone group bound to R4. In nitromethaqualone, this structure is substituted at R2 with a methyl group and at R3 with a nitro-substituted phenyl ring.\n\nNitromethaqualone is also known as 3,4-dihydro-2-methyl-3-(2-nitrophenyl)-4-oxoquinazoline. The nitro group presence distinguishes it from methaqualone and can alter its potency, duration of action, and safety profile.\n\nPharmacology\n\nNitromethaqualone acts on the central nervous system by modulating the activity of GABA receptor sites, enhancing the inhibitory effects of the neurotransmitter GABA. This modulation leads to the sedative and hypnotic effects associated with the drug. However, specific studies on nitromethaqualone's pharmacodynamics suggest it may have a different binding affinity and efficacy at GABAA receptors compared to methaqualone.\n\nDespite its similarities to methaqualone, nitromethaqualone's distinct chemical structure may contribute to variations in its subjective and physiological effects. The presence of the nitro group could affect its metabolism, duration of action, and potential for adverse effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Methaqualone\n\nToxicity and harm potential\n\nIndependent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nOverdose of nitromethaqualone can lead to seizures, coma, or death. Doses of over 300mg can be dangerous for first-time users. Depending on the user's individual tolerance, doses of about 8,000mg per day can be fatal, while some users on higher doses (up to 20,000mg) may survive.\n\nAlthough the exact lethal dosage of nitromethaqualone has not been formally established, it is generally considered safe at appropriate dosages. Complications may arise when administered in excess or in combination with other depressants.\n\nIt is strongly recommended to use harm reduction practices when using this substance.\n\nIllegally produced nitromethaqualone may contain other central nervous system depressants, such as benzodiazepines or fentanyl, posing additional risks.\n\nTolerance and addiction potential\n\nNitromethaqualone is extremely addictive. Tolerance to its sedative-hypnotic effects develops within a few days of repeated administration. After that, it takes about 3 - 7 days for tolerance to be reduced by half and 1 - 2 weeks to return to baseline (in the absence of further consumption). Nitromethaqualone presents cross-tolerance with all GABA [[depressants]], meaning that after consuming nitromethaqualone, all compounds of the same class will have a reduced effect.\n\nAbrupt discontinuation following regular dosing over several days can result in withdrawal symptoms such as increased anxiety and insomnia. Gradually reducing the dose over several days can lengthen the withdrawal period but reduce its intensity.\n\nDangerous interactions\n\nLegal status\n\nSee also\n\n*Responsible use\n*Depressants\n*Methaqualone\n*GHB\n\nExternal links\n\n*(Wikipedia)\n*(PubChem)\n*(NCBI)\n*Quaaludes (Drugs.com)\n\nReferences",
+ "wikitext": "{{DepressantOD|GABAergics}}\n{{SummarySheet}}\n{{SubstanceBox/Nitromethaqualone}}\n\n'''Nitromethaqualone''' is a central nervous system (CNS) [[psychoactive class::depressant]] of the [[chemical class::quinazolinone]] class that acts as a [[sedative]] and [[hypnotic]]. Nitromethaqualone is a derivative of methaqualone, distinguished by the presence of a nitro group, which affects its pharmacological profile. While methaqualone gained popularity in the 1960s and 70s, nitromethaqualone has been studied less extensively but exhibits similar depressant effects.\n\n==Chemistry==\nNitromethaqualone, or 2-methyl-3-(2-nitrophenyl)-4(3H)-quinazolinone, is a compound of the quinazolinone class. Quinazolinone is a bicyclic structure containing a phenyl ring bound to another six-membered ring with two nitrogen members and a ketone group bound to R<sub>4</sub>. In nitromethaqualone, this structure is substituted at R<sub>2</sub> with a methyl group and at R<sub>3</sub> with a nitro-substituted phenyl ring.\n\nNitromethaqualone is also known as 3,4-dihydro-2-methyl-3-(2-nitrophenyl)-4-oxoquinazoline. The nitro group presence distinguishes it from methaqualone and can alter its potency, duration of action, and safety profile.\n\n==Pharmacology==\nNitromethaqualone acts on the central nervous system by modulating the activity of [[GABA]] [[receptor]] sites, enhancing the inhibitory effects of the neurotransmitter GABA. This modulation leads to the sedative and hypnotic effects associated with the drug. However, specific studies on nitromethaqualone's pharmacodynamics suggest it may have a different binding affinity and efficacy at GABA<sub>A</sub> receptors compared to methaqualone.\n\nDespite its similarities to methaqualone, nitromethaqualone's distinct chemical structure may contribute to variations in its subjective and physiological effects. The presence of the nitro group could affect its metabolism, duration of action, and potential for adverse effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Nitromethaqualone induces profound sedation, often leading to lethargy and sleepiness. Higher doses can result in overwhelming drowsiness and a strong urge to sleep.\n*'''[[Effect::Physical euphoria]]''' - Users may experience mild to moderate physical euphoria, characterized by a sense of relaxation and well-being.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Changes in felt gravity]]'''\n\n}}\n{{effects/visual|\nThe visual effects of nitromethaqualone, while less pronounced than some other psychoactive substances, may include:\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Visual disconnection]]''' - A sense of disconnection from visual input can occur at higher doses.\n*'''[[Effect::Internal hallucination]]''' - Internal hallucinations may manifest as hypnagogic scenarios, particularly at higher doses.\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Autonomous voice communication]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Methaqualone.shtml Erowid Experience Vaults: Methaqualone]\n\n==Toxicity and harm potential==\nIndependent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nOverdose of nitromethaqualone can lead to seizures, coma, or death. [[toxicity::Doses of over 300mg can be dangerous for first-time users]]. Depending on the user's individual tolerance, doses of about 8,000mg per day can be fatal, while some users on higher doses (up to 20,000mg) may survive.\n\nAlthough the exact lethal dosage of nitromethaqualone has not been formally established, it is generally considered [[Toxicity::safe at appropriate dosages]]. Complications may arise when administered in excess or in combination with other depressants.\n\nIt is strongly recommended to use [[responsible drug use|harm reduction practices]] when using this substance.\n\nIllegally produced nitromethaqualone may contain other central nervous system depressants, such as benzodiazepines or fentanyl, posing additional risks.\n\n===Tolerance and addiction potential===\nNitromethaqualone is [[Addiction potential::extremely addictive]]. Tolerance to its sedative-hypnotic effects develops [[Time to full tolerance::within a few days of repeated administration]]. After that, it takes about [[Time to half tolerance::3 - 7 days]] for tolerance to be reduced by half and [[Time to zero tolerance::1 - 2 weeks]] to return to baseline (in the absence of further consumption). Nitromethaqualone presents cross-tolerance with [[Cross-tolerance::all [[GABA|gabaergic]] [[depressants]]]], meaning that after consuming nitromethaqualone, all compounds of the same class will have a reduced effect.\n\nAbrupt discontinuation following regular dosing over several days can result in withdrawal symptoms such as increased anxiety and insomnia. Gradually reducing the dose over several days can lengthen the withdrawal period but reduce its intensity.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\n{{LegalStub}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Methaqualone]]\n*[[GHB]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Nitromethaqualone (Wikipedia)]\n*[https://pubchem.ncbi.nlm.nih.gov/compound/100235 (PubChem)]\n*[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757337/ (NCBI)]\n*[http://www.drugs.com/quaaludes.html Quaaludes (Drugs.com)]\n\n==References==\n<references />"
+}

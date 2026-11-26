@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21243",
+ "type": "substance-summary",
+ "title": "Fenethylline/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Fenethylline/Summary",
+  "pageid": 21243,
+  "last_edited": "2023-10-04T22:34:34Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Fenethylline",
+ "plain_text": "",
+ "wikitext": "{{Summary|Fenethylline}}"
+}

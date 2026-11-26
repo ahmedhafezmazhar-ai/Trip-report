@@ -1,0 +1,442 @@
+{
+ "id": "psychonautwiki:9233",
+ "type": "substance",
+ "title": "1P-LSD",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1P-LSD",
+  "pageid": 9233,
+  "last_edited": "2024-05-10T09:41:11Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with attributed pull quotes",
+  "Articles with unsourced statements",
+  "Articles with unsourced statements from October 2020",
+  "CS1 Czech-language sources (cs)",
+  "CS1 Danish-language sources (da)",
+  "CS1 Estonian-language sources (et)",
+  "CS1 Finnish-language sources (fi)",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "CS1 Latvian-language sources (lv)",
+  "CS1 Lithuanian-language sources (lt)",
+  "CS1 Norwegian-language sources (no)",
+  "CS1 Swedish-language sources (sv)",
+  "CS1 Turkish-language sources (tr)",
+  "Entheogen",
+  "Hallucinogen",
+  "Lysergamide",
+  "Prodrug",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/1P-LSD",
+ "substance_box": {
+  "names": {
+   "common": "1P-LSD",
+   "substitutive": "1-Propionyl-d-lysergic acid diethylamide",
+   "systematic": "(6aR,9R)-4-propionyl-N,N-Diethyl-7-methyl-4-propanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "15 µg",
+    "light": "25 - 75 µg",
+    "common": "75 - 150 µg",
+    "strong": "150 - 300 µg",
+    "heavy": "300 µg +",
+    "duration": "8 - 12 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "45 - 120 minutes",
+    "peak": "3 - 5 hours",
+    "offset": "3 - 5 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "1P-LSD"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Lysergamide"
+   ],
+   "Oral threshold dose": [
+    "15"
+   ],
+   "Oral dose units": [
+    "µg"
+   ],
+   "Oral min light dose": [
+    "25"
+   ],
+   "Oral max light dose": [
+    "75"
+   ],
+   "Oral min common dose": [
+    "75"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "45"
+   ],
+   "Oral max comeup time": [
+    "120"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 1P-LSD",
+   "clean": "Molecular structure of 1P-LSD"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:1P-LSD.svg",
+   "clean": "File:1P-LSD.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::1P-LSD]]",
+   "clean": "1P-LSD"
+  },
+  "NameSubstitution": {
+   "raw": "1-Propionyl-d-lysergic acid diethylamide",
+   "clean": "1-Propionyl-d-lysergic acid diethylamide"
+  },
+  "NameSystematic": {
+   "raw": "(6aR,9R)-4-propionyl-N,N-Diethyl-7-methyl-4-propanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+   "clean": "(6aR,9R)-4-propionyl-N,N-Diethyl-7-methyl-4-propanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::15]] [[Oral dose units::µg]]",
+   "clean": "15 µg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::75]] µg",
+   "clean": "25 - 75 µg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::75]] - [[Oral max common dose::150]] µg",
+   "clean": "75 - 150 µg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::300]] µg",
+   "clean": "150 - 300 µg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] µg +",
+   "clean": "300 µg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "8 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::45]] - [[Oral max comeup time::120]] [[Oral comeup time units::minutes]]",
+   "clean": "45 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::5]] [[Oral offset time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  }
+ },
+ "plain_text": "1-Propionyl-d-lysergic acid diethylamide (also known as 1P-LSD) is a novel psychedelic substance of the lysergamide class. It is structurally related to LSD and other novel lysergamides like 1cP-LSD, 1B-LSD, and 1V-LSD. It is thought to produce its effects by stimulating serotonin receptors in the brain, although the precise mechanism is not known. \n\n1P-LSD has been sold online as a research chemical (also called \"designer drug\") since 2015, but the original synthesis date of 1P-LSD is unknown. Unlike most research chemicals, it has no documented record in the research literature before its emergence on the online research chemical market in 2015. \n\nIt was marketed as a legal alternative to LSD alongside other novel lysergamides like ALD-52, ETH-LAD, and AL-LAD. In 2019, it became part of a group of molecules studied by the French laboratory Caulredaitens.\n\nSubjective effects include geometric visual hallucinations, time distortion, enhanced introspection, conceptual thinking, euphoria, and ego loss. User reports indicate that the subjective effects of 1P-LSD are extremely similar to those of LSD. It is theorized to act as a prodrug for LSD. \n\nThis hypothesis is supported by the results of a study that demonstrated 1P-LSD is metabolized to LSD in rats.\nThis predicts a near-identical effect profile, likely differing mainly in its rate of absorption and duration. Its classical psychedelic effects and favorable tolerability has led it to become popular among novel substance users who use it interchangeably with LSD.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 1P-LSD. It is presumed to have a similar toxicity and risk profile as LSD, although there are no formal studies that prove this. It is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\n1P-LSD first appeared on the online research chemical market in January 2015.  \nAlthough it was likely discovered in an academic setting, it is unknown who first synthesized 1P-LSD, as the substance does not appear in any academic literature pre-dating its arrival on the research chemical market.\n\nInterestingly, the future usage of 1-alkylated lysergamide derivatives as a means to bypass controlled substance laws banning LSD as a precursor was foreseen in a DEA report from 1988:\n\nChemistry\n\n1P-LSD is a semisynthetic compound of the lysergamide family. It is similar to LSD and is named for the propionyl group bound to the nitrogen of the polycyclic indole group of LSD. Propionyl consists of the carbonyl chain CH3CH2CO- bound to an amino group.\n \n1P-LSD is homologous to ALD-52, which holds an acetyl group bound to the nitrogen instead of the propionyl group bound at the same location. The structure of 1P-LSD contains a polycyclic group featuring a bicyclic hexahydro indole bound to a bicyclic quinoline group. At carbon 8 of the quinoline, an N,N-diethyl carboxamide is bound.\n\nPharmacology\n\nBased on its structural similarity to LSD, 1P-LSD likely acts as a partial agonist at the 5-HT2A receptor. \nThe psychedelic effects are thought to primarily come from its efficacy at the 5-HT2A receptors distributed throughout the brain. \n\n1P-LSD also likely displays binding activity at a wide range of monoamine receptors, such as those for dopamine and norepinephrine. However, there is currently no experimental data to support these claims.\n\nIt has been theorized that 1P-LSD may act as a prodrug for LSD. \nWhile 1P-LSD shows only 38% the potency of LSD in mice, LSD is detected via LC-MS when 1P-LSD is incubated in human serum. Follow-up studies are currently being conducted to compare the affinity and selectivity of LSD and 1P-LSD at 5-HT receptors, and to determine whether 1P-LSD is hydrolyzed to LSD in vivo. Otherwise, it is possible that 1P-LSD possesses intrinsic activity.\n\nPrior to the publishing of the above-cited research, medicinal chemist and psychedelics researcher David E. Nichols reportedly commented on the potential 1P-LSD serotonin receptor binding dynamics in private correspondence:\n\nA 2020 study on two human male volunteers found that the levels of 1P-LSD in the serum after administration quickly diminished within the first hour while LSD has been found consistently during the experiment, which further supports the prodrug theory. The study also found that LSD's bioavailability after oral ingestion of 1P-LSD was close to 100%.\n\nSubjective effects\n\nAnecdotal reports from many users suggest that the subjective effects of 1P-LSD are so similar to that of LSD so as to be virtually indistinguishable from one another. In comparison to other psychedelics such as psilocybin, LSA and ayahuasca, 1P-LSD is significantly more stimulating and fast-paced regarding the specific style of its physical and cognitive effects. \n\nCombination effects\n\n*Alcohol - Alcohol's central depressant effects can be used to reduce some of the anxiety and tension produced by 1P-LSD. However, alcohol can cause dehydration, nausea and physical fatigue which can negatively impact the direction of the trip. Users are advised to pace themselves and drink a portion of their usual amount.\n*Benzodiazepines - Benzodiazepines are highly effective at reducing the intensity of 1P-LSD's effects through the general suppression of brain activity.\n*Cannabis - Cannabis strongly intensifies the sensory and cognitive effects of 1P-LSD. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like anxiety, confusion and psychosis. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*Dissociatives - 1P-LSD enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced holes, spaces, and voids and internal hallucinations become more vivid and intense on 1P-LSD. These effects correspond with an increased risk of confusion, delusions, and psychosis.\n*MDMA - 1P-LSD and MDMA are highly synergistic and mutually enhance each other's physical, cognitive, and visual effects. The synergy between these substances is unpredictable, and it is advised to start with markedly lower doses than one would take for each individually. There is some evidence that suggests LSD increases the neurotoxicity of MDMA, which may be relevant to 1P-LSD as well.\n*Psychedelics - When used in combination with other psychedelics, 1P-LSD's physical, cognitive, visual, auditory, and transpersonal effects intensify and synergize strongly. If choosing to combine psychedelics, it is recommended to start with significantly lower dosages than one would take for either substance individually\n*Stimulants - Combined with psychedelics, stimulants can cause severe *Anxiety, *Panic attacks, *Thought loops, and*Paranoia.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 1P-LSD\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 1P-LSD use have not been studied. This is because 1P-LSD is a research chemical with almost no history of human use. \n\nAnecdotal reports suggest that there are no negative health effects attributed to simply trying 1P-LSD by itself, at low to moderate doses, and using it very sparingly (although nothing can be completely guaranteed). Independent research should always be conducted to ensure that a combination of two or more substances is safe before consumption. \n\nBased on its similarity to LSD, 1P-LSD is assumed to be physiologically well-tolerated with a extremely low toxicity relative to dose. There are relatively few physical side effects that have been reported following acute 1P-LSD exposure.\n\nHowever, as with LSD and psychedelics in general, it is likely that 1P-LSD can act as a trigger for those with underlying mental disorders. Those with a personal or family history of mental illness are generally advised not to use this substance, particularly when outside of a supervised medical setting. \n\nIt is strongly recommended that one uses harm reduction practices when using this substance.\n\nOverdose\n\n1P-LSD has no known toxic dose. However, higher doses increase the risk of adverse psychological reactions. These reactions include anxiety, delusions, panic attacks and, more rarely, seizures. Medical attention is usually not needed except in the case of severe psychotic episodes or the ingestion of fake acid (such as 25i-NBOMe or DOB). Administration of benzodiazepines or antipsychotics can help to relieve the acute negative cognitive effects of 1P-LSD.\n\nDependence and abuse potential\n\nAlthough no formal studies have been conducted, it is assumed that like LSD itself, 1P-LSD is non-addictive with a low abuse potential. There are no literature reports of successful attempts to train animals to self-administer LSD — an animal model predictive of abuse liability — indicating that it does not have the necessary pharmacology to either initiate or maintain dependence. Likewise, there is virtually no withdrawal syndrome when chronic use of LSD is stopped. It is assumed that 1P-LSD shares these properties with LSD.\n\nTolerance to the effects of 1P-LSD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). 1P-LSD produces cross-tolerance with all psychedelics, meaning that after the use of 1P-LSD they will have a reduced effect.\n\nDangerous interactions\n\nThe following substances are listed on the assumption that 1P-LSD possesses a similar if not the same dangerous interactions profile as LSD, and may include more due to its status as an unstudied research chemical.\n\nLegal status\n\n1P-LSD is not scheduled under the UN Convention on Psychotropic Substances. It is considered to exist in a legal grey area in many countries, meaning that while it is not specifically illegal, individuals may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.   \n\n*Austria: 1P-LSD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD, thus making it illegal to supply for human consumption.\n*Canada: 1P-LSD is not mentioned in the Controlled Drugs and Substances Act, so it is technically not illegal.\n*Czech Republic: 1P-LSD is a controlled substance as of January 1, 2014.\n*Denmark: As of August 25, 2015, 1P-LSD is specifically named on the list of illegal substances.\n*Estonia: 1P-LSD is an ainete I (Schedule I) controlled substance as of June 1, 2017.\n*Finland: 1P-LSD is a controlled substance as of November 15, 2018.\n*Germany: 1P-LSD is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Japan: 1P-LSD is a controlled substance.\n*Latvia: 1P-LSD is illegal in Latvia. Although it is not officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.\n*Lithuania: 1P-LSD is illegal in Lithuania and is specifically named on the list of illegal substances since September 21, 2015.\n*Norway: 1P-LSD is a controlled substance as of February 14, 2013.\n*Romania: 1P-LSD is a controlled substance.\n*Singapore: 1P-LSD is a Class A controlled substance.\n*Sweden: Following its sale as a designer drug, 1P-LSD was made illegal in Sweden on January 26, 2016.\n*Switzerland: 1P-LSD is a controlled substance specifically named under Verzeichnis E. It is illegal as of December 2015.\n*Turkey: 1P-LSD is illegal in Turkey as of February 2016.\n*United Kingdom: 1P-LSD is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26, 2016.\n*United States: 1P-LSD is unscheduled in the United States of America. Since 1P-LSD can be considered a prodrug for LSD, its possession and sale may be prosecutable in the United States under the Federal Analogue Act.\n*Italy: 1P-LSD is a schedule I drug (Tabella 1).\n\nSee also\n\n*Responsible use\n*Research chemicals\n*Psychedelics\n*Lysergamides\n*LSD\n*ALD-52\n*AL-LAD\n\nExternal links\n\n*1P-LSD (Wikipedia)\n*1P-LSD (Isomer Design)\n\nDiscussion\n\n*The Big & Dandy 1P-LSD Thread, Volume 1 (Bluelight)\n\nLiterature\n\n*Brandt, S. D., Kavanagh, P. V., Westphal, F., Stratford, A., Elliott, S. P., Hoang, K., ... & Halberstadt, A. L. (2016). Return of the lysergamides. Part I: Analytical and behavioural characterization of 1‐propionyl‐d‐lysergic acid diethylamide (1P‐LSD). Drug Testing and Analysis, 8(9), 891-902. https://doi.org/10.1002/dta.1884\n*Passie, T., Halpern, J. H., Stichtenoth, D. O., Emrich, H. M., & Hintzen, A. (2008). The Pharmacology of Lysergic Acid Diethylamide: A Review, 14, 295–314. https://doi.org/10.1111/j.1755-5949.2008.00059.x\n*Carhart-Harris, R. L., Muthukumaraswamy, S., Roseman, L., Kaelen, M., Droog, W., Murphy, K., … Nutt, D. J. (2016). Neural correlates of the LSD experience revealed by multimodal neuroimaging. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.1518377113\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Entheogen\nCategory:Hallucinogen\nCategory:Psychedelic\nCategory:Lysergamide\nCategory:Research chemical\nCategory:Prodrug",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/1P-LSD}} \n'''1-Propionyl-''d''-lysergic acid diethylamide''' (also known as '''1P-LSD''') is a novel [[Psychoactive class::psychedelic]] substance of the [[Lysergamides|lysergamide]] class. It is structurally related to [[LSD]] and other novel lysergamides like [[1cP-LSD]], [[1B-LSD]], and [[1V-LSD]]. It is thought to produce its effects by stimulating [[serotonin]] [[receptors]] in the brain, although the precise mechanism is not known. \n\n1P-LSD has been sold online as a [[research chemical]] (also called \"designer drug\") since 2015, but the original synthesis date of 1P-LSD is unknown. Unlike most [[research chemicals]], it has no documented record in the research literature before its emergence on the online research chemical market in 2015.<ref name=\"GoogleTrends\">{{cite web|url=https://trends.google.com/trends/explore?date=all&q=1p-lsd|title=1P-LSD|website=Google Trends|access-date=January 1, 2020}}</ref> \n\nIt was marketed as a legal alternative to [[LSD]] alongside other novel [[lysergamides]] like [[ALD-52]], [[ETH-LAD]], and [[AL-LAD]].<ref name=\"WagmannRichterKehlWackPetterssonBrandtStratfordMaurerMeyer2019\">{{cite journal |last1=Wagmann|first1=Lea|last2=Richter|first2=Lilian H. J.|last3=Kehl|first3=Tobias|last4=Wack|first4=Franziska|last5=Pettersson Bergstrand|first5=Madeleine|last6=Brandt|first6=Simon D.|last7=Stratford|first7=Alexander|last8=Maurer|first8=Hans H.|last9=Meyer|first9=Markus R.|date=2019|title=In vitro metabolic fate of nine LSD-based new psychoactive substances and their analytical detectability in different urinary screening procedures|journal=Analytical and Bioanalytical Chemistry|volume=411|issue=19|pages=4751–4763|doi=10.1007/s00216-018-1558-9|issn=1618-2642}}</ref> In 2019, it became part of a group of molecules studied by the French laboratory Caulredaitens.{{citation needed}}\n\n[[Subjective effects]] include [[geometry|geometric visual hallucinations]], [[time distortion]], [[introspection|enhanced introspection]], [[conceptual thinking]], [[euphoria]], and [[ego loss]]. User reports indicate that the subjective effects of 1P-LSD are extremely similar to [[LSD#Subjective effects|those of LSD]]. It is theorized to act as a [[prodrug]] for LSD.<ref name=\"1Panalysis\">{{cite journal|last1=Brandt|first1=S. D.|last2=Kavanagh|first2=P. V.|last3=Westphal|first3=F.|last4=Stratford|first4=A.|last5=Elliott|first5=S. P.|last6=Hoang|first6=K.|last7=Wallach|first7=J.|last8=Halberstadt|first8=A. L.|year=2015|title=Return of the lysergamides. Part I: Analytical and behavioural characterization of 1‐propionyl‐d‐lysergic acid diethylamide (1P‐LSD)|journal=Drug Testing and Analysis|volume=8|issue=9|pages=891-902|doi=10.1002/dta.1884|issn=1942-7603}}</ref> \n\nThis hypothesis is supported by the results of a study that demonstrated 1P-LSD is metabolized to LSD in rats.<ref name=\"WagmannRichterKehlWackPetterssonBrandtStratfordMaurerMeyer2019\"></ref>\nThis predicts a near-identical effect profile, likely differing mainly in its rate of absorption and duration. Its classical psychedelic effects and favorable tolerability has led it to become popular among novel substance users who use it interchangeably with LSD.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 1P-LSD. It is presumed to have a similar toxicity and risk profile as [[LSD]], although there are no formal studies that prove this. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n1P-LSD first appeared on the online research chemical market in January 2015.<ref name=\"GoogleTrends\"></ref>  \nAlthough it was likely discovered in an academic setting, it is unknown who first synthesized 1P-LSD, as the substance does not appear in any academic literature pre-dating its arrival on the research chemical market.<ref name=\"1Panalysis\"></ref>\n\nInterestingly, the future usage of 1-alkylated lysergamide derivatives as a means to bypass controlled substance laws banning [[LSD]] as a precursor was foreseen in a DEA report from 1988:\n{{quote3|text=...a reduction in hallucinogenic activity may become acceptable to the U.S. clandestine chemist when he notes that lysergic acid amide is listed as a Schedule III substance in the CFR; therefore, structurally similar substances of this compound are exempted from the CsA amendment. \n\nA lucid argument can then be made that lysergic acid N,N-dimethylamide is derived from lysergic acid amide rather than LSD. Carrying this theme to the next logical step one would then assume that the 1-alkyl and 1-acyl derivatives of the N,N-dimethyl isomer would also not be controlled by the CsA amendment. |author=Donald A. Cooper|source=Future Synthetic Drugs of Abuse, 1988.<ref>{{cite web|last1=Cooper|first1=Donald A.|year=1988|title=Future Synthetic Drugs of Abuse|isbn=978-0-93211-509-6|work=Proceedings of the international symposium on the forensic aspects of controlled substances|page=79|url=https://www.erowid.org/library/books_online/future_synthetic/future_synthetic.shtml}}</ref>}}\n\n==Chemistry==\n1P-LSD is a semisynthetic compound of the [[lysergamide]] family. It is similar to [[LSD]] and is named for the propionyl group bound to the nitrogen of the polycyclic indole group of LSD. Propionyl consists of the carbonyl chain CH<sub>3</sub>CH<sub>2</sub>CO- bound to an amino group.\n \n1P-LSD is homologous to [[ALD-52]], which holds an acetyl group bound to the nitrogen instead of the propionyl group bound at the same location. The structure of 1P-LSD contains a polycyclic group featuring a bicyclic hexahydro indole bound to a bicyclic quinoline group. At carbon 8 of the quinoline, an N,N-diethyl carboxamide is bound.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nBased on its structural similarity to LSD, 1P-LSD likely acts as a [[Agonist#Agonists|partial agonist]] at the [[Serotonin#The_5-HT_system|5-HT<sub>2A</sub>]] receptor. \nThe [[psychedelic]] effects are thought to primarily come from its efficacy at the 5-HT<sub>2A</sub> receptors distributed throughout the brain. \n\n1P-LSD also likely displays binding activity at a wide range of [[monoamine]] receptors, such as those for [[dopamine]] and [[norepinephrine]]. However, there is currently no experimental data to support these claims.\n\nIt has been theorized that 1P-LSD may act as a [[prodrug]] for [[LSD]]. \nWhile 1P-LSD shows only 38% the potency of LSD in mice, LSD is detected via LC-MS when 1P-LSD is incubated in human serum. Follow-up studies are currently being conducted to compare the affinity and selectivity of LSD and 1P-LSD at 5-HT receptors, and to determine whether 1P-LSD is hydrolyzed to LSD in vivo.<ref name=\"1Panalysis\" /> Otherwise, it is possible that 1P-LSD possesses intrinsic activity.\n\nPrior to the publishing of the above-cited research, medicinal chemist and psychedelics researcher [[David E. Nichols]] reportedly commented on the potential 1P-LSD serotonin receptor binding dynamics in private correspondence:\n{{quote3|text=I am sure that the 1-propionyl would also hydrolyze off of an indole, but I don't know whether in vivo conditions would work. In a chemistry lab, you can get off an N-benzoyl, so an N-propionyl will probably come off too. But in the body? I don't know the answer to that. The compound would not be active as the N-propionyl however. The way that LSD docks into the 5-HT<sub>2A</sub> receptor, the indole NH hydrogen bonds to serine 5.46. With the propionyl, it won't fit into the receptor.|source=David E. Nichols.<ref>{{cite web|author=<nowiki>&quot;Kman1898&quot;</nowiki>|date=January 13, 2015|access-date=January 1, 2020|publisher=Bluelight.org|url=https://www.bluelight.org/xf/threads/the-big-dandy-1p-lsd-thread-volume-1.745848/page-2|title=The Big & Dandy 1P-LSD Thread, Volume 1}}</ref>}}\n\nA 2020 study on two human male volunteers found that the levels of 1P-LSD in the serum after administration quickly diminished within the first hour while LSD has been found consistently during the experiment, which further supports the prodrug theory.<ref>{{cite journal|last1=Grumann|first1=C.|last2=Henkel|first2=K|last3=Brandt|first3=S. D.|last4=Stratford|first4=A.|last5=Passie|first5=T.|last6=Auwärter|first6=V.|title=Pharmacokinetics and subjective effects of 1P-LSD in humans after oral and intravenous administration|journal=Drug Testing and Analysis|date=May 15, 2020|pages=1-10|doi=10.1002/dta.2821|issn=1942-7603|eissn=1942-7611|oclc=231680670|pmid=32415750}}</ref> The study also found that LSD's bioavailability after oral ingestion of 1P-LSD was close to 100%.\n\n==Subjective effects==\nAnecdotal reports from many users suggest that the subjective effects of 1P-LSD are so similar to that of [[LSD]] so as to be virtually indistinguishable from one another. In comparison to other psychedelics such as [[psilocybin]], [[LSA]] and [[ayahuasca]], 1P-LSD is significantly more stimulating and fast-paced regarding the specific style of its physical and cognitive effects. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - 1P-LSD is usually regarded as very energetic and stimulating without being forced. For example, when taken in any environment it will usually encourage physical activities such as running, walking, climbing or dancing. In comparison, other more commonly used psychedelics such as [[psilocybin]] which are generally sedating and relaxed.\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of 1P-LSD can be characterized as proportionally very intense in comparison to its accompanying visual and cognitive effects. It behaves as a euphoric, fast-moving, sharp and location-specific tingling sensation. For some, it is manifested spontaneously at different, unpredictable points throughout the trip, but for most, it maintains a steady presence that rises with the onset and hits its limit once the peak has been reached. At moderate to high doses of 1P-LSD, this sensation often approaches its highest level and can become so overwhelming that people may find themselves debilitated with pleasurable sensations.\n**'''[[Effect::Physical euphoria]]''' - It should be noted that this effect is not as reliably induceable as it is with substances like [[stimulants]] or [[entactogens]], and can just as easily manifest as extreme physical discomfort without any apparent reason.  \n*'''[[Effect::Tactile enhancement]]''' - Feelings of enhanced tactile sensations are consistently present at moderate levels throughout most 1P-LSD experiences. If [[Effect::8A Geometry|level 8A geometry]] is reached, an intense sensation of suddenly becoming aware of and being able to feel every single nerve ending across a person's entire body all at once is consistently present.\n*'''[[Effect::Stamina enhancement]]''' - This is generally mild in comparison to the stamina enhancement produced by traditional [[stimulants]].\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Excessive yawning]]''' - This effect is significantly less pronounced than it is with [[psilocybin]] and its related compounds, the four-position [[Tryptamine#List of substituted tryptamines|substituted tryptamines]].\n*'''[[Effect::Nausea]]''' - Mild nausea is occasionally reported when consumed in moderate to high dosages and either passes instantly soon after the user has vomited or gradually fades by itself as the peak sets in.\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}} \n*'''[[Effect::Increased heart rate]]'''{{citation needed}} \n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Increased salivation]]''' \n*'''[[Effect::Vasoconstriction]]''' - Vasoconstriction may lead to users feeling cold, especially in the extremities.\n*'''[[Effect::Seizure]]''' - The likelihood is largely extrapolated from the seizures that have been reported from the use of [[LSD]]. It is thought to mainly be a risk in those who are genetically predisposed to them, particularly while accompanied by physically taxing conditions such as states of dehydration, fatigue, undernourishment or overheating.\n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Colour enhancement]]''' - In comparison to other psychedelics, this effect is often reported to be brighter but not as varied in its character.\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Breathing|breathing]], [[Visual drifting#Morphing|morphing]] and [[Visual drifting#Flowing|flowing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed yet cartoon-like in its appearance. The distortions are slow and smooth in motion and fleeting in their appearance. \n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Colour tinting]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Recursion]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry of 1P-LSD can be described as more similar in appearance to that of [[2C-B]] or [[2C-I]] than [[psilocin]], [[LSA]] or [[DMT]]. It can be comprehensively described through its [[Geometry#Variations|variations]] as primarily intricate in complexity, algorithmic in form, unstructured in organization, brightly lit, colourful in scheme, synthetic in feel, multicoloured in scheme, flat in shading, sharp in edges, large in size, fast in speed, smooth in motion, angular in its corners, non-immersive in-depth and consistent in intensity.\n\nIn the case of higher-level geometry, this substance is [[Effect::8A Geometry|level 8A]] dominant but is also capable of inducing [[Effect::8B Geometry]] under the right circumstances.\n\n====Hallucinatory states====\n1P-LSD is capable of producing a full range of hallucinatory states in a fashion that is significantly less consistent and reproducible than that of many other commonly used psychedelics, specifically tryptamines like [[DMT]] or [[psilocybin mushrooms]]. These effects include:\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Machinescapes]]''' - This component is a rare effect that typically only occurs at very strong to heavy doses, and not as consistently as with notably visual psychedelics like [[DMT]], [[ETH-LAD]], and [[2C-P]], and atypical psychedelics like [[salvia]].\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - Although 1P-LSD is technically capable of producing hallucinatory states in a fashion that is on par with [[psilocin]] or [[DMT]] in its vividness and intensity, these effects are incredibly rare and inconsistent in comparison. While traditional psychedelics such as [[LSA]], [[ayahuasca]] and [[mescaline]] will induce internal hallucinations near consistently at level 5 [[Geometry|geometry]] and above, 1P-LSD will for most simply go straight into [[Effect::8A Geometry|Level 8A]] visual geometry. This lack of consistently induced hallucinatory breakthroughs means that for most, LSD is limited in depth. When they do occur, they can be described in terms of their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, autonomous in controllability and [[Effect::geometry]]-based in appearance.\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Analysis enhancement]]''' - This effect is consistent in its manifestation and [[introspection]] dominant.\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect is not as common at low to moderate doses and is less likely to occur when the basic rules of [[set and setting]] are taken into account. It should be noted that this inconsistently induced effect is seemingly more likely to manifest when used with [[cannabis]]. This combination should be used with extreme caution if one is not experienced with psychedelics, meaning that the user should adequately pace themselves with a fraction of their usual amount. It is commonly reported that psychedelics can to a certain extent counteract some of the perceived mental cloudiness or intoxicating effects of THC causing the user to in turn use more cannabis than is needed which can often lead to an overwhelmingly anxious headspace or a [[bad trip|\"bad trip\"]].\n*'''[[Effect::Catharsis]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Personal meaning enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - This effect is experienced exclusively on low or [[Dosage#Threshold|threshold]] dosages and feels less forced than it does with [[stimulants]]. \n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This component is, generally speaking less consistent and pronounced than it is with substances like [[psilocybin]] and [[MDMA]]. The mental euphoria experienced on LSD is usually simply due to an enhancement of the user’s current psychological and emotional state coupled with its more regularly occurring effect, [[physical euphoria]]. \n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Ego replacement]]'''\n*'''[[Effect::Increased libido]]''' \n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]''' - This can manifest prominently during a 1P-LSD experience, particularly during the [[Duration#Come up|come up]] phase, often resulting in bouts of uncontrollable giggles and laughter that can form a feedback loop if around others who are also under the influence.\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought disorganization]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucinations]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Synaesthesia]]''' - In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states.\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Combination effects===\n\n*'''[[Alcohol]]''' - Alcohol's central depressant effects can be used to reduce some of the anxiety and tension produced by 1P-LSD. However, alcohol can cause [[dehydration]], [[nausea]] and [[physical fatigue]] which can negatively impact the direction of the trip. Users are advised to pace themselves and drink a portion of their usual amount.\n*'''[[Benzodiazepines]]''' - Benzodiazepines are highly effective at reducing the intensity of 1P-LSD's effects through the general suppression of brain activity.\n*'''[[Cannabis]]''' - Cannabis strongly intensifies the sensory and cognitive effects of 1P-LSD. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like [[anxiety]], [[confusion]] and [[psychosis]]. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*'''[[Dissociatives]]''' - 1P-LSD enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced [[Visual_disconnection#Holes.2C_spaces_and_voids|holes, spaces, and voids]] and [[internal hallucinations]] become more vivid and intense on 1P-LSD. These effects correspond with an increased risk of [[confusion]], [[delusions]], and [[psychosis]].\n*'''[[MDMA]]''' - 1P-LSD and MDMA are highly synergistic and mutually enhance each other's physical, cognitive, and visual effects. The synergy between these substances is unpredictable, and it is advised to start with markedly lower doses than one would take for each individually. There is some evidence that suggests LSD increases the neurotoxicity of MDMA, which may be relevant to 1P-LSD as well.<ref>{{cite journal|last1=Armstrong|first1=B. D.|last2=Paik|first2=E.|last3=Chhith|first3=S.|last4=Lelievre|first4=V.|last5=Waschek|first5=J. A.|last6=Howard|first6=S. G.|year=2004|title=Potentiation of (DL)‐3,4‐methylenedioxymethamphetamine (MDMA)‐induced toxicity by the serotonin 2A receptior partial agonist d‐lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939|journal=Neuroscience Research Communications|volume=35|issue=2|pages=83-95|doi=10.1002/nrc.20023|issn=1520-6769}}</ref><ref>{{cite journal|last1=Gudelsky|first1=Gary A.|last2=Yamamoto|first2=Bryan|last3=Nash|first3=J. Frank|year=1994|title=Potentiation of 3,4-methylenedioxymethamphetamine-induced dopamine release and serotonin neurotoxicity by 5-HT2 receptor agonists|journal=European Journal of Pharmacology|volume=264|issue=3|pages=325-330|doi=10.1016/0014-2999(94)90669-6|issn=0014-2999}}</ref><ref>{{cite journal|last1=Capela|first1=J. P.|last2=Fernandes|first2=E.|last3=Remião|first3=F.|last4=Bastos|first4=M. L.|last5=Meisel|first5=A.|last6=Carvalho|first6=F.|year=2007|title=Ecstasy induces apoptosis via 5-HT<sub>2A</sub>-receptor stimulation in cortical neurons|journal=Neurotoxicology|volume=28|issue=4|pages=868-875|pmid=17572501|doi=10.1016/j.neuro.2007.04.005|issn=0161-813X}}</ref>\n*'''[[Psychedelics]]''' - When used in combination with other psychedelics, 1P-LSD's physical, cognitive, visual, auditory, and transpersonal effects intensify and synergize strongly. If choosing to combine psychedelics, it is recommended to start with significantly lower dosages than one would take for either substance individually\n*'''[[Stimulants]]''' - Combined with psychedelics, stimulants can cause severe *<nowiki>'''</nowiki>[[Anxiety]], *<nowiki>'''</nowiki>[[Panic attacks]], *<nowiki>'''</nowiki>[[Thought loops]], and*<nowiki>'''</nowiki>[[Paranoia]].\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:1P-LSD]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_1PLSD.shtml Erowid Experience Vaults: 1P-LSD]\n\n==Toxicity and harm potential==\n{{toxicityStub}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational 1P-LSD use have not been studied. This is because 1P-LSD is a [[research chemical]] with almost no history of human use. \n\nAnecdotal reports suggest that there are no negative health effects attributed to simply trying 1P-LSD by itself, at low to moderate doses, and using it very sparingly (although nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be conducted to ensure that a combination of two or more substances is safe before consumption. \n\nBased on its similarity to LSD, 1P-LSD is assumed to be physiologically well-tolerated with a [[Toxicity::extremely low toxicity relative to dose]]. There are relatively few physical side effects that have been reported following acute 1P-LSD exposure.\n\nHowever, as with LSD and psychedelics in general, it is likely that 1P-LSD can act as a trigger for those with underlying mental disorders. Those with a personal or family history of mental illness are generally advised not to use this substance, particularly when outside of a supervised medical setting. \n\nIt is strongly recommended that one uses [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Overdose===\n1P-LSD has no known toxic dose. However, higher doses increase the risk of adverse psychological reactions. These reactions include [[anxiety]], [[delusions]], [[panic attacks]] and, more rarely, [[seizures]]. Medical attention is usually not needed except in the case of severe psychotic episodes or the ingestion of [[fake acid]] (such as [[25i-NBOMe]] or [[DOB]]). Administration of [[benzodiazepines]] or [[antipsychotics]] can help to relieve the acute negative cognitive effects of 1P-LSD.\n\n===Dependence and abuse potential===\nAlthough no formal studies have been conducted, it is assumed that like LSD itself, 1P-LSD is [[Addiction potential::non-addictive with a low abuse potential]]. There are no literature reports of successful attempts to train animals to self-administer LSD — an animal model predictive of abuse liability — indicating that it does not have the necessary pharmacology to either initiate or maintain dependence.<ref>{{cite journal|last1=Nichols|first1=David E.|author-link=David E. Nichols|year=2004|title=Hallucinogens|journal=Pharmacology & Therapeutics|volume=101|issue=2|pages=131-181|doi=10.1016/j.pharmthera.2003.11.002|issn=0163-7258}}</ref> Likewise, there is virtually no withdrawal syndrome when chronic use of LSD is stopped.{{citation needed}} It is assumed that 1P-LSD shares these properties with LSD.\n\nTolerance to the effects of 1P-LSD is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::5-7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). 1P-LSD produces cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the use of 1P-LSD they will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\nThe following substances are listed on the assumption that 1P-LSD possesses a similar if not the same dangerous interactions profile as [[LSD]], and may include more due to its status as an unstudied [[research chemical]].\n\n{{DangerousInteractions/Psychedelics}}\n\n==Legal status==\n1P-LSD is not scheduled under the UN Convention on Psychotropic Substances. It is considered to exist in a legal grey area in many countries, meaning that while it is not specifically illegal, individuals may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.   \n\n*'''Austria''': 1P-LSD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD, thus making it illegal to supply for human consumption.<ref>{{cite news|publisher=Der Standard|date=September 28, 2011|title=Synthetische Drogen: Neues Gesetz soll \"Legal Highs\" bekämpfen|trans-title=Synthetic drugs: New law is to combat legal highs|access-date=January 1, 2020|url=https://www.derstandard.at/story/1317018702282/kraeutermischungen-synthetische-drogen-neues-gesetz-soll-legal-highs-bekaempfen|language=de}}</ref><ref>{{cite web|url=https://www.parlament.gv.at/PAKT/VHG/XXIV/ME/ME_00317/imfname_231611.pdf|title=Entwurf: Bundesgesetz,  mit  dem  ein  Bundesgesetz  über  den  Schutz  vor  Gesundheitsgefahren  im Zusammenhang  mit Neuen Psychoaktiven  Substanzen  (Neue-Psychoaktive-Substanzen-Gesetz, NPSG) erlassen und das Suchtmittelgesetz (SMG) geändert wird|access-date=January 1, 2020|language=de}}</ref>\n*'''Canada''': 1P-LSD is not mentioned in the ''Controlled Drugs and Substances Act'', so it is technically not illegal.{{citation needed|date=October 2020}}\n*'''Czech Republic''': 1P-LSD is a controlled substance as of January 1, 2014.<ref>{{cite web | url=https://www.zakonyprolidi.cz/cs/2013-463 | title=Nařízení vlády č. 463/2013 Sb. Nařízení vlády o seznamech návykových látek | publisher=Zákony pro lidi | language=Czech|id=178/2013|date=December 18, 2013}}</ref>\n*'''Denmark''': As of August 25, 2015, 1P-LSD is specifically named on the list of illegal substances.<ref>{{cite web|url=https://laegemiddelstyrelsen.dk/da/nyheder/2015/bekendtgoerelse-om-euforiserende-stoffer-ni-nye-stoffer-tilfoejet|title=Bekendtgørelse om euforiserende stoffer - ni nye stoffer tilføjet|publisher=Danish Medicines Ageny|date=August 31, 2015|access-date=January 1, 2020|language=da}}</ref>\n*'''Estonia''': 1P-LSD is an ainete I (''Schedule I'') controlled substance as of June 1, 2017.<ref>{{cite web | url=https://www.sam.ee/en/node/10831 | title=Muudatus narkootiliste ja psühhotroopsete ainete I nimekirjas | publisher=State Agency of Medicines| language=Estonian|date=June 13, 2017}}</ref>\n*'''Finland''': 1P-LSD is a controlled substance as of November 15, 2018.<ref>{{cite web |title=Valtioneuvoston asetus kuluttajamarkkinoilta kielletyistä psykoaktiivisista aineista annetun valtioneuvoston asetuksen liitteen muuttamisesta |trans-title=Government decree amending the annex to the government decree on psychoactive substances prohibited on the consumer market |language=Finnish |url=https://www.finlex.fi/fi/laki/alkup/2018/20180840|id=840/2018|date=October 25, 2018|publisher=Finlex}}</ref>\n*'''Germany''': 1P-LSD is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Japan''': 1P-LSD is a controlled substance.<ref>{{cite web | url=http://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/dl/meisho.pdf | title=指定薬物一覧 | publisher=厚生労働省 [Ministry of Health, Labour and Welfare] | language=Japanese}}</ref>\n*'''Latvia''': 1P-LSD is illegal in Latvia. Although it is not officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.<ref>{{cite web|url=http://likumi.lv/doc.php?id=121086|title=Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem|publisher=VSIA Latvijas Vēstnesis|access-date=January 1, 2020|publication-date=November 10, 2005|language=lv}}</ref>\n*'''Lithuania''': 1P-LSD is illegal in Lithuania and is specifically named on the list of illegal substances since September 21, 2015.<ref>{{cite web|url=https://www.e-tar.lt/portal/lt/legalActEditions/TAR.7B3B40DCD13A|title=LR SAM Įsakymas Dėl Narkotinių ir psichotropinių medžiagų sąrašų patvirtinimo|access-date=January 1, 2020|language=lt}}</ref>\n*'''Norway''': 1P-LSD is a controlled substance as of February 14, 2013.<ref>{{cite web | url=https://lovdata.no/dokument/SF/forskrift/2013-02-14-199 | title=31 Forskrift om narkotika (narkotikaforskriften) | publisher=Lovdata| language=Norwegian}}</ref>\n*'''Romania''': 1P-LSD is a controlled substance.<ref>{{Cite web|title=Legea 194/2011 privind combaterea operatiunilor cu produse susceptibile de a avea efecte psihoactive, altele decat cele prevazute de acte normative in vigoare, republicata 2014|url=http://www.dreptonline.ro/legislatie/legea_194_2011_combaterea_operatiunilor_produse_susceptibile_efecte_psihoactive.php|work=Monitorul Oficial, Partea I|number=140|publication-date=February 26, 2014}}</ref>\n*'''Singapore''': 1P-LSD is a Class A controlled substance.<ref>{{cite web|title=Misuse of Drugs Act: (CHAPTER 185)|url=https://sso.agc.gov.sg/Act/MDA1973|website=sso.agc.gov.sg|date=March 31, 2008|access-date=October 22, 2020}}</ref>\n*'''Sweden''': Following its sale as a [[designer drug]], 1P-LSD was made illegal in Sweden on January 26, 2016.<ref>{{cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2016/januari/31-nya-substanser-klassas-som-narkotika-eller-halsofarlig-vara|title=31 nya substanser klassas som narkotika eller hälsofarlig vara|publisher=Folkhälsomyndigheten [Public Health Agency of Sweden]|access-date=January 1, 2020|publication-date=January 26, 2016|language=sv}}</ref>\n*'''Switzerland''': 1P-LSD is a controlled substance specifically named under Verzeichnis E. It is illegal as of December 2015.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': 1P-LSD is illegal in Turkey as of February 2016.<ref>{{cite web|url=https://www.resmigazete.gov.tr/eskiler/2016/03/20160308-4.pdf|publisher=Resmi Gazete |access-date=January 15, 2020|language=tr|title=Karar Sayısı : 2016/8548}}</ref>\n*'''United Kingdom''': 1P-LSD is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26, 2016.<ref>{{cite web|url=http://www.legislation.gov.uk/ukpga/2016/2/contents/enacted|title=Psychoactive Substances Act 2016|access-date=January 1, 2020|publisher=UK Government}}</ref>\n*'''United States''': 1P-LSD is unscheduled in the United States of America.{{citation needed|date=October 2020}} Since 1P-LSD can be considered a prodrug for LSD, its possession and sale may be prosecutable in the United States under the Federal Analogue Act.<ref>{{cite web|publisher=Erowid|title=Introduction to the Federal Controlled Substance Analogue Act|url=https://erowid.org/psychoactives/law/analog/analog_info1.shtml|date=January 2001|access-date=January 1, 2020}}</ref>\n*'''Italy:''' 1P-LSD is a schedule I drug (Tabella 1).<ref>MINISTERO DELLA SALUTE, DECRETO 5 ottobre 2021 https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=2021-10-18&atto.codiceRedazionale=21A06118&tipoSerie=serie_generale&tipoVigenza=originario</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemicals]]\n*[[Psychedelics]]\n*[[Lysergamides]]\n*[[LSD]]\n*[[ALD-52]]\n*[[AL-LAD]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/1P-LSD 1P-LSD (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=5916 1P-LSD (Isomer Design)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/745848-The-Big-amp-Dandy-1P-LSD-Thread-Volume-1 The Big & Dandy 1P-LSD Thread, Volume 1 (Bluelight)]\n\n==Literature==\n\n*Brandt, S. D., Kavanagh, P. V., Westphal, F., Stratford, A., Elliott, S. P., Hoang, K., ... & Halberstadt, A. L. (2016). Return of the lysergamides. Part I: Analytical and behavioural characterization of 1‐propionyl‐d‐lysergic acid diethylamide (1P‐LSD). Drug Testing and Analysis, 8(9), 891-902. https://doi.org/10.1002/dta.1884\n*Passie, T., Halpern, J. H., Stichtenoth, D. O., Emrich, H. M., & Hintzen, A. (2008). The Pharmacology of Lysergic Acid Diethylamide: A Review, 14, 295–314. https://doi.org/10.1111/j.1755-5949.2008.00059.x\n*Carhart-Harris, R. L., Muthukumaraswamy, S., Roseman, L., Kaelen, M., Droog, W., Murphy, K., … Nutt, D. J. (2016). Neural correlates of the LSD experience revealed by multimodal neuroimaging. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.1518377113\n\n==References==\n{{reflist|2}}\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Entheogen]]\n[[Category:Hallucinogen]]\n[[Category:Psychedelic]]\n[[Category:Lysergamide]]\n[[Category:Research chemical]]\n[[Category:Prodrug]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21256",
+ "type": "substance-summary",
+ "title": "Bisfluoromodafinil/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Bisfluoromodafinil/Summary",
+  "pageid": 21256,
+  "last_edited": "2023-10-06T02:17:56Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Bisfluoromodafinil",
+ "plain_text": "",
+ "wikitext": "{{Summary|Bisfluoromodafinil}}"
+}

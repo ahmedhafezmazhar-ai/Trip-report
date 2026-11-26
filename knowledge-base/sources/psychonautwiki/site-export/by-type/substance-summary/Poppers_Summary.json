@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10944",
+ "type": "substance-summary",
+ "title": "Poppers/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Poppers/Summary",
+  "pageid": 10944,
+  "last_edited": "2015-11-13T10:29:06Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Poppers",
+ "plain_text": "",
+ "wikitext": "{{Summary|Poppers}}"
+}

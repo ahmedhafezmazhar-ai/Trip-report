@@ -1,0 +1,344 @@
+{
+ "id": "psychonautwiki:19415",
+ "type": "substance",
+ "title": "Baclofen",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Baclofen",
+  "pageid": 19415,
+  "last_edited": "2026-03-07T02:50:51Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Articles with unsourced statements from November 2020",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Gamma-Amino acid",
+  "Phenethylamine",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Baclofen",
+ "substance_box": {
+  "names": {
+   "common": "Baclofen, Lioresal",
+   "substitutive": "β-(4-chlorophenyl)-GABA",
+   "systematic": "5-amino-4-(4-chlorophenyl)-1-hydroxypentan-2-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "γ-Amino acid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section.",
+    "collapsed": "false",
+    "bioavailability": "74 %",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 50 mg",
+    "strong": "50 - 100 mg",
+    "heavy": "100 mg +  Warning: Risk of blackout above 125 mg +",
+    "duration": "8 - 14 hours",
+    "onset": "30 - 75 minutes",
+    "comeup": "1 - 1.5 hours",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Baclofen",
+    "Lioresal"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "γ-Amino acid"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "50"
+   ],
+   "Oral min strong dose": [
+    "50"
+   ],
+   "Oral max strong dose": [
+    "100"
+   ],
+   "Oral heavy dose": [
+    "100"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "14"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "75"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "1.5"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of baclofen",
+   "clean": "Molecular structure of baclofen"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Baclofen.svg",
+   "clean": "File:Baclofen.svg"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Baclofen]], [[common name::Lioresal]]",
+   "clean": "Baclofen, Lioresal"
+  },
+  "NameSubstitution": {
+   "raw": "β-(4-chlorophenyl)-GABA",
+   "clean": "β-(4-chlorophenyl)-GABA"
+  },
+  "NameSystematic": {
+   "raw": "5-amino-4-(4-chlorophenyl)-1-hydroxypentan-2-one",
+   "clean": "5-amino-4-(4-chlorophenyl)-1-hydroxypentan-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::γ-Amino acid]]",
+   "clean": "γ-Amino acid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "74 %<ref name=\"Agarwal2015\">{{cite journal | vauthors=((Agarwal, S. K.)), ((Kriel, R. L.)), ((Cloyd, J. C.)), ((Coles, L. D.)), ((Scherkenbach, L. A.)), ((Tobin, M. H.)), ((Krach, L. E.)) | journal=Journal of Child Neurology | title=A pilot study assessing pharmacokinetics and tolerability of oral and intravenous baclofen in healthy adult volunteers | volume=30 | issue=1 | pages=37–41 | date= January 2015 | issn=1708-8283 | doi=10.1177/0883073814535504}}</ref>",
+   "clean": "74 %"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::50]] mg",
+   "clean": "20 - 50 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::50]] - [[Oral max strong dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::100]] mg + <br /> <span style=\"color:red\">'''Warning: Risk of blackout above 125 mg +",
+   "clean": "100 mg +  Warning: Risk of blackout above 125 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::14]] [[Oral total time units::hours]]",
+   "clean": "8 - 14 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::75]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 75 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::1.5]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "Baclofen (also known as Lioresal, Gablofen, Kemstro, Liofen) is a depressant substance of the butyric acid class. It is a derivative of GABA and is chemically related to phenibut, pregabalin, and gabapentin. It primarily acts as a GABAB receptor agonist.\n\nBaclofen was synthesized in 1962 at Ciba-Geigy, a Swiss pharmaceutical company. Today, it is used clinically to treat muscle spasticity, and holds promise as a treatment for alcoholism.\n\nSubjective effects include sedation, anxiety suppression, muscle relaxation, and moderate euphoria. It is usually described as somewhat similar to phenibut in its effects. It is reported to have lower recreational effects such as euphoria compared to depressants like alprazolam.\n\nBaclofen has moderate abuse potential and produces physical dependence with chronic use. Once physical dependence to a GABAergic substance occurs, the user cannot stop use abruptly without risking withdrawal symptoms such as anxiety, muscle tremors, and in severe cases, seizures. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nBaclofen was synthesized in 1962 by Heinrich Keberle at Ciba (pharmaceutical company) in Basel, Switzerland, based on the idea of enhancing the lipophilicity of GABA in order to achieve penetration of the blood-brain barrier. It was marketed as Lioresal in 1972.\n\nIn his 2008 book, Le Dernier Verre (translated literally as \"The Last Glass\" and published in English as \"The End of my Addiction\"), French-American cardiologist Olivier Ameisen described how he treated his alcoholism with baclofen. Inspired by this book, an anonymous donor gave $750,000 to the University of Amsterdam to initiate a clinical trial of high-dose baclofen, which Ameisen had called for since 2004.\n\nChemistry\n\nBaclofen is a derivative of γ-aminobutyric acid (GABA), except with a chlorine-substituted phenyl group in the β-position of the molecule. \n\nIt has an almost identical chemical structure to F-phenibut (only replacing a fluorine with a chlorine atom in the para-position of the phenyl group). \n\nIt is a chiral molecule and thus has two potential configurations as (R)- and (S)-enantiomers. \n\nBaclofen is a white (or sometimes off-white) mostly odorless crystalline powder, with a molecular weight of 213.66 g/mol and it is somewhat soluble in water.\n\nPharmacology\n\nBaclofen produces its effects by activating the GABAB receptor, similar to the drug phenibut which also activates this receptor and shares some of its effects. Baclofen is postulated to block mono-and-polysynaptic reflexes by acting as an inhibitory ligand, inhibiting the release of excitatory neurotransmitters.\n\nSimilarly to phenibut (β-phenyl-GABA), as well as pregabalin (β-isobutyl-GABA), which are close analogues of baclofen, baclofen (β-(4-chlorophenyl)-GABA) has been found to block α2δ subunit-containing voltage-gated calcium channels (VGCCs). However, it is weaker relative to phenibut in this action (Ki = 23 and 39 μM for R- and S-phenibut and 156 μM for baclofen). \n\nMoreover, baclofen is in the range of 100-fold more potent by weight as an agonist of the GABAB receptor in comparison to phenibut, and in accordance, is used at far lower relative dosages. As such, the actions of baclofen on α2δ subunit-containing VGCCs are likely not clinically-relevant.\n\nThe drug is rapidly absorbed after oral administration and is widely distributed throughout the body. Biotransformation is low: the drug is predominantly excreted unchanged by the kidneys.\n\nSubjective effects\n\nBaclofen is often compared to phenibut, but more \"messy\", less euphoric, anxiolytic, and causing a stronger dizziness.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Baclofen\n\nToxicity and harm potential\n\nBaclofen has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like alcohol, benzodiazepines or opioids]].\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nBaclofen is moderately physically and psychologically addictive. Discontinuation of baclofen can be associated with a withdrawal syndrome which resembles benzodiazepine withdrawal and alcohol withdrawal. Withdrawal symptoms are more likely if baclofen is used for long periods of time (more than a couple of weeks) and can occur from low or high doses. \n\nThe severity of baclofen withdrawal depends on the rate at which it is discontinued. Abrupt withdrawal is more likely to result in severe withdrawal symptoms. Acute withdrawal symptoms can be stopped by recommencing baclofen.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. \n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction. Withdrawal symptoms may include auditory hallucinations,  visual hallucinations, tactile hallucinations, delusions, confusion, delirium, disorientation, fluctuation of consciousness, insomnia, dizziness, nausea, inattention, memory impairments, perceptual disturbances, itchiness, anxiety, depersonalization, hypertonia, hyperthermia, psychosis, mania, mood disturbances, tachycardia, seizures, tremors, autonomic dysfunction, hyperpyrexia (fever), extreme muscle rigidity resembling neuroleptic malignant syndrome and rebound spasticity.\n\nBaclofen produces cross-tolerance with all GABAgenic depressants, meaning that after its consumption, depressants will have a reduced effect.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2M2B, Alcohol,  Benzodiazepines, Barbiturates, GHB/GBL, Methaqualone, Opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives]] - This combination can result in an increased risk of vomiting during unconsciousness and dying from the resulting suffocation. If a sudden loss of consciousness occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants]] -  It is dangerous to combine baclofen with stimulants due to the risk of excessive intoxication. Stimulants mask the sedative effect of baclofen, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of baclofen will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of baclofen per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\n*Germany: Baclofen is a prescription medicine, according to Anlage 1 AMVV.\n*Russia: Baclofen is available through a prescription. Storing and transporting baclofen without a prescription can be considered a crime and result in criminal prosecution.\n*Sweden: Baclofen is available through a prescription.\n*Turkey: Baclofen is available at pharmacies without prescription.\n*United States: Baclofen is not a scheduled substance, but may only be sold with a prescription.\n\nSee also\n\n*Responsible use\n*Depressant\n*Gabapentinoid\n*GABA\n*Phenibut\n*F-Phenibut\n*Gabapentin\n*Pregabalin\n\nExternal links\n\n*Baclofen (Wikipedia)\n*Baclofen (Erowid Vault)\n*Baclofen (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Gamma-Amino acid\nCategory:Phenethylamine\nCategory:Depressant\nCategory:Proofread",
+ "wikitext": "{{headerpanel|{{Approval}}{{DepressantOD|GABAergics}} }}\n{{SummarySheet}}\n{{SubstanceBox/Baclofen}}\n'''Baclofen''' (also known as '''Lioresal''', '''Gablofen''', '''Kemstro''', '''Liofen''') is a [[psychoactive class::depressant]] substance of the [[chemical class::butyric acid]] class. It is a derivative of [[GABA]] and is chemically related to [[phenibut]], [[pregabalin]], and [[gabapentin]]. It primarily acts as a [[GABA]]<sub>B</sub> [[receptor]] [[agonist]].\n\nBaclofen was synthesized in 1962 at Ciba-Geigy, a Swiss pharmaceutical company.<ref name=\"Froestl\">{{cite book | vauthors=((Froestl, W.)) | date= 2010 | chapter=Advances in Pharmacology | title=Chemistry and Pharmacology of GABAB Receptor Ligands | publisher=Elsevier | volume=58 | pages=19–62 | url=https://linkinghub.elsevier.com/retrieve/pii/S1054358910580025 | doi=10.1016/S1054-3589(10)58002-5 | isbn=9780123786470}}</ref> Today, it is used clinically to treat muscle spasticity, and holds promise as a treatment for [[alcoholism]].<ref>{{cite journal | vauthors=((Brennan, J. L.)), ((Leung, J. G.)), ((Gagliardi, J. P.)), ((Rivelli, S. K.)), ((Muzyk, A. J.)) | journal=Clinical Pharmacology: Advances and Applications | title=Clinical effectiveness of baclofen for the treatment of alcohol dependence: a review | volume=5 | pages=99–107 | date= 2013 | issn=1179-1438 | doi=10.2147/CPAA.S32434}}</ref>\n\n[[Subjective effects]] include [[sedation]], [[anxiety suppression]], [[muscle relaxation]], and moderate [[euphoria]]. It is usually described as somewhat similar to [[phenibut]] in its effects. It is reported to have lower recreational effects such as euphoria compared to depressants like [[alprazolam]].\n\nBaclofen has moderate abuse potential and produces physical dependence with chronic use. Once physical dependence to a GABAergic substance occurs, the user cannot stop use abruptly without risking withdrawal symptoms such as [[anxiety]], muscle tremors, and in severe cases, seizures. \n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nBaclofen was synthesized in 1962 by Heinrich Keberle at Ciba (pharmaceutical company) in Basel, Switzerland, based on the idea of enhancing the lipophilicity of GABA in order to achieve penetration of the blood-brain barrier.<ref name=\"Froestl\" /> It was marketed as '''Lioresal''' in 1972.<ref name=\"Froestl\" />\n\nIn his 2008 book, ''Le Dernier Verre'' (translated literally as \"The Last Glass\" and published in English as \"The End of my Addiction\"), French-American cardiologist Olivier Ameisen described how he treated his alcoholism with baclofen. Inspired by this book, an anonymous donor gave $750,000 to the University of Amsterdam to initiate a clinical trial of high-dose baclofen, which Ameisen had called for since 2004.<ref>{{cite journal | vauthors=((Enserink, M.)) | journal=Science | title=Anonymous Alcoholic Bankrolls Trial of Controversial Therapy | volume=332 | issue=6030 | pages=653–653 | date=6 May 2011 | url=https://www.science.org/doi/10.1126/science.332.6030.653 | issn=0036-8075 | doi=10.1126/science.332.6030.653}}</ref>\n\n==Chemistry==\nBaclofen is a derivative of γ-aminobutyric acid ([[GABA]]), except with a chlorine-substituted phenyl group in the β-position of the molecule. \n\nIt has an almost identical chemical structure to [[F-phenibut]] (only replacing a fluorine with a chlorine atom in the para-position of the phenyl group). \n\nIt is a chiral molecule and thus has two potential configurations as (R)- and (S)-enantiomers. \n\nBaclofen is a white (or sometimes off-white) mostly odorless crystalline powder, with a molecular weight of 213.66 g/mol and it is somewhat soluble in water.\n\n==Pharmacology==\nBaclofen produces its effects by activating the [[GABA]]<sub>B</sub> [[receptor]], similar to the drug [[phenibut]] which also activates this [[receptor]] and shares some of its effects. Baclofen is postulated to block mono-and-polysynaptic reflexes by acting as an inhibitory ligand, inhibiting the release of excitatory [[neurotransmitter]]s.\n\nSimilarly to [[phenibut]] (β-phenyl-GABA), as well as [[pregabalin]] (β-isobutyl-GABA), which are close analogues of baclofen, baclofen (β-(4-chlorophenyl)-GABA) has been found to block α2δ subunit-containing voltage-gated calcium channels (VGCCs). However, it is weaker relative to phenibut in this action (Ki = 23 and 39 μM for R- and S-phenibut and 156 μM for baclofen). \n\nMoreover, baclofen is in the range of 100-fold more potent by weight as an agonist of the [[GABA]]<sub>B</sub> receptor in comparison to [[phenibut]], and in accordance, is used at far lower relative dosages. As such, the actions of baclofen on α2δ subunit-containing VGCCs are likely not clinically-relevant.<ref>{{cite journal | vauthors=((Zvejniece, L.)), ((Vavers, E.)), ((Svalbe, B.)), ((Veinberg, G.)), ((Rizhanova, K.)), ((Liepins, V.)), ((Kalvinsh, I.)), ((Dambrova, M.)) | journal=Pharmacology, Biochemistry, and Behavior | title=R-phenibut binds to the α2-δ subunit of voltage-dependent calcium channels and exerts gabapentin-like anti-nociceptive effects | volume=137 | pages=23–29 | date= October 2015 | issn=1873-5177 | doi=10.1016/j.pbb.2015.07.014}}</ref>\n\nThe drug is rapidly absorbed after oral administration and is widely distributed throughout the body. Biotransformation is low: the drug is predominantly excreted unchanged by the kidneys.<ref>{{cite journal | vauthors=((Wuis, E. W.)), ((Dirks, M. J. M.)), ((Termond, E. F. S.)), ((Vree, T. B.)), ((Van der Kleijn, E.)) | journal=European Journal of Clinical Pharmacology | title=Plasma and urinary excretion kinetics of oral baclofen in healthy subjects | volume=37 | issue=2 | pages=181–184 | date=1 March 1989 | url=https://doi.org/10.1007/BF00558228 | issn=1432-1041 | doi=10.1007/BF00558228}}</ref>\n\n==Subjective effects==\nBaclofen is often compared to [[phenibut]], but more \"messy\", less [[euphoric]], [[Anxiety suppression|anxiolytic]], and causing a stronger [[dizziness]].\n\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' and '''[[Effect::Sedation]]''' - Baclofen has different effects on physical energy levels depending on the dosage used. At lower doses, baclofen has a mild physical and mental stimulation effect, encouraging movement, wakefulness, and productivity. At common doses and higher, baclofen is physically sedating, encouraging sleep and lethargy.\n*'''[[Effect::Physical euphoria]]''' - Compared to [[gabapentinoids]] (such as [[phenibut]]) and [[benzodiazepines]], baclofen is considered less euphoric.\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Respiratory depression]]''' \n*'''[[Effect::Nausea]]''' - Compared to [[gabapentinoids]] (such as [[phenibut]]) and [[alcohol]], baclofen has stronger and longer lasting nausea.\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Increased libido]]''' - This effect is more pronounced at lower doses.\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Diarrhea]]'''\n*'''[[Effect::Dizziness]]''' - Compared to [[gabapentinoids]] (such as [[phenibut]]), baclofen has stronger dizziness.\n*'''[[Effect::Dehydration]]'''{{citation needed}}\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Appetite enhancement]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Difficulty urinating]]'''\n\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - This effect is less pronounced compared to [[gabapentinoids]] or [[benzodiazepines]].\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Compulsive redosing]]''' - This effect is generally caused by the anxiety the user experiences during the comedown.\n*'''[[Effect::Cognitive euphoria]]''' - Compared to [[gabapentinoids]] (such as [[phenibut]]) and [[benzodiazepines]], this effect is pronounced less.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' \n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Addiction suppression]]''' - Baclofen is also used for alcoholism treatment.\n*'''[[Effect::Confusion]]'''\n\n}}\n{{effects/aftereffects|\n*'''[[Effect::Anxiety|Rebound anxiety]]'''\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' \n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Decreased blood pressure|Low Blood Pressure]]'''\n*'''[[Effect::Decreased heart rate|Low Heart Rate]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Depersonalization]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Baclofen.shtml Erowid Experience Vaults: Baclofen]\n\n==Toxicity and harm potential==\n{{toxicity}}\nBaclofen has a [[Toxicity::low toxicity]] relative to dose.<ref name=\"Agarwal2015\">{{cite journal | vauthors=((Agarwal, S. K.)), ((Kriel, R. L.)), ((Cloyd, J. C.)), ((Coles, L. D.)), ((Scherkenbach, L. A.)), ((Tobin, M. H.)), ((Krach, L. E.)) | journal=Journal of Child Neurology | title=A pilot study assessing pharmacokinetics and tolerability of oral and intravenous baclofen in healthy adult volunteers | volume=30 | issue=1 | pages=37–41 | date= January 2015 | issn=1708-8283 | doi=10.1177/0883073814535504}}</ref> However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]], [[benzodiazepines]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nBaclofen is [[Addiction potential::moderately physically and psychologically addictive]]. Discontinuation of baclofen can be associated with a withdrawal syndrome which resembles [[benzodiazepine]] [[withdrawal]] and [[alcohol]] withdrawal. Withdrawal symptoms are more likely if baclofen is used for long periods of time (more than a couple of weeks) and can occur from low or high doses. \n\nThe severity of baclofen withdrawal depends on the rate at which it is discontinued. Abrupt withdrawal is more likely to result in severe withdrawal symptoms. Acute withdrawal symptoms can be stopped by recommencing baclofen.<ref>{{cite journal | vauthors=((Leo, R. J.)), ((Baer, D.)) | journal=Psychosomatics | title=Delirium associated with baclofen withdrawal: a review of common presentations and management strategies | volume=46 | issue=6 | pages=503–507 | date= December 2005 | issn=0033-3182 | doi=10.1176/appi.psy.46.6.503}}</ref>\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. \n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a [[tapering|gradual dose reduction]]. Withdrawal symptoms may include [[auditory hallucinations]],  [[hallucinations|visual hallucinations]], [[tactile hallucinations]], [[delusions]], [[confusion]], [[delirium]], [[disorientation]], fluctuation of consciousness, [[insomnia]], [[dizziness]], [[nausea]], [[Focus suppression|inattention]], [[Memory suppression|memory impairments]], perceptual disturbances, [[itchiness]], [[anxiety]], [[depersonalization]], hypertonia, [[hyperthermia]], [[psychosis]], [[mania]], mood disturbances, [[tachycardia]], [[seizures]], tremors, autonomic dysfunction, hyperpyrexia (fever), extreme muscle rigidity resembling [[Antipsychotics|neuroleptic]] malignant syndrome and rebound spasticity.<ref>{{cite journal | vauthors=((Grenier, B.)), ((Mesli, A.)), ((Cales, J.)), ((Castel, J. P.)), ((Maurette, P.)) | journal=Annales Francaises D’anesthesie Et De Reanimation | title=[Severe hyperthermia caused by sudden withdrawal of continuous intrathecal administration of baclofen] | volume=15 | issue=5 | pages=659–662 | date= 1996 | issn=0750-7658 | doi=10.1016/0750-7658(96)82130-7}}</ref>\n\nBaclofen produces cross-tolerance with [[Cross-tolerance::all [[GABA]]genic depressants]], meaning that after its consumption, depressants will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[DangerousInteraction::Depressants]]''' (''[[1,4-Butanediol]], [[2M2B]], [[DangerousInteraction::Alcohol]], <ref>{{cite journal | vauthors=((Koski, A.)), ((Ojanpera, I.)), ((Vuori, E.)) | journal=Alcoholism: Clinical and Experimental Research | title=Alcohol and Benzodiazepines in Fatal Poisonings | volume=26 | issue=7 | pages=956–959 | date= July 2002 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2002.tb02627.x | issn=0145-6008 | doi=10.1111/j.1530-0277.2002.tb02627.x}}</ref> [[DangerousInteraction::Benzodiazepines]], [[DangerousInteraction::Barbiturates]], [[DangerousInteraction::GHB]]/[[DangerousInteraction::GBL]], [[DangerousInteraction::Methaqualone]], [[DangerousInteraction::Opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[[[DangerousInteraction::Dissociatives]]]]''' - This combination can result in an increased risk of vomiting during unconsciousness and dying from the resulting suffocation. If a sudden loss of consciousness occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[[[DangerousInteraction::Stimulants]]]]''' -  It is dangerous to combine baclofen with [[stimulant]]s due to the risk of excessive intoxication. Stimulants mask the [[sedation|sedative]] effect of baclofen, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of baclofen will be significantly increased, leading to intensified [[disinhibition]] as well as [[Baclofen#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of baclofen per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Baclofen is a prescription medicine, according to Anlage 1 AMVV.<ref>{{cite web|url=https://www.gesetze-im-internet.de/amvv/anlage_1.html|access-date=November 13, 2020|title=Anlage 1 AMVV|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|language=de}}</ref>\n*'''Russia''': Baclofen is available through a prescription. Storing and transporting baclofen without a prescription can be considered a crime and result in criminal prosecution.{{citation needed|date=November 2020}}\n*'''Sweden''': Baclofen is available through a prescription.<ref>{{Citation | title=Baklofen Mylan - FASS Allmänhet | url=https://www.fass.se/LIF/product?userType=2&nplId=19861107000083}}</ref>\n*'''Turkey''': Baclofen is available at pharmacies without prescription.{{citation needed|date=November 2020}}\n*'''United States''': Baclofen is not a scheduled substance, but may only be sold with a prescription.<ref>[https://medlineplus.gov/druginfo/meds/a682530.html Baclofen: MedlinePlus Drug Information]</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressant]]\n*[[Gabapentinoid]]\n*[[GABA]]\n*[[Phenibut]]\n*[[F-Phenibut]]\n*[[Gabapentin]]\n*[[Pregabalin]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Baclofen Baclofen (Wikipedia)]\n*[https://www.erowid.org/pharms/baclofen/ Baclofen (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2379 Baclofen (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Gamma-Amino acid]]\n[[Category:Phenethylamine]]\n[[Category:Depressant]]\n[[Category:Proofread]]\n{{#set:Featured=true}}"
+}

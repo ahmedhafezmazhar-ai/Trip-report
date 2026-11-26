@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10835",
+ "type": "substance-summary",
+ "title": "4-HO-MET/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-HO-MET/Summary",
+  "pageid": 10835,
+  "last_edited": "2015-11-11T08:16:26Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-HO-MET",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-HO-MET}}"
+}

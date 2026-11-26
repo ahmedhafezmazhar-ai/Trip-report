@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13076",
+ "type": "substance-summary",
+ "title": "Secobarbital/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Secobarbital/Summary",
+  "pageid": 13076,
+  "last_edited": "2016-10-29T02:46:49Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Secobarbital",
+ "plain_text": "",
+ "wikitext": "{{Summary|Secobarbital}}"
+}

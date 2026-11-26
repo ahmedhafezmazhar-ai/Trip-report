@@ -1,0 +1,1129 @@
+{
+ "id": "psychonautwiki:13091",
+ "type": "substance",
+ "title": "Desoxypipradrol",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Desoxypipradrol",
+  "pageid": 13091,
+  "last_edited": "2022-08-01T00:39:50Z"
+ },
+ "categories": [
+  "2-Benzylpiperidine",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 Chinese-language sources (zh)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Desoxypipradrol",
+ "substance_box": {
+  "names": {
+   "common": "Desoxypipradol, 2-DPMP, Ivory Wave",
+   "substitutive": "2-diphenylmethylpiperidine",
+   "systematic": "(RS)-2-benzhydrylpiperidine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Benzylpiperidine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.25 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 6 mg",
+    "strong": "6 - 8 mg",
+    "heavy": "8 mg + Heavy doses may result in psychosis and mania.",
+    "duration": "16 - 72 hours",
+    "onset": "1 - 4 hours",
+    "peak": "9 - 30 hours",
+    "offset": "6 - 40 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "0.25 mg",
+    "light": "0.5 - 1.5 mg",
+    "common": "1.5 - 3.5 mg",
+    "strong": "3.5 - 5 mg",
+    "heavy": "5 mg + Heavy doses may result in psychosis and mania.",
+    "duration": "10 - 72 hours",
+    "onset": "15 - 240 minutes",
+    "comeup": "2 - 6 hours",
+    "peak": "6 - 30 hours",
+    "offset": "6 - 40 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Desoxypipradol",
+    "2-DPMP",
+    "Ivory Wave"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Benzylpiperidine"
+   ],
+   "Oral threshold dose": [
+    "0.25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "1"
+   ],
+   "Oral max light dose": [
+    "2"
+   ],
+   "Oral min common dose": [
+    "2"
+   ],
+   "Oral max common dose": [
+    "6"
+   ],
+   "Oral min strong dose": [
+    "6"
+   ],
+   "Oral max strong dose": [
+    "8"
+   ],
+   "Oral heavy dose": [
+    "8"
+   ],
+   "Oral min total time": [
+    "16"
+   ],
+   "Oral max total time": [
+    "72"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "1"
+   ],
+   "Oral max onset time": [
+    "4"
+   ],
+   "Oral onset time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "9"
+   ],
+   "Oral max peak time": [
+    "30"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "6"
+   ],
+   "Oral max offset time": [
+    "40"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "0.25"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "0.5"
+   ],
+   "Insufflated max light dose": [
+    "1.5"
+   ],
+   "Insufflated min common dose": [
+    "1.5"
+   ],
+   "Insufflated max common dose": [
+    "3.5"
+   ],
+   "Insufflated min strong dose": [
+    "3.5"
+   ],
+   "Insufflated max strong dose": [
+    "5"
+   ],
+   "Insufflated heavy dose": [
+    "5"
+   ],
+   "Insufflated min total time": [
+    "10"
+   ],
+   "Insufflated max total time": [
+    "72"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "15"
+   ],
+   "Insufflated max onset time": [
+    "240"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "2"
+   ],
+   "Insufflated max comeup time": [
+    "6"
+   ],
+   "Insufflated comeup time units": [
+    "hours"
+   ],
+   "Insufflated min peak time": [
+    "6"
+   ],
+   "Insufflated max peak time": [
+    "30"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "6"
+   ],
+   "Insufflated max offset time": [
+    "40"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Desoxypipradol",
+   "clean": "Molecular structure of Desoxypipradol"
+  },
+  "SkeletalImageFile": {
+   "raw": "Image:Desoxypipradol.svg",
+   "clean": "Image:Desoxypipradol.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Desoxypipradol]], [[common name::2-DPMP]], [[common name::Ivory Wave]]",
+   "clean": "Desoxypipradol, 2-DPMP, Ivory Wave"
+  },
+  "NameSubstitution": {
+   "raw": "2-diphenylmethylpiperidine",
+   "clean": "2-diphenylmethylpiperidine"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-2-benzhydrylpiperidine",
+   "clean": "(RS)-2-benzhydrylpiperidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzylpiperidine]]",
+   "clean": "Benzylpiperidine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.25]] [[Oral dose units::mg]]",
+   "clean": "0.25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1]] - [[Oral max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::2]] - [[Oral max common dose::6]] mg",
+   "clean": "2 - 6 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::6]] - [[Oral max strong dose::8]] mg",
+   "clean": "6 - 8 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::8]] mg + <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''</span>",
+   "clean": "8 mg + Heavy doses may result in psychosis and mania."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::16]] - [[Oral max total time::72]] [[Oral total time units::hours]]",
+   "clean": "16 - 72 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::1]] - [[Oral max onset time::4]] [[Oral onset time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::9]] - [[Oral max peak time::30]] [[Oral peak time units::hours]]",
+   "clean": "9 - 30 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::6]] - [[Oral max offset time::40]] [[Oral offset time units::hours]]",
+   "clean": "6 - 40 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::0.25]] [[Insufflated dose units::mg]]",
+   "clean": "0.25 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::0.5]] - [[Insufflated max light dose::1.5]] mg",
+   "clean": "0.5 - 1.5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::1.5]] - [[Insufflated max common dose::3.5]] mg",
+   "clean": "1.5 - 3.5 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::3.5]] - [[Insufflated max strong dose::5]] mg",
+   "clean": "3.5 - 5 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::5]] mg + <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''</span>",
+   "clean": "5 mg + Heavy doses may result in psychosis and mania."
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::10]] - [[Insufflated max total time::72]] [[Insufflated total time units::hours]]",
+   "clean": "10 - 72 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::15]] - [[Insufflated max onset time::240]] [[Insufflated onset time units::minutes]]",
+   "clean": "15 - 240 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::2]] - [[Insufflated max comeup time::6]] [[Insufflated comeup time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::6]] - [[Insufflated max peak time::30]] [[Insufflated peak time units::hours]]",
+   "clean": "6 - 30 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::6]] - [[Insufflated max offset time::40]] [[Insufflated offset time units::hours]]",
+   "clean": "6 - 40 hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "Desoxypipradrol (also known as 2-DPMP, 2-diphenylmethylpiperidine, or Ivory Wave) is a benzylpiperidine-based stimulant drug which is closely related to methylphenidate and pipradol. \n\nDeveloped by Ciba in the 1950s and researched for applications such as the treatment of narcolepsy and ADHD; it was dropped from development after the related drug methylphenidate was developed by the same company. Methylphenidate was felt to be the superior drug for treating ADHD due to its shorter duration of action and more predictable pharmacokinetics, and while desoxypipradrol was researched for other applications (such as facilitation of rapid recovery from anesthesia), its development was not continued. However, the hydroxylated derivative pipradrol was introduced as a clinical drug indicated for depression, narcolepsy and cognitive enhancement in organic dementia.\n\nAs with methylphenidate and pipradol, it is thought to act as a norepinephrine-dopamine reuptake inhibitor (NDRI). Of these three piperidines, it is noteworthy that desoxypipradrol has the longest elimination half-life, as it is a highly lipophilic molecule lacking polar functional groups that are typically targeted by metabolic enzymes, giving it an unusually long duration of action when compared to most stimulants. This property combined with its ultra-high potency (starting at 2mg) has given this compound a reputation for being extremely dangerous when abused or mishandled.\n\nDesoxypipradrol is rarely if ever found on the streets, but instead typically sold as a gray market research chemical through online vendors.\n\nChemistry\n\nDesoxypipradrol is a synthetic stimulant of the substituted benzylpiperidine class. It contains a substituted phenethylamine skeleton with an additional phenyl ring bound to Rβ. The terminal amino group of the phenethylamine chain is incorporated into a piperidine ring. As a result of lacking polar functional groups it is a highly lipophilic molecule, giving it an extremely long-lasting multi-day duration of action that is rarely observed in stimulant drugs -- notably with the exception of MDPV.\n\nPharmacology\n\nDesoxypipradrol primarily acts as a norepinephrine-dopamine reuptake inhibitor (NDRI), but one with an unusually high potency, extreme duration and unpredictable dose-response for a stimulant drug. These risks likely owe themselves to its abnormally high lipophilicity and long elimination half-life, which among other things likely increases the relative risk it has in triggering states of  stimulant psychosis when abused, with which it has been demonstrated in humans to be an uncommonly low threshold.\n\nSubjective effects\n\nDesoxypipradrol possesses an unusually high potency, extreme duration and unpredictable dose-response for a stimulant drug. However, due to the relative \"cleanness\" or subtleness of the stimulation some reports indicate a tendency in users to redose it compulsively until dangerous amounts end up becoming consumed, which can lead to overdose, hospitalizations, and even fatalities. Those who wish to experiment with this compound are advised to use proper harm-reduction practices and approach with this substance with extreme caution (such as not redosing, and  using volumetric dosing techniques).\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Desoxypipradrol\n\nToxicity and harm potential\n\nToxicity\n\nDesoxypipradrol may be quantitated in blood, plasma or urine by liquid chromatography-mass spectrometry to confirm a diagnosis of poisoning in hospitalized patients or to provide evidence in a medicolegal death investigation. Blood or plasma desoxypipradrol concentrations are expected to be in a range of 10–50 μg/L in persons using the drug recreationally, >100 μg/L in intoxicated patients and >600 μg/L in victims of acute overdosage.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nIn terms of its tolerance, desoxypipradrol can be used for multiple days in a row for extended periods of time. Acute tolerance to many of the effects of desoxypipradrol develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). desoxypipradrol presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of desoxypipradrol all stimulants will have a reduced effect.\n\nAs with other stimulants, the chronic use of desoxypipradrol can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nUser reports suggest that compared to many other stimulants, desoxypipradrol has some unique and atypical hazards that can accompany its misuse -- especially when it is eye-balled, not dosed volumetrically, or otherwise handled without the proper degree of caution. Desoxypipradrol, like other stimulants, increases dopamine levels in the brain which can lead to severe manic psychosis in the short-term in addition to persisting dopamine receptor down regulation in the long-term.\n\nPsychosis\n\nUser reports indicate that chronic abuse or single exposure overdose of desoxypipradrol can potentially lead to psychosis more readily than the vast majority of stimulants. Psychotic symptoms from desoxypipradrol can include  hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\n*China: As of October 2015, 2-DPMP is a controlled substance in China.\n*Germany: Desoxypipradrol is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Russia: Deoxypipradol is entered in the Schedule I prohibited substance as (Пиперидин-2-ил)дифенилметан.\n*Switzerland: Desoxypipradol is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United Kingdom: As of November 4, 2010, the UK Home Office announced a ban on the importation of 2-DPMP, following a recommendation from the ACMD. Prior to the import ban, desoxypipradrol was sold as a 'legal high' in several products. Its use lead to several Emergency Department visits which prompted the UK government to commission a review from the ACMD. The Advisory Council on the Misuse of Drugs stated in their report  that: \"there are serious harms associated with 2-DPMP... typically prolonged agitation (lasting up to 5 days after drug use which is sometimes severe, requiring physical restraint), paranoia, hallucinations and myoclonus (muscle spasms/twitches).\" 2-DPMP was due to become a class B drug on March 28, 2012, but the bill was scrapped as two steroids deemed not to be abusable were included in the bill but were later recommended to remain uncontrolled. There was a new discussion about its fate on April 23, 2012, where it was decided that the bill would be rewritten and 2-DPMP would still be banned. It was also decided that the bill would be a blanket ban of related chemicals. Desoxypipradrol was eventually made a class B drug and placed in Schedule I on June 13, 2012. There were no recorded deaths from the drug between the banning of its import and the banning of its possession. \"Esters and ethers of pipradrol\" were controlled with the same amendment as class C drugs.\n*United States: Desoxypipradrol is unscheduled in the United States, and thus legal to possess and import. However, it is an analog of pipradol which is a Schedule IV Controlled Substance.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Research chemical\n\nExternal links\n\n*Desoxypipradrol (Wikipedia)\n*Desoxypipradrol (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:2-Benzylpiperidine\nCategory:Research chemical",
+ "wikitext": "{{headerpanel|{{Warning/Desoxypipradrol}}}}\n{{SummarySheet}}\n{{SubstanceBox/Desoxypipradrol}}\n\n'''Desoxypipradrol''' (also known as '''2-DPMP''', '''2-diphenylmethylpiperidine''', or '''Ivory Wave''') is a [[chemical class::benzylpiperidine]]-based [[psychoactive class::stimulant]] drug which is closely related to [[methylphenidate]] and pipradol. \n\nDeveloped by Ciba in the 1950s and researched for applications such as the treatment of narcolepsy and ADHD; it was dropped from development after the related drug methylphenidate was developed by the same company. Methylphenidate was felt to be the superior drug for treating ADHD due to its shorter duration of action and more predictable pharmacokinetics, and while desoxypipradrol was researched for other applications (such as facilitation of rapid recovery from anesthesia), its development was not continued. However, the hydroxylated derivative pipradrol was introduced as a clinical drug indicated for depression, narcolepsy and cognitive enhancement in organic dementia.\n\nAs with [[methylphenidate]] and pipradol, it is thought to act as a norepinephrine-dopamine reuptake inhibitor (NDRI). Of these three piperidines, it is noteworthy that desoxypipradrol has the longest elimination half-life, as it is a highly lipophilic molecule lacking polar functional groups that are typically targeted by metabolic enzymes, giving it an unusually long duration of action when compared to most [[stimulants]]. This property combined with its ultra-high potency (starting at 2mg) has given this compound a reputation for being extremely dangerous when abused or mishandled.\n\nDesoxypipradrol is rarely if ever found on the streets, but instead typically sold as a gray market [[research chemical]] through online vendors.\n\n==Chemistry==\nDesoxypipradrol is a synthetic [[stimulant]] of the substituted benzylpiperidine class. It contains a [[substituted phenethylamine]] skeleton with an additional phenyl ring bound to R<sub>β</sub>. The terminal amino group of the phenethylamine chain is incorporated into a [[piperidine]] ring. As a result of lacking polar functional groups it is a highly lipophilic molecule, giving it an extremely long-lasting multi-day duration of action that is rarely observed in stimulant drugs -- notably with the exception of [[MDPV]].\n\n==Pharmacology==\nDesoxypipradrol primarily acts as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI)<ref>{{cite journal | vauthors=((Ferris, R. M.)), ((Tang, F. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Comparison of the effects of the isomers of amphetamine, methylphenidate and deoxypipradrol on the uptake of l-[3H]norepinephrine and [3H]dopamine by synaptic vesicles from rat whole brain, striatum and hypothalamus | volume=210 | issue=3 | pages=422–428 | date= September 1979 | issn=0022-3565}}</ref>, but one with an unusually high potency, extreme duration and unpredictable dose-response for a stimulant drug. These risks likely owe themselves to its abnormally high lipophilicity and long elimination half-life, which among other things likely increases the relative risk it has in triggering states of  stimulant [[psychosis]] when abused, with which it has been demonstrated in humans to be an uncommonly low threshold.\n\n==Subjective effects==\n\nDesoxypipradrol possesses an unusually high potency, extreme duration and unpredictable dose-response for a stimulant drug. However, due to the relative \"cleanness\" or subtleness of the stimulation some reports indicate a tendency in users to redose it compulsively until dangerous amounts end up becoming consumed, which can lead to [[overdose]], hospitalizations, and even fatalities. Those who wish to experiment with this compound are advised to use proper harm-reduction practices and approach with this substance with extreme caution (such as not redosing, and [[Volumetric liquid dosing | using volumetric dosing techniques]]).\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, desoxypipradrol is usually considered to be energetic and stimulating in a fashion that is stronger but much subtler than that of [[amphetamine]] or [[methamphetamine]] and stronger than that of [[modafinil]] and [[caffeine]]. At lower to moderate doses, it encourages general productivity but at higher dosages may encourages physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which desoxypipradrol presents is not forced, however, but clean and lucid with manic undertones. \n*'''[[Effect::Spontaneous physical sensations]]'''\n*'''[[Effect::Increased heart rate]]'''{{citation needed}} - Early reports suggest that the effects of desoxypipradrol on heart rate and blood pressure are unusually weak.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Increased perspiration]]''' - Compared to classical stimulants, desoxypipradrol seems to involve less peripheral nervous system stimulation which can make it feel \"cleaner\" or more lucid and involve less bodily effects like sweating or cramping.\n*'''[[Effect::Teeth grinding]]''' - Compared to [[amphetamines]] and other stimulants, this component is largely absent due to the subtleness of desoxypipradrol's style of stimulation.\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Restless leg syndrome]]'''\n*'''[[Effect::Vasoconstriction]]''' - This component is minimal compared to many other [[stimulants]] and stimulating drugs.\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n\n}}\n{{effects/visual|\n*'''[[Effect::Acuity enhancement]]''' - This effect is unpredictable and typically seen at moderate to high doses, though it can randomly happen at the lower doses as well. When it does occur, it tends to be subtler than some other visual acuity enhancing stimulants like [[MDMA]] or [[methamphetamine]]. \n*'''[[Effect::Brightness alteration]]''' - This effect is unpredictable and typically seen at moderate to high doses, though it can randomly happen at the lower doses as well. When it does occur, it tends to be subtler than some other visual brightness altering stimulants like [[MDMA]] or [[methamphetamine]]. \n*'''[[Effect::Drifting]]''' - This effect is unpredictable and typically seen at moderate to high doses, though it can randomly happen at the lower doses as well. When it does occur, it tends to be subtler than some other vision-altering stimulants like [[MDMA]] or [[methamphetamine]].\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - In comparison to other stimulants such as [[amphetamine]], this effect feels far less forced and more unintrusive.\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration. \n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Mania]]'''\n*'''[[Effect::Emotion suppression]]''' - This effect is typically seen at medium to high doses, and is similar to the emotion suppression that can be exhibited by use of [[methylphenidate]].\n*'''[[Effect::Information processing suppression]]''' \n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Anxiety suppression]]''' - This effect is occasionally seen, typically at lower doses, and tends to decrease as one increases the dose.\n*'''[[Effect::Thought deceleration]]''' - This effect is typically seen with higher doses, but can happen at lower doses as well in an unpredictable manner. At lower to medium doses, it is more common to see [[thought acceleration]] in effect.\n*'''[[Effect::Thought disorganization]]''' - This effect is typically seen with higher doses, but can happen at lower doses as well in an unpredictable manner. At lower to medium doses, it is more common to see [[thought organization]] in effect.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Paranoia]]'''\n*'''[[Effect::Delirium]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Psychosis]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Desoxypipradrol.shtml Erowid Experience Vaults: Desoxypipradrol]\n\n==Toxicity and harm potential==\n===Toxicity===\nDesoxypipradrol may be quantitated in blood, plasma or urine by liquid chromatography-mass spectrometry to confirm a diagnosis of poisoning in hospitalized patients or to provide evidence in a medicolegal death investigation. Blood or plasma desoxypipradrol concentrations are expected to be in a range of 10–50 μg/L in persons using the drug recreationally, >100 μg/L in intoxicated patients and >600 μg/L in victims of acute overdosage.<ref>{{cite book | vauthors=((Baselt, R. C.)) | date= 2014 | title=Disposition of toxic drugs and chemicals in man | publisher=Biomedical Publications | edition=Tenth edition | isbn=9780962652394}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nIn terms of its tolerance, desoxypipradrol can be used for multiple days in a row for extended periods of time. Acute tolerance to many of the effects of desoxypipradrol [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). desoxypipradrol presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of desoxypipradrol all [[stimulant]]s will have a reduced effect.\n\nAs with other [[stimulant]]s, the chronic use of desoxypipradrol can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nUser reports suggest that compared to many other stimulants, desoxypipradrol has some unique and atypical hazards that can accompany its misuse -- especially when it is eye-balled, not dosed volumetrically, or otherwise handled without the proper degree of caution. Desoxypipradrol, like other [[stimulant]]s, increases [[dopamine]] levels in the brain which can lead to severe manic psychosis in the short-term in addition to persisting dopamine receptor down regulation in the long-term.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nUser reports indicate that chronic abuse or single exposure overdose of desoxypipradrol can potentially lead to [[psychosis]] more readily than the vast majority of stimulants. Psychotic symptoms from desoxypipradrol can include  [[Auditory hallucinations|hearing voices]], [[external hallucinations|visual hallucinations]], urges to harm oneself, severe [[anxiety]], [[mania]], grandiosity, [[delusions|paranoid delusions]], [[confusion]], increased [[aggression]], and [[irritability]].\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=Desoxypipradrol}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\n\n*'''China''': As of October 2015, 2-DPMP is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=September 27, 2015 | language=Chinese | accessdate=October 1, 2015}}</ref>\n*'''Germany''': Desoxypipradrol is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 25, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 25, 2019|language=de}}</ref>\n*'''Russia''': Deoxypipradol is entered in the Schedule I prohibited substance as (Пиперидин-2-ил)дифенилметан.<ref>Resolution of the Government of the Russian Federation | https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=314201&fld=134&dst=100034,0&rnd=0.41568319511755825#047741519652799347</ref>\n*'''Switzerland''': Desoxypipradol is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': As of November 4, 2010, the UK Home Office announced a ban on the importation of 2-DPMP, following a recommendation from the ACMD.<ref>{{Citation | title=Import ban on psychoactive drug | url=https://www.gov.uk/government/news/import-ban-on-psychoactive-drug}}</ref> Prior to the import ban, desoxypipradrol was sold as a 'legal high' in several products. Its use lead to several Emergency Department visits which prompted the UK government to commission a review from the ACMD. The Advisory Council on the Misuse of Drugs stated in their report<ref name=\"ACMD's comments\">{{cite web | url = http://www.homeoffice.gov.uk/publications/alcohol-drugs/drugs/acmd1/advice-ivory-wave?view=Standard&pubID=840140 | title = ACMD advice on 'Ivory Wave' | accessdate = March 11, 2012| date =January 27, 2012| format = PDF | publisher = UK Home Office}}</ref>  that: \"''there are serious harms associated with 2-DPMP... typically prolonged agitation (lasting up to 5 days after drug use which is sometimes severe, requiring physical restraint), paranoia, hallucinations and myoclonus (muscle spasms/twitches).''\" 2-DPMP was due to become a class B drug<ref name=\"draft legislation\">{{cite web | url = http://www.legislation.gov.uk/ukdsi/2012/9780111520857/memorandum/contents | title = The Misuse of Drugs Act 1971 (Amendment) Order 2012 | accessdate = March 11, 2012| date = January 27, 2012| format = PDF | publisher = UK Home Office}}</ref> on March 28, 2012,<ref>{{cite web | url = http://www.homeoffice.gov.uk/publications/alcohol-drugs/drugs/2-dpmp-compounds/D2PM?view=Binary | title = Government accepts ACMD's advice to schedule D2PM, 2-DPMP and phenzepam | accessdate = March 11, 2012| date =January 27, 2012| format = PDF | publisher = UK Home Office}}</ref> but the bill was scrapped as two steroids deemed not to be abusable were included in the bill but were later recommended to remain uncontrolled.<ref>{{cite web | url = http://www.homeoffice.gov.uk/publications/agencies-public-bodies/acmd1/acmd-steroids-advice-2012?view=Standard&pubID=1007793 | title = ACMD letter on further advice on the classification of two steroidal substances - February 2012 | accessdate = March 18, 2012| date =February 14, 2012| format = PDF | publisher = UK Home Office}}</ref> There was a new discussion about its fate on April 23, 2012, where it was decided that the bill would be rewritten and 2-DPMP would still be banned. It was also decided that the bill would be a blanket ban of related chemicals.<ref name=\"debate\">{{cite web | url = http://www.publications.parliament.uk/pa/cm201012/cmgeneral/deleg1/120423/120423s01.htm | title = Draft Misuse of Drugs Act 1971 (Amendment) Order 2012 | accessdate =May 4, 2012| date = April 23, 2012| publisher = UK Home Office}}</ref> Desoxypipradrol was eventually made a class B drug and placed in Schedule I on June 13, 2012.<ref name=\"control 2dpmp\">{{cite web | url = http://homeoffice.gov.uk/about-us/corporate-publications-strategy/home-office-circulars/circulars-2012/014-2012/ | title = A Change to the Misuse of Drugs Act 1971: control of pipradrol-related compounds and phenazepam | accessdate = July 30, 2012| date = June 7, 2012| publisher = UK Home Office}}</ref> There were no recorded deaths from the drug between the banning of its import and the banning of its possession. \"Esters and ethers of pipradrol\" were controlled with the same amendment as class C drugs.<ref name=\"control 2dpmp\" />\n*'''United States''': Desoxypipradrol is unscheduled in the United States, and thus legal to possess and import. However, it is an analog of pipradol which is a Schedule IV Controlled Substance.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Research chemical]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Desoxypipradrol Desoxypipradrol (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=557 Desoxypipradrol (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:2-Benzylpiperidine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

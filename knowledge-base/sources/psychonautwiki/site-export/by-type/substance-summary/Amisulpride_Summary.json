@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21991",
+ "type": "substance-summary",
+ "title": "Amisulpride/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Amisulpride/Summary",
+  "pageid": 21991,
+  "last_edited": "2024-04-28T00:22:09Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Amisulpride",
+ "plain_text": "",
+ "wikitext": "{{Summary|Amisulpride}}"
+}

@@ -1,0 +1,309 @@
+{
+ "id": "psychonautwiki:13570",
+ "type": "substance",
+ "title": "F-Phenibut",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/F-Phenibut",
+  "pageid": 13570,
+  "last_edited": "2025-11-29T03:53:23Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Gabapentinoid",
+  "Gamma-Amino acid",
+  "Nootropic",
+  "Phenethylamine",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/F-Phenibut",
+ "substance_box": {
+  "names": {
+   "common": "F-Phenibut, Fluorophenibut, Fluorobut",
+   "substitutive": "β-(4-flourophenyl)-GABA",
+   "systematic": "5-amino-4-(4-fluorophenyl)-1-hydroxypentan-2-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Gabapentinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 mg",
+    "light": "100 - 150 mg",
+    "common": "150 - 400 mg",
+    "strong": "400 - 600 mg",
+    "heavy": "600 mg +",
+    "duration": "6 - 8 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "F-Phenibut",
+    "Fluorophenibut",
+    "Fluorobut"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Gabapentinoid"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "150"
+   ],
+   "Oral min common dose": [
+    "150"
+   ],
+   "Oral max common dose": [
+    "400"
+   ],
+   "Oral min strong dose": [
+    "400"
+   ],
+   "Oral max strong dose": [
+    "600"
+   ],
+   "Oral heavy dose": [
+    "600"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of F-Phenibut",
+   "clean": "Molecular structure of F-Phenibut"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:F-Phenibut.svg",
+   "clean": "File:F-Phenibut.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::F-Phenibut]], [[common name::Fluorophenibut]], [[common name::Fluorobut]]",
+   "clean": "F-Phenibut, Fluorophenibut, Fluorobut"
+  },
+  "NameSubstitution": {
+   "raw": "β-(4-flourophenyl)-GABA",
+   "clean": "β-(4-flourophenyl)-GABA"
+  },
+  "NameSystematic": {
+   "raw": "5-amino-4-(4-fluorophenyl)-1-hydroxypentan-2-one",
+   "clean": "5-amino-4-(4-fluorophenyl)-1-hydroxypentan-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Gabapentinoid]]",
+   "clean": "Gabapentinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::150]] - [[Oral max common dose::400]] mg",
+   "clean": "150 - 400 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::400]] - [[Oral max strong dose::600]] mg",
+   "clean": "400 - 600 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::600]] mg +",
+   "clean": "600 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "F-Phenibut (also known as 4-Fluorophenibut, Fluorophenibut, Fluorobut, Baflofen and CGP-11130) is a central nervous system depressant and closely related structural analog of phenibut. F-Phenibut possesses an effect profile similar to phenibut but with a faster onset, significantly increased potency, and shorter total duration. It has recently become available through online research chemical vendors, although little is known about this substance, particularly its potential toxicity and addiction potential.\n\nThe substance can be classified as a gabapentinoid, a class which contains other substances such as gabapentin, pregabalin, baclofen, and GABOB. It is a derivative of the naturally occurring inhibitory neurotransmitter γ-aminobutyric acid (GABA), with an addition of a phenyl ring that allows it to cross the blood–brain barrier.\n\nChemistry\n\nAs with phenibut, F-Phenibut is a derivative of GABA, except with a fluorine-substituted phenyl group in the β-position of the molecule. It is a chiral molecule and thus has two potential configurations as (R)- and (S)-enantiomers. It has an almost identical chemical structure to baclofen (only replacing a chlorine with a fluorine atom in the para-position of the phenyl group). Additionally, the widely prescribed gabapentinoid pregabalin also possesses a similar structure as phenibut, except that the phenyl group is instead replaced with an isobutyl group in the S configuration. F-Phenibut is water soluble.\n\nPharmacology\n\nF-phenibut acts as a potent agonist of the GABA-B receptor and in this regard is more similar to baclofen than phenibut.\n\nIt is also possible that F-Phenibut binds to the α2δ-1 site of voltage-gated calcium channels in a manner similar to that of other gabapentinoids. By binding to this site, F-Phenibut may reduce the release of several excitatory neurotransmitters, including glutamate, substance P, acetylcholine, and norepinephrine. This, in turn, increases GABAergic activity. As the GABA system is the most prevalent inhibitory receptor set within the brain, its modulation may be responsible for the relaxing, sedating, and calming effects of F-Phenibut on the central nervous system.\n\nSubjective effects\n\nIn comparison to regular phenibut, this compound has a significantly faster onset, a shorter duration, and slightly less stimulation. Early reports suggest that in comparison to other commonly used GABAgenic depressants such as alcohol or benzodiazepines, this compound produces less inebriation and more euphoria, giving it more recreational potential as well as a correspondingly higher risk of abuse.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Fluorophenibut\n\nToxicity and harm potential\n\nF-Phenibut likely has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like alcohol, benzodiazepines or opioids]].\n\nThe toxicity and long-term health effects of recreational F-Phenibut use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because F-Phenibut has very little history of human usage. Anecdotal evidence from people who have tried this substance within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nF-Phenibut is moderately physically and psychologically addictive, although this usually only occurs with heavy abuse of the substance. This is likely even more so than its predecessor phenibut since its more rapid onset allows more convenient compulsive redosing.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction.\n\nWithdrawal symptoms likely include severe anxiety, nervousness, hallucinations, tremors, agitation, dizziness, tension, irritation, rapid heartbeat, fatigue, loss of appetite, nausea, vomiting, psychosis, and insomnia in a similar manner to phenibut.\n\nF-Phenibut presents cross-tolerance with all GABAgenic depressants, meaning that after its consumption most depressants will have a reduced effect.\n\nDangerous interactions\n\nLegal issues\n\n*Germany: F-Phenibut is not a controlled substance under the BtMG. It is legal, as long as it is not sold for human consumption, according to §2 AMG.\n*Switzerland: F-Phenibut is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United Kingdom: It may be illegal to produce, supply, or import this substance under the Psychoactive Substance Act 2016, which blanketly applies the aforementioned restrictions on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products.\"\n\nSee also\n\n*Responsible use\n*Research chemical\n*Depressants\n*Nootropics\n*Phenibut\n*Gabapentin\n*GHB\n\nExternal links\n\n*4-Fluorophenibut (Wikipedia)\n*F-Phenibut (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Gamma-Amino acid\nCategory:Phenethylamine\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Nootropic\nCategory:Gabapentinoid\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/F-Phenibut}}\n\n'''F-Phenibut''' (also known as '''4-Fluorophenibut''', '''Fluorophenibut''', '''Fluorobut''', '''Baflofen''' and '''CGP-11130''') is a central nervous system [[psychoactive class::depressant]] and closely related structural analog of [[phenibut]]. F-Phenibut possesses an effect profile similar to [[phenibut]] but with a faster [[onset]], significantly increased potency, and shorter [[duration|total duration]].{{citation needed}} It has recently become available through online [[research chemical]] vendors, although little is known about this substance, particularly [[Research chemicals#Toxicity and harm potential|its potential toxicity]] and addiction potential.\n\nThe substance can be classified as a [[GABApentinoid |gabapentinoid]], a class which contains other substances such as [[gabapentin]], [[pregabalin]]<ref>{{cite book | vauthors=((Wyllie, E.)), ((Cascino, G. D.)), ((Gidal, B. E.)), ((Goodkin, H. P.)) | date=17 February 2012 | title=Wyllie’s Treatment of Epilepsy: Principles and Practice | publisher=Lippincott Williams & Wilkins | isbn=9781451153484}}</ref>, [[baclofen]], and [https://en.wikipedia.org/wiki/Gamma-Amino-beta-hydroxybutyric_acid GABOB].<ref name=\"one\">{{cite journal | vauthors=((Lapin, I.)) | journal=CNS Drug Reviews | title=Phenibut (β-Phenyl-GABA): A Tranquilizer and Nootropic Drug | volume=7 | issue=4 | pages=471–481 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2001.tb00211.x | issn=1080563X | doi=10.1111/j.1527-3458.2001.tb00211.x}}</ref><ref>{{cite book | vauthors=((Benzon, H.)), ((Rathmell, J. P.)), ((Wu, C. L.)), ((Turk, D.)), ((Argoff, C. E.)), ((Hurley, R. W.)) | date=11 September 2013 | title=Practical Management of Pain E-Book | publisher=Elsevier Health Sciences | isbn=9780323170802}}</ref> It is a derivative of the naturally occurring inhibitory neurotransmitter γ-aminobutyric acid ([[GABA]]), with an addition of a phenyl ring that allows it to cross the blood–brain barrier.<ref name=\"one\" />\n\n==Chemistry==\nAs with [[phenibut]], F-Phenibut is a derivative of [[GABA]], except with a fluorine-substituted phenyl group in the β-position of the molecule. It is a chiral molecule and thus has two potential configurations as (R)- and (S)-enantiomers.<ref>{{cite journal | vauthors=((Dambrova, M.)), ((Zvejniece, L.)), ((Liepinsh, E.)), ((Cirule, H.)), ((Zharkova, O.)), ((Veinberg, G.)), ((Kalvinsh, I.)) | journal=European Journal of Pharmacology | title=Comparative pharmacological activity of optical isomers of phenibut | volume=583 | issue=1 | pages=128–134 | date=31 March 2008 | issn=0014-2999 | doi=10.1016/j.ejphar.2008.01.015}}</ref> It has an almost identical chemical structure to baclofen (only replacing a chlorine with a fluorine atom in the para-position of the phenyl group).<ref>{{cite journal | vauthors=((Shulgina, G. I.)) | journal=The Pavlovian Journal of Biological Science | title=On neurotransmitter mechanisms of reinforcement and internal inhibition | volume=21 | issue=4 | pages=129–140 | date= December 1986 | issn=0093-2213 | doi=10.1007/BF02734511}}</ref> Additionally, the widely prescribed gabapentinoid [[pregabalin]] also possesses a similar structure as phenibut, except that the phenyl group is instead replaced with an isobutyl group in the S configuration. F-Phenibut is water soluble.\n\n==Pharmacology==\n[[F-Phenibut/Summary|F-phenibut]] acts as a potent agonist of the GABA-B receptor and in this regard is more similar to [[baclofen]] than [[phenibut]].<ref>{{cite journal | vauthors=((Irie, T.)), ((Yamazaki, D.)), ((Kikura-Hanajiri, R.)) | journal=European Journal of Pharmacology | title=F-phenibut (β-(4-Fluorophenyl)-GABA), a potent GABAB receptor agonist, activates an outward-rectifying K+ current and suppresses the generation of action potentials in mouse cerebellar Purkinje cells | volume=884 | pages=173437 | date=5 October 2020 | url=https://www.sciencedirect.com/science/article/pii/S001429992030529X | issn=0014-2999 | doi=10.1016/j.ejphar.2020.173437}}</ref>\n\nIt is also possible that F-Phenibut binds to the α2δ-1 site of voltage-gated calcium channels in a manner similar to that of other [[gabapentinoids]]. By binding to this site, F-Phenibut may reduce the release of several excitatory [[neurotransmitter]]s, including [[glutamate]], [[substance P]], [[acetylcholine]], and [[norepinephrine]]. This, in turn, increases [[GABA]]ergic activity.{{citation needed}} As the GABA system is the most prevalent inhibitory receptor set within the brain{{citation needed}}, its modulation may be responsible for the relaxing, sedating, and calming effects of F-Phenibut on the central nervous system.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\nIn comparison to regular [[phenibut]], this compound has a significantly faster onset, a shorter duration, and slightly less stimulation. Early reports suggest that in comparison to other commonly used [[GABA]]genic depressants such as [[alcohol]] or [[benzodiazepines]], this compound produces less inebriation and more euphoria, giving it more recreational potential as well as a correspondingly higher risk of abuse.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' and '''[[Effect::Sedation]]''' - At lower doses, F-Phenibut has a mild physical and mental stimulation effect, encouraging movement, wakefulness, productivity and socialization. At higher doses, however, it becomes physically sedating, encouraging sleep and lethargy. Sleeping after dosing a small amount may result in a deep, restful sleep which can leave the user feeling refreshed and alert upon waking.\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Nausea]]''' - F-Phenibut can induce mild to extreme nausea depending greatly on dose and tolerance. It usually manifests roughly 90 minutes after the initial dose and generally involves waves of nausea accompanied by excessive sweating and vomiting.\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Dehydration]]''' - Dehydration is typically reported to occur from regular multiday usage or excessive doses; however, it can also be present even in average doses of the substance (although perhaps to a lesser degree than phenibut).\n*'''[[Effect::Temperature regulation loss]]'''\n*'''[[Effect::Headaches]]''' - Moderate to high doses have been reported to induce a mild to strong headache, typically many hours after dosing or during the comedown period.\n*'''[[Effect::Muscle cramps]]''' - Muscle cramps and joint pain are sometimes accompanied at high doses.\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Appetite enhancement]]'''\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Empathy, love, and sociability enhancement]]''' - Unlike [[alcohol]] which merely increases sociability through [[disinhibition]], F-Phenibut presents entactogenic effects which, although much weaker than that of traditional [[entactogens]] such as [[MDMA]], are still prominent and well-defined even at moderate doses.\n*'''[[Effect::Compulsive redosing]]''' - This component is highly pronounced in comparison to [[phenibut]].\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Analysis suppression]]''' - High doses will usually induce a state of mild stupor and confusion.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Depression]]''' - A low mood can be experienced as an after effect of high or frequent dosing.\n*'''[[Effect::Amnesia]]''' - In comparison to many other GABAergics, this component is very weak except at very high doses.\n*'''[[Effect::Increased music appreciation]]'''\n}}\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:F-Phenibut]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Smarts_Fluorophenibut.shtml Erowid Experience Vaults: Fluorophenibut]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nF-Phenibut likely has a [[Toxicity::low toxicity]] relative to dose. However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]], [[benzodiazepines]] or [[opioids]]]].\n\nThe toxicity and long-term health effects of recreational F-Phenibut use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because F-Phenibut has very little history of human usage. Anecdotal evidence from people who have tried this substance within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nF-Phenibut is [[Addiction potential::moderately physically and psychologically addictive]], although this usually only occurs with heavy abuse of the substance. This is likely even more so than its predecessor [[phenibut]] since its more rapid onset allows more convenient compulsive redosing.\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a [[tapering|gradual dose reduction]].\n\n[[Withdrawal effects|Withdrawal symptoms]] likely include severe [[anxiety]], nervousness, hallucinations, tremors, agitation, [[dizziness]], tension, irritation, [[increased heart rate|rapid heartbeat]], [[physical fatigue|fatigue]], loss of appetite, [[nausea]], vomiting, [[psychosis]], and [[insomnia]] in a similar manner to phenibut.<ref name=\"three\">{{cite book | vauthors=((Group, D. W.)) | date=25 February 2015 | title=Encyclopedia of Mind Enhancing Foods, Drugs and Nutritional Substances, 2d ed. | publisher=McFarland | isbn=9780786441426}}</ref>\n\nF-Phenibut presents cross-tolerance with [[Cross-tolerance::all [[GABA]]genic depressants]], meaning that after its consumption most depressants will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal issues==\n{{LegalStub}}\n\n*'''Germany:''' F-Phenibut is not a controlled substance under the BtMG.<ref>{{Citation | title=Anlage I BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html}}</ref> It is legal, as long as it is not sold for human consumption, according to §2 AMG.<ref>{{Citation | title=§ 2 AMG - Einzelnorm | url=https://www.gesetze-im-internet.de/amg_1976/__2.html}}</ref>\n*'''Switzerland''': F-Phenibut is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom:''' It may be illegal to produce, supply, or import this substance under the Psychoactive Substance Act 2016, which blanketly applies the aforementioned restrictions on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products.\"<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Depressants]]\n*[[Nootropics]]\n*[[Phenibut]]\n*[[Gabapentin]]\n*[[GHB]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/4-Fluorophenibut 4-Fluorophenibut (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=628 F-Phenibut (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Gamma-Amino acid]]\n[[Category:Phenethylamine]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Nootropic]]\n[[Category:Gabapentinoid]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

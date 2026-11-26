@@ -1,0 +1,409 @@
+{
+ "id": "psychonautwiki:13598",
+ "type": "substance",
+ "title": "MCPP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MCPP",
+  "pageid": 13598,
+  "last_edited": "2023-10-10T19:42:49Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 Chinese-language sources (zh)",
+  "CS1 German-language sources (de)",
+  "CS1 Portuguese-language sources (pt)",
+  "Phenylpiperazine",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/MCPP",
+ "substance_box": {
+  "names": {
+   "common": "mCPP",
+   "substitutive": "meta-Chlorophenylpiperazine",
+   "systematic": "1-(3-chlorophenyl)piperazine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "substituted piperazine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "20 - 50 mg",
+    "common": "50 - 120 mg",
+    "strong": "120 - 150 mg",
+    "heavy": "150 mg +",
+    "duration": "",
+    "onset": "20 - 60 minutes",
+    "comeup": "20 - 60 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "3 - 8 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "mCPP"
+   ],
+   "Psychoactive class": [
+    "Stimulant"
+   ],
+   "Chemical class": [
+    "substituted piperazine"
+   ],
+   "Oral threshold dose": [
+    "15"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "20"
+   ],
+   "Oral max light dose": [
+    "50"
+   ],
+   "Oral min common dose": [
+    "50"
+   ],
+   "Oral max common dose": [
+    "120"
+   ],
+   "Oral min strong dose": [
+    "120"
+   ],
+   "Oral max strong dose": [
+    "150"
+   ],
+   "Oral heavy dose": [
+    "150"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "8"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of mCPP",
+   "clean": "Molecular structure of mCPP"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:mCPP.svg",
+   "clean": "File:mCPP.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::mCPP]]",
+   "clean": "mCPP"
+  },
+  "NameSubstitution": {
+   "raw": "meta-Chlorophenylpiperazine",
+   "clean": "meta-Chlorophenylpiperazine"
+  },
+  "NameSystematic": {
+   "raw": "1-(3-chlorophenyl)piperazine",
+   "clean": "1-(3-chlorophenyl)piperazine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::substituted piperazine|Phenylpiperazine]]",
+   "clean": "substituted piperazine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::15]] [[Oral dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::20]] - [[Oral max light dose::50]] mg",
+   "clean": "20 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::120]] mg",
+   "clean": "50 - 120 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::120]] - [[Oral max strong dose::150]] mg",
+   "clean": "120 - 150 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::150]] mg +",
+   "clean": "150 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::8]] [[Oral offset time units::hours]]",
+   "clean": "3 - 8 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "meta-Chlorophenylpiperazine (also known as mCPP) is a stimulant drug of the phenylpiperazine class. It was first synthesized as one in a series of potential novel antihistamines by Thomas H. Wicker Jr. in 1951 as part of his doctoral work at the University of Florida.  Unlike many other stimulants like amphetamine, mCPP is generally considered to be unpleasant. mCPP is notable for inducing anxiety, and causing migraines and severe headaches. mCPP is occasionally encountered as an adulterant in street MDMA.\n\nChemistry\n\nmCPP is a drug in the phenylpiperazine class. On the meta-position of the phenyl group, there is a chlorine atom.\n\nPharmacology\n\nmCPP possesses significant affinity for the 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, and 5-HT7, as well as the SERT (serotonin transporter). It also has some affinity for α1-adrenergic, α2-adrenergic, H1, I1 (Imidazoline receptor), and NET (norepinephrine transporter). It behaves as an agonist at most serotonin receptors. mCPP has been shown to act not only as a serotonin reuptake inhibitor but as a serotonin releasing agent as well.\n\nmCPP's strongest actions are at the 5-HT2B and 5-HT2C receptors and its discriminative cue is mediated primarily by 5-HT2C. Its negative effects such as anxiety, headaches, and appetite loss are likely mediated by its actions on the 5-HT2C receptor. Other effects of mCPP include nausea, hypoactivity, and penile erection, the latter two the result of increased 5-HT2C activity and the former likely via 5-HT3 stimulation.\n\nmCPP acts as a partial agonist of the human 5-HT2C receptor but as an antagonist of the human 5-HT2A and 5-HT2B receptors. In accordance with its lack of agonism towards the human 5-HT2A receptor, there are no reports that mCPP produces hallucinogenic effects in humans.\n\nmCPP is an active metabolite of the antidepressant trazodone.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: mCPP\n\nToxicity and harm potential\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nmCPP is not known to be addictive, but there are not any studies exclusively on its addiction potential.\n\nDangerous interactions\n\nmCPP is metabolized by cytochrome P450 2D6, and concurrently taking inhibitors of that enzyme results in increased serum levels of mCPP. Commonly encounter inhibitors of CYP2D6 include ciprofloxacin, bupropion (Wellbutrin), fluoxetine (Prozac) and grapefruit juice.\n\n*Cocaine - This combination may increase strain on the heart.\n\nSerotonin syndrome risk\n\nLegal status\n\n*Austria: Since January 1, 2012, mCPP is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Belgium: mCPP  is a controlled substance as of October 22, 2006. \n*Brazil: mCPP is a controlled substance (lista F2 da Portaria SVS/MS 344/98) since November 2008.\n*China: As of October 2015, mCPP is a controlled substance in China.\n*Denmark: mCPP is a controlled substance as of December 3, 2005.\n*Finland: mCPP is a controlled substance.\n*Germany: mCPP is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of March 1, 2007. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Greece: mCPP is a controlled substance as of January 20, 2005.\n*Hungary: mCPP is a controlled substance as of January 1, 2006.\n*Japan: mCPP is a controlled substance since 2006.\n*Lithuania: mCPP is a controlled substance as of July 1, 2006.\n*Norway: mCPP is a controlled substance.\n*Poland: mCPP is a controlled substance.\n*Russia: mCPP is a controlled substance.\n*Sweden: mCPP is a controlled substance.\n*Switzerland: mCPP is a controlled substance specifically named under Verzeichnis D.\n*United Kingdom: mCPP is a Class C, Schedule 4 (Part 1) drug in the United Kingdom.\n*United States: mCPP is unscheduled in the United States, but could be considered an analogue of benzylpiperazine if it is sold for human consumption.\n\nSee also\n\n*Responsible use\n*Stimulant\n*Entactogen\n*Benzylpiperazine\n\nExternal links\n\n*mCPP (Wikipedia)\n*mCPP (Erowid Vault)\n*mCPP (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Phenylpiperazine",
+ "wikitext": "\n{{SummarySheet}}\n{{SubstanceBox/MCPP}}\n\n'''meta-Chlorophenylpiperazine''' (also known as '''mCPP''') is a stimulant drug of the phenylpiperazine class. It was first synthesized as one in a series of potential novel [[Anti-histamines|antihistamines]] by Thomas H. Wicker Jr. in 1951 as part of his doctoral work at the University of Florida. <ref>{{cite journal | vauthors=((Pollard, C. B.)), ((Wicker, T. H.)) | journal=Journal of the American Chemical Society | title=Derivatives of Piperazine. XXIV. Synthesis of 1-Arylpiperazines and Amino Alcohol Derivatives | volume=76 | issue=7 | pages=1853–1855 | date= April 1954 | url=https://pubs.acs.org/doi/abs/10.1021/ja01636a034 | issn=0002-7863 | doi=10.1021/ja01636a034}}</ref> Unlike many other stimulants like [[amphetamine]], mCPP is generally considered to be unpleasant. mCPP is notable for inducing anxiety<ref>{{cite journal | vauthors=((Kennett, G. A.)), ((Whitton, P.)), ((Shah, K.)), ((Curzon, G.)) | journal=European Journal of Pharmacology | title=Anxiogenic-like effects of mCPP and TFMPP in animal models are opposed by 5-HT1C receptor antagonists | volume=164 | issue=3 | pages=445–454 | date=30 May 1989 | issn=0014-2999 | doi=10.1016/0014-2999(89)90252-5}}</ref>, and causing migraines and severe headaches.<ref>{{cite journal | vauthors=((Leone, M.)), ((Attanasio, A.)), ((Croci, D.)), ((Filippini, G.)), ((D’Amico, D.)), ((Grazzi, L.)), ((Nespolo, A.)), ((Bussone, G.)) | journal=Neurology | title=The serotonergic agent m-chlorophenylpiperazine induces migraine attacks: A controlled study | volume=55 | issue=1 | pages=136–139 | date=12 July 2000 | issn=0028-3878 | doi=10.1212/wnl.55.1.136}}</ref> mCPP is occasionally encountered as an adulterant in street [[MDMA]].<ref>{{cite journal | vauthors=((Bossong, M.)), ((Brunt, T.)), ((Van Dijk, J.)), ((Rigter, S.)), ((Hoek, J.)), ((Goldschmidt, H.)), ((Niesink, R.)) | journal=Journal of Psychopharmacology | title=mCPP: an undesired addition to the ecstasy market | volume=24 | issue=9 | pages=1395–1401 | date= September 2010 | url=http://journals.sagepub.com/doi/10.1177/0269881109102541 | issn=0269-8811 | doi=10.1177/0269881109102541}}</ref>\n==Chemistry==\n{{chemistry}}\nmCPP is a drug in the phenylpiperazine class. On the ''meta''-position of the phenyl group, there is a chlorine atom.\n\n==Pharmacology==\nmCPP possesses significant affinity for the 5-HT<sub>1A</sub>, 5-HT<sub>1B</sub>, 5-HT<sub>1D</sub>, 5-HT<sub>2A</sub>, 5-HT<sub>2B</sub>, 5-HT<sub>2C</sub>, 5-HT<sub>3</sub>, and 5-HT<sub>7</sub>, as well as the SERT (serotonin transporter).<ref name=\"PDSP\" /> It also has some affinity for α<sub>1</sub>-adrenergic, α<sub>2</sub>-adrenergic, H<sub>1</sub>, I<sub>1</sub> (Imidazoline receptor), and NET (norepinephrine transporter).<ref name=\"PDSP\">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testDDRadio=testDDRadio&testLigandDD=1827&testLigand=&refDDRadio=refDDRadio&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref><ref name=\"pmid7814826\">{{cite journal |vauthors=Silverstone PH, Rue JE, Franklin M, etal | title = The effects of administration of mCPP on psychological, cognitive, cardiovascular, hormonal and MHPG measurements in human volunteers | journal = International Clinical Psychopharmacology | volume = 9 | issue = 3 | pages = 173–8 |date=September 1994 | pmid = 7814826 | doi = 10.1097/00004850-199409000-00005| url = }}</ref> It behaves as an [[agonist]] at most serotonin receptors.<ref name=\"pmid503247\">{{cite journal |vauthors=Samanin R, Mennini T, Ferraris A, Bendotti C, Borsini F, Garattini S | title = Chlorophenylpiperazine: a central serotonin agonist causing powerful anorexia in rats | journal = Naunyn-Schmiedeberg's Archives of Pharmacology | volume = 308 | issue = 2 | pages = 159–63 |date=August 1979 | pmid = 503247 | doi = 10.1007/BF00499059| url = }}</ref><ref name=\"pmid15888508\">{{cite journal |vauthors=Odagaki Y, Toyoshima R, Yamauchi T | title = Trazodone and its active metabolite m-chlorophenylpiperazine as partial agonists at 5-HT1A receptors assessed by [35S]GTPgammaS binding | journal = Journal of Psychopharmacology (Oxford, England) | volume = 19 | issue = 3 | pages = 235–41 |date=May 2005 | pmid = 15888508 | doi = 10.1177/0269881105051526 }}</ref> mCPP has been shown to act not only as a serotonin reuptake inhibitor but as a serotonin releasing agent as well.<ref name=\"pmid6610423\">{{cite journal |vauthors=Pettibone DJ, Williams M | title = Serotonin-releasing effects of substituted piperazines in vitro | journal = [[Biochemical Pharmacology (journal)|Biochemical Pharmacology]] | volume = 33 | issue = 9 | pages = 1531–5 |date=May 1984 | pmid = 6610423 | doi = 10.1016/0006-2952(84)90424-6}}</ref>\n\nmCPP's strongest actions are at the 5-HT<sub>2B</sub> and 5-HT<sub>2C</sub> receptors and its discriminative cue is mediated primarily by 5-HT<sub>2C</sub>.<ref name=\"PDSP\"/><ref name=\"pmid8082704\">{{cite journal |vauthors=Callahan PM, Cunningham KA | title = Involvement of 5-HT2C receptors in mediating the discriminative stimulus properties of m-chlorophenylpiperazine (mCPP) | journal = European Journal of Pharmacology | volume = 257 | issue = 1–2 | pages = 27–38 |date=May 1994 | pmid = 8082704 | doi = 10.1016/0014-2999(94)90690-4}}</ref><ref name=\"pmid9683007\">{{cite journal | vauthors = Gommans J, Hijzen TH, Maes RA, Olivier B | title = Discriminative stimulus properties of mCPP: evidence for a 5-HT2C receptor mode of action | journal = Psychopharmacology | volume = 137 | issue = 3 | pages = 292–302 | date = June 1998 | pmid = 9683007 | doi = 10.1007/s002130050622 | url = http://link.springer.de/link/service/journals/00213/bibs/8137003/81370292.htm | archiveurl = https://web.archive.org/web/20020112104011/http://link.springer.de/link/service/journals/00213/bibs/8137003/81370292.htm | archivedate = 2002-01-12 }}</ref> Its negative effects such as [[anxiety]], [[headache]]s, and [[anorexia (symptom)|appetite loss]] are likely mediated by its actions on the 5-HT<sub>2C</sub> receptor.<ref name=\"pmid2767117\">{{cite journal |vauthors=Kennett GA, Whitton P, Shah K, Curzon G | title = Anxiogenic-like effects of mCPP and TFMPP in animal models are opposed by 5-HT1C receptor antagonists | journal = European Journal of Pharmacology | volume = 164 | issue = 3 | pages = 445–54 |date=May 1989 | pmid = 2767117 | doi = 10.1016/0014-2999(89)90252-5| url = }}</ref><ref name=\"pmid2906446\">{{cite journal |vauthors=Kennett GA, Curzon G | title = Evidence that hypophagia induced by mCPP and TFMPP requires 5-HT1C and 5-HT1B receptors; hypophagia induced by RU 24969 only requires 5-HT1B receptors | journal = Psychopharmacology | volume = 96 | issue = 1 | pages = 93–100 | year = 1988 | pmid = 2906446 | doi = 10.1007/BF02431539| url = }}</ref><ref name=\"pmid3401632\">{{cite journal |vauthors=Kennett GA, Curzon G | title = Evidence that mCPP may have behavioural effects mediated by central 5-HT1C receptors | journal = [[British Journal of Pharmacology]] | volume = 94 | issue = 1 | pages = 137–47 |date=May 1988 | pmid = 3401632 | pmc = 1853919 | doi = 10.1111/j.1476-5381.1988.tb11508.x| url = }}</ref> Other effects of mCPP include [[nausea]], hypoactivity, and penile erection, the latter two the result of increased 5-HT<sub>2C</sub> activity and the former likely via 5-HT<sub>3</sub> stimulation.<ref name=\"pmid2775468\">{{cite journal |vauthors=Kłodzińska A, Jaros T, Chojnacka-Wójcik E, Maj J | title = Exploratory hypoactivity induced by m-trifluoromethylphenylpiperazine (TFMPP) and m-chlorophenylpiperazine (m-CPP) | journal = Journal of Neural Transmission. Parkinson's Disease and Dementia Section | volume = 1 | issue = 3 | pages = 207–18 | year = 1989 | pmid = 2775468 | doi = 10.1007/BF02248670| url = }}</ref><ref name=\"pmid7862925\">{{cite journal |vauthors=Walsh AE, Smith KA, Oldman AD, Williams C, Goodall EM, Cowen PJ | title = m-Chlorophenylpiperazine decreases food intake in a test meal | journal = Psychopharmacology | volume = 116 | issue = 1 | pages = 120–2 |date=September 1994 | pmid = 7862925 | doi = 10.1007/BF02244883| url = }}</ref><ref name=\"pmid8001637\">{{cite journal |vauthors=Stancampiano R, Melis MR, Argiolas A | title = Penile erection and yawning induced by 5-HT1C receptor agonists in male rats: relationship with dopaminergic and oxytocinergic transmission | journal = European Journal of Pharmacology | volume = 261 | issue = 1–2 | pages = 149–55 |date=August 1994 | pmid = 8001637 | doi = 10.1016/0014-2999(94)90313-1}}</ref>\n\nmCPP acts as a partial agonist of the human 5-HT<sub>2C</sub> receptor but as an antagonist of the human 5-HT<sub>2A</sub> and 5-HT<sub>2B</sub> receptors.<ref name=\"pmid9933142\">{{cite journal | vauthors = Nelson DL, Lucaites VL, Wainscott DB, Glennon RA | title = Comparisons of hallucinogenic phenylisopropylamine binding affinities at cloned human 5-HT2A, -HT(2B) and 5-HT2C receptors | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 359 | issue = 1 | pages = 1–6 | year = 1999 | pmid = 9933142 | doi = 10.1007/pl00005315| url = }}</ref><ref name=\"pmid8856697\">{{cite journal | vauthors = Thomas DR, Gager TL, Holland V, Brown AM, Wood MD | title = m-Chlorophenylpiperazine (mCPP) is an antagonist at the cloned human 5-HT2B receptor | journal = NeuroReport | volume = 7 | issue = 9 | pages = 1457–60 | year = 1996 | pmid = 8856697 | doi = 10.1097/00001756-199606170-00002| url = }}</ref> In accordance with its lack of agonism towards the human 5-HT<sub>2A</sub> receptor, there are no reports that mCPP produces [[hallucinogen]]ic effects in humans.<ref name=\"pmid9933142\" />\n\nmCPP is an active metabolite of the antidepressant trazodone.<ref>{{cite journal | vauthors=((Fong, M. H.)), ((Garattini, S.)), ((Caccia, S.)) | journal=Journal of Pharmacy and Pharmacology | title=1- m -Chlorophenylpiperazine is an active metabolite common to the psychotropic drugs trazodone, etoperidone and mepiprazole | volume=34 | issue=10 | pages=674–675 | date=12 April 2011 | url=https://academic.oup.com/jpp/article/34/10/674/6198170 | issn=2042-7158 | doi=10.1111/j.2042-7158.1982.tb04701.x}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The particular style of stimulation which mCPP presents can be described as forced. This means that, at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control. \n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Perception of bodily heaviness]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n\n}}\n\n\n\n|{{effects/cognitive|\n*'''[[Effect::Cognitive dysphoria|Dysphoria]]''' - While this substance can induce a mild euphoria at low doses, mCPP is generally considered to be unpleasant and dysphoric at common and high doses.\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Feelings of impending doom]]'''\n*'''[[Effect::Depression]]'''\n\n}}\n{{effects/visual|\n*'''[[Effect::Drifting]]'''\n*'''[[Effect::Tracers]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_mCPP.shtml Erowid Experience Vaults: mCPP]\n\n==Toxicity and harm potential==\n{{toxicity}}\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nmCPP is not known to be addictive, but there are not any studies exclusively on its addiction potential.\n\n===Dangerous interactions===\nmCPP is metabolized by cytochrome P450 2D6<ref>{{cite journal | vauthors=((Rotzinger, S.)), ((Fang, J.)), ((Coutts, R. T.)), ((Baker, G. B.)) | journal=Biological Psychiatry | title=Human CYP2D6 and metabolism of m-chlorophenylpiperazine | volume=44 | issue=11 | pages=1185–1191 | date=1 December 1998 | url=https://www.biologicalpsychiatryjournal.com/article/S0006-3223(97)00483-6/fulltext | issn=0006-3223 | doi=10.1016/S0006-3223(97)00483-6}}</ref>, and concurrently taking inhibitors of that enzyme results in increased serum levels of mCPP. Commonly encounter inhibitors of CYP2D6 include ciprofloxacin, bupropion (Wellbutrin), fluoxetine (Prozac) and grapefruit juice.<ref>P450 Drug Interaction Table | http://medicine.iupui.edu/CLINPHARM/ddis/main-table</ref>\n\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=mCPP}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[DangerousInteraction::Cocaine]]''' - This combination may increase strain on the heart.\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Austria''': Since January 1, 2012, mCPP is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Belgium''': mCPP  is a controlled substance as of October 22, 2006.<ref>{{cite web|url=http://www.emcdda.europa.eu//html.cfm//index5176EN.html?sLanguageISO=EN&nNodeID=5176&pluginMethod=eldd.shownewsdetails&id=20/12/2006BELGIUM:+New+substances+controlled+include+mCPP+and+khat|title=BELGIUM: New substances controlled include mCPP and khat|publisher=European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)|access-date=December 28, 2019}}</ref> \n*'''Brazil''': mCPP is a controlled substance (''lista F2 da Portaria SVS/MS 344/98'') since November 2008.<ref>{{cite web|url=http://www.anvisa.gov.br/divulga/noticias/2008/051108_2.htm|title=MCPP é incluída na lista de substâncias psicotrópicas|publisher=Agência Nacional de Vigilância Sanitária|access-date=December 28, 2019|archive-url=https://web.archive.org/web/20110719081356/http://www.anvisa.gov.br/divulga/noticias/2008/051108_2.htm|archive-date=July 19, 2011|language=pt}}</ref>\n*'''China''': As of October 2015, mCPP is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>\n*'''Denmark''': mCPP is a controlled substance as of December 3, 2005.<ref name=\"JointReport>{{cite web|url=http://www.emcdda.europa.eu/system/files/publications/362/downloads/Europol-EMCDDA_Active_Monitoring_Report_mCPP_290307.pdf|title=Europol–EMCDDA Active Monitoring Report on a new psychoactive substance: 1-(3-chlorophenyl)piperazine (mCPP)|publisher=European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)|date=December 2005|access-date=April 19, 2020}}</ref>\n*'''Finland''': mCPP is a controlled substance.{{citation needed}}\n*'''Germany''': mCPP is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 25, 2019|language=de}}</ref> as of March 1, 2007.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl107s0154.pdf|title=Zwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 28, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 25, 2019|language=de}}</ref>\n*'''Greece''': mCPP is a controlled substance as of January 20, 2005.<ref name=\"JointReport\"/>\n*'''Hungary''': mCPP is a controlled substance as of January 1, 2006.<ref name=\"JointReport\"/>\n*'''Japan''': mCPP is a controlled substance since 2006.{{citation needed}}\n*'''Lithuania''': mCPP is a controlled substance as of July 1, 2006.<ref name=\"JointReport\"/>\n*'''Norway''': mCPP is a controlled substance.{{citation needed}}\n*'''Poland''': mCPP is a controlled substance.{{citation needed}}\n*'''Russia''': mCPP is a controlled substance.{{citation needed}}\n*'''Sweden''': mCPP is a controlled substance.{{citation needed}}\n*'''Switzerland''': mCPP is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': mCPP is a Class C, Schedule 4 (Part 1) drug in the United Kingdom.<ref>{{Citation | title=List of most commonly encountered drugs currently controlled under the misuse of drugs legislation | url=https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation}}</ref>\n*'''United States''': mCPP is unscheduled in the United States, but could be considered an analogue of benzylpiperazine if it is sold for human consumption.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulant]]\n*[[Entactogen]]\n*[[Benzylpiperazine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Meta-Chlorophenylpiperazine mCPP (Wikipedia)]\n*[https://erowid.org/chemicals/mcpp/ mCPP (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=806 mCPP (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Phenylpiperazine]]"
+}

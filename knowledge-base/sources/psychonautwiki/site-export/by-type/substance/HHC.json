@@ -1,0 +1,333 @@
+{
+ "id": "psychonautwiki:21453",
+ "type": "substance",
+ "title": "HHC",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/HHC",
+  "pageid": 21453,
+  "last_edited": "2025-08-28T18:57:38Z"
+ },
+ "categories": [],
+ "substance_box_template": "SubstanceBox/HHC",
+ "substance_box": {
+  "names": {
+   "common": "HHC,  Hexahydrocannabinol",
+   "substitutive": "HHC",
+   "systematic": "(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Cannabinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Depends on potency, tolerance and route of administration.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 5 mg",
+    "light": "5 - 12 mg",
+    "common": "12 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "30 - 45 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 6 hours",
+    "offset": "3 - 5 minutes",
+    "aftereffects": "10 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "HHC",
+    "Hexahydrocannabinol"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Cannabinoid"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "12"
+   ],
+   "Oral min common dose": [
+    "12"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "10"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Hexahydrocannabinol.svg",
+   "clean": "File:Hexahydrocannabinol.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::HHC]], [[common name:: Hexahydrocannabinol]]",
+   "clean": "HHC,  Hexahydrocannabinol"
+  },
+  "NameSubstitution": {
+   "raw": "HHC",
+   "clean": "HHC"
+  },
+  "NameSystematic": {
+   "raw": "(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol",
+   "clean": "(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "Depends on potency, tolerance and route of administration."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::12]] mg",
+   "clean": "5 - 12 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::12]] - [[Oral max common dose::30]] mg",
+   "clean": "12 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::5]] [[Oral offset time units::minutes]]",
+   "clean": "3 - 5 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::10]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "10 - 12 hours"
+  }
+ },
+ "plain_text": "Hexahydrocannabinol (HHC) is a cannabinoid analogue that has been marketed as an \"alternative cannabinoid\" since 2021. It is a saturated cannabinoid, meaning it has no double bonds in its chemical structure, which differentiates it from other cannabinoids such as THC. The mechanism of action is binding activity at cannabinoid receptors distributed throughout the body.\n\nChemistry\n\nHHC is a cannabinoid, a class of chemical compounds that interact with cannabinoid receptors in the human body. It is a saturated cannabinoid, which means it has no double bonds in its chemical structure. This differentiates it from other cannabinoids such as THC, which contains a double bond. HHC was first synthesized in 1947 by Roger Adams using natural THC found in Cannabis sativa. However, it was initially identified in Europe much later, in May 2022. Since then, it has been monitored as a new psychoactive substance (NPS) by the EU Early Warning System (EWS) since October 2022.\n\nSubjective Effects\n\nAnecdotal reports suggest that HHC produces a mild feeling of intoxication, with some users reporting similar effects to conventional \"sativa\" THC products.\n\nLike THC, HHC may produce sensory effects such as visual and auditory distortions. These could potentially include changes in color perception, alterations in depth perception, and auditory effects. \n\nCognitive effects of HHC could potentially include alterations in thought processes, mood changes, and changes in perception of time. These effects are similar to those produced by THC, which include thought connectivity, mood alteration, and time distortion.\n\nPhysical effects of HHC could potentially include changes in bodily sensations, alterations in appetite, and changes in sleep patterns. These are similar to the physical effects produced by THC, which include changes in felt bodily form, increased appetite, and sleepiness.\n\nComparison with THC\n\nWhile HHC and THC are both cannabinoids, they differ in their chemical structure. THC contains a double bond, while HHC is a saturated cannabinoid with no double bonds. This difference in chemical structure could potentially result in differences in their effects, although more research is needed to fully understand these potential differences. THC is known to produce a range of effects, including alterations in sensory perception, cognitive changes, and physical sensations. It is also associated with a modestly increased risk of developing a psychotic disorder, particularly in individuals with risk factors for psychotic illnesses. It is currently unproven scientifically whether HHC has similar effects, however, some anecdotal reports suggest that HHC is akin to a more \"heady\"/sativa feeling strain of THC. \n\nDerivatives of Hexahydrocannabinol (HHC)\n\nHHC has several derivatives, including HHC-O Acetate (HHCO), HHC-P (HHCP), HHCPO, and HHCv. These derivatives have been developed due to the increasing popularity of HHC and its potential benefits.\n\nHHC-O Acetate (HHCO)\n\nHHC-O Acetate, also known as HHC acetate or HHC-O, is a prodrug of HHC. This means that it must undergo metabolic processes before becoming an active pharmacological agent. The addition of an acetate to HHC enhances its ability to cross the blood-brain barrier. Once metabolized, HHC-O binds more readily to cannabinoid receptors, resulting in a stronger effect than HHC alone.\n\nThe effects of HHC-O are generally stronger and last longer than those of HHC. It takes about 15-30 minutes to kick in, and its positive effects are stronger than those of HHC. It has a low viscosity and smooth vaping, making it versatile in edibles.\n\nHHC-P (HHCP)\n\nHHC-P, also known as the \"King of Cannabinoids,\" is a derivative of HHC that shares many affinities with Delta 9 THC-P. The carbon tail composed of seven carbons allows HHC-P to bind to the CB1 receptor much stronger than other cannabinoids. It is significantly stronger than HHC, and users tend to mix it in smaller percentages due to its strength. \n\nHHC-P is known to produce powerful, intoxicating, and euphoric effects. Some users report HHC-P to be stronger than THC-P.\n\nHHCPO\n\nHHCPO, also known as Hexahydrocannabiphorol Acetate, is a hydrogenated and acetylated THCP. Like THC-P and HHC-P, increasing the length of the alkane chain increases the binding affinity of the cannabinoid. HHCPO is known to produce powerful, intoxicating, and euphoric effects that are more potent and longer-lasting than THCP and HHCP. Some users report HHCPO to be stronger than HHCP.\n\nIn conclusion, the derivatives of HHC, namely HHC-O, HHC-P, and HHCPO, are all stronger than HHC and have unique characteristics that make them interesting for further research and potential therapeutic applications. However, it's important to note that these are novel cannabinoids, and more research is needed to fully understand their effects, potential benefits, and risks.\n\nSafety and Toxicity\n\nThe safety and toxicity of HHC have not been extensively studied. As with any substance, it is important to use caution and moderation when using HHC. More research is needed to fully understand the potential risks and side effects of HHC.\n\nLegal Status\n\nThe legal status of HHC varies by country and region. It is important to check the laws in your area before using HHC.\n\nSee Also\n\n*Cannabinoids\n*THC\n\nExternal Links\n\n*(Wikipedia)\n*(Botanyfarms)\n*(Kratomit)\n*(Binoidcbd)\n*(Herb)\n\nReferences\n\n#PsychonautWiki. (2023). Content Style Guide - Substance. Retrieved from https://psychonautwiki.org/wiki/Content_Style_Guide_-_Substance\n#Wikipedia. (2023). Hexahydrocannabinol. Retrieved from https://en.wikipedia.org/wiki/Hexahydrocannabinol\n#Effect Index. (2023). Subjective Effect Index. Retrieved from http://www.effectindex.com/effects\n#PsychonautWiki. (2023). THC. Retrieved from https://psychonautwiki.org/wiki/THC\n#Healthline. (2022). Does HHC Get You High? Effects, Safety, Legality. Retrieved from https://www.healthline.com/health/does-hhc-get-you-high\n#WebMD. (2022). What Do Scientists Know About Hexahydrocannabinol, or HHC? Retrieved from https://www.webmd.com/mental-health/addiction/what-is-hhc\n#Eighty Six Group. (2023). What Does an HHC High Feel Like? Retrieved from https://eightysixbrand.com/what-does-an-hhc-high-feel-like/\n#https://kannastar.com/post/hhc-hhco-hhcp/\n#https://vivimu.com/what-is-hhc-hhco-hhcp/\n#https://meleedose.com/hhc-vs-hhco-vs-hhcp/\n#https://gomicromagic.cc/2023/08/28/what-is-hhc/\n#https://herb.co/guides/hhc-vs-hhc-o-vs-hhc-p-cannabinoids-compared\n#https://smokea.com/blogs/knowledge-base/what-is-hhc-hhco-and-hhcp\n#https://en.wikipedia.org/wiki/HHCP-O-acetate",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/HHC}}\n\n'''Hexahydrocannabinol''' ('''HHC''') is a [[cannabinoid]] analogue that has been marketed as an \"alternative cannabinoid\" since 2021. It is a saturated cannabinoid, meaning it has no double bonds in its chemical structure, which differentiates it from other cannabinoids such as THC. The mechanism of action is [[Agonist|binding activity]] at [[cannabinoid]] [[receptors]] distributed throughout the body.\n\n===Chemistry===\nHHC is a cannabinoid, a class of chemical compounds that interact with cannabinoid receptors in the human body. It is a saturated cannabinoid, which means it has no double bonds in its chemical structure. This differentiates it from other cannabinoids such as THC, which contains a double bond. HHC was first synthesized in 1947 by Roger Adams using natural THC found in Cannabis sativa. However, it was initially identified in Europe much later, in May 2022. Since then, it has been monitored as a new psychoactive substance (NPS) by the EU Early Warning System (EWS) since October 2022.\n\n===Subjective Effects===\nAnecdotal reports suggest that HHC produces a mild feeling of intoxication, with some users reporting similar effects to conventional \"sativa\" THC products.\n\nLike THC, HHC may produce sensory effects such as visual and auditory distortions. These could potentially include changes in color perception, alterations in depth perception, and auditory effects. \n\nCognitive effects of HHC could potentially include alterations in thought processes, mood changes, and changes in perception of time. These effects are similar to those produced by THC, which include thought connectivity, mood alteration, and time distortion.\n\nPhysical effects of HHC could potentially include changes in bodily sensations, alterations in appetite, and changes in sleep patterns. These are similar to the physical effects produced by THC, which include changes in felt bodily form, increased appetite, and sleepiness.\n\n===Comparison with THC===\nWhile HHC and THC are both cannabinoids, they differ in their chemical structure. THC contains a double bond, while HHC is a saturated cannabinoid with no double bonds. This difference in chemical structure could potentially result in differences in their effects, although more research is needed to fully understand these potential differences. THC is known to produce a range of effects, including alterations in sensory perception, cognitive changes, and physical sensations. It is also associated with a modestly increased risk of developing a psychotic disorder, particularly in individuals with risk factors for psychotic illnesses. It is currently unproven scientifically whether HHC has similar effects, however, some anecdotal reports suggest that HHC is akin to a more \"heady\"/sativa feeling strain of THC. \n\n==='''Derivatives of Hexahydrocannabinol (HHC)'''===\nHHC has several derivatives, including HHC-O Acetate (HHCO), HHC-P (HHCP), HHCPO, and HHCv. These derivatives have been developed due to the increasing popularity of HHC and its potential benefits.\n\n====HHC-O Acetate (HHCO)====\nHHC-O Acetate, also known as HHC acetate or HHC-O, is a prodrug of HHC. This means that it must undergo metabolic processes before becoming an active pharmacological agent. The addition of an acetate to HHC enhances its ability to cross the blood-brain barrier. Once metabolized, HHC-O binds more readily to cannabinoid receptors, resulting in a stronger effect than HHC alone.\n\nThe effects of HHC-O are generally stronger and last longer than those of HHC. It takes about 15-30 minutes to kick in, and its positive effects are stronger than those of HHC. It has a low viscosity and smooth vaping, making it versatile in edibles.\n\n====HHC-P (HHCP)====\nHHC-P, also known as the \"King of Cannabinoids,\" is a derivative of HHC that shares many affinities with Delta 9 THC-P. The carbon tail composed of seven carbons allows HHC-P to bind to the CB1 receptor much stronger than other cannabinoids. It is significantly stronger than HHC, and users tend to mix it in smaller percentages due to its strength. \n\nHHC-P is known to produce powerful, intoxicating, and euphoric effects. Some users report HHC-P to be stronger than THC-P.\n\n====HHCPO====\nHHCPO, also known as Hexahydrocannabiphorol Acetate, is a hydrogenated and acetylated THCP. Like THC-P and HHC-P, increasing the length of the alkane chain increases the binding affinity of the cannabinoid. HHCPO is known to produce powerful, intoxicating, and euphoric effects that are more potent and longer-lasting than THCP and HHCP. Some users report HHCPO to be stronger than HHCP.\n\nIn conclusion, the derivatives of HHC, namely HHC-O, HHC-P, and HHCPO, are all stronger than HHC and have unique characteristics that make them interesting for further research and potential therapeutic applications. However, it's important to note that these are novel cannabinoids, and more research is needed to fully understand their effects, potential benefits, and risks.\n\n====Safety and Toxicity====\nThe safety and toxicity of HHC have not been extensively studied. As with any substance, it is important to use caution and moderation when using HHC. More research is needed to fully understand the potential risks and side effects of HHC.\n\n====Legal Status====\nThe legal status of HHC varies by country and region. It is important to check the laws in your area before using HHC.\n\n====See Also====\n\n*[[Cannabinoids]]\n*[[THC]]\n\n====External Links====\n\n*[https://en.wikipedia.org/wiki/Hexahydrocannabinol (Wikipedia)]\n*[https://www.botanyfarms.com/blogs/blog/how-long-does-it-take-for-hhc-to-kick-in (Botanyfarms)]\n*[https://www.kratomit.eu/blog/how-fast-does-hhc-kick-in/ (Kratomit)]\n*[https://www.binoidcbd.com/blogs/news/hhc-dosage (Binoidcbd)]\n*[https://herb.co/guides/hhc-dosage-guide-how-much-should-i-take (Herb)]\n\n====References====\n\n#PsychonautWiki. (2023). Content Style Guide - Substance. Retrieved from [[Content Style Guide - Substance|https://psychonautwiki.org/wiki/Content_Style_Guide_-_Substance]]\n#Wikipedia. (2023). Hexahydrocannabinol. Retrieved from <nowiki>https://en.wikipedia.org/wiki/Hexahydrocannabinol</nowiki>\n#Effect Index. (2023). Subjective Effect Index. Retrieved from <nowiki>http://www.effectindex.com/effects</nowiki>\n#PsychonautWiki. (2023). THC. Retrieved from [[THC|https://psychonautwiki.org/wiki/THC]]\n#Healthline. (2022). Does HHC Get You High? Effects, Safety, Legality. Retrieved from <nowiki>https://www.healthline.com/health/does-hhc-get-you-high</nowiki>\n#WebMD. (2022). What Do Scientists Know About Hexahydrocannabinol, or HHC? Retrieved from <nowiki>https://www.webmd.com/mental-health/addiction/what-is-hhc</nowiki>\n#Eighty Six Group. (2023). What Does an HHC High Feel Like? Retrieved from <nowiki>https://eightysixbrand.com/what-does-an-hhc-high-feel-like/</nowiki>\n#https://kannastar.com/post/hhc-hhco-hhcp/\n#https://vivimu.com/what-is-hhc-hhco-hhcp/\n#https://meleedose.com/hhc-vs-hhco-vs-hhcp/\n#https://gomicromagic.cc/2023/08/28/what-is-hhc/\n#<nowiki>https://herb.co/guides/hhc-vs-hhc-o-vs-hhc-p-cannabinoids-compared</nowiki>\n#<nowiki>https://smokea.com/blogs/knowledge-base/what-is-hhc-hhco-and-hhcp</nowiki>\n#<nowiki>https://en.wikipedia.org/wiki/HHCP-O-acetate</nowiki>"
+}

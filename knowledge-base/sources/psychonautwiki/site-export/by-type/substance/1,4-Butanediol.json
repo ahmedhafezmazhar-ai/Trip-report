@@ -1,0 +1,501 @@
+{
+ "id": "psychonautwiki:8765",
+ "type": "substance",
+ "title": "1,4-Butanediol",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1%2C4-Butanediol",
+  "pageid": 8765,
+  "last_edited": "2025-01-30T23:24:03Z"
+ },
+ "categories": [
+  "Alcohol",
+  "Alkanediol",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Prodrug"
+ ],
+ "substance_box_template": "SubstanceBox/1,4-Butanediol",
+ "substance_box": {
+  "names": {
+   "common": "1,4-Butanediol, 1,4-B, BD, BDO, One Comma Four, One Four Bee, Butylene Glycol, or One Four B-D-O",
+   "substitutive": "",
+   "systematic": "Butane-1,4-diol"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Alkanediol"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. This dosage and duration information has been sourced from WHO\nWith 1,4-Butanediol, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute it heavily in liquid and not drink the entire dose all at once. Combining this drug with other depressants is extremely dangerous.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 0.5 mL",
+    "light": "0.5 - 1 mL",
+    "common": "1 - 2.5 mL",
+    "strong": "2.5 - 4 mL",
+    "heavy": "4 mL + Warning: Doses above 4 mL can induce heavy sleep and doses above 6 mL can lead to poisoning",
+    "duration": "3.5 - 7 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1.5 - 2 hours",
+    "aftereffects": "4 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "1,4-Butanediol",
+    "1,4-B",
+    "BD",
+    "BDO",
+    "One Comma Four",
+    "One Four Bee",
+    "Butylene Glycol",
+    "One Four B-D-O"
+   ],
+   "systematic name": [
+    "Butane-1,4-diol"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Alkanediol"
+   ],
+   "Oral threshold dose": [
+    "0.5"
+   ],
+   "Oral dose units": [
+    "mL"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1"
+   ],
+   "Oral min common dose": [
+    "1"
+   ],
+   "Oral max common dose": [
+    "2.5"
+   ],
+   "Oral min strong dose": [
+    "2.5"
+   ],
+   "Oral max strong dose": [
+    "4"
+   ],
+   "Oral heavy dose": [
+    "4"
+   ],
+   "Oral min total time": [
+    "3.5"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1.5"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 1,4-Butanediol",
+   "clean": "Molecular structure of 1,4-Butanediol"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:1,4-Butanediol.svg",
+   "clean": "File:1,4-Butanediol.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::1,4-Butanediol]], [[common name::1,4-B]], [[common name::BD]], [[common name::BDO]], [[common name::One Comma Four]], [[common name::One Four Bee]], [[common name::Butylene Glycol]], or [[common name::One Four B-D-O]]",
+   "clean": "1,4-Butanediol, 1,4-B, BD, BDO, One Comma Four, One Four Bee, Butylene Glycol, or One Four B-D-O"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::Butane-1,4-diol]]",
+   "clean": "Butane-1,4-diol"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Alkanediol]]",
+   "clean": "Alkanediol"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation. <br>'''This dosage and duration information has been sourced from [https://www.who.int/medicines/areas/quality_safety/4_4_Review.pdf WHO]'''\n<br><span style=\"color:red\">'''With 1,4-Butanediol, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute it heavily in liquid and not drink the entire dose all at once.''' [[1,4-Butanediol#Dangerous_interactions|Combining this drug with other depressants is extremely dangerous.]]</span>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. This dosage and duration information has been sourced from WHO\nWith 1,4-Butanediol, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute it heavily in liquid and not drink the entire dose all at once. Combining this drug with other depressants is extremely dangerous."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::0.5]] [[Oral dose units::mL]]",
+   "clean": "< 0.5 mL"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1]] mL",
+   "clean": "0.5 - 1 mL"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1]] - [[Oral max common dose::2.5]] mL",
+   "clean": "1 - 2.5 mL"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2.5]] - [[Oral max strong dose::4]] mL",
+   "clean": "2.5 - 4 mL"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::4]] mL + <span style=\"color:red\">'''Warning: Doses above 4 mL can induce heavy sleep and doses above 6 mL can lead to poisoning<ref name=\"cite\">WHO report on 1,4-butanediol | https://www.who.int/medicines/areas/quality_safety/4_4_Review.pdf</ref>'''</span>",
+   "clean": "4 mL + Warning: Doses above 4 mL can induce heavy sleep and doses above 6 mL can lead to poisoning"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3.5]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "3.5 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1.5]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 12 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "1,4-Butanediol (also known as 1,4-B, BDO, BD or 1,4-BD) is a depressant substance and a prodrug for GHB. It occurs as a thick, colorless liquid or solid depending on storage temperature (melting point of 20 ℃), and has a distinct bitter-sweet taste. It is used as a recreational intoxicant with effects similar to alcohol and GHB. 1 ml of 1,4-butanediol is equivalent to 1.4 g of Na-GHB. \n\n1,4-Butanediol is used industrially as a solvent and in the manufacture of some types of plastics, elastic fibers and polyurethanes. In organic chemistry, it is used for the synthesis of γ-butyrolactone (GBL).\n\n1,4-Butanediol, as well as GBL, will dissolve most types of plastic over time. For this reason, it is recommended to only transport and store the drug using a glass container, standard gelatin capsules (not vegetarian), or high-density polyethylene plastic (also known as #2 recycled plastic). To check the type of plastic used on a bottle, one can look at the bottom for a number in the triangle-shaped recycling label.\n\nChemistry\n\n1,4-Butanediol is classified as a subclass of alcoholic compounds called diol. Diols are named for having two alcohol (OH-) substitutions in their structure. 1,4-Butanediol is comprised of a butane chain of four carbon groups with an alcohol group bound to each terminal carbon of this chain. 1,4-Butanediol is named for these alcohol substitutions, which are located at R1 and R4. These alcohol substitutions make 1,4-Butanediol a polar liquid, which explains its good solubility in water.\n\nPhysically, it is a hygroscopic colorless oily liquid with a barely noticeable characteristic odor. Unlike GHB, 1,4-Butanediol has a distinct taste, described as being repulsive, plastic-like and chemical.\n\nPharmacology\n\n1,4-Butanediol is not active in its own right; its mechanism of action stems from its identity as a prodrug of GHB.\n\nIt is converted into GHB in the liver by the enzymes alcohol dehydrogenase and aldehyde dehydrogenase, which is the same enzyme as alcohol. 1,4-Butanediol is first converted into 4-hydroxybutaldehyde in the liver and is released into the bloodstream before returning to the liver to convert into GHB. This process results in a much more delayed onset than GBL or GHB. 4-hydroxybutaldehyde, even though it is an potentially toxic metabolite, no toxicity identified. Possibly because the very fast metabolism to GHB.\n\n300px|thumb|left|Metabolic pathways of GBL and 1,4-Butanediol as prodrugs for GHB\n\nThe differing levels of dehydrogenase enzymes can vary between individuals, meaning that, like alcohol, effects can differ greatly between users. In many, this manifests as a slow onset of effects and a higher rate of aldehyde collecting in the bloodstream. Because of these pharmacokinetic differences, 1,4-butanediol tends to be less potent and with a slower onset than GHB but has a longer duration; the related compound GBL tends to be slightly more potent and faster to take effect but more short-acting than GHB.\n\nSubjective effects\n\n200px|thumb|Bottle of 1,4 Butanediol.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here\n\n*Erowid Experience Vaults: 1,4-Butanediol\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of [[GHB]]\n1,4-Butanediol is not active in its own right; its mechanism of action stems from its identity as a prodrug of GHB, meaning that it is rapidly converted into GHB in the body.\n\nGHB is considered to be a safe and non-toxic substance when used responsibly or medically. The LD50 is above the active dosage, and there is no danger of acute toxicity when this compound is taken at appropriate dosages. However, it can be dangerous when used as a recreational drug or abused. There have been many negative reports from recreational users who have overdosed, combined GHB with alcohol or other drugs, or accidentally dosed themselves unexpectedly. \n\nOne publication has investigated 226 deaths attributed to GHB. Seventy-one deaths (34%) were caused by GHB alone while the other deaths were from respiratory depression caused by interaction with alcohol or other drugs.\n\nTo avoid a possible overdose of GHB/1,4-Butanediol, it is important to start with a low dose and work your way up slowly by increasing the dosage in small increments as the exact toxic dosage is unknown.\n\nAccidental ingestions of 1,4-Butanediol have also occurred due to inadequate storage methods. If 1,4-Butanediol is put into a clear liquid, glass, or bottle, it can be easily mistaken for water. It is recommended to clearly label your 1,4-Butanediol in writing and dye the liquid with blue food coloring so it no longer resembles a drinkable beverage. It is also recommended to store your 1,4-Butanediol in a container that no one would drink out of.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nNeurotoxicity\n\nIn multiple studies, GHB has been found to impair spatial memory, working memory, learning and memory in rats with chronic administration. These effects are associated with decreased NMDA receptor expression in the cerebral cortex and possibly other areas as well.\n\nOne study found that repeated administration of GHB to rats for 15 days drastically reduced the number of neurons and non-neuronal cells within the hippocampus and in the prefrontal cortex. With doses of 10 mg/kg of GHB, they were decreased by 61% in the hippocampus region and 32% in the prefrontal cortex, and with 100 mg/kg, they were decreased by 38% and 9%, respectively. This paper demonstrates contradicting effects on neuronal loss, with lower doses (10 mg/kg) producing the most neurotoxicity, and higher doses (100 mg/kg) producing less.\n\nTolerance and addiction potential\n\n350px|thumbnail|right|This table compares the withdrawal symptoms of GHB/1,4-Butanediol, [[benzodiazepines, and alcohol.]]\nGHB/1,4-Butanediol is moderately physically and psychologically addictive. The frequent use of GHB/1,4-Butanediol can cause withdrawal symptoms similar to those caused by other depressants such as alcohol and benzodiazepines if abruptly discontinued. These symptoms seem to depend on the dosage and the length of time the drug was used for. Light to moderate users often experience anxiety, insomnia, sleep-related problems, and tremors whereas heavy use can cause severe withdrawal symptoms like delirium, psychosis, and hallucinations.\n\nAlthough there have been reported fatalities due to GHB/1,4-Butanediol withdrawal, reports are inconclusive and further research is needed.\n\nTolerance will develop to the sedative-hypnotic effects within several weeks of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.\n\nDangerous interactions\n\nLegal status\n\n*United States: While 1,4-butanediol is not currently scheduled federally in the United States, a number of states have classified it as a controlled substance. Additionally, individuals have been prosecuted for this substance under the Federal Analogue Act as being substantially similar to GHB. A federal district court in Chicago ruled that 1,4-butanediol could not be considered an analogue of GHB under federal law, and the Seventh Circuit Court of Appeals upheld that ruling.\n*United Kingdom: In the United Kingdom, 1,4-butanediol was scheduled in December 2009 (along with another GHB precursor, gamma-butyrolactone) as a Class C controlled substance.\n*Germany: 1,4-butanediol is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act). It is legal, as long as it is not sold for human consumption, according to §2 AMG.\n*Canada: It is controlled as a Schedule VI precursor in Canada.\n*Switzerland: 1,4-Butanediol is a controlled substance specifically named under Verzeichnis E.\n\nSee also\n\n*Responsible use\n*Depressants\n*GHB\n*GBL\n*GABA\n\nExternal links\n\n*1,4-Butanediol (Wikipedia)\n*1,4-Butanediol (Erowid Vault)\n*1,4-Butanediol (Isomer Design)\n\nReferences\n\nPsychoactive substance\nCategory:Alkanediol\nCategory:Alcohol\nCategory:Depressant\nCategory:Prodrug",
+ "wikitext": "{{headerpanel|{{DepressantOD|GABAergics}}}}\n{{SummarySheet}}\n{{SubstanceBox/1,4-Butanediol}}\n\n'''1,4-Butanediol''' (also known as '''1,4-B''', '''BDO''', '''BD or 1,4-BD''') is a [[psychoactive class::depressant]] substance and a [[prodrug]] for [[GHB]]. It occurs as a thick, colorless liquid or solid depending on storage temperature (melting point of 20 ℃), and has a distinct bitter-sweet taste.<ref>{{Citation | vauthors=PubChem | title=1,4-Butanediol | url=https://pubchem.ncbi.nlm.nih.gov/compound/8064}}</ref> It is used as a recreational intoxicant with effects similar to [[alcohol]] and [[GHB]].<ref>{{cite journal | vauthors=((Zvosec, D. L.)), ((Smith, S. W.)), ((McCutcheon, J. R.)), ((Spillane, J.)), ((Hall, B. J.)), ((Peacock, E. A.)) | journal=New England Journal of Medicine | title=Adverse Events, Including Death, Associated with the Use of 1,4-Butanediol | volume=344 | issue=2 | pages=87–94 | date=11 January 2001 | url=https://doi.org/10.1056/NEJM200101113440202 | issn=0028-4793 | doi=10.1056/NEJM200101113440202}}</ref> 1 ml of 1,4-butanediol is equivalent to 1.4 g of Na-GHB. \n\n1,4-Butanediol is used industrially as a solvent and in the manufacture of some types of plastics, elastic fibers and polyurethanes. In organic chemistry, it is used for the synthesis of [[GBL|γ-butyrolactone (GBL)]].<ref>{{cite journal | vauthors=((Zhao, J.)), ((Hartwig, J. F.)) | journal=Organometallics | title=Acceptorless, Neat, Ruthenium-Catalyzed Dehydrogenative Cyclization of Diols to Lactones | volume=24 | issue=10 | pages=2441–2446 | date=1 May 2005 | url=https://pubs.acs.org/doi/10.1021/om048983m | issn=0276-7333 | doi=10.1021/om048983m}}</ref>\n\n1,4-Butanediol, as well as [[GBL]], will dissolve most types of plastic over time.<ref>{{Citation | title=Erowid 1,4-butanediol Vault : Storage : 14b and GBL May Dissolve Some Plastics | url=https://www.erowid.org/chemicals/14b/14b_storage1.shtml |date=2001}}</ref> For this reason, it is recommended to only transport and store the drug using a glass container, standard gelatin capsules (not vegetarian), or high-density polyethylene plastic (also known as #2 recycled plastic). To check the type of plastic used on a bottle, one can look at the bottom for a number in the triangle-shaped recycling label.\n\n==Chemistry==\n1,4-Butanediol is classified as a subclass of alcoholic compounds called [[chemical class::diol|diols]]. Diols are named for having two alcohol (OH-) substitutions in their structure. 1,4-Butanediol is comprised of a butane chain of four carbon groups with an alcohol group bound to each terminal carbon of this chain. 1,4-Butanediol is named for these alcohol substitutions, which are located at R<sub>1</sub> and R<sub>4</sub>. These alcohol substitutions make 1,4-Butanediol a polar liquid, which explains its good solubility in water.\n\nPhysically, it is a hygroscopic colorless oily liquid with a barely noticeable characteristic odor. Unlike GHB, 1,4-Butanediol has a distinct taste, described as being repulsive, plastic-like and chemical.\n\n==Pharmacology==\n{{Main|GHB#Pharmacology}}\n1,4-Butanediol is not active in its own right; its mechanism of action stems from its identity as a prodrug of [[GHB]].<ref>{{cite journal | vauthors=((Carter, L. P.)), ((Koek, W.)), ((France, C. P.)) | journal=European Journal of Neuroscience | title=Lack of effects of GHB precursors GBL and 1,4-BD following i.c.v. administration in rats: GBL and 1,4-BD after i.p. and i.c.v. administration | volume=24 | issue=9 | pages=2595–2600 | date= November 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2006.05146.x | issn=0953816X | doi=10.1111/j.1460-9568.2006.05146.x}}</ref>\n\nIt is converted into GHB in the liver by the enzymes alcohol dehydrogenase and aldehyde dehydrogenase, which is the same enzyme as [[alcohol]].<ref>{{cite journal | title=Gamma-Hydroxybutyrate Toxicity: Practice Essentials, Background, Pathophysiology | date=12 May 2022 | url=https://emedicine.medscape.com/article/820531-overview}}</ref> 1,4-Butanediol is first converted into 4-hydroxybutaldehyde in the liver and is released into the bloodstream before returning to the liver to convert into [[GHB]]. This process results in a much more delayed onset than [[GBL]] or [[GHB]].<ref>{{Citation | vauthors=((Burk, M. J.)), ((Van Dien, S. J.)), ((Burgard, A. P.)), ((Niu, W.)) | title=United States Patent: 8067214 - Compositions and methods for the biosynthesis of 1,4-butanediol and its precursors | url=https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8067214.PN.&OS=PN/8067214&RS=PN/8067214}}</ref> 4-hydroxybutaldehyde, even though it is an potentially toxic metabolite, no toxicity identified. Possibly because the very fast metabolism to GHB.<ref>{{cite journal | vauthors=((Irwin, R. D.)) | journal=Journal of applied toxicology: JAT | title=A review of evidence leading to the prediction that 1,4-butanediol is not a carcinogen | volume=26 | issue=1 | pages=72–80 | date= February 2006 | issn=0260-437X | doi=10.1002/jat.1110}}</ref>\n\n[[File:GHB Prodrugs metabolic Pathways.png|300px|thumb|left|Metabolic pathways of GBL and 1,4-Butanediol as prodrugs for GHB]]\n\nThe differing levels of dehydrogenase enzymes can vary between individuals, meaning that, like alcohol, effects can differ greatly between users. In many, this manifests as a slow onset of effects and a higher rate of aldehyde collecting in the bloodstream.{{cn}} Because of these pharmacokinetic differences, 1,4-butanediol tends to be less potent and with a slower onset than GHB but has a longer duration; the related compound [[GBL]] tends to be slightly more potent and faster to take effect but more short-acting than GHB.\n\n\n\n\n==Subjective effects==\n[[File:1,4 Butanediol pic.jpg|200px|thumb|Bottle of 1,4 Butanediol.]]\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' and '''[[Effect::Sedation]]''' - At lower dosages, 1,4-Butanediol is physically stimulating, encouraging movement and wakefulness. At higher dosages, however, it becomes physically sedating, encouraging sleep and lethargy.\n*'''[[Effect::Respiratory depression]]''' - In cases of 1,4-butanediol overdoses, many reportedly experience an abnormal pattern of breathing characterized by progressively deeper and sometimes faster breathing, followed by a gradual decrease that results in a temporary stop in breathing called an apnea.\n*'''[[Effect::Physical euphoria|Euphoria]]'''\n*'''[[Effect::Nausea]]''' - This effect is more common with 1,4-butanediol than [[GHB]].\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Dehydration]]''' - This effect is related to the hygroscopic nature of 1,4-Butanediol.\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Increased salivation]]''' \n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - Unlike [[alcohol]] which merely increases sociability through [[Effect::disinhibition]], 1,4-butanediol presents strong [[entactogenic]] effects which are prominent and well defined although weaker than that of [[MDMA]].\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Suggestibility enhancement]]\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:1,4-Butanediol]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here\n\n*[https://www.erowid.org/experiences/subs/exp_14Butanediol.shtml Erowid Experience Vaults: 1,4-Butanediol]\n\n==Toxicity and harm potential==\n{{Main|GHB#Toxicity and harm potential}}\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of [[GHB]]<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n1,4-Butanediol is not active in its own right; its mechanism of action stems from its identity as a prodrug of GHB, meaning that it is rapidly converted into GHB in the body.\n\nGHB is considered to be a safe and non-toxic substance when used responsibly or medically. The [[LD50|LD<sub>50</sub>]] is above the active dosage, and there is no danger of acute toxicity when this compound is taken at appropriate dosages. However, it can be dangerous when used as a recreational drug or abused. There have been many negative reports from recreational users who have overdosed, combined GHB with alcohol or other drugs, or accidentally dosed themselves unexpectedly.<ref>{{Citation | title=GHB - Erowid Exp - “GHB Overdoses & Poisonings” | url=https://www.erowid.org/experiences/exp.php?ID=1926}}</ref> \n\nOne publication has investigated 226 deaths attributed to GHB.<ref>{{cite journal | vauthors=((Zvosec, D. L.)), ((Smith, S. W.)), ((Porrata, T.)), ((Strobl, A. Q.)), ((Dyer, J. E.)) | journal=The American Journal of Emergency Medicine | title=Case series of 226 γ-hydroxybutyrate-associated deaths: lethal toxicity and trauma | volume=29 | issue=3 | pages=319–332 | date= March 2011 | issn=1532-8171 | doi=10.1016/j.ajem.2009.11.008}}</ref> Seventy-one deaths (34%) were caused by GHB alone while the other deaths were from [[respiratory depression]] caused by interaction with alcohol or other drugs.\n\nTo avoid a possible overdose of GHB/1,4-Butanediol, it is important to start with a low dose and work your way up slowly by increasing the dosage in small increments as the [[Toxicity::exact toxic dosage is unknown]].\n\nAccidental ingestions of 1,4-Butanediol have also occurred due to inadequate storage methods. If 1,4-Butanediol is put into a clear liquid, glass, or bottle, it can be easily mistaken for water. It is recommended to clearly label your 1,4-Butanediol in writing and dye the liquid with blue food coloring so it no longer resembles a drinkable beverage. It is also recommended to store your 1,4-Butanediol in a container that no one would drink out of.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Neurotoxicity===\nIn multiple studies, GHB has been found to impair spatial memory, working memory, learning and memory in rats with chronic administration.<ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)) | journal=Pharmacology Biochemistry and Behavior | title=Adolescent γ-hydroxybutyric acid exposure decreases cortical N-methyl-d-aspartate receptor and impairs spatial learning | volume=79 | issue=4 | pages=701–708 | date=1 December 2004 | url=https://www.sciencedirect.com/science/article/pii/S009130570400320X | issn=0091-3057 | doi=10.1016/j.pbb.2004.09.022}}</ref><ref>{{cite journal | vauthors=((García, F. B.)), ((Pedraza, C.)), ((Arias, J. L.)), ((Navarro, J. F.)) | journal=Psicothema | title=[Effects of subchronic administration of gammahydroxybutyrate (GHB) on spatial working memory in rats] | volume=18 | issue=3 | pages=519–524 | date= August 2006 | issn=0214-9915}}</ref><ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)), ((Sircar, D.)) | journal=Annals of the New York Academy of Sciences | title=γ-Hydroxybutyric Acid-Induced Cognitive Deficits in the Female Adolescent Rat | volume=1139 | issue=1 | pages=386–389 | date= October 2008 | url=http://doi.wiley.com/10.1196/annals.1432.044 | issn=00778923 | doi=10.1196/annals.1432.044}}</ref><ref>{{cite journal | vauthors=((Pedraza, C.)), ((García, F. B.)), ((Navarro, J. F.)) | journal=The International Journal of Neuropsychopharmacology | title=Neurotoxic effects induced by gammahydroxybutyric acid (GHB) in male rats | volume=12 | issue=09 | pages=1165 | date= October 2009 | url=https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145709000157 | issn=1461-1457 | doi=10.1017/S1461145709000157}}</ref> These effects are associated with decreased NMDA receptor expression in the cerebral cortex and possibly other areas as well.<ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Adolescent gamma-hydroxybutyric acid exposure decreases cortical N-methyl-D-aspartate receptor and impairs spatial learning | volume=79 | issue=4 | pages=701–708 | date= December 2004 | issn=0091-3057 | doi=10.1016/j.pbb.2004.09.022}}</ref>\n\nOne study found that repeated administration of GHB to rats for 15 days drastically reduced the number of neurons and non-neuronal cells within the hippocampus and in the prefrontal cortex. With doses of 10 mg/kg of GHB, they were decreased by 61% in the hippocampus region and 32% in the prefrontal cortex, and with 100 mg/kg, they were decreased by 38% and 9%, respectively. This paper demonstrates contradicting effects on neuronal loss, with lower doses (10 mg/kg) producing the most neurotoxicity, and higher doses (100 mg/kg) producing less.\n\n===Tolerance and addiction potential===\n[[File:GHBwithdrawal2.png|350px|thumbnail|right|This table compares the withdrawal symptoms of GHB/1,4-Butanediol, [[benzodiazepines]], and [[alcohol]].<ref name=\"GHB\">GHB Withdrawal Syndrome | Texas Commission on Alcohol and Drug Abuse | https://www.erowid.org/chemicals/ghb/ghb_addiction2.pdf</ref>]]\nGHB/1,4-Butanediol is [[Addiction potential::moderately physically and psychologically addictive]]. The frequent use of GHB/1,4-Butanediol can cause withdrawal symptoms similar to those caused by other [[depressants]] such as [[alcohol]] and [[benzodiazepines]] if abruptly discontinued.<ref>{{cite journal | vauthors=((Kim, S. Y.)), ((Barker, J. C.)), ((Anderson, I. B.)), ((Dyer, J. E.)), ((Earnest, G.)), ((Blanc, P. D.)) | journal=The American journal on addictions / American Academy of Psychiatrists in Alcoholism and Addictions | title=Systematic Assessment of Gamma Hydroxybutyrate (GHB) Effects During and After Acute Intoxication | volume=17 | issue=4 | pages=312–318 | date= 2008 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759403/ | issn=1055-0496 | doi=10.1080/10550490802138988}}</ref><ref>{{cite journal | vauthors=((Carter, L. P.)), ((Pardi, D.)), ((Gorsline, J.)), ((Griffiths, R. R.)) | journal=Drug and alcohol dependence | title=Illicit gamma-hydroxybutyrate (GHB) and pharmaceutical sodium oxybate (Xyrem®): differences in characteristics and misuse | volume=104 | issue=1–2 | pages=1–10 | date=1 September 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713368/ | issn=0376-8716 | doi=10.1016/j.drugalcdep.2009.04.012}}</ref> These symptoms seem to depend on the dosage and the length of time the drug was used for. Light to moderate users often experience anxiety, insomnia, sleep-related problems, and tremors whereas heavy use can cause severe withdrawal symptoms like delirium, psychosis, and hallucinations.<ref>{{cite journal | vauthors=((Dyer, J. E.)), ((Roth, B.)), ((Hyma, B. A.)) | journal=Annals of Emergency Medicine | title=Gamma-hydroxybutyrate withdrawal syndrome | volume=37 | issue=2 | pages=147–153 | date= February 2001 | issn=0196-0644 | doi=10.1067/mem.2001.112985}}</ref><ref name=\"GHB\" />\n\nAlthough there have been reported fatalities due to GHB/1,4-Butanediol withdrawal, reports are inconclusive and further research is needed.<ref>{{cite journal | vauthors=((Galloway, G. P.)), ((Frederick, S. L.)), ((Staggers, F. E.)), ((Gonzales, M.)), ((Stalcup, S. A.)), ((Smith, D. E.)) | journal=Addiction | title=Gamma-hydroxybutyrate: an emerging drug of abuse that causes physical dependence | volume=92 | issue=1 | pages=89–96 | date= January 1997 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.1997.tb03640.x | issn=09652140 | doi=10.1111/j.1360-0443.1997.tb03640.x}}</ref>\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within several weeks of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\n\n*'''United States''': While 1,4-butanediol is not currently scheduled federally in the United States, a number of states have classified it as a controlled substance. Additionally, individuals have been prosecuted for this substance under the Federal Analogue Act as being substantially similar to GHB.<ref>{{Citation | title=United States of America, Appellee, v. Thomas William Washam, Appellant, 312 F.3d 926 (8th Cir. 2003) | url=https://law.justia.com/cases/federal/appellate-courts/F3/312/926/608696/}}</ref> A federal district court in Chicago ruled that 1,4-butanediol could not be considered an analogue of GHB under federal law, and the Seventh Circuit Court of Appeals upheld that ruling.<ref>United States v. Turcotte, 405 F.3d 515 (7th Cir. 2005) \"With specific regard to 1,4-butanediol, the jury has returned a special verdict which states that 1,4-butanediol is not a Schedule I drug analogue, because 1,4-butanediol's chemical structure is not significantly similar to the chemical structure of GHB.</ref>\n*'''United Kingdom''': In the United Kingdom, 1,4-butanediol was scheduled in December 2009 (along with another GHB precursor, gamma-butyrolactone) as a Class C controlled substance.\n*'''Germany''': 1,4-butanediol is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act).<ref>BtMG | http://www.gesetze-im-internet.de/btmg_1981/BtMG.pdf</ref><ref>NpSG | https://www.gesetze-im-internet.de/npsg/NpSG.pdf</ref> It is legal, as long as it is not sold for human consumption, according to §2 AMG.<ref>{{Citation | title=§ 2 AMG - Einzelnorm | url=https://www.gesetze-im-internet.de/amg_1976/__2.html}}</ref>\n*'''Canada''': It is controlled as a Schedule VI precursor in Canada.\n*'''Switzerland''': 1,4-Butanediol is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[GHB]]\n*[[GBL]]\n*[[GABA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/1,4-Butanediol 1,4-Butanediol (Wikipedia)]\n*[https://erowid.org/chemicals/14b/14b.shtml 1,4-Butanediol (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=12266 1,4-Butanediol (Isomer Design)]\n\n==References==\n<references />\n[[Category::Psychoactive substance]]\n[[Category:Alkanediol]]\n[[Category:Alcohol]]\n[[Category:Depressant]]\n[[Category:Prodrug]]\n{{#set:Featured=true}}"
+}

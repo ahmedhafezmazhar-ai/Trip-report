@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:14011",
+ "type": "other",
+ "title": "Food Of The Gods (book)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Food_Of_The_Gods_%28book%29",
+  "pageid": 14011,
+  "last_edited": "2020-02-06T14:56:38Z"
+ },
+ "categories": [
+  "Book"
+ ],
+ "plain_text": "Food of the Gods: The Search for the Original Tree of Knowledge A Radical History of Plants, Drugs, and Human Evolution is a book by Terence Mckenna. It published in 1993.\n\nExternal links\n\n*Food of the Gods-Web Archive (PDF)\n\nReferences\n\nCategory:Book",
+ "wikitext": "{{BookBox\n    <!-- Table Properties -->\n    |BookTable_MaxWidth=250px\n    |BookTable_Title=Food Of The Gods\n\n    <!-- Modules -->\n    |ModuleSource=true\n    |ModuleBookInformation=true\n\n    <!-- Source -->\n    |PhotoImageFile=File:Foodofthegodscover.jpg\n    |PhotoImageWidth=200px\n\n    <!-- Book Information -->\n    |BookName=Food Of The Gods\n    |ISBN13=9780553371307\n    |ISBN10=0553371304\n    |Author=[[Terence McKenna]]\n    |Publisher=Bantam\n    |Published=January 1993\n}}\n'''''Food of the Gods: The Search for the Original Tree of Knowledge A Radical History of Plants, Drugs, and Human Evolution''''' is a book by Terence Mckenna. It published in 1993.\n\n==External links==\n*[https://archive.org/details/pdfy-dyJniMfuFMMf9685 Food of the Gods-Web Archive (PDF)]\n\n==References==\n<references/>\n[[Category:Book]]"
+}

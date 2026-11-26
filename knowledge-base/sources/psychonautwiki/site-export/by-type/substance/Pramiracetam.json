@@ -1,0 +1,300 @@
+{
+ "id": "psychonautwiki:11968",
+ "type": "substance",
+ "title": "Pramiracetam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pramiracetam",
+  "pageid": 11968,
+  "last_edited": "2025-01-31T00:37:26Z"
+ },
+ "categories": [
+  "Nootropic",
+  "Psychoactive substance",
+  "Racetam",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Pramiracetam",
+ "substance_box": {
+  "names": {
+   "common": "Pramiracetam",
+   "substitutive": "",
+   "systematic": "N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Racetam"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "100 mg",
+    "light": "250 - 500 mg",
+    "common": "500 - 800 mg",
+    "strong": "800 - 1200 mg",
+    "heavy": "1200 mg +",
+    "duration": "4 - 7 hours",
+    "onset": "30 - 90 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Pramiracetam"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Racetam"
+   ],
+   "Oral threshold dose": [
+    "100"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "250"
+   ],
+   "Oral max light dose": [
+    "500"
+   ],
+   "Oral min common dose": [
+    "500"
+   ],
+   "Oral max common dose": [
+    "800"
+   ],
+   "Oral min strong dose": [
+    "800"
+   ],
+   "Oral max strong dose": [
+    "1200"
+   ],
+   "Oral heavy dose": [
+    "1200"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of pramiracetam",
+   "clean": "Molecular structure of pramiracetam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Pramiracetam.svg",
+   "clean": "File:Pramiracetam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Pramiracetam]]",
+   "clean": "Pramiracetam"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+   "clean": "N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Racetam]]",
+   "clean": "Racetam"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::100]] [[Oral dose units::mg]]",
+   "clean": "100 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::250]] - [[Oral max light dose::500]] mg",
+   "clean": "250 - 500 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::500]] - [[Oral max common dose::800]] mg",
+   "clean": "500 - 800 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::800]] - [[Oral max strong dose::1200]] mg",
+   "clean": "800 - 1200 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::1200]] mg +",
+   "clean": "1200 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "4 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Pramiracetam (also known as Pramistar) is a nootropic stimulant of the racetam class. It is a derivative of piracetam, which has been studied as a cognitive enhancing agent.  \n\nIn parts of Europe, pramiracetam is marketed as a prescription drug by Menarini under the brand name Pramistar as a treatment for memory and attention deficits in aging people with neurodegenerative and vascular dementias. In the United States, it is readily available and sold through online vendors as a dietary supplement. \n\nPramiracetam is typically used at dosages of either 400mg thrice daily or 600mg twice daily; both of these dosing regimens totals 1,200mg of pramiracetam a day. It is unclear if pramiracetam should be taken with meals, and it is also unclear if 1,200mg is the optimal dosage or not as this may vary between individuals. Dosages range at nearly ten times of that of noopept, making it less potent while offering comparable benefit.\n\nChemistry\n\nPramiracetam, or N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide, is a synthetic compound of the racetam family. Racetams share a pyrrolidine nucleus, a five member nitrogenous ring with a ketone bonded oxygen at R2. This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. Pramiracetam features an additional substituion bonded to RN of the acetamide group of a ethyl amide chain with two isopropyl carbon chains attached to the terminal nitrogen. \n\nPramiracetam is structurally analogous to piracetam with an added diisopropyl ethylamino chain. Pramiracetam is prepared from piracetam by substituting the amide group with a dipropan-2-ylaminoethyl group.\n\nPharmacology\n\nThe mechanism of pramiracetam is not well known, but it is thought to be able to enhance high-affinity choline uptake in a manner which is similar to other compounds of the racetam family. As choline is responsible for acetylcholine synthesis, this process essentially allows acetylcholine to accumulate at higher levels than that which it otherwise would. As acetycholine is involved in the function of memory, this could potentially account for its nootropic effects.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, pramiracetam can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Pramiracetam\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of pramiracetam use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because pramiracetam has very little history of human usage. Anecdotal evidence from people who have tried pramiracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nThere are anecdotal reports of users experiencing painful chemical burns caused by ingesting pramiracetam powder sublingually. Other routes of administration do not seem to cause the same effects.  \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nThe chronic use of Pramiracetam can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among certain users. \n\nTolerance to many of the effects of Pramiracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Pramiracetam may presents cross-tolerance with all racetam [[nootropics]], meaning that after the consumption of pramiracetam certain nootropics such as aniracetam and piracetam may have a reduced effect.\n\nLegal status\n\nPramiracetam is currently legally available to buy and sell in most countries, but this may  vary by region.\n\n*United Kingdom: Pramiracetam and other racetams are prescription only drugs; however, there is no penalty for possession or importing them.\n\nSee also\n\n*Responsible use\n*Noopept\n*Nootropic\n*Stimulant\n*Modafinil\n\nExternal links\n\n*Pramiracetam (Wikipedia)\n*Pramiracetam (Erowid Vault)\n*Pramiracetam (Isomer Design)\n*Pramiracetam (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Nootropic\nCategory:Racetam",
+ "wikitext": "\n{{SummarySheet}}\n{{SubstanceBox/Pramiracetam}}\n\n'''Pramiracetam''' (also known as '''Pramistar''') is a [[psychoactive class::nootropic]] [[stimulant]] of the [[chemical class::racetam]] class. It is a derivative of [[piracetam]], which has been studied as a cognitive enhancing agent.  \n\nIn parts of Europe, pramiracetam is marketed as a prescription drug by Menarini under the brand name Pramistar as a treatment for memory and attention deficits in aging people with neurodegenerative and vascular dementias.<ref>{{Citation | title=Farmaco - Banca Dati Farmaci dell’AIFA | url=https://farmaci.agenziafarmaco.gov.it/bancadatifarmaci/farmaco?farmaco=028021}}</ref><ref>Pramiracetam | http://www.drugs.com/international/pramiracetam.html</ref><ref>https://farmaci.agenziafarmaco.gov.it/bancadatifarmaci/cerca-per-principio-attivo?princ_att=Pramiracetam</ref> In the United States, it is readily available and sold through online vendors as a dietary supplement. \n\nPramiracetam is typically used at dosages of either 400mg thrice daily or 600mg twice daily; both of these dosing regimens totals 1,200mg of pramiracetam a day. It is unclear if pramiracetam should be taken with meals, and it is also unclear if 1,200mg is the optimal dosage or not as this may vary between individuals. Dosages range at nearly ten times of that of [[noopept]], making it less potent while offering comparable benefit.\n\n==Chemistry==\nPramiracetam, or N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide, is a synthetic compound of the [[racetam]] family. Racetams share a [[pyrrolidine]] nucleus, a five member nitrogenous ring with a ketone bonded oxygen at R<sub>2</sub>.<ref name=\"Malykh2010\">{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref> This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. Pramiracetam features an additional substituion bonded to R<sub>N</sub> of the acetamide group of a ethyl amide chain with two isopropyl carbon chains attached to the terminal nitrogen. \n\nPramiracetam is structurally analogous to [[piracetam]] with an added diisopropyl ethylamino chain.<ref>{{cite journal | vauthors=((Bambagiotti-Alberti, M.)), ((Bartolucci, G.)), ((Bruni, B.)), ((Coran, S. A.)), ((Di Vaira, M.)) | journal=Acta Crystallographica. Section E, Structure Reports Online | title=Diisoprop-yl{2-[2-(2-oxopyrrolidin-1-yl)acetamido]eth-yl}ammonium hydrogen sulfate | volume=64 | issue=Pt 6 | pages=o1160 | date=30 May 2008 | issn=1600-5368 | doi=10.1107/S1600536808015341}}</ref> Pramiracetam is prepared from [[piracetam]] by substituting the amide group with a dipropan-2-ylaminoethyl group.<ref name=\"Malykh2010\"/>\n\n==Pharmacology==\nThe mechanism of pramiracetam is not well known, but it is thought to be able to enhance high-affinity [[choline]] uptake in a manner which is similar to other compounds of the [[racetam]] family. As choline is responsible for [[acetylcholine]] synthesis, this process essentially allows acetylcholine to accumulate at higher levels than that which it otherwise would. As acetycholine is involved in the function of memory, this could potentially account for its [[nootropic]] effects.\n\n==Subjective effects==\nIn comparison to the effects of other nootropics such as [[noopept]], pramiracetam can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - Pramiracetam produces a subtle form of stimulation comparable to that of [[caffeine]].\n*'''[[Effect::Headaches]]'''\n\n====Sensory effects====\nAlthough these effects are not universal, certain people may experience sensory enhancements under the influence of pramiracetam.\n*'''[[Effect::Acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Tactile enhancement]]'''\n\n}}\n\n|{{effects/cognitive|\nIn terms of its cognitive effects, this compound can be described as a stimulating, mindful, and emotionally stable experience which is able to bring the user to a \"neutral\" level of emotional stability.\n*'''[[Effect::Emotion suppression]]''' - Most prominent among its effects is its ability to bring the user to a mellow or emotionally dulled state. In comparison to other substances such as [[quetiapine]] or [[benzodiazepine]]s, it manifests itself lucidly, rather than invoking carelessness or dulling thought.\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Anxiety suppression]]''' \n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Pramiracetam.shtml Erowid Experience Vaults: Pramiracetam]\n\n==Toxicity and harm potential==\n{{toxicity}}\nThe toxicity and long-term health effects of pramiracetam use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because pramiracetam has very little history of human usage. Anecdotal evidence from people who have tried pramiracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nThere are anecdotal reports of users experiencing painful chemical burns caused by ingesting pramiracetam powder sublingually. Other routes of administration do not seem to cause the same effects.  \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nThe chronic use of Pramiracetam can be considered as [[Addiction potential::not addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among certain users. \n\nTolerance to many of the effects of Pramiracetam [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Pramiracetam may presents cross-tolerance with [[Cross-tolerance::all [[racetam]] [[nootropic]]s]], meaning that after the consumption of pramiracetam certain [[nootropics]] such as [[aniracetam]] and [[piracetam]] may have a reduced effect.\n\n==Legal status==\n{{legalStub}}\nPramiracetam is currently legally available to buy and sell in most countries, but this may  vary by region.\n\n*'''United Kingdom:''' Pramiracetam and other racetams are prescription only drugs; however, there is no penalty for possession or importing them.\n\n==See also==\n\n*[[Responsible use]]\n*[[Noopept]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Modafinil]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Pramiracetam Pramiracetam (Wikipedia)]\n*[https://erowid.org/smarts/pramiracetam/pramiracetam.shtml Pramiracetam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9986 Pramiracetam (Isomer Design)]\n*[https://examine.com/supplements/Pramiracetam/ Pramiracetam (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Racetam]]\n{{#set:Featured=true}}"
+}

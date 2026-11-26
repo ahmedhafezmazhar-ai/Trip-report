@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:11407",
+ "type": "plants-and-fungi",
+ "title": "Atropa (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Atropa_%28botany%29",
+  "pageid": 11407,
+  "last_edited": "2020-10-09T22:36:50Z"
+ },
+ "categories": [
+  "Atropa (genus)",
+  "Solanaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n*Atropa (Wikipedia)\n\n \nCategory:Solanaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Atropa}}\n\n==External links==\n*[https://en.wikipedia.org/wiki/Atropa ''Atropa'' (Wikipedia)]\n\n[[Category:Atropa (genus)| ]]\n[[Category:Solanaceae (family)]]"
+}

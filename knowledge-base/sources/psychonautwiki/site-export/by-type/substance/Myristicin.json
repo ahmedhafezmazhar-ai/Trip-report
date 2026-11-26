@@ -1,0 +1,418 @@
+{
+ "id": "psychonautwiki:12387",
+ "type": "substance",
+ "title": "Myristicin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Myristicin",
+  "pageid": 12387,
+  "last_edited": "2026-03-17T02:42:27Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Deliriant",
+  "Entheogen",
+  "MAOI",
+  "Naturally-occurring substance",
+  "Pages with broken file links",
+  "Phenylpropene"
+ ],
+ "substance_box_template": "SubstanceBox/Myristicin",
+ "substance_box": {
+  "names": {
+   "common": "Nutmeg",
+   "substitutive": "Myristicin, 3-methoxy,4,5-methylenedioxy-allylbenzene",
+   "systematic": "6-allyl-4-methoxy-1,3-benzodioxole"
+  },
+  "classes": {
+   "psychoactive": "Deliriant",
+   "chemical": "Phenylpropene / MDxx"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "The dosage below assumes that one is using nutmeg powder and not pure myristicin as this is extremely uncommon.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "50 - 200 mg",
+    "common": "200 - 500 mg",
+    "strong": "500 - 800 mg",
+    "heavy": "800 mg +",
+    "duration": "12 - 72 hours",
+    "onset": "3 - 8 hours",
+    "comeup": "1 - 4 hours",
+    "peak": "9 - 12 hours",
+    "offset": "12 - 48 hours",
+    "aftereffects": "24 - 72 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Nutmeg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "200"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min common dose": [
+    "200"
+   ],
+   "Oral max common dose": [
+    "500"
+   ],
+   "Oral min strong dose": [
+    "500"
+   ],
+   "Oral max strong dose": [
+    "800"
+   ],
+   "Oral heavy dose": [
+    "800"
+   ],
+   "Oral min total time": [
+    "12"
+   ],
+   "Oral max total time": [
+    "72"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "3"
+   ],
+   "Oral max onset time": [
+    "8"
+   ],
+   "Oral onset time units": [
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "4"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "9"
+   ],
+   "Oral max peak time": [
+    "12"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "12"
+   ],
+   "Oral max offset time": [
+    "48"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "24"
+   ],
+   "Oral max afterglow time": [
+    "72"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of myristicin",
+   "clean": "Molecular structure of myristicin"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Myristicin.svg",
+   "clean": "File:Myristicin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "File:Nutmeg.jpg",
+   "clean": "File:Nutmeg.jpg"
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Nutmeg]]",
+   "clean": "Nutmeg"
+  },
+  "NameSubstitution": {
+   "raw": "Myristicin, 3-methoxy,4,5-methylenedioxy-allylbenzene",
+   "clean": "Myristicin, 3-methoxy,4,5-methylenedioxy-allylbenzene"
+  },
+  "NameSystematic": {
+   "raw": "6-allyl-4-methoxy-1,3-benzodioxole",
+   "clean": "6-allyl-4-methoxy-1,3-benzodioxole"
+  },
+  "EffectClass": {
+   "raw": "[[Deliriant]]",
+   "clean": "Deliriant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Phenylpropene]] / [[MDxx]]",
+   "clean": "Phenylpropene / MDxx"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "<br><span style=\"color:black\">'''The dosage below assumes that one is using [[nutmeg]] powder and not pure myristicin as this is extremely uncommon.'''</br>",
+   "clean": "The dosage below assumes that one is using nutmeg powder and not pure myristicin as this is extremely uncommon."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::200]] [[Oral dose units::mg]]",
+   "clean": "50 - 200 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::200]] - [[Oral max common dose::500]] mg",
+   "clean": "200 - 500 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::500]] - [[Oral max strong dose::800]] mg",
+   "clean": "500 - 800 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::800]] mg +",
+   "clean": "800 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::12]] - [[Oral max total time::72]] [[Oral total time units::hours]]",
+   "clean": "12 - 72 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::3]] - [[Oral max onset time::8]] [[Oral onset time units::hours]]",
+   "clean": "3 - 8 hours"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::4]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::9]] - [[Oral max peak time::12]] [[Oral peak time units::hours]]",
+   "clean": "9 - 12 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::12]] - [[Oral max offset time::48]] [[Oral offset time units::hours]]",
+   "clean": "12 - 48 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::24]] - [[Oral max afterglow time::72]] [[Oral afterglow time units::hours]]",
+   "clean": "24 - 72 hours"
+  }
+ },
+ "plain_text": "Myristicin is a naturally-occurring deliriant substance of the phenylpropene class. It is present in small amounts in the essential oil of nutmeg and, to a lesser extent, in other spices such as parsley and dill. It has been shown to act on the endocannabinoid system. \n\nMyristicin, along with elemicin, is thought to be the main psychoactive constituent of nutmeg.  When oxidized with Potassium permanganate, Myristicin can be converted into Myristicinaldehyde, which can then be used to synthesize MMDPEA (Lophophine) via reductive amination. Additionally, myristicin is the traditional precursor for the psychedelic and empathogenic drug MMDA.\n\nNutmeg is reported to induce hallucinogenic effects, such as visual distortions and paranoid ideation. In the reports, nutmeg intoxication took several hours before maximum effect was reached. Effects and after-effects lasted up to several days. Raw nutmeg consists of 5-15% essential oil by mass. 4-8.5% of nutmeg essential oil, or 0.2-1.3% of raw nutmeg, is myristicin. One study found 20 grams of nutmeg to contain 210 mg myristicin.\n\nIt should be noted that the dosage listed on this page assumes that one is using nutmeg powder and not pure myristicin, as this is extremely uncommon. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nMyristicin, also known as 3-methoxy,4,5-methylenedioxyallylbenzene, is a naturally occurring substance that belongs to a chemical class known as the phenylpropenes. It features a methylenedioxy ring at carbons R4 and R5 of the benzene ring. The benzene ring is also substituted with a separate methoxy group at the R3 carbon, and an allyl chain at R6 to make the main phenylpropene group.\n\nPharmacology\n\nIn 1963, Alexander Shulgin speculated myristicin could be metabolized to MMDA, a psychoactive drug related to MDA, in the liver. This, however, is unlikely due to the fact that no amphetamine metabolites were found in urine after the ingestion of myristicin. It is believed that myristicin is an anticholinergic, since, in overdose, it produces effects similar to anticholinergics, but the exact mechanism of action has not been established. Myristicin is also found to be a serotonin receptor antagonist, while simultaneously acting as a weak MAO inhibitor.\n\nElemicin\n\nElemicin is found in nutmeg alongside myristicin and contributes to its hallucinogenic effects. Elemicin is likely to have similar effects to myristicin. It is also the traditional precursor in synthesizing the alkaloid mescaline.\n\npeople who have ingested Elemi oil, (a source of elemicin that exists without high amounts of Myristicin) have claimed the visual effects the oil produce seem to be more similar to classical hallucinogens than the visual effects of nutmeg oil, (which seem to be more delirious and sedating in nature)\n\nThis distinction seems to paint Myristicin as a more sedating and mind-dulling drug, while Elemicin seems to be more-visually active and stimulating. this assumption is further supported by the fact that while Elemicin has direct structural ties to Mescaline, Myristicin has ties to MDXX compounds such as MDMA.\n\nThe chemical structure of Elemicin appears to be a carbon-based analogue of Mescaline while Myristicin itself appears to be a carbon analogue of Lophophine, these structural differences may be indicators of the slightly different psychoactive effects both Elemicin and Myristicin have.\n\nCannabinoids\n\nNo compound has been found in nutmeg to directly bind to CB1 or CB2 receptors. Three compounds in nutmeg (Malabaricone C, Licarin A, 5-Methoxylicarin A) have been shown to act as endo-cannabinoid modulating agents by inhibiting the enzymes FAAH and MAGL.\n\nSubjective effects\n\nIn comparison to datura or diphenhydramine, myristicin's effects tend to be milder and can be pleasant and euphoric depending on dose. It has unique effects compared to other deliriants or hallucinogens. It also has a long, smooth, and enjoyable come-up, where the effects build in a similar manner to cannabis. In addition to this, cannabis like effects throughout the duration have been reported among users of the substance which is possibly due to its activity on cannabinoid receptors. With higher doses, however, the deliriant effects become more pronounced.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Nutmeg\n\nForms\n\nMyristicin is found in nutmeg, nutmeg essential oil, and to a lesser extent in parsley, dill, and other plants.\n\nGround nutmeg powder\n\n250px|thumbnail|Ground nutmeg powder\nThis is the most common form in which myristicin is sold, and it can be found in almost any supermarket as a spice. \n\nIt is worth noting that anecdotal reports suggest no clear guide on dosaging in this form. Myristicin degrades once it has been ground up, therefore it is impossible to know the potency of the powder, and the longer that the nutmeg stays as a powder, the weaker the myristicin content. When using store-bought nutmeg, the dose for oral consumption is generally considered to be:\n\n*Light: 5 - 15g\n*Common: 15 - 20g\n*Strong: 20 - 30g\n*Heavy: 30g+\n\nWhole nutmeg\n\nWhole nutmeg is also sold in most places as a spice.\n\n*Light: 2 - 5g\n*Common: 5 - 15g\n*Strong: 15 - 20g\n*Heavy: 20g+\n\nPure myristicin\n\nMyristicin can be extracted from nutmeg powder by fractional distillation. When using pure myristicin, the dose for oral consumption is generally considered to be:\n\n*Light: 50 - 200mg\n*Common: 200 - 500mg\n*Strong: 500 - 800mg\n*Heavy: 800mg+\n\nToxicity and harm potential\n\nMyristicin is neurotoxic and can be fatal in extremely high doses. Also myristicin causes severe dehydration. It increases side effects of myristicin.\n\nDependence and abuse potential\n\nMyristicin is not known to be addictive and the desire to use it can actually decrease with use.\n\nInformation regarding tolerance is unknown.\n\nDangerous Interactions\n\n*Stimulants - Nutmeg puts a fair amount of strain on the cardiovascular system, adding stimulant drugs to the mix would increase side effects.\n*Alcohol - Anecdotal reports suggest that small/medium amounts of alcohol can create some positive effects, however respiratory depression is a risk. Large amounts of alcohol should not be combined with myristicin in any circumstance.\n*Opioids - Large amounts of opioids can lead to respiratory depression when taken with myristicin.\n*Benzodiazepines\n*DXM - While it is possible to take a very small dose of DXM with myristicin, it is highly risky and is generally seen to be dangerous.\n*DPH - DPH is cardio toxic, combining it with myristicin could be fatal.\n*Depressants - Respiratory depression is a risk when combining with depressant drugs, while a few anecdotal reports have shown few side effects, it is generally recommended against.\n*Serotonin releasers such as MDMA, 4-FA, methamphetamine, methylone and αMT will cause serotonin syndrome. If planning to combine these two, proceed with great caution.\n\nLegal status\n\nMyristicin and nutmeg are both unscheduled in nearly all parts of the world and are commonly bought in form of either ground spice, essential oil, or whole nuts.\n\n*United Kingdom: Nutmeg is legal to purchase as a spice in the United Kingdom, however, using it recreationally or extracting the myristicin is against the law.\n\nSee also\n\n*Responsible use\n*Deliriants\n*Tropane alkaloids\n*Datura\n*Diphenhydramine (DPH)\n\nExternal links\n\n*Myristicin (Wikipedia)\n*Nutmeg (Erowid Vault)\n*Myristicin (Isomer Design)\n\nReferences\n\nCategory:Phenylpropene\nCategory:Entheogen\nCategory:Deliriant\nCategory:MAOI\nCategory:Naturally-occurring substance",
+ "wikitext": "{{SummarySheet}}\n\n{{SubstanceBox/Myristicin}}\n'''Myristicin''' is a [[naturally-occurring]] [[psychoactive class::deliriant]] substance of the [[Chemical class::phenylpropene]] class. It is present in small amounts in the essential oil of nutmeg and, to a lesser extent, in other spices such as [[parsley]] and [[dill]].<ref>http://www.lktlabs.com/products/Myristicin-126-50.html</ref> It has been shown to act on the [[Cannabinoid|endocannabinoid system]].<ref>{{cite journal | vauthors=((El-Alfy, A. T.)), ((Abourashed, E. A.)), ((Patel, C.)), ((Mazhari, N.)), ((An, H.)), ((Jeon, A.)) | journal=Journal of Pharmacy and Pharmacology | title=Phenolic compounds from nutmeg ( Myristica fragrans Houtt.) inhibit the endocannabinoid-modulating enzyme fatty acid amide hydrolase | volume=71 | issue=12 | pages=1879–1889 | date=8 November 2019 | url=https://academic.oup.com/jpp/article/71/12/1879-1889/6122229 | issn=2042-7158 | doi=10.1111/jphp.13174}}</ref> \n\nMyristicin, along with [[elemicin]], is thought to be the main psychoactive constituent of nutmeg.{{citation needed}}  When oxidized with Potassium permanganate, Myristicin can be converted into Myristicinaldehyde, which can then be used to synthesize MMDPEA (Lophophine) via reductive amination.{{citation needed}} Additionally, myristicin is the traditional precursor for the [[psychedelic]] and [[empathogenic]] drug [[MMDA]].{{citation needed}}\n\nNutmeg is reported to induce hallucinogenic effects, such as visual distortions and paranoid ideation. In the reports, nutmeg intoxication took several hours before maximum effect was reached. Effects and after-effects lasted up to several days. Raw nutmeg consists of 5-15% essential oil by mass. 4-8.5% of nutmeg essential oil, or 0.2-1.3% of raw nutmeg, is myristicin. One study found 20 grams of nutmeg to contain 210 mg myristicin.{{citation needed}}\n\nIt should be noted that the dosage listed on this page assumes that one is using nutmeg powder and not pure myristicin, as this is extremely uncommon. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nMyristicin, also known as 3-methoxy,4,5-methylenedioxyallylbenzene, is a naturally occurring substance that belongs to a chemical class known as the [[Chemical class::phenylpropene]]s. It features a methylenedioxy ring at carbons R<sub>4</sub> and R<sub>5</sub> of the benzene ring. The benzene ring is also substituted with a separate methoxy group at the R<sub>3</sub> carbon, and an allyl chain at R<sub>6</sub> to make the main phenylpropene group.\n\n==Pharmacology==\nIn 1963, [[Alexander Shulgin]] speculated myristicin could be metabolized to [[MMDA]], a psychoactive drug related to [[MDA]], in the liver.<ref>{{Citation | title=UNODC - Bulletin on Narcotics - 1966 Issue 4 - 002 | url=//www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1966-01-01_4_page003.html}}</ref> This, however, is unlikely due to the fact that no [[amphetamine]] metabolites were found in urine after the ingestion of myristicin. It is believed that myristicin is an [[deliriant|anticholinergic]], since, in overdose, it produces effects similar to anticholinergics<ref>{{cite journal | vauthors=((McKenna, A.)), ((Nordt, S. P.)), ((Ryan, J.)) | journal=European Journal of Emergency Medicine | title=Acute nutmeg poisoning: | volume=11 | issue=4 | pages=240–241 | date= August 2004 | url=http://journals.lww.com/00063110-200408000-00017 | issn=0969-9546 | doi=10.1097/01.mej.0000127649.69328.a5}}</ref><ref>{{cite journal | vauthors=((Abernethy, M. K.)), ((Becker, L. B.)) | journal=The American Journal of Emergency Medicine | title=Acute nutmeg intoxication | volume=10 | issue=5 | pages=429–430 | date= September 1992 | url=https://linkinghub.elsevier.com/retrieve/pii/073567579290069A | issn=07356757 | doi=10.1016/0735-6757(92)90069-A}}</ref>, but the exact mechanism of action has not been established. Myristicin is also found to be a [[serotonin]] [[receptor]] [[antagonist]], while simultaneously acting as a weak [[MAO inhibitor]].{{citation needed}}\n\n====Elemicin====\nElemicin is found in nutmeg alongside myristicin and contributes to its [[hallucinogenic]] effects. Elemicin is likely to have similar effects to myristicin. It is also the traditional precursor in synthesizing the alkaloid [[mescaline]].{{citation needed}}\n\npeople who have ingested Elemi oil, (a source of elemicin that exists without high amounts of Myristicin) have claimed the visual effects the oil produce seem to be more similar to classical hallucinogens than the visual effects of nutmeg oil, (which seem to be more delirious and sedating in nature)\n\nThis distinction seems to paint Myristicin as a more sedating and mind-dulling drug, while Elemicin seems to be more-visually active and stimulating. this assumption is further supported by the fact that while Elemicin has direct structural ties to Mescaline, Myristicin has ties to [[MDxx|MDXX]] compounds such as [[MDMA]].\n\nThe chemical structure of Elemicin appears to be a carbon-based analogue of [[Mescaline]] while Myristicin itself appears to be a carbon analogue of Lophophine, these structural differences may be indicators of the slightly different psychoactive effects both Elemicin and Myristicin have.\n\n====Cannabinoids====\nNo compound has been found in nutmeg to directly bind to CB1 or CB2 receptors. Three compounds in nutmeg (Malabaricone C, Licarin A, 5-Methoxylicarin A) have been shown to act as endo-cannabinoid modulating agents by inhibiting the enzymes FAAH and MAGL.<ref>{{cite journal | vauthors=((El-Alfy, A. T.)), ((Abourashed, E. A.)), ((Patel, C.)), ((Mazhari, N.)), ((An, H.)), ((Jeon, A.)) | journal=The Journal of Pharmacy and Pharmacology | title=Phenolic compounds from nutmeg (Myristica fragrans Houtt.) inhibit the endocannabinoid-modulating enzyme fatty acid amide hydrolase | volume=71 | issue=12 | pages=1879–1889 | date=8 October 2019 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7938946/ | issn=0022-3573 | doi=10.1111/jphp.13174}}</ref>\n\n==Subjective effects==\nIn comparison to [[datura]] or [[diphenhydramine]], myristicin's effects tend to be milder and can be pleasant and euphoric depending on dose. It has unique effects compared to other [[deliriants]] or [[hallucinogens]]. It also has a long, smooth, and enjoyable come-up, where the effects build in a similar manner to [[cannabis]]. In addition to this, [[cannabis]] like effects throughout the duration have been reported among users of the substance which is possibly due to its activity on [[cannabinoid]] receptors. With higher doses, however, the [[deliriant]] effects become more pronounced.\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\nThe physical effects of myristicin are usually described as mild and tolerable, which makes them different from other [[deliriants]]. They can be uncomfortable or pleasurable, depending on the dosage. They generally include:\n*'''[[Effect::Difficulty urinating]]''' or / and '''[[Effect::Frequent urination]]''' - This can be described as a feeling of concrete blocking the urethra, painfully conflicting with a frequent need to urinate. However, some users report urinating perfectly fine. This effect might be dose-dependent. \n*'''[[Effect::Dry mouth]]''' - This effect is usually stronger than cannabis but much weaker than other deliriants like Datura.\n*'''[[Effect::Dehydration]]''' - Nutmeg causes a lot of dehydration and dehydration is proven to cause deliriant effects and delirium. Staying hydrated can decrease deliriant and negative effects.\n*'''[[Effect::Dizziness]]''' - This effect can be decreased by going for a walk or drinking ginger tea.\n*'''[[Effect::Nausea]]''' - This effect is usually caused by the unpleasurable taste rather than the compounds themselves.\n*'''[[Effect::Sedation]]''' - This effect can be extremely strong at higher dosage, leaving the user in a near sleep state during the experience.\n*'''[[Effect::Stimulation]]''' - This effect occurs on lower doses.\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Perception of bodily heaviness]]'''\n*'''[[Effect::Photophobia]]''' \n*'''[[Effect::Spontaneous tactile sensations]]'''\n*'''[[Effect::Tactile enhancement]]''' or '''[[Effect::Tactile suppression]]''' at higher doses.\n*'''[[Effect::Tactile hallucination]]''' - This effect is reported only at heavy doses.\n*'''[[Effect::Gustatory enhancement]]''' - This effect is very similar to cannabis.\n*'''[[Effect::Appetite enhancement]]''' - This effect is similar to cannabis, and due to food tasting better users will usually eat more.\n*'''[[Effect::Physical euphoria]]''' - This effect can be described as warm, calming sensations over the body which can be compared to alcohol.\n*'''[[Effect::Vasodilation]]''' - This effect increases with the dosage and can cause bloodshot eyes.\n*'''[[Effect::Decreased blood pressure]]''' This effect is due to vasodilation and can result in dizziness. \n\n}}\n{{effects/visual|\nMyristicin can both enhance and suppress visual stimuli depending on many factors that include but are not limited to; age, genetic factors, dehydration, combining nutmeg with other spices, sleep deprivation, and placebo. Some of the visual effects of nutmeg include:\n====Suppression====\n*'''[[Effect::Visual acuity suppression]]''' - This effect can result in blurry vision. It sometimes can last for days after the trip itself.{{citation needed}}\n*'''[[Effect::Double vision]]''' \n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Drifting]]''' - Breathing, objects having their size altered \n*'''[[Effect::Environmental patterning]]''' - You may see lines around and inside objects, essentially everything will have structure - You may see eyes like you would on psilocybin but to a lesser intensity \n*'''[[Effect::Tracers]]''' - Tracers can reach up to 3. level.\n*'''[[Effect::Frame rate suppression]]''' - Combined with time distortion nutmeg could make movies and videos feel more dissociative. This effect is similar to DXM \n\n====Enhancements====\n\n*'''[[Effect::Colour enhancement]]''' - Visuals might be slightly more vibrant and objects might have a ''glow'' around them\n\n====Hallucinatory states====\nMyristicin is moderately efficient at inducing delirious hallucinations which can be broken into the categories described below: \n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other classes of [[hallucinogen]], this effect occurs more frequently than that of any other at moderate to heavy doses and is the defining feature of the experience. It can be comprehensively described through its [[Internal_hallucinations#Variations|variations]] as delirious in believability, autonomous in controllability, and solid in style. The most common themes for these hallucinations include those of everyday occurrences such as smoking phantom cigarettes, talking to people who are not there, insects, and sinister, nightmarish experiences.\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  In comparison to other classes of [[hallucinogen]], this effect occurs briefly and spontaneously at moderate doses but becomes progressively extended in its occurrence and duration proportional to dosage before eventually becoming all-encompassing. It can be comprehensively described through its [[Internal_hallucinations#Variations|variations]] as delirious in believability, interactive in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style.\n*'''[[Effect::Peripheral information misinterpretation]]\n\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of myristicin are described by many as mildly euphoric, but can also be [[cognitive dysphoria|dysphoric]] throughout the trip, primarily consisting of moderate [[paranoia]]. It can also be confusing and disorienting. Myristicin contains unique cognitive effects found almost exclusively in the [[deliriants|deliriant]] class.\n\nThe most prominent of these effects include:\n*'''[[Effect::Amnesia]]''' \n*'''[[Effect::Empathy, affection and sociability enhancement]]'''\n*'''[[Effect::Anxiety]]''' at higher doses  or '''[[Effect::Anxiety suppression]]''' on lower doses with a positive setting\n**'''[[Effect::Paranoia]]''' - This effect is common at high doses.\n**'''[[Effect::Feelings of impending doom]]\n*'''[[Effect::Confusion]]''' - This effect is more common at higher doses and when the user is dehydrated\n*'''[[Effect::Depersonalization]]]''' and '''[[Effect::Derealization]]''' - This effect differs from classic disscoatives and tends to be more dream like and results more often in anxiety due to the unpleasant body load nutmeg offers. This effect appears at higher doses only and is similar to the DPDR produced by THC and synthetic cannabinoids. \n*'''[[Effect::Emotion enhancement]]''' - This effect can enhance both negative and positive feelings, which  means set and setting can   alter the nutmeg experience \n*'''[[Effect::Cognitive euphoria|Euphoria]]''' \n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Laughter]]''' - This effect is similar to cannabis\n*'''[[Effect::Immersion enhancement]]''' - This effect is similar to cannabis and usually does not increase that much as the dose gets higher\n*'''[[Effect::Focus suppression]]''' or  '''[[Effect::Focus enhancement]]''' - This depends on the dose, user, dehydration and genetic factors.\n*'''[[Effect::Psychosis]]''' - This effect is common at high or strong doses\n*'''[[Effect::Sleepiness]]''' - This effect gets stronger as the dose increases \n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Time distortion]]''' - This effect is mainly in the form of time expansion.\n*'''[[Effect::Thought deceleration]]''' - This effect is more similar to cannabis than alcohol\n*'''[[Effect::Thought disorganization]]''' - This effect is similar to alcohol\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory hallucinations|Hallucinations]]''' - One might hear tinnitus, noises, voices, or a static humming sound in the background while intoxicated. \n*'''[[Effect::Auditory enhancement|Suppression]]''' - Sound can sound more distorted at higher doses with a bad setting or even more deep and ''angelic/ghost''- like at lower doses. \n}} \n{{effects/aftereffects|\nThe hangover of nutmeg is generally described as more intense alcohol hangover. The main cause of the hangover is dehydration. \n\n*'''[[Effect::Appetite suppression]]''' - This effect can be very intense if the dose was high.\n*'''[[Effect::Motivation enhancement]]''' or *'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Increased bodily temperature]]''' - This effect is more similar to alcohol than other deliriants like DPH and Datura.\n*'''[[Effect::Constipation]]''' This effect can be reduced by using oil extraction preparation method\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Bodily pressures]]'''\n*'''[[Effect::Photophobia]]'''\n*'''[[Effect::Darker urine]]'''\n*'''[[Effect::Physical fatigue]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Dehydration]]''' This effect is the main cause of the hangover\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Stomach bloating]]''' This effect can be decreased by using oil extraction method\n*'''[[Effect::Stomach cramp]]''' This effect can be decreased by using oil extraction method\n\n}}\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Myristicin]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Nutmeg.shtml Erowid Experience Vaults: Nutmeg]\n\n==Forms==\nMyristicin is found in nutmeg, nutmeg essential oil, and to a lesser extent in parsley, dill, and other plants.\n\n===Ground nutmeg powder===\n[[File:Nutmeg-spice.jpg|250px|thumbnail|Ground nutmeg powder]]\nThis is the most common form in which myristicin is sold, and it can be found in almost any supermarket as a spice. \n\nIt is worth noting that anecdotal reports suggest no clear guide on dosaging in this form. Myristicin degrades once it has been ground up, therefore it is impossible to know the potency of the powder, and the longer that the nutmeg stays as a powder, the weaker the myristicin content. When using store-bought nutmeg, the dose for oral consumption is generally considered to be:\n\n*'''Light:''' ''5 - 15g''\n*'''Common:''' ''15 - 20g''\n*'''Strong:''' ''20 - 30g''\n*'''Heavy:''' ''30g+''\n\n===Whole nutmeg===\nWhole nutmeg is also sold in most places as a spice.\n\n*'''Light:''' ''2 - 5g''\n*'''Common:''' ''5 - 15g''\n*'''Strong:''' ''15 - 20g''\n*'''Heavy:''' ''20g+''\n\n===Pure myristicin===\nMyristicin can be extracted from nutmeg powder by fractional distillation. When using pure myristicin, the dose for oral consumption is generally considered to be:\n\n*'''Light:''' ''50 - 200mg''\n*'''Common:''' ''200 - 500mg''\n*'''Strong:''' ''500 - 800mg''\n*'''Heavy:''' ''800mg+''\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nMyristicin [[Toxicity::is neurotoxic]] and [[Toxicity::can be fatal in extremely high doses]].<ref>{{cite journal | vauthors=((Lee, B. K.)), ((Kim, J. H.)), ((Jung, J. W.)), ((Choi, J. W.)), ((Han, E. S.)), ((Lee, S. H.)), ((Ko, K. H.)), ((Ryu, J. H.)) | journal=Toxicology Letters | title=Myristicin-induced neurotoxicity in human neuroblastoma SK-N-SH cells | volume=157 | issue=1 | pages=49–56 | date=16 May 2005 | issn=0378-4274 | doi=10.1016/j.toxlet.2005.01.012}}</ref> Also myristicin causes severe dehydration. It increases side effects of myristicin.\n\n===Dependence and abuse potential===\nMyristicin [[Addiction potential::is not known to be addictive]] and the desire to use it can actually decrease with use.\n\nInformation regarding tolerance is unknown.\n\n===Dangerous Interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UnsafeInteraction::Stimulants]]''' - Nutmeg puts a fair amount of strain on the cardiovascular system, adding stimulant drugs to the mix would increase side effects.\n*'''[[UnsafeInteraction::Alcohol|Alcohol]]''' - Anecdotal reports suggest that small/medium amounts of alcohol can create some positive effects, however respiratory depression is a risk. Large amounts of alcohol should not be combined with myristicin in any circumstance.\n*'''[[DangerousInteraction::Opioids]]''' - Large amounts of opioids can lead to respiratory depression when taken with myristicin.\n*'''[[UncertainInteraction::Benzodiazepines]]'''{{citation needed}}\n*'''[[DangerousInteraction::DXM|DXM]]''' - While it is possible to take a very small dose of DXM with myristicin, it is highly risky and is generally seen to be dangerous.\n*'''[[DangerousInteraction::DPH|DPH]]''' - DPH is cardio toxic, combining it with myristicin could be fatal.\n*'''[[UncertainInteraction::Depressants]]''' - Respiratory depression is a risk when combining with depressant drugs, while a few anecdotal reports have shown few side effects, it is generally recommended against.\n*'''[[UnsafeInteraction::Serotonin releasers]]''' such as '''[[MDMA]]''', '''[[4-FA]]''', '''[[methamphetamine]]''', '''[[methylone]]''' and '''[[αMT]]''' will cause serotonin syndrome. If planning to combine these two, proceed with great caution.\n\n==Legal status==\nMyristicin and nutmeg are both unscheduled in nearly all parts of the world and are commonly bought in form of either ground spice, essential oil, or whole nuts.\n\n*'''United Kingdom:''' Nutmeg is legal to purchase as a spice in the United Kingdom, however, using it recreationally or extracting the myristicin is against the law.\n\n==See also==\n\n*[[Responsible use]]\n*[[Deliriants]]\n*[[Tropane alkaloids]]\n*[[Datura]]\n*[[Diphenhydramine]] (DPH)\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Myristicin Myristicin (Wikipedia)]\n*[https://www.erowid.org/plants/nutmeg/ Nutmeg (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1051 Myristicin (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Phenylpropene]]\n[[Category:Entheogen]]\n[[Category:Deliriant]]\n[[Category:MAOI]]\n[[Category:Naturally-occurring substance]]"
+}

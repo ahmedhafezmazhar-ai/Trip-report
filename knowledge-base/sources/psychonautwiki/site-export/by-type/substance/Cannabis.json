@@ -1,0 +1,654 @@
+{
+ "id": "psychonautwiki:4016",
+ "type": "substance",
+ "title": "Cannabis",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabis",
+  "pageid": 4016,
+  "last_edited": "2025-08-08T14:53:34Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 errors: PMC",
+  "Cannabinoid",
+  "Cannabis (genus)",
+  "Depressant",
+  "Entheogen",
+  "Pages with citations using unsupported parameters",
+  "Pages with reference errors",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Cannabis",
+ "substance_box": {
+  "names": {
+   "common": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang.",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Cannabinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Depends on potency, tolerance and route of administration.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg THC",
+    "light": "2.5 - 5 mg THC",
+    "common": "5 - 10 mg THC",
+    "strong": "10 - 25 mg THC",
+    "heavy": "25 mg THC +",
+    "duration": "4 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "4 - 6 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "*Depends on potency, tolerance and route of administration.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.4 mg THC",
+    "light": "0.4 - 2 mg THC",
+    "common": "2 - 4 mg THC",
+    "strong": "4 - 10 mg THC",
+    "heavy": "10 mg THC +",
+    "duration": "2.5 - 5 hours",
+    "onset": "0.1 - 10 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "15 - 45 minutes",
+    "offset": "3 - 4 hours",
+    "aftereffects": "45 - 180 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "3 - 7 hours",
+    "onset": "1 - 10 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "4 - 6 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cannabis",
+    "THC",
+    "Marijuana",
+    "Weed",
+    "Pot",
+    "Mary Jane",
+    "Grass",
+    "Herb",
+    "Green",
+    "Bud",
+    "Tree"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Cannabinoid"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "0.4"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.4"
+   ],
+   "Smoked max light dose": [
+    "2"
+   ],
+   "Smoked min common dose": [
+    "2"
+   ],
+   "Smoked max common dose": [
+    "4"
+   ],
+   "Smoked min strong dose": [
+    "4"
+   ],
+   "Smoked max strong dose": [
+    "10"
+   ],
+   "Smoked heavy dose": [
+    "10"
+   ],
+   "Smoked min total time": [
+    "2.5"
+   ],
+   "Smoked max total time": [
+    "5"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "0.1"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min comeup time": [
+    "5"
+   ],
+   "Smoked max comeup time": [
+    "10"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "15"
+   ],
+   "Smoked max peak time": [
+    "45"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "3"
+   ],
+   "Smoked max offset time": [
+    "4"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "45"
+   ],
+   "Smoked max afterglow time": [
+    "180"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Sublingual min total time": [
+    "3"
+   ],
+   "Sublingual max total time": [
+    "7"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "1"
+   ],
+   "Sublingual max onset time": [
+    "10"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "15"
+   ],
+   "Sublingual max comeup time": [
+    "30"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "30"
+   ],
+   "Sublingual max peak time": [
+    "60"
+   ],
+   "Sublingual peak time units": [
+    "minutes"
+   ],
+   "Sublingual min offset time": [
+    "4"
+   ],
+   "Sublingual max offset time": [
+    "6"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Cannabis (Botany).png",
+   "clean": "File:Cannabis (Botany).png"
+  },
+  "PhotoImageWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Drawing of Cannabis sativa",
+   "clean": "Drawing of Cannabis sativa"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "A flowering cannabis plant.",
+   "clean": "A flowering cannabis plant."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Cannabis Plant.jpg",
+   "clean": "File:Cannabis Plant.jpg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "230px",
+   "clean": "230px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cannabis]], [[common name:: THC]], [[common name::Marijuana]], [[common name::Weed]], [[common name::Pot]], [[common name::Mary Jane]], [[common name::Grass]], [[common name::Herb]], [[common name::Green]], [[common name::Bud]], [[common name::Tree]]. [https://en.wikipedia.org/wiki/List_of_names_for_cannabis More names], and [https://en.wikipedia.org/wiki/List_of_slang_names_for_cannabis slang].",
+   "clean": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang."
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "Depends on potency, tolerance and route of administration."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]] THC",
+   "clean": "1 mg THC"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg THC",
+   "clean": "2.5 - 5 mg THC"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] mg THC",
+   "clean": "5 - 10 mg THC"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::25]] mg THC",
+   "clean": "10 - 25 mg THC"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]] mg THC +",
+   "clean": "25 mg THC +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "*Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "*Depends on potency, tolerance and route of administration."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::0.4]] [[Smoked dose units::mg]] THC",
+   "clean": "0.4 mg THC"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.4]] - [[Smoked max light dose::2]] mg THC",
+   "clean": "0.4 - 2 mg THC"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::2]] - [[Smoked max common dose::4]] mg THC",
+   "clean": "2 - 4 mg THC"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::4]] - [[Smoked max strong dose::10]] mg THC",
+   "clean": "4 - 10 mg THC"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::10]] mg THC +",
+   "clean": "10 mg THC +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::2.5]] - [[Smoked max total time::5]] [[Smoked total time units::hours]]",
+   "clean": "2.5 - 5 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0.1]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "0.1 - 10 minutes"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::5]] - [[Smoked max comeup time::10]] [[Smoked comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::15]] - [[Smoked max peak time::45]] [[Smoked peak time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::3]] - [[Smoked max offset time::4]] [[Smoked offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::45]] - [[Smoked max afterglow time::180]] [[Smoked afterglow time units::minutes]]",
+   "clean": "45 - 180 minutes"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::3]] - [[Sublingual max total time::7]] [[Sublingual total time units::hours]]",
+   "clean": "3 - 7 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::1]] - [[Sublingual max onset time::10]] [[Sublingual onset time units::minutes]]",
+   "clean": "1 - 10 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::15]] - [[Sublingual max comeup time::30]] [[Sublingual comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::30]] - [[Sublingual max peak time::60]] [[Sublingual peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::4]] - [[Sublingual max offset time::6]] [[Sublingual offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Cannabis (also known as THC, marijuana, weed, pot, grass, hemp, zaza, kush, and many others) is a preparation of the cannabis plant that produces psychoactive effects when consumed (via smoking, vaporizing, or ingestion). It is the most used illicit substance in the world. The mechanism of action is binding activity at cannabinoid receptors distributed throughout the body.\n\nThe principal psychoactive constituent of cannabis is tetrahydrocannabinol (THC), which makes up one of 483 known compounds in the plant, including at least 84 other cannabinoid such as cannabidiol (CBD), cannabinol (CBN), tetrahydrocannabivarin (THCV), and cannabigerol (CBG). At least three species are recognized: Cannabis sativa, Cannabis indica, and Cannabis ruderalis.\n\nThe earliest recorded uses of cannabis date from the 3rd millennium BC. In modern times, cannabis is used for recreational or medicinal and religious or spiritual purposes. It played a central role in the 1960s youth counterculture movement and is associated with the art and music of this era.\n\nSubjective effects include sedation, appetite enhancement, immersion enhancement, creativity enhancement, increased sense of humor, increased music appreciation, visual disconnection, and euphoria. The effects can vary widely depending on dose, strain & form, tolerance, and set and setting. Notably, it can either strongly suppress or enhance anxiety depending on the individual and situation. \n\nLower doses are associated with relaxing effects similar to a depressant. Higher doses are associated with mild-to-moderate hallucinogenic effects such as visual hallucinations, conceptual thinking and time distortion, as well as a greater risk of anxiety, paranoia, and delusions.\n\nCannabis is considered to have low to moderate abuse potential. Chronic use is associated with escalating tolerance and psychological dependence in some individuals. It has very low physical toxicity and is essentially impossible to physically overdose on. However, it is capable of exacerbating certain mental health symptoms like delusions or psychosis in predisposed individuals (see this section).\n\nLong-term cannabis use may be associated with negative cognitive effects such as brain fog, lowered motivation, difficulty learning, and inattention. These effects are typically reversible with tapered use and time off.\n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nThe genus cannabis is indigenous to central Asia and the Indian subcontinent.\n\nThe history of cannabis and its usage by humans dates back to at least the third millennium BC in written history, and possibly as far back as the Pre-Pottery Neolithic B (8800–6500 BCE) based on archaeological evidence. For millennia, the plant has been valued for its use for fiber and rope, as food and medicine, and for its psychoactive properties for religious and recreational use.\n\nThe earliest restrictions on cannabis were reported in the Islamic world by the 14th century. In the 19th century, it began to be restricted in colonial countries, often associated with racial and class stresses. \n\nSince the early 20th century, cannabis has been subject to legal restrictions with the possession, use, and sale of cannabis preparations containing psychoactive cannabinoids currently illegal in most countries. However, there is a recent growing trend towards decriminalization and legalization, with the sale of cannabis made legal in some US states and Canada.\n\nIn 2004, the U.N. estimated that global consumption patterns of cannabis indicated that approximately 4% of the adult world population (162 million people) used cannabis annually and that approximately 0.6% (22.5 million) of people used cannabis daily. According to the United Nations, it is the most used illicit drug in the world.\n\nPotency trends\n\nThe potency of illicit cannabis plant material has consistently increased over time since 1995 from ~4% in 1995 to ~12% in 2014. The cannabidiol content has decreased on average from ~.28% in 2001 to <.15% in 2014, resulting in a change in the ratio of Δ9-tetrahydrocannabinol to cannabidiol from 14 times in 1995 to ~80 times in 2014.\n\nEtymology\n\nThe word cannabis is from Greek κάνναβις (kánnabis) (see Latin cannabis), which was originally Scythian or Thracian. It is related to the Persian kanab, the English canvas and possibly the English hemp (Old English hænep).\n\nCommon names\n\nCannabis has numerous common and street names. The most common ones are: marijuana, weed, pot, grass, hemp,, ganja, THC.\n\nChemistry\n\nCannabis plants contain a number of different specific compounds at various ratios. Cannabis contains more than 460 compounds; at least 80 of these are cannabinoids, chemical compounds that interact with cannabinoid receptors in the brain.  The most common cannabinoids are listed below:\n\nPhytocannabinoids\n\nUpon heating, cannabinoid acids decarboxylate to give their psychoactive cannabinoid.\n\n{|\n|-\n|\n250px|thumbnail|link=https://en.wikipedia.org/wiki/Tetrahydrocannabinol||Tetrahydrocannabinol (THC)\n|\n285px|link=https://en.wikipedia.org/wiki/Cannabidiol|thumbnail|Cannabidiol (CBD)\n|}\n\nPharmacology\n\nThe most psychoactive cannabinoid found in the cannabis plant is tetrahydrocannabinol (or delta-9-tetrahydrocannabinol), commonly known as THC. Other cannabinoids include delta-8-tetrahydrocannabinol, cannabidiol (CBD), cannabinol (CBN), cannabicyclol (CBL), cannabichromene (CBC) and cannabigerol (CBG); they have less psychotropic effects than THC, but may play a role in the overall effect of cannabis. The most studied are THC, CBD and CBN. \n\nCYP2C9 genotype affects THC sensitivity significantly:\n\n:Subjects with the *3/*3 genotype had 3-fold higher THC levels in their blood than subjects with the *1/*1 genotype. Those subjects with one copy of each gene (*1/*3) had intermediate THC levels that were about 2-fold higher than subjects with *1/*1.\n\nThe entourage effect is a proposed mechanism by which compounds present in cannabis which are largely non-psychoactive by themselves modulate the overall psychoactive effects of the plant (these resulting principally from the action of the main psychoactive component of cannabis, tetrahydrocannabinol (THC)). \n\nTHC appears to alter mood and cognition through its agonist actions on the CB1 receptors, which inhibit a secondary messenger system (adenylate cyclase) in a dose dependent manner. Via CB1 activation, THC indirectly increases dopamine release and produces psychotropic effects. \n\nCannabidiol acts as an allosteric modulator of the mu and delta opioid receptors. THC also potentiates the effects of the glycine receptors. However, the role of these interactions and how they result in the cannabis high remains subject to on-going scientific investigation.\n\nDrugs that activate the CB1 and CB2 receptors are known to upregulate and enhance 5-HT2A receptor activity. The ERK1/ERK2 signaling pathway has been shown to mediate this effect, but the exact biochemical mechanism is unknown. This upregulation and enhancement of the 5-HT2A receptor is why cannabis potentiates the effects of psychedelic drugs and can cause psychedelic effects in very high doses.  \n\nSubjective effects\n\nCombination effects\n\n*Psychedelics - Cannabis strongly intensifies the sensory and cognitive effects of all psychedelics. Extreme caution is advised when combining these substances as this can significantly increase the chances of a negative psychological reaction like anxiety, confusion and psychosis. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits. Many users report that cannabis is effective at briefly recreating the peak of the experience if consumed during the come down phase.\n*Dissociatives - Cannabis enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced holes, spaces, and voids and internal hallucinations become more vivid and intense on cannabis. These effects correspond with an increased risk of confusion, delusions, and psychosis.\n*Depressants - Depressants such as benzodiazepines or opioids reduce the hallucinogenic aspects of the cannabis high. Instead, the focus shifts to bodily sensations, such as muscle relaxation, sedation, information processing suppression, and anxiety suppression.\n*Alcohol - When used with alcohol, cannabis often creates feelings of extreme nausea, double vision, dizziness and changes in gravity. It is generally recommended that people take the cannabis before drinking and not the other way around as this is reported to induce these effects less readily.\n*Stimulants - Cannabis tends to increase the thought accelerating, immersion enhancing and euphoric effects of stimulants, particularly as it relates to one's appreciation of music and sexual pleasure. This combination should be used with caution, however, as it can easily induce states of anxiety, paranoia, confusion, delusions, and psychosis.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Cannabis\n\nDosage and preparation\n\nTHC\n\n\"Our results showed an overall increase in potency of illicit cannabis, from approximately 10% in 2009 to approximately 14% in 2019. These results are in agreement with other potency monitoring programs in several European countries.\"\n\nMath to calculate the quantity needed weed: Desired THC from divided by the THC strength of the strain. For example, if you want to smoke 3 mg (a common dose) from cannabis with 12% THC:\n\n:3 mg / 12% = 3/0.12 = 25 mg\n\nStrains and forms\n\nStrains\n\nthumb|right|200px|Types of cannabis\nSativa and indica are the two major types of cannabis plants which can mix together to create hybrid strains. Because each strain has its own balance of cannabinoids, each strain has its own range of effects on the body and mind, resulting in a wide range of medicinal benefits.\n\nIndica plants typically grow short and wide compared to sativa plants which grow tall and thin. Indica plants are better suited for indoor growing because of their short growth and sativa plants are better suited for outdoor growing because some strains can reach over 25 ft. in height.\n\nMarijuana strains range from pure sativas to pure indicas with hybrid strains consisting of both indica and sativa (for example, 30% indica – 70% sativa, 50% – 50% combinations, or 80% indica – 20% sativa).\n\nHypothetical phytocannabinoiod differences between C. indica and C. sativa\n\nThe effects of sativa may be used for a high, while indica may be used for its sedative effects. Both types are used as medical cannabis.\n\n*Cannabinoid ratios: On average, Cannabis indica has higher levels of THC compared to CBD, whereas Cannabis sativa has lower levels of THC to CBD. However, huge variability exists within either species. A 2015 study shows the average THC content of the most popular herbal cannabis products in the Netherlands has decreased slightly since 2005.\n*Terpene ratios: Sativa ancestry is associated with farnesene and bergamotene, while Indica ancestry is associated with myrcene, elemene, and sesquiterpene alcohols.\n\nCriticism\n\nIn 2022, studies found that plants identified as \"indica\" or \"sativa\" based on common methods of differentiation (e.g. plant height or leaf shape) are not, in fact, chemically distinguishable, with many identified as \"sativa\" having cannabinoid ratios predicted of \"indica\" plants and vice versa. The authors have concluded that the chemical makeup of cannabis plants cannot be reliably determined by simple inspection of the plants' physical characteristics and that the \"indica\" and \"sativa\" labels are not informative as to the cannabinoids (or other chemical components) delivered.\n\nForms\n\nFile:Bubba Kush.jpg|Whole flower and leaf is the most widely consumed form, containing 3% to 22% THC.\nFile:Kief (yellow).jpg|Kief is a powder which can be sifted from the leaves and flowers of cannabis plants and either consumed in powder form or compressed to produce cakes of hashish.\nFile:Hashish-2.jpg|Hashish (also spelled hasheesh, hashisha, or simply hash) is a concentrated resin cake or ball produced from pressed kief. Hashish was the primary form of cannabis used in Europe in 2008. Herbal cannabis is more widely used in Northern America. Purities of confiscated hashish in Europe (2011) range between 4-15%. Between 2000 and 2005 the percentage of hashish in cannabis end product seizures was at 18%.\nFile:Whitewillowtincture.jpg|Tinctures are cannabinoids which have been extracted from cannabis plant matter using high-proof spirits (often grain alcohol). The solubility of THC in ethanol is greater than 1 g/mL.\nFile:Drop of cannabis oil.jpg|Hash oil is obtained from the cannabis plant by solvent extraction, and contains the cannabinoids present in the highly concentrated natural oils of cannabis flowers and leaves. Hash oils in use in the 2010s had THC concentrations as high as 90%.\nFile:Cannabis Butter.JPG|Cannabutter is one of many varieties of cannabis infusions owing to the variety of non-volatile solvents used. Examples of solvents used in this process are cocoa butter, dairy butter, cooking oil, glycerine, and skin moisturizers.\n\nCommon usage\n\nConsumption methods\n\nCannabis is consumed in many different ways:\n\n*Smoking typically involves inhaling vaporized cannabinoids (\"smoke\") from small pipes, bongs (portable versions of hookahs with water chamber), paper-wrapped joints, tobacco-leaf-wrapped blunts, and other items.\n*Vaporizers heat herbal cannabis to 165–190 °C (329–374 °F), causing the active ingredients to evaporate into a vapor without burning the plant material (the boiling point of THC is 157 °C (315 °F) at 760 mmHg pressure).\n*Cannabis tea contains relatively small concentrations of THC because THC is an oil (lipophilic) and is only slightly water-soluble (with a solubility of 2.8 mg per liter). Cannabis tea is made by first adding a saturated fat to hot water (e.g., cream or any milk except skim) with a small amount of cannabis.\n*Edibles are cannabis added as an ingredient to one of a variety of foods.\n*Sublingual/buccal consumption typically involves the absorption of cannabinoids through the membranes inside the mouth (usually through a candy or tincture).\n*Tinctures vary from edibles, usually only containing extracted (and potent) THC in liquid form. Tinctures can be taken sublingually, or orally.\n*Topical consumption typically involves the use of either a cream or lip balm containing cannabinoids absorbed through the skin.\n\nFile:Unrolled joint.jpg|A joint/spliff prior to rolling with a paper handmade filter on the left.\nFile:Volcano Vaporizer.jpg|A forced-air vaporizer. The detachable balloon (top) fills with vapors that are then inhaled.\nFile:Weed-brownies.jpg|Edible weed brownies\n\nPreparation methods\n\nPreparation methods for this compound within our tutorial index include:\n\n*Butane hash oil extraction\n*Isopropyl extraction of crude cannabis oil\n*Cannabis butter\n*Cannabis cookies\n*Green dragon tek\n\nMedical use\n\nCannabis is an emerging treatment option for those suffering from many serious diseases, including cancer. Due to its Pain relief, nausea suppression effects, cannabis can be useful for those undergoing radiation therapy and chemotherapy. Oral doses of cannabis are more effective in reducing nausea and vomiting. \n\nIn addition to the anti-nausea effects, the appetite enhancement effects of cannabis can combine with the antiemetic effects and make it more likely that the patient will gain or maintain weight through cancer treatment.\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Cannabis was found to be the eighth overall most dangerous drug.\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of cannabis\n\nDespite its reputation for being a benign substance, it is important to be aware that cannabis use is associated with distinct risks. Acute adverse effects include anxiety, hyperemesis syndrome, impaired coordination and judgment, suicidal ideations/tendencies, and psychotic symptoms. \n\nIt is strongly advised to use harm reduction practices if using this substance.\n\nCannabinoid hyperemesis syndrome (CHS) is recurrent nausea, vomiting, and stomach cramp that sometimes occurs due to prolonged, high-dose cannabis use.\n\nCannabis arteritis (CA) is a very rare peripheral vascular disease similar to Buerger's disease.\n\nCannabis use during brain development (including during pregnancy and adolescence) has been shown to interfere with a variety of neurobiological systems. Meta-analysis following ~5 weeks of abstinence reveals lasting changes in the central executive and default mode networks, which are involved in attention and working memory. The extent of these changes as risk factors is not entirely clear.\n\nSuicidality\n\nA NIH study found that suicide risk is higher with marijuana users than non-users. \n\nOn the other hand, the largest study as of 2018 in association with cannabis use and the risk of suicide, there was no found evidence between the two. This study shows that it is unlikely a risk factor for suicide, either directly or as a consequence of use. \n\nNot only that, but another study studied the association between cannabis and suicidality also has correlation.\n\nThe main takeaway from these studies and more is that while suicide risk may be higher with people who use cannabis, cannabis is unlikely the cause or an additional significant factor.\n\nPsychosis risk\n\nThe prolonged usage of THC and other cannabinoids may increase one's disposition to mental illness and psychosis, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).\n\nIndividuals with a personal or family history of mental illness, particularly psychotic disorders like schizophrenia, should not use cannabis without the advice of a qualified mental health practitioner.\n\nTrauma\n\nCannabis use and trauma are linked, with trauma playing a role in encouraging both the use and potential misuse of cannabis. Conversely, cannabis use has been associated with the intensity of trauma and PTSD symptoms. While evidence of efficacious use of cannabis is growing in novelty, it is not currently recommended.\n\nLethal dosage\n\nNo fatal overdoses associated with cannabis use have been reported as of 2010. A review published in the British Journal of Psychiatry in February 2001 said that \"no deaths directly due to acute cannabis use have ever been reported.\"\n\nTHC, the principal psychoactive constituent of the cannabis plant, has extremely low physiological toxicity and the amount that can enter the body through the consumption of cannabis plants poses no threat of death. \nIn lab animal tests, scientists have had much difficulty administering a dose of THC that is high enough to be lethal. \nThe dose of THC needed to kill 50% of tested rodents is very high, 2.594 mol/kg, about 815.7 grams of THC per kilogram of body weight, and human deaths from overdose are unheard of. \n\nAt present, it is estimated that the LD50 of cannabis is around 1:20,000 or 1:40,000. \nThis means that, in order to induce death, a cannabis smoker would have to consume 20,000 to 40,000 times as much cannabis as is contained in one cannabis cigarette. \nA user would theoretically have to smoke nearly 1,500 pounds of cannabis within about 15 minutes to induce a lethal response.\n\nIt is worth noting that the rare condition Cannabinoid Hyperemesis Syndrome (CHS) can cause ongoing nausea, vomiting and severe dehydration which can lead to renal failure and in the worst case this can lead to death.\n\nDependence and abuse potential\n\nCannabis is moderately habit-forming. \nResearch has shown the overall dependence potential for cannabis to be less than that for caffeine, tobacco, alcohol, cocaine or heroin, but higher than that for psilocybin, mescaline, or LSD.\n\nDependence on cannabis is more common amongst heavy users. Cannabis use can lead to increased tolerance and withdrawal symptoms upon stopping usage. Prolonged cannabis usage requires the user to consume higher doses of the substance to achieve a common desirable effect, and reinforce the body's metabolic systems for synthesizing and eliminating it more efficiently.\n\nTolerance to many of the effects of cannabis develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 1 - 2 weeks for the tolerance to be reduced to half and 2 - 3 weeks to be back at baseline (in the absence of further consumption). THC has been detected in heavy cannabis users after 77 days of drug abstinence.\n\nCannabis exhibits cross-tolerance with all cannabinoids, meaning that all cannabinoids will have a reduced effect for a period of time upon using cannabis. The mechanisms that create this tolerance to THC are thought to involve changes in cannabinoid receptor function.\n\nOne study found that about 1 in 10 users of cannabis may develop dependence characterized by the occurrence of a withdrawal syndrome after abstinence. This withdrawal syndrome was found to peak 2-3 days after quitting and is mostly complete by 1 week; however, sleep disturbances and vivid dreams may persist for 2-3 weeks.\n\nDangerous interactions\n\nLegal status\n\nalt=|center|thumb|801x801px|Legal status of cannabis possession for recreational use\n\nFor table of countries, see Wikipedia's global cannabis legalization table.\n\nUnited Nations\n\nThe legality of cannabis for medical and recreational use varies by country, in terms of its possession, distribution, and cultivation, and (in regards to medical) how it can be consumed and what medical conditions it can be used for. These policies in most countries are regulated by the United Nations Single Convention on Narcotic Drugs that was ratified in 1961, along with the 1971 Convention on Psychotropic Substances and the 1988 Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.\n\nRescheduling proposals\n\nThe World Health Organization (WHO) is calling for whole-plant marijuana, as well as cannabis resin, to be removed from Schedule IV—the most restrictive category of a 1961 drug convention signed by countries from around the world.\n\nSee also\n\n*Responsible use\n*Hallucinogens\n*Cannabinoids\n*Synthetic cannabinoids\n\nExternal links\n\n*Cannabis (drug) (Wikipedia)\n*Cannabis (Erowid Vault)\n*Cannabis (Drugs-Forum)\n\nFurther reading\n\n*Tart, C. T. (1971). On being stoned: A psychological study of marijuana intoxication.\n\nReferences\n\nCategory:Psychoactive substance\n \nCategory:Entheogen\nCategory:Depressant\nCategory:Stimulant\nCategory:Cannabinoid",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Cannabis}}\n\n'''Cannabis''' (also known as '''THC''',<ref name=\"wikithc\">{{Citation | title=Definition of THC| url=https://wikipedia.org/wiki/Tetrahydrocannabinol}}</ref> '''marijuana''',<ref name=\"wikimarijuana\">{{Citation | title=Definition of Marijuana | url=https://en.wikipedia.org/w/index.php?title=Marijuana_(word)&oldid=1097216058}}</ref> '''weed''',<ref name=\"merriamweed\">{{Citation | title=Definition of Weed | url=https://www.merriam-webster.com/dictionary/weed}}</ref> '''pot''',<ref name=\"merriampot\">{{Citation | title=Definition of POT | url=https://www.merriam-webster.com/dictionary/pot}}</ref> '''grass''',<ref name=\"merriamgrass\">{{Citation | title=Definition of Grass | url=https://www.merriam-webster.com/dictionary/grass}}</ref> '''hemp''',<ref name=\"merriamhemp\">{{Citation | title=Definition of HEMP | url=https://www.merriam-webster.com/dictionary/hemp}}</ref> '''zaza''',<ref name=\"urbanzaza\">{{Citation | title=Definition of Zaza| url=https://www.urbandictionary.com/define.php?term=Zaza}}</ref> '''kush''',<ref name=\"urbankush\">{{Citation | title=Definition of Kush| url=https://www.urbandictionary.com/define.php?term=Kush}}</ref> and many others) is a preparation of the cannabis plant that produces psychoactive effects when consumed (via [[smoking]], [[vaporizing]], or [[oral|ingestion]]). It is the most used illicit substance in the world.<ref name=\"ErowidCannabisVaultLegalStatus\">{{Citation | title=Erowid Cannabis Vault : Legal Status | url=https://www.erowid.org/plants/cannabis/cannabis_law.shtml}}</ref><ref name=\"WDR-2010\">{{Citation | title=WDR-2010 | url=//www.unodc.org/unodc/en/data-and-analysis/WDR-2010.html}}</ref> The mechanism of action is [[agonist|binding activity]] at [[cannabinoid]] [[receptors]] distributed throughout the body.{{citation needed}}\n\nThe principal psychoactive constituent of cannabis is tetrahydrocannabinol (THC), which makes up one of 483 known compounds in the plant,<ref>{{cite book | vauthors=((Russo, E. B.)) | date=5 September 2013 | title=Cannabis and Cannabinoids: Pharmacology, Toxicology, and Therapeutic Potential | publisher=Routledge | isbn=9781136614934}}</ref> including at least 84 other [[Chemical class::cannabinoid|cannabinoids]] such as [[cannabidiol]] (CBD), cannabinol (CBN), tetrahydrocannabivarin (THCV),<ref>{{cite journal | vauthors=((El-Alfy, A. T.)), ((Ivey, K.)), ((Robinson, K.)), ((Ahmed, S.)), ((Radwan, M.)), ((Slade, D.)), ((Khan, I.)), ((ElSohly, M.)), ((Ross, S.)) | journal=Pharmacology, biochemistry, and behavior | title=Antidepressant-like effect of Δ9-tetrahydrocannabinol and other cannabinoids isolated from Cannabis sativa L | volume=95 | issue=4 | pages=434–442 | date= June 2010 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866040/ | issn=0091-3057 | doi=10.1016/j.pbb.2010.03.004}}</ref><ref>{{cite journal | vauthors=((Fusar-Poli, P.)), ((Crippa, J. A.)), ((Bhattacharyya, S.)), ((Borgwardt, S. J.)), ((Allen, P.)), ((Martin-Santos, R.)), ((Seal, M.)), ((Surguladze, S. A.)), ((O’Carrol, C.)), ((Atakan, Z.)), ((Zuardi, A. W.)), ((McGuire, P. K.)) | journal=Archives of General Psychiatry | title=Distinct Effects of Δ9-Tetrahydrocannabinol and Cannabidiol on Neural Activation During Emotional Processing | volume=66 | issue=1 | pages=95 | date=1 January 2009 | url=https://jamanetwork.com/journals/jamapsychiatry/fullarticle/482939 | issn=0003-990X | doi=10.1001/archgenpsychiatry.2008.519}}</ref> and cannabigerol (CBG). At least three species are recognized: ''Cannabis sativa'', ''Cannabis indica'', and ''Cannabis ruderalis''.{{citation needed}}\n\nThe earliest recorded uses of cannabis date from the 3rd millennium BC.<ref>{{cite book | vauthors=((Booth, M.)) | date=30 September 2011 | title=Cannabis: A History | publisher=Random House | isbn=9781409084891}}</ref> In modern times, cannabis is used for [[recreational drug use|recreational]] or medicinal and religious or spiritual purposes.<ref>{{cite book | vauthors=((Clarke, P. B.)) | date= 1986 | title=Black paradise: the Rastafarian movement | publisher=Aquarian Pr | series=New Religious Movements Series | isbn=9780850304282}}</ref> It played a central role in the 1960s youth counterculture movement and is associated with the art and music of this era.{{citation needed}}\n\n[[Subjective effects]] include [[sedation]], [[appetite enhancement]], [[immersion enhancement]], [[creativity enhancement]], [[increased sense of humor]], [[increased music appreciation]], [[Visual disconnection|visual disconnection]], and [[euphoria]]. The effects can vary widely depending on dose, [[Cannabis#Strains and forms|strain & form]], tolerance, and [[set and setting]]. Notably, it can either strongly [[anxiety suppression|suppress]] or [[anxiety|enhance anxiety]] depending on the individual and situation. \n\nLower doses are associated with relaxing effects similar to a [[depressant]]. Higher doses are associated with mild-to-moderate [[hallucinogenic]] effects such as [[geometry|visual hallucinations]], [[conceptual thinking]] and [[time distortion]], as well as a greater risk of [[anxiety]], [[paranoia]], and [[delusions]].\n\nCannabis is considered to have low to moderate abuse potential.{{citation needed}} Chronic use is associated with escalating tolerance and psychological dependence in some individuals.{{citation needed}} It has very low physical toxicity and is essentially impossible to physically overdose on. However, it is capable of exacerbating certain mental health symptoms like [[delusions]] or [[psychosis]] in predisposed individuals (see [[cannabis#toxicity and harm potential|this section]]).{{citation needed}}\n\nLong-term cannabis use may be associated with negative cognitive effects such as brain fog, lowered motivation, difficulty learning, and inattention. These effects are typically reversible with tapered use and time off.<ref>Kevin Hill, MD, and MD Michael Hsu. “Cognitive Effects in Midlife of Long-Term Cannabis Use.” ''Harvard Health'', 14 June 2022, <nowiki>https://www.health.harvard.edu/blog/cognitive-effects-of-long-term-cannabis-use-in-midlife-202206142760</nowiki>.</ref>\n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nThe genus cannabis is indigenous to central Asia and the Indian subcontinent.<ref>{{cite book | veditors=((ElSohly, M. A.)) | date= 2007 | title=Marijuana and the cannabinoids | publisher=Humana Press | series=Forensic science and medicine | isbn=9781588294562}}</ref>\n\nThe '''history of cannabis''' and its usage by humans dates back to at least the third millennium BC in written history, and possibly as far back as the Pre-Pottery Neolithic B (8800–6500 BCE) based on archaeological evidence. For millennia, the plant has been valued for its use for fiber and rope, as food and medicine, and for its psychoactive properties for religious and recreational use.\n\nThe earliest restrictions on cannabis were reported in the Islamic world by the 14th century. In the 19th century, it began to be restricted in colonial countries, often associated with racial and class stresses. \n\nSince the early 20th century, cannabis has been subject to legal restrictions with the possession, use, and sale of cannabis preparations containing psychoactive [[cannabinoids]] currently illegal in most countries. However, there is a recent growing trend towards decriminalization and legalization, with the sale of cannabis made legal in some US states and Canada.\n\nIn 2004, the U.N. estimated that global consumption patterns of cannabis indicated that approximately 4% of the adult world population (162 million people) used cannabis annually and that approximately 0.6% (22.5 million) of people used cannabis daily.<ref>http://www.unodc.org/pdf/WDR_2006/wdr2006_chap2_biggest_market.pdf</ref> According to the United Nations, it is the most used illicit drug in the world.<ref name=\"ErowidCannabisVaultLegalStatus\" /><ref name=\"WDR-2010\" />\n\n===Potency trends===\nThe potency of illicit cannabis plant material has consistently increased over time since 1995 from ~4% in 1995 to ~12% in 2014. The cannabidiol content has decreased on average from ~.28% in 2001 to <.15% in 2014, resulting in a change in the ratio of Δ9-tetrahydrocannabinol to cannabidiol from 14 times in 1995 to ~80 times in 2014.<ref>{{cite journal | vauthors=((ElSohly, M. A.)), ((Mehmedic, Z.)), ((Foster, S.)), ((Gon, C.)), ((Chandra, S.)), ((Church, J. C.)) | journal=Biological Psychiatry | title=Changes in Cannabis Potency Over the Last 2 Decades (1995–2014): Analysis of Current Data in the United States | volume=79 | issue=7 | pages=613–619 | date=1 April 2016 | url=https://www.sciencedirect.com/science/article/pii/S0006322316000457 | issn=0006-3223 | doi=10.1016/j.biopsych.2016.01.004}}</ref><ref>{{cite journal | vauthors=((ElSohly, M. A.)), ((Mehmedic, Z.)), ((Foster, S.)), ((Gon, C.)), ((Chandra, S.)), ((Church, J. C.)) | journal=Biological psychiatry | title=Changes in Cannabis Potency over the Last Two Decades (1995-2014) - Analysis of Current Data in the United States | volume=79 | issue=7 | pages=613–619 | date=1 April 2016 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987131/ | issn=0006-3223 | doi=10.1016/j.biopsych.2016.01.004}}</ref>\n\n===Etymology===\nThe word ''cannabis'' is from Greek κάνναβις (''kánnabis'') (see Latin ''cannabis''), which was originally Scythian or Thracian.<ref name=\"etymonline\">{{cite web|url=http://www.etymonline.com/index.php?term=cannabis|title=Online Etymology Dictionary|publisher=Etymonline.com|access-date=17 February 2011}}</ref> It is related to the Persian ''kanab'', the English ''canvas'' and possibly the English ''hemp'' (Old English ''hænep'').<ref name=\"etymonline\" />\n===Common names===\nCannabis has [https://en.wikipedia.org/wiki/List_of_names_for_cannabis numerous common and street names]. The most common ones are: '''marijuana''',<ref name=\"wikimarijuanaword\" /> '''weed''',<ref name=\"merriamweed\" /> '''pot''',<ref name=\"merriampot\" /> '''grass''',<ref name=\"merriamgrass\" /> '''hemp''',<ref name=\"merriamhemp\" />, '''ganja, THC'''.\n\n==Chemistry==\nCannabis plants contain a number of different specific compounds at various ratios. Cannabis contains more than 460 compounds;<ref name=\"Ben2006\">{{cite journal | vauthors=((Ben Amar, M.)) | journal=Journal of Ethnopharmacology | title=Cannabinoids in medicine: A review of their therapeutic potential | volume=105 | issue=1–2 | pages=1–25 | date= April 2006 | url=https://linkinghub.elsevier.com/retrieve/pii/S0378874106000821 | issn=03788741 | doi=10.1016/j.jep.2006.02.001}}</ref> at least 80 of these are [[cannabinoid]]s,<ref>{{cite journal | vauthors=((Downer, E. J.)), ((Campbell, V. A.)) | journal=Drug and Alcohol Review | title=Phytocannabinoids, CNS cells and development: A dead issue?: Phytocannabinoids have neurotoxic properties | volume=29 | issue=1 | pages=91–98 | date=5 August 2009 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1465-3362.2009.00102.x | issn=09595236 | doi=10.1111/j.1465-3362.2009.00102.x}}</ref><ref>{{cite journal | vauthors=((Burns, T. L.)), ((Ineck, J. R.)) | journal=Annals of Pharmacotherapy | title=Cannabinoid Analgesia as a Potential New Therapeutic Option in the Treatment of Chronic Pain | volume=40 | issue=2 | pages=251–260 | date= February 2006 | url=http://journals.sagepub.com/doi/10.1345/aph.1G217 | issn=1060-0280 | doi=10.1345/aph.1G217}}</ref> chemical compounds that interact with cannabinoid receptors in the brain.<ref name=\"Borgelt2013\">{{cite journal | vauthors=((Borgelt, L. M.)), ((Franson, K. L.)), ((Nussbaum, A. M.)), ((Wang, G. S.)) | journal=Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy | title=The Pharmacologic and Clinical Effects of Medical Cannabis | volume=33 | issue=2 | pages=195–209 | date= February 2013 | url=https://onlinelibrary.wiley.com/doi/10.1002/phar.1187 | issn=02770008 | doi=10.1002/phar.1187}}</ref>  The most common cannabinoids are listed below:\n\n===Phytocannabinoids===\nUpon heating, cannabinoid acids decarboxylate to give their psychoactive cannabinoid.\n\n{|\n|-\n|\n[[File:THC.svg|250px|thumbnail|link=https://en.wikipedia.org/wiki/Tetrahydrocannabinol||[https://en.wikipedia.org/wiki/Tetrahydrocannabinol Tetrahydrocannabinol (THC)]]]\n|\n[[File:CBD.svg|285px|link=https://en.wikipedia.org/wiki/Cannabidiol|thumbnail|[https://en.wikipedia.org/wiki/Cannabidiol Cannabidiol (CBD)]]]\n|}\n\n{{Phytocannabinoids}}\n\n==Pharmacology==\nThe most psychoactive [[cannabinoid]] found in the cannabis plant is tetrahydrocannabinol (or delta-9-tetrahydrocannabinol), commonly known as THC.<ref name=\"Ben2006\" /> Other cannabinoids include delta-8-tetrahydrocannabinol, cannabidiol (CBD), cannabinol (CBN), cannabicyclol (CBL), cannabichromene (CBC) and cannabigerol (CBG); they have less psychotropic effects than THC, but may play a role in the overall effect of cannabis.<ref name=\"Ben2006\" /> The most studied are THC, CBD and CBN.<ref name=\"Gordon2013\">{{cite journal | vauthors=((Gordon, A. J.)), ((Conley, J. W.)), ((Gordon, J. M.)) | journal=Current Psychiatry Reports | title=Medical Consequences of Marijuana Use: A Review of Current Literature | volume=15 | issue=12 | pages=419 | date=14 November 2013 | url=https://doi.org/10.1007/s11920-013-0419-7 | issn=1535-1645 | doi=10.1007/s11920-013-0419-7}}</ref> \n\n''CYP2C9'' genotype affects THC sensitivity significantly:\n\n:''Subjects with the *3/*3 genotype had 3-fold higher THC levels in their blood than subjects with the *1/*1 genotype. Those subjects with one copy of each gene (*1/*3) had intermediate THC levels that were about 2-fold higher than subjects with *1/*1.''<ref>https://www.ncbi.nlm.nih.gov/books/NBK564166/</ref>\n\nThe [https://en.wikipedia.org/wiki/Entourage_effect entourage effect] is a proposed mechanism by which compounds present in cannabis which are largely non-psychoactive by themselves modulate the overall psychoactive effects of the plant (these resulting principally from the action of the main psychoactive component of cannabis, tetrahydrocannabinol (THC)). \n\nTHC appears to alter mood and cognition through its agonist actions on the CB1 receptors, which inhibit a secondary messenger system (adenylate cyclase) in a dose dependent manner. Via CB1 activation, THC indirectly increases dopamine release and produces psychotropic effects. \n\nCannabidiol acts as an allosteric modulator of the mu and delta opioid receptors.<ref>Cannabidiol is an allosteric modulator at [[Opioid#Receptor types|mu- and delta-opioid receptors]]</ref> THC also potentiates the effects of the glycine receptors.<ref>{{cite journal | vauthors=((Hejazi, N.)), ((Zhou, C.)), ((Oz, M.)), ((Sun, H.)), ((Ye, J. H.)), ((Zhang, L.)) | journal=Molecular Pharmacology | title=Δ9-Tetrahydrocannabinol and Endogenous Cannabinoid Anandamide Directly Potentiate the Function of Glycine Receptors | volume=69 | issue=3 | pages=991–997 | date=1 March 2006 | url=https://molpharm.aspetjournals.org/content/69/3/991 | issn=0026-895X | doi=10.1124/mol.105.019174}}</ref> However, the role of these interactions and how they result in the cannabis high remains subject to on-going scientific investigation.\n\nDrugs that activate the CB1 and CB2 receptors are known to upregulate and enhance 5-HT<sub>2A</sub> receptor activity.<ref>{{cite journal | vauthors=((Franklin, J. M.)), ((Carrasco, G. A.)) | journal=Synapse | title=Cannabinoid receptor agonists upregulate and enhance serotonin 2A (5-HT 2A ) receptor activity via ERK1/2 signaling | volume=67 | issue=3 | pages=145–159 | date= March 2013 | url=https://onlinelibrary.wiley.com/doi/10.1002/syn.21626 | issn=08874476 | doi=10.1002/syn.21626}}</ref> The ERK1/ERK2 signaling pathway has been shown to mediate this effect, but the exact biochemical mechanism is unknown. This upregulation and enhancement of the 5-HT<sub>2A</sub> receptor is why cannabis potentiates the effects of psychedelic drugs and can cause psychedelic effects in very high doses.  \n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]'''<ref name=\"Robson2001\"/> - Cannabis may produce a mild sense of [[Stimulation|stimulation]] at low to moderate doses. Its effects are primarily sedating and can even be [[hypnotic]]. These relaxing properties are suppressed by consciously forcing oneself to engage in physical activities. <p>In terms of its stimulating effects, these subjective aspects of THC typically last 2-3 hours, whereas the half-life of CBD, which is more relaxing, is 9 hours.<ref name=\"MechoulamParker2002\">{{cite journal|last1=Mechoulam|first1=Raphael|last2=Parker|first2=Linda A.|last3=Gallily|first3=Ruth|title=Cannabidiol: An Overview of Some Pharmacological Aspects|journal=The Journal of Clinical Pharmacology|volume=42|issue=S1|year=2002|pages=11S–19S|issn=00912700|doi=10.1002/j.1552-4604.2002.tb05998.x}}</ref> Thus, the first dose of cannabis after a period of abstinence will tend to be far more stimulating than subsequent doses, which must compete with the relaxing effects of previous doses. <p>Because the relaxation both persists much longer and shares many of the same pathways as the stimulation, regular ingestion of THC also leads to increased tolerance to its stimulating effects, but not to its relaxing effects.{{citation needed}}\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of cannabis is extremely variable and depends entirely on the individual strain as well as dose and method of intake. In general, however, it can be described as a relatively pleasurable, sometimes warm, soft, intoxicating and all-encompassing sensation. At high dosages, it can cause some users to feel shaky or nerve-wracked. \n*'''[[Effect::Appetite enhancement]]''' - The feeling of increased appetite following the use of cannabis has been documented for hundreds of years<ref>{{cite book | veditors=((Mechoulam, R.)) | date= 1986 | title=Cannabinoids as therapeutic agents | publisher=CRC Press | isbn=9780849357725}}</ref> and is known colloquially as \"the munchies\". Cannabis has been shown in recent studies to stimulate the release of the hormone ghrelin which is normally released by the stomach when empty as a signal for the brain to search for food.<ref>Investigating the Neuroendocrine and Behavioral Controls of Cannabis-Induced Feeding Behavior. JF Davis, PQ Choi, J Kunze, P Wahl, Washington State University Pullman, WA, USA. Presented July 2018, Society for the Study of Ingestive Behavior, Bonita Springs, FL.</ref>\n*'''[[Effect::Appetite suppression]]''' - This effect may present itself at the very beginning of the intoxication and is likely due mostly to the cannabinoid THCV.<ref>{{Citation | year=2013 | title=An Overview Of Tetrahydrocannabivarin (THCV) | url=https://www.medicaljane.com/2013/08/27/tetrahydrocannabivarin-thcv-a-cannabinoid-fighting-obesity/}}</ref>\n*'''[[Effect::Gustatory enhancement]]''' - Cannabis is regularly known to improve the taste of foods.\n*'''[[Effect::Bodily pressures]]''' - This can be described a subtle or distinct pressure felt behind one's eye(s). \n*'''[[Effect::Bronchodilation]]'''{{citation needed}}\n*'''[[Effect::Changes in felt gravity]]''' - At extremely high doses, many users report a feeling of being pulled backwards across vast distances (sometimes at powerful speeds). This sensation progressively increases in intensity and often eventually becomes unbearable if one leans backwards or lies down; however, it disappears altogether once the user sits up or leans forward.\n*'''[[Effect::Increased heart rate]]'''<ref name=\"Robson2001\">{{cite journal|last1=Robson|first1=P.|title=Therapeutic aspects of cannabis and cannabinoids|journal=The British Journal of Psychiatry|volume=178|issue=2|year=2001|pages=107–115|issn=00071250|doi=10.1192/bjp.178.2.107}}</ref> - Decreased blood pressure can result in an increased heart rate, although this varies depending on the user.\n*'''[[Effect::Decreased blood pressure]]'''<ref name=\"Robson2001\"/>\n*'''[[Effect::Dizziness]]''' - Cannabis has the potential to cause dizziness at very high doses. However, this effect is far more inconsistent than with substances such as [[alcohol]].\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''<ref name=\"Robson2001\"/> - This is known colloquially as \"cotton mouth\" in popular American and United Kingdom culture. Edible forms of cannabis can make this effect feel much more intense and uncomfortable.\n*'''[[Effect::Increased perspiration]]''' - This effect is experienced almost exclusively with the convection of solvent extracted [[Cannabis#Forms|hash oil]] and appears almost immediately upon exhalation. This is likely due to the high THC concentration and a relatively rapid onset that can result in a significant [[Decreased blood pressure|decrease in blood pressure]], often causing the user to sweat. \n*'''[[Effect::Insomnia]]''' - Chronic intake is associated with insomnia.<ref>{{cite journal |last1=Wong |first1=MM |last2=Craun |first2=EA |last3=Bravo |first3=AJ |last4=Pearson |first4=MR |last5=Protective Strategies Study |first5=Team. |title=Insomnia symptoms, cannabis protective behavioral strategies, and hazardous cannabis use among U.S. college students. |journal=Experimental and clinical psychopharmacology |date=August 2019 |volume=27 |issue=4 |pages=309-317 |doi=10.1037/pha0000273 |pmid=30907602}}</ref>\n*'''[[Effect::Motor control loss]]''' - This substance causes a partial to moderate suppression of motor control which intensifies proportional to dose, but rarely results in a complete inability to walk and perform basic movements.\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Muscle spasms]]''' - This effect is usually very subtle and is more likely to occur at high doses. \n*'''[[Effect::Nausea]]''' -  At heavy dosages and overdoses, cannabis can be nauseating. This usually passes after the first 30 or 40 minutes of the intoxication and tends to transition later into [[nausea suppression]]. \n*'''[[Effect::Nausea suppression]]''' - Cannabis is effective for suppressing nausea induced by both general illness and substances. It is considered an effective treatment for chemotherapy-induced nausea and vomiting (CINV)<ref name=\"Borgelt2013\"/> and is a reasonable option in those who do not improve following preferential treatment.<ref>{{Citation | vauthors=((Ärzteblatt, D. Ä. G., Redaktion Deutsches)) | title=The Therapeutic Potential of Cannabis and Cannabinoids (23.07.2012) | url=https://www.aerzteblatt.de/int/archive/article?id=127603}}</ref>\n*'''[[Effect::Pain relief]]''' - This substance has been reported as useful for treating certain headaches and chronic pain, including pain caused by neuropathy and possibly fibromyalgia and rheumatoid arthritis.<ref>{{cite journal | vauthors=((Martín-Sánchez, E.)), ((Furukawa, T. A.)), ((Taylor, J.)), ((Martin, J. L. R.)) | journal=Pain Medicine | title=Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain | volume=10 | issue=8 | pages=1353–1368 | date= November 2009 | url=https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x | issn=1526-2375 | doi=10.1111/j.1526-4637.2009.00703.x}}</ref><ref>{{cite journal | vauthors=((Lynch, M. E.)), ((Campbell, F.)) | journal=British Journal of Clinical Pharmacology | title=Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain | volume=72 | issue=5 | pages=735–744 | date= November 2011 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x | issn=03065251 | doi=10.1111/j.1365-2125.2011.03970.x}}</ref>\n*'''[[Effect::Perception of bodily lightness]]''' ''or'' '''[[Effect::Perception of bodily heaviness]]''' - Depending on the specific strain of cannabis, one can find themselves with a body which can feel either physically heavier or lighter than it usually would in a style that is entirely dependent upon dose or tolerance of the individual.\n*'''[[Effect::Physical euphoria]]''' - This rarely exceeds mild to moderate levels of intensity, and although this effect may be present for many users there are also a number of individuals who report experiencing no euphoria at all. For some, this effect is notably more prominent with [[Cannabis#Methods of consumption|edible forms]] of cannabis. \n*'''[[Effect::Red eye]]''' - Marijuana induces corneal vasodilation (so called red eye) and a reduction of intraocular pressure (IOP).<ref>{{cite journal |last1=Yazulla |first1=S |title=Endocannabinoids in the retina: from marijuana to neuroprotection. |journal=Progress in retinal and eye research |date=September 2008 |volume=27 |issue=5 |pages=501-26 |doi=10.1016/j.preteyeres.2008.07.002 |pmid=18725316}}</ref> [[Naphazoline]] eye drops relieve red eyes.\n*'''[[Effect::Seizure suppression]]''' - There are many anecdotal reports of the successful treatment of seizures in epilepsy with the use of low THC/high CBD marijuana.<ref>{{Citation | vauthors=((Osborne, H.)) | year=2014 | title=Charlotte Figi: The Girl Who is Changing Medical Marijuana Laws Across America | url=https://www.ibtimes.co.uk/charlotte-figi-girl-who-changing-medical-marijuana-laws-across-america-1453547}}</ref><ref>{{Citation | year=2012 | title=On the frontier of medical pot to treat boy’s epilepsy | url=https://www.latimes.com/health/la-xpm-2012-sep-13-la-me-customized-marijuana-20120914-story.html}}</ref><ref>{{cite journal | vauthors=((Porter, B. E.)), ((Jacobson, C.)) | journal=Epilepsy & behavior : E&B | title=Report of a parent survey of cannabidiol-enriched cannabis use in pediatric treatment-resistant epilepsy | volume=29 | issue=3 | pages=574–577 | date= December 2013 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4157067/ | issn=1525-5050 | doi=10.1016/j.yebeh.2013.08.037}}</ref> However, there is not enough scientific evidence to draw conclusions about its safety or efficacy. Studies in animals have found that cannabidiol,<ref>{{cite journal | vauthors=((Jones, N. A.)), ((Hill, A. J.)), ((Smith, I.)), ((Bevan, S. A.)), ((Williams, C. M.)), ((Whalley, B. J.)), ((Stephens, G. J.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Cannabidiol displays antiepileptiform and antiseizure properties in vitro and in vivo | volume=332 | issue=2 | pages=569–577 | date= February 2010 | issn=1521-0103 | doi=10.1124/jpet.109.159145}}</ref><ref>{{cite journal | vauthors=((Turkanis, S. A.)), ((Smiley, K. A.)), ((Borys, H. K.)), ((Olsen, D. M.)), ((Karler, R.)) | journal=Epilepsia | title=An electrophysiological analysis of the anticonvulsant action of cannabidiol on limbic seizures in conscious rats | volume=20 | issue=4 | pages=351–363 | date= August 1979 | issn=0013-9580 | doi=10.1111/j.1528-1157.1979.tb04815.x}}</ref> tetrahydrocannabivarin (THCV),<ref>{{cite journal | vauthors=((Hill, A. J.)), ((Weston, S. E.)), ((Jones, N. A.)), ((Smith, I.)), ((Bevan, S. A.)), ((Williamson, E. M.)), ((Stephens, G. J.)), ((Williams, C. M.)), ((Whalley, B. J.)) | journal=Epilepsia | title=Δ9-Tetrahydrocannabivarin suppresses in vitro epileptiform and in vivo seizure activity in adult rats | volume=51 | issue=8 | pages=1522–1532 | date= August 2010 | issn=1528-1167 | doi=10.1111/j.1528-1167.2010.02523.x}}</ref> and other cannabinoids have anticonvulsant properties.<ref>{{cite journal | vauthors=((Wallace, R.)) | journal=Epilepsy Currents | title=Cannabinoids: Defending the Epileptic Brain | volume=4 | issue=3 | pages=93–95 | date= May 2004 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1176332/ | issn=1535-7597 | doi=10.1111/j.1535-7597.2004.43003.x}}</ref>\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Vasodilation]]''' - THC decreases blood pressure which dilates the blood vessels and increases blood flow throughout the body. The arteries in the eyeball expand from the decreased blood pressure. These enlarged arteries often produce a bloodshot red eye effect and is the basis for its effectiveness at treating glaucoma.<ref>{{Citation | title=Is Marijuana an Effective Treatment for Glaucoma? - Medical Marijuana - ProCon.org | url=https://medicalmarijuana.procon.org/questions/is-marijuana-an-effective-treatment-for-glaucoma/}}</ref> Studies have shown  cannabis (smoked or eaten) effectively lowers intraocular pressure by about 25%, as much as standard medications.<ref>Cardiovascular Effects of Cannabis | http://www.idmu.co.uk/canncardio.htm</ref> \n\n}}\n{{effects/visual|\nCannabis inconsistently induces visual and [[hallucinatory states]] at higher doses. These hallucinations are very mild and ill-defined compared to the effects of hallucinogens like psychedelics, dissociatives, and deliriants. \n\n*'''[[Effect::Colour enhancement]]''' - This effect is often faint, but has been known to increase in its likeness and/or appearance among \"regular\" users of [[psychedelics]]. \n*'''[[Effect::Visual acuity suppression|Acuity suppression]]''' - THC is known to decrease intraocular pressure.<ref>{{cite journal | vauthors=((Purnell, W. D.)), ((Gregg, J. M.)) | journal=Annals of ophthalmology | title=Delta(9)-tetrahydrocannabinol,, euphoria and intraocular pressure in man | volume=7 | issue=7 | pages=921–923 | date=1 July 1975 | issn=0003-4886}}</ref> This can sometimes result in blurry vision for some people.{{citation needed}}\n*'''[[Effect::Brightness alteration]]''' - THC has been shown to modulate the activity of cone cells in the eye. This can cause an increased sensitivity to light, causing one's vision to appear brighter than normal.\n*'''[[Effect::Pattern recognition enhancement]]''' - This effect can occur at high doses\n*'''[[Effect::Tracers]]''' - This effect can be seen at high doses and is generally quite mild. It generally does not extend past level 2.\n*'''[[Effect::Geometry]]''' - Cannabis is capable of inconsistently inducing mild psychedelic geometry at extremely high doses within many users who also regularly use psychedelics. It is capable of inducing these in a visual style which seems to be an averaged out depiction of all the [[psychedelics]] one has used within the past. These rarely extend beyond level 4 and are considered to be mild, fine, small and zoomed out (but often well-defined).\n*'''[[Effect::Internal hallucination]]''' - The internal hallucinations of cannabis are extremely variable in their appearance depending on the dosage, tolerance and the individual's brain chemistry. They are very inconsistent and for some even rare but can be described as being fainter in appearance when compared to traditional [[psychedelics]] and do not seem to be as regularly composed of visual [[geometry]]. <p>The most common way in which they manifest themselves is through [[Lucid dreaming#Fully defined hypnagogia |hypnagogic]] scenarios. They are most common during high dosages in dark environments and can be comprehensively described through their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as both lucid and delirious in believability, fixed in style, autonomous in controllability, equal in new experiences and memory replays in content and are primarily [[geometry]]-based in style.\n*'''[[Effect::Peripheral information misinterpretation]]''' - This very inconsistent effect tends to be mild and fleeting in contrast to other more powerful [[psychoactive substances]]. This effect rarely occurs on cannabis alone but when it does it is often in high dosages and/or when the individual has a low tolerance. It is more likely to manifest itself in certain environments as opposed to others and is more likely to happen if one has used stronger substances recently, typically within the past 24 to 36 hours.\n*'''[[Visual disconnection]]'''\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' ''or'' '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Analysis enhancement]]''' - This effect is significantly less prominent and consistent than it is with [[serotonergic psychedelics]] and [[stimulants]]. \n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This effect is generally mild and usually only present during the onset and peak of intoxication\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Dream suppression]]''' - It is commonly reported that regular cannabis use before sleep results in a complete absence of dreams. A day or two of abstaining from cannabis results in an intensification of dreams for a short period of time. <p>This claim is supported through studies that demonstrate that measurably reduced eye movement activity and REM states occur when one falls asleep in the THC condition. This state is strongly associated with dreaming. The same study also reported a REM rebound effect; there is more REM activity during the withdrawal from THC.<ref>{{cite journal | vauthors=((Feinberg, I.)), ((Jones, R.)), ((Walker, J. M.)), ((Cavness, C.)), ((March, J.)) | journal=Clinical Pharmacology & Therapeutics | title=Effects of high dosage delta-9-tetrahydrocannabinol on sleep patterns in man | volume=17 | issue=4 | pages=458–466 | date= April 1975 | url=https://onlinelibrary.wiley.com/doi/10.1002/cpt1975174458 | issn=00099236 | doi=10.1002/cpt1975174458}}</ref>\n*'''[[Effect::Decreased libido]]''' and '''[[Effect::Increased libido]]''' - Although cannabis is commonly reported to increase sexual desire and heighten its pleasure it has also been reported to decrease one's libido as well. <p>The decrease in libido typically only occurs during the [[Duration|onset]] of the intoxication whilst the increase in libido commonly occurs during the [[Duration|offset]] or after the peak effects. However, these components are inconsistent and it is possible for one of these effects to occur without the other.\n*'''[[Effect::Emotion enhancement]]''' - The most prominent cognitive component of the cannabis experience is the way in which it enhances the emotions one is already feeling proportional to dose. This can result in [[euphoria]], extreme [[laughter]], and increased immersion within tasks and activities or it can result in [[anxiety]] and [[paranoia]] depending on the user's current state of mind.\n*'''[[Effect::Feelings of impending doom]]''' - This occurs in high doses, it consists of extreme [[anxiety]] and [[paranoia]]. It can be compared to a mild \"bad trip\" on psychedelics.\n*'''[[Effect::Focus suppression]]''' and '''[[Effect::Focus enhancement]]''' - This can depend on the user, dose, [[routes of administration|method]] or the strain of cannabis used. Higher doses tend to cause focus suppression while lower doses can increase one's focus.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]''' - Cannabis can often cause spurts of laughter for little, to no reason. This is often where the term \"giggles\" comes from when people are high off cannabis <ref>{{Citation | title=Laughter fits | url=https://psychonautwiki.org/wiki/Laughter_fits}}</ref>. \n*'''[[Effect::Memory suppression]]''' - Cannabis is known to suppress short-term memory due to inhibition of glutamate neurotransmission in the hippocampus. This effect primarily effects short-term memory, making [[ego death]] or long-term [[memory suppression]] very unlikely.\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Motivation suppression]]'''<ref>{{cite journal |last1=Lac |first1=A |last2=Luk |first2=JW |title=Testing the Amotivational Syndrome: Marijuana Use Longitudinally Predicts Lower Self-Efficacy Even After Controlling for Demographics, Personality, and Alcohol and Cigarette Use. |journal=Prevention science : the official journal of the Society for Prevention Research |date=February 2018 |volume=19 |issue=2 |pages=117-126 |doi=10.1007/s11121-017-0811-3 |pmid=28620722}}</ref>\n*'''[[Effect::Novelty enhancement]]''' - Relatively consistent, but not as pronounced as with psychedelics. This effect can become more noticeable and/or consistent if the individual regularly takes [[psychedelics]]. \n*'''[[Effect::Paranoia]]''' - All [[cannabinoids]] are capable of inducing paranoia at high doses, with chronic administration, or when administered alongside [[psychedelics]] or [[stimulants]].\n*'''[[Effect::Personal meaning enhancement]]'''\n*'''[[Effect::Psychosis]]''' - The prolonged usage of THC may increase one's disposition to psychosis<ref name=\"Arseneault2004\">{{cite journal | vauthors=((Arseneault, L.)), ((Cannon, M.)), ((Witton, J.)), ((Murray, R. M.)) | journal=The British Journal of Psychiatry | title=Causal association between cannabis and psychosis: examination of the evidence | volume=184 | issue=2 | pages=110–117 | date= February 2004 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4 | issn=0007-1250 | doi=10.1192/bjp.184.2.110}}</ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Vearrier2010\">{{cite journal | vauthors=((Vearrier, D.)), ((Osterhoudt, K. C.)) | journal=Pediatric Emergency Care | title=A Teenager With Agitation: Higher Than She Should Have Climbed | volume=26 | issue=6 | pages=462–465 | date= June 2010 | url=http://journals.lww.com/00006565-201006000-00016 | issn=0749-5161 | doi=10.1097/PEC.0b013e3181e4f416}}</ref>\n*'''[[Effect::Sleepiness]]''' - This effect depends mostly on dose and/or strain of the plant and is most prominent after the peak subsides. \n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Thought connectivity]]''' - Cannabis can often cause many wandering thoughts and ideas at most doses.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Time distortion]]''' - Cannabis has been commonly reported to alter one's sense of time. The distortion that occurs is generally mild, and is most commonly reported to be in the form of time expansion.\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]''' \n*'''[[Effect::Auditory distortion|Distortions]]''' - These are usually only present at extremely high doses. \n\n}}\n{{effects/multisensory|\n*'''[[Effect::Synaesthesia]]''' - This is a very rare and typically non-reproducible effect. It is particularly mild when compared to the states capable of being produced by other [[hallucinogens]], particularly [[serotonergic psychedelics]]. Increasing the dosage can increase the likelihood for this effect to occur, but otherwise only seems to be possible among those who are already predisposed to synaesthetic states.\n}}\n}}\n===Combination effects===\n\n*'''[[Psychedelics]]''' - Cannabis strongly intensifies the sensory and cognitive effects of all psychedelics. Extreme caution is advised when combining these substances as this can significantly increase the chances of a negative psychological reaction like [[anxiety]], [[confusion]] and [[psychosis]]. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits. Many users report that cannabis is effective at briefly recreating the peak of the experience if consumed during the [[Route of administration#Coming down|come down]] phase.\n*'''[[Dissociatives]]''' - Cannabis enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced [[Visual_disconnection#Holes.2C_spaces_and_voids|holes, spaces, and voids]] and [[internal hallucinations]] become more vivid and intense on cannabis. These effects correspond with an increased risk of [[confusion]], [[delusions]], and [[psychosis]].\n*'''[[Depressants]]''' - Depressants such as [[benzodiazepines]] or [[opioids]] reduce the hallucinogenic aspects of the cannabis high. Instead, the focus shifts to bodily sensations, such as [[muscle relaxation]], [[sedation]], [[information processing suppression]], and [[anxiety suppression]].\n*'''[[Alcohol]]''' - When used with alcohol, cannabis often creates feelings of extreme nausea, double vision, dizziness and changes in gravity. It is generally recommended that people take the cannabis before drinking and not the other way around as this is reported to induce these effects less readily.\n*'''[[Stimulants]]''' - Cannabis tends to increase the [[thought acceleration|thought accelerating]], [[immersion enhancement|immersion enhancing]] and [[euphoric]] effects of stimulants, particularly as it relates to one's [[increased music appreciation|appreciation of music]] and sexual pleasure. This combination should be used with caution, however, as it can easily induce states of [[anxiety]], [[paranoia]], [[confusion]], [[delusions]], and [[psychosis]].\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Cannabis]][[Category:Experience]]|format=ul|Columns=2}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Cannabis.shtml Erowid Experience Vaults: Cannabis]\n\n==Dosage and preparation==\n\n===THC===\n\"Our results showed an overall increase in potency of illicit cannabis, from approximately 10% in 2009 to approximately 14% in 2019. These results are in agreement with other potency monitoring programs in several European countries.\"<ref>https://pubmed.ncbi.nlm.nih.gov/33508497/</ref>\n\nMath to calculate the quantity needed weed: Desired THC from divided by the THC strength of the strain. For example, if you want to smoke 3 mg (a common dose) from cannabis with 12% THC:\n\n:3 mg / 12% = 3/0.12 = 25 mg\n\n==Strains and forms==\n\n===Strains===\n[[File:Cannab2 new.png|thumb|right|200px|Types of cannabis]]\n'''Sativa''' and '''indica''' are the two major types of cannabis plants which can mix together to create hybrid strains. Because each strain has its own balance of cannabinoids, each strain has its own range of effects on the body and mind, resulting in a wide range of medicinal benefits.\n\nIndica plants typically grow short and wide compared to sativa plants which grow tall and thin. Indica plants are better suited for indoor growing because of their short growth and sativa plants are better suited for outdoor growing because some strains can reach over 25 ft. in height.\n\nMarijuana strains range from pure sativas to pure indicas with hybrid strains consisting of both indica and sativa (for example, 30% indica – 70% sativa, 50% – 50% combinations, or 80% indica – 20% sativa).\n\n====Hypothetical phytocannabinoiod differences between ''C. indica'' and ''C. sativa''====\nThe effects of ''sativa'' may be used for a high, while ''indica'' may be used for its sedative effects. Both types are used as medical cannabis.\n\n*Cannabinoid ratios: On average, ''Cannabis indica'' has higher levels of [[Tetrahydrocannabinol|THC]] compared to [[Cannabidiol|CBD]], whereas ''Cannabis sativa'' has lower levels of THC to CBD.<ref name=\"Hillig\">{{cite journal |author1=Karl W. Hillig |author2=Paul G. Mahlberg |year=2004 |title=A chemotaxonomic analysis of cannabinoid variation in ''Cannabis'' (Cannabaceae) |journal=[[American Journal of Botany]] |volume=91 |issue=6 |pages=966–975 |pmid=21653452 |doi=10.3732/ajb.91.6.966|doi-access=free }}</ref> However, huge variability exists within either species. A 2015 study shows the average THC content of the most popular herbal cannabis products in the Netherlands has decreased slightly since 2005.<ref>{{cite journal |vauthors=Niesink RJ, Rigter S, Koeter MW, Brunt TM |title=Potency trends of Δ9-tetrahydrocannabinol, cannabidiol and cannabinol in cannabis in the Netherlands: 2005-15 |journal=Addiction |volume=110 |issue=12 |pages=1941–50 |year=2015 |doi=10.1111/add.13082 |pmid=26234170}}</ref>\n*Terpene ratios: Sativa ancestry is associated with farnesene and bergamotene, while Indica ancestry is associated with myrcene, elemene, and sesquiterpene alcohols.\n\n=====Criticism=====\nIn 2022, studies found that plants identified as \"indica\" or \"sativa\" based on common methods of differentiation (e.g. plant height or leaf shape) are not, in fact, chemically distinguishable, with many identified as \"sativa\" having cannabinoid ratios predicted of \"indica\" plants and vice versa. The authors have concluded that the chemical makeup of cannabis plants cannot be reliably determined by simple inspection of the plants' physical characteristics and that the \"indica\" and \"sativa\" labels are not informative as to the cannabinoids (or other chemical components) delivered.<ref>{{Cite journal| doi = 10.1371/journal.pone.0267498| issn = 1932-6203| volume = 17| issue = 5| pages = –0267498| last1 = Smith| first1 = Christiana J.| last2 = Vergara| first2 = Daniela| last3 = Keegan| first3 = Brian| last4 = Jikomes| first4 = Nick| title = The phytochemical diversity of commercial Cannabis in the United States| journal = PLOS ONE| date = 2022| pmid = 35588111| pmc = 9119530| bibcode = 2022PLoSO..1767498S| doi-access = free}}</ref><ref>{{Cite journal| issn = 1664-462X| volume = 13| last1 = Murovec| first1 = Jana| last2 = Eržen| first2 = Jan Jurij| last3 = Flajšman| first3 = Marko| last4 = Vodnik| first4 = Dominik| title = Analysis of Morphological Traits, Cannabinoid Profiles, THCAS Gene Sequences, and Photosynthesis in Wide and Narrow Leaflet High-Cannabidiol Breeding Populations of Medical Cannabis| journal = Frontiers in Plant Science| date = 2022| page = 786161| doi = 10.3389/fpls.2022.786161| pmid = 35283868| pmc = 8907982| doi-access = free}}</ref>\n\n===Forms===\n<center>\n<gallery caption=\"\" widths=\"300px\" location=\"centre\" perrow=\"4\">\nFile:Bubba Kush.jpg|''Whole flower and leaf'' is the most widely consumed form, containing 3% to 22% THC.<ref>{{Citation | vauthors=((Madrigal, A.)) | title=High Times in Ag Science: Marijuana More Potent Than Ever | url=https://www.wired.com/2008/12/high-times-in-a/}}</ref><ref>{{Citation | title=Definition of marijuana, Dictionary.com | url=https://www.dictionary.com/browse/marijuana}}</ref>\nFile:Kief (yellow).jpg|''Kief'' is a powder which can be sifted from the leaves and flowers of cannabis plants and either consumed in powder form or compressed to produce cakes of hashish.<ref>{{Citation | year=2014 | title=Kief, Cannabis Culture | url=https://web.archive.org/web/20141203230256/http://www.cannabisculture.com/articles/4220.html}}</ref>\nFile:Hashish-2.jpg|''Hashish'' (also spelled ''hasheesh'', ''hashisha'', or simply ''hash'') is a concentrated resin cake or ball produced from pressed kief. Hashish was the primary form of cannabis used in Europe in 2008. Herbal cannabis is more widely used in Northern America. Purities of confiscated hashish in Europe (2011) range between 4-15%. Between 2000 and 2005 the percentage of hashish in cannabis end product seizures was at 18%.<ref name=EMCDDA08>{{cite journal | last1 = EMCDDA| year = 2008| title =  A cannabis reader: global issues and local experiences | url = http://www.emcdda.europa.eu/publications/monographs/cannabis | journal = Monograph Series | volume = 8| issue = 1 }} European Monitoring Centre for Drugs and Drug Addiction, Lisbon, {{doi|10.2810/13807}}</ref>\nFile:Whitewillowtincture.jpg|''Tinctures'' are cannabinoids which have been extracted from cannabis plant matter using high-proof spirits (often grain alcohol). The solubility of [[THC]] in [[ethanol]] is greater than 1 g/mL.<ref>{{cite web |title= Section 1 THC Chemistry |url=https://web.archive.org/web/20201112012233/https://www.who.int/medicines/access/controlled-substances/Section1.THC.Chemistry.pdf}}</ref>\nFile:Drop of cannabis oil.jpg|''Hash oil'' is obtained from the cannabis plant by solvent extraction, and contains the cannabinoids present in the highly concentrated natural oils of cannabis flowers and leaves.<ref>http://books.google.co.uk/books?id=x9Z1QZ5NIEIC&pg=PA78&redir_esc=y</ref> Hash oils in use in the 2010s had THC concentrations as high as 90%.<ref>{{cite journal|last1=Gloss|first1=D|title=An Overview of Products and Bias in Research.|journal=Neurotherapeutics|date=October 2015|volume=12|issue=4|pages=731–4|pmid=26202343|pmc=4604179|doi=10.1007/s13311-015-0370-x}}</ref>\nFile:Cannabis Butter.JPG|''Cannabutter'' is one of many varieties of cannabis infusions owing to the variety of non-volatile solvents used. Examples of solvents used in this process are cocoa butter, dairy butter, cooking oil, glycerine, and skin moisturizers.\n</gallery>\n</center>\n\n==Common usage==\n===Consumption methods===\nCannabis is consumed in many different ways:<ref>{{cite book | vauthors=((Golub, A.)) | date=6 December 2012 | title=The Cultural/Subcultural Contexts of Marijuana Use at the Turn of the Twenty-First Century | publisher=Routledge | isbn=9781136446276}}</ref>\n\n*'''Smoking''' typically involves inhaling vaporized cannabinoids (\"smoke\") from small pipes, bongs (portable versions of hookahs with water chamber), paper-wrapped joints, tobacco-leaf-wrapped blunts, and other items.<ref>{{cite book | vauthors=((Tasman, A.)), ((Kay, J.)), ((Lieberman, J. A.)), ((First, M. B.)), ((Maj, M.)) | date=11 October 2011 | title=Psychiatry | publisher=John Wiley & Sons | isbn=9781119965404}}</ref>\n*'''Vaporizers''' heat herbal cannabis to 165–190 °C (329–374 °F), causing the active ingredients to evaporate into a vapor without burning the plant material (the boiling point of THC is 157 °C (315 °F) at 760 mmHg pressure).<ref>{{cite journal | vauthors=((McPartland, J. M.)), ((Russo, E. B.)) | journal=Journal of Cannabis Therapeutics | title=Cannabis and Cannabis Extracts: Greater Than the Sum of Their Parts? | volume=1 | issue=3–4 | pages=103–132 | date= June 2001 | url=http://www.tandfonline.com/doi/abs/10.1300/J175v01n03_08 | issn=1529-9775 | doi=10.1300/J175v01n03_08}}</ref>\n*'''Cannabis tea''' contains relatively small concentrations of THC because THC is an oil (lipophilic) and is only slightly water-soluble (with a solubility of 2.8 mg per liter).<ref>Dronabinol | http://chem.sis.nlm.nih.gov/chemidplus/rn/1972-08-3</ref> Cannabis tea is made by first adding a saturated fat to hot water (e.g., cream or any milk except skim) with a small amount of cannabis.<ref>{{cite book | vauthors=((Gieringer, D. H.)), ((Rosenthal, E.)) | date= 2008 | title=Marijuana Medical Handbook: Practical Guide to Therapeutic Uses of Marijuana | publisher=Ed Rosenthal | isbn=9780932551863}}</ref>\n*'''Edibles''' are cannabis added as an ingredient to one of a variety of foods.\n*'''Sublingual/buccal''' consumption typically involves the absorption of cannabinoids through the membranes inside the mouth (usually through a candy or tincture).\n*'''Tinctures''' vary from edibles, usually only containing extracted (and potent) THC in liquid form. Tinctures can be taken sublingually, or orally.\n*'''Topical''' consumption typically involves the use of either a cream or lip balm containing cannabinoids absorbed through the skin.\n<center>\n<gallery caption=\"\" widths=\"250px\" location=\"centre\" perrow=\"4\">\nFile:Unrolled joint.jpg|''A joint/spliff prior to rolling with a paper handmade filter on the left.''\nFile:Volcano Vaporizer.jpg|''A forced-air vaporizer. The detachable balloon (top) fills with vapors that are then inhaled.''\nFile:Weed-brownies.jpg|''Edible weed brownies''\n</gallery>\n</center>\n\n===Preparation methods===\nPreparation methods for this compound within our [[tutorial index]] include:\n\n*[[Butane hash oil extraction (BHO)|Butane hash oil extraction]]\n*[[Isopropyl extraction of crude cannabis oil]]\n*[[Cannabis butter]]\n*[[Cannabis cookies]]\n*[[Green dragon tek]]\n\n==Medical use==\n\nCannabis is an emerging treatment option for those suffering from many serious diseases, including cancer. Due to its [[Effect::Pain relief|pain relieving]], [[Effect::nausea suppression|nausea suppressing]] effects, cannabis can be useful for those undergoing radiation therapy and chemotherapy.<ref>https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/018651s021lbl.pdf</ref> Oral doses of cannabis are more effective in reducing nausea and vomiting<ref>{{Citation | vauthors=((Sallan, S. E.)), ((Zinberg, N. E.)), ((Frei, E. I.)) | year=2010 | title=Antiemetic Effect of Delta-9-Tetrahydrocannabinol in Patients Receiving Cancer Chemotherapy | url=https://www.nejm.org/doi/pdf/10.1056/NEJM197510162931603}}</ref>. \n\nIn addition to the anti-nausea effects, the [[Effect::appetite enhancement]] effects of cannabis can combine with the antiemetic effects and make it more likely that the patient will gain or maintain weight through cancer treatment.<ref>American  College  of Physicians.  Supporting  Research  into  the  Therapeutic  Role  of Marijuana. Philadelphia: American College of Physicians; 2008: Position Paper. (Available from American College of Physicians, 190 N. Independence Mall West, Philadelphia, PA19106.) https://www.acponline.org/system/files/documents/advocacy/current_policy_papers/assets/medmarijuana.pdf</ref>\n\n==Toxicity and harm potential==\n{{headerpanel|{{Template:Warning/Cannabis}}}}\n\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Cannabis was found to be the eighth overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of cannabis<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n\nDespite its reputation for being a benign substance, it is important to be aware that cannabis use is associated with distinct risks. Acute adverse effects include [[anxiety]], hyperemesis syndrome, impaired coordination and judgment, suicidal ideations/tendencies, and psychotic symptoms. \n\nIt is strongly advised to use [[responsible drug use|harm reduction practices]] if using this substance.\n\n[https://en.wikipedia.org/wiki/Cannabinoid_hyperemesis_syndrome Cannabinoid hyperemesis syndrome] (CHS) is recurrent [[nausea]], [[vomiting]], and [[stomach cramp]] that sometimes occurs due to prolonged, high-dose cannabis use.<ref name=\"Sor2016\">{{cite journal |last1=Sorensen |first1=Cecilia J. |last2=DeSanto |first2=Kristen |last3=Borgelt |first3=Laura |last4=Phillips |first4=Kristina T. |last5=Monte |first5=Andrew A. |title=Cannabinoid Hyperemesis Syndrome: Diagnosis, Pathophysiology, and Treatment—a Systematic Review |journal=Journal of Medical Toxicology |date=20 December 2016 |volume=13 |issue=1 |pages=71–87 |doi=10.1007/s13181-016-0595-z |pmid=28000146|pmc=5330965 }}</ref><ref name=\"devuono\">{{cite journal|last1=DeVuono|first1=Marieka |last2=Parker|first2=Linda|title=Cannabinoid Hyperemesis Syndrome: A Review of Potential Mechanisms|journal= Cannabis and Cannabinoid Research|pages=132-144|date=2020|volume=5|doi=10.1089/can.2019.0059|url=https://pubmed.ncbi.nlm.nih.gov/32656345}}</ref>\n\nCannabis arteritis (CA) is a very rare peripheral vascular disease similar to Buerger's disease.<ref>{{cite journal |last1=El Omri |first1=N |last2=Eljaoudi |first2=R |last3=Mekouar |first3=F |last4=Jira |first4=M |last5=Sekkach |first5=Y |last6=Amezyane |first6=T |last7=Ghafir |first7=D |title=Cannabis arteritis. |journal=The Pan African medical journal |date=2017 |volume=26 |pages=53 |doi=10.11604/pamj.2017.26.53.11694 |pmid=28451030}}</ref>\n\nCannabis use during brain development (including during pregnancy and adolescence) has been shown to interfere with a variety of neurobiological systems. Meta-analysis following ~5 weeks of abstinence reveals lasting changes in the central executive and default mode networks, which are involved in attention and working memory. The extent of these changes as risk factors is not entirely clear.<ref>Hurd, Yasmin L., et al. “Cannabis and the Developing Brain: Insights into Its Long-Lasting Effects.” ''Journal of Neuroscience'', Society for Neuroscience, 16 Oct. 2019, <nowiki>https://www.jneurosci.org/content/39/42/8250</nowiki>.</ref>\n\n===Suicidality===\nA NIH study found that suicide risk is higher with marijuana users than non-users. <ref>https://www.nih.gov/news-events/news-releases/canSuicidality</ref>\n\nOn the other hand, the largest study as of 2018 in association with cannabis use and the risk of suicide, there was no found evidence between the two. This study shows that it is unlikely a risk factor for suicide, either directly or as a consequence of use. <ref>{{cite journal | vauthors=((Price, C.)), ((Hemmingsson, T.)), ((Lewis, G.)), ((Zammit, S.)), ((Allebeck, P.)) | journal=The British Journal of Psychiatry | title=Cannabis and suicide: longitudinal study | volume=195 | issue=6 | pages=492–497 | date= December 2009 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/cannabis-and-suicide-longitudinal-study/6CFEC0A5B314F34D35A68693A847CAAD | issn=0007-1250 | doi=10.1192/bjp.bp.109.065227}}</ref>\n\nNot only that, but another study studied the association between cannabis and suicidality also has correlation.<ref>{{cite journal | vauthors=((Borges, G.)), ((Bagge, C. L.)), ((Orozco, R.)) | journal=Journal of Affective Disorders | title=A literature review and meta-analyses of cannabis use and suicidality | volume=195 | pages=63–74 | date=1 May 2016 | url=https://www.sciencedirect.com/science/article/pii/S0165032715310004 | issn=0165-0327 | doi=10.1016/j.jad.2016.02.007}}</ref>\n\nThe main takeaway from these studies and more is that while suicide risk may be higher with people who use cannabis, cannabis is unlikely the cause or an additional significant factor.\n\n===Psychosis risk===\n\nThe prolonged usage of [[THC]] and other [[cannabinoids]] may increase one's disposition to mental illness and psychosis,<ref name=\"Arseneault2004\" /> particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref>{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Drug and Alcohol Dependence | title=Synthetic cannabinoid JWH-018 and psychosis: An explorative study | volume=117 | issue=2–3 | pages=152–157 | date= September 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639 | issn=03768716 | doi=10.1016/j.drugalcdep.2011.01.012}}</ref><ref>{{cite journal | vauthors=((Schneir, A. B.)), ((Cullen, J.)), ((Ly, B. T.)) | journal=The Journal of Emergency Medicine | title=“Spice” Girls: Synthetic Cannabinoid Intoxication | volume=40 | issue=3 | pages=296–299 | date=1 March 2011 | url=https://www.sciencedirect.com/science/article/pii/S0736467910008802 | issn=0736-4679 | doi=10.1016/j.jemermed.2010.10.014}}</ref><ref name=\"Vearrier2010\" />\n\nIndividuals with a personal or family history of mental illness, particularly psychotic disorders like schizophrenia, should '''not''' use cannabis without the advice of a qualified mental health practitioner.\n\n===Trauma===\n[https://en.wikipedia.org/wiki/Cannabis_use_and_trauma Cannabis use and trauma] are linked, with trauma playing a role in encouraging both the use and potential misuse of cannabis.<ref>{{cite journal | vauthors = Hyman SM, Sinha R | title = Stress-related factors in cannabis use and misuse: implications for prevention and treatment | journal = Journal of Substance Abuse Treatment | volume = 36 | issue = 4 | pages = 400–13 | date = June 2009 | pmid = 19004601 | doi = 10.1016/j.jsat.2008.08.005 | pmc = 2696937 }}</ref> Conversely, cannabis use has been associated with the intensity of trauma and PTSD symptoms.<ref name=\":0\">{{cite journal | vauthors = Bonn-Miller MO, Vujanovic AA, Feldner MT, Bernstein A, Zvolensky MJ | title = Posttraumatic stress symptom severity predicts marijuana use coping motives among traumatic event-exposed marijuana users | journal = Journal of Traumatic Stress | volume = 20 | issue = 4 | pages = 577–86 | date = August 2007 | pmid = 17721963 | doi = 10.1002/jts.20243 }}</ref><ref>{{cite journal | vauthors = Kevorkian S, Bonn-Miller MO, Belendiuk K, Carney DM, Roberson-Nay R, Berenz EC | title = Associations among trauma, posttraumatic stress disorder, cannabis use, and cannabis use disorder in a nationally representative epidemiologic sample | journal = Psychology of Addictive Behaviors | volume = 29 | issue = 3 | pages = 633–8 | date = September 2015 | pmid = 26415060 | doi = 10.1037/adb0000110 | pmc = 4699174 }}</ref> While evidence of efficacious use of cannabis is growing in novelty, it is not currently recommended.<ref>{{cite journal | vauthors = Black N, Stockings E, Campbell G, Tran LT, Zagic D, Hall WD, Farrell M, Degenhardt L | display-authors = 6 | title = Cannabinoids for the treatment of mental disorders and symptoms of mental disorders: a systematic review and meta-analysis | journal = The Lancet. Psychiatry | volume = 6 | issue = 12 | pages = 995–1010 | date = December 2019 | pmid = 31672337 | doi = 10.1016/s2215-0366(19)30401-8 | pmc = 6949116 }}</ref><ref>{{cite journal | vauthors = Dagan Y, Yager J | title = Cannabis and Complex Posttraumatic Stress Disorder: A Narrative Review With Considerations of Benefits and Harms | journal = The Journal of Nervous and Mental Disease | volume = 208 | issue = 8 | pages = 619–627 | date = August 2020 | pmid = 32433200 | doi = 10.1097/nmd.0000000000001172 | s2cid = 218766009 }}</ref>\n\n===Lethal dosage===\nNo fatal overdoses associated with cannabis use have been reported as of 2010.<ref>{{cite journal | vauthors=((Calabria, B.)), ((Degenhardt, L.)), ((Hall, W.)), ((Lynskey, M.)) | journal=Drug and Alcohol Review | title=Does cannabis use increase the risk of death? Systematic review of epidemiological evidence on adverse effects of cannabis use: Adverse effects of cannabis use | volume=29 | issue=3 | pages=318–330 | date=19 January 2010 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1465-3362.2009.00149.x | issn=09595236 | doi=10.1111/j.1465-3362.2009.00149.x}}</ref> A review published in the British Journal of Psychiatry in February 2001 said that \"no deaths directly due to acute cannabis use have ever been reported.\"<ref>{{cite journal | vauthors=((Ashton, C. H.)) | journal=The British Journal of Psychiatry | title=Pharmacology and effects of cannabis: A brief review | volume=178 | issue=2 | pages=101–106 | date= February 2001 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/pharmacology-and-effects-of-cannabis-a-brief-review/82B02735F420CB287DCC80843FC34AE1 | issn=0007-1250 | doi=10.1192/bjp.178.2.101}}</ref>\n\nTHC, the principal psychoactive constituent of the cannabis plant, has extremely low physiological toxicity and the amount that can enter the body through the consumption of cannabis plants poses no threat of death. \nIn lab animal tests, scientists have had much difficulty administering a dose of THC that is high enough to be lethal. \nThe dose of THC needed to kill 50% of tested rodents is very high,<ref>{{cite journal | vauthors=((Hall, W.)), ((Solowij, N.)) | journal=The Lancet | title=Adverse effects of cannabis | volume=352 | issue=9140 | pages=1611–1616 | date=14 November 1998 | url=https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(98)05021-1/fulltext | issn=0140-6736 | doi=10.1016/S0140-6736(98)05021-1}}</ref> 2.594 mol/kg, about 815.7 grams of THC per kilogram of body weight,<ref>https://www.drugbank.ca/drugs/DB00470</ref> and human deaths from overdose are unheard of.<ref>{{cite journal | vauthors=((Kochanowski, M.)), ((Kała, M.)) | journal=Przeglad Lekarski | title=Tetrahydrocannabinols in clinical and forensic toxicology | volume=62 | issue=6 | pages=576–580 | date= 2005 | issn=0033-2240}}</ref> \n\nAt present, it is estimated that the [[LD50|LD<sub>50</sub>]] of cannabis is around 1:20,000 or 1:40,000. \nThis means that, in order to induce death, a cannabis smoker would have to consume 20,000 to 40,000 times as much cannabis as is contained in one cannabis cigarette. \nA user would theoretically have to smoke nearly 1,500 pounds of cannabis within about 15 minutes to induce a lethal response.\n\nIt is worth noting that the rare condition Cannabinoid Hyperemesis Syndrome (CHS) can cause ongoing nausea, vomiting and severe dehydration which can lead to renal failure<ref>{{cite journal | vauthors=((Galli, J. A.)), ((Sawaya, R. A.)), ((Friedenberg, F. K.)) | journal=Current drug abuse reviews | title=Cannabinoid Hyperemesis Syndrome | volume=4 | issue=4 | pages=241–249 | date= December 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576702/ | issn=1874-4737}}</ref> and in the worst case this can lead to death.<ref>{{cite journal | vauthors=((Nourbakhsh, M.)), ((Miller, A.)), ((Gofton, J.)), ((Jones, G.)), ((Adeagbo, B.)) | journal=Journal of Forensic Sciences | title=Cannabinoid Hyperemesis Syndrome: Reports of Fatal Cases | volume=64 | issue=1 | pages=270–274 | date= January 2019 | issn=1556-4029 | doi=10.1111/1556-4029.13819}}</ref>\n\n===Dependence and abuse potential===\nCannabis is [[Addiction potential::moderately habit-forming]]. \nResearch has shown the overall dependence potential for cannabis to be less than that for [[caffeine]], [[tobacco]], [[alcohol]], [[cocaine]] or [[heroin]], but higher than that for [[psilocybin]], [[mescaline]], or [[LSD]].<ref>{{cite journal | vauthors=((Lopez-Quintero, C.)), ((Cobos, J. P. de los)), ((Hasin, D. S.)), ((Okuda, M.)), ((Wang, S.)), ((Grant, B. F.)), ((Blanco, C.)) | journal=Drug and alcohol dependence | title=Probability and predictors of transition from first use to dependence on nicotine, alcohol, cannabis, and cocaine: Results of the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) | volume=115 | issue=1–2 | pages=120–130 | date=1 May 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069146/ | issn=0376-8716 | doi=10.1016/j.drugalcdep.2010.11.004}}</ref>\n\nDependence on cannabis is more common amongst heavy users. Cannabis use can lead to increased tolerance<ref name=\"Borgelt2013\" /><ref>{{cite journal | vauthors=((Sewell, R. A.)), ((Poling, J.)), ((Sofuoglu, M.)) | journal=American Journal on Addictions | title=The Effect of Cannabis Compared with Alcohol on Driving | volume=18 | issue=3 | pages=185–193 | date= January 2009 | url=http://doi.wiley.com/10.1080/10550490902786934 | issn=1055-0496 | doi=10.1080/10550490902786934}}</ref> and [[Withdrawal#Cannabis|withdrawal symptoms]] upon stopping usage.<ref name=\"Gordon2013\" /><ref>{{cite journal | vauthors=((Lichtman, A. H.)), ((Martin, B. R.)) | journal=Handbook of Experimental Pharmacology | title=Cannabinoid tolerance and dependence | issue=168 | pages=691–717 | date= 2005 | issn=0171-2004 | doi=10.1007/3-540-26573-2_24}}</ref> Prolonged cannabis usage requires the user to consume higher doses of the substance to achieve a common desirable effect, and reinforce the body's metabolic systems for synthesizing and eliminating it more efficiently.<ref>{{cite journal | vauthors=((Watson, S. J.)) | journal=Archives of General Psychiatry | title=Marijuana and Medicine: Assessing the Science Base: A Summary of the 1999 Institute of Medicine Report | volume=57 | issue=6 | pages=547–552 | date=1 June 2000 | url=http://archpsyc.ama-assn.org/cgi/doi/10.1001/archpsyc.57.6.547 | issn=0003990X | doi=10.1001/archpsyc.57.6.547}}</ref>\n\nTolerance to many of the effects of cannabis [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::1 - 2 weeks]] for the tolerance to be reduced to half and [[Time to zero tolerance::2 - 3 weeks]] to be back at baseline (in the absence of further consumption). THC has been detected in heavy cannabis users after 77 days of drug abstinence.<ref>{{cite journal | vauthors=((Ellis, G. M.)), ((Mann, M. A.)), ((Judson, B. A.)), ((Schramm, N. T.)), ((Tashchian, A.)) | journal=Clinical Pharmacology and Therapeutics | title=Excretion patterns of cannabinoid metabolites after last use in a group of chronic users | volume=38 | issue=5 | pages=572–578 | date= November 1985 | issn=0009-9236 | doi=10.1038/clpt.1985.226}}</ref>\n\nCannabis exhibits cross-tolerance with [[cross-tolerance::all [[cannabinoids]]]], meaning that all cannabinoids will have a reduced effect for a period of time upon using cannabis. The mechanisms that create this tolerance to THC are thought to involve changes in cannabinoid receptor function.\n\nOne study found that about 1 in 10 users of cannabis may develop dependence characterized by the occurrence of a withdrawal syndrome after abstinence. This withdrawal syndrome was found to peak 2-3 days after quitting and is mostly complete by 1 week; however, sleep disturbances and vivid dreams may persist for 2-3 weeks.<ref>{{cite journal | vauthors=((Winstock, A. R.)), ((Ford, C.)), ((Witton, J.)) | journal=BMJ | title=Assessment and management of cannabis use disorders in primary care | volume=340 | issue=apr01 1 | pages=c1571–c1571 | date=1 April 2010 | url=https://www.bmj.com/lookup/doi/10.1136/bmj.c1571 | issn=0959-8138 | doi=10.1136/bmj.c1571}}</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Cannabis}}\n\n==Legal status==\n[[File:Map-of-world-cannabis-laws.svg.png|alt=|center|thumb|801x801px|Legal status of cannabis possession for recreational use\n{{legend|#0c50ff|Legal or essentially legal}}\n{{legend|#ff9946|Illegal but decriminalized}}\n{{legend|#ff8d8d|Illegal but often unenforced}}\n{{legend|#ff4646|Illegal}}\n{{legend|#e1e1e1|No information}}]]\n\nFor table of countries, see Wikipedia's [https://en.wikipedia.org/wiki/Template:Global_cannabis_legalization_table global cannabis legalization table].\n\n===United Nations===\nThe legality of cannabis for medical and recreational use varies by country, in terms of its possession, distribution, and cultivation, and (in regards to medical) how it can be consumed and what medical conditions it can be used for. These policies in most countries are regulated by the United Nations Single Convention on Narcotic Drugs that was ratified in 1961, along with the 1971 Convention on Psychotropic Substances and the 1988 Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.<ref>{{cite journal |last1=Habibi |first1=Roojin |last2=Hoffman |first2=Steven J. |title=Legalizing Cannabis Violates the UN Drug Control Treaties, But Progressive Countries Like Canada Have Options |journal=Ottawa Law Review |date=March 2018 |volume=49 |issue=2 |url=https://www.researchgate.net/publication/323697447 |accessdate=22 July 2018}}</ref><ref name=\":0\">{{cite news |last1=Bewley-Taylor |first1=David |last2=Jelsma |first2=Martin |last3=Rolles |first3=Steve |last4=Walsh |first4=John |title=Cannabis regulation and the UN drug treaties |url=https://www.tni.org/files/publication-downloads/cannabis_regulation_and_the_un_drug_treaties_june_2016_web_0.pdf |accessdate=22 July 2018 |date=June 2016}}</ref>\n\n====Rescheduling proposals====\nThe World Health Organization (WHO) is calling for whole-plant marijuana, as well as cannabis resin, to be removed from Schedule IV—the most restrictive category of a 1961 drug convention signed by countries from around the world.<ref>{{Citation | vauthors=((Angell, T.)) | year=2019 | title=World Health Organization Recommends Reclassifying Marijuana Under International Treaties | url=https://www.marijuanamoment.net/read-the-world-health-organizations-marijuana-rescheduling-recommendations/}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Hallucinogens]]\n*[[Cannabinoids]]\n*[[Synthetic cannabinoids]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Cannabis_(drug) Cannabis (drug) (Wikipedia)]\n*[https://erowid.org/plants/cannabis/cannabis.shtml Cannabis (Erowid Vault)]\n*[https://drugs-forum.com/wiki/Cannabis Cannabis (Drugs-Forum)]\n\n==Further reading==\n\n*[http://www.druglibrary.org/special/tart/tartcont.htm Tart, C. T. (1971). On being stoned: A psychological study of marijuana intoxication.]\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Cannabis (genus)| ]]\n[[Category:Entheogen]]\n[[Category:Depressant]]\n[[Category:Stimulant]]\n[[Category:Cannabinoid]]\n\n{{#set:Featured=true}}"
+}

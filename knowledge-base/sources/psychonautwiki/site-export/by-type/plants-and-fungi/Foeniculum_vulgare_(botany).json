@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11483",
+ "type": "plants-and-fungi",
+ "title": "Foeniculum vulgare (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Foeniculum_vulgare_%28botany%29",
+  "pageid": 11483,
+  "last_edited": "2025-11-29T04:16:37Z"
+ },
+ "categories": [
+  "Apiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Fennel (Wikipedia)\n\nCategory:Apiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Foeniculum vulgare}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Fennel Fennel (Wikipedia)]\n\n[[Category:Apiaceae (family)]]"
+}

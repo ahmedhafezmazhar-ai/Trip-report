@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13211",
+ "type": "substance-summary",
+ "title": "Efavirenz/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Efavirenz/Summary",
+  "pageid": 13211,
+  "last_edited": "2016-11-08T20:00:19Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Efavirenz",
+ "plain_text": "",
+ "wikitext": "{{Summary|Efavirenz}}"
+}

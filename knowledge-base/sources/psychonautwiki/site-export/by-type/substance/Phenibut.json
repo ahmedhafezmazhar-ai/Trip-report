@@ -1,0 +1,505 @@
+{
+ "id": "psychonautwiki:10439",
+ "type": "substance",
+ "title": "Phenibut",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenibut",
+  "pageid": 10439,
+  "last_edited": "2025-11-07T19:57:03Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Gabapentinoid",
+  "Nootropic",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Phenibut",
+ "substance_box": {
+  "names": {
+   "common": "Phenibut, Fenibut, Phenybut, PhGABA",
+   "substitutive": "β-Phenyl-γ-aminobutyric acid",
+   "systematic": "(RS)-4-Amino-3-phenyl-butyric acid"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Gabapentinoid"
+  },
+  "routes_of_administration": {
+   "insufflation": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 200 mg",
+    "strong": "200 - 350 mg",
+    "heavy": "350 mg +",
+    "duration": "10 - 16 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "10 - 30 minutes",
+    "peak": "3 - 4 hours",
+    "offset": "4 - 6 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.25 g",
+    "light": "0.5 - 1 g",
+    "common": "1 - 2 g",
+    "strong": "2 - 3.5 g",
+    "heavy": "3.5 g +",
+    "duration": "10 - 16 hours",
+    "onset": "1.5 - 3 hours",
+    "comeup": "1.5 - 3 hours",
+    "peak": "3 - 4 hours",
+    "offset": "4 - 6 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Phenibut",
+    "Fenibut",
+    "Phenybut",
+    "PhGABA"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Gabapentinoid"
+   ],
+   "Insufflated threshold dose": [
+    "25"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "50"
+   ],
+   "Insufflated max light dose": [
+    "100"
+   ],
+   "Insufflated min common dose": [
+    "100"
+   ],
+   "Insufflated max common dose": [
+    "200"
+   ],
+   "Insufflated min strong dose": [
+    "200"
+   ],
+   "Insufflated max strong dose": [
+    "350"
+   ],
+   "Insufflated heavy dose": [
+    "350"
+   ],
+   "Insufflated min total time": [
+    "10"
+   ],
+   "Insufflated max total time": [
+    "16"
+   ],
+   "Oral total time units": [
+    "hours",
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "10"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes",
+    "hours"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Oral comeup time units": [
+    "minutes",
+    "hours"
+   ],
+   "Insufflated min peak time": [
+    "3"
+   ],
+   "Insufflated max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours",
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "4"
+   ],
+   "Insufflated max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours",
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "6"
+   ],
+   "Insufflated max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours",
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "0.25"
+   ],
+   "Oral dose units": [
+    "g"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1"
+   ],
+   "Oral min common dose": [
+    "1"
+   ],
+   "Oral max common dose": [
+    "2"
+   ],
+   "Oral min strong dose": [
+    "2"
+   ],
+   "Oral max strong dose": [
+    "3.5"
+   ],
+   "Oral heavy dose": [
+    "3.5"
+   ],
+   "Oral min total time": [
+    "10"
+   ],
+   "Oral max total time": [
+    "16"
+   ],
+   "Oral min onset time": [
+    "1.5"
+   ],
+   "Oral max onset time": [
+    "3"
+   ],
+   "Oral min comeup time": [
+    "1.5"
+   ],
+   "Oral max comeup time": [
+    "3"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "\"",
+   "clean": "\""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Phenibut",
+   "clean": "Molecular structure of Phenibut"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Phenibut.svg",
+   "clean": "File:Phenibut.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Phenibut]], [[common name::Fenibut]], [[common name::Phenybut]], [[common name::PhGABA]]",
+   "clean": "Phenibut, Fenibut, Phenybut, PhGABA"
+  },
+  "NameSubstitution": {
+   "raw": "β-Phenyl-γ-aminobutyric acid",
+   "clean": "β-Phenyl-γ-aminobutyric acid"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-4-Amino-3-phenyl-butyric acid",
+   "clean": "(RS)-4-Amino-3-phenyl-butyric acid"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Gabapentinoid]]",
+   "clean": "Gabapentinoid"
+  },
+  "InsufflationROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflationROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflationROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflationROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflationROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::25]] [[Insufflated dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "InsufflationROA_Light": {
+   "raw": "[[Insufflated min light dose::50]] - [[Insufflated max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "InsufflationROA_Common": {
+   "raw": "[[Insufflated min common dose::100]] - [[Insufflated max common dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "InsufflationROA_Strong": {
+   "raw": "[[Insufflated min strong dose::200]] - [[Insufflated max strong dose::350]] mg",
+   "clean": "200 - 350 mg"
+  },
+  "InsufflationROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::350]] mg +",
+   "clean": "350 mg +"
+  },
+  "InsufflationROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflationROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflationROA_Duration": {
+   "raw": "[[Insufflated min total time::10]] - [[Insufflated max total time::16]] [[Oral total time units::hours]]",
+   "clean": "10 - 16 hours"
+  },
+  "InsufflationROA_Onset": {
+   "raw": "[[Insufflated min onset time::10]] - [[Insufflated max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflationROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::30]] [[Oral comeup time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflationROA_Peak": {
+   "raw": "[[Insufflated min peak time::3]] - [[Insufflated max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "InsufflationROA_Offset": {
+   "raw": "[[Insufflated min offset time::4]] - [[Insufflated max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflationROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::6]] - [[Insufflated max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.25]] [[Oral dose units::g]]",
+   "clean": "0.25 g"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1]] g",
+   "clean": "0.5 - 1 g"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1]] - [[Oral max common dose::2]] g",
+   "clean": "1 - 2 g"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2]] - [[Oral max strong dose::3.5]] g",
+   "clean": "2 - 3.5 g"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::3.5]] g +",
+   "clean": "3.5 g +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::10]] - [[Oral max total time::16]] [[Oral total time units::hours]]",
+   "clean": "10 - 16 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::1.5]] - [[Oral max onset time::3]] [[Oral onset time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1.5]] - [[Oral max comeup time::3]] [[Oral comeup time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  }
+ },
+ "plain_text": "β-Phenyl-γ-aminobutyric acid (also known as Fenibut, Phenybut, Noofen, Citrocard, and commonly as Phenibut) is a lesser-known depressant substance of the gabapentinoid class. \nPhenibut acts as a receptor agonist for GABA, the major inhibitory neurotransmitter in the brain. \nIt is chemically related to baclofen, pregabalin, and gabapentin.\n\nPhenibut was developed in the Soviet Union in the 1960s, where it has been used as a pharmaceutical drug to treat a wide variety of conditions, including post-traumatic stress disorder, anxiety, depression, asthenia, insomnia, alcoholism, stuttering, and vestibular disorders, and others. In the rest of the world, phenibut is not approved for clinical use and is instead sold as a nutritional supplement. \n\nSubjective effects include anxiety suppression, sedation, muscle relaxation, enhanced motivation, and euphoria. Lower doses (under 1 gram) are typically used as a cognitive and lifestyle supplement while higher doses are used for a recreational high that is reported to be subjectively similar to GHB, alcohol, and certain benzodiazepines. \n\nAlthough phenibut is commonly marketed as a nootropic by retailers, evidence that it enhances cognition is limited. It is generally accepted that phenibut has anxiolytic effects in both animal and in humans. Due to its habit-forming properties, it is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nPhenibut is a derivative of GABA with a phenyl group in the β-position. The addition of a phenyl ring to the GABA molecule allows it to cross the blood-brain barrier and produce psychoactive effects. Phenibut has a near-identical structure as baclofen, lacking only a chlorine atom in the para-position of the phenyl group and contains phenethylamine in its structure. Pregabalin also has a near-identical structure as phenibut, except it has an isobutyl group instead of a phenyl group.\n\nPhenibut is a chiral molecule and thus has two potential configurations, as (R)- and (S)-enantiomers.\n\nMost commercial phenibut is reported to be in the form of the hydrochloride salt (HCl). In this form, the phenibut is reacted with hydrochloric acid to form a stable, easily dissolvable, acidic, crystalline salt.\n\nAlternatively, phenibut can exist as a free amino acid (FAA). In this form, phenibut is close to pH neutral, non-crystalline, slow to dissolve and mildly bitter. The FAA form has about 20% more phenibut molecules on an equal mass basis compared to phenibut HCl. Phenibut FAA has the advantage of being suitable for sublingual, rectal, or intranasal use, which can be more efficient, faster-acting, and predictable for some. Phenibut FAA is converted to phenibut HCl in the stomach. Equal masses of the two forms will have roughly equivalent effects when taken the same way (FAA may be slightly stronger).\n\nPharmacology\n\nPhenibut has a more complex pharmacological profile than many other depressants. \nUnlike benzodiazepines, for example, phenibut acts as a full agonist of the GABAB receptor, similar to baclofen and high doses of GHB. At higher doses, phenibut loses its selectivity of GABAB, and gains additional activity as a GABAA agonist. \nPhenibut's effects at the GABAB receptor are responsible for its sedating effects.\n\nRecent research has shown that phenibut binds to and blocks α2δ subunit-containing voltage-dependent calcium channels (VDCCs), similarly to gabapentinoids such as gabapentin\nand pregabalin. Both enantiomers of phenibut show this action with similar efficacy. The R-enantiomer possesses five-fold greater affinity for α2δ subunit-containing voltage-gated calcium channels relative to the GABAB receptor, whereas the S-entantiomer does not have any efficacy at the GABAB receptor.\n\nThe analgesic effects of phenibut in rodents are not mediated by the GABAB receptor but by the blockage of α2δ subunit-containing voltage-gated calcium channels.\n\nSubjective effects\n\nIn comparison to other commonly used GABAergic depressants such as alcohol or benzodiazepines, phenibut is reported to be longer-lasting, more euphoric and more recreational at higher doses.\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this compound in our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Phenibut\n\nToxicity and harm potential\n\nPhenibut has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like alcohol, benzodiazepines or opioids]].\n\nPhenibut hydrochloride is highly caustic and in sensitive users can cause intestinal discomfort and diarrhea with some lower digestive tract bleeding.\n\nDue to the extremely long come up period relative to other substances, some users may experience an urge to redose out of the belief that it is weak or not working. This should be avoided to prevent overdose.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nPhenibut is moderately physically and psychologically addictive, although this usually only occurs with heavy abuse of the substance.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. \nAfter cessation, the tolerance returns to baseline in 7 - 14 days. \nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction. Withdrawal symptoms include severe anxiety, nervousness, hallucinations, tremors, agitation, dizziness, tension, irritation, rapid heartbeat, fatigue, loss of appetite, nausea, vomiting, psychosis, and insomnia.\n\nPhenibut produces cross-tolerance with all GABAgenic depressants, meaning that after its consumption, depressants will have a reduced effect.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2M2B, alcohol, benzodiazepines, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If a sudden loss of consciousness occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  Phenibut is reported to enhance the positive effects of stimulants as well as reduce jitteriness and anxiety. However, this combination can be dangerous due to the risk of excessive intoxication. Stimulants mask the sedative effects of phenibut; once the stimulant wears off, the depressant effects of phenibut will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to a certain dose of phenibut prior to stimulant consumption and not redose. This combination can also potentially result in significant dehydration.\n\nLegal status\n\n*Australia: Phenibut is a schedule 9 substance in Australia as of February 1st 2018, meaning it is illegal to possess, import, supply or manufacture.\n*Canada: Phenibut is not a controlled substance in Canada, meaning it is legal to possess without any sort of license or prescription. \n*Germany: Phenibut may be controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019.  If this law applies to Phenibut remains unclear.\n*Switzerland: Phenibut is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United Kingdom: Phenibut is not a controlled substance in the United Kingdom. It may be illegal to produce, supply, or import this drug under the Psychoactive Substance Act 2016, which applies a blanket restriction on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products\".\n*United States: Phenibut is not a controlled substance in the United States, meaning it is federally legal to possess without any sort of license or prescription.Phenibut is a Schedule II controlled substance in Alabama as of November 21st, 2021. In 2023 the FDA made Phenibut containing supplements illegal to produce and sell. \n*Italy: Phenibut is a Schedule 1 controlled substance.\n*Latvia: Phenibut is an unscheduled prescription drug, marketed as \"Noofen\".\n*Czechia: Phenibut is a Schedule 4 controlled substance.\n\nSee also\n\n*Responsible use\n*Depressant\n*Gabapentinoid\n*GABA\n*F-Phenibut\n*Gabapentin\n*Pregabalin\n\nExternal links\n\n*Phenibut (Wikipedia)\n*Phenibut (Erowid Vault)\n*Phenibut (Isomer Design)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Nootropic\nCategory:Gabapentinoid",
+ "wikitext": "{{headerpanel|{{DepressantOD|gabapentinoids}}}}\n{{SummarySheet}}\n{{SubstanceBox/Phenibut}}\n\n'''β-Phenyl-γ-aminobutyric acid''' (also known as '''Fenibut''', '''Phenybut''', '''Noofen''', '''Citrocard''', and commonly as '''Phenibut''') is a lesser-known [[psychoactive class::depressant]] substance of the [[chemical class::gabapentinoid]] class.<ref name=\"six\">{{cite book | vauthors=((Wyllie, E.)), ((Cascino, G. D.)), ((Gidal, B. E.)), ((Goodkin, H. P.)) | date=17 February 2012 | title=Wyllie’s Treatment of Epilepsy: Principles and Practice | publisher=Lippincott Williams & Wilkins | isbn=9781451153484}}</ref><ref name=\"seven\">{{cite book | vauthors=((Benzon, H.)), ((Rathmell, J. P.)), ((Wu, C. L.)), ((Turk, D.)), ((Argoff, C. E.)), ((Hurley, R. W.)) | date=11 September 2013 | title=Practical Management of Pain E-Book | publisher=Elsevier Health Sciences | isbn=9780323170802}}</ref> \nPhenibut acts as a [[receptor]] [[agonist]] for [[GABA]], the major inhibitory [[neurotransmitter]] in the brain. \nIt is chemically related to [[baclofen]], [[pregabalin]], and [[gabapentin]].<ref name=\"one\">{{cite journal | vauthors=((Lapin, I.)) | journal=CNS Drug Reviews | title=Phenibut (β-Phenyl-GABA): A Tranquilizer and Nootropic Drug | volume=7 | issue=4 | pages=471–481 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2001.tb00211.x | issn=1080563X | doi=10.1111/j.1527-3458.2001.tb00211.x}}</ref>\n\nPhenibut was developed in the Soviet Union in the 1960s, where it has been used as a pharmaceutical drug to treat a wide variety of conditions, including post-traumatic stress disorder, anxiety, depression, asthenia, insomnia, alcoholism, stuttering, and vestibular disorders, and others.<ref name=\"two\">{{cite journal | vauthors=((Shulgina, G. I.)) | journal=The Pavlovian Journal of Biological Science | title=On neurotransmitter mechanisms of reinforcement and internal inhibition | volume=21 | issue=4 | pages=129–140 | date= December 1986 | issn=0093-2213 | doi=10.1007/BF02734511}}</ref><ref name=\"three\">{{cite book | vauthors=((Group, D. W.)) | date=25 February 2015 | title=Encyclopedia of Mind Enhancing Foods, Drugs and Nutritional Substances, 2d ed. | publisher=McFarland | isbn=9780786441426}}</ref><ref name=\"one\" /> In the rest of the world, phenibut is not approved for clinical use and is instead sold as a nutritional supplement. \n\n[[Subjective effects]] include [[anxiety suppression]], [[sedation]], [[muscle relaxation]], [[motivation enhancement|enhanced motivation]], and [[euphoria]]. Lower doses (under 1 gram) are typically used as a cognitive and lifestyle supplement while higher doses are used for a recreational high that is reported to be subjectively similar to [[GHB]], [[alcohol]], and certain [[benzodiazepines]]. \n\nAlthough phenibut is commonly marketed as a [[nootropic]] by retailers, evidence that it enhances cognition is limited. It is generally accepted that phenibut has anxiolytic effects in both animal and in humans.<ref name=\"one\" /> Due to its habit-forming properties, it is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nPhenibut is a derivative of GABA with a phenyl group in the β-position. The addition of a phenyl ring to the GABA molecule allows it to cross the blood-brain barrier and produce psychoactive effects.<ref name=\"one\" /> Phenibut has a near-identical structure as baclofen, lacking only a chlorine atom in the para-position of the phenyl group<ref>{{cite journal | vauthors=((Shulgina, G. I.)) | journal=The Pavlovian Journal of Biological Science | title=On neurotransmitter mechanisms of reinforcement and internal inhibition | volume=21 | issue=4 | pages=129–140 | date= October 1986 | url=https://link.springer.com/10.1007/BF02734511 | issn=0093-2213 | doi=10.1007/BF02734511}}</ref> and contains phenethylamine in its structure.<ref>{{cite journal | vauthors=((Lapin, I.)) | journal=CNS drug reviews | title=Phenibut (beta-phenyl-GABA): a tranquilizer and nootropic drug | volume=7 | issue=4 | pages=471–481 | date= 2001 | issn=1080-563X | doi=10.1111/j.1527-3458.2001.tb00211.x}}</ref> [[Pregabalin]] also has a near-identical structure as phenibut, except it has an isobutyl group instead of a phenyl group.\n\nPhenibut is a chiral molecule and thus has two potential configurations, as (R)- and (S)-enantiomers.<ref>{{cite journal | vauthors=((Dambrova, M.)), ((Zvejniece, L.)), ((Liepinsh, E.)), ((Cirule, H.)), ((Zharkova, O.)), ((Veinberg, G.)), ((Kalvinsh, I.)) | journal=European Journal of Pharmacology | title=Comparative pharmacological activity of optical isomers of phenibut | volume=583 | issue=1 | pages=128–134 | date= March 2008 | url=https://linkinghub.elsevier.com/retrieve/pii/S001429990800068X | issn=00142999 | doi=10.1016/j.ejphar.2008.01.015}}</ref>\n\nMost commercial phenibut is reported to be in the form of the hydrochloride salt (HCl). In this form, the phenibut is reacted with hydrochloric acid to form a stable, easily dissolvable, acidic, crystalline salt.\n\nAlternatively, phenibut can exist as a free amino acid (FAA). In this form, phenibut is close to pH neutral, non-crystalline, slow to dissolve and mildly bitter. The FAA form has about 20% more phenibut molecules on an equal mass basis compared to phenibut HCl. Phenibut FAA has the advantage of being suitable for [[sublingual]], [[Routes_of_administration#Rectal|rectal]], or [[snorting|intranasal]] use, which can be more efficient, faster-acting, and predictable for some. Phenibut FAA is converted to phenibut HCl in the stomach. Equal masses of the two forms will have roughly equivalent effects when taken the same way (FAA may be slightly stronger).\n\n==Pharmacology==\nPhenibut has a more complex pharmacological profile than many other [[depressants]]. \nUnlike [[benzodiazepines]], for example, phenibut acts as a full [[agonist]] of the [[GABA]]<sub>B</sub> [[receptor]], similar to baclofen and high doses of [[GHB]].<ref name=\"eight\">{{cite book | date=21 September 2010 | title=GABAb Receptor Pharmacology: A Tribute to Norman Bowery | publisher=Academic Press | isbn=9780123786487}}</ref> At higher doses, phenibut loses its selectivity of GABA<sub>B</sub>, and gains additional activity as a GABA<sub>A</sub> [[agonist]].<ref name=\"ZyablitsevaPavlova2010\">{{cite journal|last1=Zyablitseva|first1=E. A.|last2=Pavlova|first2=I. V.|title=Effects of the GABA Receptor Agonist Phenibut on Spike Activity and Interactions between Neocortex and Hippocampus Neurons in Emotionally Negative Situations|journal=Neuroscience and Behavioral Physiology|volume=40|issue=9|year=2010|pages=1003–1011|issn=0097-0549|doi=10.1007/s11055-010-9360-y}}</ref> \nPhenibut's effects at the GABA<sub>B</sub> receptor are responsible for its sedating effects.{{citation needed}}\n\nRecent research has shown that phenibut binds to and blocks α2δ subunit-containing voltage-dependent calcium channels (VDCCs), similarly to gabapentinoids such as [[gabapentin]]\nand [[pregabalin]].<ref name=\"nine\" /> Both enantiomers of phenibut show this action with similar efficacy. The R-enantiomer possesses five-fold greater affinity for α2δ subunit-containing voltage-gated calcium channels relative to the GABA<sub>B</sub> receptor, whereas the S-entantiomer does not have any efficacy at the GABA<sub>B</sub> receptor.<ref name=\"nine\">{{cite journal | vauthors=((Dambrova, M.)), ((Zvejniece, L.)), ((Liepinsh, E.)), ((Cirule, H.)), ((Zharkova, O.)), ((Veinberg, G.)), ((Kalvinsh, I.)) | journal=European Journal of Pharmacology | title=Comparative pharmacological activity of optical isomers of phenibut | volume=583 | issue=1 | pages=128–134 | date=31 March 2008 | issn=0014-2999 | doi=10.1016/j.ejphar.2008.01.015}}</ref>\n\nThe [[pain relief|analgesic]] effects of phenibut in rodents are not mediated by the GABA<sub>B</sub> receptor but by the blockage of α2δ subunit-containing voltage-gated calcium channels.<ref name=\"nine\" />\n\n==Subjective effects==\nIn comparison to other commonly used [[GABA|GABAergic]] depressants such as [[alcohol]] or [[benzodiazepines]], phenibut is reported to be longer-lasting, more euphoric and more recreational at higher doses.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' ''or'' '''[[Effect::Stimulation]]''' - Phenibut has different effects on physical energy levels depending on the dosage used. At lower doses, phenibut has a mild physical and mental stimulation effect, encouraging movement, wakefulness, and productivity. At common doses and higher, phenibut is physically sedating, encouraging sleep and lethargy. Sleeping after dosing a small amount results in a deep, restful sleep which can leave the user feeling refreshed and alert upon waking.\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Respiratory depression]]''' - This effect is generally mild compared to that experienced on many other depressants. However, it may become dangerously amplified if phenibut is combined with other substances that depress breathing.\n*'''[[Effect::Nausea]]''' - Phenibut can induce mild to extreme nausea depending greatly on dose and tolerance. When it occurs, it usually manifests roughly 5 hours after the initial dose and generally involves waves of nausea accompanied by vomiting and excessive sweating.\n*'''[[Effect::Increased libido]]''' - Phenibut is reported to enhance sexual desire and energy. Combined with its disinhibiting and euphoric effects, it can increase the likelihood of unplanned sexual activities in a manner similar to [[alcohol]].\n*'''[[Effect::Orgasm suppression]]''' - At higher doses, rather than reducing sensitivity, phenibut has a propensity to cause spontaneous motor control loss when nearing orgasm.\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Stomach cramps]]'''- This effect is more commonly reported with the hydrochloric acid form (phenibut HCl).\n*'''[[Effect::Diarrhea]]''' - This effect is uncommon, and mostly occurs on higher doses.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Headaches]]''' - Moderate to high doses can induce a mild headache many hours after dosing.\n*'''[[Effect::Muscle cramps]]''' - Muscle cramps and joint pain are sometimes accompanied at high doses.\n*'''[[Effect::Difficulty urinating]]''' - This effect generally only occurs after frequent usage.\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Temperature regulation suppression]]'''\n*'''[[Effect::Pupil dilation]]''' - This effect is common at high doses. \n*'''[[Effect::Appetite enhancement]]''' - This effect is uncommon and inconsistently produced. \n\n}}\n{{effects/visual|\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and [[hypnagogia]] during heavy dose \"nodding\" which results in dream-like states and up to level 3 [[Lucid_dreaming#Internally_sourced_sensory_input|imagery]]. This may be accompanied by ill-defined [[geometry]].\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - Phenibut has medium to strong anxiolytic effects, equivalent to alcohol but generally less powerful than [[benzodiazepines]].\n*'''[[Effect::Disinhibition]]''' - Phenibut has strong disinhibiting effects comparable to that of higher doses of [[alcohol]], [[benzodiazepines]], or [[GHB]].\n*'''[[Effect::Cognitive euphoria]]''' - This effect is more pronounced than that of [[alcohol]] and [[benzodiazepines]], most likely due to more clear-headed and stimulative nature of phenibut.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - Phenibut has been reported to produce prosocial and mild entactogenic effects which, although much weaker than that of traditional [[entactogens]] such as [[MDMA]], are prominent and well-defined even at common doses.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - Lower doses of phenibut can enhance focus and concentration. This effect typically reverses as the dose is increased. \n*'''[[Effect::Analysis suppression]]''' - High doses will usually induce a state of mild stupor and confusion.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Increased music appreciation]]''' \n*'''[[Effect::Compulsive redosing]]'''\n\n}}\n{{effects/aftereffects|\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiolytic]] substances like phenibut. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While phenibut can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feel \"groggy\" or \"dull\" for up to a few hours if not longer.\n*'''[[Effect::Depression]]''' - A low mood can be experienced as an after-effect of high or frequent dosing.\n*'''[[Effect::Depersonalization]]''' - Feelings of mild to strong depersonalization may present themselves after phenibut usage, particularly when it is taken frequently at higher doses. \n*'''[[Effect::Dream potentiation]]''' - This is caused by phenibut's REM sleep suppressing activity, resulting in REM rebound upon cessation of dosing.\n}}\n}}\n===Experience reports===\nThere are currently {{#ask:[[Category:Phenibut]][[Category:Experience]] | format=count}} experience reports which describe the effects of this compound in our [[experience index]].\n{{#ask: [[Category:SUBSTANCE]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Smarts_Phenibut.shtml Erowid Experience Vaults: Phenibut]\n\n==Toxicity and harm potential==\n{{toxicity}}\nPhenibut has a [[Toxicity::low toxicity]] relative to dose. However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]], [[benzodiazepines]] or [[opioids]]]].\n\nPhenibut hydrochloride is highly caustic and in sensitive users can cause intestinal discomfort and [[diarrhea]] with some lower digestive tract bleeding.{{citation needed}}\n\nDue to the extremely long come up period relative to other substances, some users may experience an urge to redose out of the belief that it is weak or not working. This should be avoided to prevent overdose.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nPhenibut is [[Addiction potential::moderately physically and psychologically addictive]], although this usually only occurs with heavy abuse of the substance.\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. \nAfter cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. \nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction. Withdrawal symptoms include severe [[anxiety]], nervousness, hallucinations, tremors, agitation, [[dizziness]], tension, irritation, [[increased heart rate|rapid heartbeat]], [[physical fatigue|fatigue]], [[appetite suppression|loss of appetite]], [[nausea]], vomiting, [[psychosis]], and [[insomnia]].<ref name=\"three\" />\n\nPhenibut produces cross-tolerance with [[Cross-tolerance::all [[GABA]]genic depressants]], meaning that after its consumption, depressants will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2M2B]], [[alcohol]],<ref>{{cite journal | vauthors=((Koski, A.)), ((Ojanpera, I.)), ((Vuori, E.)) | journal=Alcoholism: Clinical and Experimental Research | title=Alcohol and Benzodiazepines in Fatal Poisonings | volume=26 | issue=7 | pages=956–959 | date= July 2002 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2002.tb02627.x | issn=0145-6008 | doi=10.1111/j.1530-0277.2002.tb02627.x}}</ref> [[benzodiazepines]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If a sudden loss of consciousness occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  Phenibut is reported to enhance the positive effects of [[stimulants]] as well as reduce jitteriness and anxiety.<ref>{{Citation | title=The Drug Classroom - Phenibut: Combinations | url=https://thedrugclassroom.com/video/phenibut/}}</ref> However, this combination can be dangerous due to the risk of excessive intoxication. Stimulants mask the [[sedation|sedative]] effects of phenibut; once the stimulant wears off, the depressant effects of phenibut will be significantly increased, leading to intensified [[disinhibition]] as well as [[Phenibut#Subjective effects|other effects]]. If combined, one should strictly limit themselves to a certain dose of phenibut prior to stimulant consumption and not redose. This combination can also potentially result in significant dehydration.\n\n==Legal status==\n\n*'''Australia''': Phenibut is a schedule 9 substance in Australia as of February 1st 2018, meaning it is illegal to possess, import, supply or manufacture.{{citation needed}}\n*'''Canada''': Phenibut is not a controlled substance in Canada, meaning it is legal to possess without any sort of license or prescription. {{citation needed}}\n*'''Germany''': Phenibut may be controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019. <ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|access-date=December 28, 2019|work=Bundesgesetzblatt Jahrgang 2019 Teil I|publication-date=July 17, 2019|language=de}}</ref> If this law applies to Phenibut remains unclear.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref><ref>[https://www.ift.de/fileadmin/user_upload/Literatur/Berichte/Kraus_et_al_2020_NpSG-Abschlussbericht.pdf ''Evaluation der Auswirkungen des Neue-psychoaktive-Stoffe-Gesetzes  (NpSG): Abschlussbericht.'']</ref>\n*'''Switzerland''': Phenibut is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Phenibut is not a controlled substance in the United Kingdom. It'' may'' be illegal to produce, supply, or import this drug under the Psychoactive Substance Act 2016, which applies a blanket restriction on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products\".<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States''': Phenibut is not a controlled substance in the United States, meaning it is federally legal to possess without any sort of license or prescription.<ref name=\"eleven\">{{Citation | title=Erowid Phenibut Vault: Legal Status | url=https://erowid.org/smarts/phenibut/phenibut_law.shtml}}</ref>Phenibut is a Schedule II controlled substance in Alabama as of November 21st, 2021.<ref>Alabama List of Controlled Substances<nowiki/>https://www.alabamapublichealth.gov/blog/assets/controlledsubstanceslist.pdf</ref> In 2023 the FDA made Phenibut containing supplements illegal to produce and sell. <ref>https://www.fda.gov/food/information-select-dietary-supplement-ingredients-and-other-substances/phenibut-dietary-supplements</ref>\n*'''Italy''': Phenibut is a Schedule 1 controlled substance.<ref>[http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf Tabella 1](PDF) (in Italian). Ministero della Salute [Ministry of Health]. p.19. Retrieved November 24, 2020.</ref>\n*'''Latvia''': Phenibut is an unscheduled prescription drug, marketed as \"Noofen\".<ref>https://dati.zva.gov.lv/zalu-registrs/?iss=1&q=Phenibutum Database of licensed phenibut medicines and their legal status under the State Agency of Medicines of the Republic of Latvia. ''Retrieved August 26, 2023.''</ref><ref>https://likumi.lv/ta/en/en/id/50539 Active Latvian law regarding scheduled and banned substances. ''Retrieved August 26, 2023.''</ref>\n*'''Czechia''': Phenibut is a Schedule 4 controlled substance.<ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressant]]\n*[[Gabapentinoid]]\n*[[GABA]]\n*[[F-Phenibut]]\n*[[Gabapentin]]\n*[[Pregabalin]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Phenibut Phenibut (Wikipedia)]\n*[https://www.erowid.org/smarts/phenibut/ Phenibut (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2378 Phenibut (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Nootropic]]\n[[Category:Gabapentinoid]]\n\n{{#set:Featured=true}}"
+}

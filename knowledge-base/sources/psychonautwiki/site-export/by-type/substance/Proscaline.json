@@ -1,0 +1,294 @@
+{
+ "id": "psychonautwiki:13384",
+ "type": "substance",
+ "title": "Proscaline",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Proscaline",
+  "pageid": 13384,
+  "last_edited": "2021-05-29T21:01:14Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Phenethylamine",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/Proscaline",
+ "substance_box": {
+  "names": {
+   "common": "Proscaline",
+   "substitutive": "4-propyloxy-3,5-dimethoxyphenethylamine",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Substituted phenethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "15 - 30 mg",
+    "common": "30 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "8 - 12 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "3 - 5 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Proscaline"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Substituted phenethylamine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "15"
+   ],
+   "Oral max light dose": [
+    "30"
+   ],
+   "Oral min common dose": [
+    "30"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Proscaline.svg",
+   "clean": "File:Proscaline.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Proscaline]]",
+   "clean": "Proscaline"
+  },
+  "NameSubstitution": {
+   "raw": "4-propyloxy-3,5-dimethoxyphenethylamine",
+   "clean": "4-propyloxy-3,5-dimethoxyphenethylamine"
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted phenethylamine|Phenethylamine]]",
+   "clean": "Substituted phenethylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::15]] - [[Oral max light dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::30]] - [[Oral max common dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "8 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "30 - 60 minutes",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "3 - 5 hours",
+   "clean": "3 - 5 hours"
+  }
+ },
+ "plain_text": "4-Propyloxy-3,5-dimethoxyphenethylamine (also known as proscaline) is a lesser-known psychedelic substance of the phenethylamine class. It is a structurally related to mescaline and belongs to a series of mescaline analogs that include isoproscaline, escaline and allylescaline. \n\nThe synthesis of proscaline was first published by David E. Nichols in 1977. Around the same time, Alexander Shulgin sampled and evaluated the chemical at doses up to 60 mg, estimating its potency as five times that of mescaline.  Shulgin later documented his findings in the 1991 book PiHKAL (\"Phenethylamines I Have Known and Loved\"). Proscaline appeared for sale on the online research chemical market in the 2010s.\n\nSubjective effects are similar to mescaline and include open and closed-eye visuals, time distortion, enhanced introspection, conceptual thinking, euphoria, and ego loss. However, it is reported to produce significantly less visual effects, euphoria, and ego loss than mescaline. As a result of its limited recreational potential, demand for the substance is relatively limited. It may have potential utility as an adjunct in psychedelic therapy, although this has yet to be explored. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of proscaline. It is assumed to have a risk profile similar to mescaline, although this has not been confirmed in studies. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nProscaline, or 3,5-dimethoxy-4-propyloxyphenethylamine, is a substituted phenethylamine featuring a phenyl ring bound to an amino -NH2 group through an ethyl chain. Proscaline contains two methoxy functional groups CH3O- which are attached to carbons R3 and R5 as well as an additional propyloxy group at carbon R4 of the phenyl ring. Proscaline is the 4-propyloxy analog of mescaline, which means it has one additional carbon at the alkyloxy group than escaline, another closely related mescaline analog.\n\nPharmacology\n\nProscaline's psychedelic effects are believed to come from its efficacy at the 5-HT2A receptor as a partial agonist. However, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Proscaline\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational proscaline use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. Anecdotal evidence from people who have tried proscaline within the psychedelic community suggests that there are no negative health effects attributed to trying this drug, but nothing can be completely guaranteed.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nProscaline is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of proscaline is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). proscaline presents cross-tolerance with all psychedelics, meaning that after the consumption of proscaline all psychedelics will have a reduced effect.\n\nLegal status\n\n*Germany: Proscaline is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable. The legislator considers it possible that orders of proscaline are punishable as an incitement to place it on the market.\n*Switzerland: Proscaline can be considered a controlled substance as a defined derivative of Phenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.\n*United Kingdom: Proscaline is a Class A controlled substance as it is covered by the phenethylamine derivatives clause of the Misuse of Drugs Act of 1971.\n*United States: Proscaline is uncontrolled in the United States.\n\nSee also\n\n*Responsible use\n*Psychoactive substance index\n*Psychedelics\n*Phenethylamines\n*Mescaline\n*Escaline\n\nExternal links\n\n*Proscaline (Wikipedia)\n*Proscaline (PiHKAL / Isomer Design)\n*Proscaline (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:Phenethylamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Proscaline}}\n'''4-Propyloxy-3,5-dimethoxyphenethylamine''' (also known as '''proscaline''') is a lesser-known [[Psychoactive class::psychedelic]] substance of the [[Chemical class::phenethylamine]] class.<ref name=\"PiHKAL\">{{cite book|title=PiHKAL: A Chemical Love Story|title-link=PiHKAL|author-link1=Alexander Shulgin|author1=Alexander Shulgin|author2=Ann Shulgin|year=1991|publisher=Transform Press|location=United States|isbn=0963009605|oclc=1166889264|chapter-url=https://erowid.org/library/books_online/pihkal/pihkal140.shtml|chapter=#140. P}}</ref> It is a structurally related to [[mescaline]] and belongs to a series of mescaline analogs that include [[isoproscaline]], [[escaline]] and [[allylescaline]]. \n\nThe synthesis of proscaline was first published by David E. Nichols in 1977.<ref>{{cite journal|title=Lipophilicity and serotonin agonist activity in a series of 4-substituted mescaline analogs|last1=Nichols|first1=D. E.|author-link1=David E. Nichols|last2=Dyer|first2=D. C.|year=1977|volume=20|issue=2|pages=299-301|doi=10.1021/jm00212a022|pmid=836502|journal=Journal of Medicinal Chemistry|issn=0022-2623|eissn=1520-4804|oclc=39480771}}</ref> Around the same time, [[Alexander Shulgin]] sampled and evaluated the chemical at doses up to 60 mg, estimating its potency as five times that of [[mescaline]].<ref>{{cite book|author=Alexander Shulgin|author-link=Alexander Shulgin|title=Pharmacology Notes II (The Shulgin Lab Books)|publisher=Erowid|url=https://erowid.org/library/books_online/shulgin_labbooks/shulgin_pharmacology_notebook9_searchable.pdf|page=209|place=Lafayette, CA|year=1980}}</ref>  Shulgin later documented his findings in the 1991 book [[PiHKAL]] (\"Phenethylamines I Have Known and Loved\"). Proscaline appeared for sale on the online research chemical market in the 2010s.{{citation needed}}\n\n[[Subjective effects]] are similar to [[mescaline]] and include [[geometry|open and closed-eye visuals]], [[time distortion]], [[introspection|enhanced introspection]], [[conceptual thinking]], [[euphoria]], and [[ego loss]]. However, it is reported to produce significantly less visual effects, euphoria, and ego loss than mescaline. As a result of its limited recreational potential, demand for the substance is relatively limited. It may have potential utility as an adjunct in psychedelic therapy, although this has yet to be explored. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of proscaline. It is assumed to have a risk profile [[Mescaline#Toxicity and harm potential|similar to mescaline]], although this has not been confirmed in studies. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nProscaline, or 3,5-dimethoxy-4-propyloxyphenethylamine, is a substituted phenethylamine featuring a phenyl ring bound to an amino -NH2 group through an ethyl chain. Proscaline contains two methoxy functional groups CH3O- which are attached to carbons R3 and R5 as well as an additional propyloxy group at carbon R4 of the phenyl ring. Proscaline is the 4-propyloxy analog of mescaline, which means it has one additional carbon at the alkyloxy group than [[escaline]], another closely related mescaline analog.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nProscaline's [[psychedelic]] effects are believed to come from its efficacy at the [[Serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] as a [[Agonist#Agonists|partial agonist]]. However, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain elusive.\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous tactile sensations]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Pupil dilation]]'''\n\n}}\n\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Brightness alteration]]'''\n*'''[[Effect::Diffraction]]'''\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Proscaline.shtml Erowid Experience Vaults: Proscaline]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational proscaline use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. Anecdotal evidence from people who have tried proscaline within the [[psychedelic]] community suggests that there are [[Toxicity::no negative health effects attributed to trying this drug]], but nothing can be completely guaranteed.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nProscaline is [[Addiction potential::not habit-forming]], and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of proscaline is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::7 days]] to be back at baseline (in the absence of further consumption). proscaline presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of proscaline all psychedelics will have a reduced effect.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Proscaline is controlled under the NpSG<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> (''New Psychoactive Substances Act'') as of November 26, 2016.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|pages=2615-2622|issn=0341-1095|oclc=1004462279|publisher=Bundesanzeiger Verlag|date=November 21, 2016|publication-date=November 25, 2016|language=de|work=Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55}}</ref> Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__3.html|title=§ 3 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> The legislator considers it possible that orders of proscaline are punishable as an incitement to place it on the market.<ref>{{cite web|url=http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf|title=Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|page=20|date=May 30, 2016|id=Drucksache 18/8579|publisher=Deutscher Bundestag|language=de}}</ref>\n*'''Switzerland''': Proscaline can be considered a controlled substance as a defined derivative of Phenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Proscaline is a Class A controlled substance as it is covered by the phenethylamine derivatives clause of the Misuse of Drugs Act of 1971.{{citation needed}}\n*'''United States''': Proscaline is uncontrolled in the United States.\n\n==See also==\n\n*[[Responsible use]]\n*[[Psychoactive substance index]]\n*[[Psychedelics]]\n*[[Phenethylamines]]\n*[[Mescaline]]\n*[[Escaline]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Proscaline Proscaline (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=140 Proscaline (PiHKAL / Isomer Design)]\n*[http://www.bluelight.org/vb/threads/392410-The-Big-amp-Dandy-Proscaline-Thread Proscaline (Bluelight)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:Phenethylamine]]\n[[Category:Research chemical]]"
+}

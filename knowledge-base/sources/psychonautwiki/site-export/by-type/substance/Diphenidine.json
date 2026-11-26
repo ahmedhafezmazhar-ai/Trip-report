@@ -1,0 +1,592 @@
+{
+ "id": "psychonautwiki:7572",
+ "type": "substance",
+ "title": "Diphenidine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Diphenidine",
+  "pageid": 7572,
+  "last_edited": "2026-02-18T03:39:25Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Diarylethylamine",
+  "Dissociative",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/Diphenidine",
+ "substance_box": {
+  "names": {
+   "common": "Diphenidine",
+   "substitutive": "",
+   "systematic": "(±)-1-(1,2-Diphenylethyl)piperidine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Diarylethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "30 mg",
+    "light": "40 - 65 mg",
+    "common": "65 - 100 mg",
+    "strong": "100 - 130 mg",
+    "heavy": "> 130 mg",
+    "duration": "2 - 5 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "4 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "?? mg",
+    "light": "?? - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 55 mg",
+    "heavy": "> 55 mg",
+    "duration": "1 - 3 hours",
+    "onset": "30 - 90 seconds",
+    "peak": "0.5 - 2 hours",
+    "offset": "20 - 40 minutes",
+    "aftereffects": "2 - 5 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 80 mg",
+    "heavy": "80 mg +",
+    "duration": "5 - 7 hours",
+    "onset": "10 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Diphenidine"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Diarylethylamine"
+   ],
+   "Oral threshold dose": [
+    "30"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "65"
+   ],
+   "Oral min common dose": [
+    "65"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "130"
+   ],
+   "Oral heavy dose": [
+    "130"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "??"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "??"
+   ],
+   "Smoked max light dose": [
+    "20"
+   ],
+   "Smoked min common dose": [
+    "20"
+   ],
+   "Smoked max common dose": [
+    "40"
+   ],
+   "Smoked min strong dose": [
+    "40"
+   ],
+   "Smoked max strong dose": [
+    "55"
+   ],
+   "Smoked heavy dose": [
+    "55"
+   ],
+   "Smoked min total time": [
+    "1"
+   ],
+   "Smoked max total time": [
+    "3"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "30"
+   ],
+   "Smoked max onset time": [
+    "90"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "0.5"
+   ],
+   "Smoked max peak time": [
+    "2"
+   ],
+   "Smoked peak time units": [
+    "hours"
+   ],
+   "Smoked min offset time": [
+    "20"
+   ],
+   "Smoked max offset time": [
+    "40"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "2"
+   ],
+   "Smoked max afterglow time": [
+    "5"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Rectal threshold dose": [
+    "5"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "10"
+   ],
+   "Rectal max light dose": [
+    "20"
+   ],
+   "Rectal min common dose": [
+    "20"
+   ],
+   "Rectal max common dose": [
+    "40"
+   ],
+   "Rectal min strong dose": [
+    "40"
+   ],
+   "Rectal max strong dose": [
+    "80"
+   ],
+   "Rectal heavy dose": [
+    "80"
+   ],
+   "Rectal min total time": [
+    "5"
+   ],
+   "Rectal max total time": [
+    "7"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "10"
+   ],
+   "Rectal max onset time": [
+    "30"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of diphenidine",
+   "clean": "Molecular structure of diphenidine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Diphenidine.svg",
+   "clean": "File:Diphenidine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Diphenidine]]",
+   "clean": "Diphenidine"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(±)-1-(1,2-Diphenylethyl)piperidine",
+   "clean": "(±)-1-(1,2-Diphenylethyl)piperidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Diarylethylamine]]",
+   "clean": "Diarylethylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::30]] [[Oral dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::65]] mg",
+   "clean": "40 - 65 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::65]] - [[Oral max common dose::100]] mg",
+   "clean": "65 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::130]] mg",
+   "clean": "100 - 130 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "> [[Oral heavy dose::130]] mg",
+   "clean": "> 130 mg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 24 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::??]] [[Smoked dose units::mg]]",
+   "clean": "?? mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::??]] - [[Smoked max light dose::20]] mg",
+   "clean": "?? - 20 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::20]] - [[Smoked max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::40]] - [[Smoked max strong dose::55]] mg",
+   "clean": "40 - 55 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> [[Smoked heavy dose::55]] mg",
+   "clean": "> 55 mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1]] - [[Smoked max total time::3]] [[Smoked total time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::30]] - [[Smoked max onset time::90]] [[Smoked onset time units::seconds]]",
+   "clean": "30 - 90 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::0.5]] - [[Smoked max peak time::2]] [[Smoked peak time units::hours]]",
+   "clean": "0.5 - 2 hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::20]] - [[Smoked max offset time::40]] [[Smoked offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::2]] - [[Smoked max afterglow time::5]] [[Smoked afterglow time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "[[Rectal threshold dose::5]] [[Rectal dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::10]] - [[Rectal max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::20]] - [[Rectal max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::40]] - [[Rectal max strong dose::80]] mg",
+   "clean": "40 - 80 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::80]] mg +",
+   "clean": "80 mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::5]] - [[Rectal max total time::7]] [[Rectal total time units::hours]]",
+   "clean": "5 - 7 hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::10]] - [[Rectal max onset time::30]] [[Rectal onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Diphenidine (also known as DPD, DND, 1,2-DEP, and occasionally \"DPH\") is a lesser-known novel dissociative substance of the diarylethylamine class. It is structurally similar to methoxphenidine (MXP) and ephenidine. It is classified as an NMDA receptor antagonist.\n\nThe original synthesis of diphenidine was first reported in 1924. However, it was not selected for further development. Shortly after the 2013 UK arylcyclohexylamine ban, diphenidine and the related compound methoxphenidine became available on the grey market. In 2014, there were two cases of diphenidine being sold in combination with synthetic cannabinoids in Japanese herbal incense blends, one of which was implicated in a fatal overdose.\n\nSubjective effects include stimulation, motor control loss, pain relief, internal hallucinations, conceptual thinking, euphoria, and dissociation. Dissociation is a complex mental state characterized by perceptual distortions and feelings of detachment from the environment and one's self. Anecdotal reports describe high doses of diphenidine producing \"bizarre somatosensory phenomena and transient anterograde amnesia.\" The effects of diarylethylamines share similarities with arylcyclohexylamines like ketamine and phencyclidine (PCP), as well as dextromethorphan (DXM).\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of diphenidine in humans, and it has an extremely limited history of human usage. Some reports suggest that it may pose different toxicity risks than traditional dissociatives. It is also likely to have moderate to high abuse potential. As a result, it is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nThe synthesis of diphenidine was first reported in 1924. It employed a nitrile displacement reaction analogous to the one that would later be used to discover phencyclidine in 1956. Shortly after the 2013 UK ban on arylcyclohexylamines, diphenidine and the related compound methoxphenidine became available on the grey market.\n\nIn 2014, there were two cases of diphenidine being sold in combination with synthetic cannabinoids in Japanese herbal incense blends. One herbal incense blend was found to contain diphenidine and 5-fluoro-AB-PINACA at concentrations of 289 mg/g and 55.5 mg/g, respectively. Another product containing AB-CHMINACA, 5F-AMB, and diphenidine was implicated in a fatal overdose.\n\nNames\n\nDiphenidine is sometimes referred to as \"DPH\" in scientific studies despite this name already being in use and widely accepted as meaning diphenhydramine, an unrelated substance.\n\nChemistry\n\nthumb|80px|right|Generic structure of a piperdine molecule.\nDiphenidine is a molecule of the diarylethylamine class. The basic skeleton of diphenidine is a phenethylamine with a substituted Rα in phenyl ring. At the terminals of the piperidine ring, an amino group is attached through phenethylamine chain. Hence, diphenidine belongs to the piperidine dissociative class of compounds. Diphenidine is structurally analogous to MXP, lacking a 2-methoxy substitution on one of its phenyl rings.\n\nPharmacology\n\nDiphenidine acts as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually the famous “hole”.\n\nAlthough vendors of diphenidine have stated the compound acts as a dopamine-reuptake inhibitor and a serotonin reuptake inhibitor with µ-opioid affinity and typical dissociative effects, to date diphenidine has not been screened for affinity at the dopamine transporter. If this is indeed the case, however, it provides an explanation for its euphoric and often stimulating effects.\n\nDiphenidine and related diarylethylamines have been studied in vitro as treatments for neurotoxic injury. Diphenidine may be a stronger NMDA receptor antagonist for neurogenesis, neurological repair and neuroprotection than other more common NMDA receptor antagonistic dissociatives such as ketamine, dextromethorphan, PCP analogs, Iboga and methoxetamine.\n\nSubjective effects\n\nThe general head space of diphenidine is often described as euphoric and clear-headed in comparison to that of ketamine and reminiscent of ephenidine at lower dosages. Moderate or higher dosages can sometimes unwillingly turn very confusing and dysphoric without any apparent cause.\n\nDiphenidine is reported to have a much more rapid onset and lower half-life when vaporized or smoked. When consumed this way, it is a suspected to be carcinogenic when excess heat is used. Some user reports have concluded that vaporization requires as low as 20% of what would be a common oral dose for that person.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Diphenidine\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational diphenidine use do not appear to have been studied in any scientific context and the exact toxic dosage is unknown. This is because diphenidine has very little history of human usage. \n\nSome anecdotal reports suggest diphenidine may increase the risk of mania and psychosis. This is common with many dissociatives, particularly with those that provide stimulation such as PCP.\n\nIt has been reported that regular use can lead to increased blood pressure and rapid heart rate.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other NMDA receptor antagonists, the chronic use of diphenidine can be considered moderately addictive with a high potential for abuse. It is likely capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if one suddenly stops their usage.\n\nTolerance to many of the effects of diphenidine develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Diphenidine presents cross-tolerance with all dissociatives, meaning that after the consumption of diphenidine all dissociatives will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\nDiphenidine is currently a legal grey area drug worldwide and is easily accessible  through the use of online research chemical vendors. However, this does not guarantee anyone to be immune from legal prosecution should they be found in possession of this substance as the legality is likely to vary from country to country.\n\n*Canada: As of March 2016, MT-45 and its analogues, one of which being Diphenidine, are Schedule I controlled substances. Possession without legal authority can result in maximum 7 years imprisonment. Only those with a law enforcement agency, person with an exemption permit or institutions with Minister's authorization may possess the drug.\n*Switzerland: Diphenidine is a controlled substance specifically named under Verzeichnis E.\n*Turkey: Diphenidine is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n*United States: Diphenidine is a schedule II substance and is illegal without a prescription.\n\nSee also\n\n*Responsible use\n*Dissociative\n*Diarylethylamine\n*Methoxphenidine\n*Ephenidine\n*Methoxetamine\n\nExternal links\n\n*Diphenidine (Wikipedia)\n*Diphenidine (Isomer Design)\n\nCommunity\n\n*The Big & Dandy Diphenidine Thread (Bluelight)\n\nLiterature\n\n*Wallach, J., Kang, H., Colestock, T., Morris, H., Bortolotto, Z. A., Collingridge, G. L., ... & Adejare, A. (2016). Pharmacological investigations of the dissociative ‘legal highs’ diphenidine, methoxphenidine and analogues. PLoS One, 11(6), e0157021. https://doi.org/10.1371/journal.pone.0157021\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Diarylethylamine\nCategory:Dissociative\nCategory:Research chemical",
+ "wikitext": "{{distinguish2|[[Diphenhydramine]] (also known as \"DPH\")}}\n{{SummarySheet}}\n{{SubstanceBox/Diphenidine}}\n'''Diphenidine''' (also known as '''DPD''', '''DND''', '''1,2-DEP''', and occasionally \"[[DPH]]\") is a lesser-known novel [[psychoactive class::dissociative]] substance of the [[chemical class::diarylethylamine]] class. It is structurally similar to [[methoxphenidine]] (MXP) and [[ephenidine]]. It is classified as an [[NMDA receptor antagonist]].<ref name=\"wallach\">{{cite journal | vauthors=((Wallach, J.)), ((Kang, H.)), ((Colestock, T.)), ((Morris, H.)), ((Bortolotto, Z. A.)), ((Collingridge, G. L.)), ((Lodge, D.)), ((Halberstadt, A. L.)), ((Brandt, S. D.)), ((Adejare, A.)) | veditors=((Lee, J.)) | journal=PLOS ONE | title=Pharmacological Investigations of the Dissociative ‘Legal Highs’ Diphenidine, Methoxphenidine and Analogues | volume=11 | issue=6 | pages=e0157021 | date=17 June 2016 | url=https://dx.plos.org/10.1371/journal.pone.0157021 | issn=1932-6203 | doi=10.1371/journal.pone.0157021}}</ref>\n\nThe original synthesis of diphenidine was first reported in 1924.{{citation needed}} However, it was not selected for further development. Shortly after the 2013 UK [[arylcyclohexylamine]] ban, diphenidine and the related compound [[methoxphenidine]] became available on the grey market. In 2014, there were two cases of diphenidine being sold in combination with synthetic cannabinoids in Japanese herbal incense blends, one of which was implicated in a fatal overdose.\n\n[[Subjective effects]] include [[stimulation]], [[motor control loss]], [[pain relief]], [[internal hallucinations]], [[conceptual thinking]], [[euphoria]], and [[disconnective effects|dissociation]]. Dissociation is a complex mental state characterized by perceptual distortions and feelings of detachment from the environment and one's self. Anecdotal reports describe high doses of diphenidine producing \"''bizarre somatosensory phenomena and transient anterograde amnesia''.\"<ref>{{cite journal | vauthors=((Morris, H.)), ((Wallach, J.)) | journal=Drug Testing and Analysis | title=From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs: PCP to MXE | volume=6 | issue=7–8 | pages=614–632 | date= July 2014 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.1620 | issn=19427603 | doi=10.1002/dta.1620}}</ref> The effects of diarylethylamines share similarities with [[arylcyclohexylamines]] like [[ketamine]] and [[phencyclidine]] ('''PCP'''), as well as [[dextromethorphan]] ('''DXM''').\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of diphenidine in humans, and it has an extremely limited history of human usage. Some reports suggest that it may pose different toxicity risks than traditional dissociatives. It is also likely to have moderate to high abuse potential. As a result, it is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{historyStub}}\nThe synthesis of diphenidine was first reported in 1924. It employed a nitrile displacement reaction analogous to the one that would later be used to discover [[phencyclidine]] in 1956. Shortly after the 2013 UK ban on [[arylcyclohexylamines]], diphenidine and the related compound [[methoxphenidine]] became available on the grey market.\n\nIn 2014, there were two cases of diphenidine being sold in combination with synthetic [[cannabinoids]] in Japanese herbal incense blends. One herbal incense blend was found to contain diphenidine and [[5-fluoro-AB-PINACA]] at concentrations of 289 mg/g and 55.5 mg/g, respectively.<ref>{{cite journal | vauthors=((Wurita, A.)), ((Hasegawa, K.)), ((Minakata, K.)), ((Watanabe, K.)), ((Suzuki, O.)) | journal=Forensic Toxicology | title=A large amount of new designer drug diphenidine coexisting with a synthetic cannabinoid 5-fluoro-AB-PINACA found in a dubious herbal product | volume=32 | issue=2 | pages=331–337 | date=1 August 2014 | url=https://doi.org/10.1007/s11419-014-0240-y | issn=1860-8973 | doi=10.1007/s11419-014-0240-y}}</ref> Another product containing AB-CHMINACA, 5F-AMB, and diphenidine was implicated in a fatal overdose.<ref>{{cite journal | vauthors=((Hasegawa, K.)), ((Wurita, A.)), ((Minakata, K.)), ((Gonmori, K.)), ((Nozawa, H.)), ((Yamagishi, I.)), ((Watanabe, K.)), ((Suzuki, O.)) | journal=Forensic Toxicology | title=Postmortem distribution of AB-CHMINACA, 5-fluoro-AMB, and diphenidine in body fluids and solid tissues in a fatal poisoning case: usefulness of adipose tissue for detection of the drugs in unchanged forms | volume=33 | issue=1 | pages=45–53 | date=1 January 2015 | url=https://doi.org/10.1007/s11419-014-0245-6 | issn=1860-8973 | doi=10.1007/s11419-014-0245-6}}</ref>\n\n===Names===\nDiphenidine is sometimes referred to as \"DPH\" in scientific studies despite this name already being in use and widely accepted as meaning [[diphenhydramine]], an unrelated substance.\n\n==Chemistry==\n[[File:80px-Piperidin.svg.png|thumb|80px|right|Generic structure of a piperdine molecule.]]\nDiphenidine is a molecule of the diarylethylamine class. The basic skeleton of diphenidine is a phenethylamine with a substituted Rα in phenyl ring. At the terminals of the piperidine ring, an amino group is attached through phenethylamine chain. Hence, diphenidine belongs to the piperidine dissociative class of compounds. Diphenidine is structurally analogous to [[MXP]], lacking a 2-methoxy substitution on one of its phenyl rings.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nDiphenidine acts as an [[NMDA receptor antagonist]].<ref>{{cite journal | vauthors=((Berger, M. L.)), ((Schweifer, A.)), ((Rebernik, P.)), ((Hammerschmidt, F.)) | journal=Bioorganic & Medicinal Chemistry | title=NMDA receptor affinities of 1,2-diphenylethylamine and 1-(1,2-diphenylethyl)piperidine enantiomers and of related compounds | volume=17 | issue=9 | pages=3456–3462 | date=1 May 2009 | url=https://www.sciencedirect.com/science/article/pii/S0968089609002624 | issn=0968-0896 | doi=10.1016/j.bmc.2009.03.025}}</ref><ref>{{cite journal | vauthors=((Wallach, J.)), ((Kavanagh, P. V.)), ((McLaughlin, G.)), ((Morris, N.)), ((Power, J. D.)), ((Elliott, S. P.)), ((Mercier, M. S.)), ((Lodge, D.)), ((Morris, H.)), ((Dempster, N. M.)), ((Brandt, S. D.)) | journal=Drug Testing and Analysis | title=Preparation and characterization of the ‘research chemical’ diphenidine, its pyrrolidine analogue, and their 2,2-diphenylethyl isomers: Characterization of diphenylethylamines | volume=7 | issue=5 | pages=358–367 | date= May 2015 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.1689 | issn=19427603 | doi=10.1002/dta.1689}}</ref> NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually the famous “[[Visual_disconnection#Holes.2C_spaces_and_voids|hole]]”.\n\nAlthough vendors of diphenidine have stated the compound acts as a [[dopamine]]-[[Reuptake Inhibitor|reuptake inhibitor]] and a [[serotonin]] [[reuptake inhibitor]] with [[Opioid receptors|µ-opioid]] affinity and typical [[Dissociatives#Subjective effects|dissociative]] effects, to date diphenidine has not been screened for affinity at the dopamine transporter. If this is indeed the case, however, it provides an explanation for its euphoric and often stimulating effects.\n\nDiphenidine and related [[diarylethylamines]] have been studied in vitro as treatments for neurotoxic injury.<ref>{{Citation | vauthors=((Gray, N. M.)), ((Cheng, B. K.)) | title=1,2-diarylethylamines for treatment of neurotoxic injury | url=https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0346791&KC=&FT=E&locale=en_EP}}</ref> Diphenidine may be a stronger NMDA receptor antagonist for neurogenesis, neurological repair and neuroprotection than other more common NMDA receptor antagonistic dissociatives such as [[ketamine]], [[dextromethorphan]], [[PCP]] analogs, [[Iboga]] and [[methoxetamine]].\n\n==Subjective effects==\nThe general head space of diphenidine is often described as euphoric and clear-headed in comparison to that of [[ketamine]] and reminiscent of [[ephenidine]] at lower dosages. Moderate or higher dosages can sometimes unwillingly turn very confusing and dysphoric without any apparent cause.\n\nDiphenidine is reported to have a much more rapid onset and lower half-life when vaporized or smoked. When consumed this way, it is a suspected to be carcinogenic when excess heat is used. Some user reports have concluded that vaporization requires as low as 20% of what would be a common oral dose for that person.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]'''\n*'''[[Effect::Perception of bodily lightness]]''' - This creates the sensation that the body is floating and has become entirely weightless. This effect is strangely stimulating and encourages physical activities at low to moderate dosages by making the body feel light and effortless to move.\n*'''[[Effect::Changes in felt bodily form]]'''\n*'''[[Effect::Spatial disorientation]]\n*'''[[Effect::Spontaneous bodily sensations]]''' - The diphenidine \"body high\" is a sharp, pleasurable tingling sensation which is location specific to the hands, feet and head.\n*'''[[Effect::Tactile suppression]]''' - This partially to entirely suppresses one's own sense of touch, creating feelings of numbness within the extremities. It is responsible for the anaesthetic properties of this substance.\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Increased salivation]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Motor control loss]]''' - A loss of gross and fine motor control alongside of balance and coordination is prevalent within diphenidine and becomes especially strong at higher dosages. This means that one should be sitting down before the onset (unless one is experienced) in case of falling over and injuring oneself.\n*'''[[Effect::Gait alteration]]'''\n*'''[[Effect::Physical euphoria|Euphoria]]''' - This results in feelings of physical euphoria which range between mild pleasure to moderate all-encompassing bliss.\n*'''[[Effect::Dizziness]]''' - Although uncommon, some people report dizziness under the influence of diphenidine.\n*'''[[Effect::Nausea]]''' - It's worth noting that high dose diphenidine trips can sometimes result in nausea and vomiting at the peak of the trip. For most people, this is surprisingly not as unpleasant as they would initially expect due to the accompanying detachment from the physical senses.\n*'''[[Effect::Orgasm suppression]]''' & '''[[Effect::Orgasm enhancement]]''' - Orgasm enhancement can sometimes also be present, even at higher doses, although this effect is not reliable.\n\n}}\n{{effects/visual|\n====Suppression====\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Double vision]]''' - This component is prevalent at moderate to heavy dosages and makes reading impossible unless one closes an eye.\n*'''[[Effect::Pattern recognition suppression]]''' - This effect generally occurs at higher dosages and makes one unable to recognize and interpret perceivable visual data.\n*'''[[Effect::Frame rate suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry produced by diphenidine can be described as very dark and bland when compared to that of [[ketamine]] or [[DXM]] and often consists of many tiny interlocking and woven lines. It does not extend beyond level 4 and can be comprehensively described through its [[Visual_effects:_Geometry#Variations|variations]] as simplistic in complexity, algorithmic in style, synthetic in feel, unstructured in organization, dimly lit in lighting, multicoloured in scheme, glossy in shading, soft in edges, small in size, slow in speed, smooth in motion, equal in rounded and angular corners, immersive in depth and consistent in intensity.\n\n====Hallucinatory states====\nAt high dosages, diphenidine can produce a full range of high level hallucinatory states in a fashion that is less consistent and reproducible than that of many other commonly used [[psychedelic]]s. These effects include:\n\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  In comparison to other [[dissociative]]s, this effect can occur at heavy dosages, but is considerably less common than the same effect found within [[psychedelic]]s and [[deliriant]]s. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, fixed in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style.\n\n}}\n|{{effects/cognitive|\n The specific cognitive effects can be broken down into several separate subcomponents which are listed and described below:\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Creativity enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Thought deceleration]]\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis suppression]]\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Cognitive euphoria]]\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Increased libido]]''' - This is reported to be experienced at low to mid dosage ranges.\n}}\n{{effects/disconnective|\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Consciousness disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in the diphenidine's equivalent of the \"K-hole\" or more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory suppression]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Diphenidine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Diphenidine.shtml Erowid Experience Vaults: Diphenidine]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational diphenidine use do not appear to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because diphenidine has very little history of human usage. \n\nSome anecdotal reports suggest diphenidine may increase the risk of [[mania]] and [[psychosis]]. This is common with many dissociatives, particularly with those that provide stimulation such as [[PCP]].\n\nIt has been reported that regular use can lead to increased blood pressure and rapid heart rate.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other NMDA receptor antagonists, the chronic use of diphenidine can be considered [[Addiction potential::moderately addictive with a high potential for abuse]]. It is likely capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if one suddenly stops their usage.\n\nTolerance to many of the effects of diphenidine [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Diphenidine presents cross-tolerance with [[Cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of diphenidine all [[dissociative]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Dissos}}\n\n==Legal status==\nDiphenidine is currently a legal grey area drug worldwide and is easily accessible  through the use of online [[research chemical]] vendors. However, this does not guarantee anyone to be immune from legal prosecution should they be found in possession of this substance as the legality is likely to vary from country to country.\n\n*'''Canada:''' As of March 2016, MT-45 and its analogues, one of which being Diphenidine, are Schedule I controlled substances.<ref>{{Citation | vauthors=((Government of Canada, P. W. and G. S. C.)) | year=2016 | title=Canada Gazette – Regulations Amending the Food and Drug Regulations (Parts G and J — Lefetamine, AH-7921, MT-45 and W-18) | url=https://gazette.gc.ca/rp-pr/p2/2016/2016-06-01/html/sor-dors106-eng.html}}</ref> Possession without legal authority can result in maximum 7 years imprisonment. Only those with a law enforcement agency, person with an exemption permit or institutions with Minister's authorization may possess the drug.\n*'''Switzerland:''' Diphenidine is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Diphenidine is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2016/9712\">https://resmigazete.gov.tr/eskiler/2017/01/20170112-8.pdf</ref>\n*'''United Kingdom:''' It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States:''' Diphenidine is a schedule II substance and is illegal without a prescription.<ref>https://www.unodc.org/LSS/Substance/Details/7ee627dd-c3ed-42d2-b84f-81edef0d6466</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Dissociative]]\n*[[Diarylethylamine]]\n*[[Methoxphenidine]]\n*[[Ephenidine]]\n*[[Methoxetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Diphenidine Diphenidine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=639 Diphenidine (Isomer Design)]\n\n===Community===\n\n*[http://www.bluelight.org/vb/threads/668291-The-Big-amp-Dandy-Diphenidine-Thread The Big & Dandy Diphenidine Thread (Bluelight)]\n\n==Literature==\n\n*Wallach, J., Kang, H., Colestock, T., Morris, H., Bortolotto, Z. A., Collingridge, G. L., ... & Adejare, A. (2016). Pharmacological investigations of the dissociative ‘legal highs’ diphenidine, methoxphenidine and analogues. PLoS One, 11(6), e0157021. https://doi.org/10.1371/journal.pone.0157021\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n<references />\n{{#set:Featured=true}}\n\n[[Category:Diarylethylamine]]\n[[Category:Dissociative]]\n[[Category:Research chemical]]"
+}

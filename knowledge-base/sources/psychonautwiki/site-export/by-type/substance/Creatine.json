@@ -1,0 +1,299 @@
+{
+ "id": "psychonautwiki:12005",
+ "type": "substance",
+ "title": "Creatine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Creatine",
+  "pageid": 12005,
+  "last_edited": "2024-05-30T21:28:37Z"
+ },
+ "categories": [
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Creatine",
+ "substance_box": {
+  "names": {
+   "common": "Creatine, N-Carbamimidoyl-N-methylglycine, Methylguanidoacetic acid",
+   "substitutive": "",
+   "systematic": "2-[Carbamimidoyl(methyl)amino]acetic acid"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": ""
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.25 g",
+    "light": "1 - 5 g",
+    "common": "5 - 10 g",
+    "strong": "10 - 20 g",
+    "heavy": "20 g +",
+    "duration": "30 - 36 hours",
+    "onset": "30 - 90 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Creatine",
+    "N-Carbamimidoyl-N-methylglycine",
+    "Methylguanidoacetic acid"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "Oral threshold dose": [
+    "0.25"
+   ],
+   "Oral dose units": [
+    "g"
+   ],
+   "Oral min light dose": [
+    "1"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "20"
+   ],
+   "Oral heavy dose": [
+    "20"
+   ],
+   "Oral min total time": [
+    "30"
+   ],
+   "Oral max total time": [
+    "36"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of creatine",
+   "clean": "Molecular structure of creatine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Creatine.svg",
+   "clean": "File:Creatine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Creatine]], [[common name::N-Carbamimidoyl-N-methylglycine]], [[common name::Methylguanidoacetic acid]]",
+   "clean": "Creatine, N-Carbamimidoyl-N-methylglycine, Methylguanidoacetic acid"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-[Carbamimidoyl(methyl)amino]acetic acid",
+   "clean": "2-[Carbamimidoyl(methyl)amino]acetic acid"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.25]] [[Oral dose units::g]]",
+   "clean": "0.25 g"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1]] - [[Oral max light dose::5]] g",
+   "clean": "1 - 5 g"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] g",
+   "clean": "5 - 10 g"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::20]] g",
+   "clean": "10 - 20 g"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::20]] g +",
+   "clean": "20 g +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::30]] - [[Oral max total time::36]] [[Oral total time units::hours]]",
+   "clean": "30 - 36 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Creatine (and its derivatives hydrochloride, malate, nitrate, et al.) is an amino acid with nootropic effects that occurs naturally within the body of  vertebrates and in some foods such as meat, eggs, and fish. It was identified in 1832 when Michel Eugène Chevreul isolated it from the basified water-extract of skeletal muscle. He later named the crystallized precipitate after the Greek word for meat, κρέας (kreas). Early analysis showed that human blood is approximately 1% creatine.\n\nCreatine helps to supply energy to all cells in the body, primarily muscle. When taken as a supplement within humans, this compound has cognitive enhancing, neuroprotective, cardioprotective and performance enhancing effects which are particularly present during strenuous physical exercise. It is often used by athletes and bodybuilders to increase both power output and lean mass.\n\nChemistry\n\nCreatine is a nitrogenous amino acid produced endogenously and synthesized for consumption. Creatine is structurally comprised of an acetic acid group, a two carbon chain with both a ketone and hydroxyl group bonded to one of the carbons. This acetic acid group is connected at R2 to a methyl substituted amine group, which in turn is also bound to a carbon atom substituted with one double bonded nitrogen and one single-bonded nitrogen constituent. \nSynthetic creatine is usually made from sarcosine (or its salts) and cyanamide which are combined in a reactor with catalyst compounds. The reactor is heated and pressurized, causing creatine crystals to form. The crystalline creatine is then purified by centrifuge and vacuum dried. The dried creatine compound is milled into a fine powder for improved bioavailability. Milling techniques differ, resulting in final products of varying solubility and bioavailability. For instance, creatine compounds milled to 200 mesh are referred to as micronized.\n\nPharmacology\n\nCreatine is an endogenous molecule that stores high-energy phosphate groups in the form of phosphocreatine (creatine phosphate). During periods of stress or strenuous exercise, phosphocreatine releases energy to aid cellular function. This is what causes strength increases after creatine supplementation, but this action can also aid the brain, bones, muscles, and liver. Most of the benefits of creatine are provided through this mechanism.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, this compound can be described as conferring both physical stimulation and cognitive stimulation.\n\nToxicity and harm potential\n\nThere are no clinically significant side-effects of creatine supplementation acutely. Numerous trials have been conducted in humans with varying dosages, and the side-effects have been limited to gastrointestinal distress (from too much creatine consumption at once) and cramping (from insufficient hydration).\n\nStudies that use a dosage range typical of creatine supplementation (in the range of 5g a day following an acute loading period) note increases to total body water of 6.2% (3.74lbs) over nine weeks, and 1.1kg (2.42 lbs) over 42 days. This effect may be responsible for creatine's capability to increase perceived body weight.\n\nRegardless, it is strongly recommended that one is familiar with harm reduction practices when using creatine.\n\nTolerance and addiction potential\n\nCreatine is not habit-forming with a low potential for abuse. It does not seem to be capable of causing psychological or physiological dependence among users.\n\nTolerance to the effects of creatine are not built after ingestion as with most other psychoactive substances. There are many anecdotal reports of people ingesting this substance for prolonged periods of time with no tolerance build up.\n\nLegal status\n\nCreatine is freely available to possess and distribute and is approved in most countries as a dietary supplement.\n\nLiterature\n\n*M’Swiney, B. A. (1915). Creatine and creatinine. The Dublin Journal of Medical Science, 140(3), 175–191. https://doi.org/10.1007/BF02964439\n*Francaux, M., & Poortmans, J. R. (1999). Effects of training and creatine supplement on muscle strength and body mass. European Journal of Applied Physiology and Occupational Physiology, 80(2), 165–168. https://doi.org/10.1007/s004210050575\n*Persky, a M., & Brazeau, G. a. (2001). Clinical pharmacology of the dietary supplement creatine monohydrate. Pharmacological Reviews, 53(2), 161–176. https://doi.org/10.1124/pharmrev1\n*Metzl, J. D., Small, E., Levine, S. R., & Gershel, J. C. (2001). Creatine Use Among Young Athletes. PEDIATRICS, 108(2), 421–425. https://doi.org/10.1542/peds.108.2.421\n*Brosnan, J. T., & Brosnan, M. E. (2007). Creatine: endogenous metabolite, dietary, and therapeutic supplement. Annual Review of Nutrition, 27(December), 241–261. https://doi.org/10.1146/annurev.nutr.27.061406.093621\n*Hezave, A. Z., Aftab, S., & Esmaeilzadeh, F. (2010). Micronization of creatine monohydrate via Rapid Expansion of Supercritical Solution (RESS). Journal of Supercritical Fluids, 55(1), 316–324. https://doi.org/10.1016/j.supflu.2010.05.009\n*Béard, E., & Braissant, O. (2010). Synthesis and transport of creatine in the CNS: Importance for cerebral functions. Journal of Neurochemistry, 115(2), 297–313. https://doi.org/10.1111/j.1471-4159.2010.06935.x\n*Nasrallah, F., Feki, M., & Kaabachi, N. (2010). Creatine and Creatine Deficiency Syndromes: Biochemical and Clinical Aspects. Pediatric Neurology, 42(3), 163–171. https://doi.org/10.1016/j.pediatrneurol.2009.07.015\n*Tarnopolsky, M. A. (2010). Caffeine and Creatine Use in Sport. Annals of Nutrition and Metabolism, 57(s2), 1–8. https://doi.org/10.1159/000322696\n*Sahlin, K., & Harris, R. C. (2011). The creatine kinase reaction: a simple reaction with functional complexity. Amino Acids, 40(5), 1363–1367. https://doi.org/10.1007/s00726-011-0856-8\n*Beal, M. F. (2011). Neuroprotective effects of creatine. Amino Acids, 40(5), 1305–1313. https://doi.org/10.1007/s00726-011-0851-0\n*Turner, C. E., & Gant, N. (2014). The Biochemistry of Creatine. In Magnetic Resonance Spectroscopy (pp. 91–103). Elsevier. https://doi.org/10.1016/B978-0-12-401688-0.00007-0\n\nSee also\n\n*Responsible use\n*Noopept\n*Nootropic\n*Stimulant\n*Modafinil\n*Pramiracetam\n\nExternal links\n\n*Creatine (Wikipedia)\n*Creatine (Examine)\n*Creatine (Medlineplus)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Substance\nCategory:Stimulant\nCategory:Nootropic",
+ "wikitext": "\n{{SummarySheet}}\n{{SubstanceBox/Creatine}}\n\n'''Creatine''' (and its derivatives hydrochloride, malate, nitrate, et al.) is an amino acid with [[psychoactive class::nootropic]] effects that occurs naturally within the body of  vertebrates and in some foods such as meat, eggs, and fish. It was identified in 1832 when Michel Eugène Chevreul isolated it from the basified water-extract of skeletal muscle. He later named the crystallized precipitate after the Greek word for meat, κρέας (kreas). Early analysis showed that human blood is approximately 1% creatine.\n\nCreatine helps to supply energy to all cells in the body, primarily muscle. When taken as a supplement within humans, this compound has cognitive enhancing, neuroprotective, cardioprotective and performance enhancing effects which are particularly present during strenuous physical exercise. It is often used by athletes and bodybuilders to increase both power output and lean mass.\n\n==Chemistry==\nCreatine is a nitrogenous amino acid produced endogenously and synthesized for consumption. Creatine is structurally comprised of an acetic acid group, a two carbon chain with both a ketone and hydroxyl group bonded to one of the carbons. This acetic acid group is connected at R<sub>2</sub> to a methyl substituted amine group, which in turn is also bound to a carbon atom substituted with one double bonded nitrogen and one single-bonded nitrogen constituent. \nSynthetic creatine is usually made from sarcosine (or its salts) and cyanamide which are combined in a reactor with catalyst compounds. The reactor is heated and pressurized, causing creatine crystals to form. The crystalline creatine is then purified by centrifuge and vacuum dried. The dried creatine compound is milled into a fine powder for improved bioavailability. Milling techniques differ, resulting in final products of varying solubility and bioavailability. For instance, creatine compounds milled to 200 mesh are referred to as micronized.<ref>{{cite journal | vauthors=((Hezave, A. Z.)), ((Aftab, S.)), ((Esmaeilzadeh, F.)) | journal=The Journal of Supercritical Fluids | title=Micronization of creatine monohydrate via Rapid Expansion of Supercritical Solution (RESS) | volume=55 | issue=1 | pages=316–324 | date= November 2010 | url=https://linkinghub.elsevier.com/retrieve/pii/S0896844610001671 | issn=08968446 | doi=10.1016/j.supflu.2010.05.009}}</ref>\n\n==Pharmacology==\nCreatine is an [[endogenous]] molecule that stores high-energy phosphate groups in the form of phosphocreatine (creatine phosphate). During periods of stress or strenuous exercise, phosphocreatine releases energy to aid cellular function. This is what causes strength increases after creatine supplementation, but this action can also aid the brain, bones, muscles, and liver. Most of the benefits of creatine are provided through this mechanism.<ref>{{cite journal | vauthors=((Sahlin, K.)), ((Harris, R. C.)) | journal=Amino Acids | title=The creatine kinase reaction: a simple reaction with functional complexity | volume=40 | issue=5 | pages=1363–1367 | date= May 2011 | url=http://link.springer.com/10.1007/s00726-011-0856-8 | issn=0939-4451 | doi=10.1007/s00726-011-0856-8}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\nIn comparison to the effects of other nootropics such as [[noopept]], this compound can be described as conferring both physical stimulation and cognitive stimulation.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which Creatine presents can be considered as subtle, yet persistent and energetic comparable to that of [[caffeine]], yet even less forced in nature.\n*'''[[Effect::Perception of bodily heaviness]]''' - Creatine may have a large effect on increasing overall weight due to water retention. Due to this, creatine, rather than altering perception, manifests itself in a physical bodily change. However, the degree of increase is dosage-dependent.\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Diarrhea]]'''\n\n====Sensory effects====\n*'''[[Effect::Appetite enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Tactile enhancement]]'''\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Irritability]]'''\n\n}}\n}}\n\n==Toxicity and harm potential==\nThere are no clinically significant side-effects of creatine supplementation acutely. Numerous trials have been conducted in humans with varying dosages, and the side-effects have been limited to gastrointestinal distress (from too much creatine consumption at once) and cramping (from insufficient hydration).\n\nStudies that use a dosage range typical of creatine supplementation (in the range of 5g a day following an acute loading period) note increases to total body water of 6.2% (3.74lbs) over nine weeks, and 1.1kg (2.42 lbs) over 42 days.<ref>{{cite journal | vauthors=((Francaux, M.)), ((Poortmans, J. R.)) | journal=European Journal of Applied Physiology and Occupational Physiology | title=Effects of training and creatine supplement on muscle strength and body mass | volume=80 | issue=2 | pages=165–168 | date= June 1999 | url=http://link.springer.com/10.1007/s004210050575 | issn=0301-5548 | doi=10.1007/s004210050575}}</ref> This effect may be responsible for creatine's capability to increase perceived body weight.\n\nRegardless, it is strongly recommended that one is familiar with [[responsible drug use|harm reduction practices]] when using creatine.\n\n===Tolerance and addiction potential===\nCreatine is [[Addiction potential::not habit-forming with a low potential for abuse]]. It does not seem to be capable of causing psychological or physiological dependence among users.\n\nTolerance to the effects of creatine are not built after ingestion as with most other [[psychoactive substances]]. There are many anecdotal reports of people ingesting this substance for prolonged periods of time with no tolerance build up.\n\n==Legal status==\n{{LegalStub}}\nCreatine is freely available to possess and distribute and is approved in most countries as a dietary supplement.\n\n==Literature==\n\n*M’Swiney, B. A. (1915). Creatine and creatinine. The Dublin Journal of Medical Science, 140(3), 175–191. https://doi.org/10.1007/BF02964439\n*Francaux, M., & Poortmans, J. R. (1999). Effects of training and creatine supplement on muscle strength and body mass. European Journal of Applied Physiology and Occupational Physiology, 80(2), 165–168. https://doi.org/10.1007/s004210050575\n*Persky, a M., & Brazeau, G. a. (2001). Clinical pharmacology of the dietary supplement creatine monohydrate. Pharmacological Reviews, 53(2), 161–176. https://doi.org/10.1124/pharmrev1\n*Metzl, J. D., Small, E., Levine, S. R., & Gershel, J. C. (2001). Creatine Use Among Young Athletes. PEDIATRICS, 108(2), 421–425. https://doi.org/10.1542/peds.108.2.421\n*Brosnan, J. T., & Brosnan, M. E. (2007). Creatine: endogenous metabolite, dietary, and therapeutic supplement. Annual Review of Nutrition, 27(December), 241–261. https://doi.org/10.1146/annurev.nutr.27.061406.093621\n*Hezave, A. Z., Aftab, S., & Esmaeilzadeh, F. (2010). Micronization of creatine monohydrate via Rapid Expansion of Supercritical Solution (RESS). Journal of Supercritical Fluids, 55(1), 316–324. https://doi.org/10.1016/j.supflu.2010.05.009\n*Béard, E., & Braissant, O. (2010). Synthesis and transport of creatine in the CNS: Importance for cerebral functions. Journal of Neurochemistry, 115(2), 297–313. https://doi.org/10.1111/j.1471-4159.2010.06935.x\n*Nasrallah, F., Feki, M., & Kaabachi, N. (2010). Creatine and Creatine Deficiency Syndromes: Biochemical and Clinical Aspects. Pediatric Neurology, 42(3), 163–171. https://doi.org/10.1016/j.pediatrneurol.2009.07.015\n*Tarnopolsky, M. A. (2010). Caffeine and Creatine Use in Sport. Annals of Nutrition and Metabolism, 57(s2), 1–8. https://doi.org/10.1159/000322696\n*Sahlin, K., & Harris, R. C. (2011). The creatine kinase reaction: a simple reaction with functional complexity. Amino Acids, 40(5), 1363–1367. https://doi.org/10.1007/s00726-011-0856-8\n*Beal, M. F. (2011). Neuroprotective effects of creatine. Amino Acids, 40(5), 1305–1313. https://doi.org/10.1007/s00726-011-0851-0\n*Turner, C. E., & Gant, N. (2014). The Biochemistry of Creatine. In Magnetic Resonance Spectroscopy (pp. 91–103). Elsevier. https://doi.org/10.1016/B978-0-12-401688-0.00007-0\n\n==See also==\n\n*[[Responsible use]]\n*[[Noopept]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Modafinil]]\n*[[Pramiracetam]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Creatine Creatine (Wikipedia)]\n*[https://examine.com/supplements/creatine/ Creatine (Examine)]\n*[https://www.nlm.nih.gov/medlineplus/druginfo/natural/873.html Creatine (Medlineplus)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n{{#set:Featured=true}}"
+}

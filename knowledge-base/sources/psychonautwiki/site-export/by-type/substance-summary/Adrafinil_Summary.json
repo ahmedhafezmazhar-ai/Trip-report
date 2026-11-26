@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17490",
+ "type": "substance-summary",
+ "title": "Adrafinil/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Adrafinil/Summary",
+  "pageid": 17490,
+  "last_edited": "2019-05-31T21:11:18Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Adrafinil",
+ "plain_text": "",
+ "wikitext": "{{Summary|Adrafinil}}"
+}

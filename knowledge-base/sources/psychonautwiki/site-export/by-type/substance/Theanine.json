@@ -1,0 +1,314 @@
+{
+ "id": "psychonautwiki:11420",
+ "type": "substance",
+ "title": "Theanine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Theanine",
+  "pageid": 11420,
+  "last_edited": "2025-04-17T11:11:26Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Nootropic",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Theanine",
+ "substance_box": {
+  "names": {
+   "common": "Theanine, L-Theanine, L-γ-glutamylethylamide and N5-ethyl-L-glutamine",
+   "substitutive": "",
+   "systematic": "N-ethyl-L-glutamine; (2S)-2-ammonio-5-(ethylamino)-5-oxopentanoate"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": ""
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 mg",
+    "light": "75 - 175 mg",
+    "common": "175 - 300 mg",
+    "strong": "300 - 500 mg",
+    "heavy": "500 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "30 - 90 minutes",
+    "comeup": "",
+    "peak": "1 - 3 hours",
+    "offset": "",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Theanine",
+    "L-Theanine",
+    "L-γ-glutamylethylamide and N5-ethyl-L-glutamine"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "75"
+   ],
+   "Oral max light dose": [
+    "175"
+   ],
+   "Oral min common dose": [
+    "175"
+   ],
+   "Oral max common dose": [
+    "300"
+   ],
+   "Oral min strong dose": [
+    "300"
+   ],
+   "Oral max strong dose": [
+    "500"
+   ],
+   "Oral heavy dose": [
+    "500"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Theanine",
+   "clean": "Molecular structure of Theanine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:L-Theanine.svg",
+   "clean": "File:L-Theanine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Theanine]], [[common name::L-Theanine]], [[common name::L-γ-glutamylethylamide and N5-ethyl-L-glutamine]]",
+   "clean": "Theanine, L-Theanine, L-γ-glutamylethylamide and N5-ethyl-L-glutamine"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "N-ethyl-L-glutamine; (2S)-2-ammonio-5-(ethylamino)-5-oxopentanoate",
+   "clean": "N-ethyl-L-glutamine; (2S)-2-ammonio-5-(ethylamino)-5-oxopentanoate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "''''",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::75]] - [[Oral max light dose::175]] mg",
+   "clean": "75 - 175 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::175]] - [[Oral max common dose::300]] mg",
+   "clean": "175 - 300 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::300]] - [[Oral max strong dose::500]] mg",
+   "clean": "300 - 500 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::500]] mg +",
+   "clean": "500 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]<ref name=\"Scheid2012\">{{cite journal | vauthors=((Scheid, L.)), ((Ellinger, S.)), ((Alteheld, B.)), ((Herholz, H.)), ((Ellinger, J.)), ((Henn, T.)), ((Helfrich, H.-P.)), ((Stehle, P.)) | journal=The Journal of Nutrition | title=Kinetics of L-Theanine Uptake and Metabolism in Healthy Participants Are Comparable after Ingestion of L-Theanine via Capsules and Green Tea | volume=142 | issue=12 | pages=2091–2096 | date=1 December 2012 | url=https://academic.oup.com/jn/article/142/12/2091/4630725 | issn=1541-6100 | doi=10.3945/jn.112.166371}}</ref>",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]<ref name=\"Scheid2012\"/>",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "6 - 12 hours",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "L-Theanine (also known as Theanine, L-γ-glutamylethylamide and N5-ethyl-L-glutamine) is an analog of the amino acids of glutamate and glutamine. It was discovered as a constituent of green tea in 1949 and in 1950 was isolated from gyokuro leaves, which have high theanine content. \n\nThe appearance of the name \"theanine\" without a prefix is understood to imply the L-enantiomer, which is the form found in fresh teas and in some, but not all dietary supplements. The opposite D-enantiomer has far less studied pharmacologic properties, but is present in racemic chemical preparations, and substantially in some studied theanine supplements.\n\nThis compound is used as a nootropic for its calming and relaxing properties. It is often taken in combination with caffeine as it has been shown to mitigate its negative aspects, such as anxiety, increased blood pressure and diminished sleep quality, while possibly improving upon the positive aspects. Its ability to enhance attention has been repeatedly verified.\n\nA recent systematic review of the effects of theanine and caffeine has confirmed that the combination seems to improve aspects of attention. The combination of L-theanine and caffeine may improve attention more than caffeine alone.\n\nChemistry\n\nTheanine, or N-ethyl-L-glutamine, is an amino acid analogue of L-glutamine. Its structure is comprised of a five carbon straight chain carboxylic acid called pentanoic acid, which is bonded to an amino group at R2, and an additional ketone group at R5. Also substituted at R5 of the pentanoic group is an ethylamino chain connected at its amino constituent. Theanine is understood to refer to the levorotary enantiomer, which is well documented, rather than the relatively unresearched dextrorotary enantiomer.\n\nPharmacology\n\nTheanine is structurally similar to the excitatory neurotransmitter glutamate, and in accordance, binds to glutamate receptors, though with much lower affinity in comparison. Specifically, it binds to ionotropic glutamate receptors including the AMPA and kainate receptors and, to a lesser extent, the NMDA receptor. It acts as an antagonist of the former two sites and as an agonist of the latter site. In addition, it inhibits glutamine transporters and glutamate transporters, and thus acts as reuptake inhibitor of glutamine and glutamate.\n\nTheanine increases dopamine, GABA, and glycine levels in various areas of the brain. It also affects serotonin in a manner which is still a matter of debate in the scientific community, with separate studies showing increases and decreases in brain serotonin levels using similar experimental protocols.\n\nThese various changes in neurotransmitter levels contribute to the calming and nootropic properties of theanine.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Theanine\n\nToxicity and harm potential\n\nTheanine is non-addictive, is not known to cause brain damage, and has an extremely low toxicity relative to dose. There are relatively few physical side effects associated with acute theanine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nTheanine is not habit-forming.\n\nTolerance to the effects of theanine are built up after prolonged and repeated usage. After noticeable tolerance has been built, it takes about 5 days for tolerance to be reduced by half and 10 days return to baseline. Theanine presents cross-tolerance with no other known compounds, meaning that after the consumption of theanine all other psychoactive compounds will not have a reduced effect.\n\nLegal status\n\nTheanine is freely available to possess and distribute and is approved in most countries as a dietary supplement.\n*Canada Theanine is available as a dietary supplement and is freely available to possess and distribute in Canada.\n\nSee also\n\n*Nootropic\n*Caffeine\n*Glutamate\n\nExternal links\n\n*Theanine (Wikipedia)\n*Theanine (DrugBank)\n*Theanine (Drugs-Forum)\n*Theanine (Examine)\n\nReferences\n\nCategory:Psychoactive substanceCategory:Nootropic",
+ "wikitext": "{{headerpanel|{{approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/Theanine}}\n\n'''L-Theanine''' (also known as '''Theanine''', '''L-γ-glutamylethylamide''' and '''N5-ethyl-L-glutamine''') is an analog of the amino acids of [[glutamate]] and glutamine. It was discovered as a constituent of green tea in 1949 and in 1950 was isolated from gyokuro leaves, which have high theanine content.<ref>Components of Gyokuro | http://www.ippodo-tea.co.jp/en/tea/gyokuro_02.html</ref> \n\nThe appearance of the name \"theanine\" without a prefix is understood to imply the L-[[enantiomer]], which is the form found in fresh teas and in some, but not all dietary supplements. The opposite D-enantiomer has far less studied pharmacologic properties, but is present in racemic chemical preparations, and substantially in some studied theanine supplements.\n\nThis compound is used as a [[psychoactive class::nootropic]] for its calming and relaxing properties. It is often taken in combination with [[caffeine]] as it has been shown to mitigate its negative aspects, such as [[anxiety]], [[increased blood pressure]] and [[wakefulness|diminished sleep quality]], while possibly improving upon the positive aspects.<ref>{{cite journal | vauthors=((Lyon, M. R.)), ((Kapoor, M. P.)), ((Juneja, L. R.)) | journal=Alternative Medicine Review: A Journal of Clinical Therapeutic | title=The effects of L-theanine (Suntheanine®) on objective sleep quality in boys with attention deficit hyperactivity disorder (ADHD): a randomized, double-blind, placebo-controlled clinical trial | volume=16 | issue=4 | pages=348–354 | date= December 2011 | issn=1089-5159}}</ref><ref>{{cite journal | vauthors=((Lu, K.)), ((Gray, M. A.)), ((Oliver, C.)), ((Liley, D. T.)), ((Harrison, B. J.)), ((Bartholomeusz, C. F.)), ((Phan, K. L.)), ((Nathan, P. J.)) | journal=Human Psychopharmacology | title=The acute effects of L-theanine in comparison with alprazolam on anticipatory anxiety in humans | volume=19 | issue=7 | pages=457–465 | date= October 2004 | issn=0885-6222 | doi=10.1002/hup.611}}</ref><ref>{{cite journal | vauthors=((Kimura, K.)), ((Ozeki, M.)), ((Juneja, L. R.)), ((Ohira, H.)) | journal=Biological Psychology | title=L-Theanine reduces psychological and physiological stress responses | volume=74 | issue=1 | pages=39–45 | date= January 2007 | issn=0301-0511 | doi=10.1016/j.biopsycho.2006.06.006}}</ref><ref name=\"Kahathuduwa2017\">{{cite journal | vauthors=((Kahathuduwa, C. N.)), ((Dassanayake, T. L.)), ((Amarakoon, A. M. T.)), ((Weerasinghe, V. S.)) | journal=Nutritional Neuroscience | title=Acute effects of theanine, caffeine and theanine-caffeine combination on attention | volume=20 | issue=6 | pages=369–377 | date= July 2017 | issn=1476-8305 | doi=10.1080/1028415X.2016.1144845}}</ref> Its ability to enhance attention has been repeatedly verified.<ref name=\"Kahathuduwa2017\"/><ref name=\"Owen2008\">{{cite journal | vauthors=((Owen, G. N.)), ((Parnell, H.)), ((De Bruin, E. A.)), ((Rycroft, J. A.)) | journal=Nutritional Neuroscience | title=The combined effects of L-theanine and caffeine on cognitive performance and mood | volume=11 | issue=4 | pages=193–198 | date= August 2008 | issn=1476-8305 | doi=10.1179/147683008X301513}}</ref><ref name=\"Haskell2008\">{{cite journal | vauthors=((Haskell, C. F.)), ((Kennedy, D. O.)), ((Milne, A. L.)), ((Wesnes, K. A.)), ((Scholey, A. B.)) | journal=Biological Psychology | title=The effects of L-theanine, caffeine and their combination on cognition and mood | volume=77 | issue=2 | pages=113–122 | date= February 2008 | issn=0301-0511 | doi=10.1016/j.biopsycho.2007.09.008}}</ref><ref>{{cite journal | vauthors=((Einöther, S. J. L.)), ((Martens, V. E. G.)), ((Rycroft, J. A.)), ((De Bruin, E. A.)) | journal=Appetite | title=L-theanine and caffeine improve task switching but not intersensory attention or subjective alertness | volume=54 | issue=2 | pages=406–409 | date= April 2010 | issn=1095-8304 | doi=10.1016/j.appet.2010.01.003}}</ref><ref>{{cite journal | vauthors=((Kelly, S. P.)), ((Gomez-Ramirez, M.)), ((Montesi, J. L.)), ((Foxe, J. J.)) | journal=The Journal of Nutrition | title=L-theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance | volume=138 | issue=8 | pages=1572S-1577S | date= August 2008 | issn=1541-6100 | doi=10.1093/jn/138.8.1572S}}</ref><ref>{{cite journal | vauthors=((Giesbrecht, T.)), ((Rycroft, J. A.)), ((Rowson, M. J.)), ((De Bruin, E. A.)) | journal=Nutritional Neuroscience | title=The combination of L-theanine and caffeine improves cognitive performance and increases subjective alertness | volume=13 | issue=6 | pages=283–290 | date= December 2010 | issn=1476-8305 | doi=10.1179/147683010X12611460764840}}</ref><ref>{{cite journal | vauthors=((Foxe, J. J.)), ((Morie, K. P.)), ((Laud, P. J.)), ((Rowson, M. J.)), ((Bruin, E. A. de)), ((Kelly, S. P.)) | journal=Neuropharmacology | title=Assessing the effects of caffeine and theanine on the maintenance of vigilance during a sustained attention task | volume=62 | issue=7 | pages=2320–2327 | date= June 2012 | issn=1873-7064 | doi=10.1016/j.neuropharm.2012.01.020}}</ref>\n\nA recent systematic review of the effects of theanine and caffeine has confirmed that the combination seems to improve aspects of attention.<ref>{{cite journal | vauthors=((Camfield, D. A.)), ((Stough, C.)), ((Farrimond, J.)), ((Scholey, A. B.)) | journal=Nutrition Reviews | title=Acute effects of tea constituents L-theanine, caffeine, and epigallocatechin gallate on cognitive function and mood: a systematic review and meta-analysis | volume=72 | issue=8 | pages=507–522 | date= August 2014 | issn=1753-4887 | doi=10.1111/nure.12120}}</ref> The combination of L-theanine and caffeine may improve attention more than caffeine alone.<ref name=\"Owen2008\"/><ref name=\"Haskell2008\"/>\n\n==Chemistry==\nTheanine, or N-ethyl-L-glutamine, is an amino acid analogue of L-glutamine. Its structure is comprised of a five carbon straight chain carboxylic acid called pentanoic acid, which is bonded to an amino group at R<sub>2</sub>, and an additional ketone group at R<sub>5</sub>. Also substituted at R<sub>5</sub> of the pentanoic group is an ethylamino chain connected at its amino constituent. Theanine is understood to refer to the levorotary enantiomer, which is well documented, rather than the relatively unresearched dextrorotary enantiomer.\n\n==Pharmacology==\nTheanine is structurally similar to the excitatory [[neurotransmitter]] [[glutamate]], and in accordance, binds to glutamate [[receptor]]s, though with much lower affinity in comparison. Specifically, it binds to ionotropic glutamate receptors including the [[AMPA]] and [[kainate]] receptors and, to a lesser extent, the [[NMDA]] receptor.<ref name=\"Nathan2006\">{{cite journal | vauthors=((Nathan, P. J.)), ((Lu, K.)), ((Gray, M.)), ((Oliver, C.)) | journal=Journal of Herbal Pharmacotherapy | title=The neuropharmacology of L-theanine(N-ethyl-L-glutamine): a possible neuroprotective and cognitive enhancing agent | volume=6 | issue=2 | pages=21–30 | date= 2006 | issn=1522-8940}}</ref><ref>{{cite journal | vauthors=((Kakuda, T.)), ((Nozawa, A.)), ((Sugimoto, A.)), ((Niino, H.)) | journal=Bioscience, Biotechnology, and Biochemistry | title=Inhibition by theanine of binding of [3H]AMPA, [3H]kainate, and [3H]MDL 105,519 to glutamate receptors | volume=66 | issue=12 | pages=2683–2686 | date= December 2002 | issn=0916-8451 | doi=10.1271/bbb.66.2683}}</ref><ref>{{cite journal | vauthors=((Kakuda, T.)) | journal=Pharmacological Research | title=Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction | volume=64 | issue=2 | pages=162–168 | date= August 2011 | issn=1096-1186 | doi=10.1016/j.phrs.2011.03.010}}</ref><ref name=\"Kakuda2002\">{{cite journal | vauthors=((Kakuda, T.)) | journal=Biological & Pharmaceutical Bulletin | title=Neuroprotective effects of the green tea components theanine and catechins | volume=25 | issue=12 | pages=1513–1518 | date= December 2002 | issn=0918-6158 | doi=10.1248/bpb.25.1513}}</ref> It acts as an [[antagonist]] of the former two sites<ref name=\"Kakuda2002\"/> and as an [[agonist]] of the latter site.<ref name=\"Wakabayashi2012\">{{cite journal | vauthors=((Wakabayashi, C.)), ((Numakawa, T.)), ((Ninomiya, M.)), ((Chiba, S.)), ((Kunugi, H.)) | journal=Psychopharmacology | title=Behavioral and molecular evidence for psychotropic effects in L-theanine | volume=219 | issue=4 | pages=1099–1109 | date= February 2012 | issn=1432-2072 | doi=10.1007/s00213-011-2440-z}}</ref> In addition, it inhibits glutamine transporters and glutamate transporters, and thus acts as [[reuptake inhibitor]] of glutamine and glutamate.<ref name=\"Kakuda2002\"/><ref>{{cite journal | vauthors=((Sugiyama, T.)), ((Sadzuka, Y.)), ((Tanaka, K.)), ((Sonobe, T.)) | journal=Toxicology Letters | title=Inhibition of glutamate transporter by theanine enhances the therapeutic efficacy of doxorubicin | volume=121 | issue=2 | pages=89–96 | date=30 April 2001 | issn=0378-4274 | doi=10.1016/s0378-4274(01)00317-4}}</ref><ref>{{cite journal | vauthors=((Sugiyama, T.)), ((Sadzuka, Y.)) | journal=Biochimica Et Biophysica Acta | title=Theanine and glutamate transporter inhibitors enhance the antitumor efficacy of chemotherapeutic agents | volume=1653 | issue=2 | pages=47–59 | date=5 December 2003 | issn=0006-3002 | doi=10.1016/s0304-419x(03)00031-3}}</ref>\n\nTheanine increases [[dopamine]], [[GABA]], and [[glycine]] levels in various areas of the brain.<ref name=\"Nathan2006\"/><ref name=\"Wakabayashi2012\"/><ref>{{cite journal | vauthors=((Yamada, T.)), ((Terashima, T.)), ((Wada, K.)), ((Ueda, S.)), ((Ito, M.)), ((Okubo, T.)), ((Juneja, L. R.)), ((Yokogoshi, H.)) | journal=Life Sciences | title=Theanine, r-glutamylethylamide, increases neurotransmission concentrations and neurotrophin mRNA levels in the brain during lactation | volume=81 | issue=16 | pages=1247–1255 | date=29 September 2007 | issn=0024-3205 | doi=10.1016/j.lfs.2007.08.023}}</ref><ref name=\"Yokogoshi1998\">{{cite journal | vauthors=((Yokogoshi, H.)), ((Kobayashi, M.)), ((Mochizuki, M.)), ((Terashima, T.)) | journal=Neurochemical Research | title=Effect of theanine, r-glutamylethylamide, on brain monoamines and striatal dopamine release in conscious rats | volume=23 | issue=5 | pages=667–673 | date= May 1998 | issn=0364-3190 | doi=10.1023/a:1022490806093}}</ref> It also affects [[serotonin]] in a manner which is still a matter of debate in the scientific community, with separate studies showing increases and decreases in brain serotonin levels using similar experimental protocols.<ref name=\"Yokogoshi1998\"/><ref>{{cite journal | vauthors=((Yokogoshi, H.)), ((Mochizuki, M.)), ((Saitoh, K.)) | journal=Bioscience, Biotechnology, and Biochemistry | title=Theanine-induced reduction of brain serotonin concentration in rats | volume=62 | issue=4 | pages=816–817 | date= April 1998 | issn=0916-8451 | doi=10.1271/bbb.62.816}}</ref>\n\nThese various changes in neurotransmitter levels contribute to the calming and nootropic properties of theanine.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' & '''[[Effect::Stimulation]]''' - Theanine is mildly stimulating at [[Dosage#light|light]] to [[Dosage#common|common]] dosages but becomes sedating starting with [[Dosage#Strong|strong doses]] at around 300mg.\n*'''[[Effect::Muscle relaxation]]''' - At [[Dosage#Heavy|heavy]] doses, theanine induces muscle relaxation that is vaguely comparable to that of the relaxation produced by [[benzodiazepines]].\n*'''[[Effect::Spontaneous bodily sensations]]''' - Theanine can produce a physical feeling of glowing warmth that is present throughout one's body at higher doses.\n*'''[[Effect::Headaches]]''' - Headaches are usually only reported at high doses, well above 200mg.\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - Theanine produces anxiolytic effects which are comparable to a mild dose of a benzodiazepine but without the accompanying [[disinhibition]]. \n*'''[[Effect::Mindfulness]]''' - Some users report that theanine can produce uniquely distinct states of mindfulness.\n*'''[[Effect::Memory enhancement]]'''<ref>{{cite journal | vauthors=((Park, S.-K.)), ((Jung, I.-C.)), ((Lee, W. K.)), ((Lee, Y. S.)), ((Park, H. K.)), ((Go, H. J.)), ((Kim, K.)), ((Lim, N. K.)), ((Hong, J. T.)), ((Ly, S. Y.)), ((Rho, S. S.)) | journal=Journal of Medicinal Food | title=A combination of green tea extract and l-theanine improves memory and attention in subjects with mild cognitive impairment: a double-blind placebo-controlled study | volume=14 | issue=4 | pages=334–343 | date= April 2011 | issn=1557-7600 | doi=10.1089/jmf.2009.1374}}</ref> - Theanine has been shown to improve memory and attention in subjects with mild cognitive impairments.\n*'''[[Effect::Addiction suppression]]''' - Some anecdotal reports suggest that theanine may mitigate some of the effects of [[opioid withdrawal]], aswell as withdrawal from GABAergic substances like [[alcohol]] and [[benzodiazepines]]\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Theanine.shtml Erowid Experience Vaults: Theanine]\n\n==Toxicity and harm potential==\nTheanine is non-addictive, is not known to cause brain damage, and has an [[Toxicity::extremely low toxicity]] relative to dose.{{citation needed}} There are relatively few physical side effects associated with acute theanine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences.{{citation needed}}\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nTheanine is [[Addiction potential::not habit-forming]].\n\nTolerance to the effects of theanine are built up [[Time to full tolerance::after prolonged and repeated usage]]. After noticeable tolerance has been built, it takes about [[Time to half tolerance::5 days]] for tolerance to be reduced by half and [[Time to zero tolerance::10 days]] return to baseline. Theanine presents cross-tolerance with [[Cross-tolerance::no other known compounds]], meaning that after the consumption of theanine all other psychoactive compounds will not have a reduced effect.\n\n==Legal status==\n{{LegalStub}}\nTheanine is freely available to possess and distribute and is approved in most countries as a dietary supplement.\n*'''Canada''' Theanine is available as a dietary supplement and is freely available to possess and distribute in Canada.{{citation needed}}\n\n==See also==\n*[[Nootropic]]\n*[[Caffeine]]\n*[[Glutamate]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Theanine Theanine (Wikipedia)]\n*[https://go.drugbank.com/drugs/DB12444 Theanine (DrugBank)]\n*[https://drugs-forum.com/wiki/Theanine Theanine (Drugs-Forum)]\n*[https://examine.com/supplements/theanine/ Theanine (Examine)]\n\n==References==\n{{reflist|2}}\n[[Category:Psychoactive substance]][[Category:Nootropic]]\n\n{{#set:Featured=true}}"
+}

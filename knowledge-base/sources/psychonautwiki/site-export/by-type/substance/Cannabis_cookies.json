@@ -1,0 +1,645 @@
+{
+ "id": "psychonautwiki:7735",
+ "type": "substance",
+ "title": "Cannabis cookies",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabis_cookies",
+  "pageid": 7735,
+  "last_edited": "2022-11-30T05:44:37Z"
+ },
+ "categories": [
+  "Cannabis recipes",
+  "Chemical conversion"
+ ],
+ "substance_box_template": "SubstanceBox/Cannabis",
+ "substance_box": {
+  "names": {
+   "common": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang.",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Cannabinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Depends on potency, tolerance and route of administration.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg THC",
+    "light": "2.5 - 5 mg THC",
+    "common": "5 - 10 mg THC",
+    "strong": "10 - 25 mg THC",
+    "heavy": "25 mg THC +",
+    "duration": "4 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "4 - 6 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "*Depends on potency, tolerance and route of administration.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.4 mg THC",
+    "light": "0.4 - 2 mg THC",
+    "common": "2 - 4 mg THC",
+    "strong": "4 - 10 mg THC",
+    "heavy": "10 mg THC +",
+    "duration": "2.5 - 5 hours",
+    "onset": "0.1 - 10 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "15 - 45 minutes",
+    "offset": "3 - 4 hours",
+    "aftereffects": "45 - 180 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "3 - 7 hours",
+    "onset": "1 - 10 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "4 - 6 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cannabis",
+    "THC",
+    "Marijuana",
+    "Weed",
+    "Pot",
+    "Mary Jane",
+    "Grass",
+    "Herb",
+    "Green",
+    "Bud",
+    "Tree"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Cannabinoid"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "0.4"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.4"
+   ],
+   "Smoked max light dose": [
+    "2"
+   ],
+   "Smoked min common dose": [
+    "2"
+   ],
+   "Smoked max common dose": [
+    "4"
+   ],
+   "Smoked min strong dose": [
+    "4"
+   ],
+   "Smoked max strong dose": [
+    "10"
+   ],
+   "Smoked heavy dose": [
+    "10"
+   ],
+   "Smoked min total time": [
+    "2.5"
+   ],
+   "Smoked max total time": [
+    "5"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "0.1"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min comeup time": [
+    "5"
+   ],
+   "Smoked max comeup time": [
+    "10"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "15"
+   ],
+   "Smoked max peak time": [
+    "45"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "3"
+   ],
+   "Smoked max offset time": [
+    "4"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "45"
+   ],
+   "Smoked max afterglow time": [
+    "180"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Sublingual min total time": [
+    "3"
+   ],
+   "Sublingual max total time": [
+    "7"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "1"
+   ],
+   "Sublingual max onset time": [
+    "10"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "15"
+   ],
+   "Sublingual max comeup time": [
+    "30"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "30"
+   ],
+   "Sublingual max peak time": [
+    "60"
+   ],
+   "Sublingual peak time units": [
+    "minutes"
+   ],
+   "Sublingual min offset time": [
+    "4"
+   ],
+   "Sublingual max offset time": [
+    "6"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Cannabis (Botany).png",
+   "clean": "File:Cannabis (Botany).png"
+  },
+  "PhotoImageWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Drawing of Cannabis sativa",
+   "clean": "Drawing of Cannabis sativa"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "A flowering cannabis plant.",
+   "clean": "A flowering cannabis plant."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Cannabis Plant.jpg",
+   "clean": "File:Cannabis Plant.jpg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "230px",
+   "clean": "230px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cannabis]], [[common name:: THC]], [[common name::Marijuana]], [[common name::Weed]], [[common name::Pot]], [[common name::Mary Jane]], [[common name::Grass]], [[common name::Herb]], [[common name::Green]], [[common name::Bud]], [[common name::Tree]]. [https://en.wikipedia.org/wiki/List_of_names_for_cannabis More names], and [https://en.wikipedia.org/wiki/List_of_slang_names_for_cannabis slang].",
+   "clean": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang."
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "Depends on potency, tolerance and route of administration."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]] THC",
+   "clean": "1 mg THC"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg THC",
+   "clean": "2.5 - 5 mg THC"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] mg THC",
+   "clean": "5 - 10 mg THC"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::25]] mg THC",
+   "clean": "10 - 25 mg THC"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]] mg THC +",
+   "clean": "25 mg THC +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "*Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "*Depends on potency, tolerance and route of administration."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::0.4]] [[Smoked dose units::mg]] THC",
+   "clean": "0.4 mg THC"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.4]] - [[Smoked max light dose::2]] mg THC",
+   "clean": "0.4 - 2 mg THC"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::2]] - [[Smoked max common dose::4]] mg THC",
+   "clean": "2 - 4 mg THC"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::4]] - [[Smoked max strong dose::10]] mg THC",
+   "clean": "4 - 10 mg THC"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::10]] mg THC +",
+   "clean": "10 mg THC +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::2.5]] - [[Smoked max total time::5]] [[Smoked total time units::hours]]",
+   "clean": "2.5 - 5 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0.1]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "0.1 - 10 minutes"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::5]] - [[Smoked max comeup time::10]] [[Smoked comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::15]] - [[Smoked max peak time::45]] [[Smoked peak time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::3]] - [[Smoked max offset time::4]] [[Smoked offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::45]] - [[Smoked max afterglow time::180]] [[Smoked afterglow time units::minutes]]",
+   "clean": "45 - 180 minutes"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::3]] - [[Sublingual max total time::7]] [[Sublingual total time units::hours]]",
+   "clean": "3 - 7 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::1]] - [[Sublingual max onset time::10]] [[Sublingual onset time units::minutes]]",
+   "clean": "1 - 10 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::15]] - [[Sublingual max comeup time::30]] [[Sublingual comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::30]] - [[Sublingual max peak time::60]] [[Sublingual peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::4]] - [[Sublingual max offset time::6]] [[Sublingual offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "This preparation is a generalized recipe that can be applied across a large variety of ingredients to create sugar, chocolate chip, or peanut butter cookies. It will help to already have a basic understanding of how to bake. We will specifically work with chocolate chips and/or walnuts in this example.\n\nThis recipe makes approximately 20 cookies and you may scale up if needed. Measurements may be altered to suit individual tastes.\n\nIngredients\n\n# 1/2 cup (1 stick) cannabudder \n# 1 1/3 cup flour/cannaflour is optional (more for high altitude) \n# 1/2 teaspoon salt\n# 1/2 teaspoon baking soda (more for high altitude) \n# 1/2 cup brown sugar\n# 1/4 cup granulated/white sugar\n# 1 egg\n# 1 (12 ounce) package (2 cups) of chocolate morsels/chips\n# 1 teaspoons of vanilla extract (optional)\n# Chopped walnuts (optional)\n# 1 teaspoon of hot water (for gooey cookies)\n\nDirections\n\n# Preheat the oven to 250-300 degrees. Many recipes call for a higher temperature without understanding they can cook the psychoactive properties right out of their snack. This often results in really expensive, but rather boring, cookies. An oven thermometer is optional, but useful, as conventional ovens can be unreliable.\n# Mix the cannabudder, sugar, and egg into a large bowl manually. The extract and the teaspoon of water is optional. It helps tremendously to allow the budder to warm to room temperature before attempting to mix it.\n# Combine the baking soda, salt, and flour.\n# Slowly add the flour mixture to the butter mixture and stir by hand. Many people opt to add more sugar in this stage as potent cannabudder is not always a welcome taste. You may use either brown or white sugar. While added sugar will not hurt the recipe, going overboard will result in crumbly cookies.\n# Stir in the chocolate morsels. Walnuts are optional.\n# Shape the dough into 1-inch balls and place them two inches apart on a greased cookie sheet.\n# Bake until light brown or gooey, but solid. The lower the temperature, the longer the bake. The higher the altitude, the longer the bake. Watch your food closely as oven timers can be unreliable. \n# Let cool and enjoy. Remember dosage will largely depend on the potency of your cannabudder. You may store in the freezer or fridge to maintain potency and deliciousness.\n\nSee also\n\n*Responsible use\n*Cannabis\n*Preparation\n\nCategory:Chemical conversion\nCategory:Cannabis recipes‎",
+ "wikitext": "{{SubstanceBox/Cannabis}}\n{{Disclaimer}}\nThis [[preparation]] is a generalized recipe that can be applied across a large variety of ingredients to create sugar, chocolate chip, or peanut butter cookies. It will help to already have a basic understanding of how to bake. We will specifically work with chocolate chips and/or walnuts in this example.\n\nThis recipe makes approximately 20 cookies and you may scale up if needed. Measurements may be altered to suit individual tastes.\n\n===Ingredients===\n# 1/2 cup (1 stick) [[cannabudder]] \n# 1 1/3 cup flour/[[cannaflour]] is optional (more for high altitude) \n# 1/2 teaspoon salt\n# 1/2 teaspoon baking soda (more for high altitude) \n# 1/2 cup brown sugar\n# 1/4 cup granulated/white sugar\n# 1 egg\n# 1 (12 ounce) package (2 cups) of chocolate morsels/chips\n# 1 teaspoons of vanilla extract (optional)\n# Chopped walnuts (optional)\n# 1 teaspoon of hot water (for gooey cookies)\n\n===Directions===\n# Preheat the oven to 250-300 degrees. Many recipes call for a higher temperature without understanding they can cook the psychoactive properties right out of their snack. This often results in really expensive, but rather boring, cookies. An oven thermometer is optional, but useful, as conventional ovens can be unreliable.\n# Mix the [[cannabudder]], sugar, and egg into a large bowl manually. The extract and the teaspoon of water is optional. It helps tremendously to allow the budder to warm to room temperature before attempting to mix it.\n# Combine the baking soda, salt, and flour.\n# Slowly add the flour mixture to the butter mixture and stir by hand. Many people opt to add more sugar in this stage as potent [[cannabudder]] is not always a welcome taste. You may use either brown or white sugar. While added sugar will not hurt the recipe, going overboard will result in crumbly cookies.\n# Stir in the chocolate morsels. Walnuts are optional.\n# Shape the dough into 1-inch balls and place them two inches apart on a greased cookie sheet.\n# Bake until light brown or gooey, but solid. The lower the temperature, the longer the bake. The higher the altitude, the longer the bake. Watch your food closely as oven timers can be unreliable. \n# Let cool and enjoy. Remember dosage will largely depend on the potency of your [[cannabudder]]. You may store in the freezer or fridge to maintain potency and deliciousness.\n\n===See also===\n*[[Responsible use]]\n*[[Cannabis]]\n*[[Preparation]]\n\n[[Category:Chemical conversion]]\n[[Category:Cannabis recipes‎]]"
+}

@@ -1,0 +1,667 @@
+{
+ "id": "psychonautwiki:4389",
+ "type": "substance",
+ "title": "Nicotine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nicotine",
+  "pageid": 4389,
+  "last_edited": "2026-02-04T18:50:12Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 English-language sources (en)",
+  "CS1 French-language sources (fr)",
+  "CS1 German-language sources (de)",
+  "CS1 Norwegian-language sources (no)",
+  "CS1 errors: PMC",
+  "Depressant",
+  "Pages with citations using unsupported parameters",
+  "Pyrrolidine",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Nicotine",
+ "substance_box": {
+  "names": {
+   "common": "Nicotine",
+   "substitutive": "",
+   "systematic": "(S)-3-[1-Methylpyrrolidin-2-yl]pyridine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Pyridine / Substituted pyrrolidine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.2 mg",
+    "light": "0.3 - 0.8 mg",
+    "common": "0.8 - 1.5 mg",
+    "strong": "1.5 - 3.5 mg",
+    "heavy": "3.5 mg +",
+    "duration": "25 - 45 minutes",
+    "onset": "0 - 20 seconds",
+    "comeup": "5 - 10 seconds",
+    "peak": "2 - 5 minutes",
+    "offset": "20 - 40 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.2 mg",
+    "light": "1 - 3 mg",
+    "common": "3 - 5 mg",
+    "strong": "5 - 7 mg",
+    "heavy": "7 mg +",
+    "duration": "5 - 7 hours",
+    "onset": "20 - 40 minutes",
+    "comeup": "60 - 90 minutes",
+    "peak": "60 - 90 minutes",
+    "offset": "2.5 - 3.5 hours",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": true,
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.2 mg",
+    "light": "0.5 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 6 mg",
+    "heavy": "6 mg +",
+    "duration": "45 - 90 minutes",
+    "onset": "3 - 15 minutes",
+    "comeup": "3 - 15 minutes",
+    "peak": "5 - 20 minutes",
+    "offset": "1 - 2 hours",
+    "aftereffects": "2 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Nicotine"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Pyridine",
+    "Substituted pyrrolidine"
+   ],
+   "Smoked threshold dose": [
+    "0.2"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.3"
+   ],
+   "Smoked max light dose": [
+    "0.8"
+   ],
+   "Smoked min common dose": [
+    "0.8"
+   ],
+   "Smoked max common dose": [
+    "1.5"
+   ],
+   "Smoked min strong dose": [
+    "1.5"
+   ],
+   "Smoked max strong dose": [
+    "3.5"
+   ],
+   "Smoked heavy dose": [
+    "3.5"
+   ],
+   "Smoked min total time": [
+    "25"
+   ],
+   "Smoked max total time": [
+    "45"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "0"
+   ],
+   "Smoked max onset time": [
+    "20"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "5"
+   ],
+   "Smoked max comeup time": [
+    "10"
+   ],
+   "Smoked comeup time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "5"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "20"
+   ],
+   "Smoked max offset time": [
+    "40"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Oral threshold dose": [
+    "0.2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "1"
+   ],
+   "Oral max light dose": [
+    "3"
+   ],
+   "Oral min common dose": [
+    "3"
+   ],
+   "Oral max common dose": [
+    "5"
+   ],
+   "Oral min strong dose": [
+    "5"
+   ],
+   "Oral max strong dose": [
+    "7"
+   ],
+   "Oral heavy dose": [
+    "7"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "60"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "60"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "2.5"
+   ],
+   "Oral max offset time": [
+    "3.5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "4"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Buccal threshold dose": [
+    "0.2"
+   ],
+   "Buccal dose units": [
+    "mg"
+   ],
+   "Buccal min light dose": [
+    "0.5"
+   ],
+   "Buccal max light dose": [
+    "2"
+   ],
+   "Buccal min common dose": [
+    "2"
+   ],
+   "Buccal max common dose": [
+    "4"
+   ],
+   "Buccal min strong dose": [
+    "4"
+   ],
+   "Buccal max strong dose": [
+    "6"
+   ],
+   "Buccal heavy dose": [
+    "6"
+   ],
+   "Buccal min total time": [
+    "45"
+   ],
+   "Buccal max total time": [
+    "90"
+   ],
+   "Buccal total time units": [
+    "minutes"
+   ],
+   "Buccal min onset time": [
+    "3"
+   ],
+   "Buccal max onset time": [
+    "15"
+   ],
+   "Buccal onset time units": [
+    "minutes"
+   ],
+   "Buccal min comeup time": [
+    "3"
+   ],
+   "Buccal max comeup time": [
+    "15"
+   ],
+   "Buccal comeup time units": [
+    "minutes"
+   ],
+   "Buccal min peak time": [
+    "5"
+   ],
+   "Buccal max peak time": [
+    "20"
+   ],
+   "Buccal peak time units": [
+    "minutes"
+   ],
+   "Buccal min offset time": [
+    "1"
+   ],
+   "Buccal max offset time": [
+    "2"
+   ],
+   "Buccal offset time units": [
+    "hours"
+   ],
+   "Buccal min afterglow time": [
+    "2"
+   ],
+   "Buccal max afterglow time": [
+    "6"
+   ],
+   "Buccal afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Nicotine",
+   "clean": "Molecular structure of Nicotine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Nicotine.svg",
+   "clean": "File:Nicotine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Nicotine]]",
+   "clean": "Nicotine"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(S)-3-[1-Methylpyrrolidin-2-yl]pyridine",
+   "clean": "(S)-3-[1-Methylpyrrolidin-2-yl]pyridine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Pyridine]] / [[chemical class::Substituted pyrrolidine|Pyrrolidine]]",
+   "clean": "Pyridine / Substituted pyrrolidine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::0.2]] [[Smoked dose units::mg]]",
+   "clean": "0.2 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.3]] - [[Smoked max light dose::0.8]] mg",
+   "clean": "0.3 - 0.8 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::0.8]] - [[Smoked max common dose::1.5]] mg",
+   "clean": "0.8 - 1.5 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::1.5]] - [[Smoked max strong dose::3.5]] mg",
+   "clean": "1.5 - 3.5 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::3.5]] mg +",
+   "clean": "3.5 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::25]] - [[Smoked max total time::45]] [[Smoked total time units::minutes]]",
+   "clean": "25 - 45 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0]] - [[Smoked max onset time::20]] [[Smoked onset time units::seconds]]",
+   "clean": "0 - 20 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::5]] - [[Smoked max comeup time::10]] [[Smoked comeup time units::seconds]]",
+   "clean": "5 - 10 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::5]] [[Smoked peak time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::20]] - [[Smoked max offset time::40]] [[Smoked offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.2]] [[Oral dose units::mg]]",
+   "clean": "0.2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1]] - [[Oral max light dose::3]] mg",
+   "clean": "1 - 3 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::3]] - [[Oral max common dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::5]] - [[Oral max strong dose::7]] mg",
+   "clean": "5 - 7 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::7]] mg +",
+   "clean": "7 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "5 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::60]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::60]] - [[Oral max peak time::90]] [[Oral peak time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2.5]] - [[Oral max offset time::3.5]] [[Oral offset time units::hours]]",
+   "clean": "2.5 - 3.5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::4]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "BuccalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "[[Buccal threshold dose::0.2]] [[Buccal dose units::mg]]",
+   "clean": "0.2 mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "[[Buccal min light dose::0.5]] - [[Buccal max light dose::2]] mg",
+   "clean": "0.5 - 2 mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "[[Buccal min common dose::2]] - [[Buccal max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "[[Buccal min strong dose::4]] - [[Buccal max strong dose::6]] mg",
+   "clean": "4 - 6 mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": "[[Buccal heavy dose::6]] mg +",
+   "clean": "6 mg +"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "[[Buccal min total time::45]] - [[Buccal max total time::90]] [[Buccal total time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "BuccalROA_Onset": {
+   "raw": "[[Buccal min onset time::3]] - [[Buccal max onset time::15]] [[Buccal onset time units::minutes]]",
+   "clean": "3 - 15 minutes"
+  },
+  "BuccalROA_Comeup": {
+   "raw": "[[Buccal min comeup time::3]] - [[Buccal max comeup time::15]] [[Buccal comeup time units::minutes]]",
+   "clean": "3 - 15 minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "[[Buccal min peak time::5]] - [[Buccal max peak time::20]] [[Buccal peak time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "BuccalROA_Offset": {
+   "raw": "[[Buccal min offset time::1]] - [[Buccal max offset time::2]] [[Buccal offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "[[Buccal min afterglow time::2]] - [[Buccal max afterglow time::6]] [[Buccal afterglow time units::hours]]",
+   "clean": "2 - 6 hours"
+  }
+ },
+ "plain_text": "Nicotine is a naturally-occurring alkaloid which can have both stimulant and depressant effects due to it affecting a range of biological systems simultaneously.  \n\nNicotine is a substance of the pyridine and pyrrolidine classes. It is the principal alkaloid found in the nightshade family of plants. It produces its effects by binding to nicotinic acetylcholine receptors (nAChRs).\n\nAs the primary psychoactive component in nicotine vapes and tobacco (cigarettes, cigars, snuff, snus) nicotine is one of the most widely used substances in the world. It is also used as an antiherbivore agent to deter plant predation and has been used as an insecticide in the past.  \n\nSubjective effects include stimulation, focus enhancement, motivation enhancement, anxiety suppression, and mild euphoria. The stimulating and anxiety-suppressing effects are considered mild compared to other substances, but can nevertheless promote compulsive redosing. \n\nUnlike many other psychoactive substances, nicotine in the form of tobacco is reported to have a unique biphasic effect in which inhaling it in short puffs produces a stimulant effect, while deep drags produces a relaxing one. Nicotine overdoses, even mild ones, are reported to be highly unpleasant and result in significant nausea and light-headedness.  \n\nNicotine is well-studied and known to be highly addictive. At sufficiently high doses, it can potentially be deadly, though serious or fatal overdoses are rare. The antidote for nicotine overdose is the anticholinergic drug, atropine, a tropane alkaloids found in belladonna, and datura species. The major harms of nicotine addiction are associated with the negative health effects of chronic tobacco smoking, which include heart disease and various forms of cancer. While the link between tobacco use and cancer is well-established, various roles of nicotine in cancer initiation have also been found.  \n\nNicotine patches and nicotine-containing chewing gums are being currently used in nicotine-replacement therapy to help tobacco users quit. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nCrude nicotine was known by 1571, and the compound was obtained in purified form in 1828; the correct molecular formula was established in 1843, and the first laboratory synthesis was reported in 1904.\n\nNicotiana rustica has been used by the Mapacho (South America) and the thuoc lao (thuốc lào) (Vietnam) people for spiritual purposes.\n\nPituri\n\nPituri, also known as mingkulpa, is a mixture of leaves and wood ash traditionally chewed as a stimulant (or, after extended use, a depressant) by Aboriginal Australians widely across the continent. At first, nicotine acts as a stimulant, boosting the production or availability of chemicals such as acetylcholine, norepinephrine, dopamine, beta-endorphin and serotonin in the brain and other parts of the body. After sustained use, though, the body's ability to maintain heightened levels of these chemicals is temporarily exhausted and nicotine begins to act as a depressant and in high doses may induce stupor or trance.\n\nThe quid is chewed from time to time and held behind the lower lip or cheek for long periods, where the thin skin, richly endowed with blood vessels, readily absorbs the nicotine. It may be shared with others, passing from person to person until returned to its owner. It may be carried pressed behind the ear, under a breast or beneath a head- or arm-band – possibly acting as a nicotine patch. A fresh quid may be prepared and held in the mouth while sleeping, so that for some chewers nicotine absorption is constant.\n\nDosage\n\n\"Analysis of dry leaf Nicotiana spp. preferred for use as pituri has demonstrated nicotine content as high as 11 mg/g\". For comparison, the nicotine content of nicotine pouches, or dipping tobacco, is typically listed directly on the package in mg/g and usually falls within a range of 4 to 14 mg/g.\n\nChemistry\n\nNicotine (3-[(2S)-1-methylpyrrolidin-2-yl]pyridine) is a naturally occurring bicyclic compound comprised of a pyridine ring attached to the second carbon of a pyrrolidine ring that has a methyl substituent on the nitrogen. Pyridine is an unsaturated six-membered ring structurally related to benzene but with a nitrogen member. Nicotine additionally contains a substituted pyrrolidine ring, which is a saturated five-membered ring with one nitrogen member. These rings are bridged from the R3 position of the pyridine ring to the R2 position of the pyrrolidine ring. \n\nBoth optical enantiomers of nicotine are active, with the naturally occurring levorotatory enantiomer being more active and more toxic than the dextrorotatory. In its basic form, it is an oily liquid that is miscible with water. However, as a nitrogenous base, nicotine readily forms stable, water-soluble salts when acidified.\n\nPharmacology\n\nNicotine produces its stimulating effects by agonizing nicotinic acetylcholine receptors, causing the liver to release glucose and the adrenal medulla to release epinephrine (adrenaline).\n\nOnce it reaches the brain, nicotine stimulates the release of many neurotransmitters and hormones, including acetylcholine, norepinephrine, epinephrine, arginine vasopressin, serotonin, dopamine, and β-endorphin, which are responsible for the majority of its psychoactive effects.\n\nBy increasing the level of acetylcholine in the brain, nicotine enhances concentration. Norepinephrine release causes increased alertness and arousal. With low doses, nicotine enhances the action of norepinephrine and dopamine, which produces typical psychostimulation. Nicotine also has sedative effects as produced by the release of β-endorphin (which reduces anxiety) and enhances the action of serotonin and opioids (which causes sedation).\n\nBioavailability\n\n*Oral: 20% - 45%\n*Intranasal: 53%\n*Transdermal: 68%\n\nMetabolism\n\nNicotine has a half-life of 1 - 2 hours when administered in a single dose and an active metabolite (cotinine) with a half-life of 20 hours. Nicotine and cotinine are further glucuronidated by UGT2B10.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Nicotine\n\nForms\n\nMain: List of tobacco products (Wikipedia)\n\nNicotine-only products\n\nThe nicotine in nicotine-only products typically use nicotine extracted from tobacco plants -- and the tobacco industry is linked to ethical issues.\n\nE-cigarettes\n\nthumb|200px|left|A first-generation e-cigarette that resembles a tobacco cigarette|alt=Photo of device\n\nMore recently, nicotine in liquid forms (commonly called e-liquid) intended for vaporizing in electronic cigarettes has become popular as an alternative to smoking. Illicit and unregulated E-cigarettes can contain a variety of additives that can be dangerous such as: Diacetyl (chemical linked to lung disease called bronchiolitis obliterans or better known as \"popcorn lung\"), Diethylene glycol (ingredient used in antifreeze, linked to lung diseases), Heavy metals (usually nickel, tin, or lead), benzene (A VOC found in car exhaust),and Acrolein (a herbicide, can cause irreversible lung damage). It is important to note, however, that popcorn lung is not typically associated with E-cigarettes, these ingredients aren't typically found in E-cigarettes or E-liquid. \n\nA 2023 report by the World Health Organization (WHO) found that 34 countries had banned the sale of e-cigarettes.\n\nNicotine pouches\n\nthumb|A single 3cm nicotine pouch\n\nNicotine pouches are white pouches usually made from plant fibers containing nicotine among other ingredients. They do not include tobacco leaf, dust, or stem. The nicotine may either be derived from tobacco plants or may be synthetic. Nicotine pouches are described as either similar to or a tobacco-free version of snus.\n\nNicotine replacement therapy (NRT)\n\nNicotine replacement therapy products contain purified nicotine in standardized dosages. They are intended to assist users who wish to cease use of tobacco products like cigarettes. Popular products include sublingual lozenges and sprays, skin patches, inhalers, and solutions used for oral use or in conjunction with a vaporizer.\n\nthumb|right|Nicotine pastilles\n\n{| class=\"wikitable\" style=\"margin-left:15px; text-align:center\"\n!NRT Type\n!Device/package\n!Availability\n!How it works\n|-\n|Patch\n|Pouch\n|Over-the-counter\n|16 or 24 hours sustained-release transdermal patch\n|-\n|Lozenge\n|Blister pack\n|Over-the-counter\n|20 to 30 minutes modified-release dosage tablet containing nicotine polacrilex\n|-\n|Sublingual tablets\n|Blister pack\n|Over-the-counter\n|Quickly dissolves to releases nicotine through a hard candy\n|-\n|Nicotine gum\n|Blister pack\n|Over-the-counter\n|Chewing the gum releases nicotine as a modified-release dosage\n|-\n|Mouth spray\n|Mouth spray bottle\n|Over-the-counter\n|Spraying a mist into the mouth administers nicotine for buccal administration\n|-\n|Vapour inhalator\n|Nicorette Inhalator: with 10&nbsp;mg nicotine disposable cartridges\n|Over-the-counter\n|Resembles cigarettes; A disposable cartridge contains about 10&nbsp;mg nicotine (about 40% is released). Multiple inhaling through the mouthpiece administers sufficient nicotine.\n|-\n|Pressurized Metered-dose inhaler (pMDI)\n|\n|Prescription\n|Inhaling through the mouthpiece administers nicotine\n|-\n|Nasal spray\n|Nasal spray bottle\n|Prescription\n|Spraying a pump bottle into the nose administers nicotine\n|-\n|Toothpicks\n|\n|Over-the-counter\n|\n|}\n\nHerbal tobacco\n\nHerbal cigarettes\n\nHerbal cigarette (also called tobacco-free cigarettes or nicotine-free cigarettes) are cigarettes that usually do not contain any tobacco or nicotine instead being composed of a mixture of various herbs and/or other plant material. Herbal cigarettes can carry carcinogens.\n\nHerbal smokeless tobacco\n\nHerbal smokeless tobacco is any product that imitates types of smokeless tobacco (chewing tobacco, dipping tobacco, snuff, snus, etc.) but does not contain tobacco and nicotine, or may contain nicotine without tobacco. Like herbal cigarettes and electronic cigarettes, they are often used as a tobacco cessation aid. Herbal smokeless tobacco use is an alternative to using smokeless tobacco that may help users quit.\n\nVaporizers\n\nLiquid concentrate vaporizers can be used with vape liquids containing nicotine.\n\nDry herb vaporizers are designed for optimal temperature ranges specific to different herbs. Tobacco burns at a much higher temperature than most herbs used in vaporizers. Using tobacco in a dry herb vaporizer could result in combustion, which defeats the purpose of vaping (avoiding smoke) and could potentially create harmful byproducts.\n\nTobacco\n\nSee also: Nicotiana\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Tobacco was found to be the sixth overall most dangerous drug.\n\nThe most common source of nicotine is Nicotiana tabacum, constituting 0.6% - 3.0% of its dry weight. It is also present in other species of Nightshade (Solanaceae), such as Aztec tobacco (Nicotiana rustica).\n\nIndustrial tobacco production raises ethical concerns. Deforestation, child labor, and health risks for workers are major issues. For example, workers can experience a type of nicotine poisoning known as Green Tobacco Sickness (GTS), from absorbing nicotine directly through their skin when handling uncured tobacco leaves.\n\nHeated tobacco products\n\nthumb|left|Tobacco film (right side) following use.|alt=On an open palm, a glossy plastic IQOS holder, the short paper-wrapped mini-cigarette that was in it, and the somewhat darkened tobacco plug removed from the end of the paper cylinder.\n\nA heated tobacco product (HTP) is a tobacco product that heats the tobacco at a lower temperature than conventional cigarettes. These products contain nicotine, which is a highly addictive chemical. The heat generates an aerosol or smoke to be inhaled from the tobacco, which contains nicotine and other chemicals. HTPs may also contain additives not found in tobacco, including flavoring chemicals. HTPs generally heat tobacco to temperatures under 600&nbsp;°C (1100&nbsp;°F), a lower temperature than conventional cigarettes.\n\nThe key difference between dry herb vaporizers and heated tobacco products is that vaporizers heat loose plant material (like herbs) to avoid combustion, while heated tobacco products use pre-filled tobacco sticks/capsules and aim to heat, not burn, the tobacco to release nicotine. However, some heated tobacco products (for example some PAX products) are designed to be used with both tobacco and cannabis buds.\n\nSmoked tobacco\n\nthumbnail|right|350px|Generic smoking tobacco next to branded and pre-packaged Newport Menthol cigarettes, King size.\n\n\"Of the more than 7,000 chemicals in tobacco smoke, at least 250 are known to be harmful, including hydrogen cyanide, carbon monoxide, and ammonia.\" - National Cancer Institute\n\nTobacco for smoking is most commonly sold as cigarettes but may also be sold as cigars, which differ from cigarettes by having a tobacco leaf wrapper instead of the paper wrapper used in cigarettes. Loose tobacco for hand-rolling cigarettes and cigars, or for smoking in pipes/hookahs is also commonly available.\n\n*Enema (rectally)\n**Tobacco smoke enema (pseudoscience)\n*Inhaled\n**Cigarettes:\n***Beedi\n***Kretek\n***Roll-your-own cigarette\n**Cigars:\n***Blunt (cigar)\n***Cigarillos\n**Pipe smoking\n***Dokha, a tobacco smoked with a midwakh pipe\n***Kizami, a tobacco smoked with a kiseru pipe\n***Muʽassel, a tobacco smoked with a hookah pipe\n\nSmokeless tobacco\n\nthumb|150px|In recent years a popular method of snuff insufflation has been the snuff bullet.\nthumb|150px|Dipping tobacco is placed between the lip and the gum (sublabial administration).\n\nAs of 2017, the World Health Organization states that \"Smokeless tobacco use is a significant part of the overall world tobacco problem.\" As of 2015, the American Cancer Society states that \"Using any kind of spit or smokeless tobacco is a major health risk. It's less lethal than smoking tobacco, but less lethal is a far cry from safe.\"\n\nTypes of smokeless tobacco include:\n\n*Mixed routes of administration:\n**Kuber, a smokeless tobacco product known for its highly addictive properties and its unique presentation disguised as a mouth freshener. Users commonly add it to tea or consume it directly by placing a pinch under the lower lip.\n*Nasal administration:\n**Snuff, a type of tobacco that is inhaled or \"snuffed\" into the nasal cavity. Traditionally, a specialized tool called a snuff spoon was used for this purpose. However, modern users may simply pinch the snuff between their thumb and forefinger or use pre-measured packets.\n*Oral mucosa (buccal, sublabial, or sublingual):\n**Chewing tobacco, a type of tobacco that is chewed\n**Creamy snuff, a fluid tobacco mixture marketed as a dental hygiene aid, albeit used for recreation\n**Dipping tobacco, a type of tobacco that is placed between the lower or upper lip and gums. This form of tobacco (Hindi: Khaini) is commonly used in Indian subcontinent.  It is the second most common form of tobacco consumption in India, after cigarrette smoking. \n**Dissolvable tobacco, a variation on chewing tobacco that completely dissolves in the mouth\n**Gutka, a mixture of  tobacco, areca nut, and various flavoring sold in South Asia\n**Iqmik, an Alaskan tobacco product which also contains punk ash\n**Naswar, an Afghan tobacco product similar to dipping tobacco\n**Pituri, a nicotine-containing substance traditionally made from Australian tobacco plants, used by Indigenous Australians for chewing and placed between the lower lip and gums. They use it in high doses to induce stupor or trance.\n**Snus, similar to dipping tobacco although the tobacco is placed under the upper lip and there is no need for spitting\n**Tobacco chewing gum (example, Big League Chew), a kind of chewing gum containing tobacco\n**Toombak and shammah, preparations found in North Africa, East Africa, and the Arabian peninsula\n*Topical:\n**Topical tobacco paste, a paste applied to the skin and absorbed through the dermis\n\nToxicity and harm potential\n\nthumb|Graphic from the 2016 Centers for Disease Control and Prevention report entitled Smokeless Tobacco: Health Effects|alt=Graphic from the 2016 [[Centers for Disease Control and Prevention report entitled Smokeless Tobacco: Health Effects. The text states, \"Smokeless tobacco, like chew and dip, can cause CANCER of the MOUTH, ESOPHAGUS, AND PANCREAS.\"]]\n[[File:Theo Cope 121610.jpg|thumb|A can of Copenhagen dipping tobacco with a warning label]]\n\nLethal dosage\n\nNicotine has an estimated oral LD50 of 6.5 - 13 mg/kg in humans, which is much lower than many other common stimulants. It is unlikely that overdose can be achieved by smoking tobacco. However, coadministration with other sources of nicotine such as patches or gum may potentially be dangerous.\n\nNicotine readily passes through the dermis and into the bloodstream upon contact with skin, so safety precautions should be taken when handling it in its pure form.\n\nFlavored e-liquids intended for use in e-cigarette devices can present a particular danger to children, and there have been cases recorded where children have mistakenly consumed e-liquid products with fatal results.\n\nTolerance and addiction potential\n\nNicotine activates the reward system (mesolimbic pathway) of the brain, which is responsible for its addictive nature. Because of this, tobacco smoking is extremely addictive with a high potential for abuse. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nChronic use of nicotine, as with many other addictive substances, downregulates the production of dopamine and other stimulatory neurotransmitters and also desensitizes nicotinic acetylcholine receptors. In response, the brain upregulates the number of receptors presented. The net effect is an increase in sensitivity to the reward system; the opposite of the decrease in sensitivity as caused by addictive substances like cocaine and heroin.\n\nIn some people, it can take as little as one or two cigarettes before reaching 100% tolerance. This means a decreased dizziness from smoking. Nicotine leaves the system very rapidly. The half-life of nicotine in the brain is about 90 minutes. In 8 or 9 hours, the brain has cleared the active drug completely.\n\nTolerance to the effects of this compound rapidly develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Nicotine does not present a cross-tolerance with other dopaminergic stimulants, meaning that after the use of nicotine all stimulants will not have a reduced effect.\n\nFollowing discontinuation of nicotine, receptors may take several months to return to baseline.\n\nPregnancy\n\nNicotine has been indicated in the increased frequency of congenital disabilities and has been correlated with the increase of attention deficit hyperactivity disorder in children.\n\nLegal status\n\nNicotine is legal nearly all over the world and is one of the most popularly used substances. The sale of tobacco products are usually restricted to adults, and they are often heavily taxed. \n\n*Australia: From 1 October 2021, Nicotine in salt or freebase forms (including solutions) are illegal to import into the country without a license and permit. This also includes refillable nicotine pods and any vape products containing nicotine.\n*Bhutan: Tobacco products are legal, but their public use is restricted to specific smoke-friendly areas.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Substituted pyrrolidine\n\nExternal links\n\n*Nicotine (Wikipedia)\n*Nicotine (Erowid Vault)\n*Nicotine (Isomer Design)\n*Nicotine (DrugBank)\n*Nicotine (Drugs-Forum)\n\nReferences\n\nCategory:Alkaloid\nCategory:Depressant\nCategory:Pyrrolidine\nCategory:Stimulant",
+ "wikitext": "{{headerpanel|{{Template:Warning/Nicotine}}}}\n{{SummarySheet}}\n{{SubstanceBox/Nicotine}}\n'''Nicotine''' is a [[naturally-occurring]] alkaloid which can have both [[psychoactive class::stimulant]] and [[psychoactive class::depressant]] effects due to it affecting a range of biological systems simultaneously. <ref name=\":0\">Cholinergic Drugs I - Nicotinic and Muscarinic Receptors - Chemistry LibreTexts <nowiki>https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Medicinal_Chemistry/Cholinergic_Drugs_I_-_Nicotinic_and_Muscarinic_Receptors</nowiki></ref> \n\nNicotine is a substance of the [[chemical class::pyridine]] and [[chemical class::pyrrolidine]] classes. It is the principal [[alkaloid]] found in the nightshade family of plants.<ref>{{cite journal | vauthors=((Siegmund, B.)), ((Leitner, E.)), ((Pfannhauser, W.)) | journal=Journal of Agricultural and Food Chemistry | title=Determination of the Nicotine Content of Various Edible Nightshades (Solanaceae) and Their Products and Estimation of the Associated Dietary Nicotine Intake | volume=47 | issue=8 | pages=3113–3120 | date=1 August 1999 | url=https://pubs.acs.org/doi/10.1021/jf990089w | issn=0021-8561 | doi=10.1021/jf990089w}}</ref> It produces its effects by binding to nicotinic [[acetylcholine]] [[receptors]] (nAChRs).<ref>{{Citation | vauthors=PubChem | title=Nicotine | url=https://pubchem.ncbi.nlm.nih.gov/compound/89594 | access-date=14 August 2020}}</ref>\n\nAs the primary psychoactive component in [[Routes of administration|nicotine vapes]] and tobacco ''(cigarettes, cigars, snuff, snus)'' nicotine is one of the most widely used substances in the world.<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | year=2021 | title=Cigarettes and Other Tobacco Products DrugFacts | url=https://nida.nih.gov/publications/drugfacts/cigarettes-other-tobacco-products}}</ref> It is also used as an antiherbivore agent to deter plant predation and has been used as an insecticide in the past. <ref>{{cite journal | vauthors=((Tomizawa, M.)), ((Casida, J. E.)) | journal=Annual Review of Pharmacology and Toxicology | title=NEONICOTINOID INSECTICIDE TOXICOLOGY: Mechanisms of Selective Action | volume=45 | issue=1 | pages=247–268 | date=22 September 2005 | url=https://www.annualreviews.org/doi/10.1146/annurev.pharmtox.45.120403.095930 | issn=0362-1642 | doi=10.1146/annurev.pharmtox.45.120403.095930}}</ref> \n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement]], [[motivation enhancement]], [[anxiety suppression]], and mild [[euphoria]]. The stimulating and anxiety-suppressing effects are considered mild compared to other substances, but can nevertheless promote [[compulsive redosing]]. \n\nUnlike many other [[psychoactive substances]], nicotine in the form of tobacco is reported to have a unique biphasic effect in which inhaling it in short puffs produces a [[psychoactive class::stimulant]] effect, while deep drags produces a relaxing one. Nicotine overdoses, even mild ones, are reported to be highly unpleasant and result in significant [[nausea]] and light-headedness.  \n\nNicotine is well-studied and known to be highly addictive. At sufficiently high doses, it can potentially be deadly, though serious or fatal overdoses are rare. The antidote for nicotine overdose is the anticholinergic drug, atropine, a tropane alkaloids found in belladonna, and datura species. The major harms of nicotine addiction are associated with the negative health effects of chronic tobacco smoking, which include heart disease and various forms of cancer.{{citation needed}} While the link between tobacco use and cancer is well-established, various roles of nicotine in cancer initiation have also been found.<ref>{{cite journal | vauthors=((Mishra, A.)), ((Chaturvedi, P.)), ((Datta, S.)), ((Sinukumar, S.)), ((Joshi, P.)), ((Garg, A.)) | journal=Indian Journal of Medical and Paediatric Oncology | title=Harmful effects of nicotine | volume=36 | issue=01 | pages=24–31 | date= January 2015 | url=http://www.thieme-connect.de/DOI/DOI?10.4103/0971-5851.151771 | issn=0971-5851 | doi=10.4103/0971-5851.151771}}</ref>  \n\nNicotine patches and nicotine-containing chewing gums are being currently used in nicotine-replacement therapy to help tobacco users quit. \n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{historyStub}}\nCrude nicotine was known by 1571, and the compound was obtained in purified form in 1828; the correct molecular formula was established in 1843, and the first laboratory synthesis was reported in 1904.\n\n''Nicotiana rustica'' has been used by the Mapacho (South America)<ref>{{cite book | date = 1992 | title = Food of the Gods: The Search for the Original Tree of Knowledge - A Radical History of Plants, Drugs, and Human Evolution | publisher = Bantam | isbn = 0-553-37130-4 | page = 196 | chapter = Shamanic Tobaccos}}</ref> and the thuoc lao (thuốc lào) (Vietnam) people for spiritual purposes.\n\n===Pituri===\n[https://en.wikipedia.org/wiki/Pituri Pituri], also known as mingkulpa,<ref name=\"Ratsch\">{{cite journal | url=https://www.rrh.org.au/journal/article/4044 | doi=10.22605/RRH4044 | title=The Pituri Learning Circle: Central Australian Aboriginal women's knowledge and practices around the use of Nicotiana SPP. As a chewing tobacco | year=2017 | last1=Ratsch | first1=Angela | last2=Mason | first2=Andrea | last3=Rive | first3=Linda | last4=Bogossian | first4=Fiona | last5=Steadman | first5=Kathryn | journal=Rural and Remote Health | volume=17 | issue=3 | page=4044 | pmid=28780876 | doi-access=free}}</ref> is a mixture of leaves and wood ash traditionally chewed as a [[stimulant]] (or, after [https://en.wikipedia.org/wiki/Drug_titration extended use], a [[depressant]]) by Aboriginal Australians widely across the continent. At first, nicotine acts as a [[stimulant]], boosting the production or availability of chemicals such as [[acetylcholine]], [[norepinephrine]], [[dopamine]], beta-endorphin and [[serotonin]] in the brain and other parts of the body. After sustained use, though, the body's ability to maintain heightened levels of these chemicals is temporarily exhausted and nicotine begins to act as a [[depressant]] and in high doses may induce stupor or trance.<ref name=\"Ratsch\" />\n\nThe quid is chewed from time to time and held behind the lower lip or cheek for long periods, where the thin skin, richly endowed with blood vessels, readily absorbs the nicotine. It may be shared with others, passing from person to person until returned to its owner. It may be carried pressed behind the ear, under a breast or beneath a head- or arm-band – possibly acting as a nicotine patch. A fresh quid may be prepared and held in the mouth while sleeping, so that for some chewers nicotine absorption is constant.<ref name=\"Ratsch\" />\n\n====Dosage====\n\"Analysis of dry leaf Nicotiana spp. preferred for use as pituri has demonstrated nicotine content as high as 11 mg/g\".<ref>{{cite journal |last1=Ratsch |first1=A |last2=Bogossian |first2=F |last3=Burmeister |first3=EA |last4=Ryu |first4=B |last5=Steadman |first5=KJ |title=Higher blood nicotine concentrations following smokeless tobacco (pituri) and cigarette use linked to adverse pregnancy outcomes for Central Australian Aboriginal pregnancies. |journal=BMC public health |date=23 November 2022 |volume=22 |issue=1 |pages=2157 |doi=10.1186/s12889-022-14609-4 |pmid=36419022 |pmc=9685874}}</ref> For comparison, the nicotine content of nicotine pouches, or dipping tobacco, is typically listed directly on the package in mg/g and usually falls within a range of 4 to 14 mg/g.\n\n==Chemistry==\nNicotine (3-[(2S)-1-methylpyrrolidin-2-yl]pyridine) is a naturally occurring bicyclic compound comprised of a pyridine ring attached to the second carbon of a [[pyrrolidine]] ring that has a methyl substituent on the nitrogen. Pyridine is an unsaturated six-membered ring structurally related to benzene but with a nitrogen member. Nicotine additionally contains a [[substituted pyrrolidine]] ring, which is a saturated five-membered ring with one nitrogen member. These rings are bridged from the R<sub>3</sub> position of the pyridine ring to the R<sub>2</sub> position of the pyrrolidine ring. \n\nBoth optical enantiomers of nicotine are active, with the naturally occurring levorotatory [[enantiomer]] being more active and more toxic than the dextrorotatory. In its basic form, it is an oily liquid that is miscible with water. However, as a nitrogenous base, nicotine readily forms stable, water-soluble salts when acidified.\n\n==Pharmacology==\nNicotine produces its stimulating effects by [[Agonist|agonizing]] nicotinic [[acetylcholine]] [[receptors]], causing the liver to release glucose and the adrenal medulla to release [[epinephrine]] (adrenaline).\n\nOnce it reaches the brain, nicotine stimulates the release of many neurotransmitters and hormones, including [[acetylcholine]], [[norepinephrine]], [[epinephrine]], [[arginine vasopressin]], [[serotonin]], [[dopamine]], and [[Beta-Endorphin|β-endorphin]]<ref>{{cite journal | vauthors=((Pomerleau, O. F.)), ((Pomerleau, C. S.)) | journal=Neuroscience & Biobehavioral Reviews | title=Neuroregulators and the reinforcement of smoking: Towards a biobehavioral explanation | volume=8 | issue=4 | pages=503–513 | date= December 1984 | url=https://linkinghub.elsevier.com/retrieve/pii/0149763484900071 | issn=01497634 | doi=10.1016/0149-7634(84)90007-1}}</ref><ref>{{cite journal | vauthors=((Pomerleau, O. F.)), ((Rosecrans, J.)) | journal=Psychoneuroendocrinology | title=Neuroregulatory effects of nicotine | volume=14 | issue=6 | pages=407–423 | date= January 1989 | url=https://linkinghub.elsevier.com/retrieve/pii/0306453089900401 | issn=03064530 | doi=10.1016/0306-4530(89)90040-1}}</ref>, which are responsible for the majority of its psychoactive effects.\n\nBy increasing the level of acetylcholine in the brain, nicotine enhances concentration. [[Norepinephrine]] release causes increased alertness and arousal. With low doses, nicotine enhances the action of [[norepinephrine]] and [[dopamine]], which produces typical psychostimulation. Nicotine also has sedative effects as produced by the release of [[Beta-Endorphin|β-endorphin]] (which reduces anxiety) and enhances the action of [[serotonin]] and [[opioids]] (which causes sedation).{{citation needed}}\n\n===Bioavailability===\n\n*[[Oral]]: 20% - 45%\n*[[Insufflated|Intranasal]]: 53%\n*[[Transdermal]]: 68%\n\n===Metabolism===\nNicotine has a half-life of 1 - 2 hours when administered in a single dose and an active metabolite ([[cotinine]]) with a half-life of 20 hours. Nicotine and cotinine are further glucuronidated by UGT2B10.<ref>{{cite journal | vauthors=((Chen, G.)), ((Blevins-Primeau, A. S.)), ((Dellinger, R. W.)), ((Muscat, J. E.)), ((Lazarus, P.)) | journal=Cancer Research | title=Glucuronidation of nicotine and cotinine by UGT2B10: loss of function by the UGT2B10 Codon 67 (Asp>Tyr) polymorphism | volume=67 | issue=19 | pages=9024–9029 | date=1 October 2007 | issn=0008-5472 | doi=10.1158/0008-5472.CAN-07-2245}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' - The stimulatory effects of nicotine are much less pronounced than other [[stimulants]] such as [[caffeine]] or [[amphetamine]]. At higher doses, however, nicotine inhibits nerve transmission which produces moderate sedative effects.\n*'''[[Effect::Dizziness]]''' - At high doses or with users without any tolerance, nicotine can cause one to feel dizzy or lightheaded.\n*'''[[Effect::Abnormal heartbeat]]''' - At high doses, nicotine can trigger an elevated heart rate or even heart palpitations.\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Increased salivation]]''' or '''[[Effect::Dry Mouth]]''' - Dry mouth happens rarely with high doses of nicotine, but it's milder than cannabis.\n*'''[[Effect::Nausea]]''' - This effect tends to only be prominent at excessively high doses and especially when one has a low tolerance.\n*'''[[Effect::Physical euphoria]]''' - Physical euphoria with nicotine happens more often when the user has low tolerance. After regular use this effect can only happen at high or normal doses after discontinued use. It is worth noting that this euphoria isn't as pronounced as MDMA, Cocaine or any other stimulant.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' and '''[[Effect::Anxiety suppression]]''' - Low doses of nicotine produce stimulatory effects, which can cause anxiety. Higher doses stimulate the release of [[beta-endorphin]], an opioid found within the body, which relieves anxiety.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - Nicotine increases sociability \n*'''[[Effect::Dream potentiation]]'''<ref>{{cite journal | vauthors=((Page, F.)), ((Coleman, G.)), ((Conduit, R.)) | journal=Physiology & Behavior | title=The effect of transdermal nicotine patches on sleep and dreams | volume=88 | issue=4 | pages=425–432 | date=30 July 2006 | url=https://www.sciencedirect.com/science/article/pii/S0031938406001697 | issn=0031-9384 | doi=10.1016/j.physbeh.2006.04.009}}</ref>\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]''' - Nicotine has the capability of inducing heightened sexual arousal due to its effect on dopamine transmission.\n*'''[[Effect::Increased music appreciation]]''' - This effect is most noticeable when combined with [[hallucinogens]] or other [[stimulant]] [[psychoactive substance|substances]]. \n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Nicotine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Nicotine.shtml Erowid Experience Vaults: Nicotine]\n\n==Forms==\nMain: [https://en.wikipedia.org/wiki/List_of_tobacco_products List of tobacco products (Wikipedia)]\n\n{{mbox|type=notice|text=Nicotine replacement therapy (NRT) products such as nicotine lozenges, gums, sublingual tablets, or mouth spray offer a convenient way to deliver controlled levels of nicotine and reduced carciogenic particles, in contrast to tobacco products, or non-tobacco nicotine products such as e-cigarettes or nicotine pouches.\n\n<p>[https://en.wikipedia.org/wiki/Pituri Pituri] (and other plants such as [https://en.wikipedia.org/wiki/Nicotiana_rustica ''Nicotiana rustica'']) is a traditional nicotine stimulant orally used by Aboriginal Australians traditionally made from Australian tobacco plants, while NRT products are modern medical tools for smoking cessation. However, NRT can potentially be used as a nicotine source for controlled pituri rituals (for example 4 mg nicotine cheweing gum, see \"Table 2\" [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2944156/ here]), providing a safer and more regulated alternative to traditional tobacco-based methods.</p>}}\n\n===Nicotine-only products===\nThe nicotine in nicotine-only products typically use nicotine extracted from [[#Tobacco|tobacco]] plants -- and the tobacco industry is linked to ethical issues.\n\n====E-cigarettes====\n[[File:Electronic Cigarette and USB Charger (14939561277) (retouched).jpg|thumb|200px|left|A first-generation e-cigarette that resembles a tobacco cigarette|alt=Photo of device]]\n\nMore recently, nicotine in liquid forms (commonly called e-liquid) intended for vaporizing in electronic cigarettes has become popular as an alternative to smoking. Illicit and unregulated E-cigarettes can contain a variety of additives that can be dangerous such as: Diacetyl (chemical linked to lung disease called bronchiolitis obliterans or better known as \"popcorn lung\"), Diethylene glycol (ingredient used in antifreeze, linked to lung diseases), Heavy metals (usually nickel, tin, or lead), benzene (A VOC found in car exhaust),and Acrolein (a herbicide, can cause irreversible lung damage).<ref>{{Citation | title=What’s in an E-Cigarette? | url=https://www.lung.org/quit-smoking/e-cigarettes-vaping/whats-in-an-e-cigarette}}</ref> It is important to note, however, that popcorn lung is not typically associated with E-cigarettes, these ingredients aren't typically found in E-cigarettes or E-liquid<ref>{{Citation | title= Addressing common myths about vaping | url=https://ash.org.uk/uploads/Addressing-common-myths-about-vaping-ASH-brief.pdf?v=1691052025}}</ref>. \n\nA 2023 report by the World Health Organization (WHO) found that 34 countries had [https://en.wikipedia.org/wiki/Regulation_of_electronic_cigarettes banned the sale of e-cigarettes].<ref>{{cite web |title=New Report: WHO urges urgent government actions to protect youth and prevent the uptake of e-cigarettes |url=https://www.who.int/laos/news/detail/14-02-2024-new-report--who-urges-urgent-government-actions-to-protect-youth-and-prevent-the-uptake-of-e-cigarettes |website=www.who.int |language=en}}</ref>\n\n====Nicotine pouches====\n[[File:Size of nicotine pouch (cropped).png|thumb|A single 3cm nicotine pouch]]\n\n[https://en.wikipedia.org/wiki/Nicotine_pouch Nicotine pouches] are white pouches usually made from plant fibers containing nicotine among other ingredients. They do not include [[tobacco]] leaf, dust, or stem.<ref name=\"RobichaudSeidenberg2019\">{{cite journal |last1=Robichaud |first1=Meagan O. |last2=Seidenberg |first2=Andrew B. |last3=Byron |first3=M. Justin |title=Tobacco companies introduce 'tobacco-free' nicotine pouches |journal=Tobacco Control |date=21 November 2019 |volume=29 |issue=e1 |pages=e145–e146 |doi=10.1136/tobaccocontrol-2019-055321 |pmid=31753961 |pmc=7239723 }}</ref> The nicotine may either be derived from tobacco plants or may be synthetic. Nicotine pouches are described as either similar to or a tobacco-free version of snus.<ref name=\"RobichaudSeidenberg2019\" /><ref name=\"DagbladetSnusWithoutTobacco\">{{Cite web|url=https://www.dagbladet.no/a/70044417|title=Bråstans for snus uten tobakk|last=Klausen|first=Marte|date=2018-07-25|website=Dagbladet.no|language=no|access-date=2020-02-02}}</ref><ref>{{Cite web|url=https://www.nettotobak.com/varumarken/lyft|title=LYFT {{!}} Vitt utan Tobak! {{!}} Nettotobak!|website=Nettotobak.com|language=en|access-date=2020-02-03|quote=LYFT är det senaste inom helvitt snus}}</ref>\n\n====Nicotine replacement therapy (NRT)====\n[https://en.wikipedia.org/wiki/Nicotine_replacement_therapy Nicotine replacement therapy] products contain purified nicotine in standardized dosages. They are intended to assist users who wish to cease use of tobacco products like cigarettes. Popular products include sublingual lozenges and sprays, skin patches, inhalers, and solutions used for oral use or in conjunction with a vaporizer.\n\n[[File:Nicotine pastille.jpg|thumb|right|Nicotine pastilles]]\n\n{| class=\"wikitable\" style=\"margin-left:15px; text-align:center\"\n!NRT Type\n!Device/package\n!Availability\n!How it works<ref>{{Cite web|url=https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/guide/explore-medications.html|title=Learn About Nicotine Replacement Therapy|last=CDCTobaccoFree|date=2019-06-04|website=Centers for Disease Control and Prevention|language=en-us|access-date=2019-10-28|archive-date=2019-06-15|archive-url=https://web.archive.org/web/20190615044756/https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/guide/explore-medications.html|url-status=live}}</ref><ref>{{cite web |url=https://www.fda.gov/media/131058/download |format=PDF |title=Nicotine Mouth Spray, 1 mg |author=Nonprescription Drugs Advisory Committee |date=September 18, 2019 |website=www.fda.gov}}</ref>\n|-\n|[https://en.wikipedia.org/wiki/Nicotine_patch Patch]\n|Pouch\n|Over-the-counter\n|16 or 24 hours sustained-release transdermal patch\n|-\n|[https://en.wikipedia.org/wiki/Nicotine_lozenge Lozenge]\n|Blister pack\n|Over-the-counter\n|20 to 30 minutes modified-release dosage tablet containing nicotine polacrilex\n|-\n|Sublingual tablets\n|Blister pack\n|Over-the-counter\n|Quickly dissolves to releases nicotine through a hard candy\n|-\n|[https://en.wikipedia.org/wiki/Nicotine_gum Nicotine gum]\n|Blister pack\n|Over-the-counter\n|Chewing the gum releases nicotine as a modified-release dosage\n|-\n|Mouth spray\n|Mouth spray bottle\n|Over-the-counter\n|Spraying a mist into the mouth administers nicotine for buccal administration\n|-\n|Vapour inhalator\n|Nicorette Inhalator: with 10&nbsp;mg nicotine disposable cartridges\n|Over-the-counter\n|Resembles cigarettes; A disposable cartridge contains about 10&nbsp;mg nicotine (about 40% is released). Multiple inhaling through the mouthpiece administers sufficient nicotine.\n|-\n|Pressurized [https://en.wikipedia.org/wiki/Metered-dose_inhaler Metered-dose inhaler] (pMDI)\n|\n|Prescription\n|Inhaling through the mouthpiece administers nicotine\n|-\n|[https://en.wikipedia.org/wiki/Nicotine_nasal_spray Nasal spray]\n|Nasal spray bottle\n|Prescription\n|Spraying a pump bottle into the nose administers nicotine\n|-\n|Toothpicks\n|\n|Over-the-counter\n|\n|}\n\n====Herbal tobacco====\n\n=====Herbal cigarettes=====\n[https://en.wikipedia.org/wiki/Herbal_cigarette Herbal cigarette] (also called tobacco-free cigarettes or nicotine-free cigarettes) are cigarettes that usually do not contain any tobacco or nicotine instead being composed of a mixture of various herbs and/or other plant material.<ref name=\"BBC\">{{cite news|url=http://news.bbc.co.uk/2/hi/health/background_briefings/smoking/272145.stm |publisher=BBC News |title=Alert over herbal cigarettes |date=February 5, 1999}}</ref> Herbal cigarettes can carry carcinogens.\n\n=====Herbal smokeless tobacco=====\n[https://en.wikipedia.org/wiki/Herbal_smokeless_tobacco Herbal smokeless tobacco] is any product that imitates types of smokeless tobacco (chewing tobacco, dipping tobacco, snuff, snus, etc.) but does not contain tobacco and nicotine, or may contain nicotine without tobacco. Like herbal cigarettes and electronic cigarettes, they are often used as a tobacco cessation aid.<ref>{{cite web|url=https://snuscentral.org/snus-news/mr-unz-reports/item/351-is-swedish-tobacco-free-nicotine-free-snus-still-swedish-snus.html|title=Is Swedish Tobacco-Free & Nicotine-Free Snus still Swedish Snus?|first=Larry|last=Waters|publisher=}}</ref> Herbal smokeless tobacco use is an alternative to using smokeless tobacco that may help users quit.\n\n====Vaporizers====\nLiquid concentrate vaporizers can be used with vape liquids containing nicotine.\n\nDry herb vaporizers are designed for optimal temperature ranges specific to different herbs. Tobacco burns at a much higher temperature than most herbs used in vaporizers. Using tobacco in a dry herb vaporizer could result in combustion, which defeats the purpose of vaping (avoiding smoke) and could potentially create harmful byproducts.\n\n===Tobacco===\nSee also: [[Nicotiana (botany)|''Nicotiana'']]\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Tobacco was found to be the sixth overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n\nThe most common source of nicotine is ''Nicotiana tabacum'', constituting 0.6% - 3.0% of its dry weight.<ref>{{cite journal | vauthors=((Hossain, A. M.)), ((Salehuddin, S. M.)) | journal=Arabian Journal of Chemistry | title=Analytical determination of nicotine in tobacco leaves by gas chromatography–mass spectrometry | volume=6 | issue=3 | pages=275–278 | date=1 July 2013 | url=https://www.sciencedirect.com/science/article/pii/S187853521000211X | issn=1878-5352 | doi=10.1016/j.arabjc.2010.10.006}}</ref> It is also present in other species of '''Nightshade''' (''Solanaceae''), such as '''Aztec tobacco''' (''Nicotiana rustica'').\n\nIndustrial tobacco production raises ethical concerns. Deforestation, child labor, and health risks for workers are major issues. For example, workers can experience a type of nicotine poisoning known as [https://en.wikipedia.org/wiki/Green_Tobacco_Sickness Green Tobacco Sickness] (GTS), from absorbing nicotine directly through their skin when handling uncured tobacco leaves.\n\n====Heated tobacco products====\n[[File:Philip Morris IQOS Hybrid - Burnt out tobacco from IQOS Heet stick (31014691033).jpg|thumb|left|Tobacco film (right side) following use.|alt=On an open palm, a glossy plastic IQOS holder, the short paper-wrapped mini-cigarette that was in it, and the somewhat darkened tobacco plug removed from the end of the paper cylinder.]]\n\nA [https://en.wikipedia.org/wiki/Heated_tobacco_product heated tobacco product] (HTP){{#tag:ref|Also variously known as a partially combustion heat-not-burn product,<ref name=LeighTran2018>{{cite journal|last1=Leigh|first1=Noel J|last2=Tran|first2=Phillip L|last3=O’Connor|first3=Richard J|last4=Goniewicz|first4=Maciej Lukasz|title=Cytotoxic effects of heated tobacco products (HTP) on human bronchial epithelial cells|journal=Tobacco Control|volume=27|issue=Suppl 1|year=2018|pages=s26–s29|issn=0964-4563|doi=10.1136/tobaccocontrol-2018-054317|pmc=6252481|pmid=30185530}}</ref> heat-not-burn device,<ref name=Kary2019>{{cite news|url=https://www.japantimes.co.jp/news/2019/04/18/business/corporate-business/philip-morris-says-doesnt-want-buy-cigarettes-will-iqos-help-survive/#.XUdag25Fw5s|title=Philip Morris says it doesn't want you to buy its cigarettes, but will IQOS help it survive?|last1=Kary|first1=Tiffany|work=[[The Japan Times]]|publisher=[[Bloomberg News]]|date=18 April 2019}}</ref> heat-not-burn tobacco product (HNB),<ref name=JenssenWalley2017>{{cite journal|last1=Jenssen|first1=Brian P.|last2=Walley|first2=Susan C.|last3=McGrath-Morrow|first3=Sharon A.|title=Heat-not-Burn Tobacco Products: Tobacco Industry Claims No Substitute for Science|journal=Pediatrics|volume=141|issue=1|year=2017|pages=e20172383|issn=0031-4005|doi=10.1542/peds.2017-2383|pmid=29233936|s2cid=41704475|doi-access=free}}</ref> Heat-not-Burn tobacco product,<ref name=BelushkinEsposito2018>{{cite journal|last1=Belushkin|first1=M.|last2=Esposito|first2=M.|last3=Jaccard|first3=G.|last4=Jeannet|first4=C.|last5=Korneliou|first5=A.|last6=Tafin Djoko|first6=D.|title=Role of testing standards in smoke-free product assessments|journal=Regulatory Toxicology and Pharmacology|volume=98|year=2018|pages=1–8|issn=0273-2300|doi=10.1016/j.yrtph.2018.06.021|pmid=29983383|doi-access=free}}</ref> heat-not-burn cigarette (HC),<ref name=KamadaYamashita2016>{{cite journal|last1=Kamada|first1=Takahiro|last2=Yamashita|first2=Yosuke|last3=Tomioka|first3=Hiromi|title=Acute eosinophilic pneumonia following heat-not-burn cigarette smoking|journal=Respirology Case Reports|volume=4|issue=6|year=2016|pages=e00190|issn=2051-3380|doi=10.1002/rcr2.190|pmc=5167280|pmid=28031826}}</ref> heat-not-burn cig,<ref name=Neal2015>{{cite web|url=https://gizmodo.com/what-is-a-heat-not-burn-cigarette-and-can-it-help-you-q-1676879928|title=What Is a Heat-Not-Burn Cigarette and Can It Help You Quit?|author=Meg Neal|website=[[Gizmodo]]|date=2 January 2015}}</ref> HNB tobacco product,<ref name=\"JenssenWalley2017\" /> HnB tobacco product,<ref name=SimonaviciusMcNeill2018>{{cite journal|last1=Simonavicius|first1=Erikas|last2=McNeill|first2=Ann|last3=Shahab|first3=Lion|last4=Brose|first4=Leonie S|title=Heat-not-burn tobacco products: a systematic literature review|journal=Tobacco Control|volume=28|issue=5|year=2018|pages=tobaccocontrol–2018–054419|issn=0964-4563|doi=10.1136/tobaccocontrol-2018-054419|pmc=6824610|pmid=30181382}}{{CC-notice|cc=by4|url=https://tobaccocontrol.bmj.com/content/early/2019/01/28/tobaccocontrol-2018-054419|author(s)=Erikas Simonavicius, Ann McNeill1, Lion Shahab, and Leonie S Brose}}</ref> HNB product,<ref name=\"MallockBöss2018\">{{cite journal|last1=Mallock|first1=Nadja|last2=Böss|first2=Lisa|last3=Burk|first3=Robert|last4=Danziger|first4=Martin|last5=Welsch|first5=Tanja|last6=Hahn|first6=Harald|last7=Trieu|first7=Hai-Linh|last8=Hahn|first8=Jürgen|last9=Pieper|first9=Elke|last10=Henkler-Stephani|first10=Frank|last11=Hutzler|first11=Christoph|last12=Luch|first12=Andreas|title=Levels of selected analytes in the emissions of \"heat not burn\" tobacco products that are relevant to assess human health risks|journal=Archives of Toxicology|volume=92|issue=6|year=2018|pages=2145–2149|issn=0340-5761|doi=10.1007/s00204-018-2215-y|pmc=6002459|pmid=29730817}}</ref> HnB product,<ref name=\"SimonaviciusMcNeill2018\" /> heat-not-burn tobacco device,<ref name=Paumgartten2018>{{cite journal|last1=Paumgartten|first1=Francisco J.R.|title=A critical appraisal of the harm reduction argument for heat-not-burn tobacco products|journal=Revista Panamericana de Salud Pública|volume=42|year=2018|pages=e161|issn=1020-4989|doi=10.26633/RPSP.2018.161|pmc=6386018|pmid=31093189}}</ref> heat-not-burn system,<ref name=KaurMuthumalage2018>{{cite journal|last1=Kaur|first1=Gurjot|last2=Muthumalage|first2=Thivanka|last3=Rahman|first3=Irfan|title=Mechanisms of toxicity and biomarkers of flavoring and flavor enhancing chemicals in emerging tobacco and non-tobacco products|journal=Toxicology Letters|volume=288|year=2018|pages=143–155|issn=0378-4274|doi=10.1016/j.toxlet.2018.02.025|pmc=6549714|pmid=29481849}}</ref> HnB system,<ref name=\"SimonaviciusMcNeill2018\" /> heat-not-burn (HNB) device,<ref name=\"MallockBöss2018\" /> heat-not-burn device,<ref name=\"KaurMuthumalage2018\" /> HNB device,<ref name=\"MallockBöss2018\" /> HnB tobacco device,<ref name=PieperMallock2018>{{cite journal|last1=Pieper|first1=Elke|last2=Mallock|first2=Nadja|last3=Henkler-Stephani|first3=Frank|last4=Luch|first4=Andreas|title=Tabakerhitzer als neues Produkt der Tabakindustrie: Gesundheitliche Risiken|journal=Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz|volume=61|issue=11|pages=1422–1428|trans-title=\"Heat not burn\" tobacco devices as new tobacco industry products: health risks|language=de|year=2018|issn=1436-9990|doi=10.1007/s00103-018-2823-y|pmid=30284624|s2cid=52915909|doi-access=free}}{{CC-notice|cc=by4|url=https://link.springer.com/article/10.1007%2Fs00103-018-2823-y|author(s)=Elke Pieper, Nadja Mallock, Frank Henkler-Stephani, and Andreas Luch}}</ref> HnB device,<ref name=Caruana2017>{{cite news|url=https://www.vapingpost.com/2017/10/25/bat-to-launch-its-hnb-device-in-russia/|title=BAT to launch its HnB device in Russia|last1=Caruana|first1=Diane|publisher=VapingPost|date=25 October 2017}}</ref> and Ukraine.<ref name=Caruana2018>{{cite news|url=https://www.vapingpost.com/2018/09/25/bat-launches-glo-in-ukraine/|title=BAT Launches Glo in Ukraine|last1=Caruana|first1=Diane|publisher=VapingPost|date=25 September 2018}}</ref>\n In France, glo uses tobacco sticks called Neostiks.<ref name=DautzenbergDautzenberg2018>{{cite journal|last1=Dautzenberg|first1=B.|last2=Dautzenberg|first2=M.-D.|title=Le tabac chauffé : revue systématique de la littérature|journal=Revue des Maladies Respiratoires|volume=36|issue=1|pages=82–103|trans-title=Systematic analysis of the scientific literature on heated tobacco|language=fr|year=2018|issn=0761-8425|doi=10.1016/j.rmr.2018.10.010|pmid=30429092|doi-access=free}}</ref> HNB cigarette,<ref name=JenssenBoykan2019>{{cite journal|last1=Jenssen|first1=Brian P.|last2=Boykan|first2=Rachel|title=Electronic Cigarettes and Youth in the United States: A Call to Action (at the Local, National and Global Levels)|journal=Children|volume=6|issue=2|year=2019|pages=30|issn=2227-9067|doi=10.3390/children6020030|pmc=6406299|pmid=30791645|doi-access=free}}</ref> heated cigarette,<ref name=Craver-2015>{{cite news|url=https://www.journalnow.com/business/reynolds-decision-to-stop-marketing-of-heated-cigarette-revo-illustrates/article_afc1a516-29dc-55a5-8a54-75bd32cddd60.html|title=Reynolds' decision to stop marketing of heated cigarette Revo illustrates challenges in selling adult smokers on new products|last1=Craver|first1=Richard|work=[[Winston-Salem Journal]]|date=2 August 2015}}</ref> HTP cigarette,<ref name=JeongCho2019>{{cite journal|last1=Jeong|first1=Won Tae|last2=Cho|first2=Hyun Ki|last3=Lee|first3=Hyung Ryeol|last4=Song|first4=Ki Hoon|last5=Lim|first5=Heung Bin|title=Comparison of the content of tobacco alkaloids and tobacco-specific nitrosamines in 'heat-not-burn' tobacco products before and after aerosol generation|journal=Inhalation Toxicology|volume=30|issue=13–14|year=2019|pages=527–533|issn=0895-8378|doi=10.1080/08958378.2019.1572840|pmid=30741569|s2cid=73436802}}</ref> cigarette-like product,<ref name=StaalvandeNobelen2018>{{cite journal|last1=Staal|first1=Yvonne CM|last2=van de Nobelen|first2=Suzanne|last3=Havermans|first3=Anne|last4=Talhout|first4=Reinskje|title=New Tobacco and Tobacco-Related Products: Early Detection of Product Development, Marketing Strategies, and Consumer Interest|journal=JMIR Public Health and Surveillance|volume=4|issue=2|year=2018|pages=e55|issn=2369-2960|doi=10.2196/publichealth.7359|pmid=29807884|pmc=5996176 |doi-access=free }}{{CC-notice|cc=by4|url=http://publichealth.jmir.org/2018/2/e55/|author(s)=Yvonne CM Staal, Suzanne van de Nobelen, Anne Havermans, and Reinskje Talhout}}</ref> mini-cigarette,<ref name=\"DautzenbergDautzenberg2018\" /> electronic heated tobacco product,<ref name=St.HelenJacobIII2018>{{cite journal|last1=St.Helen|first1=Gideon|last2=Jacob III|first2=Peyton|last3=Nardone|first3=Natalie|last4=Benowitz|first4=Neal L|title=IQOS: examination of Philip Morris International's claim of reduced exposure|journal=Tobacco Control|volume=27|issue=Suppl 1|year=2018|pages=s30–s36|issn=0964-4563|doi=10.1136/tobaccocontrol-2018-054321|pmc=6252487|pmid=30158205}}{{CC-notice|cc=by4|url=https://tobaccocontrol.bmj.com/content/27/Suppl_1/s30.long|author(s)=Gideon St.Helen, Peyton Jacob III, Natalie Nardone, and Neal L Benowitz}}</ref> electronically-heated cigarette smoking system (EHCSS),<ref name=Lindson-HawleyHartmann-Boyce2016>{{cite journal|last1=Lindson-Hawley|first1=Nicola|last2=Hartmann-Boyce|first2=Jamie|last3=Fanshawe|first3=Thomas R|last4=Begh|first4=Rachna|last5=Farley|first5=Amanda|last6=Lancaster|first6=Tim|title=Interventions to reduce harm from continued tobacco use|journal=Cochrane Database of Systematic Reviews|volume=10|pages=CD005231|year=2016|issue=12|issn=1465-1858|doi=10.1002/14651858.CD005231.pub3|pmc=6463938|pmid=27734465}}</ref> electrically heated cigarette smoking system,<ref name=EliasDutra2018>{{cite journal|last1=Elias|first1=Jesse|last2=Dutra|first2=Lauren M|last3=St. Helen|first3=Gideon|last4=Ling|first4=Pamela M|title=Revolution or redux? Assessing IQOS through a precursor product|journal=Tobacco Control|volume=27|issue=Suppl 1|year=2018|pages=s102–s110|issn=0964-4563|doi=10.1136/tobaccocontrol-2018-054327|pmc=6238084|pmid=30305324}}</ref> electrically heated tobacco system,<ref name=PacittoStabile2018>{{cite journal|last1=Pacitto|first1=A.|last2=Stabile|first2=L.|last3=Scungio|first3=M.|last4=Rizza|first4=V.|last5=Buonanno|first5=G.|title=Characterization of airborne particles emitted by an electrically heated tobacco smoking system|journal=Environmental Pollution|volume=240|year=2018|pages=248–254|issn=0269-7491|doi=10.1016/j.envpol.2018.04.137|pmid=29747109|s2cid=13711514}}</ref> non-combusted cigarette,<ref name=\"FDA-NCC-2019\" /> non-combusted tobacco product,<ref name=FDA-NCC-2019>{{cite web|url=https://www.fda.gov/tobacco-products/ctp-newsroom/how-are-non-combusted-cigarettes-sometimes-called-heat-not-burn-products-different-e-cigarettes-and|title=How are Non-Combusted Cigarettes, Sometimes Called Heat-Not-Burn Products, Different from E-Cigarettes and Cigarettes?|publisher=United States Food and Drug Administration|date=16 May 2019}}</ref> tobacco heating cigarette,{{sfn|RIVM|2016|p=36}} tobacco heating product,{{sfn|RIVM|2016|p=36}} tobacco heating system (THS),{{sfn|McNeill|2018|p=30}}<ref name=\"KaunelienėMeišutovič-Akhtarieva2018\">{{cite journal|last1=Kaunelienė|first1=Violeta|last2=Meišutovič-Akhtarieva|first2=Marija|last3=Martuzevičius|first3=Dainius|title=A review of the impacts of tobacco heating system on indoor air quality versus conventional pollution sources|journal=Chemosphere|volume=206|year=2018|pages=568–578|issn=0045-6535|doi=10.1016/j.chemosphere.2018.05.039|pmid=29778082|bibcode=2018Chmsp.206..568K|doi-access=free}}</ref> smokeless cigarette,<ref name=Haig2003>{{cite book|url=https://books.google.com/books?id=6o7SrLdgx8gC&pg=PA51|title=Brand Failures: The Truth about the 100 Biggest Branding Mistakes of All Time|last1=Haig|first1=Matt|year=2003|publisher=Kogan Page Publishers|isbn=978-0-7494-4433-4}}</ref> smokeless tobacco stick,<ref name=KHN2018>{{cite news|url=https://khn.org/morning-breakout/philip-morris-smokeless-tobacco-stick-shouldnt-be-marketed-as-safer-than-cigarettes-fda-panel-says/|title=Philip Morris' Smokeless Tobacco Stick Shouldn't Be Marketed As Safer Than Cigarettes, FDA Panel Says|publisher=[[Kaiser Family Foundation|Kaiser Health News]]|date=26 January 2018}}</ref> tobacco stick product,<ref name=\"NZH2017\">{{cite news|url=https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11858402|title=Tobacco company charged over importing prohibited product|work=[[The New Zealand Herald]]|date=18 May 2017}}</ref> loose-leaf tobacco vaporizer (LLTV),<ref name=LopezHiler2016>{{cite journal|last1=Lopez|first1=Alexa A.|last2=Hiler|first2=Marzena|last3=Maloney|first3=Sarah|last4=Eissenberg|first4=Thomas|last5=Breland|first5=Alison B.|title=Expanding clinical laboratory tobacco product evaluation methods to loose-leaf tobacco vaporizers|journal=Drug and Alcohol Dependence|volume=169|year=2016|pages=33–40|issn=0376-8716|doi=10.1016/j.drugalcdep.2016.10.005|pmc=5140724|pmid=27768968}}</ref> tobacco vaporizer,<ref name=QuelozEtter2019>{{cite journal|last1=Queloz|first1=Sébastien|last2=Etter|first2=Jean-François|title=An online survey of users of tobacco vaporizers, reasons and modes of utilization, perceived advantages and perceived risks|journal=BMC Public Health|volume=19|issue=1|pages=642|year=2019|issn=1471-2458|doi=10.1186/s12889-019-6957-0|pmc=6537171|pmid=31133009 |doi-access=free }}{{CC-notice|cc=by4|url=https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-6957-0|author(s)=Sébastien Queloz and Jean-François Etter}}</ref> or T-vapor.<ref name=UngerUnger2018>{{cite journal|last1=Unger|first1=Michael|last2=Unger|first2=Darian W.|title=E-cigarettes/electronic nicotine delivery systems: a word of caution on health and new product development|journal=Journal of Thoracic Disease|volume=10|issue=S22|year=2018|pages=S2588–S2592|issn=2072-1439|doi=10.21037/jtd.2018.07.99|pmc=6178300|pmid=30345095 |doi-access=free }}</ref>|group=note}} is a [[tobacco]] product that heats the tobacco at a lower temperature than conventional [[cigarette]]s.<ref name=\"WHO2018\">{{cite web|url=https://www.who.int/tobacco/publications/prod_regulation/heated-tobacco-products/en/|title=Heated tobacco products (HTPs) information sheet|publisher=[[World Health Organization]]|date=May 2018}}</ref> These products contain nicotine, which is a highly addictive chemical.<ref name=\"WHO2018\" /> The heat generates an aerosol or [[smoke]] to be inhaled from the tobacco, which contains nicotine{{sfn|WHO|2019|p=54}} and other chemicals.<ref name=\"DautzenbergDautzenberg2018\" /><ref name=\"WHO2018\" /> HTPs may also contain additives not found in tobacco,<ref>{{Cite journal|last1=St.Helen|first1=Gideon|last2=Jacob III|first2=Peyton|last3=Nardone|first3=Natalie|last4=Benowitz|first4=Neal L|date=November 2018|title=IQOS: examination of Philip Morris International's claim of reduced exposure|url= |journal=Tobacco Control|language=en|volume=27|issue=Suppl 1|pages=s30–s36|doi=10.1136/tobaccocontrol-2018-054321|issn=0964-4563|pmc=6252487|pmid=30158205}}</ref> including flavoring chemicals.<ref name=\"WHO2018\" /> HTPs generally heat tobacco to temperatures under 600&nbsp;°C (1100&nbsp;°F),<ref name=\"WHO2018\" /><ref name=\"PieperMallock2018\" /><ref name=\"Caputi2016\">{{cite journal|last1=Caputi|first1=TL|title=Industry watch: heat-not-burn tobacco products are about to reach their boiling point|journal=Tobacco Control|volume=26|issue=5|pages=609–610|date=24 August 2016|doi=10.1136/tobaccocontrol-2016-053264|pmid=27558827|s2cid=46170776}}</ref> a lower temperature than conventional [[cigarette]]s.<ref name=\"LiSaad2018\">{{cite journal|last1=Li|first1=Gerard|last2=Saad|first2=Sonia|last3=Oliver|first3=Brian|last4=Chen|first4=Hui|title=Heat or Burn? Impacts of Intrauterine Tobacco Smoke and E-Cigarette Vapor Exposure on the Offspring's Health Outcome|journal=Toxics|volume=6|issue=3|year=2018|pages=43|issn=2305-6304|doi=10.3390/toxics6030043|pmc=6160993|pmid=30071638|doi-access=free}}{{CC-notice|cc=by4|url=https://www.mdpi.com/2305-6304/6/3/43/htm|author(s)=Gerard Li, Sonia Saad, Brian G. Oliver, and Hui Chen}}</ref>\n\nThe key difference between dry herb vaporizers and heated tobacco products is that vaporizers heat loose plant material (like herbs) to avoid combustion, while heated tobacco products use pre-filled tobacco sticks/capsules and aim to heat, not burn, the tobacco to release nicotine. However, some [https://en.wikipedia.org/wiki/List_of_heated_tobacco_products heated tobacco products] (for example some [https://en.wikipedia.org/wiki/Pax_Labs PAX products]) are designed to be used with both tobacco and [[cannabis]] buds.\n\n====Smoked tobacco====\n[[File:Two types of smoking tobacco.jpeg|thumbnail|right|350px|Generic smoking tobacco next to branded and pre-packaged Newport Menthol cigarettes, King size.]]\n\n\"Of the more than 7,000 chemicals in tobacco smoke, at least 250 are known to be harmful, including hydrogen cyanide, carbon monoxide, and ammonia.\" - [https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/cessation-fact-sheet National Cancer Institute]\n\nTobacco for smoking is most commonly sold as cigarettes but may also be sold as cigars, which differ from cigarettes by having a tobacco leaf wrapper instead of the paper wrapper used in cigarettes. Loose tobacco for hand-rolling cigarettes and cigars, or for smoking in pipes/hookahs is also commonly available.\n\n*Enema (rectally)\n**[https://en.wikipedia.org/wiki/Tobacco_smoke_enema Tobacco smoke enema] (pseudoscience)\n*Inhaled\n**[https://en.wikipedia.org/wiki/Cigarette Cigarettes]:\n***[https://en.wikipedia.org/wiki/Beedi Beedi]\n***[https://en.wikipedia.org/wiki/Kretek Kretek]\n***[https://en.wikipedia.org/wiki/Roll-your-own_cigarette Roll-your-own cigarette]\n**[https://en.wikipedia.org/wiki/Cigar Cigars]:\n***[https://en.wikipedia.org/wiki/Blunt_(cigar) Blunt (cigar)]\n***[https://en.wikipedia.org/wiki/Cigarillos Cigarillos]\n**[https://en.wikipedia.org/wiki/Pipe_smoking Pipe smoking]\n***[https://en.wikipedia.org/wiki/Dokha Dokha], a tobacco smoked with a [https://en.wikipedia.org/wiki/Midwakh midwakh] pipe\n***Kizami, a tobacco smoked with a [https://en.wikipedia.org/wiki/Kiseru kiseru] pipe\n***[https://en.wikipedia.org/wiki/Mu%CA%BDassel Muʽassel], a tobacco smoked with a [https://en.wikipedia.org/wiki/Hookah hookah] pipe\n\n====Smokeless tobacco====\n[[File:Two snuff bullets for snorting drugs in powder form.jpg|thumb|150px|In recent years a popular method of snuff insufflation has been the snuff bullet.]]\n[[File:Dipping tobacco in mouth.jpg|thumb|150px|Dipping tobacco is placed between the lip and the gum (sublabial administration).]]\n\nAs of 2017, the World Health Organization states that \"Smokeless tobacco use is a significant part of the overall world tobacco problem.\"<ref name=\"WHO2017\">{{cite web|url=http://apps.who.int/iris/bitstream/10665/42658/1/9241590556.pdf|title=Recommendation on smokeless tobacco products|pages=1–9|publisher=[[World Health Organization]]|year=2017}}</ref> As of 2015, the American Cancer Society states that \"Using any kind of spit or smokeless tobacco is a major health risk. It's less lethal than smoking tobacco, but less lethal is a far cry from safe.\"<ref name=\"ACS015\">{{cite web|url=https://www.cancer.org/cancer/cancer-causes/tobacco-and-cancer/smokeless-tobacco.html|title=Health Risks of Smokeless Tobacco|publisher=[[American Cancer Society]]|date=13 November 2015}}</ref>\n\nTypes of smokeless tobacco include:\n\n*Mixed routes of administration:\n**[https://en.wikipedia.org/wiki/Kuber_(tobacco) Kuber], a smokeless tobacco product known for its highly addictive properties and its unique presentation disguised as a mouth freshener. Users commonly add it to tea or consume it directly by placing a pinch under the lower lip.<ref name=\"mpasho\">{{cite news |last1=Kinyanjui |first1=Maureen |title='Kuber is killing families!' Concerned Alai warns government |url=https://mpasho.co.ke/news/2023-05-22-kuber-is-killing-families-concerned-alai-warns-government/ |access-date=27 December 2023 |work=Mpasho |date=22 May 2023}}</ref>\n*Nasal administration:\n**[https://en.wikipedia.org/wiki/Snuff_(tobacco) Snuff], a type of tobacco that is inhaled or \"snuffed\" into the nasal cavity. Traditionally, a specialized tool called a [https://en.wikipedia.org/wiki/Snuff_spoon snuff spoon] was used for this purpose. However, modern users may simply pinch the snuff between their thumb and forefinger or use pre-measured packets.\n*Oral mucosa ([https://en.wikipedia.org/wiki/Buccal_administration buccal], [https://en.wikipedia.org/wiki/Sublabial_administration sublabial], or [https://en.wikipedia.org/wiki/Sublingual_administration sublingual]):\n**[https://en.wikipedia.org/wiki/Chewing_tobacco Chewing tobacco], a type of tobacco that is chewed\n**[https://en.wikipedia.org/wiki/Creamy_snuff Creamy snuff], a fluid tobacco mixture marketed as a dental hygiene aid, albeit used for recreation\n**[https://en.wikipedia.org/wiki/Dipping_tobacco Dipping tobacco], a type of tobacco that is placed between the lower or upper lip and gums. This form of tobacco (Hindi: Khaini) is commonly used in Indian subcontinent. <ref>{{Cite web |title=Smokeless tobacco (SLT) products |url=https://extranet.who.int/fctcapps/fctcapps/fctc/kh/slt/news/smokeless-tobacco-slt-products |access-date=2024-02-23 |website=extranet.who.int}}</ref> It is the second most common form of tobacco consumption in India, after cigarrette smoking. <ref>{{Cite journal |last=Saddichha |first=Sahoo |last2=Khess |first2=Christoday Raja Jayant |date=January 2010 |title=Prevalence of tobacco use among young adult males in India: a community-based epidemiological study |url=https://pubmed.ncbi.nlm.nih.gov/20141401/ |journal=The American Journal of Drug and Alcohol Abuse |volume=36 |issue=1 |pages=73–77 |doi=10.3109/00952990903575814 |issn=1097-9891 |pmid=20141401}}</ref>\n**[https://en.wikipedia.org/wiki/Dissolvable_tobacco Dissolvable tobacco], a variation on chewing tobacco that completely dissolves in the mouth\n**[https://en.wikipedia.org/wiki/Gutka Gutka], a mixture of  tobacco, areca nut, and various flavoring sold in South Asia\n**[https://en.wikipedia.org/wiki/Iqmik Iqmik], an Alaskan tobacco product which also contains punk ash\n**[https://en.wikipedia.org/wiki/Naswar Naswar], an Afghan tobacco product similar to dipping tobacco\n**'''[https://en.wikipedia.org/wiki/Pituri Pituri], a nicotine-containing substance traditionally made from Australian tobacco plants, used by Indigenous Australians for chewing and placed between the lower lip and gums. They use it in high doses to induce stupor or trance.'''<ref name=\"Ratsch2\">{{Cite journal|title = The pituri story: a review of the historical literature surrounding traditional Australian Aboriginal use of nicotine in Central Australia.|last1 = Ratsch|first1 = A|date = 2010|journal = Journal of Ethnobiology and Ethnomedicine|doi = 10.1186/1746-4269-6-26|pmid = 20831827|last2 = Steadman|first2 = KJ|first3 = F|last3 = Bogossian|pmc=2944156|volume=6|pages=26 | doi-access=free }}</ref>\n**[https://en.wikipedia.org/wiki/Snus Snus], similar to dipping tobacco although the tobacco is placed under the upper lip and there is no need for spitting\n**Tobacco chewing gum (example, [https://en.wikipedia.org/wiki/Big_League_Chew Big League Chew]), a kind of chewing gum containing tobacco\n**Toombak and shammah, preparations found in North Africa, East Africa, and the Arabian peninsula\n*Topical:\n**[https://en.wikipedia.org/wiki/Topical_tobacco_paste Topical tobacco paste], a paste applied to the skin and absorbed through the dermis\n\n==Toxicity and harm potential==\n[[File:Tobacco cancer.png|thumb|Graphic from the 2016 Centers for Disease Control and Prevention report entitled ''Smokeless Tobacco: Health Effects''<ref name=\"CDC2016\">{{cite web|url=https://www.cdc.gov/tobacco/data_statistics/fact_sheets/smokeless/health_effects/index.htm|title=Smokeless Tobacco: Health Effects|publisher=Centers for Disease Control and Prevention|date=1 December 2016}}{{PD-notice}}</ref>|alt=Graphic from the 2016 [[Centers for Disease Control and Prevention]] report entitled ''Smokeless Tobacco: Health Effects''. The text states, \"Smokeless tobacco, like chew and dip, can cause CANCER of the MOUTH, ESOPHAGUS, AND PANCREAS.\"]]\n[[File:Theo Cope 121610.jpg|thumb|A can of [https://en.wikipedia.org/wiki/Copenhagen_(tobacco) Copenhagen] dipping tobacco with a warning label]]\n\n===Lethal dosage===\nNicotine has an [[Toxicity::estimated oral [[LD50|LD<sub>50</sub>]] of 6.5 - 13 mg/kg in humans]], which is much lower than many other common [[stimulants]]. It is unlikely that overdose can be achieved by smoking tobacco. However, coadministration with other sources of nicotine such as patches or gum may potentially be dangerous.\n\nNicotine readily passes through the dermis and into the bloodstream upon contact with skin, so safety precautions should be taken when handling it in its pure form.\n\nFlavored e-liquids intended for use in e-cigarette devices can present a particular danger to children, and there have been cases recorded where children have mistakenly consumed e-liquid products with fatal results.<ref>{{cite journal | vauthors=((Seo, A. D.)), ((Kim, D. C.)), ((Yu, H. J.)), ((Kang, M. J.)) | journal=Korean Journal of Pediatrics | title=Accidental ingestion of E-cigarette liquid nicotine in a 15-month-old child: an infant mortality case of nicotine intoxication | volume=59 | issue=12 | pages=490–493 | date= December 2016 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5300914/ | issn=1738-1061 | doi=10.3345/kjp.2016.59.12.490}}</ref>\n\n===Tolerance and addiction potential===\nNicotine activates the reward system (''mesolimbic pathway'') of the brain, which is responsible for its addictive nature. Because of this, tobacco smoking is [[Addiction potential::extremely addictive with a high potential for abuse]]. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nChronic use of nicotine, as with many other addictive substances, downregulates the production of [[dopamine]] and other stimulatory neurotransmitters and also desensitizes [[acetylcholine|nicotinic acetylcholine]] [[receptors]]. In response, the brain upregulates the number of receptors presented. The net effect is an increase in sensitivity to the reward system; the opposite of the decrease in sensitivity as caused by addictive substances like [[cocaine]] and [[heroin]].\n\nIn some people, it can take as little as one or two cigarettes before reaching 100% tolerance. This means a decreased dizziness from smoking. Nicotine leaves the system very rapidly. The half-life of nicotine in the brain is about 90 minutes. In 8 or 9 hours, the brain has cleared the active drug completely.<ref>{{cite journal | vauthors=((Perkins, K. A.)) | journal=Nicotine & Tobacco Research | title=Chronic tolerance to nicotine in humans and its relationship to tobacco dependence | volume=4 | issue=4 | pages=405–422 | date=1 November 2002 | url=https://academic.oup.com/ntr/article-lookup/doi/10.1080/1462220021000018425 | issn=1462-2203 | doi=10.1080/1462220021000018425}}</ref>\n\nTolerance to the effects of this compound [[Time to full tolerance::rapidly develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Nicotine does not present a cross-tolerance with other [[dopaminergic]] [[stimulants]], meaning that after the use of nicotine all [[stimulants]] will not have a reduced effect.\n\nFollowing discontinuation of nicotine, receptors may take several months to return to baseline.\n\n===Pregnancy===\nNicotine has been indicated in the increased frequency of congenital disabilities and has been correlated with the increase of attention deficit hyperactivity disorder in children.\n\n==Legal status==\nNicotine is legal nearly all over the world and is one of the most popularly used substances. The sale of tobacco products are usually restricted to adults, and they are often heavily taxed. \n\n*'''Australia:''' From 1 October 2021, Nicotine in salt or freebase forms (including solutions) are illegal to import into the country without a license and permit. This also includes refillable nicotine pods and any vape products containing nicotine.<ref> TGA Vaping and Nicotine Import Ban | https://www.tga.gov.au/behind-news/prohibition-importing-e-cigarettes-containing-vaporiser-nicotine</ref>\n*'''Bhutan:''' Tobacco products are legal, but their public use is restricted to specific smoke-friendly areas.<ref>Tobacco Control Act of Bhutan, 2010 (in both Dzongkha and English), government of Bhutan. [http://www.searo.who.int/tobacco/data/bhu-10.pdf PDF file]</ref>\n\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Substituted pyrrolidine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Nicotine Nicotine (Wikipedia)]\n*[http://www.erowid.org/chemicals/nicotine/ Nicotine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3692 Nicotine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00184 Nicotine (DrugBank)]\n*[https://drugs-forum.com/wiki/Nicotine Nicotine (Drugs-Forum)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n\n[[Category:Alkaloid]]\n[[Category:Depressant]]\n[[Category:Pyrrolidine]]\n[[Category:Stimulant]]\n<references group=\"note\" />"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10885",
+ "type": "substance-summary",
+ "title": "Diphenidine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Diphenidine/Summary",
+  "pageid": 10885,
+  "last_edited": "2015-11-13T05:53:00Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Diphenidine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Diphenidine}}"
+}

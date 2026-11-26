@@ -1,0 +1,346 @@
+{
+ "id": "psychonautwiki:14490",
+ "type": "substance",
+ "title": "Adrafinil",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Adrafinil",
+  "pageid": 14490,
+  "last_edited": "2022-08-02T19:06:14Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzhydryl",
+  "Nootropic",
+  "Prodrug",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Adrafinil",
+ "substance_box": {
+  "names": {
+   "common": "Adrafinil, Olmifon",
+   "substitutive": "Adrafinil",
+   "systematic": "(±)-2-Benzhydrylsulfinylethanehydroxamic acid"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Eugeroic",
+   "chemical": "Benzhydryl"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "100 mg",
+    "light": "150 - 250 mg",
+    "common": "250 - 400 mg",
+    "strong": "400 - 600 mg",
+    "heavy": "600 mg +",
+    "duration": "6 - 12 hours",
+    "onset": "1 - 2 hours",
+    "comeup": "45 - 60 minutes",
+    "peak": "4.5 - 6 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "2 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Adrafinil",
+    "Olmifon"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Eugeroic"
+   ],
+   "chemical class": [
+    "Benzhydryl"
+   ],
+   "Oral threshold dose": [
+    "100"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "150"
+   ],
+   "Oral max light dose": [
+    "250"
+   ],
+   "Oral min common dose": [
+    "250"
+   ],
+   "Oral max common dose": [
+    "400"
+   ],
+   "Oral min strong dose": [
+    "400"
+   ],
+   "Oral max strong dose": [
+    "600"
+   ],
+   "Oral heavy dose": [
+    "600"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "1"
+   ],
+   "Oral max onset time": [
+    "2"
+   ],
+   "Oral onset time units": [
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "45"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "4.5"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Adrafinil",
+   "clean": "Molecular structure of Adrafinil"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Adrafinil.svg",
+   "clean": "File:Adrafinil.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Adrafinil]], [[common name::Olmifon]]",
+   "clean": "Adrafinil, Olmifon"
+  },
+  "NameSubstitution": {
+   "raw": "Adrafinil",
+   "clean": "Adrafinil"
+  },
+  "NameSystematic": {
+   "raw": "(±)-2-Benzhydrylsulfinylethanehydroxamic acid",
+   "clean": "(±)-2-Benzhydrylsulfinylethanehydroxamic acid"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Eugeroic]]",
+   "clean": "Stimulant / Eugeroic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzhydryl]]",
+   "clean": "Benzhydryl"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::100]] [[Oral dose units::mg]]",
+   "clean": "100 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::150]] - [[Oral max light dose::250]] mg",
+   "clean": "150 - 250 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::250]] - [[Oral max common dose::400]] mg",
+   "clean": "250 - 400 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::400]] - [[Oral max strong dose::600]] mg",
+   "clean": "400 - 600 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::600]] mg +",
+   "clean": "600 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::1]] - [[Oral max onset time::2]] [[Oral onset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::45]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "45 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::4.5]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "4.5 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 6 hours"
+  }
+ },
+ "plain_text": "Adrafinil (also known as Olmifon) is a prodrug for modafinil - a wakefulness-promoting agent (eugeroic) with nootropic effects. Adrafinil is metabolized in the liver to produce modafinil. Both are stimulants with no amphetamine-like effects. Safety information on adrafinil is lacking because modafinil is often used instead, for treatment of narcolepsy and excessive daytime sleepiness. Long-term supplementation of adrafinil is not advised, since adrafinil is metabolized into modafinil in the liver, and may stress the liver through elevated liver enzymes with prolonged use.\n\nChemistry\n\n250px|thumb|Adrafinil chemical structure vs. Modafinil\nAdrafinil is very structurally similar to its close chemical cousin and bioactive metabolite, modafinil. The only structural difference is that terminal amide hydroxyl group of adrafinil ((diphenylmethyl)sulﬁnyl-2 acetohydroxamic acid) is lacking in modafinil (diphenylmethyl)sulﬁnyl-2 acetamide).\n\nPharmacology\n\nThe mechanism of adrafinil appears to rely on postsynaptic α-adrenergic activity since an increase in locomotion caused by adrafinil is blocked by prazosin (α1 antagonist), yohimbine (α2 antagonist), or phenoxybenzamine (mixed α-antagonist). These increases through adrenergic neurotransmission are thought to be responsible for adrafinil's energetic properties.\n\nOrally ingested adrafinil may undergo one of two metabolic results. The main metabolite is the active modafinil, which is itself metabolized to inactive modafinilic acid and modafinil sulfone. Adrafinil, however, can also be metabolized directly to inactive modafinilic acid without conversion to modafinil.  This may account for its lower potency.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Adrafinil\n\nToxicity and harm potential\n\nThe long-term safety and effectiveness of modafinil (adrafinil's active component) as a drug of regular usage have not been determined. Anecdotal reports from people who have tried modafinil within the community suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nAdrafinil is more harmful than modafinil due to slight hepatotoxicity, as adrafinil must be processed by the liver. Stomach pain, skin irritation, anxiety, and elevated liver enzymes may occur with prolonged use and have been associated with Adrafinil, specifically.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nThe chronic use of adrafinil can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among most users.\n\nTolerance to many of the effects of adrafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Adrafinil may present a cross-tolerance with all nootropics]], meaning that after the consumption of adrafinil, all related eugeroic compounds such as armodafinil and modafinil will display a reduced effect.\n\nLegal status\n\nUnlike modafinil, adrafinil is legal to sell and possess without a prescription in most countries.\n\nSee also\n\n*Responsible use\n*Nootropics\n*Stimulants\n*Modafinil\n*Armodafinil\n*Caffeine\n*Amphetamine\n\nExternal links\n\n*Adrafinil (Wikipedia)\n*Adrafinil (Erowid Vault)\n*Adrafinil (Isomer Design)\n*Adrafinil (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Benzhydryl\nCategory:Nootropic\nCategory:Prodrug\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Adrafinil}}\n\n'''Adrafinil''' (also known as '''Olmifon''') is a prodrug for [[modafinil]] - a wakefulness-promoting agent (eugeroic) with [[psychoactive class::nootropic]] effects. Adrafinil is metabolized in the liver to produce modafinil. Both are stimulants with no amphetamine-like effects. Safety information on adrafinil is lacking because modafinil is often used instead, for treatment of narcolepsy and excessive daytime sleepiness. Long-term supplementation of adrafinil is not advised, since adrafinil is metabolized into modafinil in the liver, and may stress the liver through elevated liver enzymes with prolonged use.\n\n==Chemistry==\n[[File:Modafinil vs adrafinil.png|250px|thumb|Adrafinil chemical structure vs. Modafinil]]\nAdrafinil is very structurally similar to its close chemical cousin and bioactive metabolite, modafinil. The only structural difference is that terminal amide hydroxyl group of adrafinil ((diphenylmethyl)sulﬁnyl-2 acetohydroxamic acid) is lacking in modafinil (diphenylmethyl)sulﬁnyl-2 acetamide).<ref>{{cite journal | vauthors=((Milgram, N. W.)), ((Callahan, H.)), ((Siwak, C.)) | journal=CNS Drug Reviews | title=Adrafinil: A Novel Vigilance Promoting Agent | volume=5 | issue=3 | pages=193–212 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.1999.tb00100.x | issn=1080563X | doi=10.1111/j.1527-3458.1999.tb00100.x}}</ref>\n\n==Pharmacology==\nThe mechanism of adrafinil appears to rely on postsynaptic α-adrenergic activity since an increase in locomotion caused by adrafinil is blocked by prazosin (α1 antagonist), yohimbine (α2 antagonist), or phenoxybenzamine (mixed α-antagonist).<ref>{{cite journal | vauthors=((Duteil, J.)), ((Rambert, F. A.)), ((Pessonnier, J.)), ((Gombert, R.)), ((Assous, E.)) | journal=European Journal of Pharmacology | title=A possibe alpha-adrenergic mechanism for drug (CRL 40028)-induced hyperactivity | volume=59 | issue=1–2 | pages=121–123 | date=26 October 1979 | issn=0014-2999 | doi=10.1016/0014-2999(79)90033-5}}</ref> These increases through adrenergic neurotransmission are thought to be responsible for adrafinil's energetic properties.\n\nOrally ingested adrafinil may undergo one of two metabolic results. The main metabolite is the active modafinil, which is itself metabolized to inactive modafinilic acid and modafinil sulfone. Adrafinil, however, can also be metabolized directly to inactive modafinilic acid without conversion to modafinil. <ref>{{cite journal | vauthors=((Burnat, P.)), ((Robles, F.)), ((Do, B.)) | journal=Journal of Chromatography. B, Biomedical Sciences and Applications | title=High-performance liquid chromatographic determination of modafinil and its two metabolites in human plasma using solid-phase extraction | volume=706 | issue=2 | pages=295–304 | date=20 March 1998 | issn=1387-2273 | doi=10.1016/s0378-4347(97)00550-1}}</ref> This may account for its lower potency.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                           \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' \n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Photophobia]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Body odor alteration]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Thought acceleration]]\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Increased music appreciation]]'''\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Adrafinil]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Adrafinil.shtml Erowid Experience Vaults: Adrafinil]\n\n==Toxicity and harm potential==\nThe long-term safety and effectiveness of [[modafinil]] (adrafinil's active component) as a drug of regular usage have not been determined.<ref>{{cite journal | vauthors=((Banerjee, D.)), ((Vitiello, M. V.)), ((Grunstein, R. R.)) | journal=Sleep Medicine Reviews | title=Pharmacotherapy for excessive daytime sleepiness | volume=8 | issue=5 | pages=339–354 | date=1 October 2004 | url=https://www.sciencedirect.com/science/article/pii/S1087079204000243 | issn=1087-0792 | doi=10.1016/j.smrv.2004.03.002}}</ref> Anecdotal reports from people who have tried modafinil within the community suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nAdrafinil is more harmful than [[modafinil]] due to slight hepatotoxicity, as adrafinil must be processed by the liver. Stomach pain, skin irritation, anxiety, and elevated liver enzymes may occur with prolonged use and have been associated with Adrafinil, specifically.<ref>{{cite journal | vauthors=((Ballas, C. A.)), ((Kim, D.)), ((Baldassano, C. F.)), ((Hoeh, N.)) | journal=Expert Review of Neurotherapeutics | title=Modafinil: past, present and future | volume=2 | issue=4 | pages=449–457 | date= July 2002 | issn=1744-8360 | doi=10.1586/14737175.2.4.449}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nThe chronic use of adrafinil can be considered as [[Addiction potential::not addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among most users.{{citation needed}}\n\nTolerance to many of the effects of adrafinil [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Adrafinil may present a cross-tolerance with [[Cross-tolerance::all [[benzhydryl]] [[nootropic|nootropics]]]], meaning that after the consumption of adrafinil, all related eugeroic compounds such as [[armodafinil]] and [[modafinil]] will display a reduced effect.\n\n==Legal status==\n{{legalStub}}\nUnlike [[modafinil]], adrafinil is legal to sell and possess without a prescription in most countries.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Nootropics]]\n*[[Stimulants]]\n*[[Modafinil]]\n*[[Armodafinil]]\n*[[Caffeine]]\n*[[Amphetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Adrafinil Adrafinil (Wikipedia)]\n*[https://erowid.org/smarts/adrafinil/ Adrafinil (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2835 Adrafinil (Isomer Design)]\n*[https://examine.com/supplements/adrafinil/ Adrafinil (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Benzhydryl]]\n[[Category:Nootropic]]\n[[Category:Prodrug]]\n[[Category:Stimulant]]"
+}

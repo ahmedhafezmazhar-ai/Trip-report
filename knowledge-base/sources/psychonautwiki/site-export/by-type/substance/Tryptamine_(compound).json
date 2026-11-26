@@ -1,0 +1,171 @@
+{
+ "id": "psychonautwiki:1166",
+ "type": "substance",
+ "title": "Tryptamine (compound)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tryptamine_%28compound%29",
+  "pageid": 1166,
+  "last_edited": "2025-01-31T18:21:30Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Neurotransmitter",
+  "Tryptamine"
+ ],
+ "substance_box_template": "SubstanceBox/Tryptamine",
+ "substance_box": {
+  "names": {
+   "common": "Indolylethylamine",
+   "substitutive": "",
+   "systematic": "2-(1H-indol-3-yl)ethanamine"
+  },
+  "classes": {
+   "psychoactive": "",
+   "chemical": "Arylethylamine / Indole"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": false
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Indolylethylamine"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of tryptamine",
+   "clean": "Molecular structure of tryptamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Tryptamine.svg",
+   "clean": "File:Tryptamine.svg"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Indolylethylamine]]",
+   "clean": "Indolylethylamine"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-(1H-indol-3-yl)ethanamine",
+   "clean": "2-(1H-indol-3-yl)ethanamine"
+  },
+  "EffectClass": {
+   "raw": "",
+   "clean": ""
+  },
+  "ChemicalClass": {
+   "raw": "[[Arylethylamine]] / [[Indole]]",
+   "clean": "Arylethylamine / Indole"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  }
+ },
+ "plain_text": "Tryptamine is a monoamine alkaloid found in animals, plants and fungi. It contains an indole ring structure, and is structurally similar to the amino acid tryptophan, from which the name derives. Tryptamine is found in trace amounts in the brains of mammals and is hypothesized to play a role as a neuromodulator or neurotransmitter. \n\nChemistry\n\nThe tryptamine molecule is an indole alkaloid comprised of an indole ring attached to a monoamine (single nitrogen group-containing) chain. It is a derivative of the amino acid tryptophan.\n\nPharmacology\n\nTryptamine is hypothesized to play a role as a neuromodulator or neurotransmitter. Similar to other trace amines, tryptamine binds to human trace amine-associated receptor 1 (TAAR1) as an agonist.\n\nSee also\n\n*Responsible use\n*Neurotransmitter\n*Substituted tryptamine\n\nExternal links\n\n*Tryptamine (Wikipedia)\n*Tryptamine (TiHKAL / Isomer Design)\n\nReferences\n\nCategory:Alkaloid\nCategory:Neurotransmitter\nCategory:Tryptamine",
+ "wikitext": "{{SubstanceBox/Tryptamine}}\n\n{{For|the chemical class based on the tryptamine structure|Substituted tryptamine}} \n'''Tryptamine''' is a [[monoamine]] [[alkaloid]] found in animals, plants and fungi.{{citation needed}} It contains an indole ring structure, and is structurally similar to the amino acid tryptophan, from which the name derives. Tryptamine is found in trace amounts in the brains of mammals and is hypothesized to play a role as a neuromodulator or [[neurotransmitter]].<ref name=\"Jones1982\">{{cite journal | vauthors=((Jones, R. S. G.)) | journal=Progress in Neurobiology | title=Tryptamine: a neuromodulator or neurotransmitter in mammalian brain? | volume=19 | issue=1–2 | pages=117–139 | date= January 1982 | url=https://linkinghub.elsevier.com/retrieve/pii/0301008282900235 | issn=03010082 | doi=10.1016/0301-0082(82)90023-5}}</ref> \n\n==Chemistry==\nThe tryptamine molecule is an [https://en.wikipedia.org/wiki/Indole_alkaloid indole alkaloid] comprised of an indole ring attached to a [[monoamine]] (single nitrogen group-containing) chain. It is a derivative of the [https://en.wikipedia.org/wiki/Amino_acid amino acid] tryptophan.\n\n==Pharmacology==\nTryptamine is hypothesized to play a role as a neuromodulator or [[neurotransmitter]].<ref name=\"Jones1982\"/> Similar to other trace amines, tryptamine binds to human trace amine-associated [[receptor]] 1 (TAAR1) as an [[agonist]].<ref>{{cite journal | vauthors=((Khan, M. Z.)), ((Nawaz, W.)) | journal=Biomedicine & Pharmacotherapy = Biomedecine & Pharmacotherapie | title=The emerging roles of human trace amines and human trace amine-associated receptors (hTAARs) in central nervous system | volume=83 | pages=439–449 | date= October 2016 | issn=1950-6007 | doi=10.1016/j.biopha.2016.07.002}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Neurotransmitter]]\n*[[Substituted tryptamine]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Tryptamine Tryptamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=tk&id=53 Tryptamine (TiHKAL / Isomer Design)]\n\n==References==\n<references />\n[[Category:Alkaloid]]\n[[Category:Neurotransmitter]]\n[[Category:Tryptamine]]"
+}

@@ -1,0 +1,350 @@
+{
+ "id": "psychonautwiki:162",
+ "type": "substance",
+ "title": "Nitrous",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nitrous",
+  "pageid": 162,
+  "last_edited": "2026-10-14T02:11:52Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 English-language sources (en)",
+  "CS1 Swedish-language sources (sv)",
+  "Dissociative",
+  "Hallucinogen",
+  "Inhalant",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Nitrous",
+ "substance_box": {
+  "names": {
+   "common": "Nitrous Oxide, Laughing Gas, Nitrous, Hippy Crack, NOS, Nitro, N2O, Nangs",
+   "substitutive": "",
+   "systematic": "Dinitrogen monoxide"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Nitrogen oxide"
+  },
+  "routes_of_administration": {
+   "inhaled": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "4 g",
+    "light": "4 - 8 g (1/2 - 1 cartridges)",
+    "common": "8 - 16 g (1 - 2 cartridges)",
+    "strong": "16 - 40 g (2 - 5 cartridges)",
+    "heavy": "40 g + (>5 cartridges)",
+    "duration": "1 - 5 minutes",
+    "onset": "5 - 10 seconds",
+    "comeup": "5 - 10 seconds",
+    "peak": "15 - 30 seconds",
+    "offset": "1 - 5 minutes",
+    "aftereffects": "15 - 30 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Nitrous Oxide",
+    "Laughing Gas",
+    "Nitrous",
+    "Hippy Crack",
+    "NOS",
+    "Nitro",
+    "N2O",
+    "Nangs"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "Inhaled threshold dose": [
+    "4"
+   ],
+   "Inhaled dose units": [
+    "g"
+   ],
+   "Inhaled min light dose": [
+    "4"
+   ],
+   "Inhaled max light dose": [
+    "8"
+   ],
+   "Inhaled min common dose": [
+    "8"
+   ],
+   "Inhaled max common dose": [
+    "16"
+   ],
+   "Inhaled min strong dose": [
+    "16"
+   ],
+   "Inhaled max strong dose": [
+    "40"
+   ],
+   "Inhaled heavy dose": [
+    "40"
+   ],
+   "Inhaled min total time": [
+    "1"
+   ],
+   "Inhaled max total time": [
+    "5"
+   ],
+   "Inhaled total time units": [
+    "minutes"
+   ],
+   "Inhaled min onset time": [
+    "5"
+   ],
+   "Inhaled max onset time": [
+    "10"
+   ],
+   "Inhaled onset time units": [
+    "seconds"
+   ],
+   "Inhaled min comeup time": [
+    "5"
+   ],
+   "Inhaled max comeup time": [
+    "10"
+   ],
+   "Inhaled comeup time units": [
+    "seconds"
+   ],
+   "Inhaled min peak time": [
+    "15"
+   ],
+   "Inhaled max peak time": [
+    "30"
+   ],
+   "Inhaled peak time units": [
+    "seconds"
+   ],
+   "Inhaled min offset time": [
+    "1"
+   ],
+   "Inhaled max offset time": [
+    "5"
+   ],
+   "Inhaled offset time units": [
+    "minutes"
+   ],
+   "Inhaled min afterglow time": [
+    "15"
+   ],
+   "Inhaled max afterglow time": [
+    "30"
+   ],
+   "Inhaled afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Nitrous Oxide.svg",
+   "clean": "File:Nitrous Oxide.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Nitrous Oxide]], [[common name::Laughing Gas]], [[common name::Nitrous]], [[common name::Hippy Crack]], [[common name::NOS]], [[common name::Nitro]], [[common name::N2O]], [[common name::Nangs]]",
+   "clean": "Nitrous Oxide, Laughing Gas, Nitrous, Hippy Crack, NOS, Nitro, N2O, Nangs"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "Dinitrogen monoxide",
+   "clean": "Dinitrogen monoxide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "Nitrogen oxide",
+   "clean": "Nitrogen oxide"
+  },
+  "InhaledROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InhaledROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InhaledROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Threshold": {
+   "raw": "[[Inhaled threshold dose::4]] [[Inhaled dose units::g]]",
+   "clean": "4 g"
+  },
+  "InhaledROA_Light": {
+   "raw": "[[Inhaled min light dose::4]] - [[Inhaled max light dose::8]] g (1/2 - 1 cartridges)",
+   "clean": "4 - 8 g (1/2 - 1 cartridges)"
+  },
+  "InhaledROA_Common": {
+   "raw": "[[Inhaled min common dose::8]] - [[Inhaled max common dose::16]] g (1 - 2 cartridges)",
+   "clean": "8 - 16 g (1 - 2 cartridges)"
+  },
+  "InhaledROA_Strong": {
+   "raw": "[[Inhaled min strong dose::16]] - [[Inhaled max strong dose::40]] g (2 - 5 cartridges)",
+   "clean": "16 - 40 g (2 - 5 cartridges)"
+  },
+  "InhaledROA_Heavy": {
+   "raw": "[[Inhaled heavy dose::40]] g + (>5 cartridges)",
+   "clean": "40 g + (>5 cartridges)"
+  },
+  "InhaledROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Duration": {
+   "raw": "[[Inhaled min total time::1]] - [[Inhaled max total time::5]] [[Inhaled total time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InhaledROA_Onset": {
+   "raw": "[[Inhaled min onset time::5]] - [[Inhaled max onset time::10]] [[Inhaled onset time units::seconds]]",
+   "clean": "5 - 10 seconds"
+  },
+  "InhaledROA_Comeup": {
+   "raw": "[[Inhaled min comeup time::5]] - [[Inhaled max comeup time::10]] [[Inhaled comeup time units::seconds]]",
+   "clean": "5 - 10 seconds"
+  },
+  "InhaledROA_Peak": {
+   "raw": "[[Inhaled min peak time::15]] - [[Inhaled max peak time::30]] [[Inhaled peak time units::seconds]]",
+   "clean": "15 - 30 seconds"
+  },
+  "InhaledROA_Offset": {
+   "raw": "[[Inhaled min offset time::1]] - [[Inhaled max offset time::5]] [[Inhaled offset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InhaledROA_Aftereffects": {
+   "raw": "[[Inhaled min afterglow time::15]] - [[Inhaled max afterglow time::30]] [[Inhaled afterglow time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  }
+ },
+ "plain_text": "Nitrous oxide (also known as laughing gas, nitrous, NOS, and informally as hippy-crack). Whipped cream chargers/cartridges are called whippits (also spelled “whippits”), nangs, or bulbs.\n\nNitrous oxide is an atypical dissociative substance that is found in the form of an inhalable gas. The exact mechanism of action of nitrous oxide is unknown, but it is thought to have an effect on GABA and NMDA receptors in the brain.\n\nNitrous oxide was first identified in 1772 by the British chemist Joseph Priestly. In the 19th century, it was discovered to have anesthetic properties which made it suitable for dental and surgical procedures. It was given the name \"laughing gas\" by the British chemist Humphry Davy due to its exhilarating and laughter-inducing effects. Today, it is widely used in surgery and dentistry for its anaesthetic and analgesic effects, and in motorsports for its performance boosting effect on internal combustion engines. Additionally, it has a number of industrial uses and is commonly sold as a whipped cream propellant in kitchen and household stores. \n\nSubjective effects include sedation, pain relief,  motor control loss, anxiety suppression, conceptual thinking, euphoria, and dissociation.\n\nNitrous is considered to have low to moderate abuse potential and low toxicity when used in moderation.\n\n[[File:671680925 o.jpg|thumb|230px|Whipped-cream chargers are often combined with otherwise empty whip cream dispensers as a convenient route of administration.]]\n\nHistory and culture\n\nNitrous oxide gas was first synthesized in 1772 by English natural philosopher and chemist Joseph Priestley. He published his findings in the book Experiments and Observations on Different Kinds of Air (1775), describing the synthesis of the gas by heating iron filings dampened with nitric acid. In 1800, Humphry Davy, an assistant at the Pneumatic Institute, published a book about nitrous oxide in 1800. In the book, there is the following passage;\n \n\nDavy notes the analgesic effect of nitrous oxide and its potential for use in surgical operations. Davy coined the name \"laughing gas\" for nitrous oxide. Beginning in 1799, nitrous oxide was used as a recreational drug at \"laughing gas parties\". They became an immediate success within the British upper class. Despite Davy's discovery of nitrous' potential for anesthesia, doctors did not attempt to use it for nearly half a decade.\n\nThe discovery of ether in 1830 led nitrous to fall out of popularity as a recreational drug. It was not until 1844 that American dentist Horace Wells noticed the anesthetic properties of the gas. With the assistance of Gardner Quincy Colton and John Mankey Riggs, he demonstrated insensitivity to pain during a tooth extraction. The practice was not immediately adopted by other dentists, as Wells' first public demonstration had been partly unsuccessful.  In 1863, Gardner Quincy Colton began to administer the gas to patients in all of his \"Colton Dental Association\" clinics, administering  nitrous oxide to over 25,000 patients over three years. This brought the practice into general use.\n\nNitrous oxide was not found to be a strong enough anesthetic for major surgeries in hospital settings, but it became useful as an initiator for stronger anesthetics like ether or chloroform. Hospitals would initiate treatment with a mild flow of nitrous oxide, and then gradually increase the flow of the stronger anesthetic. This technique of initiating anesthesia is still used in hospitals today. \n\nNitrous is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.\n\nChemistry\n\nNitrous oxide, or dinitrogen monoxide, was first synthesised by heating ammonium nitrate in the presence of iron filings and then passing the gas that came off (NO) through water. Now it is commonly synthesised by gently heating ammonium nitrate to decompose it into nitrous oxide. It is an oxide of nitrogen. \n\nNitrous has a linear molecular structure. It can be thought as existing in two \"resonance structures\": \n\n*The central nitrogen atom is triple bonded to the other nitrogen atom and single bonded to the oxygen atom.\n*The central nitrogen atom double-bonded to both the other nitrogen atom as well as the oxygen atom.\n\nIn practice, the atom will almost exclusively exist in between these two states almost all the time, and the electrons will be delocalised across the molecule. Each of the resonance forms can be thought of as having a positive and negative charge, giving a neutral molecule overall.\n\nNitrous is used as an oxidiser in rocketry and in motor racing to increase the power output of engines. At elevated temperatures, nitrous oxide is a powerful oxidizer similar to molecular oxygen.\n\nAt room temperature, nitrous is a colorless and non-flammable gas with a slightly sweet odor and distinctive sweet taste.\n\nPharmacology\n\nAlthough N2O affects quite a few receptors, its anesthetic, hallucinogenic, and euphoriant effects are likely caused predominantly or fully via its effects as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually the famous “hole”.\n\nThe pharmacological mechanism of action behind N2O in medicine is not entirely known. However, it has been shown to directly modulate a broad range of receptors and this likely plays a significant role in many of its effects. It moderately blocks β2-subunit-containing nACh channels, weakly inhibits AMPA, kainate, GABAA-rho, and 5-HT3 receptors and slightly potentiates GABAA and glycine receptors. It has also been shown to activate two-pore-domain K+ channels.\n\nSubjective effects\n\nCombinational effects\n\nNitrous is commonly combined with other hallucinogens for it which it acts as a brief but profound potentiator of their effects.\n\n*Psychedelics - When taken in combination with a psychedelic such as LSD or psilocybin mushrooms, the effect will be a sudden and dramatic increase in perceived geometry to its maximum level of 8A or 8B. This is alongside a sudden and dramatic ego death.\n*Dissociatives - When taken in combination with a dissociative such as MXE or DXM, the effect will be a sudden and dramatic increase in disconnective effects and the triggering of a sudden internal hallucinatory scenario.\n*Cannabis - When taken in combination with cannabis, the overall effects of the nitrous itself are potentiated more so than the cannabis' effects.\n*Alcohol - When taken in combination with alcohol, adverse side effects such as confusion, dizziness, and headaches are often significantly increased.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n \nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Nitrous Oxide\n\nAvailable forms\n\nMedical nitrous oxide\n\nMedical tanks - These are hard to find and dangerous without a professional. They are occasionally seen at music festivals being used to fill balloons for sale.\n\nNonmedical nitrous oxide\n\nthumb|right|200px|The canister on the left is whipped cream, a product which is pressurized with nitrous oxide. The two canisters on the right contain 'flavoured' oxygen.\n100px|thumb|Nitrous oxide tubes.\n\n*Tubes - These are now commonly sold by web shops that are specializing in nitrous oxide.\n*Canned whipped cream - These are found in any grocery store. They contain very minimal gas with one or two uses before the cream comes out.\n*Whipped-cream charger - These are readily available and cheap to purchase online. They are small metal canisters that can be used by a nitrous cracker to fill a balloon full of gas which is then inhaled. Some varieties contain industrial residue and strength vary (as it is food grade).\n\nToxicity and harm potential\n\nThe exact toxic dosage is unknown. Potential problems include:\n\n*Nitrous temporarily inhibits methionine synthase, a B12-dependant enzyme responsible for many important functions in the body. Heavy and frequent long-term use can deplete vitamin B12 in the body and lead to serious and unpleasant neurological problems. Users may experience numbness and tingling in the fingers, toes, lips, et al. In more severe cases, there will be numbness of all extremities. Taking B12 supplements, especially in combination with a multivitamin and complete amino acid supplements, may help alleviate this problem. If one experiences these symptoms, nitrous use should be ceased immediately, and if the symptoms persist, medical attention should be sought after.\n\n*Nitric oxide, a toxic industrial gas, is occasionally mistaken for nitrous oxide. Users should be careful they know what they are inhaling. Inhaling Nitric Oxide can permanently damage the lungs or kill.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nRisks of whipped-cream chargers compared to medical nitrous oxide\n\nMedical nitrous oxide has been safely used as a mild anesthetic for over 150 years.\n\n*Vapor pressure\n**Whipped-cream chargers: Very cold temperatures of the gas can freeze the lips and throat if taken directly from a tank or whippet. Releasing the gas into a balloon first allows the gas to warm before being administered.\n**Medical nitrous oxide is released slowly.\n*Hypoxia (abnormally low level of oxygen in the tissues), particularly the entity 'diffusion hypoxia'.\n**Whipped-cream chargers contains no oxygen. Oxygen deprivation that can cause brain injury and suffocation can result from lack of oxygen from pure nitrous oxide continuously inhaled from strap-on mask connected to a gas canister. Never use nitrous in any manner that does not provide for adequate oxygen intake. Suffocation can occur without discomfort.\n**Medical grade nitrous oxide contains 50% nitrous oxide, and 50% oxygen. When used as an anesthetic, nitrous is always administered in combination with oxygen.\n*Purity\n**Whipped-cream chargers contains food grade. Thus, they can contain a range of impurities, such as industrial grease left over from manufacturing, and tiny particles of steel from the pierced metal. Users can filter them through a piece of cotton, cloth, or clothing to reduce the amount of impurities inhaled. Regular cleaning of nitrous dispensing devices can also reduce the harm posed by impurities.\n**Medical grade nitrous oxide: Contains medical grade nitrous oxide.\n\nRisks with drug paraphernalia\n\nRisk with whipping dispensers\n\n;Direct inhalation\n\nWhipping dispensers is more convenient to fill balloons with than crackers. Direct inhalation of butane can cause frostbite like effects that pose a serious risk of personal injury.\n\n;Dangers from plastic whip cream dispensers\n\nIt is advised to check that all parts of a whipping dispenser are made of metal, because dispensers made of plastic have exploded and damaged, and albeit extremely rare, even killed people:\n\n*In June 2017, Rebecca Burger, 33, a fitness blogger and model, died after a whipped-cream charger exploded and struck her in the chest.\n*In August 2017, another woman got wounded from a whipping dispenser.\n\nRisks with nitrous charger crackers\n\nA nitrous charger cracker repeatedly used to decompress cartridges without an outer layer of silicone can cause frostbite.\n\nDependence and abuse potential\n\nAs with other dissociatives, the chronic use of nitrous oxide can be considered mildly addictive with a moderate potential for abuse. \n\nTolerance to many of the effects of nitrous oxide develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Nitrous oxide does not produce cross-tolerance with other dissocatives, meaning that after the use of nitrous oxide other dissociatives will not have a reduced effect.\n\nDangerous interactions\n\n*Alcohol - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*GHB - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*GBL - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*Opioids - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*Tramadol - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n\nDrug paraphernalia\n\nBalloons\n\nFile:Balloon_on_a_children's_birthday_party.jpg|thumb|right|Balloon(s) are inflated with nitrous oxide.\nFile:Sealing_clips.JPG|thumb|100px|Sealing clips make it easy to fill multiple balloons without tying or holding them.\n\nA regular balloon can typically hold a single 8 gram whipped-cream charger. However, jumbo balloons can hold about 3 cartridges.\n\nGas filter\n\nCloth is used to filter the gas from whipped-cream chargers that contains often contains small amounts of impurities.\n\nGas transfer equipment\n\nA typical whipped cream cartridge contain 8 gram nitrous oxide.\n\nWhipped-cream charger cracker\n\nthumb|left|100px|A nitrous charger cracker.\n\nTube valves and regulators\n\nSimple plastic valves and gas pressure regulators, which display the gas pressure, are commonly used with nitrous oxide tanks. These devices are often sold by specialized online retailers that focus on nitrous oxide equipment.\n\nWhipping dispensers\n\nthumb|left|100px|Nitrous canisters made entirely of metal won't explode.\n\nTo use a half-pint or one-pint whipped cream dispenser, you will need one to two chargers, which is equivalent to 8–16 g (using standard 8 g cartridges). For a one-liter dispenser, you will need two to three chargers, which is equivalent to 16–24 g. The same quantity of gas can also be filled from a large tube with an attached gas pressure regulator connected to the whipping dispenser.\n\nIt is important not to overcharge your whipped cream dispenser.\n\nLegal status\n\n*Germany: Nitrous oxide is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act). It is legal, as long as it is not sold for human consumption, according to §2 AMG. If it is intended for medical use, it is classified as a prescription medicine.\n*India: Nitrous oxide is available for general anesthesia purposes. India's gas cylinder rules (1985) permit the transfer of gas from one cylinder to another for breathing purposes.\n*Netherlands: thumb|right|Sign stating \"forbidden to use nitrous oxide\" in the Poelestraat in Groningen, Netherlands,  which is also known as the main nightlife area with bars, pubs, and clubs. Since 1 January 2021 has the use of nitrous oxide in the area been prohibited. Since 1 January 2023, the possession, importing, and sale of nitrous oxide is banned in the Netherlands, with exceptions for medical use, and the food industry. It is illegal under the Opium Act.\n*New Zealand: Nitrous oxide is a prescription medicine, and its sale or possession without a prescription is an offense under the Medicines Act.\n*Sweden: From July 1, 2025, Sweden will restrict nitrous oxide sales with an 18-gram (two whipped-cream chargers) limit per purchase, an 18-year age minimum, and tighter controls on import and marketing. Violations may lead to fines or up to six months in prison.\n*United Kingdom: Nitrous Oxide is a class C drug under the Misuse of Drugs Act as of 8th November 2023. It is still permitted for use within the medical and food industries.\n*United States: Possession of nitrous oxide is legal under federal law and is not subject to DEA purview. It is, however, regulated by the Food and Drug Administration under the Food Drug and Cosmetics Act. Prosecution is possible under its \"misbranding\" clauses, prohibiting the sale or distribution of nitrous oxide for the purpose of human consumption. Many states have laws regulating the possession, sale, and distribution of nitrous oxide. Such laws usually ban distribution to minors or limit the amount of nitrous oxide that may be sold without a special license. For example, in the state of California possession for recreational use is prohibited and qualifies as a misdemeanor.\n\nSee also\n\n*Responsible use\n*Inhalants\n*Hallucinogen\n*Dissociative\n*Ketamine\n\nExternal links\n\n*Nitrous Oxide (Wikipedia)\n**Recreational use of nitrous oxide (Wikipedia)\n*Nitrous Oxide (Erowid Vault)\n*Nitrous Oxide (TiHKAL / Isomer Design)\n*Nitrous Oxide FAQ (justsayn2o.com)\n\nHarm reduction\n\n*Nitrous Safer Using Tips (DanceWize)\n*Nitrous Safer Using Tips (NUAA)\n\nDiscussion\n\n*The Big & Dandy Nitrous Thread (Bluelight)\n\nLiterature\n\n*Sheldin, M., Wallechinsky, D., Salyer, S. Laughing Gas: Nitrous Oxide. Ronin Publishing, 1993\n*Humphry Davy. Researches Clinical and Philosophical, Chiefly Concerning Nitrous Oxide, 2010\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Hallucinogen\nCategory:Dissociative\nCategory:Inhalant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Nitrous}}\n{{Warning/Nitrous_oxide}}\n\n'''Nitrous oxide''' (also known as '''laughing gas''', '''nitrous''', '''NOS''', and informally as '''hippy-crack'''). [https://en.wikipedia.org/wiki/Whipped-cream_charger Whipped cream chargers]/cartridges are called whippits<ref>{{cite book | vauthors=((Tarendash, A. S.)) | date= July 2001 | title=Let’s Review: Chemistry, the Physical Setting | publisher=Barrons Educational Series | isbn=9780764116643}}</ref> (also spelled “whippits”), nangs, or bulbs.\n\nNitrous oxide is an atypical [[psychoactive class::dissociative]] substance that is found in the form of an inhalable gas. The exact mechanism of action of nitrous oxide is unknown, but it is thought to have an effect on [[GABA]] and [[NMDA receptor antagonist|NMDA]] [[receptors]] in the brain.\n\nNitrous oxide was first identified in 1772 by the British chemist Joseph Priestly.<ref>{{cite journal | vauthors=((Keys, T. E.)) | journal=Anesthesiology | title=THE DEVELOPMENT OF ANESTHESIA | volume=2 | issue=5 | pages=552–574 | date=1 September 1941 | url=https://pubs.asahq.org/anesthesiology/article/2/5/552/17582/THE-DEVELOPMENT-OF-ANESTHESIA | issn=0003-3022 | doi=10.1097/00000542-194109000-00008}}</ref> In the 19th century, it was discovered to have anesthetic properties which made it suitable for dental and surgical procedures.<ref name=\"Erving1933\">{{cite journal | vauthors=((Erving, H. W.)) | journal=The Yale Journal of Biology and Medicine | title=The Discoverer of Anæsthesia: Dr. Horace Wells of Hartford | volume=5 | issue=5 | pages=421–430 | date= May 1933 | issn=0044-0086}}</ref> It was given the name \"laughing gas\" by the British chemist Humphry Davy due to its exhilarating and laughter-inducing effects. Today, it is widely used in surgery and dentistry for its [[Tactile suppression|anaesthetic]] and [[analgesic]] effects, and in motorsports for its performance boosting effect on internal combustion engines. Additionally, it has a number of industrial uses and is commonly sold as a whipped cream propellant in kitchen and household stores. \n\n[[Subjective effects]] include [[sedation]], [[pain relief]],  [[motor control loss]], [[anxiety suppression]], [[conceptual thinking]], [[euphoria]], and [[dissociation]].\n\nNitrous is considered to have low to moderate abuse potential and low toxicity when used in moderation.\n\n[[File:671680925 o.jpg|thumb|230px|[https://en.wikipedia.org/wiki/Whipped-cream_charger Whipped-cream chargers] are often combined with otherwise empty whip cream dispensers as a convenient route of administration.]]\n\n==History and culture==\nNitrous oxide gas was first synthesized in 1772 by English natural philosopher and chemist Joseph Priestley.<ref>{{cite journal | vauthors=((Goerig, M.)), ((Schulte am Esch, J.)) | journal=Best Practice & Research Clinical Anaesthesiology | title=History of nitrous oxide—with special reference to its early use in Germany | volume=15 | issue=3 | pages=313–338 | date=1 September 2001 | url=https://www.sciencedirect.com/science/article/pii/S152168960190165X | issn=1521-6896 | doi=10.1053/bean.2001.0165}}</ref> He published his findings in the book Experiments and Observations on Different Kinds of Air (1775), describing the synthesis of the gas by heating iron filings dampened with nitric acid.<ref>{{cite book | vauthors=((Priestley, J.)), ((Johnson, J.)), ((Adams, J.)), ((John Adams Library (Boston Public Library) BRL)) | date= 1775 | title=Experiments and observations on different kinds of air / by Joseph Priestly, LL.D.F.R.S | publisher=London : Printed for J. Johnson ... | url=http://archive.org/details/experimentsobser01prie}}</ref> In 1800, Humphry Davy, an assistant at the Pneumatic Institute, published a book about nitrous oxide in 1800.<ref name=\"Boyle1934\">{{cite journal | vauthors=((Boyle, H. E. G.)) | journal=BMJ | title=NITROUS OXIDE: HISTORY AND DEVELOPMENT | volume=1 | issue=3812 | pages=153–155 | date=27 January 1934 | url=https://www.bmj.com/lookup/doi/10.1136/bmj.1.3812.153 | issn=0959-8138 | doi=10.1136/bmj.1.3812.153}}</ref> In the book, there is the following passage;\n{{Quote\n|text=\"As nitrous oxide in its extensive operation appears capable of destroying physical pain, it may probably be used with advantage during surgical operations where too great an effusion of blood does not take place.\"\n|author=Humphry Davy\n|source=''Researches chemical and philosophical: chiefly concerning nitrous oxide''\n}} \n\nDavy notes the analgesic effect of nitrous oxide and its potential for use in surgical operations.<ref name=\"Boyle1934\" /> Davy coined the name \"laughing gas\" for nitrous oxide.<ref>{{cite book | veditors=((Hardman, J. G.)), ((Hopkins, P. M.)), ((Struys, M. M. R. F.)) | date= 2017 | title=Oxford textbook of anaesthesia | publisher=Oxford University Press | series=Oxford textbooks in anaesthesia | isbn=9780199642045}}</ref> Beginning in 1799, nitrous oxide was used as a recreational drug at \"laughing gas parties\". They became an immediate success within the British upper class. Despite Davy's discovery of nitrous' potential for anesthesia, doctors did not attempt to use it for nearly half a decade.<ref>{{cite journal | journal=Science News | title=The Consumers Union on Licit and Illicit Drugs | volume=102 | issue=23 | pages=357 | date=2 December 1972 | url=http://www.jstor.org/stable/3957382?origin=crossref | issn=00368423 | doi=10.2307/3957382}}</ref>\n\nThe discovery of ether in 1830 led nitrous to fall out of popularity as a recreational drug. It was not until 1844 that American dentist Horace Wells noticed the anesthetic properties of the gas.<ref name=\"Boyle1934\" /> With the assistance of Gardner Quincy Colton and John Mankey Riggs, he demonstrated insensitivity to pain during a tooth extraction.<ref name=\"Erving1933\" /> The practice was not immediately adopted by other dentists, as Wells' first public demonstration had been partly unsuccessful. <ref>{{cite journal | vauthors=((Desai, S.)), ((Desai, M.)), ((Pandav, C.)) | journal=Anesthesiology and Perioperative Medicine Publications | title=The Discovery of Modern Anaesthesia – Contributions of Davy, Clarke, Long, Wells and Morton | volume=51 | issue=6 | date=1 December 2007 | url=https://escholarship.umassmed.edu/anesthesiology_pubs/157}}</ref> In 1863, Gardner Quincy Colton began to administer the gas to patients in all of his \"Colton Dental Association\" clinics, administering  nitrous oxide to over 25,000 patients over three years. This brought the practice into general use.<ref name=\"Miller1941\">{{cite journal | vauthors=((Miller, A. H.)) | journal=Anesthesiology | title=TECHNICAL DEVELOPMENT OF GAS ANESTHESIA | volume=2 | issue=4 | pages=398–409 | date=1 July 1941 | url=https://pubs.asahq.org/anesthesiology/article/2/4/398/17588/TECHNICAL-DEVELOPMENT-OF-GAS-ANESTHESIA | issn=0003-3022 | doi=10.1097/00000542-194107000-00004}}</ref>\n\nNitrous oxide was not found to be a strong enough anesthetic for major surgeries in hospital settings, but it became useful as an initiator for stronger anesthetics like ether or chloroform.<ref>{{cite book | vauthors=((Sneader, W.)) | date= 2005 | title=Drug discovery: a history (Part 1: Legacy of the past, chapter 8: systematic medicine) | publisher=Wiley | isbn=9780471899792}}</ref> Hospitals would initiate treatment with a mild flow of nitrous oxide, and then gradually increase the flow of the stronger anesthetic.<ref name=\"Miller1941\" /> This technique of initiating anesthesia is still used in hospitals today. \n\nNitrous is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.<ref>{{Citation | vauthors=((World Health Organization)) | year=2017 | title=WHO model list of essential medicines, 20th list (March 2017, amended August 2017) | publisher=World Health Organization | url=https://apps.who.int/iris/handle/10665/273826 | access-date=24 August 2017}}</ref>\n\n==Chemistry==\nNitrous oxide, or dinitrogen monoxide, was first synthesised by heating ammonium nitrate in the presence of iron filings and then passing the gas that came off (NO) through water.<ref>{{Citation | title=Nitrous Oxide | url=http://www.chm.bris.ac.uk/motm/n2o/n2oc.htm}}</ref> Now it is commonly synthesised by gently heating ammonium nitrate to decompose it into nitrous oxide. It is an oxide of nitrogen. \n\nNitrous has a linear molecular structure. It can be thought as existing in two \"resonance structures\": \n\n*The central nitrogen atom is triple bonded to the other nitrogen atom and single bonded to the oxygen atom.\n*The central nitrogen atom double-bonded to both the other nitrogen atom as well as the oxygen atom.\n\nIn practice, the atom will almost exclusively exist in between these two states almost all the time, and the electrons will be delocalised across the molecule. Each of the resonance forms can be thought of as having a positive and negative charge, giving a neutral molecule overall.\n\nNitrous is used as an oxidiser in rocketry and in motor racing to increase the power output of engines. At elevated temperatures, nitrous oxide is a powerful oxidizer similar to molecular oxygen.{{citation needed}}\n\nAt room temperature, nitrous is a colorless and non-flammable gas with a slightly sweet odor and distinctive sweet taste.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nAlthough N2O affects quite a few receptors, its [[pain relief|anesthetic]], [[hallucinogen]]ic, and [[Physical euphoria|euphoria]]nt effects are likely caused predominantly or fully via its effects as an [[NMDA receptor antagonist]].<ref name=\"Yamakura2000\">{{cite journal | vauthors=((Yamakura, T.)), ((Harris, R. A.)) | journal=Anesthesiology | title=Effects of Gaseous Anesthetics Nitrous Oxide and Xenon on Ligand-gated Ion Channels | volume=93 | issue=4 | pages=1095–1101 | date=1 October 2000 | url=https://pubs.asahq.org/anesthesiology/article/93/4/1095/38687/Effects-of-Gaseous-Anesthetics-Nitrous-Oxide-and | issn=0003-3022 | doi=10.1097/00000542-200010000-00034}}</ref><ref>{{cite journal | vauthors=((Emmanouil, D. E.)), ((Quock, R. M.)) | journal=Anesthesia Progress | title=Advances in understanding the actions of nitrous oxide | volume=54 | issue=1 | pages=9–18 | date= 2007 | issn=0003-3006 | doi=10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2}}</ref> NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually the famous “[[Visual_disconnection#Holes.2C_spaces_and_voids|hole]]”.\n\nThe pharmacological mechanism of action behind N2O in medicine is not entirely known. However, it has been shown to directly modulate a broad range of receptors and this likely plays a significant role in many of its effects. It moderately blocks β2-subunit-containing nACh channels, weakly inhibits AMPA, kainate, GABAA-rho, and 5-HT3 receptors and slightly potentiates GABAA and glycine receptors.<ref name=\"Yamakura2000\" /><ref>{{cite journal | vauthors=((Mennerick, S.)), ((Jevtovic-Todorovic, V.)), ((Todorovic, S. M.)), ((Shen, W.)), ((Olney, J. W.)), ((Zorumski, C. F.)) | journal=The Journal of Neuroscience: The Official Journal of the Society for Neuroscience | title=Effect of nitrous oxide on excitatory and inhibitory synaptic transmission in hippocampal cultures | volume=18 | issue=23 | pages=9716–9726 | date=1 December 1998 | issn=0270-6474}}</ref> It has also been shown to activate two-pore-domain K+ channels.<ref>{{cite journal | vauthors=((Gruss, M.)), ((Bushell, T. J.)), ((Bright, D. P.)), ((Lieb, W. R.)), ((Mathie, A.)), ((Franks, N. P.)) | journal=Molecular Pharmacology | title=Two-pore-domain K+ channels are a novel target for the anesthetic gases xenon, nitrous oxide, and cyclopropane | volume=65 | issue=2 | pages=443–452 | date= February 2004 | issn=0026-895X | doi=10.1124/mol.65.2.443}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Neurotoxicity]]''' - Frequent or long-term recreational use of nitrous oxide can lead to neurological damage (such as peripheral neuropathy and myelopathy). This occurs primarily via the irreversible oxidation and inactivation of vitamin B12 (cobalamin), leading to demyelination in the central and peripheral nervous systems.<ref name=nangs>{{cite journal |vauthors=Evans EB, Evans MR |title=Nangs, balloons and crackers: Recreational nitrous oxide neurotoxicity |journal=Aust J Gen Pract |volume=50 |issue=11 |pages=834–838 |date=November 2021 |pmid=34713284 |doi=10.31128/AJGP-10-20-5668 |s2cid=240153502 |type=Review|doi-access=free }}</ref>\n*'''[[Effect::Spontaneous physical sensations]]''' - The nitrous oxide \"body high\" starts off as the sensation of a diverse mixture of cold, warm, sharp, and soft tingles which begin across the head and face at lower dosages but spread out across the body at higher dosages.\n*'''[[Effect::Changes in felt bodily form]]''' - This usually occurs with higher dosages and can be described as feelings that in a non-painful fashion your body's physical form is being stretched into infinity, compressed into a singularity, or split into two separate halves.\n*'''[[Effect::Dizziness]]''' - Although uncommon, some people report dizziness under the influence of nitrous.\n*'''[[Effect::Headaches]]''' - Although uncommon, a certain subset of people report headaches during the offset of nitrous oxide.\n*'''[[Effect::Motor control loss]]''' - A loss of gross and fine motor control alongside balance and coordination is prevalent within nitrous oxide and becomes especially active at higher dosages. This means that one should be sitting down before the onset unless they are experienced in case of falling over and injuring oneself.\n*'''[[Effect::Perception of bodily lightness]]''' - This creates the sensation that the body is floating and has become entirely weightless. It is often accompanied by feelings of slowly falling or drifting.\n*'''[[Effect::Physical euphoria]]''' - This effect can range between mild pleasure to powerfully all-encompassing bliss. Anecdotal reports show that this sensation, which is taken advantage of by recreational users during sexual activities, can greatly enhance orgasm.\n*'''[[Effect::Tactile suppression]]''' - This effect partially to entirely suppresses one's sense of touch, creating feelings of numbness within the extremities. It is responsible for the anesthetic properties of this substance.\n*'''[[Effect::Vitamin deficiency]]''' - Repeated doses may induce vitamin B12 deficiency. However, this can be prevented with B12 supplements.\n*'''[[Effect::Trouble Urinating]]'''\n}}\n{{effects/visual|\n\nIn comparison to other [[dissociatives]] such as [[ketamine]] or [[DXM]], the visual effects of nitrous oxide are comparatively simplistic. They progressively intensify proportional to dosage and can be broken down into five individual components which are listed and described below.\n\n====Suppression====\n*'''[[Effect::Visual acuity suppression|Acuity suppression]]''' - Blurred vision to the point of all-encompassing blindness is a completely consistent effect within nitrous oxide even at moderate dosages.\n*'''[[Effect::Frame rate suppression]]''' - This effect can cause ones visual framerate to lag to such an extent that it can cause one's vision to \"pause\"\n*'''[[Effect::Double vision]]''' - This component is also prevalent at moderate dosages and makes reading incapable unless one closes an eye.\n*'''[[Effect::Pattern recognition suppression]]''' - This effect occurs at higher dosages and makes one unable to recognize and interpret perceivable visual data.\n====Geometry====\n*'''[[Effect::Geometry]]''' - Nitrous oxide geometry can be described as unique in its behaviour. It usually only occurs at higher dosages and as a static wall of geometry which appears in front of one's vision alongside the physical sensation of becoming and merging with it. It usually manifests as consistently incidental in its form but varies in its arrangement between people. In terms of its stylistic appearance it can be described as simplistic in complexity, organic in style, unstructured in arrangement, colourful in scheme, glossy in shading, soft and blurred in its edges, large in size, still in movement, rounded corners, immersive in depth, and often based on complex interlocking circles.\n====Hallucinatory states====\n*'''[[Effect::External hallucinations]] and [[Effect::Internal hallucinations]]''' - In comparison to other more classical [[dissociative]]s, hallucinations are particularly rare with nitrous but possible at high dosages. They exclusively occur at high levels, are capable of manifesting as both external and internal in style, and are usually delirious in believability (but commonly only include mundane scenarios such as perceiving and talking to people who are not currently present).\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Amnesia]]''' - At high dosages, it is often common for one to experience amnesia and memory loss after the experience has occurred. This is especially prevalent alongside ego death.\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Depersonalization]]\n*'''[[Effect::Derealization]]\n*'''[[Effect::Déjà vu]]''' - Although uncommon and inconsistent, a certain subset of people report strong feelings of deja-vu consistently when under the influence of nitrous oxide.\n*'''[[Effect::Cognitive euphoria]]''' - This can be described as feelings of mild to intense happiness and general positivity.\n*'''[[Effect::Analysis suppression]]\n*'''[[Effect::Increased sense of humor]]\n**'''[[Effect::Laughter fits]]''' - This effect is markedly pronounced with nitrous oxide and can be described as sudden bouts of intense laughter and giggling.\n*'''[[Effect::Memory suppression]]''' - At higher dosages, level 3 [[Effect::ego death]] is an all-encompassing effect within nitrous oxide. In comparison to other hallucinogens, it is unique in style due to its rapid onset and quick comedown. This creates the experience that one's sense of self is rapidly disintegrated and then suddenly re-stacked through a process of regaining one's long-term memory. This is a remarkably identical process every time the experience is undergone.\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Vivid dreams]]'''\n\n}}\n{{effects/auditory|\n\nThe auditory effects found with nitrous oxide, although simplistic, are widely known to be particularly intense and consistent in their manifestation when compared to other [[hallucinogens]]. These effects include:\n\n*'''[[Effect::Auditory distortion|Distortions]]''' - These distortions are very powerful and loud enough in their volume to make the original sound completely unrecognizable. They include phasers, white noise, high pitch tones and notes, flanging, changes in pitch, echo effects, and stuttering. In particular, the frequency of the stuttering is proportionally related to the intensity of the effects, especially ego death which occurs when the stuttering becomes continuous. \n*'''[[Effect::Auditory suppression|Suppression]]''' - This effect can be described as a muffling and quieting of externally sourced sound which results in it sounding more indistinct and distant than it would usually be.\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Synaesthesia]]''' - This effect is reported to occur most commonly with auditory stimuli, like music translating into visual stimuli within closed eye visuals.\n\n}}\n{{effects/transpersonal|\n*'''[[Effect::Unity and interconnectedness]]''' - During high dosage states of ego death, this component is a common but inconsistent accompanying effect. It occurs at level 4 - 5 and creates experiences of becoming one with the greater whole. In comparison to other [[hallucinogens]] which induce this effect, it can be described as comparatively simpler and less profound due to its more basic accompanying cognitive effects.\n*'''[[Effect::Perception of interdependent opposites]]''' - During moderate to high doses, the effect may be described as having insight into the nature of two conflicting ideas, \"battling\" each other to maintain natural balance.\n\n}}\n}}\n===Combinational effects===\nNitrous is commonly combined with other [[hallucinogens]] for it which it acts as a brief but profound potentiator of their effects.\n\n*'''[[Psychedelics]]''' - When taken in combination with a psychedelic such as [[LSD]] or [[psilocybin mushrooms]], the effect will be a sudden and dramatic increase in perceived geometry to its maximum level of [[8A Geometry|8A]] or [[8B Geometry - Perceived exposure to inner mechanics of consciousness|8B]]. This is alongside a sudden and dramatic ego death.\n*'''[[Dissociatives]]''' - When taken in combination with a dissociative such as [[MXE]] or [[DXM]], the effect will be a sudden and dramatic increase in [[disconnective effects]] and the triggering of a sudden internal hallucinatory scenario.\n*'''[[Cannabis]]''' - When taken in combination with cannabis, the overall effects of the nitrous itself are potentiated more so than the cannabis' effects.\n*'''[[Alcohol]]''' - When taken in combination with alcohol, adverse side effects such as confusion, dizziness, and headaches are often significantly increased.\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Nitrous oxide]][[Category:Experience]]|format=ul|Columns=1}} \nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Nitrous_Oxide.shtml Erowid Experience Vaults: Nitrous Oxide]\n\n==Available forms==\n\n===Medical nitrous oxide===\n'''Medical tanks''' - These are hard to find and dangerous without a professional. They are occasionally seen at music festivals being used to fill balloons for sale.\n\n===Nonmedical nitrous oxide===\n{{headerpanel|{{Template:Warning/Nitrous oxide - Containers}}}}\n[[File:Big-ox-oxygen-canisters.png|thumb|right|200px|The canister on the left is whipped cream, a product which is pressurized with nitrous oxide. The two canisters on the right contain 'flavoured' oxygen.]]\n[[File:מיכל חמצן דו-חנקני שנמצא בגן ציבורי לאחר שימוש 03.jpg|100px|thumb|Nitrous oxide tubes.]]\n\n*'''Tubes''' - These are now commonly sold by web shops that are specializing in nitrous oxide.\n*'''Canned whipped cream''' - These are found in any grocery store. They contain very minimal gas with one or two uses before the cream comes out.\n*'''[https://en.wikipedia.org/wiki/Whipped-cream_charger Whipped-cream charger]''' - These are readily available and cheap to purchase online. They are small metal canisters that can be used by a nitrous cracker to fill a balloon full of gas which is then inhaled. Some varieties contain industrial residue and strength vary (as it is food grade).\n\n==Toxicity and harm potential==\nThe [[Toxicity::exact toxic dosage is unknown]]. Potential problems include:\n\n*Nitrous temporarily inhibits methionine synthase, a B12-dependant enzyme responsible for many important functions in the body.<ref>{{cite journal | vauthors=((Weimann, J.)) | journal=Best Practice & Research Clinical Anaesthesiology | title=Toxicity of nitrous oxide | volume=17 | issue=1 | pages=47–61 | date= March 2003 | url=https://linkinghub.elsevier.com/retrieve/pii/S1521689602902648 | issn=15216896 | doi=10.1053/bean.2002.0264}}</ref> Heavy and frequent long-term use can deplete vitamin B12 in the body and lead to serious and unpleasant neurological problems. Users may experience numbness and tingling in the fingers, toes, lips, et al. In more severe cases, there will be numbness of all extremities.<ref>{{Citation | vauthors=((Ok-Ad5515)) | year=2021 | title=Warning about Nitrous Oxide | url=https://www.reddit.com/r/Drugs/comments/lkcykd/warning_about_nitrous_oxide/}}</ref> Taking B12 supplements, especially in combination with a multivitamin and complete amino acid supplements, may help alleviate this problem. If one experiences these symptoms, nitrous use should be ceased immediately, and if the symptoms persist, medical attention should be sought after.\n\n*''Nitric'' oxide, a toxic industrial gas, is occasionally mistaken for ''nitrous'' oxide. Users should be careful they know what they are inhaling. Inhaling Nitric Oxide can permanently damage the lungs or kill.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Risks of whipped-cream chargers compared to medical nitrous oxide===\nMedical nitrous oxide has been safely used as a mild anesthetic for over 150 years.\n\n*Vapor pressure\n**Whipped-cream chargers: Very cold temperatures of the gas can freeze the lips and throat if taken directly from a tank or whippet. Releasing the gas into a balloon first allows the gas to warm before being administered.\n**Medical nitrous oxide is released slowly.\n*[https://en.wikipedia.org/wiki/Hypoxia Hypoxia] (abnormally low level of oxygen in the tissues), particularly the entity '[https://en.wikipedia.org/wiki/Diffusion_hypoxia diffusion hypoxia]'.<ref>https://pubmed.ncbi.nlm.nih.gov/3537624/</ref>\n**Whipped-cream chargers contains no oxygen. Oxygen deprivation that can cause brain injury and suffocation can result from lack of oxygen from pure nitrous oxide continuously inhaled from strap-on mask connected to a gas canister. Never use nitrous in any manner that does not provide for adequate oxygen intake. Suffocation can occur without discomfort.<ref>http://www.erowid.org/chemicals/nitrous/nitrous_health.shtml</ref>\n**Medical grade nitrous oxide contains 50% nitrous oxide, and 50% oxygen. When used as an anesthetic, nitrous is always administered in combination with oxygen.\n*Purity\n**Whipped-cream chargers contains food grade. Thus, they can contain a range of impurities, such as industrial grease left over from manufacturing, and tiny particles of steel from the pierced metal. Users can filter them through a piece of cotton, cloth, or clothing to reduce the amount of impurities inhaled.<ref>https://www.dancewizensw.org.au/filtering-nangs</ref><ref>http://www.erowid.org/chemicals/nitrous/nitrous_article2.shtml</ref> Regular cleaning of nitrous dispensing devices can also reduce the harm posed by impurities.<!-- Added to: Inhalants, Nitrous -->\n**Medical grade nitrous oxide: Contains medical grade nitrous oxide.\n\n===Risks with drug paraphernalia===\n\n====Risk with whipping dispensers====\n;Direct inhalation\n\nWhipping dispensers is more convenient to fill balloons with than crackers. Direct inhalation of butane can cause frostbite like effects that pose a serious risk of personal injury.\n\n;Dangers from plastic whip cream dispensers\n\nIt is advised to check that all parts of a whipping dispenser are made of metal, because dispensers made of plastic have exploded and damaged, and albeit extremely rare, even killed people:\n\n*In June 2017, Rebecca Burger, 33, a fitness blogger and model, [https://en.wikipedia.org/wiki/List_of_unusual_deaths died] after a whipped-cream charger exploded and struck her in the chest.\n*In August 2017, another woman got wounded from a whipping dispenser.<ref>https://www.independent.co.uk/news/world/woman-whipped-cream-canister-explosion-emilie-lada-skull-crack-award-ps990000-french-court-model-death-a7880461.html</ref>\n\n====Risks with nitrous charger crackers====\nA nitrous charger cracker repeatedly used to decompress cartridges without an outer layer of silicone can cause frostbite.\n\n===Dependence and abuse potential===\nAs with other dissociatives, the chronic use of nitrous oxide can be considered [[Addiction potential::mildly addictive with a moderate potential for abuse]]. \n\nTolerance to many of the effects of nitrous oxide [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Nitrous oxide [[Cross-tolerance::does not produce cross-tolerance with other dissocatives]], meaning that after the use of nitrous oxide other [[dissociatives]] will not have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::Alcohol]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UncertainInteraction::GHB]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UncertainInteraction::GBL]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UncertainInteraction::Opioids]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UncertainInteraction::Tramadol]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n\n==Drug paraphernalia==\n\n===Balloons===\n<center>\n<gallery caption=\"\" widths=\"300px\" location=\"centre\" perrow=\"4\">\nFile:Balloon_on_a_children's_birthday_party.jpg|thumb|right|Balloon(s) are inflated with nitrous oxide.\nFile:Sealing_clips.JPG|thumb|100px|Sealing clips make it easy to fill multiple balloons without tying or holding them.\n</gallery>\n</center>\n\nA regular balloon can typically hold a single 8 gram whipped-cream charger. However, jumbo balloons can hold about 3 cartridges.\n\n===Gas filter===\nCloth is used to filter the gas from whipped-cream chargers that contains often contains small amounts of impurities.\n\n===Gas transfer equipment===\nA typical whipped cream cartridge contain 8 gram nitrous oxide.\n\n====Whipped-cream charger cracker====\n[[File:N2O cracker.jpg|thumb|left|100px|A nitrous charger cracker.]]\n\n====Tube valves and regulators====\n{{#ev:youtube|https://www.youtube.com/watch?v=Obk_j6MhcRw|340x240|right|A plastic valve mounted on a tube|frame}}\n{{#ev:youtube|https://www.youtube.com/watch?v=ompZpZ-4HMo|340x240|right|A gas pressure regulator mounted on a tube|frame}}\n\nSimple plastic valves and gas pressure regulators, which display the gas pressure, are commonly used with nitrous oxide tanks. These devices are often sold by specialized online retailers that focus on nitrous oxide equipment.\n\n====Whipping dispensers====\n[[File:Dispenser.jpg|thumb|left|100px|Nitrous canisters made entirely of metal won't explode.]]\n\nTo use a half-pint or one-pint whipped cream dispenser, you will need one to two chargers, which is equivalent to 8–16 g (using standard 8 g cartridges). For a one-liter dispenser, you will need two to three chargers, which is equivalent to 16–24 g. The same quantity of gas can also be filled from a large tube with an attached gas pressure regulator connected to the whipping dispenser.\n\nIt is important not to overcharge your whipped cream dispenser.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Nitrous oxide is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act).<ref>BtMG | http://www.gesetze-im-internet.de/btmg_1981/BtMG.pdf</ref><ref>NpSG | https://www.gesetze-im-internet.de/npsg/NpSG.pdf</ref> It is legal, as long as it is not sold for human consumption, according to §2 AMG.<ref>{{Citation | title=§ 2 AMG - Einzelnorm | url=https://www.gesetze-im-internet.de/amg_1976/__2.html}}</ref> If it is intended for medical use, it is classified as a prescription medicine.<ref>Anlage 1 AMVV | https://www.bfarm.de/SharedDocs/Downloads/DE/Arzneimittel/Pharmakovigilanz/Gremien/Verschreibungspflicht/liste_stoffe_zubereitungen.pdf;jsessionid=B4E9C9724EA80BC179A1B9384A42240D.2_cid354?__blob=publicationFile&v=25</ref>\n*'''India''': Nitrous oxide is available for general anesthesia purposes. India's gas cylinder rules (1985) permit the transfer of gas from one cylinder to another for breathing purposes.{{citation needed}}\n*'''Netherlands''': [[File:Ban of Nitrous oxide use.jpg|thumb|right|Sign stating \"forbidden to use nitrous oxide\" in the Poelestraat in Groningen, Netherlands,  which is also known as the main nightlife area with bars, pubs, and clubs. Since 1 January 2021 has the use of nitrous oxide in the area been prohibited.]] Since 1 January 2023, the possession, importing, and sale of nitrous oxide is banned in the Netherlands, with exceptions for medical use, and the food industry.<ref>{{Cite news |last=Rankin |first=Jennifer |date=2022-11-15 |title=Dutch to ban laughing gas over fears for health and road safety |language=en-GB |work=The Guardian |url=https://www.theguardian.com/society/2022/nov/15/dutch-to-ban-laughing-gas-over-fears-for-health-and-road-safety |access-date=2023-10-20 |issn=0261-3077}}</ref> It is illegal under the [[Opium Act (Netherlands)|Opium Act]].<ref>{{Cite web |title=Opium act (drugs) |url=https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/customs/safety_health_economy_and_environment/safety/opium_act_drugs/opium_act_drugs#:~:text=You%20are%20not%20allowed%20to,these%20licences%20for%20the%20Netherlands. |access-date=2023-10-20 |website=www.belastingdienst.nl |language=en}}</ref>\n*'''New Zealand''': Nitrous oxide is a prescription medicine, and its sale or possession without a prescription is an offense under the Medicines Act.{{citation needed}}\n*'''Sweden''': From July 1, 2025, Sweden will restrict nitrous oxide sales with an 18-gram (two whipped-cream chargers) limit per purchase, an 18-year age minimum, and tighter controls on import and marketing. Violations may lead to fines or up to six months in prison.<ref>{{cite news |last1=Nyheter |first1=S. V. T. |title=Ny lag: 18-årsgräns för köp av lustgas |url=https://www.svt.se/nyheter/inrikes/forsaljning-av-lustgas-till-minderariga-forbjuds |work=SVT Nyheter |date=4 June 2025 |language=sv}}</ref>\n*'''United Kingdom''': Nitrous Oxide is a class C drug under the Misuse of Drugs Act as of 8th November 2023. It is still permitted for use within the medical and food industries.<ref>https://www.legislation.gov.uk/uksi/2023/1091/made</ref>\n*'''United States''': Possession of nitrous oxide is legal under federal law and is not subject to DEA purview.<ref>\"US Nitrous Oxide Laws (alphabetically) Based on a search of online free legal databases. Conducted May 2002\" - http://www.cognitiveliberty.org/dll/N20_state_laws.htm</ref> It is, however, regulated by the Food and Drug Administration under the Food Drug and Cosmetics Act. Prosecution is possible under its \"misbranding\" clauses, prohibiting the sale or distribution of nitrous oxide for the purpose of human consumption. Many states have laws regulating the possession, sale, and distribution of nitrous oxide. Such laws usually ban distribution to minors or limit the amount of nitrous oxide that may be sold without a special license. For example, in the state of California possession for recreational use is prohibited and qualifies as a misdemeanor.<ref>{{Citation | title=California Code, Penal Code - PEN § 381b | url=https://codes.findlaw.com/ca/penal-code/pen-sect-381b.html}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Inhalants]]\n*[[Hallucinogen]]\n*[[Dissociative]]\n*[[Ketamine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Nitrous_oxide Nitrous Oxide (Wikipedia)]\n**[https://en.wikipedia.org/wiki/Recreational_use_of_nitrous_oxide Recreational use of nitrous oxide (Wikipedia)]\n*[https://www.erowid.org/chemicals/nitrous/nitrous.shtml Nitrous Oxide (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3846 Nitrous Oxide (TiHKAL / Isomer Design)]\n*[http://justsayn2o.com/ Nitrous Oxide FAQ (justsayn2o.com)]\n\n===Harm reduction===\n\n*[https://www.dancewizensw.org.au/nitrous Nitrous Safer Using Tips (DanceWize)]\n*[https://www.usersnews.com.au/home/2019/12/18/nangs-nos-nitrous-oxide-n2o Nitrous Safer Using Tips (NUAA)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/57808-The-Big-amp-Dandy-Nitrous-Thread The Big & Dandy Nitrous Thread (Bluelight)]\n\n==Literature==\n\n*Sheldin, M., Wallechinsky, D., Salyer, S. Laughing Gas: Nitrous Oxide. Ronin Publishing, 1993\n*Humphry Davy. Researches Clinical and Philosophical, Chiefly Concerning Nitrous Oxide, 2010\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Hallucinogen]]\n[[Category:Dissociative]]\n[[Category:Inhalant]]\n{{#set:Featured=true}}"
+}

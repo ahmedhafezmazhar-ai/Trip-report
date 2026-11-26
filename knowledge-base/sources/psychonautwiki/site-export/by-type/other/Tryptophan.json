@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:23573",
+ "type": "other",
+ "title": "Tryptophan",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tryptophan",
+  "pageid": 23573,
+  "last_edited": "2025-01-18T14:39:32Z"
+ },
+ "categories": [],
+ "plain_text": "Tryptophan (Trp or W) is an α-aminoacid used in biosynthesis of proteins. It contains an α-amino group, an  α-carboxylic acid group and a side chain indole, making it a polar molecule with non-polar aromatic beta carbon substituent. Trp is a precursor for serotonin, melatonin and vitamin B3. It is encoded by the codon UGG.",
+ "wikitext": "'''Tryptophan''' ('''Trp''' or '''W''') is an α-aminoacid used in biosynthesis of proteins. It contains an α-amino group, an  α-carboxylic acid group and a side chain [https://en.m.wikipedia.org/wiki/Indole indole], making it a polar molecule with non-polar aromatic beta carbon substituent. '''Trp''' is a precursor for [[serotonin]], [[melatonin]] and vitamin B3. It is encoded by the codon UGG."
+}

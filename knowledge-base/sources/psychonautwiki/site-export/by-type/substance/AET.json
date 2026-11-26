@@ -1,0 +1,24 @@
+{
+ "id": "psychonautwiki:21427",
+ "type": "substance",
+ "title": "AET",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/AET",
+  "pageid": 21427,
+  "last_edited": "2026-10-14T02:06:14Z"
+ },
+ "categories": [
+  "Approval",
+  "CS1 errors: PMC",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/a-ET",
+ "substance_box": null,
+ "plain_text": "α-Ethyltryptamine (also known as a-ET, Monase) is a short-acting synthetic psychedelic that was first sold as a pharmaceutical antidepressant (Monase) in 1961. It was emergency scheduled (made illegal) on March 12, 1993 and has remained uncommon since. \nthumb\n\nPharmacology\n\nα-Ethyltryptamine is structurally and pharmacologically related to aMT, α-methyltryptamine.\n\nSubjective effects\n\nLegal status\n\nAET is Schedule 1 in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license. AET was emergency scheduled on March 12, 1993 and the permanently added to Schedule I on September 12, 1994\n\nCategory:Psychoactive substance",
+ "wikitext": "{{decree|type=notice|message=This article is in the 'Talk' namespace because it is an unfinished draft. This section is used to host drafts for unpublished articles as well as discussions for published ones. If you'd like to use this area to discuss this draft, please do so in the 'Discussion' section at the very bottom of the page. This notice will be removed once this draft has been approved for publication by an administrator.}}\n{{headerpanel|{{Approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/a-ET}}\n\n'''α-Ethyltryptamine''' (also known as '''a-ET''', '''Monase''') is a short-acting synthetic psychedelic that was first sold as a pharmaceutical antidepressant (Monase) in 1961. It was emergency scheduled (made illegal) on March 12, 1993 and has remained uncommon since. <ref>{{Citation | year=2022 | title=AET | publisher=Erowid | url=https://www.erowid.org/chemicals/aet/aet.shtml}}</ref>\n[[File:AET.svg|thumb]]\n<br />\n\n==Pharmacology==\n{{pharmacology}}\nα-Ethyltryptamine is structurally and pharmacologically related to [[aMT]], α-methyltryptamine.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Neurotoxicity]]''' - may produce serotonergic neurotoxicity<ref name=\"GlennonDukat2023\">{{cite journal | vauthors = Glennon RA, Dukat MG | title = α-Ethyltryptamine: A Ratiocinatory Review of a Forgotten Antidepressant | journal = ACS Pharmacology & Translational Science | volume = 6 | issue = 12 | pages = 1780–1789 | date = December 2023 | pmid = 38093842 | doi = 10.1021/acsptsci.3c00139 | pmc = 10714429 | pmc-embargo-date = November 7, 2024 }}</ref><ref name=\"Oeri2021\">{{cite journal | vauthors = Oeri HE | title = Beyond ecstasy: Alternative entactogens to 3,4-methylenedioxymethamphetamine with potential applications in psychotherapy | journal = Journal of Psychopharmacology | volume = 35 | issue = 5 | pages = 512–536 | date = May 2021 | pmid = 32909493 | pmc = 8155739 | doi = 10.1177/0269881120920420 }}</ref><ref name=\"HuangJohnsonNichols1991\">{{cite journal | vauthors = Huang XM, Johnson MP, Nichols DE | title = Reduction in brain serotonin markers by alpha-ethyltryptamine (Monase) | journal = European Journal of Pharmacology | volume = 200 | issue = 1 | pages = 187–190 | date = July 1991 | pmid = 1722753 | doi = 10.1016/0014-2999(91)90686-k }}</ref>\n*'''[[Effect::Perception of bodily lightness]]''' - At light to common doses feelings of body lightness have been reported with AET.\n*'''[[Effect::Stimulation]]''' - AET is primarily stimulating and has been described as 'exciting.'\n*'''[[Effect::Physical euphoria]]''' - Provides a physical pleasure reportedly more akin to [[Amphetamine]] than [[MDMA]]. \n}}\n|\n}}\n\n==Legal status==\n{{legalStub}}\nAET is Schedule 1 in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license. AET was emergency scheduled on March 12, 1993 and the permanently added to Schedule I on September 12, 1994\n<references />\n\n[[Category:Psychoactive substance]]"
+}

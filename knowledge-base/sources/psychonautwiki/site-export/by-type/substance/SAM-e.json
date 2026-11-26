@@ -1,0 +1,293 @@
+{
+ "id": "psychonautwiki:12402",
+ "type": "substance",
+ "title": "SAM-e",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/SAM-e",
+  "pageid": 12402,
+  "last_edited": "2024-04-21T23:24:24Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Nootropic",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/SAM-e",
+ "substance_box": {
+  "names": {
+   "common": "S-Adenosyl Methionine, SAM-e, Methylguanidoacetic Acid",
+   "substitutive": "",
+   "systematic": "(2S)-2-Amino-4-(((2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl)methyl-methylsulfonio)butanoate"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Nitrogenous organic acid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "2-10%",
+    "threshold": "200 mg",
+    "light": "400 - 800 mg",
+    "common": "800 - 1200 mg",
+    "strong": "1200 - 1600 mg",
+    "heavy": "1600 mg +",
+    "duration": "8 - 12 hours",
+    "onset": "100 - 180 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "S-Adenosyl Methionine",
+    "SAM-e",
+    "Methylguanidoacetic Acid"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Nitrogenous organic acid"
+   ],
+   "Oral threshold dose": [
+    "200"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "400"
+   ],
+   "Oral max light dose": [
+    "800"
+   ],
+   "Oral min common dose": [
+    "800"
+   ],
+   "Oral max common dose": [
+    "1200"
+   ],
+   "Oral min strong dose": [
+    "1200"
+   ],
+   "Oral max strong dose": [
+    "1600"
+   ],
+   "Oral heavy dose": [
+    "1600"
+   ],
+   "Oral min onset time": [
+    "100"
+   ],
+   "Oral max onset time": [
+    "180"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of S-Adenosyl methionine",
+   "clean": "Molecular structure of S-Adenosyl methionine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:S-Adenosyl methionine.svg",
+   "clean": "File:S-Adenosyl methionine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::S-Adenosyl Methionine]], [[common name::SAM-e]], [[common name::Methylguanidoacetic Acid]]",
+   "clean": "S-Adenosyl Methionine, SAM-e, Methylguanidoacetic Acid"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(2S)-2-Amino-4-(((2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl)methyl-methylsulfonio)butanoate",
+   "clean": "(2S)-2-Amino-4-(((2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl)methyl-methylsulfonio)butanoate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Nitrogenous organic acid]]",
+   "clean": "Nitrogenous organic acid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "2-10%",
+   "clean": "2-10%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::200]] [[Oral dose units::mg]]",
+   "clean": "200 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::400]] - [[Oral max light dose::800]] mg",
+   "clean": "400 - 800 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::800]] - [[Oral max common dose::1200]] mg",
+   "clean": "800 - 1200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1200]] - [[Oral max strong dose::1600]] mg",
+   "clean": "1200 - 1600 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::1600]] mg +",
+   "clean": "1600 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "8 - 12 hours",
+   "clean": "8 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::100]] - [[Oral max onset time::180]] [[Oral onset time units::minutes]]",
+   "clean": "100 - 180 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "S-Adenosyl-L-methionine (also called S-Adenosyl methionine, Ademethionine and commonly as SAMe and SAM-e) is a common cosubstrate involved in methyl group transfers, transsulfuration, and aminopropylation in biological organisms. SAMe is an amino acid methionine bound to an ATP molecule that circulates in the blood naturally and acts as a 'methyl donor'. A methyl group in chemistry is simply a carbon molecule (bound to some hydrogens), and donating a methyl group to other molecules can accelerate or preserve reactions in the body as a form of metabolic 'maintenance'.\n\nSAM-e is available over the counter and by prescription in the treatment of depression and osteoarthritis. It is generally distributed in enteric-coated tablets, which allows the supplement to pass through the low pH environment of the stomach to the gastrointestinal tract, raising the bioavaliability by 600%.\n250px|thumb|Enteric coated SAM-e tablets.\nA review of trials assessing oral doses of SAM-e between 200mg and 1600mg notes that they appear to have similar efficacy to tricyclic antidepressants as well as being more effective than placebo.\n\nChemistry\n\nS-adenosyl methionine is an endogenous molecule, found as a substrate synthesized by the sub-groups adenosine and methionine through an the enzyme methionine adenosyltransferase. The adenosine subcomponent is comprised of an adedine nucleobase bonded to a ribose chain. This ribose chain is attached to the terminal carbon of the methionine group. Methionine is a butyl carboxylic acid substituted at R2 with an amino group and at R4 with a methylthio (carbon-sulphur) group. It is an essential methyl donator in metabolic reactions.\n\nPharmacology\n\nSAM-e is an endogenous molecule that has numerous roles including methyl donation in neurotransmitter synthesis, antioxidative effects (radical scavenging, glutathione precursor), anti-inflammatory effects, and neuroprotective effects.\n\nSAM-e, in addition to providing ATP to the cell, also can convert nicotinamine into N-methyl-nicotinamide (NMNA) via nicotinamide N-methyltransferase, NMNA which can prevent choline efflux from the brain and neuron, a process which may account for some of SAM-e's nootropic effects. The involvement of SAM-e in the process of synthesizing serotonin, creatine and dopamine likely play a role in nootropic effects as well.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, this compound is reported to produce more physical and cognitive stimulation.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: SAMe\n\nToxicity and harm potential\n\nThere are no clinically significant side-effects of acute SAM-e supplementation. Although side-effects are not commonly reported with SAMe, numerous studies note a small set of participants who experience mania after supplementing SAM-e. While not common, it appears to be related to SAMe supplementation for unknown reasons; it has been reported in some persons without history of mania as well and does not appear to be related to any pathological condition per se.\n\nSAM-e is also hypothesized to raise homocystine to harmful levels, but this has yet to be proven in a laboratory environment.  Still, it is advised to take Sam-e along with folate and B12.\n\nRegardless, it is strongly recommended that one be familiar with harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nSAM-e is not habit-forming with a low potential for abuse. It does not seem to be capable of causing psychological or physiological dependence among users.\n\nTolerance to many of the effects of S-adenosyl methionine develops over several weeks of prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption).\n\nLegal status\n\n*United States - SAM-e is approved and legal over the counter for purchase.\n*Germany - SAM-e is sold as a dietary supplement.\n*Russia - SAM-e is available by prescription.\n*United Kingdom - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Nootropics\n*Noopept\n*Ashwagandha\n*Creatine\n\nExternal links\n\n*S-Adenosyl methionine (Wikipedia)\n*S-Adenosyl methionine (Examine)\n*S-Adenosyl methionine (UoMMC)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Nootropic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/SAM-e}}\n\n'''S-Adenosyl-L-methionine''' (also called '''S-Adenosyl methionine''', '''Ademethionine''' and commonly as '''SAMe''' and '''SAM-e''') is a common cosubstrate involved in methyl group transfers, transsulfuration, and aminopropylation in biological organisms.<ref>{{cite journal | vauthors=((Finkelstein, J. D.)), ((Martin, J. J.)) | journal=The International Journal of Biochemistry & Cell Biology | title=Homocysteine | volume=32 | issue=4 | pages=385–389 | date= April 2000 | issn=1357-2725 | doi=10.1016/s1357-2725(99)00138-7}}</ref> SAMe is an amino acid methionine bound to an ATP molecule that circulates in the blood naturally and acts as a 'methyl donor'. A methyl group in chemistry is simply a carbon molecule (bound to some hydrogens), and donating a methyl group to other molecules can accelerate or preserve reactions in the body as a form of metabolic 'maintenance'.{{citation needed}}\n\nSAM-e is available over the counter and by prescription in the treatment of depression and osteoarthritis. It is generally distributed in enteric-coated tablets, which allows the supplement to pass through the low pH environment of the stomach to the gastrointestinal tract, raising the bioavaliability by 600%.<ref>{{cite journal | vauthors=((Mischoulon, D.)), ((Alpert, J. E.)), ((Arning, E.)), ((Bottiglieri, T.)), ((Fava, M.)), ((Papakostas, G. I.)) | journal=The Journal of clinical psychiatry | title=Bioavailability of S-Adenosyl Methionine and Impact on Response in a Randomized Controlled Trial in Major Depressive Disorder | volume=73 | issue=6 | pages=843–848 | date= June 2012 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156851/ | issn=0160-6689 | doi=10.4088/JCP.11m07139}}</ref>\n[[File:Sam-E.jpg|250px|thumb|Enteric coated SAM-e tablets.]]\nA review of trials assessing oral doses of SAM-e between 200mg and 1600mg notes that they appear to have similar efficacy to tricyclic antidepressants as well as being more effective than placebo.<ref>{{cite journal | vauthors=((Chan, A.)), ((Remington, R.)), ((Kotyla, E.)), ((Lepore, A.)), ((Zemianek, J.)), ((Shea, T. B.)) | journal=The Journal of Nutrition, Health & Aging | title=A vitamin/nutriceutical formulation improves memory and cognitive performance in community-dwelling adults without dementia | volume=14 | issue=3 | pages=224–230 | date= March 2010 | issn=1760-4788 | doi=10.1007/s12603-010-0054-5}}</ref>\n==Chemistry==\nS-adenosyl methionine is an [[endogenous]] molecule, found as a substrate synthesized by the sub-groups adenosine and methionine through an the enzyme methionine adenosyltransferase. The adenosine subcomponent is comprised of an adedine nucleobase bonded to a ribose chain. This ribose chain is attached to the terminal carbon of the methionine group. Methionine is a butyl carboxylic acid substituted at R<sub>2</sub> with an amino group and at R<sub>4</sub> with a methylthio (carbon-sulphur) group. It is an essential methyl donator in metabolic reactions.{{citation needed}}\n\n==Pharmacology==\n\nSAM-e is an [[endogenous]] molecule that has numerous roles including methyl donation in neurotransmitter synthesis, antioxidative effects (radical scavenging, glutathione precursor), anti-inflammatory effects, and neuroprotective effects.<ref name=\"Mischoulon\">{{cite journal | vauthors=((Mischoulon, D.)), ((Fava, M.)) | journal=The American Journal of Clinical Nutrition | title=Role of S-adenosyl-L-methionine in the treatment of depression: a review of the evidence | volume=76 | issue=5 | pages=1158S–61S | date= November 2002 | issn=0002-9165 | doi=10.1093/ajcn/76/5.1158S}}</ref>\n\nSAM-e, in addition to providing ATP to the cell, also can convert nicotinamine into N-methyl-nicotinamide (NMNA) via nicotinamide N-methyltransferase, NMNA which can prevent choline efflux from the brain and neuron, a process which may account for some of SAM-e's [[nootropic]] effects.<ref>{{cite journal | vauthors=((Williams, A. C.)), ((Ramsden, D. B.)) | journal=Medical Hypotheses | title=Nicotinamide homeostasis: a xenobiotic pathway that is key to development and degenerative diseases | volume=65 | issue=2 | pages=353–362 | date= 2005 | issn=0306-9877 | doi=10.1016/j.mehy.2005.01.042}}</ref> The involvement of SAM-e in the process of synthesizing serotonin, creatine and dopamine likely play a role in nootropic effects as well.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\nIn comparison to the effects of other nootropics such as [[noopept]], this compound is reported to produce more physical and cognitive stimulation.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which SAM-e presents can be considered as subtle, yet persistent and energetic comparable to that of [[caffeine]], although less forced.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bodily control enhancement]]''' - In addition to raising energy levels, SAM-e shows efficacy in improving joint mobility in those with osteoarthritis.<ref>{{cite journal | vauthors=((Witte, S.)), ((Lasek, R.)), ((Victor, N.)) | journal=Der Orthopade | title=[Meta-analysis of the efficacy of adenosylmethionine and oxaceprol in the treatment of osteoarthritis] | volume=31 | issue=11 | pages=1058–1065 | date= November 2002 | issn=0085-4530 | doi=10.1007/s00132-002-0366-1}}</ref>\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Diarrhea]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Pain relief]]''' - This appears to be about as effective as NSAIDS such as [[ibuprofen]] for joint inflammation and pain.<ref>{{cite journal | vauthors=((Caruso, I.)), ((Pietrogrande, V.)) | journal=The American Journal of Medicine | title=Italian double-blind multicenter study comparing S-adenosylmethionine, naproxen, and placebo in the treatment of degenerative joint disease | volume=83 | issue=5A | pages=66–71 | date=20 November 1987 | issn=0002-9343 | doi=10.1016/0002-9343(87)90854-0}}</ref>\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Tactile enhancement]]'''\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Mania]]'''<ref>{{cite journal | vauthors=((Berigan, T. R.)) | journal=Primary Care Companion to The Journal of Clinical Psychiatry | title=A Case Report of a Manic Episode Triggered by S-Adenosylmethionine (SAMe) | volume=4 | issue=4 | pages=159 | date= 2002 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC315487/ | issn=1523-5998}}</ref>\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_SAMe.shtml Erowid Experience Vaults: SAMe]\n\n==Toxicity and harm potential==\n{{toxicity}}\nThere are no clinically significant side-effects of acute SAM-e supplementation. Although side-effects are not commonly reported with SAMe, numerous studies note a small set of participants who experience [[mania]] after supplementing SAM-e. While not common, it appears to be related to SAMe supplementation for unknown reasons; it has been reported in some persons without history of mania as well and does not appear to be related to any pathological condition per se.<ref>{{cite journal | vauthors=((Shippy, R. A.)), ((Mendez, D.)), ((Jones, K.)), ((Cergnul, I.)), ((Karpiak, S. E.)) | journal=BMC Psychiatry | title=S-adenosylmethionine (SAM-e) for the treatment of depression in people living with HIV/AIDS | volume=4 | pages=38 | date=11 November 2004 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC535560/ | issn=1471-244X | doi=10.1186/1471-244X-4-38}}</ref><ref name=\"Mischoulon\"/>\n\nSAM-e is also hypothesized to raise homocystine to harmful levels, but this has yet to be proven in a laboratory environment. <ref>{{cite journal | vauthors=((Loehrer, F. M.)), ((Schwab, R.)), ((Angst, C. P.)), ((Haefeli, W. E.)), ((Fowler, B.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Influence of oral S-adenosylmethionine on plasma 5-methyltetrahydrofolate, S-adenosylhomocysteine, homocysteine and methionine in healthy humans | volume=282 | issue=2 | pages=845–850 | date= August 1997 | issn=0022-3565}}</ref> Still, it is advised to take Sam-e along with folate and B12.\n\nRegardless, it is strongly recommended that one be familiar with [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nSAM-e is [[Addiction potential::not habit-forming with a low potential for abuse]]. It does not seem to be capable of causing psychological or physiological dependence among users.\n\nTolerance to many of the effects of S-adenosyl methionine develops over several weeks of prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption).\n\n==Legal status==\n\n*'''United States''' - SAM-e is approved and legal over the counter for purchase.\n*'''Germany''' - SAM-e is sold as a dietary supplement.\n*'''Russia''' - SAM-e is available by prescription.\n*'''United Kingdom''' - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Nootropics]]\n*[[Noopept]]\n*[[Ashwagandha]]\n*[[Creatine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/S-Adenosyl_methionine S-Adenosyl methionine (Wikipedia)]\n*[https://examine.com/supplements/s-adenosyl-methionine/ S-Adenosyl methionine (Examine)]\n*[http://umm.edu/health/medical/altmed/supplement/sadenosylmethionine S-Adenosyl methionine (UoMMC)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Nootropic]]\n\n{{#set:Featured=true}}"
+}

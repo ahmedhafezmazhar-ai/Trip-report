@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14748",
+ "type": "substance-summary",
+ "title": "ΑMT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/%CE%91MT/Summary",
+  "pageid": 14748,
+  "last_edited": "2017-06-20T17:14:59Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "ΑMT",
+ "plain_text": "",
+ "wikitext": "{{Summary|aMT}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21722",
+ "type": "substance-summary",
+ "title": "HHC/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/HHC/Summary",
+  "pageid": 21722,
+  "last_edited": "2024-03-11T00:44:06Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "HHC",
+ "plain_text": "",
+ "wikitext": "{{Summary|HHC}}"
+}

@@ -1,0 +1,344 @@
+{
+ "id": "psychonautwiki:1511",
+ "type": "substance",
+ "title": "Tramadol",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tramadol",
+  "pageid": 1511,
+  "last_edited": "2025-01-31T19:17:56Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Cycloalkylamine",
+  "Opioid",
+  "Phenylpropylamine",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Tramadol",
+ "substance_box": {
+  "names": {
+   "common": "Tramadol, Tramal, Tadol, Tramacur, Tramundin",
+   "substitutive": "Tramadol",
+   "systematic": "2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Phenylpropylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "70 - 90%",
+    "threshold": "25 mg",
+    "light": "25 - 100 mg",
+    "common": "100 - 250 mg",
+    "strong": "250 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "6 - 10 hours",
+    "onset": "15 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 6 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Tramadol",
+    "Tramal",
+    "Tadol",
+    "Tramacur",
+    "Tramundin"
+   ],
+   "psychoactive class": [
+    "Opioid"
+   ],
+   "chemical class": [
+    "Phenylpropylamine"
+   ],
+   "Oral min bioavailability": [
+    "70"
+   ],
+   "Oral max bioavailability": [
+    "90"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "25"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "250"
+   ],
+   "Oral min strong dose": [
+    "250"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Chemical structures of (1R,2R) (Left) and (1S,2S) (Right) isomers of tramadol.",
+   "clean": "Chemical structures of (1R,2R) (Left) and (1S,2S) (Right) isomers of tramadol."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Tramadol (Racemate).svg",
+   "clean": "File:Tramadol (Racemate).svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Tramadol]], [[common name::Tramal]], [[common name::Tadol]], [[common name::Tramacur]], [[common name::Tramundin]]",
+   "clean": "Tramadol, Tramal, Tadol, Tramacur, Tramundin"
+  },
+  "NameSubstitution": {
+   "raw": "Tramadol",
+   "clean": "Tramadol"
+  },
+  "NameSystematic": {
+   "raw": "2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol",
+   "clean": "2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenylpropylamine]]",
+   "clean": "Phenylpropylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::70]] - [[Oral max bioavailability::90]]%<ref name=\"Klotz2011\">{{cite journal | vauthors=((Klotz, U.)) | journal=Arzneimittelforschung | title=Tramadol — the Impact of its Pharmacokinetic and Pharmacodynamic Properties on the Clinical Management of Pain | volume=53 | issue=10 | pages=681–687 | date=25 December 2011 | url=http://www.thieme-connect.de/DOI/DOI?10.1055/s-0031-1299812 | issn=0004-4172 | doi=10.1055/s-0031-1299812}}</ref>",
+   "clean": "70 - 90%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::100]] mg",
+   "clean": "25 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::250]] mg",
+   "clean": "100 - 250 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::250]] - [[Oral max strong dose::300]] mg",
+   "clean": "250 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Tramadol (also known as Ultram, Ralivia or Tramal) is a synthetic opioid substance of the phenylpropylamine class that is structurally related to codeine and morphine. It acts as a weak μ-opioid receptor agonist and a reuptake inhibitor of norepinephrine and serotonin.\n\nTramadol was developed in 1962 and launched under the name \"Tramal\" by the German pharmaceutical company Grünenthal GmbH in 1977. In the mid-1990s, it was approved for use in the United Kingdom and the United States. It is commonly prescribed to treat moderate to moderately severe pain.\n\nSubjective effects are largely consistent with that of traditional opioids and include sedation, pain relief, anxiety suppression, muscle relaxation, and euphoria. Tramadol is also known to produce mild to moderate entactogenic effects like increased music appreciation and empathy, affection, and sociability enhancement, which is thought to be due to its serotonergic effects. \n\nUnlike other opioids, tramadol has been established to lower the seizure threshold in humans as well as increase the risk of serotonin syndrome. This makes its effects and interactions relatively unpredictable. As a result, high doses or combinations with other psychoactive substances are strongly advised against. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nTramadol was synthesized in 1962 by chemists employed by the German pharmaceutical company Grünenthal. However, it was not approved in Germany until 1977, entering the market as Tramal. It became the leading analgesic drug in Germany and during the past 38 years it has been approved in over 100 countries, including the UK, USA, Republic of China and Canada.\n\nFor a period of time it was believed tramadol was not a purely synthetic drug after its apparent discovery in the roots of the pin cushion tree. These reports later proved to be erroneous; the tramadol had been excreted by cows treated with the drug, resulting in the tramadol having seeped into the roots through their urine.\n\nChemistry\n\n(+/-)Tramadol, or 2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol, is an atypical synthetic opioid. The chemical structure of tramadol consists of two rings that include a cyclohexane ring bonded to a phenyl ring at R1. This phenyl ring is substituted at R3 with a methoxy group (CH3O-). At the same location (R1)  the cyclohexane ring is bonded to the phenyl ring, an additional hydroxy group is found. Tramadol features a second substitution on its cyclohexane ring at R2. Here, the ring is bonded to a dimethylamine group connected through a methyl bridge. \n\nTramadol is unique as it is found in a racemate (combination) of its stereoisomers. These are two molecules that share the same chemical structure, but are three-dimensional mirror images of each other. Tramadol is produced as a racemate of its two isomers because the combination is proven to be more effective. The picture seen above is the R- enantiomer of tramadol, switching the dashed and solid wedges seen on the molecule skeleton results in the S- enantiomer. It is produced as a hydrochloride salt.\n\nTramadol is a 4-phenylpiperidine analog of codeine. Notably, it is not a morphinan opiate.\n\nPharmacology\n\nThe R- and S- enantiomers of tramadol act on different receptors in a complimentary manner. The R- enantiomer is a selective agonist of the mu receptors and inhibits serotonin reuptake while the S- enantiomer inhibits noradrenaline reuptake. Tramadol acts as an opioid receptor agonist, serotonin releasing agent, norepinephrine reuptake inhibitor, NMDA receptor antagonist, 5-HT2C receptor antagonist, (α7)5 nicotinic acetylcholine receptor antagonist, and M1 and M3 muscarinic acetylcholine receptor antagonist.\n\nTramadol is metabolised to O-Desmethyltramadol (O-DSMT), a significantly more potent opioid.\n\nThe euphoric effects of tramadol stem from the way in which opioids bind to and activate the μ-opioid receptor. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their euphoria, pain relief and anxiolytic effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Tramadol\n\nToxicity and harm potential\n\nTramadol has a low toxicity relative to dose. As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. It is also potentially respiratory depression when mixed with [[depressants like alcohol or benzodiazepines]] and generally has a wider range of substances which it is dangerous to combine with in comparison to other opioids. It should not be taken during benzodiazepine withdrawals as this can potentially cause seizures.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nDependence and abuse potential\n\nAs with other opioids, the chronic use of tramadol can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of tramadol develops with prolonged and repeated use. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Tramadol presents cross-tolerance with all other opioids, meaning that after the consumption of tramadol all opioids will have a reduced effect.\n\nDangerous interactions\n\nSerotonin syndrome risk\n\nCombinations with the following substances can lead to dangerously high serotonin levels. Serotonin syndrome requires immediate medical attention and can be fatal if left untreated.\n\n*MAOIs such as syrian rue, banisteriopsis caapi, phenelzine, selegiline, and moclobemide\n*Serotonin releasers such as MDMA, 4-FA, methamphetamine, methylone and aMT\n*2C-T-x\n*DXM\n\nLegal status\n\n*Austria: Tramadol is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Malaysia: Tramadol is not listed as a First Schedule drug in the Dangerous Drugs Act 1952 of Malaysia.\n*Germany: Tramadol is a prescription medicine, according to Anlage 1 AMVV.\n*South Africa: Tramadol is legal for prescribed medical use only and is considered a Schedule 5 controlled substance. Sale and possession is decriminalized and considered misdemeanor.\n*Sweden: As of May 2008, Sweden has chosen to classify tramadol as a controlled substance in the same way as codeine and dextropropoxyphene. This means that the substance is a scheduled drug. But unlike codeine and dextropropoxyphene, a normal prescription can be used at this time.\n*Switzerland: Tramadol is listed as a \"Abgabekategorie A\" pharmaceutical, which requires a prescription.\n*Turkey: Tramadol is a 'green prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: On June 10th, 2014, tramadol was made a Class C drug under the Misuse of Drugs Act.\n*United States: Tramadol is a Schedule IV controlled substance in the United States.\n\nSee also\n\n*Responsible use\n*Depressants\n*Opioids\n*Serotonin\n*Norepinephrine\n*O-Desmethyltramadol (O-DSMT)\n\nExternal links\n\n*Tramadol (Wikipedia)\n*Tramadol (Erowid Vault)\n*Tramadol (Isomer Design)\n*Tramadol (DrugBank)\n*Tramadol (Drugs.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Cycloalkylamine\nCategory:Phenylpropylamine\nCategory:Opioid",
+ "wikitext": "{{Headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Tramadol}}\n\n'''Tramadol''' (also known as '''Ultram''', '''Ralivia''' or '''Tramal''') is a synthetic [[psychoactive class::opioid]] substance of the [[chemical class::phenylpropylamine]] class that is structurally related to [[codeine]] and [[morphine]]. It acts as a weak [[μ-opioid]] [[receptor]] [[agonist]] and a [[reuptake inhibitor]] of [[norepinephrine]] and [[serotonin]].<ref>{{cite journal | vauthors=((Reimann, W.)), ((Schneider, F.)) | journal=European Journal of Pharmacology | title=Induction of 5-hydroxytryptamine release by tramadol, fenfluramine and reserpine | volume=349 | issue=2 | pages=199–203 | date=22 May 1998 | url=https://www.sciencedirect.com/science/article/pii/S0014299998001952 | issn=0014-2999 | doi=10.1016/S0014-2999(98)00195-2}}</ref><ref name=\"Gobbi2002\">{{cite journal | vauthors=((Gobbi, M.)), ((Moia, M.)), ((Pirona, L.)), ((Ceglia, I.)), ((Reyes-Parada, M.)), ((Scorza, C.)), ((Mennini, T.)) | journal=Journal of Neurochemistry | title=p-Methylthioamphetamine and 1-(m-chlorophenyl)piperazine, two non-neurotoxic 5-HT releasers in vivo, differ from neurotoxic amphetamine derivatives in their mode of action at 5-HT nerve endings in vitro: Effects of MTA and mCPP in synaptosomes | volume=82 | issue=6 | pages=1435–1443 | date=19 September 2002 | url=http://doi.wiley.com/10.1046/j.1471-4159.2002.01073.x | issn=00223042 | doi=10.1046/j.1471-4159.2002.01073.x}}</ref>\n\nTramadol was developed in 1962 and launched under the name \"Tramal\" by the German pharmaceutical company Grünenthal GmbH in 1977. In the mid-1990s, it was approved for use in the United Kingdom and the United States.<ref name=\"Leppert2009\">{{cite journal | vauthors=((Leppert, W.)) | journal=Pharmacological Reports | title=Tramadol as an analgesic for mild to moderate cancer pain | volume=61 | issue=6 | pages=978–992 | date= November 2009 | url=https://linkinghub.elsevier.com/retrieve/pii/S1734114009701598 | issn=17341140 | doi=10.1016/S1734-1140(09)70159-8}}</ref> It is commonly prescribed to treat moderate to moderately severe pain.\n\n[[Subjective effects]] are largely consistent with that of traditional opioids and include [[sedation]], [[pain relief]], [[anxiety suppression]], [[muscle relaxation]], and [[euphoria]]. Tramadol is also known to produce mild to moderate [[entactogenic]] effects like [[increased music appreciation]] and [[empathy, affection, and sociability enhancement]], which is thought to be due to its [[serotonergic]] effects. \n\nUnlike other [[opioids]], tramadol has been established to lower the seizure threshold in humans<ref>{{cite journal | vauthors=((Talaie, H.)), ((Panahandeh, R.)), ((Fayaznouri, M. R.)), ((Asadi, Z.)), ((Abdollahi, M.)) | journal=Journal of Medical Toxicology | title=Dose-independent occurrence of seizure with tramadol | volume=5 | issue=2 | pages=63–67 | date= June 2009 | url=http://link.springer.com/10.1007/BF03161089 | issn=1556-9039 | doi=10.1007/BF03161089}}</ref> as well as increase the risk of [[serotonin syndrome]]. This makes its effects and interactions relatively unpredictable. As a result, high doses or combinations with other [[psychoactive substances]] are strongly advised against. \n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{historyStub}}\n\nTramadol was synthesized in 1962 by chemists employed by the German pharmaceutical company Grünenthal.<ref name=\"Leppert2009\" /> However, it was not approved in Germany until 1977, entering the market as Tramal. It became the leading analgesic drug in Germany and during the past 38 years it has been approved in over 100 countries, including the UK, USA, Republic of China and Canada.<ref>{{cite journal | vauthors=((Lassen, D.)), ((Damkier, P.)), ((Brøsen, K.)) | journal=Clinical Pharmacokinetics | title=The Pharmacogenetics of Tramadol | volume=54 | issue=8 | pages=825–836 | date= August 2015 | url=http://link.springer.com/10.1007/s40262-015-0268-0 | issn=0312-5963 | doi=10.1007/s40262-015-0268-0}}</ref>\n\nFor a period of time it was believed tramadol was not a purely synthetic drug after its apparent discovery in the roots of the pin cushion tree.<ref>{{cite journal | vauthors=((Boumendjel, A.)), ((Sotoing Taïwe, G.)), ((Ngo Bum, E.)), ((Chabrol, T.)), ((Beney, C.)), ((Sinniger, V.)), ((Haudecoeur, R.)), ((Marcourt, L.)), ((Challal, S.)), ((Ferreira Queiroz, E.)), ((Souard, F.)), ((Le Borgne, M.)), ((Lomberget, T.)), ((Depaulis, A.)), ((Lavaud, C.)), ((Robins, R.)), ((Wolfender, J.-L.)), ((Bonaz, B.)), ((De Waard, M.)) | journal=Angewandte Chemie International Edition | title=Occurrence of the Synthetic Analgesic Tramadol in an African Medicinal Plant | volume=52 | issue=45 | pages=11780–11784 | date=4 November 2013 | url=https://onlinelibrary.wiley.com/doi/10.1002/anie.201305697 | issn=14337851 | doi=10.1002/anie.201305697}}</ref> These reports later proved to be erroneous; the tramadol had been excreted by cows treated with the drug, resulting in the tramadol having seeped into the roots through their urine.<ref>{{cite journal | vauthors=((Kusari, S.)), ((Tatsimo, S. J. N.)), ((Zühlke, S.)), ((Talontsi, F. M.)), ((Kouam, S. F.)), ((Spiteller, M.)) | journal=Angewandte Chemie International Edition | title=Tramadol-A True Natural Product? | volume=53 | issue=45 | pages=12073–12076 | date=3 November 2014 | url=https://onlinelibrary.wiley.com/doi/10.1002/anie.201406639 | issn=14337851 | doi=10.1002/anie.201406639}}</ref>\n\n==Chemistry==\n(+/-)Tramadol, or 2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol, is an atypical synthetic opioid. The chemical structure of tramadol consists of two rings that include a [[cyclohexane]] ring bonded to a [[phenyl]] ring at R<sub>1</sub>. This phenyl ring is substituted at R<sub>3</sub> with a methoxy group (CH<sub>3</sub>O-). At the same location (R<sub>1</sub>)  the cyclohexane ring is bonded to the phenyl ring, an additional hydroxy group is found. Tramadol features a second substitution on its cyclohexane ring at R<sub>2</sub>. Here, the ring is bonded to a dimethylamine group connected through a methyl bridge. \n\nTramadol is unique as it is found in a racemate (combination) of its stereoisomers. These are two molecules that share the same chemical structure, but are three-dimensional mirror images of each other. Tramadol is produced as a racemate of its two isomers because the combination is proven to be more effective. The picture seen above is the R- enantiomer of tramadol, switching the dashed and solid wedges seen on the molecule skeleton results in the S- enantiomer. It is produced as a hydrochloride salt.<ref>{{cite journal | vauthors=((Dayer, P.)), ((Desmeules, J.)), ((Collart, L.)) | journal=Drugs | title=[Pharmacology of tramadol] | volume=53 Suppl 2 | pages=18–24 | date= 1997 | issn=0012-6667 | doi=10.2165/00003495-199700532-00006}}</ref>\n\nTramadol is a 4-phenylpiperidine analog of [[codeine]]. Notably, it is not a morphinan opiate.\n\n==Pharmacology==\nThe R- and S- enantiomers of tramadol act on different receptors in a complimentary manner. The R- enantiomer is a selective agonist of the mu receptors and inhibits serotonin reuptake while the S- enantiomer inhibits noradrenaline reuptake. Tramadol acts as an [[opioid|opioid]] [[receptor|receptor]] [[agonist|agonist]],<ref>{{cite journal | vauthors=((Hennies, H. H.)), ((Friderichs, E.)), ((Schneider, J.)) | journal=Arzneimittel-Forschung | title=Receptor binding, analgesic and antitussive potency of tramadol and other selected opioids | volume=38 | issue=7 | pages=877–880 | date= July 1988 | issn=0004-4172}}</ref><ref name=\"Frink1996\">{{cite journal | vauthors=((Frink, M. C.)), ((Hennies, H. H.)), ((Englberger, W.)), ((Haurand, M.)), ((Wilffert, B.)) | journal=Arzneimittel-Forschung | title=Influence of tramadol on neurotransmitter systems of the rat brain | volume=46 | issue=11 | pages=1029–1036 | date= November 1996 | issn=0004-4172}}</ref> [[serotonin]] [[releasing agent]],<ref name=\"Frink1996\" /><ref name=\"Gobbi2002\" /><ref>{{cite journal | vauthors=((Driessen, B.)), ((Reimann, W.)) | journal=British Journal of Pharmacology | title=Interaction of the central analgesic, tramadol, with the uptake and release of 5-hydroxytryptamine in the rat brain in vitro. | volume=105 | issue=1 | pages=147–151 | date= January 1992 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1908625/ | issn=0007-1188}}</ref><ref>{{cite journal | vauthors=((Bamigbade, T. A.)), ((Davidson, C.)), ((Langford, R. M.)), ((Stamford, J. A.)) | journal=British Journal of Anaesthesia | title=Actions of tramadol, its enantiomers and principal metabolite, O-desmethyltramadol, on serotonin (5-HT) efflux and uptake in the rat dorsal raphe nucleus | volume=79 | issue=3 | pages=352–356 | date= September 1997 | url=https://linkinghub.elsevier.com/retrieve/pii/S0007091217398598 | issn=00070912 | doi=10.1093/bja/79.3.352}}</ref> [[norepinephrine]] [[reuptake inhibitor]],<ref name=\"Frink1996\" /> [[NMDA receptor antagonist]],<ref>{{cite journal | vauthors=((Hara, K.)), ((Minami, K.)), ((Sata, T.)) | journal=Anesthesia & Analgesia | title=The Effects of Tramadol and Its Metabolite on Glycine, γ-Aminobutyric Acid<sub>A</sub>, and N-Methyl-d-Aspartate Receptors Expressed in Xenopus Oocytes: | volume=100 | issue=5 | pages=1400–1405 | date= May 2005 | url=http://journals.lww.com/00000539-200505000-00037 | issn=0003-2999 | doi=10.1213/01.ANE.0000150961.24747.98}}</ref> 5-HT2C receptor antagonist,<ref name=\"Ogata2004\">{{cite journal | vauthors=((Ogata, J.)), ((Minami, K.)), ((Uezono, Y.)), ((Okamoto, T.)), ((Shiraishi, M.)), ((Shigematsu, A.)), ((Ueta, Y.)) | journal=Anesthesia & Analgesia | title=The Inhibitory Effects of Tramadol on 5-Hydroxytryptamine Type 2C Receptors Expressed in Xenopus Oocytes: | pages=1401–1406 | date= May 2004 | url=http://journals.lww.com/00000539-200405000-00038 | issn=0003-2999 | doi=10.1213/01.ANE.0000108963.77623.A4}}</ref> (α7)5 nicotinic acetylcholine receptor antagonist,<ref name=\"Ogata2004\" /> and M1 and M3 muscarinic [[acetylcholine]] [[receptor]] [[antagonist]].<ref>{{cite journal | vauthors=((Shiraishi, M.)), ((Minami, K.)), ((Uezono, Y.)), ((Yanagihara, N.)), ((Shigematsu, A.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Inhibition by tramadol of muscarinic receptor-induced responses in cultured adrenal medullary cells and in Xenopus laevis oocytes expressing cloned M1 receptors | volume=299 | issue=1 | pages=255–260 | date= October 2001 | issn=0022-3565}}</ref><ref>{{cite journal | vauthors=((Shiga, Y.)), ((Minami, K.)), ((Shiraishi, M.)), ((Uezono, Y.)), ((Murasaki, O.)), ((Kaibara, M.)), ((Shigematsu, A.)) | journal=Anesthesia & Analgesia | title=The Inhibitory Effects of Tramadol on Muscarinic Receptor-Induced Responses in Xenopus Oocytes Expressing Cloned M3 Receptors | volume=95 | issue=5 | pages=1269–1273 | date= November 2002 | url=https://journals.lww.com/00000539-200211000-00031 | issn=0003-2999 | doi=10.1097/00000539-200211000-00031}}</ref>\n\nTramadol is metabolised to [[O-Desmethyltramadol]] ('''O-DSMT'''), a significantly more potent opioid.\n\nThe euphoric effects of tramadol stem from the way in which opioids bind to and activate the [[Opioid#Receptor_types|μ-opioid]] [[receptor]]. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their [[physical euphoria|euphoria]], [[pain relief]] and [[anxiolytic]] effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' & '''[[Effect::Stimulation]]''' - At lower to common doses, tramadol is considerably more, and highly stimulating than traditional opiates like [[codeine]] and [[heroin]] due to its action as a [[norepinephrine]] [[reuptake inhibitor]]. Higher doses are marked by sedation and lethargy characteristic of traditional opiates.\n*'''[[Effect::Pain relief]]'''{{citation needed}}\n*'''[[Effect::Physical euphoria]]''' - Tramadol is considered as less intense in its physical euphoria when compared with that of [[morphine]] or [[heroin]].  The sensation itself can be described as extreme feelings of intense physical comfort, warmth, love and bliss.\n*'''[[Effect::Itchiness]]''' - Itchiness is comparably greater than other opioids due to higher amounts of histamine release.\n*'''[[Effect::Constipation]]'''{{citation needed}}\n*'''[[Effect::Cough suppression]]'''{{citation needed}}\n*'''[[Effect::Dehydration]]'''{{citation needed}} - Tramadol can produce significant dehydration, particularly with higher doses. Users are advised to drink water throughout the experience to help mitigate the comedown and side effects like headaches. \n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Nausea]]'''{{citation needed}}\n*'''[[Effect::Pupil constriction]]'''{{citation needed}}\n*'''[[Effect::Decreased libido]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''{{citation needed}}\n*'''[[Effect::Seizure]]'''{{citation needed}}\n*'''[[Effect::Teeth grinding]]''' - This effect typically occurs only at lower dosages where the stimulation is more pronounced, this is likely due to its action as a serotonin [[reuptake inhibitor]].\n*'''[[Effect::Headaches]]''' - Headaches seem to occur more frequently on tramadol than other [[opiates]], although they don't occur for everyone. The underlying cause is unclear, although it may be related to its [[SNRI]] properties.\n*'''[[Effect::Restless legs]]'''<ref>{{cite journal | vauthors=((Hoque, R.)), ((Chesson, A. L.)) | journal=Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine | title=Pharmacologically induced/exacerbated restless legs syndrome, periodic limb movements of sleep, and REM behavior disorder/REM sleep without atonia: literature review, qualitative scoring, and comparative analysis | volume=6 | issue=1 | pages=79–83 | date=15 February 2010 | issn=1550-9389}}</ref>\n\n}}\n|{{effects/cognitive|\n\nThe general head space of tramadol is described by many as one of stimulation, euphoria, relaxation, anxiety suppression and pain relief. \n\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This particular substance can be considered as less intense in its cognitive euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin). The sensation itself can be described as powerful and overwhelming feeling of emotional bliss, contentment, and happiness.\n*'''[[Effect::Empathy, affection and sociability enhancement]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Anxiety]]''' - While tramadol has a greater tendency to suppress anxiety, it can also potentially cause it under certain conditions. This effect can possibly be attributed to the noradrenergic properties of this substance.\n*'''[[Effect::Irritability]]''' - While opioids are well known for their ability to improve mood, they can also have the paradoxical effect of increasing the user's sensitivity to irritable stimuli. This can manifest as aloofness and sudden outbursts of anger and aggression (colloquially known as \"opiate rage\"). It appears to occur more frequently during the comedown of the experience and/or with heavy use. Tramadol's noradrenergic properties may also have a part in this effect.\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Increased music appreciation]]''' Music may sound more immersive when under the influence of tramadol.\n*'''[[Effect::Wakefulness]]'''\n}}\n}}\n\n<br />\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Tramadol]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Tramadol.shtml Erowid Experience Vaults: Tramadol]\n\n==Toxicity and harm potential==\n{{toxicity}}\nTramadol has a [[Toxicity::low toxicity]] relative to dose. As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. It is also [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[benzodiazepines]]]] and generally has a wider range of substances which it is [[Tramadol#Dangerous interactions|dangerous to combine with]] in comparison to other opioids. It should not be taken during [[Benzodiazepine#Discontinuation|benzodiazepine withdrawals]] as this can potentially cause [[seizure]]s.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Dependence and abuse potential===\nAs with other [[opioids]], the chronic use of tramadol can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of tramadol [[Time to full tolerance::develops with prolonged and repeated use]]. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Tramadol presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of tramadol all [[opioid]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/PhenylpropylamineOpioids}}\n\n===[[Serotonin syndrome]] risk===\nCombinations with the following substances can lead to dangerously high [[serotonin]] levels. Serotonin syndrome requires immediate medical attention and can be fatal if left untreated.\n\n*'''[[DangerousInteraction::MAOIs|MAOIs]]''' such as '''[[syrian rue]]''', '''[[banisteriopsis caapi]]''', '''phenelzine''', '''selegiline''', and '''moclobemide'''<ref>{{cite journal | vauthors=((Gillman, P. K.)) | journal=British Journal of Anaesthesia | title=Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity | volume=95 | issue=4 | pages=434–441 | date= October 2005 | url=https://linkinghub.elsevier.com/retrieve/pii/S0007091217349565 | issn=00070912 | doi=10.1093/bja/aei210}}</ref>\n*'''[[Serotonin releasers]]''' such as '''[[DangerousInteraction::MDMA]]''', '''[[4-FA]]''', '''[[methamphetamine]]''', '''[[methylone]]''' and '''[[DangerousInteraction::aMT]]'''\n*'''[[UnsafeInteraction::2C-T-x|2C-T-x]]'''\n*'''[[DangerousInteraction::DXM|DXM]]'''\n\n==Legal status==\n\n*'''Austria:''' Tramadol is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Malaysia:''' Tramadol is not listed as a First Schedule drug in the Dangerous Drugs Act 1952 of Malaysia.<ref>[https://www.pharmacy.gov.my/v2/sites/default/files/document-upload/first-schedule-05.07.2021_0.pdf ''First Schedule Drugs'']\n\n[https://www.pharmacy.gov.my/v2/en/documents/dangerous-drugs-act-1952-and-regulations.html ''Dangerous Drugs Act 1952 and Regulations''] </ref>\n*'''Germany:''' Tramadol is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''South Africa:''' Tramadol is legal for prescribed medical use only and is considered a Schedule 5 controlled substance. Sale and possession is decriminalized and considered misdemeanor.<ref>https://strathprints.strath.ac.uk/71305/1/Fynn_etal_HP_2020_Drug_utilization_review_of_tramadol_hydrochloride_in_a_regional_hospital.pdf</ref>\n*'''Sweden:''' As of May 2008, Sweden has chosen to classify tramadol as a controlled substance in the same way as [[codeine]] and [[dextropropoxyphene]]. This means that the substance is a scheduled drug. But unlike codeine and dextropropoxyphene, a normal prescription can be used at this time.<ref>http://www.lakemedelsverket.se/Alla-nyheter/NYHETER-2008/Substansen-tramadol-nu-narkotikaklassad-pa-samma-satt-som-kodein-och-dextropropoxifen/</ref>\n*'''Switzerland:''' Tramadol is listed as a \"Abgabekategorie A\" pharmaceutical, which requires a prescription.{{citation needed}}\n*'''Turkey''': Tramadol is a 'green prescription' only substance<ref>YEŞİL REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/01.04.2019%20SKRS%20Ye%C5%9Fil%20Re%C3%A7eteli%20%C4%B0la%C3%A7lar%20Aktif%20SON%20-%20G%C3%9CNCEL_58b1ff4a-2e1c-4867-bad7-eec855d6162a.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''United Kingdom:''' On June 10th, 2014, tramadol was made a Class C drug under the Misuse of Drugs Act.<ref>{{Citation | title=The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) (England, Wales and Scotland) Regulations 2014 | url=https://www.legislation.gov.uk/uksi/2014/1275/regulation/5/made}}</ref>\n*'''United States:''' Tramadol is a Schedule IV controlled substance in the United States.<ref>DEA Controlled Drugs | https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Opioids]]\n*[[Serotonin]]\n*[[Norepinephrine]]\n*[[O-Desmethyltramadol]] (O-DSMT)\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Tramadol Tramadol (Wikipedia)]\n*[https://www.erowid.org/pharms/tramadol/ Tramadol (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=10528 Tramadol (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00193 Tramadol (DrugBank)]\n*[https://www.drugs.com/tramadol.html Tramadol (Drugs.com)]\n\n==References==\n{{reflist|2}}\n{{#set:Featured=true}}\n\n[[Category:Psychoactive substance]]\n[[Category:Cycloalkylamine]]\n[[Category:Phenylpropylamine]]\n[[Category:Opioid]]"
+}

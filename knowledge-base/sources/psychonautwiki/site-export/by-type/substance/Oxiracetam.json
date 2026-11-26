@@ -1,0 +1,300 @@
+{
+ "id": "psychonautwiki:12180",
+ "type": "substance",
+ "title": "Oxiracetam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Oxiracetam",
+  "pageid": 12180,
+  "last_edited": "2025-01-31T00:35:42Z"
+ },
+ "categories": [
+  "Nootropic",
+  "Psychoactive substance",
+  "Racetam",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Oxiracetam",
+ "substance_box": {
+  "names": {
+   "common": "Oxiracetam",
+   "substitutive": "",
+   "systematic": "(RS)-2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Racetam"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "250 mg",
+    "light": "500 - 1200 mg",
+    "common": "1200 - 1800 mg",
+    "strong": "1800 - 2400 mg",
+    "heavy": "2400 mg +",
+    "duration": "8 - 10 hours",
+    "onset": "30 - 90 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Oxiracetam"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Racetam"
+   ],
+   "Oral threshold dose": [
+    "250"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "500"
+   ],
+   "Oral max light dose": [
+    "1200"
+   ],
+   "Oral min common dose": [
+    "1200"
+   ],
+   "Oral max common dose": [
+    "1800"
+   ],
+   "Oral min strong dose": [
+    "1800"
+   ],
+   "Oral max strong dose": [
+    "2400"
+   ],
+   "Oral heavy dose": [
+    "2400"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of oxiracetam",
+   "clean": "Molecular structure of oxiracetam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Oxiracetam.svg",
+   "clean": "File:Oxiracetam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Oxiracetam]]",
+   "clean": "Oxiracetam"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(RS)-2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide",
+   "clean": "(RS)-2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Racetam]]",
+   "clean": "Racetam"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::250]] [[Oral dose units::mg]]",
+   "clean": "250 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::500]] - [[Oral max light dose::1200]] mg",
+   "clean": "500 - 1200 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1200]] - [[Oral max common dose::1800]] mg",
+   "clean": "1200 - 1800 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1800]] - [[Oral max strong dose::2400]] mg",
+   "clean": "1800 - 2400 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2400]] mg +",
+   "clean": "2400 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "8 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Oxiracetam (ISF 2522) is a mild central nervous system stimulant and nootropic agent belonging to the racetam family of drugs. Although it is one of the first known and synthesized derivatives of piracetam, its research and efficacy in humans is limited.\n\nOxiracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are nearly twenty times those of noopept, making it less potent while offering comparable benefit.\n\nSupplementation of oxiracetam tends to be in the dosage range of 1,200-2,400mg taken over the course of a day, either in two to three evenly spread dosing periods (such as three doses of 400mg or 800mg).\n\nOxiracetam has moderately protected against scopolamine-induced amnesia both in rat populations and in human populations, suggesting it can aid recovery from deliriant intoxication and other typically cognitively impaired states by preserving adequate levels of acetylcholine as a primary mechanism.\n\nChemistry\n\nOxiracetam, or (RS)-2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide, is a synthetic compound of the racetam family. Racetams share a pyrrolidine nucleus, a five member nitrogenous ring with a ketone bonded oxygen at R2. This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. Oxiracetam is substituted with an additional hydroxy group at R4, which is a chiral center for the molecule. Oxiracetam is presumably produced as a racemate of its enantiomers. Oxiracetam is structurally analogous to piracetam, which lacks the R4 hydroxy substitution of oxiracetam.\n\nPharmacology\n\nOxiracetam has been shown to increase acetylcholine release within hippocampal cells. As acetycholine is involved in the function of memory consolidation, this could potentially account for its nootropic effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Oxiracetam\n\nToxicity and harm potential\n\nSeveral studies suggest that this substance is safe even when high doses are consumed for a long period of time although it is worth noting that the exact toxic dosage is unknown. Anecdotal evidence from people who have tried oxiracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nLethal dosage\n\nThe median lethal dosage (LD50) of oxiracetam has not been officially published as it has low abuse potential, but is not known to be harmful in it's recommended dosage range.\n\nTolerance and addiction potential\n\nThe chronic use of oxiracetam can be considered as non-addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among users, although this fact has not been corroborated by clinical studies. \nTolerance to many of the effects of oxiracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Oxiracetam may presents cross-tolerance with all racetam [[nootropics]], meaning that after the consumption of oxiracetam certain nootropics such as aniracetam and piracetam may have a reduced effect.\n\nLegal status\n\nOxiracetam, being a member of the racetam family, currently is legally available to buy and sell in most countries, but may still vary by region.\n\n*United Kingdom - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Pramiracetam\n*Nootropic\n*Stimulant\n*Piracetam\n\nExternal links\n\n* Oxiracetam (Wikipedia)\n* Oxiracetam (Erowid Vault)\n* Oxiracetam (Isomer Design)\n* Oxiracetam (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Nootropic\nCategory:Racetam",
+ "wikitext": "\n{{SummarySheet}}\n{{SubstanceBox/Oxiracetam}}\n\n'''Oxiracetam''' ('''ISF 2522''') is a mild central nervous system [[psychoactive class::stimulant]] and [[psychoactive class::nootropic]] agent belonging to the [[chemical class::racetam]] family of drugs.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref><ref>{{cite journal | vauthors=((Valzelli, L.)), ((Baiguerra, G.)), ((Giraud, O.)) | journal=Methods and Findings in Experimental and Clinical Pharmacology | title=Difference in learning and retention by Albino Swiss mice. Part III. Effect of some brain stimulants | volume=8 | issue=6 | pages=337–341 | date= June 1986 | issn=0379-0355}}</ref> Although it is one of the first known and synthesized derivatives of [[piracetam]], its research and efficacy in humans is limited.\n\nOxiracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are nearly twenty times those of [[noopept]], making it less potent while offering comparable benefit.\n\nSupplementation of oxiracetam tends to be in the dosage range of 1,200-2,400mg taken over the course of a day,<ref>Nootreviews Oxiracetam Guide | http://nootreviews.com/oxiracetam</ref> either in two to three evenly spread dosing periods (such as three doses of 400mg or 800mg).\n\nOxiracetam has moderately protected against [[Datura|scopolamine]]-induced amnesia both in rat populations and in human populations, suggesting it can aid recovery from [[deliriant]] intoxication and other typically cognitively impaired states by preserving adequate levels of [[acetylcholine]] as a primary mechanism.<ref>{{cite journal | vauthors=((Preda, L.)), ((Alberoni, M.)), ((Bressi, S.)), ((Cattaneo, C.)), ((Parini, J.)), ((Canal, N.)), ((Franceschi, M.)) | journal=Psychopharmacology | title=Effects of acute doses of oxiracetam in the scopolamine model of human amnesia | volume=110 | issue=4 | pages=421–426 | date= 1993 | issn=0033-3158 | doi=10.1007/BF02244648}}</ref><ref>{{cite journal | vauthors=((Pitsikas, N.)), ((Algeri, S.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Effect of oxiracetam on scopolamine-induced amnesia in the rat in a spatial learning task | volume=43 | issue=3 | pages=949–951 | date= November 1992 | issn=0091-3057 | doi=10.1016/0091-3057(92)90430-n}}</ref>\n\n==Chemistry==\nOxiracetam, or (RS)-2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide, is a synthetic compound of the [[racetam]] family. Racetams share a [[pyrrolidine]] nucleus, a five member nitrogenous ring with a ketone bonded oxygen at R<sub>2</sub>. This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. Oxiracetam is substituted with an additional hydroxy group at R<sub>4</sub>, which is a chiral center for the molecule. Oxiracetam is presumably produced as a racemate of its enantiomers. Oxiracetam is structurally analogous to [[piracetam]], which lacks the R<sub>4</sub> hydroxy substitution of oxiracetam.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref>\n\n==Pharmacology==\nOxiracetam has been shown to increase [[acetylcholine]] release within hippocampal cells.<ref>{{cite journal | vauthors=((Pugliese, A. M.)), ((Corradetti, R.)), ((Ballerini, L.)), ((Pepeu, G.)) | journal=British Journal of Pharmacology | title=Effect of the nootropic drug oxiracetam on field potentials of rat hippocampal slices | volume=99 | issue=1 | pages=189–193 | date= January 1990 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.1990.tb14676.x | issn=00071188 | doi=10.1111/j.1476-5381.1990.tb14676.x}}</ref> As acetycholine is involved in the function of memory consolidation, this could potentially account for its [[nootropic]] effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which oxiracetam presents can be considered as primarily subtle, with a magnitude comparable to that of [[caffeine]].\n\n}}\n\n{{effects/visual|\n*'''[[Effect::Acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n}}\n|{{effects/cognitive|\nThis effect listing primarily pertains to the recommended dosage. Users commonly report contradictory effects at higher (>2400mg) doses.\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://erowid.org/experiences/subs/exp_Smarts_Oxiracetam.shtml Erowid Experience Vaults: Oxiracetam]\n\n==Toxicity and harm potential==\nSeveral studies suggest that this substance is [[Toxicity::safe even when high doses are consumed for a long period of time]]<ref>{{cite journal | vauthors=((Parnetti, L.)), ((Mecocci, P.)), ((Petrini, A.)), ((Longo, A.)), ((Buccolieri, A.)), ((Senin, U.)) | journal=Neuropsychobiology | title=Neuropsychological results of long-term therapy with oxiracetam in patients with dementia of Alzheimer type and multi-infarct dementia in comparison with a control group | volume=22 | issue=2 | pages=97–100 | date= 1989 | issn=0302-282X | doi=10.1159/000118599}}</ref><ref>{{cite journal | vauthors=((Itil, T. M.)), ((Menon, G. N.)), ((Songar, A.)), ((Itil, K. Z.)) | journal=Clinical Neuropharmacology | title=CNS pharmacology and clinical therapeutic effects of oxiracetam | volume=9 Suppl 3 | pages=S70-72 | date= 1986 | issn=0362-5664}}</ref><ref>{{cite journal | vauthors=((Perucca, E.)), ((Parini, J.)), ((Albrici, A.)), ((Visconti, M.)), ((Ferrero, E.)) | journal=European Journal of Drug Metabolism and Pharmacokinetics | title=Oxiracetam pharmacokinetics following single and multiple dose administration in the elderly | volume=12 | issue=2 | pages=145–148 | date= June 1987 | issn=0378-7966 | doi=10.1007/BF03189889}}</ref> although it is worth noting that the [[Toxicity::exact toxic dosage is unknown]]. Anecdotal evidence from people who have tried oxiracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Lethal dosage===\nThe median lethal dosage ([[LD50|LD<sub>50</sub>]]) of oxiracetam has not been officially published as it has low abuse potential, but is not known to be harmful in it's recommended dosage range.\n\n===Tolerance and addiction potential===\nThe chronic use of oxiracetam can be considered as [[Addiction potential::non-addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among users, although this fact has not been corroborated by clinical studies. \nTolerance to many of the effects of oxiracetam [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Oxiracetam may presents cross-tolerance with [[Cross-tolerance::all [[racetam]] [[nootropic]]s]], meaning that after the consumption of oxiracetam certain [[nootropics]] such as [[aniracetam]] and [[piracetam]] may have a reduced effect.\n\n==Legal status==\n{{legalStub}}\nOxiracetam, being a member of the [[racetam]] family, currently is legally available to buy and sell in most countries, but may still vary by region.\n\n*'''United Kingdom''' - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Pramiracetam]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Piracetam]]\n==External links==\n* [https://en.wikipedia.org/wiki/Oxiracetam Oxiracetam (Wikipedia)]\n* [https://erowid.org/smarts/oxiracetam/oxiracetam.shtml Oxiracetam (Erowid Vault)]\n* [https://isomerdesign.com/PiHKAL/explore.php?id=9983 Oxiracetam (Isomer Design)]\n* [https://examine.com/supplements/Oxiracetam/ Oxiracetam (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Racetam]]\n{{#set:Featured=true}}"
+}

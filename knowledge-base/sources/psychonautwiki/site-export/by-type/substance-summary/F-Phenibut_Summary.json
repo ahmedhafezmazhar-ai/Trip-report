@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13573",
+ "type": "substance-summary",
+ "title": "F-Phenibut/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/F-Phenibut/Summary",
+  "pageid": 13573,
+  "last_edited": "2016-12-18T08:46:15Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "F-Phenibut",
+ "plain_text": "",
+ "wikitext": "{{Summary|F-Phenibut}}"
+}

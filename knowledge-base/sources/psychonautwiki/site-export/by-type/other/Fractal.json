@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:7604",
+ "type": "other",
+ "title": "Fractal",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Fractal",
+  "pageid": 7604,
+  "last_edited": "2018-12-29T16:07:54Z"
+ },
+ "categories": [],
+ "plain_text": "[[File:SierpinskiTriangle.PNG|thumbnail|A Sierpinski triangle fractal after 7 iterations.]]\nA fractal is any equation or pattern that when seen as an image produces a picture which can be zoomed into infinity and will still produce the same picture. It can be cut into parts which look quite like a smaller version of the set that was started with. A simple example is a tree that branches infinitely into smaller branches with those smaller branches branching into even smaller branches and so on. \n\nFractals are related to the field of psychonautics due to the fact that they are an extremely common component embedded within the visual experience of psychedelic geometry. Fractal images with mathematics are generated through recursive formulas that infinitely repeat an image over itself in a self-similar way. \n\nIt could therefore be speculated that the fractals one sees within psychedelic geometry are generated through a similar recursive looping system which is reinterpreting the same visual stimuli multiple times on top of itself, thus causing geometry to flower out into distinctive fractal structures.\n\nExamples\n\nSee also\n\n*Responsible use\n*Psychedelic\n*Hallucinogen\n*LSD",
+ "wikitext": "[[File:SierpinskiTriangle.PNG|thumbnail|A [http://simple.wikipedia.org/wiki/Sierpinski_triangle Sierpinski triangle] fractal after 7 iterations.]]\nA '''fractal''' is any equation or pattern that when seen as an image produces a picture which can be zoomed into infinity and will still produce the same picture. It can be cut into parts which look quite like a smaller version of the set that was started with. A simple example is a tree that branches infinitely into smaller branches with those smaller branches branching into even smaller branches and so on. \n\nFractals are related to the field of [[psychonautics]] due to the fact that they are an extremely common component embedded within the visual experience of [[psychedelic]] [[geometry]]. Fractal images with mathematics are generated through recursive formulas that infinitely repeat an image over itself in a self-similar way. \n\nIt could therefore be speculated that the fractals one sees within psychedelic [[geometry]] are generated through a similar recursive looping system which is reinterpreting the same visual stimuli multiple times on top of itself, thus causing geometry to flower out into distinctive fractal structures.\n===Examples===\n{{Gallery|[[Effect::Geometry]][[Category:Fractals]]}}\n===See also===\n*[[Responsible use]]\n*[[Psychedelic]]\n*[[Hallucinogen]]\n*[[LSD]]"
+}

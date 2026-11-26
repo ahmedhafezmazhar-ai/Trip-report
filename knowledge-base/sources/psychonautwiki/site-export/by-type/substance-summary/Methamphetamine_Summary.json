@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10933",
+ "type": "substance-summary",
+ "title": "Methamphetamine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methamphetamine/Summary",
+  "pageid": 10933,
+  "last_edited": "2015-11-13T09:36:19Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Methamphetamine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Methamphetamine}}"
+}

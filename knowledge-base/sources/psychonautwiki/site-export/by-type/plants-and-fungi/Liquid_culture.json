@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:16548",
+ "type": "plants-and-fungi",
+ "title": "Liquid culture",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Liquid_culture",
+  "pageid": 16548,
+  "last_edited": "2018-04-30T11:01:51Z"
+ },
+ "categories": [
+  "Mycology",
+  "Stub"
+ ],
+ "plain_text": "thumb\nLiquid culture is a mixture of sterilized nutritious solution. It can be used to multiply fungi spore or mycelium.\n\nSee also\n\n* Spore print\n* Spore syringe\n\nCategory:Mycology",
+ "wikitext": "{{stub}}\n[[File:liquid-culture.jpg|thumb]]\n'''Liquid culture''' is a mixture of sterilized nutritious solution. It can be used to multiply fungi spore or mycelium.\n\n==See also==\n* [[Spore print]]\n* [[Spore syringe]]\n\n[[Category:Mycology]]"
+}

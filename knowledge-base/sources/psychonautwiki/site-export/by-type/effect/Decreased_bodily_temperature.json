@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:21369",
+ "type": "effect",
+ "title": "Decreased bodily temperature",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Decreased_bodily_temperature",
+  "pageid": 21369,
+  "last_edited": "2026-11-01T01:14:15Z"
+ },
+ "categories": [
+  "Cerebrovascular",
+  "Effect",
+  "Physical",
+  "Uncomfortable"
+ ],
+ "plain_text": "__NOTOC__\nDecreased bodily temperature can be described as having a body temperature which is below normal baseline, its diagnoses ranges below 36°C (96.8°F). For comparison, the average temperature of a healthy person is around 37°C (98.6°F).\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nSee also\n\n* Increased bodily temperature\n\nExternal links\n\n*Hypothermia (Wikipedia)\n\nReferences\n\nCategory:PhysicalCategory:UncomfortableCategory:CerebrovascularCategory:Effect",
+ "wikitext": "__NOTOC__\n<onlyinclude>'''Decreased bodily temperature''' can be described as having a body temperature which is below normal baseline, its diagnoses ranges below 36°C (96.8°F). For comparison, the average temperature of a healthy person is around 37°C (98.6°F).\n\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Decreased bodily temperature]]|format=ul|Columns=2}}\n\n==See also==\n* [[Increased bodily temperature]]\n\n===External links===\n*[https://en.wikipedia.org/wiki/Hypothermia Hypothermia (Wikipedia)]\n===References===\n<references />\n[[Category:Physical]][[Category:Uncomfortable]][[Category:Cerebrovascular]][[Category:Effect]]"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13403",
+ "type": "substance-summary",
+ "title": "Hexedrone/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Hexedrone/Summary",
+  "pageid": 13403,
+  "last_edited": "2016-11-30T23:09:32Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Hexedrone",
+ "plain_text": "",
+ "wikitext": "{{Summary|Hexedrone}}"
+}

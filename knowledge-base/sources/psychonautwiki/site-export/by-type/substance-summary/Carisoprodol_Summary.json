@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13161",
+ "type": "substance-summary",
+ "title": "Carisoprodol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Carisoprodol/Summary",
+  "pageid": 13161,
+  "last_edited": "2016-11-07T00:16:24Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Carisoprodol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Carisoprodol}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10830",
+ "type": "substance-summary",
+ "title": "AMT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/AMT/Summary",
+  "pageid": 10830,
+  "last_edited": "2015-11-11T07:38:13Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "AMT",
+ "plain_text": "",
+ "wikitext": "{{Summary|AMT}}"
+}

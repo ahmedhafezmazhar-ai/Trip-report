@@ -1,0 +1,335 @@
+{
+ "id": "psychonautwiki:6365",
+ "type": "substance",
+ "title": "MDAI",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MDAI",
+  "pageid": 6365,
+  "last_edited": "2024-05-31T22:28:55Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Aminoindane",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Entactogen",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/MDAI",
+ "substance_box": {
+  "names": {
+   "common": "MDAI",
+   "substitutive": "5,6-Methylenedioxy-2-aminoindane",
+   "systematic": "6,7-Dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen",
+   "chemical": "Aminoindane / MDxx"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "40 mg",
+    "light": "40 - 100 mg",
+    "common": "100 - 175 mg",
+    "strong": "175 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 40 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 2.5 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "MDAI"
+   ],
+   "psychoactive class": [
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Aminoindane"
+   ],
+   "Oral threshold dose": [
+    "40"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "175"
+   ],
+   "Oral min strong dose": [
+    "175"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min duration time": [
+    "4"
+   ],
+   "Oral max duration time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of MDAI",
+   "clean": "Molecular structure of MDAI"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:MDAI.svg",
+   "clean": "File:MDAI.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::MDAI]]",
+   "clean": "MDAI"
+  },
+  "NameSubstitution": {
+   "raw": "5,6-Methylenedioxy-2-aminoindane",
+   "clean": "5,6-Methylenedioxy-2-aminoindane"
+  },
+  "NameSystematic": {
+   "raw": "6,7-Dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine",
+   "clean": "6,7-Dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Entactogen]]",
+   "clean": "Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Aminoindane]] / [[MDxx]]",
+   "clean": "Aminoindane / MDxx"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::40]] [[Oral dose units::mg]]",
+   "clean": "40 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::100]] mg",
+   "clean": "40 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::175]] mg",
+   "clean": "100 - 175 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::175]] - [[Oral max strong dose::300]] mg",
+   "clean": "175 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min duration time::4]] - [[Oral max duration time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "2 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "5,6-Methylenedioxy-2-aminoindane (also known as MDAI) is a lesser-known novel entactogen substance of the aminoindane class. It acts as a putatively non-neurotoxic and highly selective serotonin releasing agent (SSRA) with neglible effects on dopamine and norepinephrine. \n\nMDAI was developed by the American medicinal chemist and pharmacologist David E. Nichols during the 1990s at Purdue University. in the 2010s, MDAI was marketed alongside novel entactogens like 5-MAPB, 5-APB, and 6-APB as a legal, grey-market alternative to MDMA in the online research chemical market. It is currently being investigated as a potential alternative to traditional entactogens in the treatment of mental health conditions like anxiety and depression.\n\nSubjective effects include sedation, muscle relaxation, tactile enhancement, anxiety suppression, enhanced empathy and sociability and euphoria. It has been described as producing the non-stimulating effects of prototypical entactogens like MDMA and MDA. It has been suggested that the lack of dopamine and norepinephrine activity limits its ability to produce overtly invigorating, prosocial or euphoric effects but with the benefit of decreased neurotoxicity and side-effects. However, more research is required to validate these claims.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MDAI, and it has a limited history of human use. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nMDAI, or 5,6-methylenedioxy-2-aminoindane, is a synthetic molecule of the aminoindane class with structural similarity to amphetamines. \nIt features the R3 terminal carbon of the propane chain of amphetamine bound to the benzene ring. This creates an indane group, a bicyclic moeity containing a benzene ring fused to a pentane ring. \nMDAI contains an amino group NH2 bound to R2 of the indane ring. MDAI also contains two oxygen substitutions at R5 and R6 joined by a methylene bridge to form a methylenedioxy group. \n\nMDAI is structurally related to 2-AI, differing by a methylenedioxy ring.\n\nPharmacology\n\nMDAI has been shown to inhibit the reuptake of serotonin and has a selective affinity for the serotonin receptor. Studies have shown that the brains of animals treated with MDAI have greater extracellular concentrations of monoamine neural transmitters, most significantly serotonin.\n\nFor comparison, MDAI is similar in potency with releasing serotonin to MDA, but significantly less potent than MDMA. This is done by inhibiting the reuptake and reabsorption of the neurotransmitters after they have performed their function of transmitting a neural impulse, essentially allowing them to accumulate, be reused and cause entactogenic effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: MDAI\n\nToxicity and harm potential\n\nMDAI and other similar drugs have been widely used in scientific research as they are able to replicate many of the effects of MDMA, but without causing the associated neurotoxicity. \nNo tests have been performed on cardiovascular toxicity.\n\nThere is currently no scientific data on the lethal dose of MDAI in humans and the exact toxic dosage is unknown. Due to its action as a serotonin reuptake inhibitor, overdoses of this substance would likely result in serotonin syndrome.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAlthough no formal studies have been conducted, MDAI can be considered somewhat habit-forming with a low potential for abuse and is unlikely to be capable of causing psychological dependence among most users. \nThis is because unlike traditional stimulants, MDAI does not increase concentrations of dopamine. If addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MDAI develops with prolonged and repeated use. \nThis results in users having to administer increasingly large doses to achieve the same effects. \nAfter that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). \n\nMDAI presents cross-tolerance with all entactogens, meaning that after the consumption of MDAI all serotonergic stimulants will have a reduced effect.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*Cocaine - This combination may increase strain on the heart to a dangerous degree.\n\nSerotonin syndrome risk\n\nLegal status\n\n*Austria: MDAI is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Brazil: MDAI is illegal to possess, produce and sell under Portaria SVS/MS nº 344.\n*China: As of October 2015, MDAI is a controlled substance in China.\n*Denmark: MDAI is illegal in Denmark as of September 2015.\n*Germany: MDAI is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Japan: MDAI is a controlled substance in Japan effective March 30th, 2013.\n*Switzerland: MDAI is a controlled substance specifically named under Verzeichnis E. It is a controlled substance since December 2011.\n*Turkey: MDAI is a classed as drug and is illegal to possess, produce, supply, or import. \n*United Kingdom: MDAI is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Entactogen\n*MDMA\n*6-APB\n*2-AI\n\nExternal links\n\n*MDAI (Wikipedia)\n*MDAI (Erowid Vault)\n*MDAI (Isomer Design)\n\nDiscussion\n\n*The Big & Dandy MDAI Thread (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Research chemical\nCategory:Entactogen\nCategory:Aminoindane",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/MDAI}}\n\n'''5,6-Methylenedioxy-2-aminoindane''' (also known as '''MDAI''') is a lesser-known novel [[psychoactive class::entactogen]] substance of the [[Chemical class::aminoindane]] class. It acts as a putatively non-neurotoxic and highly selective [[serotonin]] [[releasing agent]] (SSRA) with neglible effects on [[dopamine]] and [[norepinephrine]]. \n\nMDAI was developed by the American medicinal chemist and pharmacologist [[David E. Nichols]] during the 1990s at Purdue University.{{citation needed}} in the 2010s, MDAI was marketed alongside novel [[entactogens]] like [[5-MAPB]], [[5-APB]], and [[6-APB]] as a legal, grey-market alternative to [[MDMA]] in the online [[research chemical]] market. It is currently being investigated as a potential alternative to traditional entactogens in the treatment of mental health conditions like anxiety and depression.{{citation needed}}\n\n[[Subjective effects]] include [[sedation]], [[muscle relaxation]], [[tactile enhancement]], [[anxiety suppression]], [[Empathy, affection, and sociability enhancement|enhanced empathy and sociability]] and [[euphoria]]. It has been described as producing the non-stimulating effects of prototypical entactogens like [[MDMA]] and [[MDA]]. It has been suggested that the lack of dopamine and norepinephrine activity limits its ability to produce overtly invigorating, prosocial or [[euphoria|euphoric]] effects but with the benefit of decreased neurotoxicity and side-effects. However, more research is required to validate these claims.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MDAI, and it has a limited history of human use. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nMDAI, or 5,6-methylenedioxy-2-aminoindane, is a synthetic molecule of the [[aminoindane]] class with structural similarity to [[amphetamines]]. \nIt features the R<sub>3</sub> terminal carbon of the propane chain of amphetamine bound to the benzene ring. This creates an indane group, a bicyclic moeity containing a benzene ring fused to a pentane ring. \nMDAI contains an amino group NH<sub>2</sub> bound to R<sub>2</sub> of the indane ring. MDAI also contains two oxygen substitutions at R<sub>5</sub> and R<sub>6</sub> joined by a methylene bridge to form a methylenedioxy group. \n\nMDAI is structurally related to [[2-AI]], differing by a methylenedioxy ring.\n\n==Pharmacology==\n{{pharmacology}}\nMDAI has been shown to [[Reuptake inhibitor|inhibit the reuptake]] of [[serotonin]] and has a selective affinity for the serotonin [[receptor]]. Studies have shown that the brains of animals treated with MDAI have greater extracellular concentrations of [[Neurotransmitter|monoamine neural transmitters]], most significantly [[serotonin]].{{citation needed}}\n\nFor comparison, MDAI is similar in potency with releasing serotonin to [[MDA]], but significantly less potent than [[MDMA]].<ref>{{cite journal | vauthors=((Johnson, M. P.)), ((Conarty, P. F.)), ((Nichols, D. E.)) | journal=European Journal of Pharmacology | title=[3H]monoamine releasing and uptake inhibition properties of 3,4-methylenedioxymethamphetamine and p-chloroamphetamine analogues | volume=200 | issue=1 | pages=9–16 | date=23 July 1991 | issn=0014-2999 | doi=10.1016/0014-2999(91)90659-e}}</ref> This is done by inhibiting the reuptake and reabsorption of the neurotransmitters after they have performed their function of transmitting a neural impulse, essentially allowing them to accumulate, be reused and cause [[entactogen]]ic effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - The largest reported difference between MDAI and [[MDMA]] is that MDAI primarily results in moderate sedation and can therefore discourage physical activities such as running, dancing or climbing. \n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of MDAI can be described as a moderate to extreme euphoric, soft and warm tingling sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n**'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile enhancement]]''' \n*'''[[Effect::Vibrating vision]]''' - At high doses, a person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing the vision to become blurry and temporarily out of focus. This is a condition known as [http://en.wikipedia.org/wiki/Nystagmus nystagmus].\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Temperature regulation suppression]]'''\n*'''[[Effect::Dehydration]]''' - Feelings of dry mouth and dehydration are a universal experience with MDAI. This effect is a product of an increased heart rate and an extreme motivation to engage in strenuous physical activities. While it is important to avoid becoming dehydrated (especially when out dancing in a hot environment) there have been a number of users suffering from [[water intoxication]] through over-drinking, so it is advised that users simply sip at water and never over-drink.\n*'''[[Effect::Difficulty urinating]] '''- Much like MDMA, higher doses of MDAI result in difficulty urinating. This is an effect that is completely temporary and harmless. It is most likely due to the promotion of the release of [https://en.wikipedia.org/wiki/Vasopressin anti-diuretic hormone] (ADH), which is the mechanism responsible for this side effect within MDMA. Anti-diuretic hormone is responsible for regulating urination. Difficulty urinating can be lessened by simply relaxing, but can be significantly relieved by placing a hot flannel over the genitals to warm them up and encourage blood flow. Some have reported that simply listening to the sound of running water also helps (such as a tap/faucet).\n*'''[[Effect::Temporary erectile dysfunction]]'''\n\n}}\n{{effects/visual|\nThe visual effects of MDAI only occur at higher doses and are reported to be only subtly psychedelic in nature. These generally include:\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Tracers]]'''\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of MDAI can be broken down into several components which progressively intensify proportional to dosage. The general head space of MDAI is described by many as one of euphoria and feelings of love or empathy. It contains a number of typical [[Entactogens|entactogenic]] cognitive effects. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Strong emotional euphoria and feelings of happiness are present within MDAI and are a direct result of [[serotonin]] release.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This particular effect is not as pronounced, powerful and therapeutic as that of [[MDMA]] or [[2C-B]]. It is the most obvious and noticeable effect within any MDAI experience and dominates the head space.\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Time distortion]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory enhancement|Distortions]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_MDAI.shtml Erowid Experience Vaults: MDAI]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{Further|Research chemicals#Toxicity and harm potential}}\n\nMDAI and other similar drugs have been widely used in scientific research as they are able to replicate many of the effects of [[MDMA]], but without causing the associated [[neurotoxicity]]. \nNo tests have been performed on cardiovascular toxicity.<ref>{{cite journal | vauthors=((Nichols, D. E.)), ((Brewster, W. K.)), ((Johnson, M. P.)), ((Oberlender, R.)), ((Riggs, R. M.)) | journal=Journal of Medicinal Chemistry | title=Nonneurotoxic tetralin and indan analogues of 3,4-(methylenedioxy)amphetamine (MDA) | volume=33 | issue=2 | pages=703–710 | date= February 1990 | issn=0022-2623 | doi=10.1021/jm00164a037}}</ref><ref>{{cite journal | vauthors=((Nichols, D. E.)), ((Johnson, M. P.)), ((Oberlender, R.)) | journal=Pharmacology, Biochemistry, and Behavior | title=5-Iodo-2-aminoindan, a nonneurotoxic analogue of p-iodoamphetamine | volume=38 | issue=1 | pages=135–139 | date= January 1991 | issn=0091-3057 | doi=10.1016/0091-3057(91)90601-w}}</ref><ref>{{cite journal | vauthors=((MP, J.)), ((SP, F.)), ((R, O.)), ((DE, N.)) | journal=Journal of Medicinal Chemistry | title=Synthesis and pharmacological examination of 1-(3-methoxy-4-methylphenyl)-2-aminopropane and 5-methoxy-6-methyl-2-aminoindan: similarities to 3,4-(methylenedioxy)methamphetamine (MDMA). | volume=34 | issue=5 | pages=1662–1668 | date=1 May 1991 | doi=10.1021/JM00109A020}}</ref><ref>{{cite journal | vauthors=((Johnson, M. P.)), ((Huang, X. M.)), ((Nichols, D. E.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Serotonin neurotoxicity in rats after combined treatment with a dopaminergic agent followed by a nonneurotoxic 3,4-methylenedioxymethamphetamine (MDMA) analogue | volume=40 | issue=4 | pages=915–922 | date= December 1991 | issn=0091-3057 | doi=10.1016/0091-3057(91)90106-c}}</ref><ref>{{cite journal | vauthors=((Nichols, D. E.)), ((Marona-Lewicka, D.)), ((Huang, X.)), ((Johnson, M. P.)) | journal=Drug Design and Discovery | title=Novel serotonergic agents | volume=9 | issue=3–4 | pages=299–312 | date= 1993 | issn=1055-9612}}</ref><ref>{{cite journal | vauthors=((Sprague, J. E.)), ((Johnson, M. P.)), ((Schmidt, C. J.)), ((Nichols, D. E.)) | journal=Biochemical Pharmacology | title=Studies on the mechanism of p-chloroamphetamine neurotoxicity | volume=52 | issue=8 | pages=1271–1277 | date=25 October 1996 | issn=0006-2952 | doi=10.1016/0006-2952(96)00482-0}}</ref><ref>{{cite journal | vauthors=((Cozzi, N. V.)), ((Frescas, S.)), ((Marona-Lewicka, D.)), ((Huang, X.)), ((Nichols, D. E.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Indan analogs of fenfluramine and norfenfluramine have reduced neurotoxic potential | volume=59 | issue=3 | pages=709–715 | date= March 1998 | issn=0091-3057 | doi=10.1016/s0091-3057(97)00557-1}}</ref>\n\nThere is currently no scientific data on the lethal dose of MDAI in humans and the [[Toxicity::exact toxic dosage is unknown]]. Due to its action as a [[serotonin]] [[reuptake inhibitor]], overdoses of this substance would likely result in [[serotonin syndrome]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAlthough no formal studies have been conducted, MDAI can be considered [[Addiction potential::somewhat habit-forming with a low potential for abuse]] and is unlikely to be capable of causing psychological dependence among most users. \nThis is because unlike traditional stimulants, MDAI does not increase concentrations of [[dopamine]]. If addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MDAI [[Time to full tolerance::develops with prolonged and repeated use]]. \nThis results in users having to administer increasingly large doses to achieve the same effects. \nAfter that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). \n\nMDAI presents cross-tolerance with [[Cross-tolerance::all [[entactogens]]]], meaning that after the consumption of MDAI all serotonergic [[stimulant]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*'''[[Cocaine]]''' - This combination may increase strain on the heart to a dangerous degree.\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n\n*'''Austria''': MDAI is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Brazil''': MDAI is illegal to possess, produce and sell under Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''China''': As of October 2015, MDAI is a controlled substance in China.<ref>关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Denmark''': MDAI is illegal in Denmark as of September 2015.<ref>\"Lists of euphoriant substances subject to control in Denmark\". The Danish Medicines Agency. September 2015. | http://laegemiddelstyrelsen.dk/en/licensing/company-authorisations-and-registrations/euphoriant-substances/lists</ref>\n*'''Germany''': MDAI is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 15, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 15, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 15, 2019|language=de}}</ref>\n*'''Japan''': MDAI is a controlled substance in Japan effective March 30th, 2013.<ref>[https://www.mhlw.go.jp/stf/houdou/2r985200000312nw-att/2r985200000312pd.pdf \"新たに指定された指定薬物の名称\"] (PDF, in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved on May 2, 2022.</ref>\n*'''Switzerland''': MDAI is a controlled substance specifically named under Verzeichnis E. It is a controlled substance since December 2011.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' MDAI is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''United Kingdom''': MDAI is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Entactogen]]\n*[[MDMA]]\n*[[6-APB]]\n*[[2-AI]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/MDAI MDAI (Wikipedia)]\n*[https://www.erowid.org/chemicals/mdai/mdai.shtml MDAI (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2149 MDAI (Isomer Design)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/434331-The-Big-amp-Dandy-MDAI-Thread The Big & Dandy MDAI Thread (Bluelight)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Research chemical]]\n[[Category:Entactogen]]\n[[Category:Aminoindane]]\n{{#set:Featured=true}}"
+}

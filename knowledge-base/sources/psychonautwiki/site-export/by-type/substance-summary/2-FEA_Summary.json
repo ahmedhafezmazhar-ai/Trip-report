@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:16628",
+ "type": "substance-summary",
+ "title": "2-FEA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-FEA/Summary",
+  "pageid": 16628,
+  "last_edited": "2018-06-06T17:30:16Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2-FEA",
+ "plain_text": "",
+ "wikitext": "{{Summary|2-FEA}}"
+}

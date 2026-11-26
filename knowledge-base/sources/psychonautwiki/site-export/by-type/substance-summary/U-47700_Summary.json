@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11742",
+ "type": "substance-summary",
+ "title": "U-47700/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/U-47700/Summary",
+  "pageid": 11742,
+  "last_edited": "2016-04-26T21:46:46Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "U-47700",
+ "plain_text": "",
+ "wikitext": "{{Summary|U-47700}}"
+}

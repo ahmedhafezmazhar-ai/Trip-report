@@ -1,0 +1,367 @@
+{
+ "id": "psychonautwiki:20804",
+ "type": "substance",
+ "title": "Alternative use of alcohols",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Alternative_use_of_alcohols",
+  "pageid": 20804,
+  "last_edited": "2025-06-25T15:30:27Z"
+ },
+ "categories": [
+  "Alcohol",
+  "CS1 English-language sources (en)",
+  "CS1 maint: Explicit use of et al.",
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/Alcohol",
+ "substance_box": {
+  "names": {
+   "common": "Alcohol, Booze, Liquor, Moonshine, Sauce, Juice, Bevvy",
+   "substitutive": "Ethyl alcohol, EtOH",
+   "systematic": "Ethanol"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Alcohol"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "1.5 - 5 hours",
+    "onset": "2 - 5 minutes",
+    "comeup": "15 - 45 minutes",
+    "peak": "30 - 90 minutes",
+    "offset": "45 - 120 minutes",
+    "aftereffects": "6 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Alcohol",
+    "Booze",
+    "Liquor",
+    "Moonshine",
+    "Sauce",
+    "Juice",
+    "Bevvy"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "g"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "1.5"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "2"
+   ],
+   "Oral max onset time": [
+    "5"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "45"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "30"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "45"
+   ],
+   "Oral max offset time": [
+    "120"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Ethanol",
+   "clean": "Molecular structure of Ethanol"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ethanol.svg",
+   "clean": "File:Ethanol.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Alcohol]], [[common name::Booze]], [[common name::Liquor]], [[common name::Moonshine]][https://en.wikipedia.org/wiki/Moonshine], [[common name::Sauce]], [[common name::Juice]], [[common name::Bevvy]]",
+   "clean": "Alcohol, Booze, Liquor, Moonshine, Sauce, Juice, Bevvy"
+  },
+  "NameSubstitution": {
+   "raw": "Ethyl alcohol, EtOH",
+   "clean": "Ethyl alcohol, EtOH"
+  },
+  "NameSystematic": {
+   "raw": "Ethanol",
+   "clean": "Ethanol"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Alcohol]]",
+   "clean": "Alcohol"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "{{abbr|[[#Standard drink|[[Oral threshold dose::10]] [[Oral dose units::g]]]]|1 standard drink (WHO AUDIT)}}",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "{{abbr|[[#Standard drink|[[Oral min light dose::10]] - [[Oral max light dose::20]] g]]|1-2 standard drinks (WHO AUDIT)}}",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "{{abbr|[[#Standard drink|[[Oral min common dose::20]] - [[Oral max common dose::30]] g]]|2-3 standard drinks (WHO AUDIT)}}",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "{{abbr|[[#Standard drink|[[Oral min strong dose::30]] - [[Oral max strong dose::40]] g]]|3-4 standard drinks (WHO AUDIT)}}",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "{{abbr|[[#Standard drink|[[Oral heavy dose::40]]+ g]]|4+ standard drinks (WHO AUDIT)}}",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1.5]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "1.5 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::2]] - [[Oral max onset time::5]] [[Oral onset time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::45]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::30]] - [[Oral max peak time::90]] [[Oral peak time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::45]] - [[Oral max offset time::120]] [[Oral offset time units::minutes]]",
+   "clean": "45 - 120 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 48 hours"
+  }
+ },
+ "plain_text": "Substituted alcohols\n\nSubstituted alcohols, which include some depressants and euphoriants, are derivatives of ethanol. Most alcohols are significantly more potent than ethanol (e.g. 2M2B requires 20 times lower dose), which provides minimal energy intake.\n\nTertiary alcohols\n\nSome tertiary alcohols with historical medical use have been used as ethyl alcohol substitutes, as they are not metabolized into toxic aldehydes like acetaldehyde.\n* 2M2B - Found in trace quantities in alcoholic beverages, especially cassava fermented. 20 times more potent than ethanol. 2M2B have, despite being 20 x more potent than EtOH, a therapeutic index of 2.8 that of ethanol (potency compared to EtOH/(EtOH LD50/t-AmOH LD50 ratio) = 20/(7060/1000) = 2.8) oral in rat.\n* Ethchlorvynol - During their heyday, they were known on the street as \"jelly-bellies\" or \"pickles\".\n* Methylpentynol\n* UMB68 - similar in structure to GHB.\n\nLegality\n\nAlcohols other than ethanol are not taxed by the federal government via excise taxes.\n\nPolysubstance use\n\nCannabis\n\nA tincture is typically an alcoholic extract of plant or animal material or solution. Example, cannabis tincture.\n\nTo qualify as an alcoholic tincture, the extract should have an ethanol percentage of at least 40-60% or 80-120 proof. Sometimes even a 90% or 180 proof tincture is achieved.\n\nStimulants\n\nIt is not recommended to combine stimulants and depressants. Stimulants in combination with alcohol have been proven to be particularly risky to use. This section is only added to list notable known alcohol-stimulant combinations, since they have dedicated Wikipedia articles.\n\nCaffeinated alcohol\n\nSee also: List of caffeinated alcoholic drinks (Wikipedia)\n\nCaffeinated alcoholic drinks combine alcohol, caffeine, and the ingredients of energy drinks into one drink. In 2010 and 2011, this type of beverage faced criticism for posing health risks to their drinkers. Alcohol and caffeine are both psychoactive drugs, drugs that are mixed are referred to as poly drug use. As a response, the US Food and Drug Administration introduced a caffeinated alcohol drinks ban.\n\nCoca wine\n\nCoca wine is an alcoholic beverage combining wine with cocaine. One popular brand was Vin Mariani, developed in 1863 by French-Corsican chemist and entrepreneur Angelo Mariani.\n\nCocaine and ethanol forms cocaethylene which is more toxic than cocaine or ethanol when used separately.\n\nNicotini\n\nA nicotini is any alcoholic drink which includes nicotine as an ingredient. Its name is modeled after the word \"martini\" in the fashion of such drinks as the appletini. In places which ban smoking, use of the nicotini provides those addicted to nicotine with the opportunity to manage cravings without stepping outside to smoke.\n\nAlternative fermentation\n\nAmylase induced fermentation\n\nFor more information, see: \n\nSaliva can be used as a source of the enzyme amylase to break down complex sugars into simple sugars. These simple sugars can then undergo fermentation by microorganisms. Amylase-induced fermented drinks are often made from cassava.\n\nEdible mushroom fermentation\n\n* Wine can be made by using mushroom fruit bodies instead of microorganisms like Saccharomyces cerevisiae. Pleurotus ostreatus have been demonstrated to produce 12.2% ABV, and Agaricus blazei 8% ABV. It seems to be a functional food which can be expected to have preventive effects against cancer and thrombosis.\n\nAlcohol state of matter\n\n* Solid: Alcohol powder made by molecular encapsulated alcohol, usually with cyclodextrin. When reconstituted with water, alcohol (specifically ethanol) in powder form becomes an alcoholic drink. Marketed products includes Palcohol (US), Booz2go (Netherlands), Subyou (Germany).\n** 2M2B (an alcohol ~20 times more potent than ethanol) has been used in capsules.\n* Liquid: This is the normal state of matter for most alcohols. A unique exception being tert-Butyl alcohol which tends to be a solid at room temperature, with a melting point slightly above 25&nbsp;°C.\n* Gas: Alcohol mist can be formed with a nebulizer for inhalation.\n\nRoutes of administration\n\nInhalation\n\nAlcohol inhalation or \"alcohol smoking\" uses various techniques to vaporize or nebulize liquid alcohol into a gaseous state (vapor) or aerosol (mist) for inhalation. Also, alcohol powder that is molecularly encapsulated with cyclodextrin can be used with a nebulizer for easier inhalation into the lungs than the ordinarily harsh vapors.\n\nAlcohol inhalation originally emerged in 2004 with the invention of a machine called the AWOL (Alcohol without Liquid), allowing individuals to evaporate alcohol. The techniques involve using pumps or dry ice.\n\nInjection\n\nIntravenously\n\nIntravenous ethanol is short-acting and not described as being \"fun\", but can be extremely dangerous and even deadly, if taken in large amounts. One of the tertiary alcohols, ethchlorvynol, is not compatible with intravenous injection and serious injury or death can occur when it is used in this manner\n\nMedically\n\nEthylene glycol or methanol poisoning are treated with fomepizole, or ethanol (that will compete with them) when fomepizole is not available.\n\nPharmaceutical grade ethanol (rectified spirit) diluted 5–10% in 5% dextrose is usually given intravenously as an ethylene glycol or methanol poisoning treatment. 600-800 mg/kg ethanol from a 5–10% alcohol by volume solution is given as a loading dose over 30 minutes, followed by a maintenance doses that are increased for people with ethanol tolerance, and further increased for people who are receiving dialysis.\n\nHowever, sometimes ethanol is given orally in the form of distilled beverages such as whiskey, vodka, or gin for ethylene glycol or methanol poisoning treatment when no pharmaceutical ethanol solutions are available. In one case, doctors saved a poisoned tourist using a vodka drip.\n\nOcular\n\nVodka eyeballing is the practice of consuming vodkas by pouring it into the eye sockets, where it is absorbed through the mucous membranes of the region into the bloodstream. It is a fad that started in 2010. Alcohol is only delivered in minute quantities via ocular administration, so it doesn't cause any psychoactive effect, but it can cause eye injuries.\n\nRectal\n\nAn alcohol enema, colloquially known as butt-chugging, is the act of introducing alcohol into the rectum and colon via the anus. This method of alcohol consumption is dangerous because it leads to faster intoxication, since the alcohol is absorbed directly into the bloodstream and neutralizes the body's ability to reject the toxin by vomiting.\n\nBeer bong\n\nOccasionally a beer bong pipe is inserted rectally to administer an alcohol enema.\n\nVaginal\n\nTeens have been known to use vodka-soaked tampons to get drunk.\n\nSee also\n\n* Comparison of psychoactive alcohols in alcoholic drinks\n\nReferences\n\nCategory:Alcohol\nCategory:Preparation",
+ "wikitext": "{{headerpanel|{{DepressantOD|alcohol}}}}\n{{headerpanel|{{Template:Warning/Alcohol}}}}\n{{SubstanceBox/Alcohol}}\n\n==Substituted alcohols==\nSubstituted [[alcohols]], which include some depressants and euphoriants, are derivatives of ethanol. Most alcohols are significantly more potent than ethanol (e.g. 2M2B requires 20 times lower dose), which provides minimal energy intake.\n\n===Tertiary alcohols===\nSome tertiary alcohols with historical medical use have been used as ethyl alcohol substitutes, as they are not metabolized into toxic aldehydes like acetaldehyde.\n* [[2M2B]] - Found in trace quantities in alcoholic beverages, especially cassava fermented. 20 times more potent than ethanol. 2M2B have, despite being 20 x more potent than EtOH, a [[therapeutic index]] of 2.8 that of ethanol (potency compared to EtOH/(EtOH LD50/''t''-AmOH LD50<ref name=oralrat>https://pubmed.ncbi.nlm.nih.gov/13028241/</ref> ratio) = 20/(7060/1000) = 2.8) oral in rat.\n* [[Ethchlorvynol]] - During their heyday, they were known on the street as \"jelly-bellies\" or \"pickles\".\n* [[Methylpentynol]]\n* [[UMB68]] - similar in structure to [[gamma-Hydroxybutyric acid|GHB]].\n\n===Legality===\nAlcohols other than ethanol are not taxed by the federal government via excise taxes.\n\n==Polysubstance use==\n\n===Cannabis===\nA tincture is typically an alcoholic extract of plant or animal material or solution. Example, [[green dragon tek|cannabis tincture]].\n\nTo qualify as an alcoholic tincture, the extract should have an [[ethanol]] percentage of at least 40-60% or 80-120 proof. Sometimes even a 90% or 180 proof tincture is achieved.<ref name=\"ReferenceA\">Groot Handboek Geneeskrachtige Planten by Geert Verhelst</ref>\n\n===Stimulants===\nIt is not recommended to combine stimulants and depressants. Stimulants in combination with alcohol have been proven to be particularly risky to use. This section is only added to list notable known alcohol-stimulant combinations, since they have dedicated Wikipedia articles.\n\n====Caffeinated alcohol====\nSee also: [https://en.wikipedia.org/wiki/List_of_caffeinated_alcoholic_drinks List of caffeinated alcoholic drinks (Wikipedia)]\n\n[https://en.wikipedia.org/wiki/Caffeinated_alcoholic_drink Caffeinated alcoholic drinks] combine [[alcohol]], [[caffeine]], and the ingredients of energy drinks into one drink. In 2010 and 2011, this type of beverage faced criticism for posing health risks to their drinkers. Alcohol and caffeine are both psychoactive drugs, drugs that are mixed are referred to as [[poly drug use]]. As a response, the US Food and Drug Administration introduced a caffeinated alcohol drinks ban.\n\n====Coca wine====\n[https://en.wikipedia.org/wiki/Coca_wine Coca wine] is an alcoholic beverage combining wine with cocaine. One popular brand was ''Vin Mariani'', developed in 1863 by French-Corsican chemist and entrepreneur Angelo Mariani.<ref name=cocaineorg>{{cite web| url = http://www.cocaine.org/cocawine.htm | title = Coca Wine | publisher = cocaine.org | accessdate = 2007-02-12}}</ref>\n\nCocaine and ethanol forms [[cocaethylene]] which is more toxic than cocaine or ethanol when used separately.\n\n====Nicotini====\nA [https://en.wikipedia.org/wiki/Nicotini nicotini] is any alcoholic drink which includes nicotine as an ingredient. Its name is modeled after the word \"martini\" in the fashion of such drinks as the appletini. In places which ban smoking, use of the nicotini provides those addicted to [[nicotine]] with the opportunity to manage cravings without stepping outside to smoke.\n\n==Alternative fermentation==\n\n===Amylase induced fermentation===\nFor more information, see: [https://en.wikipedia.org/wiki/List_of_amylase-induced_fermentations]\n\nSaliva can be used as a source of the enzyme amylase to break down complex sugars into simple sugars. These simple sugars can then undergo fermentation by microorganisms. Amylase-induced fermented drinks are often made from cassava.\n\n===Edible mushroom fermentation===\n* Wine can be made by using mushroom fruit bodies instead of microorganisms like ''Saccharomyces cerevisiae''. ''Pleurotus ostreatus'' have been demonstrated to produce 12.2% ABV, and ''Agaricus blazei'' 8% ABV. It seems to be a functional food which can be expected to have preventive effects against cancer and thrombosis.<ref>https://www.ncbi.nlm.nih.gov/pubmed/11515544</ref>\n\n==Alcohol state of matter==\n* Solid: Alcohol powder made by molecular encapsulated alcohol, usually with cyclodextrin. When reconstituted with water, alcohol (specifically ethanol) in powder form becomes an alcoholic drink. Marketed products includes Palcohol (US), Booz2go (Netherlands), Subyou (Germany).\n** [[2M2B]] (an alcohol ~20 times more potent than ethanol) has been used in capsules.<ref>https://www.sciencedirect.com/science/article/pii/S2773021222000402</ref>\n* Liquid: This is the normal state of matter for most alcohols. A unique exception being [[tert-Butyl alcohol]] which tends to be a solid at room temperature, with a melting point slightly above 25&nbsp;°C.\n* Gas: Alcohol mist can be formed with a [[#Inhalation|nebulizer]] for inhalation.\n\n==Routes of administration==\n\n===Inhalation===\n[https://en.wikipedia.org/wiki/Alcohol_inhalation Alcohol inhalation] or \"alcohol smoking\" uses various techniques to vaporize or nebulize liquid alcohol into a gaseous state (vapor) or aerosol (mist) for inhalation. Also, [[alcohol powder]] that is molecularly encapsulated with cyclodextrin can be used with a nebulizer<ref>https://pubmed.ncbi.nlm.nih.gov/17089700/</ref> for easier inhalation into the lungs than the ordinarily harsh vapors.\n\nAlcohol inhalation originally emerged in 2004 with the invention of a machine called the AWOL (Alcohol without Liquid), allowing individuals to evaporate alcohol. The techniques involve using pumps or dry ice.<ref>http://www.usatoday.com/videos/news/nation/2013/07/03/2485955/ Smoking Alcohol Could Lead To Overdosing</ref>\n\n===Injection===\n\n====Intravenously====\nIntravenous ethanol is short-acting and not described as being \"fun\", but can be extremely dangerous and even deadly, if taken in large amounts. One of the tertiary alcohols, [[ethchlorvynol]], is not compatible with intravenous injection and serious injury or death can occur when it is used in this manner<ref>https://pubmed.ncbi.nlm.nih.gov/942681/</ref>\n\n=====Medically=====\nEthylene glycol or methanol poisoning are treated with fomepizole, or ethanol (that will compete with them) when fomepizole is not available.\n\nPharmaceutical grade ethanol (rectified spirit) diluted 5–10% in 5% dextrose is usually given intravenously as an ethylene glycol or methanol poisoning treatment.<ref name=\"Drugs2001-Brent\">{{cite journal | author = Brent J | title = Current management of ethylene glycol poisoning | journal = Drugs | volume = 61 | issue = 7 | pages = 979–88 | year = 2001 | pmid = 11434452 | doi = 10.2165/00003495-200161070-00006 | issn = 0012-6667}}</ref><ref>{{cite journal |url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1306022/ |title=Standardized Treatment of Severe Methanol Poisoning With Ethanol and Hemodialysis |author=Brent R. Ekins, et al. |journal=West J Med. |date=Mar 1985 |volume=142 |issue=3 |pages=337–40 |pmc=1306022}}</ref> 600-800 mg/kg ethanol from a 5–10% alcohol by volume solution is given as a loading dose over 30 minutes, followed by a maintenance doses that are increased for people with ethanol tolerance, and further increased for people who are receiving dialysis.<ref>https://www.medicines.org.uk/emc/product/3609/smpc</ref>\n\nHowever, sometimes ethanol is given orally in the form of distilled beverages such as whiskey, vodka, or gin for ethylene glycol or methanol poisoning treatment when no pharmaceutical ethanol solutions are available.<ref name=\"Drugs2001-Brent\"/> In one case, doctors saved a poisoned tourist using a vodka drip.<ref>{{cite web|url=http://www.nbcnews.com/id/21219366/ns/world_news-weird_news/t/doctors-save-poisoned-tourist-using-vodka-drip/#.UQ79VBipMUM |title=Poisoned tourist saved with vodka drip |publisher=NBC News |date=2007-10-10 |accessdate=2013-02-05}}</ref>\n\n===Ocular===\n[https://en.wikipedia.org/wiki/Vodka_eyeballing Vodka eyeballing] is the practice of consuming vodkas by pouring it into the eye sockets, where it is absorbed through the mucous membranes of the region into the bloodstream. It is a fad that started in 2010. Alcohol is only delivered in minute quantities via ocular administration, so it doesn't cause any psychoactive effect, but it can cause eye injuries.\n\n===Rectal===\nAn [https://en.wikipedia.org/wiki/Alcohol_enema alcohol enema], colloquially known as ''butt-chugging'', is the act of introducing alcohol into the rectum and colon via the anus. This method of alcohol consumption is dangerous because it leads to faster intoxication, since the alcohol is absorbed directly into the bloodstream and neutralizes the body's ability to reject the toxin by vomiting.\n\n====Beer bong====\nOccasionally a [https://en.wikipedia.org/wiki/Beer_bong beer bong] pipe is inserted rectally<ref>{{cite news |title=5 Shocking Ways Your Kids Try to Get Drunk |last1=Lovett |first1=Edward |last2=McNiff |first2=Eamon |url=https://abcnews.go.com/Health/shocking-ways-kids-drunk/story?id=17281602 |newspaper=ABC News |date=2012-09-21 |access-date=2019-12-23 }}</ref> to administer an alcohol enema.\n\n===Vaginal===\nTeens have been known to use vodka-soaked tampons to get drunk.<ref>http://www.kpho.com/story/15981315/teens-using-vodka-tampons-to-get-drunk</ref>\n\n==See also==\n* [[Comparison of psychoactive alcohols in alcoholic drinks]]\n\n==References==\n{{reflist}}\n\n[[Category:Alcohol]]\n[[Category:Preparation]]"
+}

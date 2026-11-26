@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19556",
+ "type": "substance-summary",
+ "title": "Flunitrazepam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Flunitrazepam/Summary",
+  "pageid": 19556,
+  "last_edited": "2021-09-28T19:30:55Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Flunitrazepam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Flunitrazepam}}"
+}

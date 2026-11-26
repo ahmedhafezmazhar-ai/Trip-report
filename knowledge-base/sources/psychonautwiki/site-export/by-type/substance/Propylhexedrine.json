@@ -1,0 +1,1082 @@
+{
+ "id": "psychonautwiki:12961",
+ "type": "substance",
+ "title": "Propylhexedrine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Propylhexedrine",
+  "pageid": 12961,
+  "last_edited": "2023-10-25T21:23:45Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Cycloalkylamine",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Propylhexedrine",
+ "substance_box": {
+  "names": {
+   "common": "Propylhexedrine, Benzedrex",
+   "substitutive": "Benzedrex, Obesin",
+   "systematic": "1-cyclohexyl-N-methylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Cycloalkylamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "30 - 60 mg",
+    "common": "60 - 120 mg",
+    "strong": "120 - 180 mg",
+    "heavy": "180 mg +",
+    "duration": "4 - 10 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "15 - 90 minutes",
+    "peak": "2 - 5 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "2 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Propylhexedrine",
+    "Benzedrex"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Cycloalkylamine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "30"
+   ],
+   "Oral max light dose": [
+    "60"
+   ],
+   "Oral min common dose": [
+    "60"
+   ],
+   "Oral max common dose": [
+    "120"
+   ],
+   "Oral min strong dose": [
+    "120"
+   ],
+   "Oral max strong dose": [
+    "180"
+   ],
+   "Oral heavy dose": [
+    "180"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Propylhexedrine",
+   "clean": "Molecular structure of Propylhexedrine"
+  },
+  "SkeletalImageFile": {
+   "raw": "Image:Propylhexedrine.svg",
+   "clean": "Image:Propylhexedrine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Propylhexedrine]], [[common name::Benzedrex]]",
+   "clean": "Propylhexedrine, Benzedrex"
+  },
+  "NameSubstitution": {
+   "raw": "Benzedrex, Obesin",
+   "clean": "Benzedrex, Obesin"
+  },
+  "NameSystematic": {
+   "raw": "1-cyclohexyl-N-methylpropan-2-amine",
+   "clean": "1-cyclohexyl-N-methylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cycloalkylamine]]",
+   "clean": "Cycloalkylamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::30]] - [[Oral max light dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::60]] - [[Oral max common dose::120]] mg",
+   "clean": "60 - 120 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::120]] - [[Oral max strong dose::180]] mg",
+   "clean": "120 - 180 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::180]] mg +",
+   "clean": "180 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 12 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "Propylhexedrine (also known as Benzedrex and Obesin) is a stimulant substance of the  cycloalkylamine class. It is a structural analog of methamphetamine. Propylhexedrine is widely used medicinally as a nasal decongestant (for relief of congestion due to colds, allergies and allergic rhinitis) and sometimes used recreationally as an over-the-counter \"legal high\".\n\nBenzedrex was first manufactured by Smith, Kline and French after the Benzedrine inhaler, which contained racemic amphetamine, became unavailable following the placement of amphetamines on the US Schedule II status (i.e. highest abuse potential, yet with accepted medicinal uses). Propylhexedrine has also been used in Europe as an appetite suppressant under the trade name Obesin. In the United States, propylhexedrine is most commonly found in over-the-counter Benzedrex nasal inhalers. \n\nSubjective effects include stimulation, focus enhancement, motivation enhancement, increased libido, appetite suppression, and euphoria. Anecdotal reports describe propylhexedrine's effects as similar to amphetamine or low-dose methamphetamine. However, it is reported to produce more peripheral effects like vasoconstriction as well as less euphoria, overall resulting in a less \"clean\" high. In the United States, propylhexedrine is sometimes extracted from over-the-counter Benzedrex nasal inhalers using lemon juice. The health risks of this practice have not been studied. \n\nDue to its amphetamine-like euphoric effects, propylhexedrine is considered to have moderate abuse potential. Chronic use may result in tolerance, physical and psychological dependence.  It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nPropylhexedrine is chemically classified as a cycloalkylamine. It is structurally similar to phenethylamine and its derivates. It is particularly similar in structure to methamphetamine, with the only structural difference being the substitution of an cyclohexane ring for methamphetamine's phenyl ring. This makes propylhexedrine a structural analog of methamphetamine.\nalt=|center|369x369px|A comparison of similar amine group molecules.\nMoreover, propylhexedrine is a chiral compound (the α-carbon is chiral), and the product contained in pharmaceutical products is racemic (RS)-propylhexedrine free base. (S)-Propylhexedrine, also known as levopropylhexedrine, is believed to be the more biologically active isomer of the two, although amphetamines with a \"levo\" prefix are less active than their counterparts. (S)-Propylhexedrine can be synthesized from methamphetamine.\n\nFreebase propylhexedrine is nonpolar, volatile, oily liquid at room temperature, but it readily forms a polar salt when protonated with hydrochloric acid, citric acid, and acetic acid to form a crystalline white substance. As a volatile liquid, it evaporates over time, losing potency drastically quicker than crystalline substances; However, the salt forms are crystalline, and do not evaporate.\n\nPharmacology\n\nPropylhexedrine affects the central nervous system (CNS) by acting as a releasing agent for the monoamine neurotransmitters dopamine, norepinephrine, and serotonin (SNDRA), binding to and reversing their transporters, pumping these neurotransmitters from the cytosol to the synaptic cleft, where these neurotransmitters can bind to their respective receptors. Additionally, propylhexedrine inhibits VMAT2, leading to a further increase in the aforementioned monoamines, being that VMAT2 transports all 3 from the synaptic cleft to the cytosol.   \n\nPropylhexedrine, like phenethylamine, amphetamine, methamphetamine, and MDMA, agonizes TAAR1. TAAR1 agonism, through protein kinase A & C (PKA and PKC) signaling, causes dopamine transporter (DAT) phosphorylation. Both PKA and PKC result in non-competitive dopamine reuptake inhibition, although PKC alone results in dopamine release/DAT reversal.   \n\nThe pharmacological actions of propylhexedrine are similar to those of phenethylamines, such as amphetamines, albeit in a generally less centrally active and recreationally desirable fashion.\n\nSince propylhexedrine has a cyclohexane ring in the place of methamphetamine's phenyl ring, it lacks the level of Brain-Blood Barrier permeability that the phenyl ring provides amphetamines, and therefore has a greater proportion of effects on the peripheral nervous system relative to the central nervous system.\n\nPropylhexedrine has a half-life of 2.5 - 6.5 hours, which is variable based on urinary pH and the level of activity of certain Cytochrome P450 enzymes. Higher urinary pH elongates duration, while low urinary pH shortens duration. Higher activity of certain Cytochrome P450 enzymes also shortens duration.\n\nPropylhexedrine is metabolized by certain Cytochrome P450 enzymes into norpropylhexedrine, cyclohexylacetoxime, cis-4-hydroxypropylhexedrine and trans-4-hydroxypropylhexedrine.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Pharms - Propylhexedrine\n\nToxicity and harm potential\n\nThe toxicity of recreational propylhexedrine use has not been studied as extensively as that of amphetamine or methamphetamine but it is reasonable to assume that most if not all of the same risks apply.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of propylhexedrine can be considered highly addictive, and is capable of causing psychological and physiological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops or drastically decreases their usage.\n\nTolerance to the effects of this compound likely occurs in the same general fashion as with amphetamine rapidly develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Propylhexedrine presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of propylhexedrine all stimulants will have a reduced effect.\n\nLike with amphetamine and methamphetamine the evidence on effective treatments for dependence and abuse is limited. In light of this, fluoxetine and imipramine appear to have some limited benefits in treating abuse and addiction\n\nIn highly dependent amphetamine and methamphetamine abusers, \"when chronic heavy users abruptly discontinue methamphetamine use, many report a time-limited withdrawal syndrome that occurs within 24 hours of their last dose\". Withdrawal symptoms in chronic, high-dose users are frequent, occurring in up to 87.6% of cases, and persist for three to four weeks with a marked \"crash\" phase occurring during the first week. Methamphetamine withdrawal symptoms can include anxiety, drug craving, dysphoric mood, fatigue, increased appetite, increased movement or decreased movement, lack of motivation, sleeplessness or sleepiness, and vivid or lucid dreams. Withdrawal symptoms are associated with the degree of dependence (i.e., the extent of abuse). The mental depression associated with methamphetamine withdrawal lasts longer and is more severe than that of cocaine withdrawal.. It is likely that propylhexedrine abuse is subject to these same outcomes.\n\nPsychosis\n\nLike with the abuse of methamphetamine, propylhexedrine abuse can result in a stimulant-induced psychotic state that may present with a variety of symptoms (e.g., paranoia, hallucinations, delusions), though likely to a lesser degree. A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\n*Tricyclic antidepressants - Propylhexedrine may increase the effects of tricyclic antidepressants to dangerous levels.\n\n*Cocaine - This combination may increase strain on the heart to dangerous levels.\n\nLegal status\n\n*Canada: Propylhexedrine is not controlled under the schedules to the Controlled Drugs And Substances Act.\n*Germany: Propylhexedrine is a prescription only medicine, according to Anlage 1 AMVV (Medicine Prescribing Regulation, Schedule 1).\n*Switzerland: Propylhexedrine is not controlled under Buchstabe A, B, C and D. It is sporadically used medicinally.\n*United States: Propylhexedrine is a legal OTC drug. It is designed not to be recreationally used unless the user decides to bypass the manufacturer's intended design with which it was granted approval to market as a nasal decongestant. The simple consumption of this substance is not technically considered illegal.\n\nSee also\n\n*Responsible use\n*Stimulant\n*Amphetamine\n*Methamphetamine\n\nExternal links\n\n*Propylhexedrine (Wikipedia)\n*Propylhexedrine (Erowid Vault)\n*Propylhexedrine (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\n\nCategory:Cycloalkylamine\n__INDEX__\n__NEWSECTIONLINK__",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Propylhexedrine}}\n'''Propylhexedrine''' (also known as '''Benzedrex''' and '''Obesin''') is a [[psychoactive class::stimulant]] substance of the [[chemical class:: cycloalkylamine]] class. It is a structural analog of [[methamphetamine]]. Propylhexedrine is widely used medicinally as a nasal decongestant (for relief of congestion due to colds, allergies and allergic rhinitis) and sometimes used recreationally as an over-the-counter \"legal high\".\n\nBenzedrex was first manufactured by Smith, Kline and French after the Benzedrine inhaler, which contained racemic amphetamine, became unavailable following the placement of [[amphetamines]] on the US Schedule II status (i.e. highest abuse potential, yet with accepted medicinal uses). Propylhexedrine has also been used in Europe as an appetite suppressant under the trade name Obesin. In the United States, propylhexedrine is most commonly found in over-the-counter Benzedrex nasal inhalers. \n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement]], [[motivation enhancement]], [[increased libido]], [[appetite suppression]], and [[euphoria]]. Anecdotal reports describe propylhexedrine's effects as similar to [[amphetamine]] or low-dose [[methamphetamine]]. However, it is reported to produce more peripheral effects like [[vasoconstriction]] as well as less euphoria, overall resulting in a less \"clean\" high. In the United States, propylhexedrine is sometimes extracted from over-the-counter Benzedrex nasal inhalers using lemon juice. The health risks of this practice have not been studied. \n\nDue to its amphetamine-like euphoric effects, propylhexedrine is considered to have moderate abuse potential. Chronic use may result in tolerance, physical and psychological dependence.  It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nPropylhexedrine is chemically classified as a [[cycloalkylamine]]. It is structurally similar to [[Phenethylamine_(compound)|phenethylamine]] and [[phenethylamines|its derivates]]. It is particularly similar in structure to [[methamphetamine]], with the only structural difference being the substitution of an cyclohexane ring for methamphetamine's phenyl ring. This makes propylhexedrine a structural analog of methamphetamine.\n[[File:Comparison propylhexedrine.svg|alt=|center|369x369px|A comparison of similar amine group molecules.]]\nMoreover, propylhexedrine is a chiral compound (the α-carbon is chiral), and the product contained in pharmaceutical products is racemic (RS)-propylhexedrine free base. (S)-Propylhexedrine, also known as levopropylhexedrine, is believed to be the more biologically active isomer of the two, although [[amphetamines]] with a \"levo\" prefix are less active than their counterparts. (S)-Propylhexedrine can be synthesized from methamphetamine.{{citation needed}}\n\n[https://en.wikipedia.org/wiki/Free_base Freebase] propylhexedrine is nonpolar, volatile, oily liquid at room temperature, but it readily forms a polar salt when protonated with hydrochloric acid, citric acid, and acetic acid to form a crystalline white substance.{{citation needed}} As a volatile liquid, it evaporates over time, losing potency drastically quicker than crystalline substances; However, the salt forms are crystalline, and do not evaporate.\n\n==Pharmacology==\n{{Pharmacology}}\nPropylhexedrine affects the central nervous system (CNS) by acting as a [[releasing agent]] for the [[monoamine]] [[neurotransmitters]] [[dopamine]], [[norepinephrine]], and [[serotonin]] ([https://en.wikipedia.org/wiki/Serotonin-norepinephrine-dopamine_releasing_agent SNDRA]), binding to and reversing their transporters, pumping these neurotransmitters from the cytosol to the synaptic cleft, where these neurotransmitters can bind to their respective receptors. Additionally, propylhexedrine inhibits [https://en.m.wikipedia.org/wiki/Vesicular_monoamine_transporter_2 VMAT2], leading to a further increase in the aforementioned monoamines, being that VMAT2 transports all 3 from the synaptic cleft to the cytosol.{{citation needed}}   \n\nPropylhexedrine, like [[phenethylamine]], [[amphetamine]], [[methamphetamine]], and [[MDMA]], agonizes [https://en.wikipedia.org/wiki/TAAR1 TAAR1]. TAAR1 agonism, through protein kinase A & C (PKA and PKC) signaling, causes dopamine transporter (DAT) phosphorylation. Both PKA and PKC result in non-competitive dopamine reuptake inhibition, although PKC alone results in dopamine release/DAT reversal.   \n\nThe pharmacological actions of propylhexedrine are similar to those of [[phenethylamines]], such as [[Substituted amphetamine|amphetamines]], albeit in a generally less centrally active and recreationally desirable fashion.<ref name=\":0\" />\n\nSince propylhexedrine has a cyclohexane ring in the place of methamphetamine's phenyl ring, it lacks the level of Brain-Blood Barrier permeability that the phenyl ring provides amphetamines, and therefore has a greater proportion of effects on the peripheral nervous system relative to the central nervous system.<ref>{{Citation | vauthors=PubChem | title=Propylhexedrine | url=https://pubchem.ncbi.nlm.nih.gov/compound/7558}}</ref>\n\nPropylhexedrine has a half-life of 2.5 - 6.5 hours, which is variable based on urinary pH and the level of activity of certain Cytochrome P450 enzymes. Higher urinary pH elongates duration, while low urinary pH shortens duration. Higher activity of certain Cytochrome P450 enzymes also shortens duration.<ref name=\":1\" />\n\nPropylhexedrine is metabolized by certain Cytochrome P450 enzymes into norpropylhexedrine, cyclohexylacetoxime, ''cis''-4-hydroxypropylhexedrine and ''trans''-4-hydroxypropylhexedrine.<ref name=\":1\">{{cite journal | vauthors=((Midha, K. K.)), ((Beckett, A. H.)), ((Saunders, A.)) | journal=Xenobiotica | title=Identification of the Major Metabolites of Propylhexedrine in vivo (in man) and in vitro (in guinea pig and rabbit) | volume=4 | issue=10 | pages=627–635 | date= January 1974 | url=http://www.tandfonline.com/doi/full/10.1080/00498257409169765 | issn=0049-8254 | doi=10.1080/00498257409169765}}</ref>\n\n==Subjective effects==\n{{EffectStub}}\n{{Preamble/SubjectiveEffects}}                                                                             \n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, propylhexedrine is usually considered to be extremely energetic and stimulating in a fashion that is extremely similar to that of [[amphetamine]] or [[methamphetamine]], and stronger than that of [[modafinil]], [[caffeine]], and [[methylphenidate]]. It is similar to the stimulation experienced on racemic or the levorotorary form of [[amphetamine]] or the racemic [[methamphetamine]], encouraging physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which propylhexedrine presents can be described as forced or pressing and is noticeably more [[adrenaline|adrenergic]] and tense on the body. This means that at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control. \n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}} - Heart palpitations are commonly reported on common to heavy doses of this substance due to its significant peripheral nervous system activity.\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}} - Propylhexedrine has been noted by users to raise blood pressure significantly more than other stimulants. It has been speculated that this is due to its higher affinity for [[noradrenaline]] relative to stimulants such as [[amphetamine]].\n*'''[[Effect::Increased heart rate]]'''{{citation needed}} - Due to its pronounced peripheral nervous system activity, propylhexedrine tends to increase heart rate much more drastically than comparable dosages of other stimulants.\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Dehydration]]''' \n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' - This effect is prominent on the onset and come up period when ingested via the cotton found inside Benzedrex inhalers, particularly when it is taken on an empty stomach.\n*'''[[Effect::Stamina enhancement]]''' \n*'''[[Effect::Teeth grinding]]''' \n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]''' - Propylhexedrine has been noted by users as being particularly vasoconstrictive in comparison to other stimulants. It has been speculated that this is due to its higher affinity for [[noradrenaline]] relative to stimulants such as [[amphetamine]].\n\n}}\n{{effects/visual|\n\nAs with [[amphetamine]] or [[methamphetamine]], the visual effects of propylhexedrine are usually less consistent and are only mildly noticeable at higher dosages. They are somewhat comparable to the visual effects produced by [[deliriants]] and are generally more frequent in darker areas.\n\n====Suppressions====\n*'''[[Effect::Double vision]]''' - An uncommon effect that only occurs at very high, potentially dangerous or toxic dosages.\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' - This effect is usually subtle and barely noticeable and only occurs at higher dosages or when combined with [[cannabis]]. Commonly this consists of level 1-2 drifting.\n*'''[[Effect::Brightness alteration]]'''\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of propylhexedrine can be broken down into several components which progressively intensify proportional to dosage. The general head space of propylhexedrine is described by many as one of moderate to extreme mental stimulation, increased focus, and powerful euphoria. It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate dosages, they become increasingly likely to manifest themselves with higher amounts or extended usage. This particularly holds true during the offset of the experience. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Euphoria]]''' - The euphoria capable of being produced by propylhexedrine is reported to be similiar to that of [[methamphetamine]] at high doses.\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Ego inflation]]''' \n*'''[[Effect::Cognitive euphoria|Euphoria]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration.\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]''' - Due to depletion of the essential neurotransmitters [[serotonin]],[[dopamine]], and [[norepinephine]], propylhexedrine can cause moderate to strong feelings of depression after large doses.\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]''' - According to anecdotal reports, residual feelings of wakefulness can persist for up to 12 hours after the initial high wears off.\n\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Propyhexedrine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Pharms_Propylhexedrine.shtml Erowid Experience Vaults: Pharms - Propylhexedrine]\n\n==Toxicity and harm potential==\nThe toxicity of recreational propylhexedrine use has not been studied as extensively as that of [[amphetamine]] or [[methamphetamine]] but it is reasonable to assume that most if not all of the same risks apply.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulants]], the chronic use of propylhexedrine can be considered highly addictive, and is capable of causing psychological and physiological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops or drastically decreases their usage.\n\nTolerance to the effects of this compound likely occurs in the same general fashion as with [[amphetamine]] [[Time to full tolerance::rapidly develops with prolonged and repeated use]].<ref>{{cite journal | vauthors=((Pérez-Mañá, C.)), ((Castells, X.)), ((Torrens, M.)), ((Capellà, D.)), ((Farre, M.)) | journal=The Cochrane Database of Systematic Reviews | title=Efficacy of psychostimulant drugs for amphetamine abuse or dependence | issue=9 | pages=CD009695 | date=2 September 2013 | issn=1469-493X | doi=10.1002/14651858.CD009695.pub2}}</ref><ref>Amphetamines,\nBy Patrick G. O’Connor, MD, MPH, Yale University School of Medicine | http://www.merckmanuals.com/home/special_subjects/drug_use_and_abuse/amphetamines.html</ref> This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Propylhexedrine presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of propylhexedrine all [[stimulant]]s will have a reduced effect.\n\nLike with [[amphetamine]] and methamphetamine the evidence on effective treatments for dependence and abuse is limited.<ref name=\"Srisurapanont2001\">{{cite journal | vauthors=((Srisurapanont, M.)), ((Jarusuraisin, N.)), ((Kittirattanapaiboon, P.)) | journal=The Cochrane Database of Systematic Reviews | title=Treatment for amphetamine dependence and abuse | issue=4 | pages=CD003022 | date= 2001 | issn=1469-493X | doi=10.1002/14651858.CD003022}}</ref> In light of this, [[fluoxetine]] and [[imipramine]] appear to have some limited benefits in treating abuse and addiction<ref name=\"Srisurapanont2001\"></ref>\n\nIn highly dependent [[amphetamine]] and [[methamphetamine]] abusers, \"when chronic heavy users abruptly discontinue methamphetamine use, many report a time-limited withdrawal syndrome that occurs within 24 hours of their last dose\".<ref name=\"ShoptawKaoHeinzerlingLing2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Heinzerling, K.)), ((Ling, W.)) | journal=The Cochrane Database of Systematic Reviews | title=Treatment for amphetamine withdrawal | issue=2 | pages=CD003021 | date=15 April 2009 | issn=1469-493X | doi=10.1002/14651858.CD003021.pub2}}</ref> Withdrawal symptoms in chronic, high-dose users are frequent, occurring in up to 87.6% of cases, and persist for three to four weeks with a marked \"crash\" phase occurring during the first week.<ref name=\"ShoptawKaoHeinzerlingLing2009\"></ref> Methamphetamine withdrawal symptoms can include anxiety, drug craving, dysphoric mood, fatigue, increased appetite, increased movement or decreased movement, lack of motivation, sleeplessness or sleepiness, and vivid or lucid dreams.<ref name=\"ShoptawKaoHeinzerlingLing2009\"></ref> Withdrawal symptoms are associated with the degree of dependence (i.e., the extent of abuse).<ref name=\"ShoptawKaoHeinzerlingLing2009\"></ref> The mental depression associated with methamphetamine withdrawal lasts longer and is more severe than that of [[cocaine]] withdrawal.<ref name=\":0\">{{cite journal | vauthors=((Winslow, B. T.)), ((Voorhees, K. I.)), ((Pehl, K. A.)) | journal=American Family Physician | title=Methamphetamine abuse | volume=76 | issue=8 | pages=1169–1174 | date=15 October 2007 | issn=0002-838X}}</ref>. It is likely that propylhexedrine abuse is subject to these same outcomes.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nLike with the abuse of methamphetamine, propylhexedrine abuse can result in a stimulant-induced psychotic state that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], [[Delusions|delusions]]), though likely to a lesser degree.<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"amppsychosis\">{{cite book | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W. W.)) | veditors=((The Cochrane Collaboration)) | date=8 October 2008 | chapter=The Cochrane Database of Systematic Reviews (Complete Reviews) | title=Treatment for amphetamine psychosis | publisher=John Wiley & Sons, Ltd | pages=CD003026.pub2 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub2 | doi=10.1002/14651858.CD003026.pub2}}<nowiki>}}</nowiki></ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[https://en.wikipedia.org/wiki/Tricyclic_antidepressant Tricyclic antidepressants]''' - Propylhexedrine may increase the effects of tricyclic antidepressants to dangerous levels.<ref>Adderall Prescription info | http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf</ref>\n{{DangerousInteractions/Stimulants}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart to dangerous levels.\n\n==Legal status==\n{{LegalStub}}\n\n*'''Canada''': Propylhexedrine is not controlled under the schedules to the Controlled Drugs And Substances Act.{{citation needed}}\n*'''Germany''': Propylhexedrine is a prescription only medicine, according to Anlage 1 AMVV (''Medicine Prescribing Regulation, Schedule 1'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/amvv/anlage_1.html|title=Anlage 1 AMVV|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref>\n*'''Switzerland''': Propylhexedrine is not controlled under Buchstabe A, B, C and D. It is sporadically used medicinally.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States''': Propylhexedrine is a legal OTC drug. It is designed not to be recreationally used unless the user decides to bypass the manufacturer's intended design with which it was granted approval to market as a nasal decongestant. The simple consumption of this substance is not technically considered illegal.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulant]]\n*[[Amphetamine]]\n*[[Methamphetamine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Propylhexedrine Propylhexedrine (Wikipedia)]\n*[https://erowid.org/pharms/propylhexedrine/ Propylhexedrine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=12167 Propylhexedrine (Isomer Design)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n{{#set:Featured=true}}\n[[Category:Cycloalkylamine]]\n__INDEX__\n__NEWSECTIONLINK__"
+}

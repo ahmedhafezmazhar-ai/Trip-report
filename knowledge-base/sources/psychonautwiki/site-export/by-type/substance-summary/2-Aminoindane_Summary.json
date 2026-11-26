@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10932",
+ "type": "substance-summary",
+ "title": "2-Aminoindane/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-Aminoindane/Summary",
+  "pageid": 10932,
+  "last_edited": "2015-11-13T09:34:49Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2-Aminoindane",
+ "plain_text": "",
+ "wikitext": "{{Summary|2-Aminoindane}}"
+}

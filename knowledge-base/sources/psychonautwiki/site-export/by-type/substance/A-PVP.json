@@ -1,0 +1,647 @@
+{
+ "id": "psychonautwiki:9342",
+ "type": "substance",
+ "title": "A-PVP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/A-PVP",
+  "pageid": 9342,
+  "last_edited": "2026-10-14T02:45:22Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Pyrrolidinophenone",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/A-PVP",
+ "substance_box": {
+  "names": {
+   "common": "α-PVP, alpha-PVP, Flakka, Flak, O-2387, β-ketone-prolintane, Prolintanone, Gravel",
+   "substitutive": "alpha-pyrrolidinovalerophenone",
+   "systematic": "(RS)-1-Phenyl-2-(1-pyrrolidinyl)-1-pentanone"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted cathinone / Pyrrolidinophenone"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.5 mg",
+    "light": "1 - 5 mg",
+    "common": "5 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25 mg +",
+    "duration": "2 - 5 hours",
+    "onset": "10 - 30 minutes",
+    "peak": "20 - 45 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 5 mg",
+    "common": "5 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25 mg +",
+    "duration": "30 - 60 minutes",
+    "onset": "20 - 60 seconds",
+    "peak": "3 - 6 minutes",
+    "offset": "15 - 30 minutes",
+    "aftereffects": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "2 - 6 hours",
+    "onset": "2 - 20 minutes",
+    "peak": "1 - 2.5 hours",
+    "offset": "1 - 5 hours",
+    "aftereffects": "4 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "α-PVP",
+    "alpha-PVP",
+    "Flakka",
+    "Flak",
+    "O-2387",
+    "β-ketone-prolintane",
+    "Prolintanone",
+    "Gravel"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted cathinone",
+    "Pyrrolidinophenone"
+   ],
+   "Insufflated threshold dose": [
+    "0.5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "1"
+   ],
+   "Insufflated max light dose": [
+    "5"
+   ],
+   "Insufflated min common dose": [
+    "5"
+   ],
+   "Insufflated max common dose": [
+    "15"
+   ],
+   "Insufflated min strong dose": [
+    "15"
+   ],
+   "Insufflated max strong dose": [
+    "25"
+   ],
+   "Insufflated heavy dose": [
+    "25"
+   ],
+   "Insufflated min total time": [
+    "2"
+   ],
+   "Insufflated max total time": [
+    "5"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "10"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "20"
+   ],
+   "Insufflated max peak time": [
+    "45"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "2"
+   ],
+   "Smoked max light dose": [
+    "5"
+   ],
+   "Smoked min common dose": [
+    "5"
+   ],
+   "Smoked max common dose": [
+    "15"
+   ],
+   "Smoked min strong dose": [
+    "15"
+   ],
+   "Smoked max strong dose": [
+    "25"
+   ],
+   "Smoked heavy dose": [
+    "25"
+   ],
+   "Smoked min total time": [
+    "30"
+   ],
+   "Smoked max total time": [
+    "60"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "20"
+   ],
+   "Smoked max onset time": [
+    "60"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "3"
+   ],
+   "Smoked max peak time": [
+    "6"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "15"
+   ],
+   "Smoked max offset time": [
+    "30"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "1"
+   ],
+   "Smoked max afterglow time": [
+    "3"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "2"
+   ],
+   "Oral max onset time": [
+    "20"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of A-PVP",
+   "clean": "Molecular structure of A-PVP"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:α-PVP.svg",
+   "clean": "File:α-PVP.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::α-PVP]], [[common name::alpha-PVP]], [[common name::Flakka]], [[common name::Flak]], [[common name::O-2387]], [[common name::β-ketone-prolintane]], [[common name::Prolintanone]], [[common name::Gravel]]",
+   "clean": "α-PVP, alpha-PVP, Flakka, Flak, O-2387, β-ketone-prolintane, Prolintanone, Gravel"
+  },
+  "NameSubstitution": {
+   "raw": "alpha-pyrrolidinovalerophenone",
+   "clean": "alpha-pyrrolidinovalerophenone"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-1-Phenyl-2-(1-pyrrolidinyl)-1-pentanone",
+   "clean": "(RS)-1-Phenyl-2-(1-pyrrolidinyl)-1-pentanone"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted cathinone|Cathinone]] / [[chemical class::Pyrrolidinophenone]]",
+   "clean": "Substituted cathinone / Pyrrolidinophenone"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::0.5]] [[Insufflated dose units::mg]]",
+   "clean": "0.5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::1]] - [[Insufflated max light dose::5]] mg",
+   "clean": "1 - 5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::5]] - [[Insufflated max common dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::15]] - [[Insufflated max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::25]] mg +",
+   "clean": "25 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2]] - [[Insufflated max total time::5]] [[Insufflated total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::10]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::20]] - [[Insufflated max peak time::45]] [[Insufflated peak time units::minutes]]",
+   "clean": "20 - 45 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::2]] - [[Smoked max light dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::5]] - [[Smoked max common dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::15]] - [[Smoked max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::25]] mg +",
+   "clean": "25 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::30]] - [[Smoked max total time::60]] [[Smoked total time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::20]] - [[Smoked max onset time::60]] [[Smoked onset time units::seconds]]",
+   "clean": "20 - 60 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::3]] - [[Smoked max peak time::6]] [[Smoked peak time units::minutes]]",
+   "clean": "3 - 6 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::15]] - [[Smoked max offset time::30]] [[Smoked offset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::1]] - [[Smoked max afterglow time::3]] [[Smoked afterglow time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::2]] - [[Oral max onset time::20]] [[Oral onset time units::minutes]]",
+   "clean": "2 - 20 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::5]] [[Oral offset time units::hours]]",
+   "clean": "1 - 5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 12 hours"
+  }
+ },
+ "plain_text": "alpha-Pyrrolidinovalerophenone (also known as α-PVP, A-PVP, alpha-PVP, and flakka) is a novel stimulant substance of the cathinone and pyrrolidinophenone classes. α-PVP is chemically related to prolintane and belongs to a group called the substituted cathinones, which includes compounds like MDPV, hexen, and a-PHP. It acts as a norepinephrine-dopamine reuptake inhibitor.\n\nα-PVP was patented in the 1960s by Boehringer Ingelheim, although it was never marketed. Reports of its use began to appear in the early 2010s. α-PVP has been subject to much scrutiny by the media as one of the ingredients found in \"bath salts\" or \"legal highs\" products. It has been mass produced in China and sold online as a research chemical. It has been linked to numerous hospitalizations and overdose deaths.\n\nUser reports indicate that α-PVP produces powerful but short-lived stimulant effects comparable to those of methamphetamine and cocaine when insufflated or vaporized. Commonly reported effects include stimulation, disinhibition, increased libido, compulsive redosing, and euphoria. Like other synthetic cathinones, α-PVP is associated with compulsive use and addiction.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of a-PVP. Due to its potent psychostimulant effects and unknown toxicity profile, it is highly advised to use harm reduction practices if using with this substance.\n\nChemistry\n\nα-PVP, or alpha-Pyrrolidinovalerophenone, is a synthetic substance belonging to a group called the substituted cathinones. Substituted cathinones are derivatives of the naturally occurring substance cathinone, which is one of the psychoactive principles in khat (Catha edullis). Cathinone is composed of a phenethylamine core with an alkyl group attached to the alpha carbon, and a ketone group attached to the beta carbon. α-PVP's structure consists of a cathinone core with a propyl group substituted at the alpha carbon, and a pyrrolidine ring at the amino group.\n\nThe hydrochloride salt of α-PVP is described as a white or off-white, odourless crystalline powder, with a melting point of 161.3°C. It is reported to be soluble in PBS (~10mg/ml, pH7.2), in EtOH (~20mg/ml), in DMSO (~10mg/ml) and in DMF (~3mg/ml).\n\nPharmacology\n\nα-PVP is a potent and selective norepinephrine-dopamine reuptake inhibitor (NDRI), with a similar potency to MDPV. α-PVP does not act as a transporter substrate, i.e. it does not cause neurotransmitter release. It is a more potent inhibitor of DAT and NET than the classical stimulants cocaine and amphetamine. \n\n{| class=\"wikitable\"\n|+Effects of MDPV, α-PVP, cocaine, and amphetamine on inhibition of [3H] transmitter uptake at dopamine (DAT), norepinephrine (NET) and serotonin (SERT) transporters\n|-\n!Compound!!DAT IC50 (nM)!!NET IC50 (nM)!!SERT IC50 (nM)!!DAT/SERT ratio\n|-\n|a-PVP||12.8 ± 1.2||14.2 ± 1.2||>10,000||>781\n|-\n|MDPV||4.1 ± 0.6||25.9 ± 5.6||3305 ± 485||806\n|-\n|Cocaine ||211 ± 19||292 ± 34||313 ± 17||1.5\n|-\n|Amphetamine||93 ± 17||67 ± 16||3418 ± 314||37\n|}\n\nSubjective effects\n\nExperience reports\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational α-PVP use do not appear to have been studied in any scientific context and the exact toxic dosage is unknown. This is because α-PVP has very little history of human usage. \n\nAnecdotal reports suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be guaranteed). \n\nα-PVP has been reported to be the cause, or a significant contributory cause, of death in suicides and overdoses caused by combinations of drugs. α-PVP has also been linked to at least one death where it was combined with pentedrone and caused heart failure.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of α-PVP can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of α-PVP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). α-PVP produces cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of α-PVP all stimulants will have a reduced effect.\n\nPsychosis\n\nα-PVP, like other stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\nSerotonin syndrome risk\n\nLegal status\n\nIn June 2016, the European Council decided that α-PVP shall be subjected by the Member States to control measures and criminal penalties by July 3, 2017.\n\n*Australia: α-PVP made illegal in New South Wales after it was illegally marketed with the imprimatur of erroneous legal advice that it was not encompassed by analog provisions of the relevant act. It is encompassed by those provisions, and therefore has been illegal for many years in New South Wales. The legislative action followed the death of two individuals from using it.\n*Austria: Since June 26, 2019, α-PVP is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)\n*Belgium: α-PVP is a controlled substance.\n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*China:  As of October 2015, α-PVP is a controlled substance in China.\n*Cyprus: α-PVP is a controlled under the New Psychoactive Substances Legislation as of June 24, 2011.\n*Czech Republic: α-PVP is a controlled substance.\n*Estonia: α-PVP is listed in Regulation No. 73 as of June 2, 2014.\n*Finland: α-PVP is listed in the Narcotics Act 373 as of December 30, 2013.\n*France: α-PVP is a controlled substance as of August 2, 2012.\n*Germany: α-PVP is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of July 17, 2013. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Greece: α-PVP is a controlled substance under law 3459/2006.\n*Hungary: α-PVP is a Schedule A controlled substance.\n*Ireland: α-PVP is a controlled substance as it is covered by the generic definition of controlled cathinones.\n*Italy: α-PVP is a controlled substance as of December 29, 2011.\n*Latvia: α-PVP is a controlled substance.\n*Lithuania: α-PVP is a controlled substance since 2010.\n*Norway: α-PVP is a controlled substance.\n*Poland: α-PVP is a Schedule IV controlled substance as of July 1, 2015.\n*Portugal: α-PVP is a controlled substance as of April 17, 2013.\n*Romania: α-PVP is a controlled substance.\n*Slovakia: α-PVP is a controlled substance as of October 1, 2013.\n*Slovenia: α-PVP is a controlled substance since July 2014.\n*Sweden: α-PVP is controlled under the Narcotic Drugs Control Act as of February 2013.\n*Switzerland: α-PVP is a controlled substance specifically named under Verzeichnis D.\n*Turkey: α-PVP is a controlled substance as of March 22, 2012.\n*United Kingdom:  α-PVP is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: On January 28, 2014, the U.S. DEA listed α-PVP, along with 9 other synthetic cathinones, on the Schedule 1 with a temporary ban, effective February 27, 2014.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulants\n*Substituted cathinone\n*Substituted pyrrolidine\n*MDPV\n*A-PHP\n\nExternal links\n\n*α-PVP (Wikipedia)\n*α-PVP (Erowid Vault)\n*α-PVP (Isomer Design)\n\nLiterature\n\n*EMCDDA. (2015). EMCDDA–Europol Joint Report on a new psychoactive substance: 1‐phenyl‐2‐(1‐pyrrolidinyl)‐1‐pentanone (α‐PVP).\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Pyrrolidinophenone\nCategory:Research chemical",
+ "wikitext": "{{Distinguish|A-PHP}}\n{{SummarySheet}}\n{{SubstanceBox/A-PVP}}\n\n'''alpha-Pyrrolidinovalerophenone''' (also known as '''α-PVP''', '''A-PVP''', '''alpha-PVP''', and '''flakka''') is a novel [[psychoactive class::stimulant]] substance of the [[chemical class::cathinone]] and [[chemical class::pyrrolidinophenone]] classes. α-PVP is chemically related to [[prolintane]] and belongs to a group called the [[substituted cathinones]], which includes compounds like [[MDPV]], [[hexen]], and [[a-PHP]]. It acts as a norepinephrine-dopamine reuptake inhibitor.\n\nα-PVP was patented in the 1960s by Boehringer Ingelheim,<ref>Wander, A. (1963), ‘α-Pyrrolidino valerophenones’, patent specification 9274</ref> although it was never marketed. Reports of its use began to appear in the early 2010s. α-PVP has been subject to much scrutiny by the media as one of the ingredients found in \"bath salts\" or \"legal highs\" products.{{citation needed}} It has been mass produced in China and sold online as a [[research chemical]].{{citation needed}} It has been linked to numerous hospitalizations and overdose deaths.<ref name=\"EMCDDA\">{{cite web|url=http://www.emcdda.europa.eu/system/files/publications/1814/TDAS15001ENN.pdf|title=α-PVP: EMCDDA–Europol Joint Report on a new psychoactive substance: 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone (α-PVP)|publisher=European Monitoring Centre for Drugs and Drug Addiction|access-date=December 25, 2019}}</ref>\n\nUser reports indicate that α-PVP produces powerful but short-lived stimulant effects comparable to those of [[methamphetamine]] and [[cocaine]] when [[insufflated]] or [[vaporized]]. Commonly reported effects include [[stimulation]], [[disinhibition]], [[increased libido]], [[compulsive redosing]], and [[euphoria]]. Like other synthetic cathinones, α-PVP is associated with compulsive use and addiction.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of a-PVP. Due to its potent psychostimulant effects and unknown toxicity profile, it is highly advised to use [[harm reduction practices]] if using with this substance.\n\n==Chemistry==\nα-PVP, or alpha-Pyrrolidinovalerophenone, is a synthetic substance belonging to a group called the [[substituted cathinones]]. Substituted cathinones are derivatives of the naturally occurring substance [[cathinone]], which is one of the psychoactive principles in khat (''Catha edullis''). Cathinone is composed of a phenethylamine core with an alkyl group attached to the alpha carbon, and a ketone group attached to the beta carbon. α-PVP's structure consists of a cathinone core with a propyl group substituted at the alpha carbon, and a pyrrolidine ring at the amino group.\n\nThe hydrochloride salt of α-PVP is described as a white or off-white, odourless crystalline powder, with a melting point of 161.3°C. It is reported to be soluble in PBS (~10mg/ml, pH7.2), in EtOH (~20mg/ml), in DMSO (~10mg/ml) and in DMF (~3mg/ml).<ref name=\"EMCDDA\" />\n\n==Pharmacology==\nα-PVP is a potent and selective [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI), with a similar potency to [[MDPV]].<ref name=\"MarusichAntonazzo2014\">{{cite journal|last1=Marusich|first1=Julie A.|last2=Antonazzo|first2=Kateland R.|last3=Wiley|first3=Jenny L.|last4=Blough|first4=Bruce E.|last5=Partilla|first5=John S.|last6=Baumann|first6=Michael H.|title=Pharmacology of novel synthetic stimulants structurally related to the “bath salts” constituent 3,4-methylenedioxypyrovalerone (MDPV)|journal=Neuropharmacology|volume=87|year=2014|pages=206–213|issn=00283908|doi=10.1016/j.neuropharm.2014.02.016}}</ref> α-PVP does not act as a transporter substrate, i.e. it does not cause neurotransmitter release. It is a more potent inhibitor of DAT and NET than the classical stimulants cocaine and amphetamine. \n\n{| class=\"wikitable\"\n|+Effects of MDPV, α-PVP, cocaine, and amphetamine on inhibition of [3H] transmitter uptake at dopamine (DAT), norepinephrine (NET) and serotonin (SERT) transporters<ref name=\"EMCDDA\" />\n|-\n!Compound!!DAT IC<sub>50</sub> (nM)!!NET IC<sub>50</sub> (nM)!!SERT IC<sub>50</sub> (nM)!!DAT/SERT ratio\n|-\n|a-PVP||12.8 ± 1.2||14.2 ± 1.2||>10,000||>781\n|-\n|[[MDPV]]||4.1 ± 0.6||25.9 ± 5.6||3305 ± 485||806\n|-\n|[[Cocaine ]]||211 ± 19||292 ± 34||313 ± 17||1.5\n|-\n|[[Amphetamine]]||93 ± 17||67 ± 16||3418 ± 314||37\n|}\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Neurotoxicity]]''' - High doses, multi-day binges, or chronic abuse of α-PVP carry a high risk of indirect neurotoxicity, neuroinflammation, and persistent neurocognitive deficits.<ref name=\"pmc6486871\">{{cite journal |vauthors=Angoa-Pérez M, Anneken JH, Kuhn DM |title=Cognitive deficits and neurotoxicity induced by synthetic cathinones |journal=Neuropharmacology |volume=161 |pages=107604 |year=2019 |pmid=30372370 |doi=10.1016/j.neuropharm.2018.10.033}}</ref> As an exceptionally potent norepinephrine–dopamine reuptake inhibitor (NDRI), α-PVP does not directly destroy nerve terminals through monoamine-releasing mechanisms like methamphetamine; rather, its neurotoxic profile is driven by severe hyperthermia, microglial activation, dopamine auto-oxidation, and excitotoxicity resulting from compulsive re-dosing sessions.<ref name=\"pmc5966333\">{{cite journal |vauthors=Duart-Castells L, López-Arnau R, Pubill D, Camarasa J, Escubedo E, Mercadal J |title=Neurocognitive dysfunction following repeated binge-like self-administration of MDPV in rats |journal=Prog Neuropsychopharmacol Biol Psychiatry |volume=88 |pages=243–252 |year=2019 |pmid=29800623 |doi=10.1016/j.pnpbp.2018.05.018}}</ref>\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, α-PVP can be considered to be extremely stimulating and energetic. This encourages activities such as running, climbing and dancing, although it can also encourage just sitting immobile engaged in repetitive tasks. The particular style of stimulation which α-PVP presents can be described as forced. This means that at higher dosages it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in an extreme unsteadiness of the hands and a general loss of motor control. \n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of α-PVP can be described as a moderate to extreme euphoric tingling sensation that encompasses the entire body. It is capable of becoming overwhelming at higher dosages. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n*'''[[Effect::Tactile enhancement]]''' - α-PVP can enhance one's sense of touch to extreme degrees, often leading to states of sexual arousal.\n*'''[[Effect::Vibrating vision]]''' - α-PVP can cause the eyeballs to spontaneously wiggle back and forth in a rapid motion, causing vision to become blurry and temporarily out of focus. This condition is known as nystagmus.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Abnormal heartbeat]]''' - Due to the potency of its rush, α-PVP can cause various uncomfortable or painful sensations in the heart, especially when abused or used for extended periods. Those with genetic a family history of heart issues are discouraged from using this drug in its most potent methods of administration, if not avoid it entirely.\n*'''[[Effect::Increased blood pressure]]''' - α-PVP, especially when it is vaporized or injected, can lead to sudden spikes of blood pressure that may manifest in an extremely uncomfortable \"exploding heart\" sensation. \n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Dehydration]]''' - Dry mouth and dehydration are a universal experience with α-PVP and are a product of an increased heart rate, adrenergic activity and the motivation to engage in strenuous physical activities. While it is important to avoid becoming dehydrated, especially when out dancing in a hot environment, there is a potential possibility of suffering from water intoxication through over-drinking. Therefore it is advised that users simply sip at water and be mindful of their water in-take.\n*'''[[Effect::Dry mouth]]''' \n*'''[[Effect::Mouth numbing]]''' - In a similar fashion to that of [[cocaine]], a-PVP numbs the areas of the body which it touches, these areas can include the nostrils, gums, mouth and urethra of the user.\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Difficulty urinating]]''' - Higher doses of α-PVP result in an overall difficulty when it comes to urination, an effect that is temporary and typically harmless.\n*'''[[Effect::Headaches]]''' - This typically can occur towards the end of the experience, but can sometimes happen during one as well.\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Restless legs]]'''\n*'''[[Effect::Vasoconstriction]]''' - α-PVP is reported to be very vasoconstricting at higher doses, and is on par with that of [[amphetamine]] and [[methamphetamine]].{{citation needed}}\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]], though becomes more present at high doses.\n*'''[[Effect::Seizure]]''' - α-PVP may lower the seizure threshold in some individuals, especially when it is abused.{{citation needed}}\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Brightness alteration]]''' - α-PVP can make spaces seem brighter due to its ability to dilate the pupils.\n*'''[[Effect::Drifting]]''' - This effect is usually very mild and increases with sleep deprivation.\n*'''[[Effect::Visual acuity suppression]]''' - α-PVP can have visual and vision-impairing effects that can lend readily to peripheral hallucinations.\n\n====Hallucinatory states====\n*'''[[Effect::Peripheral information misinterpretation]]'''\n*'''[[Effect::Scenarios and plots]]'''\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of α-PVP can be broken down into several components which progressively intensify proportional to dosage. The ample head space of α-PVP is described by many as one of extreme mental stimulation and a powerful rushing euphoria that dissipates quickly. \n\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - α-PVP can lead to states of extreme paranoia when abused or dosed too highly, which is why eyeballing this substance is strongly discouraged. The paranoia this compound produces shares many features of the paranoia that can be induced by [[methamphetamine]] or [[cocaine]], and typically happens while during the come down. \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Cognitive euphoria]]''' - A euphoria very similar to [[amphetamine]] or [[cocaine]] is present as well as feelings of joy and happiness which are likely a direct result of marked norepinephrine and dopamine reuptake inhibition.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - α-PVP has been noted as enhancing focus, but in a way that leaves the user totally fixated on whatever task at hand, however trivial.\n*'''[[Effect::Ego inflation]]''' - Similar to the ego inflation of [[cocaine]] or [[methamphetamine]], α-PVP can temporarily induce states of egomania at its peak.\n*'''[[Effect::Increased libido]]''' - Like its predecessors MDPV and pentedrone, α-PVP can induce states of extreme sexual arousal due to its powerful disinhibiting effects\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis enhancement]]''' - Users report that this effect typically only occurs at low doses, and becomes increasingly more impairing as one increases their intake.\n*'''[[Effect::Motivation enhancement]]''' - This effect provides short-lived states of extreme motivation, but due to the cognitively narrowing aspects of its action, rarely ever translates into productive action. \n*'''[[Effect::Compulsive redosing]]''' - A high tendency to compulsive redose is a hallmark of this class of drug.\n*'''[[Effect::Feelings of impending doom]]''' - This typically is experienced when the substance is abused, but can happen at higher than needed doses, or the comedowns of binges. It can also happen spontaneously, although this tends to be rare.\n*'''[[Effect::Time distortion]]''' - Strong feelings of time compression are common within α-PVP and increase in the perception of perceived experience is greatly increased\n*'''[[Effect::Psychosis]]''' - This compound is known to readily induce psychosis if it is abused for prolonged periods of time.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Sleep paralysis]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=alpha-PVP}}\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational α-PVP use do not appear to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because α-PVP has very little history of human usage. \n\nAnecdotal reports suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be guaranteed). \n\nα-PVP has been reported to be the cause, or a significant contributory cause, of death in suicides and overdoses caused by combinations of drugs.<ref>{{cite journal | vauthors=((Marinetti, L. J.)), ((Antonides, H. M.)) | journal=Journal of Analytical Toxicology | title=Analysis of synthetic cathinones commonly found in bath salts in human performance and postmortem toxicology: method development, drug distribution and interpretation of results | volume=37 | issue=3 | pages=135–146 | date= April 2013 | issn=1945-2403 | doi=10.1093/jat/bks136}}</ref><ref>http://www.aafs.org/sites/default/files/pdf/ProceedingsWashingtonDC2013.pdf</ref><ref>{{Citation | title=Cheap, synthetic “flakka” dethroning cocaine on Florida drug scene | url=http://news.yahoo.com/cheap-synthetic-flakka-dethroning-cocaine-florida-drug-scene-140910992.html}}</ref><ref>{{cite journal | vauthors=((Klavž, J.)), ((Gorenjak, M.)), ((Marinšek, M.)) | journal=Forensic Science International | title=Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC | volume=265 | pages=121–124 | date=1 August 2016 | url=https://www.sciencedirect.com/science/article/pii/S0379073816000372 | issn=0379-0738 | doi=10.1016/j.forsciint.2016.01.018}}</ref> α-PVP has also been linked to at least one death where it was combined with pentedrone and caused heart failure.<ref>{{cite journal | vauthors=((Sykutera, M.)), ((Cychowska, M.)), ((Bloch-Boguslawska, E.)) | journal=Journal of Analytical Toxicology | title=A Fatal Case of Pentedrone and α-Pyrrolidinovalerophenone Poisoning | volume=39 | issue=4 | pages=324–329 | date= May 2015 | issn=1945-2403 | doi=10.1093/jat/bkv011}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other [[stimulant]]s, the chronic use of α-PVP can be considered [[Addiction potential::highly addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of α-PVP [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). α-PVP produces cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of α-PVP all [[stimulants]] will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nα-PVP, like other stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[paranoia]], [[External hallucinations|hallucinations]], or [[delusions]]).<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"amppsychosis\">{{cite book | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W. W.)) | veditors=((The Cochrane Collaboration)) | date=8 October 2008 | chapter=The Cochrane Database of Systematic Reviews (Complete Reviews) | title=Treatment for amphetamine psychosis | publisher=John Wiley & Sons, Ltd | pages=CD003026.pub2 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub2 | doi=10.1002/14651858.CD003026.pub2}}</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=[[Substituted cathinone|cathinone]]s}}\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\nIn June 2016, the European Council decided that α-PVP shall be subjected by the Member States to control measures and criminal penalties by July 3, 2017.<ref>{{cite web|url=https://op.europa.eu/o/opportal-service/download-handler?identifier=2f352aaa-3fdb-11e6-af30-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=|title=Council Implementing (EU) 2016/1070|date=June 27, 2016|publication-date=July 2, 2016|work=Official Journal of the European Union|pages=18-20|id=L 178|publisher=Office for Official Publications of the European Communites|oclc=52224955}}</ref>\n\n*'''Australia''': α-PVP made illegal in New South Wales after it was illegally marketed with the imprimatur of erroneous legal advice that it was not encompassed by analog provisions of the relevant act. It is encompassed by those provisions, and therefore has been illegal for many years in New South Wales. The legislative action followed the death of two individuals from using it.{{citation needed}}\n*'''Austria''': Since June 26, 2019, α-PVP is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)<ref>https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2019_II_167/BGBLA_2019_II_167.pdfsig</ref>\n*'''Belgium''': α-PVP is a controlled substance.<ref>http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=N&cn=1998012251&table_name=wet</ref>\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''China''':  As of October 2015, α-PVP is a controlled substance in China.<ref>关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Cyprus''': α-PVP is a controlled under the New Psychoactive Substances Legislation as of June 24, 2011.<ref name=\"EMCDDA\"></ref>\n*'''Czech Republic''': α-PVP is a controlled substance.<ref>Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení vlády č. 463/2013 Sb.) | http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf</ref>\n*'''Estonia''': α-PVP is listed in Regulation No. 73 as of June 2, 2014.<ref name=\"EMCDDA\"></ref>\n*'''Finland''': α-PVP is listed in the Narcotics Act 373 as of December 30, 2013.<ref name=\"EMCDDA\"></ref>\n*'''France''': α-PVP is a controlled substance as of August 2, 2012.<ref name=\"EMCDDA\"></ref>\n*'''Germany''': α-PVP is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> as of July 17, 2013.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl113s2274.pdf%27%5D|title=Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 18, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref>\n*'''Greece''': α-PVP is a controlled substance under law 3459/2006.<ref name=\"EMCDDA\"></ref>\n*'''Hungary''': α-PVP is a Schedule A controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Ireland''': α-PVP is a controlled substance as it is covered by the generic definition of controlled cathinones.<ref name=\"EMCDDA\"></ref>\n*'''Italy''': α-PVP is a controlled substance as of December 29, 2011.<ref name=\"EMCDDA\"></ref>\n*'''Latvia''': α-PVP is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Lithuania''': α-PVP is a controlled substance since 2010.<ref name=\"EMCDDA\"></ref>\n*'''Norway''': α-PVP is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Poland''': α-PVP is a Schedule IV controlled substance as of July 1, 2015.<ref name=\"EMCDDA\"></ref>\n*'''Portugal''': α-PVP is a controlled substance as of April 17, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Romania''': α-PVP is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Slovakia''': α-PVP is a controlled substance as of October 1, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Slovenia''': α-PVP is a controlled substance since July 2014.<ref name=\"EMCDDA\"></ref>\n*'''Sweden''': α-PVP is controlled under the Narcotic Drugs Control Act as of February 2013.<ref name=\"EMCDDA\"></ref>\n*'''Switzerland''': α-PVP is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': α-PVP is a controlled substance as of March 22, 2012.<ref name=\"EMCDDA\"></ref>\n*'''United Kingdom''':  α-PVP is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n*'''United States''': On January 28, 2014, the U.S. DEA listed α-PVP, along with 9 other synthetic cathinones, on the Schedule 1 with a temporary ban, effective February 27, 2014.<ref>http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0128.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulants]]\n*[[Substituted cathinone]]\n*[[Substituted pyrrolidine]]\n*[[MDPV]]\n*[[A-PHP]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/α-PVP α-PVP (Wikipedia)]\n*[https://erowid.org/chemicals/a-pvp/a-pvp.shtml α-PVP (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2342 α-PVP (Isomer Design)]\n\n==Literature==\n\n*[http://www.emcdda.europa.eu/system/files/publications/1814/TDAS15001ENN.pdf EMCDDA. (2015). EMCDDA–Europol Joint Report on a new psychoactive substance: 1‐phenyl‐2‐(1‐pyrrolidinyl)‐1‐pentanone (α‐PVP).]\n\n==References==\n{{Reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Pyrrolidinophenone]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

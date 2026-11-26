@@ -1,0 +1,298 @@
+{
+ "id": "psychonautwiki:10767",
+ "type": "substance",
+ "title": "PRO-LAD",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PRO-LAD",
+  "pageid": 10767,
+  "last_edited": "2021-05-29T16:35:13Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Latvian-language sources (lv)",
+  "Lysergamide",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/PRO-LAD",
+ "substance_box": {
+  "names": {
+   "common": "PRO-LAD",
+   "substitutive": "6-Propyl-6-nor-lysergic acid diethylamide",
+   "systematic": "(8β)-N,N-Diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 µg",
+    "light": "50 - 100 µg",
+    "common": "100 - 200 µg",
+    "strong": "200 - 350 µg",
+    "heavy": "350 µg +",
+    "duration": "6 - 8 hours",
+    "onset": "30 - 45 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "PRO-LAD"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "µg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "200"
+   ],
+   "Oral min strong dose": [
+    "200"
+   ],
+   "Oral max strong dose": [
+    "350"
+   ],
+   "Oral heavy dose": [
+    "350"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:PRO-LAD.svg",
+   "clean": "File:PRO-LAD.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::PRO-LAD]]",
+   "clean": "PRO-LAD"
+  },
+  "NameSubstitution": {
+   "raw": "6-Propyl-6-nor-lysergic acid diethylamide",
+   "clean": "6-Propyl-6-nor-lysergic acid diethylamide"
+  },
+  "NameSystematic": {
+   "raw": "(8β)-N,N-Diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide",
+   "clean": "(8β)-N,N-Diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] [[Oral dose units::µg]]",
+   "clean": "20 µg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] µg",
+   "clean": "50 - 100 µg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::200]] µg",
+   "clean": "100 - 200 µg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::200]] - [[Oral max strong dose::350]] µg",
+   "clean": "200 - 350 µg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::350]] µg +",
+   "clean": "350 µg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Propylnorlysergic acid N,N-diethylamide (also known as 6-Propyl-6-nor-lysergic acid diethylamide, N-PropylnorLSD or simply PRO-LAD) is a novel psychedelic substance of the lysergamide class. It is a structural analog of LSD and is part of a series of LSD analogs which includes AL-LAD and ETH-LAD.\n\nPRO-LAD was first investigated by Andrew J. Hoffman and David E. Nichols in 1984 as part of a series of LSD analogs. It was later described as an analog of LSD by Alexander Shulgin in the book TiHKAL (\"Tryptamines I Have Known and Loved\"), in which one report remarks that it is \"good for humor, even excellent... very good for clear thinking, although not cosmic-type particularly.\" It has been sold on the online research chemical market alongside lysergamides like 1P-LSD and AL-LAD as a legal, grey-market alternative to LSD.\n\nSubjective effects are similar to LSD and include open and closed-eye visuals, time distortion, enhanced introspection, ego loss, and euphoria. It has been reported to be around as potent as LSD itself with an active dose reported at between 100 and 200 micrograms.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of PRO-LAD, and it has little history of human usage. It is highly advised use harm reduction practices if using this substance.\n\nChemistry\n\nPRO-LAD, or 6-propyl-6-nor-lysergic acid diethylamide, is a semisynthetic alkaloid of the lysergamide family. PRO-LAD is a chiral compound with two stereocenters at R5 and R8. PRO-LAD, also called (+)-D-PRO-LAD, has an absolute configuration of (5R, 8R). It is a structural analog of lysergic acid, with an N,N-diethylamide functional group bound to RN of the chemical structure. This core polycyclic structure is an ergoline derivative, and has overlapping tryptamine and phenethylamine groups embedded within it (although it is principally classed as a tryptamine). It differs from LSD by the addition of two carbons to the methyl group at R6 of the structure to form a propyl chain. PRO-LAD is also homologous to ETH-LAD, which contains an ethyl substitution at R6 instead of a propyl chain. \n\nPRO-LAD's structure contains a bicyclic hexahydroindole fused to a bicyclic quinoline group (nor-lysergic acid). Unlike LSD, PRO-LAD does not contain a methyl group substituted at R6 of its nor-lysergic acid skeleton, this is represented by the nor- prefix. Instead, PRO-LAD is substituted at R6 with a propyl group. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound. PRO-LAD is a derivative of LSD, differing by the addition of two carbons to the methyl group at R6 of the structure to form a propyl chain.\n\nPRO-LAD is also homologous to ETH-LAD, which contains an ethyl substitution at R6 instead of a propyl chain. PRO-LAD is a chiral compound with two stereocenters at R5 and R8. It is also sometimes called (+)-D-PRO-LAD, as an absolute configuration of (5R, 8R).\n\nPharmacology\n\nPRO-LAD likely acts as a 5-HT2A partial agonist. The psychedelic effects are believed to come from PRO-LAD's efficacy at the 5-HT2A receptors. However, the role of these interactions and how they result in the psychedelic experience continues to remain an object of scientific elucidation.\n\nAs a derivative of LSD, the pharmacodynamic and pharmacokinetic properties of PRO-LAD are similar to those of LSD. However, they are not exactly the same. The addition of two carbons to the methyl group at R6, and the resulting propyl chain may lead to PRO-LAD being absorbed at a slower rate and therefore a differing initial onset and a peak effect. This could be the reason for the higher threshold and common dosages.\n\nSubjective effects\n\nCombination effects\n\n*Cannabis - When used in conjunction with cannabis, both the visual and cognitive effects of PRO-LAD can be intensified and extended with extreme efficiency. This should be used with caution if one is not experienced with psychedelics. Many users sometimes report a dramatically more intense visual trip when combining it with THC concentrates such as hashish as opposed to cannabis flower. However, this can also amplify the anxiety, confusion and psychosis producing aspects of both substances significantly, so extreme caution with this combination is advised.\n*Dissociatives - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced. Dissociative-induced holes, spaces, and voids while under the influence of PRO-LAD have significantly more vivid visuals than dissociatives alone present, and more intense internal hallucinations and confusion.\n*MDMA - When used in conjunction with MDMA, the physical and cognitive effects of MDMA are amplified. The visual, physical and cognitive effects of PRO-LAD are also intensified with an overwhelming euphoric pleasure manifested through uniquely pleasurable body highs and headspaces, and uniquely colorful and awe-inspiring visuals. It is often recommended to wait at least three to four hours after ingesting PRO-LAD to take MDMA so as to avoid coming down from the latter while peaking on the former, but positive experiences have been reported with all possible timings. The synergy between these substances is unpredictable (and likely neurotoxic), and it is best to start with lower dosages than one would take for both substances individually.\n*Alcohol - This interaction is not typically recommended due to alcohol’s ability to cause dehydration, depression and thought disorganization which can negatively affect a trip if taken in high dosages. This combination is however reasonably safe in low doses and when used responsibly, this can often take the edge off a trip as well as dull its psychedelic effects in a fashion somewhat similar to benzodiazepines, albeit more stressful on the body.\n*Benzodiazepines - When used in combination with benzodiazepines, benzodiazepines can, depending on the dosage, slightly to completely reduce the intensity of the cognitive, physical and visual effects of a PRO-LAD trip. They are very efficient at stopping bad trips at the cost of amnesia and reduced trip intensity. Caution is advised when acquiring them for this purpose due to the very high addiction potential that benzodiazepines possess.\n*Psychedelics - When used in combination with other psychedelics, each drug's physical, cognitive and visual effects intensify and synergize strongly. The synergy between those substances is unpredictable, and for this reason generally not advised. If choosing to combine psychedelics, it is recommended to start with lower dosages than one would take for either substance individually.\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational PRO-LAD do not seem to have been studied in any scientific context and the exact toxic dose is unknown. This is because PRO-LAD is a research chemical with very little history of human usage. Anecdotal evidence from people within the psychonaut community who have tried PRO-LAD suggests that there are no negative health effects attributed to simply trying the drug by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nWhile no formal studies have been conducted, PRO-LAD is likely not habit-forming and it is reasonable to speculate that the desire to use it can actually decrease with repeated administratino. As with most psychedelics, it likely possesses what is considered an intrinsic, self-regulating aspect to it. \n\nTolerance to the effects of PRO-LAD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). PRO-LAD presents cross-tolerance with all psychedelics, meaning that after the consumption of PRO-LAD all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*Austria: PRO-LAD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD. \n*Germany: PRO-LAD is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Latvia: PRO-LAD is illegal in Latvia. Although it isn't officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.\n*Switzerland: On December 1, 2015, Switzerland added PRO-LAD to the list of controlled substances. It is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: As of January 7, 2015, PRO-LAD is specifically named in the U.K. Misuse of Drugs Act as a Class A drug.\n\nSee also\n\n*Responsible use (Hallucinogens)\n*Research chemical\n*Hallucinogens\n*Psychedelic\n*Lysergamide\n*AL-LAD\n*ETH-LAD\n*LSD\n\nExternal links\n\n*PRO-LAD (Wikipedia)\n*PRO-LAD (TiHKAL / Isomer Design)\n\nLiterature\n\n*Hoffman, A. J., & Nichols, D. E. (1985). Synthesis and LSD-like discriminative stimulus properties in a series of N (6)-alkyl norlysergic acid N, N-diethylamide derivatives. Journal of Medicinal Chemistry, 28(9), 1252-1255. https://doi.org/10.1021/jm00147a022.\n*Watts, V. J., Mailman, R. B., Lawler, C. P., Neve, K. A., & Nichols, D. E. (1995). LSD and structural analogs: pharmacological evaluation at D1 dopamine receptors. Psychopharmacology, 118(4), 401-409. https://doi.org/10.1007/BF02245940.\n*Niwaguchi, T., Nakahara, Y., & Ishii, H. (1976). Studies on lysergic acid diethylamide and related compounds. IV. Syntheses of various amide derivatives of norlysergic acid and related compounds. Yakugaku Zasshi: Journal of the Pharmaceutical Society of Japan, 96(5), 673-678. PMID 987200.\n*Pfaff, R. C., Huang, X., Marona-Lewicka, D., Oberlender, R., & Nichols, D. E. (1994). Lysergamides Revisited. NIDA Research Monograph, 146, 52-73. PMID: 8742794.\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:Lysergamide\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/PRO-LAD}}\n'''N-Propyl''nor''lysergic acid N,N-diethylamide''' (also known as '''6-Propyl-6-''nor''-lysergic acid diethylamide'''<ref name=\"PCnames\">{{cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/44457803|title=COMPOUND SUMMARY: Pro-lad|id=CID [https://pubchem.ncbi.nlm.nih.gov/#query=44457803 44457803]|publisher=National Center for Biotechnology Information|access-date=May 5, 2017}}</ref>, '''N-Propyl''nor''LSD'''<ref name=\"PCnames\" /> or simply '''PRO-LAD'''<ref name=\"PCnames\" />) is a novel [[Psychoactive class::psychedelic]] substance of the [[Chemical class::lysergamide]] class. It is a structural analog of LSD and is part of a series of LSD analogs which includes [[AL-LAD]] and [[ETH-LAD]].\n\nPRO-LAD was first investigated by Andrew J. Hoffman and David E. Nichols in 1984 as part of a series of LSD analogs.<ref>{{cite journal|last1=Hoffman|first1=Andrew J.|last2=Nichols|first2=David E.|author-link2=David E. Nichols|title=Synthesis and LSD-like discriminative stimulus properties in a series of N(6)-alkyl norlysergic acid N,N-diethylamide derivatives|journal=Journal of Medicinal Chemistry|volume=28|issue=9|pages=1252-1255|year=1985|doi=10.1021/jm00147a022|issn=0022-2623}}</ref> It was later described as an analog of [[LSD]] by [[Alexander Shulgin]] in the book [[TiHKAL]] (\"Tryptamines I Have Known and Loved\"), in which one report remarks that it is \"good for humor, even excellent... very good for clear thinking, although not cosmic-type particularly.\"<ref name=\"tihkalweb\">Shulgin, A., & Shulgin, A. (1991). [https://erowid.org/library/books_online/tihkal/tihkal51.shtml Erowid Online Books: \"TIHKAL\" - #51. PRO-LAD]. Retrieved April 14, 2017.</ref> It has been sold on the online research chemical market alongside [[lysergamides]] like [[1P-LSD]] and [[AL-LAD]] as a legal, grey-market alternative to [[LSD]].\n\nSubjective effects are similar to [[LSD]] and include [[geometry|open and closed-eye visuals]], [[time distortion]], [[introspection|enhanced introspection]], [[ego loss]], and [[euphoria]]. It has been reported to be around as potent as LSD itself with an active dose reported at between 100 and 200 micrograms.<ref name=\"tihkalweb\" />\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of PRO-LAD, and it has little history of human usage. It is highly advised use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nPRO-LAD, or 6-propyl-6-nor-lysergic acid diethylamide, is a semisynthetic alkaloid of the [[lysergamide]] family. PRO-LAD is a chiral compound with two stereocenters at R<sub>5</sub> and R<sub>8</sub>. PRO-LAD, also called (+)-D-PRO-LAD, has an absolute configuration of (5R, 8R).{{citation needed}} It is a structural analog of lysergic acid, with an N,N-diethylamide functional group bound to R<sub>N</sub> of the chemical structure. This core polycyclic structure is an ergoline derivative, and has overlapping [[tryptamine]] and [[phenethylamine]] groups embedded within it (although it is principally classed as a tryptamine). It differs from [[LSD]] by the addition of two carbons to the methyl group at R<sub>6</sub> of the structure to form a propyl chain. PRO-LAD is also homologous to [[ETH-LAD]], which contains an ethyl substitution at R<sub>6</sub> instead of a propyl chain. \n\nPRO-LAD's structure contains a bicyclic hexahydroindole fused to a bicyclic quinoline group (nor-lysergic acid). Unlike LSD, PRO-LAD does not contain a methyl group substituted at R<sub>6</sub> of its nor-lysergic acid skeleton, this is represented by the ''nor''- prefix. Instead, PRO-LAD is substituted at R<sub>6</sub> with a propyl group. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound. PRO-LAD is a derivative of LSD, differing by the addition of two carbons to the methyl group at R6 of the structure to form a propyl chain.\n\nPRO-LAD is also homologous to ETH-LAD, which contains an ethyl substitution at R6 instead of a propyl chain. PRO-LAD is a chiral compound with two stereocenters at R5 and R8. It is also sometimes called (+)-D-PRO-LAD, as an absolute configuration of (5R, 8R).\n\n==Pharmacology==\n{{pharmacology}}\n{{Further|Serotonergic psychedelic}}\nPRO-LAD likely acts as a [[Serotonin#The_5-HT_system|5-HT<sub>2A</sub>]] [[Agonist#Agonists|partial agonist]]. The [[psychedelic]] effects are believed to come from PRO-LAD's efficacy at the 5-HT<sub>2A</sub> receptors. However, the role of these interactions and how they result in the psychedelic experience continues to remain an object of scientific elucidation.\n\nAs a derivative of [[LSD]], the pharmacodynamic and pharmacokinetic properties of PRO-LAD are similar to those of LSD. However, they are not exactly the same. The addition of two carbons to the methyl group at R6, and the resulting propyl chain may lead to PRO-LAD being absorbed at a slower rate and therefore a differing initial onset and a peak effect. This could be the reason for the higher threshold and common dosages.<ref name=\":0\" />\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of PRO-LAD can be characterized as prominent in comparison to its accompanying visual and cognitive effects. Like LSD, it can behave as a fast-moving, sharp and location specific or generalized tingling sensation, although this feeling is not necessarily pleasant and often manifests in a neutral way. For some, it is manifested spontaneously at different, unpredictable points throughout the trip, but for most, it maintains a steady presence that rises with the onset and hits its limit once the peak has been reached, which many users have reported as feeling \"artificial\" or \"mechanical.\" \n**'''[[Effect::Physical euphoria]]''' - This component can occur with the development of spontaneous bodily sensations, but is not as consistent as it is with [[LSD]].\n*'''[[Effect::Stimulation]]''' \n*'''[[Effect::Perception of bodily lightness]]''' \n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Stamina enhancement]]''' - This is generally mild in comparison to traditional [[stimulants]].\n*'''[[Effect::Headaches]]''' \n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Difficulty urinating]]''' or '''[[Effect::Frequent urination]]'''\n*'''[[Effect::Temperature regulation suppression]]''' \n**'''[[Effect::Increased bodily temperature]]''' \n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Olfactory hallucination]]''' \n*'''[[Effect::Mouth numbing]]'''\n*'''[[Effect::Excessive yawning]]'''\n*'''[[Effect::Watery eyes]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Vasoconstriction]]'''{{citation needed}}\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Teeth grinding]]''' - This component is considerably less intense when compared with that of substances like [[MDMA]] and happens more readily than with related substances like [[LSD]].\n*'''[[Effect::Seizure]]''' - This is a '''very''' rare effect but can likely happen in those predisposed to them, especially while in physically taxing conditions such as being dehydrated, fatigued or undernourished. However, it should be noted that there are no documented cases of seizures occurring with this compound to date.{{citation needed}}\n\n}}\n\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Brightness alteration]]'''\n*'''[[Effect::Diffraction]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry that is commonly present throughout this trip can be generally described as more similar in appearance to that of [[MET]] or [[2C-E]] than [[psilocin]], [[LSA]] or [[DMT]]. It can be comprehensively described through its [[Visual_effects:_Geometry#Variations|variations]] as primarily intricate in complexity, algorithmic in form, structured in organization, brightly lit, colourful in scheme, synthetic in feel, multicoloured in scheme, flat in shading, sharp in edges, large in size, fast in speed, smooth in motion, angular in its corners, immersive in-depth and consistent in intensity. At higher dosages, it may almost consistently result in states of [[Effect::8A Geometry|Level 8A]] or [[Level 8B]] visual geometry.{{citation needed}}\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of PRO-LAD can be broken down into several components which progressively intensify proportional to dosage. In comparison to other psychedelics such as [[ETH-LAD]] and [[2C-E]], PRO-LAD is often described as significantly more slow-paced and LSD-like in terms of the specific style of thought stream(s) produced and contains a large number of potential effects, which, it should be noted seems to lead to cognitive and general sensory processing overload at moderate to high doses for reasons that are not currently understood.\n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Confusion]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/multisensory|\n*'''[[Effect::Synaesthesia]]''' - In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states.\n\n}}\n\n{{effects/transpersonal|\n{{Preamble/SpiritualEffects}}\n\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Feelings of interdependent opposites]]'''\n*'''[[Effect::Perception of eternalism]]'''\n**'''[[Effect::Feelings of self-design]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n}}\n}}\n===Combination effects===\n\n*'''[[Cannabis]]''' - When used in conjunction with cannabis, both the visual and cognitive effects of PRO-LAD can be intensified and extended with extreme efficiency. This should be used with caution if one is not experienced with psychedelics. Many users sometimes report a dramatically more intense visual trip when combining it with [[THC]] concentrates such as hashish as opposed to cannabis flower. However, this can also amplify the [[anxiety]], [[confusion]] and [[psychosis]] producing aspects of both substances significantly, so extreme caution with this combination is advised.\n*'''[[Dissociatives]]''' - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced. Dissociative-induced [[Visual_disconnection#Holes.2C_spaces_and_voids|holes, spaces, and voids]] while under the influence of PRO-LAD have significantly more vivid visuals than dissociatives alone present, and more intense [[internal hallucinations]] and [[confusion]].\n*'''[[MDMA]]''' - When used in conjunction with MDMA, the physical and cognitive effects of MDMA are amplified. The visual, physical and cognitive effects of PRO-LAD are also intensified with an overwhelming euphoric pleasure manifested through uniquely pleasurable body highs and headspaces, and uniquely colorful and awe-inspiring visuals. It is often recommended to wait at least three to four hours after ingesting PRO-LAD to take MDMA so as to avoid coming down from the latter while peaking on the former, but positive experiences have been reported with all possible timings. The synergy between these substances is unpredictable (and likely neurotoxic){{citation needed}}, and it is best to start with lower dosages than one would take for both substances individually.\n*'''[[Alcohol]]''' - This interaction is not typically recommended due to alcohol’s ability to cause [[dehydration]], [[depression]] and thought disorganization which can negatively affect a trip if taken in high dosages. This combination is however reasonably safe in low doses and when used responsibly, this can often take the edge off a trip as well as dull its psychedelic effects in a fashion somewhat similar to benzodiazepines, albeit more stressful on the body.\n*'''[[Benzodiazepines]]''' - When used in combination with benzodiazepines, benzodiazepines can, depending on the dosage, slightly to completely reduce the intensity of the cognitive, physical and visual effects of a PRO-LAD trip. They are very efficient at stopping [[bad trip]]s at the cost of amnesia and reduced trip intensity. Caution is advised when acquiring them for this purpose due to the very high addiction potential that benzodiazepines possess.\n*'''[[Psychedelics]]''' - When used in combination with other psychedelics, each drug's physical, cognitive and visual effects intensify and synergize strongly. The synergy between those substances is unpredictable, and for this reason generally not advised. If choosing to combine psychedelics, it is recommended to start with lower dosages than one would take for either substance individually.\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational PRO-LAD do not seem to have been studied in any scientific context and the exact [[Toxicity::toxic dose is unknown]]. This is because PRO-LAD is a [[research chemical]] with very little history of human usage. Anecdotal evidence from people within the psychonaut community who have tried PRO-LAD suggests that there are no negative health effects attributed to simply trying the drug by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nWhile no formal studies have been conducted, PRO-LAD is likely [[Addiction potential::not habit-forming]] and it is reasonable to speculate that the desire to use it can actually decrease with repeated administratino. As with most psychedelics, it likely possesses what is considered an intrinsic, self-regulating aspect to it. \n\nTolerance to the effects of PRO-LAD is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::5-7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). PRO-LAD presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of PRO-LAD all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Psychedelics}}\n\n==Legal status==\n\n*'''Austria''': PRO-LAD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD. {{citation needed}}\n*'''Germany''': PRO-LAD is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref name=\":0\">{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Latvia''': PRO-LAD is illegal in Latvia. Although it isn't officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.<ref>{{cite web|url=http://likumi.lv/doc.php?id=121086|title=Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem|publisher=VSIA Latvijas Vēstnesis|access-date=January 1, 2020|publication-date=November 10, 2005|language=lv}}</ref>\n*'''Switzerland''': On December 1, 2015, Switzerland added PRO-LAD to the list of controlled substances. It is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': As of January 7, 2015, PRO-LAD is specifically named in the U.K. Misuse of Drugs Act as a Class A drug.<ref name=\"ACMD2014\">{{cite web|url=https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/318693/UpdateGenericDefinitionTryptamines.pdf|title=Update of the generic definition for tryptamines|date=June 10, 2014|access-date=January 1, 2020|publisher=Government Digital Service|page=12|author=Advisory Council on the Misuse of Drugs (ACMD)}}</ref>\n\n==See also==\n\n*[[Responsible use (Hallucinogens)]]\n*[[Research chemical]]\n*[[Hallucinogens]]\n*[[Psychedelic]]\n*[[Lysergamide]]\n*[[AL-LAD]]\n*[[ETH-LAD]]\n*[[LSD]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/PRO-LAD PRO-LAD (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=tk&id=51 PRO-LAD (TiHKAL / Isomer Design)]\n\n==Literature==\n\n*Hoffman, A. J., & Nichols, D. E. (1985). Synthesis and LSD-like discriminative stimulus properties in a series of N (6)-alkyl norlysergic acid N, N-diethylamide derivatives. Journal of Medicinal Chemistry, 28(9), 1252-1255. https://doi.org/10.1021/jm00147a022.\n*Watts, V. J., Mailman, R. B., Lawler, C. P., Neve, K. A., & Nichols, D. E. (1995). LSD and structural analogs: pharmacological evaluation at D1 dopamine receptors. Psychopharmacology, 118(4), 401-409. https://doi.org/10.1007/BF02245940.\n*Niwaguchi, T., Nakahara, Y., & Ishii, H. (1976). Studies on lysergic acid diethylamide and related compounds. IV. Syntheses of various amide derivatives of norlysergic acid and related compounds. Yakugaku Zasshi: Journal of the Pharmaceutical Society of Japan, 96(5), 673-678. PMID 987200.\n*Pfaff, R. C., Huang, X., Marona-Lewicka, D., Oberlender, R., & Nichols, D. E. (1994). [http://archives.drugabuse.gov/pdf/monographs/146.pdf Lysergamides Revisited.] NIDA Research Monograph, 146, 52-73. PMID: 8742794.\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:Lysergamide]]\n[[Category:Research chemical]]"
+}

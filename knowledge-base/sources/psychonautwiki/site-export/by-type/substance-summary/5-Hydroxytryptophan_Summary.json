@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:16048",
+ "type": "substance-summary",
+ "title": "5-Hydroxytryptophan/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-Hydroxytryptophan/Summary",
+  "pageid": 16048,
+  "last_edited": "2017-11-26T06:15:26Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-Hydroxytryptophan",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-Hydroxytryptophan}}"
+}

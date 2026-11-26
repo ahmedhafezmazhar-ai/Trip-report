@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10895",
+ "type": "substance-summary",
+ "title": "5F-AKB48/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5F-AKB48/Summary",
+  "pageid": 10895,
+  "last_edited": "2016-08-24T02:11:07Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5F-AKB48",
+ "plain_text": "",
+ "wikitext": "{{Summary|5F-AKB48}}"
+}

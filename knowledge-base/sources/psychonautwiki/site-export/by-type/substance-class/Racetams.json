@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:11970",
+ "type": "substance-class",
+ "title": "Racetams",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Racetams",
+  "pageid": 11970,
+  "last_edited": "2024-07-12T13:47:23Z"
+ },
+ "categories": [
+  "Chemical class",
+  "Racetam",
+  "Stub"
+ ],
+ "plain_text": "thumbnail|Chemical structure of [[piracetam - the archetypal racetam.]]\nRacetams are a class of compounds that share a pyrrolidone nucleus. Many, including piracetam, are considered to be nootropics. Some such as oxiracetam and phenylpiracetam are also stimulants. Others such as levetiracetam and seletracetam are anticonvulsants.\n\nGenerally, racetams upregulate and preserve adequate levels of acetylcholine as a primary mechanism, suggesting they can aid recovery from deliriant intoxication and other typically cognitively impaired states.\n\nExamples\n\n* Aniracetam\n* Brivaracetam\n* Coluracetam\n* Etiracetam\n* Fasoracetam\n* Levetiracetam\n* Methylphenylpiracetam\n* Nefiracetam\n* Oxiracetam\n* Phenylpiracetam\n* Phenylpiracetam hydrazide\n* Piracetam\n* Pramiracetam\n* Seletracetam\n\nAnalogues\n\nSome drugs do not possess the pyrrolidone nucleus that defines a \"racetam\", but remains related to this family by virtue of structual similarity.\n* Omberacetam (Noopept) has a proline ring in place of the pyrrolidone ring. Its WHO-INN name ends with \"racetam\".\n* Unifiram and Sunifiram were identified by a series of modification on piracetam, starting by adding a second ring. Sunifiram shares no rings with piracetam and ended up closer in structure to ampakines.\n\nExternal links\n\n* Racetam (Wikipedia)\n\nReferences\n\nCategory:Chemical class\n*",
+ "wikitext": "{{stub}}\n[[File:Piracetam.svg|thumbnail|Chemical structure of [[piracetam]] - the archetypal racetam.]]\n'''Racetams''' are a class of compounds that share a pyrrolidone nucleus.<ref>{{cite journal | vauthors=((Löscher, W.)), ((Richter, A.)) | journal=European Journal of Pharmacology | title=Piracetam and levetiracetam, two pyrrolidone derivatives, exert antidystonic activity in a hamster model of paroxysmal dystonia | volume=391 | issue=3 | pages=251–254 | date=17 March 2000 | issn=0014-2999 | doi=10.1016/s0014-2999(00)00105-9}}</ref> Many, including [[piracetam]], are considered to be [[nootropics]]. Some such as [[oxiracetam]] and [[phenylpiracetam]] are also [[stimulant]]s. Others such as levetiracetam and seletracetam are [[Seizure suppression|anticonvulsants]].\n\nGenerally, racetams upregulate and preserve adequate levels of [[acetylcholine]] as a primary mechanism, suggesting they can aid recovery from [[deliriant]] intoxication and other typically cognitively impaired states.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref>\n\n==Examples==\n* [[Aniracetam]]\n* [[Brivaracetam]]\n* [[Coluracetam]]\n* [[Etiracetam]]\n* [[Fasoracetam]]\n* [[Levetiracetam]]\n* [[Methylphenylpiracetam]]\n* [[Nefiracetam]]\n* [[Oxiracetam]]\n* [[Phenylpiracetam]]\n* [[Phenylpiracetam hydrazide]]\n* [[Piracetam]]\n* [[Pramiracetam]]\n* [[Seletracetam]]\n\n== Analogues ==\nSome drugs do not possess the pyrrolidone nucleus that defines a \"racetam\", but remains related to this family by virtue of structual similarity.\n* [[Omberacetam]] (Noopept) has a proline ring in place of the pyrrolidone ring. Its WHO-INN name ends with \"racetam\".\n* [[Unifiram]] and [[Sunifiram]] were identified by a series of modification on [[piracetam]], starting by adding a second ring. Sunifiram shares no rings with [[piracetam]] and ended up closer in structure to [[ampakines]].<ref>See https://www.tandfonline.com/doi/full/10.3109/14756366.2015.1021252, figure 1.</ref>\n\n==External links==\n* [[wikipedia:Racetam|Racetam (Wikipedia)]]\n\n==References==\n{{reflist}}\n\n[[Category:Chemical class]]\n[[Category:Racetam|*]]"
+}

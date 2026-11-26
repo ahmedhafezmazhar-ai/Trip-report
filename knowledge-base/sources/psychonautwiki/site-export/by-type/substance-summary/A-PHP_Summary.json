@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13361",
+ "type": "substance-summary",
+ "title": "A-PHP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/A-PHP/Summary",
+  "pageid": 13361,
+  "last_edited": "2016-11-27T21:12:01Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "A-PHP",
+ "plain_text": "",
+ "wikitext": "{{Summary|A-PHP}}"
+}

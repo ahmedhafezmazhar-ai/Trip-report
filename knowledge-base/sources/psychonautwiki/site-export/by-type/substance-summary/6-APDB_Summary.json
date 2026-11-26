@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13232",
+ "type": "substance-summary",
+ "title": "6-APDB/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/6-APDB/Summary",
+  "pageid": 13232,
+  "last_edited": "2016-11-12T00:19:14Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "6-APDB",
+ "plain_text": "",
+ "wikitext": "{{Summary|6-APDB}}"
+}

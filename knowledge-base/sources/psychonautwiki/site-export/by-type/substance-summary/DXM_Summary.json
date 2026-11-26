@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14542",
+ "type": "substance-summary",
+ "title": "DXM/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/DXM/Summary",
+  "pageid": 14542,
+  "last_edited": "2017-05-29T05:39:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "DXM",
+ "plain_text": "",
+ "wikitext": "{{Summary|DXM}}"
+}

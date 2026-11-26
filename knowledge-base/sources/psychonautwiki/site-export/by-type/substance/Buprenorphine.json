@@ -1,0 +1,467 @@
+{
+ "id": "psychonautwiki:12480",
+ "type": "substance",
+ "title": "Buprenorphine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Buprenorphine",
+  "pageid": 12480,
+  "last_edited": "2025-01-30T23:45:25Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 German-language sources (de)",
+  "Morphinan",
+  "Opioid",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Buprenorphine",
+ "substance_box": {
+  "names": {
+   "common": "Buprenex, Subutex, Butrans, Cizdol, Addnok, Transtec",
+   "substitutive": "",
+   "systematic": "(2S)-2-[(5R,6R,7R,14S)-9α-cyclopropylmethyl-4,5-epoxy-6,14-ethano-3-hydroxy-6-methoxymorphinan-7-yl]-3,3-dimethylbutan-2-ol"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "48%",
+    "threshold": "< 0.2 mg",
+    "light": "0.2 - 0.4 mg",
+    "common": "0.4 - 0.8 mg",
+    "strong": "0.8 - 1.5 mg",
+    "heavy": "1.5 mg +",
+    "duration": "8 - 14 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "4 - 8 hours",
+    "offset": "",
+    "aftereffects": "1 - 3 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "30%",
+    "threshold": "<=0.3 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 4 mg",
+    "strong": "4 - 8 mg",
+    "heavy": "8mg +",
+    "duration": "18 - 24 hours",
+    "onset": "40 - 80 minutes",
+    "peak": "1.5 - 2 hours",
+    "aftereffects": "1 - 3 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Buprenex",
+    "Subutex",
+    "Butrans",
+    "Cizdol",
+    "Addnok",
+    "Transtec"
+   ],
+   "psychoactive class": [
+    "Opioid"
+   ],
+   "chemical class": [
+    "Morphinan"
+   ],
+   "Insufflated threshold dose": [
+    "0.2"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "0.2"
+   ],
+   "Insufflated max light dose": [
+    "0.4"
+   ],
+   "Insufflated min common dose": [
+    "0.4"
+   ],
+   "Insufflated max common dose": [
+    "0.8"
+   ],
+   "Insufflated min strong dose": [
+    "0.8"
+   ],
+   "Insufflated max strong dose": [
+    "1.5"
+   ],
+   "Insufflated heavy dose": [
+    "1.5"
+   ],
+   "Insufflated min total time": [
+    "8"
+   ],
+   "Insufflated max total time": [
+    "14"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "30"
+   ],
+   "Insufflated max onset time": [
+    "60"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "4"
+   ],
+   "Insufflated max peak time": [
+    "8"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "3"
+   ],
+   "Insufflated afterglow time units": [
+    "days"
+   ],
+   "Sublingual threshold dose": [
+    "0.3"
+   ],
+   "Sublingual dose units": [
+    "mg"
+   ],
+   "Sublingual min light dose": [
+    "1"
+   ],
+   "Sublingual max light dose": [
+    "2"
+   ],
+   "Sublingual min common dose": [
+    "2"
+   ],
+   "Sublingual max common dose": [
+    "4"
+   ],
+   "Sublingual min strong dose": [
+    "4"
+   ],
+   "Sublingual max strong dose": [
+    "8"
+   ],
+   "Sublingual heavy dose": [
+    "8"
+   ],
+   "Sublingual min total time": [
+    "18"
+   ],
+   "Sublingual max total time": [
+    "24"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "40"
+   ],
+   "Sublingual max onset time": [
+    "80"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "1.5"
+   ],
+   "Sublingual max peak time": [
+    "2"
+   ],
+   "Sublingual peak time units": [
+    "hours"
+   ],
+   "Sublingual min afterglow time": [
+    "1"
+   ],
+   "Sublingual max afterglow time": [
+    "3"
+   ],
+   "Sublingual afterglow time units": [
+    "days"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of buprenorphine",
+   "clean": "Molecular structure of buprenorphine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Buprenorphine.svg",
+   "clean": "File:Buprenorphine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Buprenex]], [[common name::Subutex]], [[common name::Butrans]], [[common name::Cizdol]], [[common name::Addnok]], [[common name::Transtec]]",
+   "clean": "Buprenex, Subutex, Butrans, Cizdol, Addnok, Transtec"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(2S)-2-[(5R,6R,7R,14S)-9α-cyclopropylmethyl-4,5-epoxy-6,14-ethano-3-hydroxy-6-methoxymorphinan-7-yl]-3,3-dimethylbutan-2-ol",
+   "clean": "(2S)-2-[(5R,6R,7R,14S)-9α-cyclopropylmethyl-4,5-epoxy-6,14-ethano-3-hydroxy-6-methoxymorphinan-7-yl]-3,3-dimethylbutan-2-ol"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "48%<ref name=\"Eriksen1989\">{{cite journal | vauthors=((Eriksen, J.)), ((Jensen, N. H.)), ((Kamp-Jensen, M.)), ((Bjarnø, H.)), ((Friis, P.)), ((Brewster, D.)) | journal=The Journal of Pharmacy and Pharmacology | title=The systemic availability of buprenorphine administered by nasal spray | volume=41 | issue=11 | pages=803–805 | date= November 1989 | issn=0022-3573 | doi=10.1111/j.2042-7158.1989.tb06374.x}}</ref>",
+   "clean": "48%"
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< [[Insufflated threshold dose::0.2]] [[Insufflated dose units::mg]]",
+   "clean": "< 0.2 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::0.2]] - [[Insufflated max light dose::0.4]] mg",
+   "clean": "0.2 - 0.4 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::0.4]] - [[Insufflated max common dose::0.8]] mg",
+   "clean": "0.4 - 0.8 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::0.8]] - [[Insufflated max strong dose::1.5]] mg",
+   "clean": "0.8 - 1.5 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::1.5]] mg +",
+   "clean": "1.5 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::8]] - [[Insufflated max total time::14]] [[Insufflated total time units::hours]]",
+   "clean": "8 - 14 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::30]] - [[Insufflated max onset time::60]] [[Insufflated onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::4]] - [[Insufflated max peak time::8]] [[Insufflated peak time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::3]] [[Insufflated afterglow time units::days]]",
+   "clean": "1 - 3 days"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "30%<ref name=\"Mendelson1997\">{{cite journal | vauthors=((Mendelson, J.)), ((Upton, R. A.)), ((Everhart, E. T.)), ((Jacob, P.)), ((Jones, R. T.)) | journal=Journal of Clinical Pharmacology | title=Bioavailability of sublingual buprenorphine | volume=37 | issue=1 | pages=31–37 | date= January 1997 | issn=0091-2700 | doi=10.1177/009127009703700106}}</ref>",
+   "clean": "30%"
+  },
+  "SublingualROA_Threshold": {
+   "raw": "<=[[Sublingual threshold dose::0.3]] [[Sublingual dose units::mg]]",
+   "clean": "<=0.3 mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::1]] - [[Sublingual max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::2]] - [[Sublingual max common dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::4]] - [[Sublingual max strong dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "[[Sublingual heavy dose::8]]mg +",
+   "clean": "8mg +"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::18]] - [[Sublingual max total time::24]] [[Sublingual total time units::hours]]",
+   "clean": "18 - 24 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::40]] - [[Sublingual max onset time::80]] [[Sublingual onset time units::minutes]]",
+   "clean": "40 - 80 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::1.5]] - [[Sublingual max peak time::2]] [[Sublingual peak time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::1]] - [[Sublingual max afterglow time::3]] [[Sublingual afterglow time units::days]]",
+   "clean": "1 - 3 days"
+  }
+ },
+ "plain_text": "Buprenorphine is a semisynthetic opioid of the morphinan chemical class. It functions as a mixed partial agonist opioid receptor modulator. \n\nAt higher dosages, it is used to treat opioid addiction in opioid-dependent individuals. In lower dosages it is used to control moderate-acute pain in non-opioid-tolerant individuals and in even lower dosages it is used to control moderate chronic pain.\n\nBuprenorphine was patented in 1965, and approved for medical use in the United States in 1981. In 2017, 14.6 million prescriptions for the medication were written in the United States. It is also a common medication used to treat opioid use disorders, such as addiction to heroin. Buprenorphine may also be used recreationally by injection or intranasally for the high it produces.\n\nChemistry\n\nBuprenorphine is a semi-synthetic morphinan derivative of the opioid alkaloid thebaine. Like many opioids, such as codeine or hydrocodone, it is has a morphinan backbone.\n\nBuprenorphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R9 and R13. Buprenophine (along with other morphinans) contains an ether bridge between two of its rings, connecting the benzene and opposite cyclohexane ring through an oxygen group. \n\nBuprenorphine is unique to human medical opioids as it contains an addition fused ring which connects to the lower cyclohexane ring at R6 and R14. This structure is called a endoethenotetrahydrooripavine backbone, often found in veterinarian opioids. It contains a hydroxy group (OH-) substituted on the benzene ring and a methoxy group bound to the lower cyclohexane ring. The backbone of buprenorphine is also substituted with a methyl cyclopropyl moeity on its amino group. Adjacent to its methoxy attachment, the cyclohexane ring is bonded to R2 of a 2-butanol chain.\n\nPharmacology\n\nBuprenorphine acts as a partial agonist of the  μ-opioid receptor with a binding affinity of Ki = 1.5 nM in contrast to full agonists like morphine. It also acts as an antagonist of the κ-opioid receptor with a binding affinity of Ki = 2.5 nM and the δ-opioid receptor with a binding affinity of Ki = 6.1 nM. The ratio of these binding affinities is important, if you compare morphine's binding ratio of 1:50:176 to Buprenorphine's ratio of 15:25:61, it is apparent that the side-effect profile will be much higher to Buprenorphine and  μ-opioid stimulation for euphoric effects, sequentially the drug will also bind to delta and kappa opioid receptors to a comparatively high degree. \n\nBuprenorphine exerts its effects by binding to and activating the μ-opioid receptor. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their euphoria, pain relief and anxiolytic effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Buprenorphine\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Buprenorphine was found to be the 19th overall most dangerous drug.\nthumb|upright=1.3|A 2007 assessment of harm from recreational drug use (mean physical harm and mean dependence liability): Buprenorphine was ranked 9th in dependence, 8th in physical harm, and 11th in social harm.\n\nBuprenorphine has a low toxicity relative to dose: the ceiling dose for buprenorphine is usually between 16mg and 32mg, and anything above this will not produce an increase in respiratory depression (the primary cause of death in opioid overdose is severe respiratory depression, leading to respiratory collapse).  Thus increasing the dose of buprenorphine above this level will not continue to increase risk of death in a fashion similar to other μ-opioid receptor agonists.  As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. \n\nRegardless of the ceiling dose, an important distinction has to be made in the dose used in opioid naive individuals and opioid experienced individuals. Even low doses in individuals with no tolerance can cause unpleasant side-effects like dizziness, loss of balance, and vomiting. Because of the long half-life of buprenorphine, these side-effects can last a long while in opioid naive individuals which creates the risk of severe dehydration from uncontrollable vomiting.  \n\nBuprenorphine is often sold under the brand name Suboxone, which also contains naloxone. Naloxone is not orally active except at higher doses, so when large amounts of Suboxone are taken, the naloxone takes effect and reverses the effects of the buprenorphine. This is done to deter abuse of Suboxone.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other opioids, the chronic use of buprenorphine can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of buprenorphine develops with prolonged and repeated use. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Buprenorphine presents cross-tolerance with all other opioids, meaning that after the consumption of buprenorphine all opioids will have a reduced effect.\n\nPrecipitated withdrawal syndrome\n\nBuprenorphine has the ability to precipitate withdrawal symptoms in opiate-dependent individuals. This is due to buprenorphine only being a partial agonist, which does not activate the receptor with the appreciable efficacy of a full agonist, as well as having a very high binding affinity for the μ-opioid receptor (Ki = 1.5nM), displacing other agonists that may still be attached when the buprenorphine is ingested.\n\nNote: It is a common misconception that naloxone, in some buprenorphine formulations, is what causes the precipitated withdrawal syndrome to manifest. This is false, as naloxone has a lower binding than Buprenorphine, as well as being inactive through most routes of administration.\n\nDangerous interactions\n\nLegal status\n\nIn the European Union, buprenorphine can be prescribed either alone or in combination with another substance and is approved for the treatment of opioid addiction.\n\n*Austria: Buprenorphine is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Buprenorphine is a schedule I substance in Canada and is only available with a valid prescription. \n*Germany: Buprenorphine is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of September 1, 1984. It can only be prescribed on a narcotic prescription form.\n*Netherlands: Buprenorphine a List II drug of the Opium Law, although special rules apply to its prescription and dispensation.\n*Russia: Buprenorphine is a Schedule II controlled substance.\n*Sweden: Buprenorphine is a class IV controlled substance.\n*Switzerland: Buprenorphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*United States: Buprenorphine, either alone or in combination with naloxone (as, for example, Suboxone), is a Schedule III drug.\n**Prior to the approval of Suboxone in the U.S. for treating opioid addiction, the Drug Addiction Treatment Act of 2000 was passed.  This law gives the Secretary of Health and Human Services the authority to grant a waiver to all physicians with appropriate training to prescribe and administer narcotics from Schedules III-V in the treatment of drug addiction.  Prior to the passage of this law such authority was restricted solely to physicians working in an outpatient clinic specifically designed for treatment of addiction.  The waiver, which requires the physician to undergo an 8-hour training course, initially allowed that physician to treat only 10 patients in this manner; as of 2016, this limit has been increased to 275.\n\nSee also\n\n*Responsible use\n*Depressants\n*Oxycodone\n*Kratom\n\nExternal links\n\n*Buprenorphine (Wikipedia)\n*Buprenorphine (Erowid Vault)\n*Buprenorphine (Isomer Design)\n*Buprenorphine (DrugBank)\n*Buprenorphine (Drugs.com)\n*Buprenorphine (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Morphinan\nCategory:Benzofuran\nCategory:Opioid",
+ "wikitext": "{{headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Buprenorphine|intravenious=bioavailabilty 100%}}\n\n'''Buprenorphine''' is a semisynthetic [[psychoactive class::opioid]] of the [[chemical class::morphinan]] chemical class. It functions as a mixed partial [[agonist]] opioid [[receptor]] modulator. \n\nAt higher dosages, it is used to treat opioid addiction in opioid-dependent individuals. In lower dosages it is used to control moderate-acute pain in non-opioid-tolerant individuals and in even lower dosages it is used to control moderate chronic pain.\n\nBuprenorphine was patented in 1965, and approved for medical use in the United States in 1981.<ref>{{cite book | vauthors=((Fischer, J.)), ((Ganellin, C. R.)) | date= 2006 | title=Analogue-based drug discovery | publisher=Wiley-VCH | url=http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=481323 | isbn=9783527607495}}</ref> In 2017, 14.6 million prescriptions for the medication were written in the United States.<ref name=\":0\">{{Citation | title=Buprenorphine | publisher=Substance Abuse and Mental Health Services Administration | url=https://www.samhsa.gov/medication-assisted-treatment/medications-counseling-related-conditions/buprenorphine |access-date=July 29, 2019}}</ref> It is also a common medication used to treat opioid use disorders, such as addiction to heroin.<ref name=\":0\" /> Buprenorphine may also be used recreationally by injection or intranasally for the high it produces.<ref name=\":0\" />\n\n==Chemistry==\nBuprenorphine is a semi-synthetic morphinan derivative of the opioid alkaloid thebaine. Like many [[opioid |opioids]], such as [[codeine]] or [[hydrocodone]], it is has a [[morphinan]] backbone.\n\nBuprenorphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub>. Buprenophine (along with other morphinans) contains an ether bridge between two of its rings, connecting the benzene and opposite cyclohexane ring through an oxygen group. \n\nBuprenorphine is unique to human medical opioids as it contains an addition fused ring which connects to the lower cyclohexane ring at R<sub>6</sub> and R<sub>14</sub>. This structure is called a endoethenotetrahydrooripavine backbone, often found in veterinarian opioids. It contains a hydroxy group (OH-) substituted on the benzene ring and a methoxy group bound to the lower cyclohexane ring. The backbone of buprenorphine is also substituted with a methyl cyclopropyl moeity on its amino group. Adjacent to its methoxy attachment, the cyclohexane ring is bonded to R<sub>2</sub> of a 2-butanol chain.\n\n==Pharmacology==\n{{pharmacology}}\nBuprenorphine acts as a partial agonist of the  μ-opioid receptor with a binding affinity of K<sub>i</sub> = 1.5 nM in contrast to full agonists like morphine. It also acts as an antagonist of the κ-opioid receptor with a binding affinity of K<sub>i</sub> = 2.5 nM and the δ-opioid receptor with a binding affinity of K<sub>i</sub> = 6.1 nM. The ratio of these binding affinities is important, if you compare morphine's binding ratio of 1:50:176 to Buprenorphine's ratio of 15:25:61, it is apparent that the side-effect profile will be much higher to Buprenorphine and  μ-opioid stimulation for euphoric effects, sequentially the drug will also bind to delta and kappa opioid receptors to a comparatively high degree. \n\nBuprenorphine exerts its effects by binding to and activating the [[Opioid#Receptor_types|μ-opioid]] [[receptor]]. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their [[physical euphoria|euphoria]], [[pain relief]] and [[anxiolytic]] effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Physical euphoria]]''' - This particular substance can be considered as less intense in its physical euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) due to it being a partial agonist of the μ-opioid receptor. The sensation itself can be described as extreme feelings of intense physical comfort, warmth and bliss which spreads throughout the body.\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Respiratory depression]]''' - Buprenorphine causes less respiratory depression than other opioids due to it being a partial agonist of the μ-opioid receptor.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Sedation]]''' \n*'''[[Effect::Decreased heart rate]]'''\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Nausea]]''' - Buprenorphine causes substantially more nausea and vomiting than other opioids.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n\n}}\n|{{effects/cognitive|\nThe general head space of buprenorphine is described by many as one of euphoria, relaxation, anxiety suppression and pain relief. \n*'''[[Effect::Cognitive euphoria]]''' - This particular substance can be considered as less intense in its cognitive euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) due to it being a partial agonist of the μ-opioid receptor. It is still, however, capable of extreme intensity and overwhelming bliss at heavier dosages with a low tolerance. The sensation itself can be described as powerful and overwhelming feeling of emotional bliss, contentment,  and happiness.\n*'''[[Effect::Anxiety suppression]]'''\n\n}}\n\n{{effects/visual|\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and [[hypnagogia]] during heavy dosage nodding which results in dream-like states and up to level 3 [[Lucid_dreaming#Internally_sourced_sensory_input|imagery]]. This is often accompanied by ill-defined [[geometry]].\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Pharms_Buprenorphine.shtml Erowid Experience Vaults: Buprenorphine]\n\n==Toxicity and harm potential==\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Buprenorphine was found to be the 19th overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n[[File:Rational scale to assess the harm of drugs (mean physical harm and mean dependence).svg|thumb|upright=1.3|A 2007 assessment of harm from recreational drug use (mean physical harm and mean dependence liability): Buprenorphine was ranked 9th in dependence, 8th in physical harm, and 11th in social harm.<ref>{{cite journal | vauthors = Nutt D, King LA, Saulsbury W, Blakemore C | title = Development of a rational scale to assess the harm of drugs of potential misuse | journal = Lancet | volume = 369 | issue = 9566 | pages = 1047–1053 | date = March 2007 | pmid = 17382831 | doi = 10.1016/S0140-6736(07)60464-4 | s2cid = 5903121 }}</ref>]]\n\nBuprenorphine has a [[Toxicity::low toxicity]] relative to dose: the ceiling dose for buprenorphine is usually between 16mg and 32mg, and anything above this will not produce an increase in respiratory depression (the primary cause of death in opioid overdose is severe respiratory depression, leading to respiratory collapse).  Thus increasing the dose of buprenorphine above this level will not continue to increase risk of death in a fashion similar to other μ-opioid receptor agonists.  As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. \n\nRegardless of the ceiling dose, an important distinction has to be made in the dose used in opioid naive individuals and opioid experienced individuals. Even low doses in individuals with no tolerance can cause unpleasant side-effects like dizziness, loss of balance, and vomiting. Because of the long half-life of buprenorphine, these side-effects can last a long while in opioid naive individuals which creates the risk of severe dehydration from uncontrollable vomiting.  \n\nBuprenorphine is often sold under the brand name '''Suboxone''', which also contains [[naloxone]]. Naloxone is not orally active except at higher doses, so when large amounts of Suboxone are taken, the naloxone takes effect and reverses the effects of the buprenorphine. This is done to deter abuse of Suboxone.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other [[opioids]], the chronic use of buprenorphine can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of buprenorphine [[Time to full tolerance::develops with prolonged and repeated use]]. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Buprenorphine presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of buprenorphine all [[opioid]]s will have a reduced effect.\n===Precipitated withdrawal syndrome===\nBuprenorphine has the ability to precipitate withdrawal symptoms in opiate-dependent individuals. This is due to buprenorphine only being a partial agonist, which does not activate the receptor with the appreciable efficacy of a full [[agonist]], as well as having a very high binding affinity for the [[Opioid#Receptor_types|μ-opioid]] [[receptor]] (K<sub>i</sub> = 1.5nM), displacing other agonists that may still be attached when the buprenorphine is ingested.\n\n'''Note''': It is a common misconception that [[naloxone]], in some buprenorphine formulations, is what causes the precipitated withdrawal syndrome to manifest. This is false, as naloxone has a lower binding than Buprenorphine, as well as being inactive through most [[routes of administration]].\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Opioids}}\n\n==Legal status==\n{{LegalStub}}\nIn the European Union, buprenorphine can be prescribed either alone or in combination with another substance and is approved for the treatment of opioid addiction.<ref>{{Citation | vauthors=EMA | year=2018 | title=Suboxone | url=https://www.ema.europa.eu/en/medicines/human/EPAR/suboxone}}</ref>\n\n*'''Austria''': Buprenorphine is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada''': Buprenorphine is a schedule I substance in Canada and is only available with a valid prescription. <ref>{{Citation | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-12.html}}</ref>\n*'''Germany''': Buprenorphine is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> as of September 1, 1984.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl184s1081.pdf|title=Erste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 1984 Teil I Nr. 36|publication-date=August 8, 1984|access-date=December 18, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form.\n*'''Netherlands''': Buprenorphine a List II drug of the Opium Law, although special rules apply to its prescription and dispensation.{{citation needed}}\n*'''Russia''': Buprenorphine is a Schedule II controlled substance.<ref>{{Citation | title= Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=160&date=02.12.2019}}</ref>\n*'''Sweden''': Buprenorphine is a class IV controlled substance.<ref>Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika, konsoliderad version t.o.m. LVFS 2010:1</ref>\n*'''Switzerland''': Buprenorphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States''': Buprenorphine, either alone or in combination with naloxone (as, for example, Suboxone), is a Schedule III drug.{{citation needed}}\n**Prior to the approval of Suboxone in the U.S. for treating opioid addiction, the Drug Addiction Treatment Act of 2000 was passed.  This law gives the Secretary of Health and Human Services the authority to grant a waiver to all physicians with appropriate training to prescribe and administer narcotics from Schedules III-V in the treatment of drug addiction.  Prior to the passage of this law such authority was restricted solely to physicians working in an outpatient clinic specifically designed for treatment of addiction.  The waiver, which requires the physician to undergo an 8-hour training course, initially allowed that physician to treat only 10 patients in this manner; as of 2016, this limit has been increased to 275.<ref>{{Citation | vauthors=((Jacobs, H.)) | title=The Obama administration made a change that could have a huge effect on the opioid epidemic | url=https://www.businessinsider.com/obama-buprenorphine-suboxone-policy-2016-7}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Oxycodone]]\n*[[Kratom]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Buprenorphine Buprenorphine (Wikipedia)]\n*[https://erowid.org/pharms/buprenorphine/buprenorphine.shtml Buprenorphine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9918 Buprenorphine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00921 Buprenorphine (DrugBank)]\n*[https://www.drugs.com/buprenorphine.html Buprenorphine (Drugs.com)]\n*[https://drugs-forum.com/wiki/Buprenorphine Buprenorphine (Drugs-Forum)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Morphinan]]\n[[Category:Benzofuran]]\n[[Category:Opioid]]\n\n{{#set:Featured=true}}"
+}

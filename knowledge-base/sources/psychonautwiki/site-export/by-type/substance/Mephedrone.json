@@ -1,0 +1,693 @@
+{
+ "id": "psychonautwiki:4600",
+ "type": "substance",
+ "title": "Mephedrone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Mephedrone",
+  "pageid": 4600,
+  "last_edited": "2026-10-14T02:35:02Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 Croatian-language sources (hr)",
+  "CS1 English-language sources (en)",
+  "CS1 Estonian-language sources (et)",
+  "CS1 Finnish-language sources (fi)",
+  "CS1 German-language sources (de)",
+  "CS1 Hungarian-language sources (hu)",
+  "CS1 Italian-language sources (it)",
+  "CS1 Lithuanian-language sources (lt)",
+  "CS1 Spanish-language sources (es)",
+  "CS1 Swedish-language sources (sv)",
+  "Cathinone",
+  "Entactogen",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Mephedrone",
+ "substance_box": {
+  "names": {
+   "common": "Mephedrone, 4-MMC, Drone, M-CAT, Meow Meow",
+   "substitutive": "4-Methylmethcathinone",
+   "systematic": "(RS)-2-Methylamino-1-(4-methylphenyl)propan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Substituted cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 200 mg",
+    "strong": "200 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "15 - 45 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "45 - 90 minutes",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "25 - 40 mg",
+    "common": "50 - 75 mg",
+    "strong": "75 - 100 mg",
+    "heavy": "100 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "1 - 5 seconds",
+    "comeup": "30 - 60 seconds",
+    "peak": "1.5 - 2 hours",
+    "offset": "30 - 45 minutes",
+    "aftereffects": "1 - 2 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "15 - 45 mg",
+    "common": "45 - 80 mg",
+    "strong": "80 - 125 mg",
+    "heavy": "125 mg +",
+    "duration": "1.5 - 3 hours",
+    "onset": "3 - 8 minutes",
+    "comeup": "10 - 30 minutes",
+    "peak": "45 - 60 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Mephedrone",
+    "4-MMC",
+    "Drone",
+    "M-CAT",
+    "Meow Meow"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted cathinone"
+   ],
+   "Oral threshold dose": [
+    "15"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "200"
+   ],
+   "Oral min strong dose": [
+    "200"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "30"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "45"
+   ],
+   "Oral max offset time": [
+    "90"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "4"
+   ],
+   "Oral afterglow time units": [
+    "hours",
+    "hours"
+   ],
+   "Intravenous threshold dose": [
+    "15"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "25"
+   ],
+   "Intravenous max light dose": [
+    "40"
+   ],
+   "Intravenous min common dose": [
+    "50"
+   ],
+   "Intravenous max common dose": [
+    "75"
+   ],
+   "Intravenous min strong dose": [
+    "75"
+   ],
+   "Intravenous max strong dose": [
+    "100"
+   ],
+   "Intravenous heavy dose": [
+    "100"
+   ],
+   "Intravenous min total time": [
+    "1"
+   ],
+   "Intravenous max total time": [
+    "2"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "1"
+   ],
+   "Intravenous max onset time": [
+    "5"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "30"
+   ],
+   "Intravenous max comeup time": [
+    "60"
+   ],
+   "Intravenous comeup time units": [
+    "seconds"
+   ],
+   "Intravenous min peak time": [
+    "1.5"
+   ],
+   "Intravenous max peak time": [
+    "2"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "30"
+   ],
+   "Intravenous max offset time": [
+    "45"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ],
+   "Intravenous min afterglow time": [
+    "1"
+   ],
+   "Intravenous max afterglow time": [
+    "2"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "15"
+   ],
+   "Insufflated max light dose": [
+    "45"
+   ],
+   "Insufflated min common dose": [
+    "45"
+   ],
+   "Insufflated max common dose": [
+    "80"
+   ],
+   "Insufflated min strong dose": [
+    "80"
+   ],
+   "Insufflated max strong dose": [
+    "125"
+   ],
+   "Insufflated heavy dose": [
+    "125"
+   ],
+   "Insufflated min total time": [
+    "1.5"
+   ],
+   "Insufflated max total time": [
+    "3"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "8"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "45"
+   ],
+   "Insufflated max peak time": [
+    "60"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Mephedrone",
+   "clean": "Molecular structure of Mephedrone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Mephedrone.svg",
+   "clean": "File:Mephedrone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Mephedrone]], [[common name::4-MMC]], [[common name::Drone]], [[common name::M-CAT]], [[common name::Meow Meow]]",
+   "clean": "Mephedrone, 4-MMC, Drone, M-CAT, Meow Meow"
+  },
+  "NameSubstitution": {
+   "raw": "4-Methylmethcathinone",
+   "clean": "4-Methylmethcathinone"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-2-Methylamino-1-(4-methylphenyl)propan-1-one",
+   "clean": "(RS)-2-Methylamino-1-(4-methylphenyl)propan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted cathinone|Cathinone]]",
+   "clean": "Substituted cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/mephedrone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::15]] [[Oral dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::200]] - [[Oral max strong dose::300]] mg",
+   "clean": "200 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::30]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::45]] - [[Oral max offset time::90]] [[Oral offset time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::4]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::15]] [[Intravenous dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::25]] - [[Intravenous max light dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::50]] - [[Intravenous max common dose::75]] mg",
+   "clean": "50 - 75 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::75]] - [[Intravenous max strong dose::100]] mg",
+   "clean": "75 - 100 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::100]] mg +",
+   "clean": "100 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::1]] - [[Intravenous max total time::2]] [[Intravenous total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::1]] - [[Intravenous max onset time::5]] [[Intravenous onset time units::seconds]]",
+   "clean": "1 - 5 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::30]] - [[Intravenous max comeup time::60]] [[Intravenous comeup time units::seconds]]",
+   "clean": "30 - 60 seconds"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::1.5]] - [[Intravenous max peak time::2]] [[Intravenous peak time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::30]] - [[Intravenous max offset time::45]] [[Intravenous offset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "[[Intravenous min afterglow time::1]] - [[Intravenous max afterglow time::2]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/mephedrone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::15]] - [[Insufflated max light dose::45]] mg",
+   "clean": "15 - 45 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::45]] - [[Insufflated max common dose::80]] mg",
+   "clean": "45 - 80 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::80]] - [[Insufflated max strong dose::125]] mg",
+   "clean": "80 - 125 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::125]] mg +",
+   "clean": "125 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1.5]] - [[Insufflated max total time::3]] [[Insufflated total time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::8]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 8 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::30]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::45]] - [[Insufflated max peak time::60]] [[Insufflated peak time units::minutes]]",
+   "clean": "45 - 60 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  }
+ },
+ "plain_text": "4-Methylmethcathinone (also known as 4-MMC, M-CAT (properly referring to methcathinone), drone, meow meow, and mephedrone) is a novel entactogen-stimulant substance of the cathinone class. Mephedrone belongs to a group known as the substituted cathinones, which are derivatives of the active ingredient in the khat plant (Catha edulluis). It is thought to produce its effects by promoting the release of the neurotransmitters serotonin, dopamine, and norepinephrine in the brain.\n\nMephedrone was first synthesized in 1929, but did not become widely known until it was rediscovered in 2003. In 2007 it was reported to be available for sale on the internet, by 2008 law enforcement agencies had become aware of the compound, and by 2010 it had been reported in most of Europe, becoming particularly prevalent in the United Kingdom.\n\nSubjective effects include stimulation, anxiety suppression, disinhibition, enhanced empathy and sociability, relaxation, increased libido, and euphoria. It is reported to produce a mixture of classic stimulant and entactogenic effects reminiscent of cocaine and MDMA. It comes in the form of tablets or a powder, which users can swallow, snort, inject or insert rectally. It is also sometimes sold as MDMA (\"molly\").\n\nLimited data exists about the pharmacological properties, metabolism, and toxicity of mephedrone, and it has little history of human use. Preliminary evidence suggests it may possess neurotoxic and cardiotoxic properties. It is highly advised to use harm reduction practices if using this substance. \n\nChemistry\n\nMephedrone, or 4-methylmethcathinone, is a synthetic molecule of the cathinone family. Cathinones are structurally similar to amphetamines, they contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. Amphetamines and cathinones are alpha-methylated phenethylamines, cathinones contain an additional carbonyl group at R1.  Mephedrone contains an additional methyl substitutions at RN, similarly to MDMA and methamphetamine, and R4 of its phenyl ring.\n\nPharmacology\n\nGiven its chemical structure, mephedrone is likely to act as a releasing agent and a reuptake inhibitor for monoamine neurotransmitters such as dopamine, serotonin and noradrenaline.\n\nSeveral articles published near the end of 2011 examined the effects of mephedrone in the brains of rats, as well as examining the reinforcing potential of mephedrone. Dopamine and serotonin were collected using microdialysis, and increases in dopamine and serotonin were measured. Mephedrone administration caused about a 500% increase in dopamine, and about a 950% increase in serotonin. They reached their peak concentrations at 40 minutes and 20 minutes and returned to baseline by 120 minutes after injection. \n\nAnalysis of the ratio for dopamine and serotonin indicated mephedrone was preferentially a serotonin releaser, with a ratio of 1.22:1 (serotonin vs. dopamine). Additionally, half-lives for the decrease in dopamine and serotonin were calculated and found to have decay rates of 24.5 minutes and 25.5 minutes. \n\nThese findings show mephedrone induces a massive increase in both dopamine and serotonin, combined with rapid clearance. This increase in neurotransmitters provides an explanation for the euphoric and stimulating subjective effects induced by this experience. The rapid rise and subsequent fall of dopamine levels could also explain some of the addictive properties of mephedrone display in some users.\n\nSubjective effects\n\nExperience reports\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Mephedrone was found to be the 13th overall most dangerous drug.\n\nAlmost nothing is known about the long-term effects of mephedrone due to its short history of its use. Along side of this, the exact toxic dosage is unknown.\n\nIn 2010, unconfirmed reports speculated about the role mephedrone has played in the deaths of several young people in the UK. By July 2010, mephedrone had been alleged to be involved in 52 fatalities in the UK, but detected in only 38 of these cases. Of the nine that coroners had finished investigating, two were caused directly by mephedrone. The first death reported to be caused by mephedrone use was that of 46-year-old who had underlying health problems and repeatedly injected the drug. A report in Forensic Science International in stated mephedrone intoxication has been recorded as the cause of death in two cases in Scotland.\n\nDespite similarities to known neurotoxins such as methamphetamine and other cathinone derivatives, mephedrone does not appear to produce neurotoxic effects in the dopamine system of mice. \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of mephedrone can be considered highly addictive with an extreme potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of mephedrone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Mephedrone presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of mephedrone all stimulants will have a reduced effect.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*Cocaine - This combination may increase strain on the heart.\n\nSerotonin syndrome risk\n\nLegal status\n\nIn December 2010, the European Council decided that mephedrone shall be subjected by the Member States to control measures and criminal penalties.\n\n*Australia: Mephedrone has been added to the Australian federal drug watch list and is now considered illegal if intended for human consumption. Mephedrone is considered a Schedule 9 prohibited substance in Australia under the Poisons Standard . A Schedule 9 substance is a substance which may be abused or misused and the manufacture, possession, sale or use of is prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.\n*Austria: Mephedrone is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich) as of August 21, 2010.\n*Belgium: Mephedrone was banned on April 29, 2010, by making it a regulated drug requiring the approval of the Ministry of Human Health to import, sell, or possess.\n*Brazil: Mephedrone was added to the list of Scheduled drugs (class F2), making it illegal to possess, sell, or manufacture without a license as of August 2011.\n*China: Mephedrone is a Category I psychotropic substance as of September 1, 2010. It is illegal to sell, buy, import, export, and manufacture it.\n*Croatia: Mephedrone is a controlled substance as of January 12, 2010.\n*Denmark: Denmark's Minister for Health and Prevention Jakob Axel Nielsen banned mephedrone, flephedrone and ethylcathinone on December 18, 2008. As of July 1, 2012, Denmark also created a type of analogue law that would include cathinones like mephedrone\n*Estonia: Mephedrone is a controlled substance as of November 2009.\n*Finland: Through the Medicines Act, mephedrone is classified as a \"medicinal product\", making it illegal to manufacture, import, possess, sell, or transfer it without a prescription.\n*France: French Ministry of Health decided in early June 2010 to add mephedrone to the list of illicit substances in the \"Journal Officiel du 11 juin 2010\".\n*Germany: Mephedrone is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of January 22, 2010. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Guernsey: Mephedrone is a Class B controlled substance as of April 16, 2010.\n*Hungary: Mephedrone is a List 1 controlled substance as of January 1, 2011.\n*Isle of Man: It is illegal to import or sell mephedrone since February 2010.\n*Ireland: Mephedrone is controlled under the Misuse of Drugs Act 1977 as of May 11, 2010.\n*Israel: In December 2007, mephedrone was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess.\n*Italy: Mephedrone is a Tabella I controlled substance.\n*Jersey: Mephedrone is a Class C controlled substance since December 2010.\n*Lithuania: Mephedrone is a controlled substance as of June 20, 2010.\n*Mexico: Mephedrone is a Schedule I controlled substance as of January 7, 2014.\n*The Netherlands: In March, 2010, the Dutch Ministry of Health and the Medicines Authority IGZ informed the Ministry of Justice that they now consider mephedrone an unregulated medicine; sales and distribution of it are now prohibited.\n*Norway: The \"Derivatbestemmelsen\" is an Analog Act-type law in Norway that controls mephedrone, Bk-MBDB, Bromo-DragonFLY, 1,4-Butanediol, GBL, and MBDB.\n*Poland: On August 25, 2010, mephedrone was added to the list of controlled \"psychotropic drugs\" in the I-P group.\n*Romania: Mephedrone was added to Romania's list of controlled substances in February 2010.\n*Russia: Mephedrone is classified as List 1 in Russian Federation as of August 2010. This means it is illegal to manufacture, buy, possess, or distribute.\n*Slovak Republic: Starting March 1, 2011 mephedrone is controlled in the Slovak Republic.\n*Singapore: Mephedrone is a banned substance as of November 15, 2010.\n*Spain: Mephedrone is a Schedule I controlled substance as of February 10, 2011.\n*Sweden: In Sweden, the drug is classified as a health hazard. A ban on mephedrone went into effect on December 15, 2008, making its sale illegal. Use of 4-methylmethcathinone is not explicitly illegal under this regulation.\n*Switzerland: Mephedrone is a controlled substance specifically named under Verzeichnis D.\n*Turkey: Mephedrone is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: Mephedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: Mephedrone is currently a Schedule I drug in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Cathinones\n*Amphetamine\n*MDMA\n*Cocaine\n\nExternal links\n\n*Mephedrone (Wikipedia)\n*Mephedrone (Erowid Vault)\n*Mephedrone (Isomer Design)\n*Mephedrone (DrugBank)\n*Mephedrone (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Entactogen\nCategory:Cathinone\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Mephedrone}}\n\n'''4-Methylmethcathinone''' (also known as '''4-MMC''', '''M-CAT''' (properly referring to [[methcathinone]]), '''drone''', '''meow meow''', and '''mephedrone'''<ref name=\"Schifano2011\">{{cite journal | vauthors=((Schifano, F.)), ((Albanese, A.)), ((Fergus, S.)), ((Stair, J. L.)), ((Deluca, P.)), ((Corazza, O.)), ((Davey, Z.)), ((Corkery, J.)), ((Siemann, H.)), ((Scherbaum, N.)), ((Farre’, M.)), ((Torrens, M.)), ((Demetrovics, Z.)), ((Ghodse, A. H.)), ((Psychonaut Web Mapping)), ((ReDNet Research Groups)) | journal=Psychopharmacology | title=Mephedrone (4-methylmethcathinone; ‘meow meow’): chemical, pharmacological and clinical issues | volume=214 | issue=3 | pages=593–602 | date=1 April 2011 | url=https://doi.org/10.1007/s00213-010-2070-x | issn=1432-2072 | doi=10.1007/s00213-010-2070-x}}</ref>) is a novel [[psychoactive class::entactogen]]-[[psychoactive class::stimulant]] substance of the [[chemical class::cathinone]] class. Mephedrone belongs to a group known as the [[substituted cathinones]], which are derivatives of the active ingredient in the khat plant (''Catha edulluis''). It is thought to produce its effects by promoting the release of the [[neurotransmitters]] [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain.{{citation needed}}\n\nMephedrone was first synthesized in 1929, but did not become widely known until it was rediscovered in 2003. In 2007 it was reported to be available for sale on the internet, by 2008 law enforcement agencies had become aware of the compound, and by 2010 it had been reported in most of Europe, becoming particularly prevalent in the United Kingdom.{{citation needed}}\n\n[[Subjective effects]] include [[stimulation]], [[anxiety suppression]], [[disinhibition]], [[empathy, affection, and sociability enhancement|enhanced empathy and sociability]], [[muscle relaxation|relaxation]], [[increased libido]], and [[euphoria]]. It is reported to produce a mixture of classic [[stimulant]] and [[entactogen]]ic effects reminiscent of [[cocaine]] and [[MDMA]].<ref name=\"Schifano2011\" /> It comes in the form of tablets or a powder, which users can swallow, snort, inject or insert rectally. It is also sometimes sold as [[MDMA]] (\"molly\").\n\nLimited data exists about the pharmacological properties, metabolism, and toxicity of mephedrone, and it has little history of human use. Preliminary evidence suggests it may possess neurotoxic and cardiotoxic properties.{{citation needed}} It is highly advised to use [[harm reduction practices]] if using this substance. \n\n==Chemistry==\nMephedrone, or 4-methylmethcathinone, is a synthetic molecule of the [[Substituted cathinone|cathinone]] family. Cathinones are structurally similar to [[amphetamines]], they contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. Amphetamines and cathinones are alpha-methylated phenethylamines, cathinones contain an additional carbonyl group at R<sub>1</sub>.  Mephedrone contains an additional methyl substitutions at R<sub>N</sub>, similarly to [[MDMA]] and [[methamphetamine]], and R<sub>4</sub> of its phenyl ring.\n\n==Pharmacology==\nGiven its chemical structure, mephedrone is likely to act as a [[releasing agent]] and a [[reuptake inhibitor]] for monoamine [[neurotransmitters]] such as [[dopamine]], [[serotonin]] and [[noradrenaline]].<ref>{{cite journal | vauthors=((Winstock, A. R.)), ((Marsden, J.)), ((Mitcheson, L.)) | journal=BMJ (Clinical research ed.) | title=What should be done about mephedrone? | volume=340 | pages=c1605 | date=23 March 2010 | issn=1756-1833 | doi=10.1136/bmj.c1605}}</ref>\n\nSeveral articles published near the end of 2011 examined the effects of mephedrone in the brains of rats, as well as examining the reinforcing potential of mephedrone. [[Dopamine]] and [[serotonin]] were collected using microdialysis, and increases in [[dopamine]] and [[serotonin]] were measured. Mephedrone administration caused about a 500% increase in [[dopamine]], and about a 950% increase in [[serotonin]]. They reached their peak concentrations at 40 minutes and 20 minutes and returned to baseline by 120 minutes after injection. \n\nAnalysis of the ratio for dopamine and serotonin indicated mephedrone was preferentially a [[serotonin]] [[Releasing agent|releaser]], with a ratio of 1.22:1 ([[serotonin]] vs. [[dopamine]]). Additionally, half-lives for the decrease in dopamine and serotonin were calculated and found to have decay rates of 24.5 minutes and 25.5 minutes. \n\nThese findings show mephedrone induces a massive increase in both [[dopamine]] and [[serotonin]], combined with rapid clearance. This increase in neurotransmitters provides an explanation for the euphoric and stimulating subjective effects induced by this experience. The rapid rise and subsequent fall of [[dopamine]] levels could also explain some of the addictive properties of mephedrone display in some users.<ref>{{cite journal | vauthors=((Kehr, J.)), ((Ichinose, F.)), ((Yoshitake, S.)), ((Goiny, M.)), ((Sievertsson, T.)), ((Nyberg, F.)), ((Yoshitake, T.)) | journal=British Journal of Pharmacology | title=Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats | volume=164 | issue=8 | pages=1949–1958 | date= December 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246659/ | issn=0007-1188 | doi=10.1111/j.1476-5381.2011.01499.x}}</ref><ref>{{cite journal | vauthors=((Hadlock, G. C.)), ((Webb, K. M.)), ((McFadden, L. M.)), ((Chu, P. W.)), ((Ellis, J. D.)), ((Allen, S. C.)), ((Andrenyak, D. M.)), ((Vieira-Brock, P. L.)), ((German, C. L.)), ((Conrad, K. M.)), ((Hoonakker, A. J.)), ((Gibb, J. W.)), ((Wilkins, D. G.)), ((Hanson, G. R.)), ((Fleckenstein, A. E.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=4-Methylmethcathinone (mephedrone): neuropharmacological effects of a designer stimulant of abuse | volume=339 | issue=2 | pages=530–536 | date= November 2011 | issn=1521-0103 | doi=10.1124/jpet.111.184119}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\n\n*'''[[Effect::Neurotoxicity]]''' - Heavy, frequent, or multi-day binge use of mephedrone can induce dose-dependent serotonergic neurotoxicity, oxidative stress, and persistent neurocognitive deficits.<ref name=\"pmid32087112\">{{cite journal |vauthors=Papaseit E, Pérez-Mañá C, Mateus JA, Pujadas M, Fonseca F, Torrens M, Olesti E, de la Torre R, Farré M |title=Mephedrone and MDMA: A comparative review |journal=Brain Res |volume=1735 |pages=146740 |year=2020 |pmid=32087112 |doi=10.1016/j.brainres.2020.146740}}</ref> Unlike methamphetamine or MDMA, mephedrone exhibits lower intrinsic toxicity to dopaminergic nerve endings when taken alone; however, its short half-life promotes compulsive re-dosing and hyperthermia, which significantly amplify monoamine depletion.<ref name=\"pmc3296829\">{{cite journal |vauthors=Angoa-Pérez M, Kane MJ, Francescutti DM, Sykes KE, Shah MM, Mohammed AM, Thomas DM, Kuhn DM |title=Mephedrone, an abused psychoactive component of \"bath salts\" and methamphetamine congener, does not cause neurotoxicity to dopamine nerve endings of the striatum |journal=J Neurochem |volume=120 |issue=6 |pages=1097–1107 |year=2012 |pmid=22145888 |pmc=3296829 |doi=10.1111/j.1471-4159.2011.07613.x}}</ref> Furthermore, co-administration with other stimulants (such as amphetamine, MDMA, or methamphetamine) markedly exacerbates their neurotoxic potential.<ref name=\"pmc3604033\">{{cite journal |vauthors=Angoa-Pérez M, Kane MJ, Briggs DI, Francescutti DM, Sykes CE, Shah MM, Thomas DM, Kuhn DM |title=Mephedrone does not damage dopamine nerve endings of the striatum, but enhances the neurotoxicity of methamphetamine, amphetamine, and MDMA |journal=J Neurochem |volume=125 |issue=1 |pages=102–110 |year=2013 |pmid=23205838 |pmc=3604033 |doi=10.1111/jnc.12114}}</ref>\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, mephedrone is commonly considered to be extremely stimulating and energetic. This encourages activities such as running, climbing and dancing in a way that makes mephedrone a popular choice for musical events such as festivals and raves. The particular style of stimulation which mephedrone presents can be described as forced. This means that at higher dosages it becomes difficult or impossible to keep still, as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in an extreme unsteadiness of the hands and a general lack of motor control. \n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of mephedrone can be described as a moderate to extremely euphoric tingling sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher dosages. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n**'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Vibrating vision]]''' - A person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing vision to become blurry and temporarily out of focus-- a condition known as opsoclonus.\n*'''[[Effect::Dehydration]]''' - Dry mouth and dehydration are a universal experience with mephedrone and are a product of an increased heart rate and extreme motivation to engage in strenuous physical activities. While it is important to avoid becoming dehydrated, especially when out dancing in a hot environment, there is a potential possibility of suffering from water intoxication through over-drinking so it is advised that users simply sip at water and never over drink.\n*'''[[Effect::Difficulty urinating]]''' - Higher doses of mephedrone result in an overall difficulty when it comes to urination, an effect that is completely temporary and thought to be harmless.\n*'''[[Effect::Vasoconstriction]]''' - A survey conducted by the UK's National Addiction Centre reported that 15% of mephedrone users experienced cold or blue fingers and lips<ref name=\"Clubbers2010\">{{Citation | year=2010 | title=Clubbers are “turning to new legal high mephedrone” | url=https://www.bbc.com/news/newsbeat-10004366}}</ref> indicative of vasoconstriction occurring.<ref>{{cite journal | vauthors=((James, D.)), ((Adams, R. D.)), ((Spears, R.)), ((Cooper, G.)), ((Lupton, D. J.)), ((Thompson, J. P.)), ((Thomas, S. H. L.)), ((National Poisons Information Service)) | journal=Emergency medicine journal: EMJ | title=Clinical characteristics of mephedrone toxicity reported to the U.K. National Poisons Information Service | volume=28 | issue=8 | pages=686–689 | date= August 2011 | issn=1472-0213 | doi=10.1136/emj.2010.096636}}</ref>\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Body odor alteration]]''' - Mephedrone can potentially leave a very distinct and unpleasant odor within one's urine, sweat and general bodily secretions which is often described as smelling similar to cat urine.<ref>{{Citation | vauthors=((Fort, H.)) | year=2015 | title=Does your child smell of cat wee? It could be meow meow | url=http://www.mirror.co.uk/news/uk-news/symptoms-mephedrone-use-extreme-weight-5130803}}</ref>\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of mephedrone can be broken down into several components which progressively intensify proportional to dosage. The general head space of mephedrone is described by many as one of extreme mental stimulation and powerful euphoria. It contains a large number of typical [[Stimulants|stimulant]] cognitive effects. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Cognitive euphoria]]''' - Strong emotional euphoria and feelings of happiness are present within mephedrone and are likely a direct result of serotonin and dopamine release.\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Empathy, love, and sociability enhancement]]''' - This particular effect, although distinct, is far less prominent than the same effect found within traditional [[entactogens]] such as [[MDMA]] or [[2C-B]]\n*'''[[Effect::Time distortion]]''' - Strong feelings of time compression are common within mephedrone and speed up the experience of time quite noticeably.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]''' - The urge to redose is notoriously strong.\n*'''[[Effect::Increased libido]]''' - This effect is one of the most powerful among entactogens.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n}}\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=4-Methylmethcathinone}}\n\n==Toxicity and harm potential==\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Mephedrone was found to be the 13th overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n{{Further|Research chemicals#Toxicity and harm potential}}\n\nAlmost nothing is known about the long-term effects of mephedrone due to its short history of its use.<ref name=\"Clubbers2010\" /> Along side of this, the [[Toxicity::exact toxic dosage is unknown]].<ref>{{cite journal | vauthors=((Winstock, A. R.)), ((Mitcheson, L. R.)), ((Deluca, P.)), ((Davey, Z.)), ((Corazza, O.)), ((Schifano, F.)) | journal=Addiction (Abingdon, England) | title=Mephedrone, new kid for the chop? | volume=106 | issue=1 | pages=154–161 | date= January 2011 | issn=1360-0443 | doi=10.1111/j.1360-0443.2010.03130.x}}</ref>\n\nIn 2010, unconfirmed reports speculated about the role mephedrone has played in the deaths of several young people in the UK. By July 2010, mephedrone had been alleged to be involved in 52 fatalities in the UK, but detected in only 38 of these cases. Of the nine that coroners had finished investigating, two were caused directly by mephedrone.<ref>Ghodse, H.; Corkery, J.; Ahmed, K.; Naidoo, V.; Oyefeso and, A.; Schifano, F. (July 2010). \"Drug-related deaths in the UK: Annual Report 2010\". International Centre for Drug Policy, St George's University of London. p. 77. Archived from the original (PDF) on 2010-01-02. Retrieved 2010-01-02.</ref> The first death reported to be caused by mephedrone use was that of 46-year-old<ref>{{Citation | year=2010 | title=Man from Hove died after injecting mephedrone | url=https://www.bbc.com/news/10176982 | access-date=9 June 2012}}</ref> who had underlying health problems and repeatedly injected the drug.<ref>{{Citation | year=2010 | title=Teenagers’ deaths “not caused by mephedrone” | url=https://www.bbc.com/news/10184803 | access-date=20 September 2010}}</ref> A report in Forensic Science International in stated mephedrone intoxication has been recorded as the cause of death in two cases in Scotland.<ref>{{cite journal | vauthors=((Torrance, H.)), ((Cooper, G.)) | journal=Forensic Science International | title=The detection of mephedrone (4-methylmethcathinone) in 4 fatalities in Scotland | volume=202 | issue=1–3 | pages=e62-63 | date=10 October 2010 | issn=1872-6283 | doi=10.1016/j.forsciint.2010.07.014}}</ref>\n\nDespite similarities to known neurotoxins such as [[methamphetamine]] and other [[Substituted cathinone|cathinone]] derivatives, mephedrone does not appear to produce neurotoxic effects in the dopamine system of mice.<ref>{{cite journal | vauthors=((Angoa-Pérez, M.)), ((Kane, M. J.)), ((Francescutti, D. M.)), ((Sykes, K. E.)), ((Shah, M. M.)), ((Mohammed, A. M.)), ((Thomas, D. M.)), ((Kuhn, D. M.)) | journal=Journal of Neurochemistry | title=Mephedrone, an abused psychoactive component of “bath salts” and methamphetamine congener, does not cause neurotoxicity to dopamine nerve endings of the striatum | volume=120 | issue=6 | pages=1097–1107 | date= March 2012 | issn=1471-4159 | doi=10.1111/j.1471-4159.2011.07632.x}}</ref> \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of mephedrone can be considered highly addictive with an extreme potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of mephedrone [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Mephedrone presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of mephedrone all [[stimulant]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=[[Substituted cathinone|cathinone]]s}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\nIn December 2010, the European Council decided that mephedrone shall be subjected by the Member States to control measures and criminal penalties.<ref>{{cite magazine|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:321:0064:0065:EN:PDF|title=Council Decision on submitting 4-methylmethcathinone (mephedrone) to control measures|date=December 2, 2010|publication-date=December 8, 2010|work=Official Journal of the European Union|pages=44-45|id=L 322|publisher=Office for Official Publications of the European Communites|oclc=52224955}}</ref>\n\n*'''Australia''': Mephedrone has been added to the Australian federal drug watch list and is now considered illegal if intended for human consumption. Mephedrone is considered a Schedule 9 prohibited substance in Australia under the Poisons Standard <ref>{{cite web|url=https://www.legislation.gov.au/Details/F2021L00650|title=Poisons Standard June 2021|publication-date=May 26, 2021|language=en}}</ref>. A Schedule 9 substance is a substance which may be abused or misused and the manufacture, possession, sale or use of is prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.\n*'''Austria''': Mephedrone is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich) as of August 21, 2010.<ref>{{cite news|url=https://www.diepresse.com/589205/mode-droge-mephedron-in-osterreich-verboten|title=Mode-Droge Mephedron in Österreich verboten|publisher=Die Presse|date=August 22, 2010|access-date=December 27, 2019|language=de}}</ref>\n*'''Belgium''': Mephedrone was banned on April 29, 2010, by making it a regulated drug requiring the approval of the Ministry of Human Health to import, sell, or possess.{{citation needed}}\n*'''Brazil''': Mephedrone was added to the list of Scheduled drugs (class F2), making it illegal to possess, sell, or manufacture without a license as of August 2011.<ref>http://www.anvisa.gov.br/hotsite/talidomida/legis/RDC_36_2011.pdf</ref>\n*'''China''': Mephedrone is a Category I psychotropic substance as of September 1, 2010.<ref>{{cite web|url=http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html |title=Mephedrone regulated as psychotropic substances |publisher=State Food and Drug Administration|access-date=December 27, 2019 |archive-url=https://web.archive.org/web/20100815082133/http://eng.sfda.gov.cn/cmsweb/webportal/W43879541/A64031541.html |archive-date=15 August 2010}}</ref> It is illegal to sell, buy, import, export, and manufacture it.\n*'''Croatia''': Mephedrone is a controlled substance as of January 12, 2010.<ref>{{cite web|url=http://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_2_12.html|title=Dopuna popisa opojnih droga, psihotropnih tvari i biljaka iz kojih se može dobiti opojna droga te tvari koje se mogu uporabiti za izradu opojnih droga|publisher=Croatian Ministry of Health and Social Welfare|language=hr|access-date=December 27, 2019}}</ref>\n*'''Denmark''': Denmark's Minister for Health and Prevention Jakob Axel Nielsen banned mephedrone, flephedrone and ethylcathinone on December 18, 2008. As of July 1, 2012, Denmark also created a type of analogue law that would include cathinones like mephedrone<ref>https://www.retsinformation.dk/forms/R0710.aspx?id=140430</ref>\n*'''Estonia''': Mephedrone is a controlled substance as of November 2009.<ref>{{cite web|publisher=Estonian Ministry of Social Affairs |url=http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2 |archive-url=https://www.webcitation.org/5suaZrvK9?url=http://www.estlex.ee/tasuta/?id=8&aktid=118262&fd=1&asutus=&grupp=3&leht=2|archive-date=September 21, 2010|title=Sotsiaalministri 27.11.2009 määrus number 87 |access-date=December 27, 2019|language=et}}</ref>\n*'''Finland''': Through the Medicines Act, mephedrone is classified as a \"medicinal product\", making it illegal to manufacture, import, possess, sell, or transfer it without a prescription.<ref>{{cite news|url=http://www.city.fi/artikkeli/Rapujuhlat+saaristossa+/2783/ |author=Juha Matias Lehtonen|title=Rapujuhlat saaristossa|language=fi|publisher=City Magazine|date= September 5, 2008|access-date=December 27, 2019}}</ref>\n*'''France''': French Ministry of Health decided in early June 2010 to add mephedrone to the list of illicit substances in the \"Journal Officiel du 11 juin 2010\".<ref>http://www.sante-sports.gouv.fr/la-mephedrone-classee-comme-stupefiant.html</ref>\n*'''Germany''': Mephedrone is controlled under Anlage I BtMG (''Narcotics Act, Schedule I'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref> as of January 22, 2010.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl109s3944.pdf|title=Vierundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 27, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref>\n*'''Guernsey''': Mephedrone is a Class B controlled substance as of April 16, 2010.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/europe/guernsey/8618651.stm |title=Guernsey makes Mephedrone class B drug|publisher=BBC News |date=April 13, 2010|access-date=December 27, 2019}}</ref>\n*'''Hungary''': Mephedrone is a List 1 controlled substance as of January 1, 2011.<ref>{{cite web|url=http://www.kozlonyok.hu/nkonline/MKPDF/hiteles/MK10190.pdf|title=MAGYAR  KÖZLÖNY: A MAGYAR KÖZTÁRSASÁG HIVATALOS LAPJA|access-date=December 10, 2019|language=hu}}</ref>\n*'''Isle of Man''': It is illegal to import or sell mephedrone since February 2010.<ref>{{cite news|url=http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp|title=Now illegal to import drug 'plant food' to Isle of Man|publisher=Isle of Man Today|date=February 25, 2010|access-date=December 27, 2019 |archive-url=https://web.archive.org/web/20100228070359/http://www.iomtoday.co.im/news/Now-illegal-to-import-drug.6103144.jp |archive-date=February 28, 2010}}</ref>\n*'''Ireland''': Mephedrone is controlled under the Misuse of Drugs Act 1977 as of May 11, 2010.<ref>{{cite web |url=http://www.dohc.ie/press/releases/2010/20100511.html |title=Minister for Health and Children announces immediate criminal ban on list of head shop products |publisher=Irish Department of Health and Children|access-date=December 27, 2019|archive-url=https://web.archive.org/web/20110221174712/http://www.dohc.ie/press/releases/2010/20100511.html |archive-date=February 21, 2011}}</ref>\n*'''Israel''': In December 2007, mephedrone was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess.<ref>http://www.jpost.com/Israel/Article.aspx?id=181254</ref>\n*'''Italy''': Mephedrone is a Tabella I controlled substance.<ref>{{cite web|url=http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf|title=TABELLA I|publisher= Ministero della Salute|access-date=December 27, 2019|language=it}}</ref>\n*'''Jersey''': Mephedrone is a Class C controlled substance since December 2010.<ref>{{cite news|url=http://news.bbc.co.uk/newsbeat/hi/health/newsid_10050000/newsid_10059100/10059133.stm|title= Call to ban legal high mephedrone test change|author=Adina Campbell|date=March 4, 2010|publisher=BBC Newsbeat|access-date=December 26, 2019}}</ref>\n*'''Lithuania''': Mephedrone is a controlled substance as of June 20, 2010.<ref>{{cite web|url=https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.375830|title=DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. SAUSIO 6 D. ĮSAKYMO Nr. 5 „DĖL NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ SĄRAŠŲ PATVIRTINIMO“ PAKEITIMO|publisher=Lietuvos Respublikos Seimo kanceliarija, biudžetinė įstaiga|access-date=December 27, 2019|language=lt}}</ref>\n*'''Mexico''': Mephedrone is a Schedule I controlled substance as of January 7, 2014.<ref>{{cite web|url=https://www.unodc.org/LSS/Announcement/Details/816ab930-efcf-4e92-a65c-404b022f25eb|title=January 2014 - Mexico: Mephedrone, TFMPP and synthetic cannabinoids placed under control|publisher= United Nations Office on Drugs and Crime|access-date=December 27, 2019}}</ref>\n*'''The Netherlands''': In March, 2010, the Dutch Ministry of Health and the Medicines Authority IGZ informed the Ministry of Justice that they now consider mephedrone an unregulated medicine; sales and distribution of it are now prohibited.{{citation needed}}\n*'''Norway''': The \"Derivatbestemmelsen\" is an Analog Act-type law in Norway that controls mephedrone, [[Bk-MBDB]], [[Bromo-DragonFLY]], [[1,4-Butanediol]], [[GBL]], and [[MBDB]].<ref>legemiddelverket.no</ref>\n*'''Poland''': On August 25, 2010, mephedrone was added to the list of controlled \"psychotropic drugs\" in the I-P group.<ref>http://isap.sejm.gov.pl/DetailsServlet?id=WDU20101430962</ref>\n*'''Romania''': Mephedrone was added to Romania's list of controlled substances in February 2010.<ref>http://salviadivinorum.ro/noile-substante-intezise/</ref>\n*'''Russia''': Mephedrone is classified as List 1 in Russian Federation as of August 2010. This means it is illegal to manufacture, buy, possess, or distribute.<ref>http://gazeta.ru/news/lenta/2010/08/04/n_1529350.shtml</ref>\n*'''Slovak Republic''': Starting March 1, 2011 mephedrone is controlled in the Slovak Republic.<ref>http://www.nrsr.sk/Dynamic/Download.aspx?DocID=350863</ref>\n*'''Singapore''': Mephedrone is a banned substance as of November 15, 2010.<ref>{{cite news|url=http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned |title=Three synthetic drugs to be banned |publisher=TODAY|author=Andre Yeo|date=November 13, 2010 |access-date=December 27, 2019|archive-url=https://www.webcitation.org/5wOfQKDTu?url=http://www.todayonline.com/Singapore/EDC101113-0000075/Three-synthetic-drugs-to-be-banned |archive-date=February 10, 2011}}</ref>\n*'''Spain''': Mephedrone is a Schedule I controlled substance as of February 10, 2011.<ref>{{cite web|url=https://boe.es/diario_boe/txt.php?id=BOE-A-2011-2490|title=Documento BOE-A-2011-2490|publisher=Agencia Estatal Boletín Oficial del Estado|access-date=December 27, 2019|language=es}}</ref>\n*'''Sweden''': In Sweden, the drug is classified as a health hazard. A ban on mephedrone went into effect on December 15, 2008, making its sale illegal. Use of 4-methylmethcathinone is not explicitly illegal under this regulation.<ref>{{cite web|url=http://62.95.69.3/SFSDOC/08/080908.PDF |title=Svensk författningssamling Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor|language=sv|access-date=December 27, 2019|archive-url=https://www.webcitation.org/5wOfbf5sB?url=http://62.95.69.3/SFSDOC/08/080908.PDF |archive-date=February 10, 2011|publisher=Thomson Förlag}}</ref>\n*'''Switzerland''': Mephedrone is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Mephedrone is a classed as drug and is illegal to possess, produce, supply, or import.<ref>17 şubat 2012, BAKANLAR KURULU KARARI Karar Sayısı : 2012/2861 | https://resmigazete.gov.tr/eskiler/2012/03/20120322-1-6-1.pdf</ref>\n*'''United Kingdom''': Mephedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n*'''United States''': Mephedrone is currently a Schedule I drug in the United States. This means it is illegal to manufacture, buy, possess, or distribute (sell, trade or give) without a DEA license.<ref> https://www.deadiversion.usdoj.gov/21cfr/21usc/812.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Substituted cathinone|Cathinones]]\n*[[Amphetamine]]\n*[[MDMA]]\n*[[Cocaine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Mephedrone Mephedrone (Wikipedia)]\n*[https://www.erowid.org/chemicals/4_methylmethcathinone/ Mephedrone (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2018 Mephedrone (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB13108 Mephedrone (DrugBank)]\n*[https://drugs-forum.com/wiki/Mephedrone Mephedrone (Drugs-Forum)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Entactogen]]\n[[Category:Cathinone]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

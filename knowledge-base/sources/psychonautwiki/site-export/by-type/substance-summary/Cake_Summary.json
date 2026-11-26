@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:16324",
+ "type": "substance-summary",
+ "title": "Cake/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cake/Summary",
+  "pageid": 16324,
+  "last_edited": "2018-02-09T17:04:21Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Cake",
+ "plain_text": "",
+ "wikitext": "{{Summary|Cake}}"
+}

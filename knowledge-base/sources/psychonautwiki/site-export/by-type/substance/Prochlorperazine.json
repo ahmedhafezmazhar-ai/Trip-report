@@ -1,0 +1,388 @@
+{
+ "id": "psychonautwiki:7643",
+ "type": "substance",
+ "title": "Prochlorperazine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Prochlorperazine",
+  "pageid": 7643,
+  "last_edited": "2024-04-30T19:29:06Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Antihistamine",
+  "Antipsychotic",
+  "Articles with unsourced statements",
+  "Depressant",
+  "Phenothiazine",
+  "Piperazine",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Prochlorperazine",
+ "substance_box": {
+  "names": {
+   "common": "Compazine, Stemzine, Buccastem, Stemetil, Phenotil",
+   "substitutive": "",
+   "systematic": "2-chloro-10-[3-(4-methyl-1-piperazinyl)propyl]-\n10H-phenothiazine"
+  },
+  "classes": {
+   "psychoactive": "Antipsychotic",
+   "chemical": "Phenothiazine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "2.5 - 5 mg",
+    "common": "5 - 20 mg",
+    "strong": "20 - 40 mg",
+    "heavy": "",
+    "duration": "4 - 8 hours",
+    "onset": "30 - 45 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Compazine",
+    "Stemzine",
+    "Buccastem",
+    "Stemetil",
+    "Phenotil"
+   ],
+   "psychoactive class": [
+    "Antipsychotic"
+   ],
+   "chemical class": [
+    "Phenothiazine"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "20"
+   ],
+   "Oral min strong dose": [
+    "20"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of prochlorperazine",
+   "clean": "Molecular structure of prochlorperazine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Prochlorperazine.svg",
+   "clean": "File:Prochlorperazine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Compazine]], [[common name::Stemzine]], [[common name::Buccastem]], [[common name::Stemetil]], [[common name::Phenotil]]",
+   "clean": "Compazine, Stemzine, Buccastem, Stemetil, Phenotil"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-chloro-10-[3-(4-methyl-1-piperazinyl)propyl]-\n10H-phenothiazine",
+   "clean": "2-chloro-10-[3-(4-methyl-1-piperazinyl)propyl]-\n10H-phenothiazine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Antipsychotic]]",
+   "clean": "Antipsychotic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenothiazine]]",
+   "clean": "Phenothiazine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg",
+   "clean": "2.5 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::20]] mg",
+   "clean": "5 - 20 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::20]] - [[Oral max strong dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Prochlorperazine (Compazine, Stemzine, Buccastem M, Stemetil, Phenotil) is a dopaminergic D2 receptor antagonist that belongs to the phenothiazine class of antipsychotic agents that are used for the treatment of nausea and vertigo. It is also a highly potent typical antipsychotic and is 10–20× more potent than chlorpromazine. It is also used to treat migraine headaches.\n\nChemistry\n\nProchlorperazine is a piperazine derivative of the phenothiazine class of organic compounds. Prochlorperazine contains a thiazine ring, a six-member ring which includes one nitrogen and one sulfur atom. The thiazine ring is fused to two benzene rings, creating a tricyclic phenothiazine. Prochlorperazine contains a chlorine atom bound to R2 of the phenothiazine group. \n\nAdditionally, there is a three carbon propyl chain bound at R10 to the nitrogen atom of the structure. The propyl chain is bound at its terminal carbon to a piperazine ring at R1. Piperazine is a six-membered saturated ring with two nitrogen atoms at positions 1 and 4. The piperazine ring of prochlorperazine is also substituted at R4 with a methyl group. Prochlorperazine is found in pills as a maleate. It is analogous to chlorpromazine, another antipsychotic phenothiazine.\n\nPharmacology\n\nthumbnail|200px|5mg oral tablet of Prochlorperazine\nProchlorperazine is thought to exert its antipsychotic effects by blocking dopamine receptors.\n\nProchlorperazine is analogous to chlorpromazine; both of these agents antagonize dopaminergic D2 receptors in various pathways of the central nervous system. This D2 blockade results in antipsychotic, antiemetic and other effects.\n\nSubjective effects\n\nToxicity and harm potential\n\nNervous system side effects have been associated with the use of prochlorperazine. Extrapyramidal side effects such as acute dystonic reactions, pseudoparkinsonism (not to be confused with Parkinson's disease), or akathisia can affect 2% of patients at low doses, whereas higher doses may affect as many as 40% of patients.\n\nProchlorperazine can also cause a life-threatening condition called neuroleptic malignant syndrome (NMS). Some symptoms of NMS include a high fever, stiff muscles, confusion, irregular pulse or blood pressure, a fast heart rate (tachycardia), sweating, or irregular heart rhythms (arrhythmias).\n\nLethal dosage\n\nThe lethal dosage of this compound is unknown. Symptoms of overdose, however, may include agitation, coma, confusion, difficulty breathing, fainting, irregular heartbeat, loss of consciousness, muscle spasms, uncontrolled muscle movements, restlessness, seizures, severe constipation, stomach pain, severe drowsiness, dizziness, tremors, or trouble urinating.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other antipsychotics, dependence can be present with long-term use and is both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage.\n\nLegal status\n\n250px|thumbnail|right|An 8-pack of Buccastem M, the brand name for OTC prochlorperazine maleate in the UK.\n*Australia: The substance is Schedule 3, meaning it is available with the advice of a pharmacist without a prescription.\n*United Kingdom: The drug is available over the counter as a pharmacy medicine and as a prescription medication. The OTC brand is Buccastem M, a buccal delivery system of prochlorperazine for motion sickness or nausea.\n*United States: Prochlorperazine is available only through prescription.\n\nSee also\n\n*Responsible use\n*Antipsychotic\n*Quetiapine\n*Depressant\n\nExternal links\n\n*Prochlorperazine (Wikipedia)\n*Prochlorperazine (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Substance\nCategory:Piperazine\nCategory:Phenothiazine\nCategory:Antihistamine\nCategory:Depressant\nCategory:Antipsychotic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Prochlorperazine}}\n\n'''Prochlorperazine''' ('''Compazine''', '''Stemzine''', '''Buccastem M''', '''Stemetil''', '''Phenotil''') is a [[dopamine|dopaminergic]] D2 [[receptor]] [[antagonist]] that belongs to the [[chemical class::phenothiazine]] class of [[psychoactive class::antipsychotic]] agents that are used for the treatment of nausea and vertigo. It is also a highly potent typical antipsychotic and is 10–20× more potent than chlorpromazine. It is also used to treat migraine headaches.<ref>Husseini, A; Gianakos, D (February 2006). \"The 15-Minute Visit\". Patient Care 40: 9–10.</ref>\n==Chemistry==\nProchlorperazine is a piperazine derivative of the phenothiazine class of organic compounds. Prochlorperazine contains a thiazine ring, a six-member ring which includes one nitrogen and one sulfur atom. The thiazine ring is fused to two benzene rings, creating a tricyclic phenothiazine. Prochlorperazine contains a chlorine atom bound to R<sub>2</sub> of the phenothiazine group. \n\nAdditionally, there is a three carbon propyl chain bound at R<sub>10</sub> to the nitrogen atom of the structure. The propyl chain is bound at its terminal carbon to a piperazine ring at R<sub>1</sub>. Piperazine is a six-membered saturated ring with two nitrogen atoms at positions 1 and 4. The piperazine ring of prochlorperazine is also substituted at R<sub>4</sub> with a methyl group. Prochlorperazine is found in pills as a maleate. It is analogous to [[chlorpromazine]], another antipsychotic phenothiazine.\n\n==Pharmacology==\n[[File:Prochlorperazine 5mg.jpg|thumbnail|200px|5mg oral tablet of Prochlorperazine]]\nProchlorperazine is thought to exert its [[antipsychotic]] effects by blocking [[dopamine]] receptors.<ref>{{cite book | vauthors=((Ebadi, M.)) | date=31 October 2007 | title=Desk Reference of Clinical Pharmacology | publisher=CRC Press | isbn=9781420047448}}</ref>\n\nProchlorperazine is analogous to [[chlorpromazine]]; both of these agents [[antagonist|antagonize]] [[dopamine|dopaminergic]] D2 receptors in various pathways of the central nervous system. This D2 blockade results in antipsychotic, antiemetic and other effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Appetite enhancement]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Nausea suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n\n}}\n\n|{{effects/cognitive|\nThe general head space of prochlorperazine is often described as one of sleepiness, emptiness, apathy, stupor and catatonia. The specific cognitive effects can be broken down into several components which progressively intensify proportional to dosage. These are described below and generally include:\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Creativity suppression]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Focus suppression]]'''\n*'''[[Effect::Motivation suppression]]'''\n}}\n\n}}\n\n==Toxicity and harm potential==\nNervous system side effects have been associated with the use of prochlorperazine. [http://en.wikipedia.org/wiki/Extrapyramidal_symptoms Extrapyramidal side effects] such as acute [http://en.wikipedia.org/wiki/Dystonia dystonic] reactions, [http://en.wikipedia.org/wiki/Parkinsonism pseudoparkinsonism] (not to be confused with Parkinson's disease), or akathisia can affect 2% of patients at low doses, whereas higher doses may affect as many as 40% of patients.<ref>{{cite book | vauthors=((Brown, T. M.)), ((Stoudemire, A.)) | date= 1998 | title=Psychiatric Side Effects of Prescription and Over-the-counter Medications: Recognition and Management | publisher=American Psychiatric Pub | isbn=9780880488686}}</ref><ref>http://www.drugs.com/sfx/procot-side-effects.html</ref>\n\nProchlorperazine can also cause a life-threatening condition called neuroleptic malignant syndrome (NMS). Some symptoms of NMS include a high fever, stiff muscles, confusion, irregular pulse or blood pressure, a fast heart rate (tachycardia), sweating, or irregular heart rhythms (arrhythmias).\n===Lethal dosage===\nThe lethal dosage of this compound is unknown. Symptoms of overdose, however, may include agitation, coma, confusion, difficulty breathing, fainting, irregular heartbeat, loss of consciousness, muscle spasms, uncontrolled muscle movements, restlessness, seizures, severe constipation, stomach pain, severe drowsiness, dizziness, tremors, or trouble urinating.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other antipsychotics, dependence can be present with long-term use and is both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage.\n\n==Legal status==\n[[File:Buccastem M (Prochlorperazine maleate 3 mg) Buccal tablets.jpg|250px|thumbnail|right|An 8-pack of Buccastem M, the brand name for OTC prochlorperazine maleate in the UK.]]\n*'''Australia''': The substance is Schedule 3, meaning it is available with the advice of a pharmacist without a prescription.{{citation needed}}\n*'''United Kingdom''': The drug is available over the counter as a pharmacy medicine and as a prescription medication. The OTC brand is Buccastem M, a [[Routes of Administration#Buccal|buccal]] delivery system of prochlorperazine for motion sickness or nausea.<ref>Package leaflet: Information for the user. Buccastem® M Buccal Tablets (PROCHLORPERAZINE MALEATE 3 MG, EQUIVALENT TO 1.85 MG PROCHLORPERAZINE BASE) Alliance Pharmaceuticals, LTD. (2016) {{#l:Buccastem M use guide, last revised in January 2016..pdf}}</ref>\n*'''United States''': Prochlorperazine is available only through prescription.{{citation needed}}\n\n==See also==\n*[[Responsible use]]\n*[[Antipsychotic]]\n*[[Quetiapine]]\n*[[Depressant]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Prochlorperazine Prochlorperazine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=11392 Prochlorperazine (Isomer Design)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n[[Category:Psychoactive substance]]\n[[Category:Substance]]\n[[Category:Piperazine]]\n[[Category:Phenothiazine]]\n[[Category:Antihistamine]]\n[[Category:Depressant]]\n[[Category:Antipsychotic]]"
+}

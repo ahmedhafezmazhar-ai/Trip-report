@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10927",
+ "type": "substance-summary",
+ "title": "4-FA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-FA/Summary",
+  "pageid": 10927,
+  "last_edited": "2015-11-13T09:31:15Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-FA",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-FA}}"
+}

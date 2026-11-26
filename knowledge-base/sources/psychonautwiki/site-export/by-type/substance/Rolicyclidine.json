@@ -1,0 +1,670 @@
+{
+ "id": "psychonautwiki:21478",
+ "type": "substance",
+ "title": "Rolicyclidine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Rolicyclidine",
+  "pageid": 21478,
+  "last_edited": "2023-12-11T00:21:18Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Arylcyclohexylamine",
+  "CS1 maint: Extra text",
+  "Dissociative",
+  "Pyrrolidine"
+ ],
+ "substance_box_template": "SubstanceBox/PCPy",
+ "substance_box": {
+  "names": {
+   "common": "PCPy,",
+   "substitutive": "Rolicyclidine",
+   "systematic": "1-(1-phenylcyclohexyl)pyrrolidine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "3 - 5 mg",
+    "common": "5 - 9 mg",
+    "strong": "9 - 13 mg",
+    "heavy": "13mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "6 - 12 hours",
+    "onset": "20 - 90 minutes",
+    "comeup": "30 - 120 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "3 - 4 hours",
+    "aftereffects": "12 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 4 mg",
+    "common": "4 - 8 mg",
+    "strong": "8 - 12 mg",
+    "heavy": "12 mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 6 hours",
+    "onset": "2 - 20 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 4 mg",
+    "common": "4 - 8 mg",
+    "strong": "8 - 15 mg",
+    "heavy": "15mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 6 hours",
+    "onset": "3 - 30 minutes",
+    "comeup": "30 - 90 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "PCPy"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "3"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "9"
+   ],
+   "Oral min strong dose": [
+    "9"
+   ],
+   "Oral max strong dose": [
+    "13"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "120"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "12"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "2"
+   ],
+   "Smoked max light dose": [
+    "4"
+   ],
+   "Smoked min common dose": [
+    "4"
+   ],
+   "Smoked max common dose": [
+    "8"
+   ],
+   "Smoked min strong dose": [
+    "8"
+   ],
+   "Smoked max strong dose": [
+    "12"
+   ],
+   "Smoked min total time": [
+    "4"
+   ],
+   "Smoked max total time": [
+    "6"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "2"
+   ],
+   "Smoked max onset time": [
+    "20"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min comeup time": [
+    "20"
+   ],
+   "Smoked max comeup time": [
+    "40"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "3"
+   ],
+   "Smoked peak time units": [
+    "hours"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "2"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "4"
+   ],
+   "Smoked max afterglow time": [
+    "48"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2"
+   ],
+   "Insufflated max light dose": [
+    "4"
+   ],
+   "Insufflated min common dose": [
+    "4"
+   ],
+   "Insufflated max common dose": [
+    "8"
+   ],
+   "Insufflated min strong dose": [
+    "8"
+   ],
+   "Insufflated max strong dose": [
+    "15"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "30"
+   ],
+   "Insufflated max comeup time": [
+    "90"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "2"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "2"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "4"
+   ],
+   "Insufflated max afterglow time": [
+    "48"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of PCPy",
+   "clean": "Molecular structure of PCPy"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Rolicyclidine.svg",
+   "clean": "File:Rolicyclidine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::PCPy]],",
+   "clean": "PCPy,"
+  },
+  "NameSubstitution": {
+   "raw": "Rolicyclidine",
+   "clean": "Rolicyclidine"
+  },
+  "NameSystematic": {
+   "raw": "1-(1-phenylcyclohexyl)pyrrolidine",
+   "clean": "1-(1-phenylcyclohexyl)pyrrolidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::3]] - [[Oral max light dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::9]] mg",
+   "clean": "5 - 9 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::9]] - [[Oral max strong dose::13]] mg",
+   "clean": "9 - 13 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "13mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref>PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "13mg+ Heavy doses may result in psychosis and mania."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 90 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::120]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::12]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "12 - 48 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::2]] - [[Smoked max light dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::4]] - [[Smoked max common dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::8]] - [[Smoked max strong dose::12]] mg",
+   "clean": "8 - 12 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "12 mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref>PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "12 mg+ Heavy doses may result in psychosis and mania."
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::4]] - [[Smoked max total time::6]] [[Smoked total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::2]] - [[Smoked max onset time::20]] [[Smoked onset time units::minutes]]",
+   "clean": "2 - 20 minutes"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::20]] - [[Smoked max comeup time::40]] [[Smoked comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::3]] [[Smoked peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::2]] [[Smoked offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::4]] - [[Smoked max afterglow time::48]] [[Smoked afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2]] - [[Insufflated max light dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::4]] - [[Insufflated max common dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::8]] - [[Insufflated max strong dose::15]] mg",
+   "clean": "8 - 15 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "15mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref name=\"psychosis\">3-MeO-PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "15mg+ Heavy doses may result in psychosis and mania."
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 30 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::30]] - [[Insufflated max comeup time::90]] [[Insufflated comeup time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::2]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::2]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::4]] - [[Insufflated max afterglow time::48]] [[Insufflated afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  }
+ },
+ "plain_text": "Rolicyclidine (also known as PCPy, or sometimes PHP) is a simple dissociative substance of the arylcyclohexylamine class. Compared to plain PCP, it is almost unknown, despite a strikingly easier synthesis, employing unwatched pyrrolidine instead of piperidine. It produces its effects by both blocking the NMDA receptor and modulating monoamine transporters.\n\nIt has never been marketed, but it did enjoy a brief time of street popularity, presumably being mislabeled as PCP. Having been synthesized in a british patent from 1958, it was never developed for medical use, some higher analogues substituted at either the pyrrolidine ring or the phenyl ring are known, in this case the latter 3-Me being discovered as a strong triple reuptake inhibitor \n \n\nSubjective effects include motor control loss, pain relief, internal hallucinations, memory suppression, conceptual thinking, euphoria, and depersonalization / dissociation. Routes of administration include oral, smoking, insufflation or injection. Rolicyclidine, having less stimulant effects than PCP, is generally tolerated better on a psychological level and has a more clean dissociation.\nPCPy has high abuse potential. Compulsive redosing has been reported, as well as psychological dependence following chronic use (i.e. high dose, repeated administration). Additionally, chronic use is likely to produce behavioral toxicity which can include self-harm or serious bodily injury. (see this section for more information). It is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nIt was synthesized by Parke Davis chemists in the year 1958, later it showed up in some street samples of supposed PCP and was responsible for at least one confirmed death by gunshot wound in 1979 \n\nCommon names\n\nDue to producing similar effects to PCP it was presumably sold under similar street names such as \"Wet\", \"Sherm sticks\", etc.\n\nChemistry\n\nPCPy, or rolicyclidine, is a synthetic dissociative of the arylcyclohexylamine class. PCPy contains cyclohexane, a six-member saturated ring, bonded to two additional rings at R1. One of these rings is a pyrrolidine ring, a nitrogenous five member ring, bonded at its nitrogen group. The other ring is an aromatic phenyl ring. PCPy is an initialism named from the first letters of the two constituent rings aswell as \"Py\" which is a generic denunciation for something containing a pyrrolidine ring.\n\nIt can be synthesized by the action of a cyanide salt upon cyclohexanone which produces the hydroxynitrile, this can then be reacted with the secondary amine of choice, in this case pyrrolidine, to produce the carbonitrile which is further reacted with phenylmagnesium bromide and worked up to produce PCPy\n\nPharmacology\n\nPCPy acts as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the notorious “k-hole.”\n\nPCPy probably features similar biochemical properties to PCP, which includes antagonizing the NMDA receptor, the PCP2 glutamate receptor and acting as a agonist at the sigma-1 receptor aswell as a modulator of the serotonin transporter, which might be responsible for some of the pupil dilatory effects.\n\nPCPy is about as potent as PCP in inducing ataxia in animals\n\nSubjective effects\n\nPCPy is considerably more likely to induce psychosis and mania than other dissociatives and is therefore potentially dangerous even in a proper setting.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nexperience reports can be found here:\n\n*Erowid Experience Vaults: PCP\n\nToxicity and harm potential\n\nThe long-term use of substances of the PCP class may lead to schizophrenia-like psychotic episodes, severe lasting memory loss, disorganized thinking, depression, weight loss, liver abnormalities and rhabdomyolysis (skeletal muscle breakdown).\n\nIt is very strongly recommended that one use extreme caution and harm reduction practices when using this substance. For example,\n\n*The biggest danger with this family of compounds is their potency, coupled with their duration of action and their propensity to cause bizarre manic states at higher dosages, start low and go slow if you are unfamiliar with its effects, by itself PCPy, if used carefully, is not any more dangerous than other more well known drugs.\n*Users should avoid taking the drug multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger adverse effects.\n*Users should start with extremely low doses and work their way up as slowly as possible. Volumetric liquid dosing should preferably be used due to the drug's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.\n*Compulsive redosing before one has fully sobered up is not recommended and can result in too high of a dose.\n\nPsychosis\n\nPCPy, like its parent, has been reported to cause psychosis and mania at a significantly higher rate than other dissociatives such as ketamine, diphenidine, or MXE. Multiple scientific papers describe states of psychosis, mania, and/or delirium occurring after moderate to large doses of the parent compound.\n\nDue to the risk of psychosis, it is not recommended to combine this substance with other substances, especially stimulants, psychedelics, or other dissociatives like MXE and DXM.\n\nNeurological effects\n\nSome studies found that, like other NMDA receptor antagonists, PCPy can cause brain damage called Olney's lesions in rats. Studies conducted on rats showed that high doses of the NMDA receptor antagonist dizocilpine caused reversible vacuoles to form in certain regions of the rats' brains. All studies of Olney's lesions have only been performed on non-human animals and may not apply to humans. \n\nOne unpublished study by Frank Sharp reportedly showed no damage by the NMDA antagonist ketamine (a similar drug) far beyond recreational doses but its validity is controversial since it was never published.\n\nPCP-type compounds have also been shown to cause schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate levels in the rat brain, which are detectable both in living rats and upon necropsy examination of brain tissue.Rolicyclidine, like its parent, PCP, probably induces schizomimetic effects in humans.\n\nUrinary tract effects\n\nIn terms of its long-term health effects when used repeatedly and excessively for extended periods of time, PCP-type compounds seem to have similar toxic effects as ketamine but as much lower dosages are usually employed it has less of a propensity to cause toxic effects, accumulate or present severe metabolic load.\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the uncontrolled leakage of urine.\n\nDependence and abuse potential\n\nThe chronic use of PCPy can be considered highly addictive with a high potential for adverse side effects such as psychosis. In comparison to other dissociatives, PCPy has been reported to be more addictive than MXE, diphenidine, ephenidine, and ketamine. \n\nWhen addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of PCPy develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). PCPy presents cross-tolerance with all dissociative, meaning that after the consumption of PCPy, all dissociatives will have a reduced effect.\n\nDangerous interactions\n\n*MXE - PCPy generally potentiates the action of other arylcyclohexylamine dissociatives.\n*Caffeine - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*Opioids - Opioids add to the central depressant action of PCPy, easily producing unconsciousness at higher doses\n*DOx - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*Amphetamines - This combination can easily lead to hypermanic states.\n*MDMA - This combination can easily lead to hypermanic states.\n*Cocaine - This combination can easily lead to hypermanic states.\n*Alcohol - Adds to the central depressant effect of PCPy, dangerous at high dosages.\n*Benzodiazepines - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely. Small amounts of benzodiazepines might end a bad trip.\n*SSRIs - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*2C-T-x\n*ΑMT\n*5-MeO-xxT\n*DXM - Unnecessary as it might produce unpleasant effects such as dizziness or nausea, but may at the same time increase visuals and or dissociation.\n*GHB - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*GBL - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*Tramadol\n*MAOIs - Stimulatory effects as are produced by this class of compounds are innately dangerous with MAO inhibition, potential serotonergic effects are deadly with MAO inhibition.\n\nLegal status\n\nInternationally, PCPy is a Schedule II substance under the Convention on Psychotropic Substances.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Dissociative\n*Phencyclidines\n*3-MeO-PCP\n*MXE\n*PCE\n*DXM\n*Ketamine\n\nExternal links\n\n*PCPy (Wikipedia)\n*PCPy (Isomer Design)\n\nForums\n\n*Early thread about the chemistry of PCP, mentions PCPy (Bluelight)\n\nLiterature\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Arylcyclohexylamine\nCategory:Dissociative\n\nCategory:Pyrrolidine",
+ "wikitext": "{{headerpanel|{{Warning/PCPy}}}}\n{{SummarySheet}}\n{{SubstanceBox/PCPy}}\n'''Rolicyclidine''' (also known as '''PCPy''', or sometimes '''PHP''')<ref>PCP Fast Facts | http://www.justice.gov/archive/ndic/pubs4/4440/</ref> is a simple [[psychoactive class::dissociative]] substance of the [[chemical class::arylcyclohexylamine]] class. Compared to plain PCP, it is almost unknown, despite a strikingly easier synthesis, employing unwatched pyrrolidine instead of piperidine. It produces its effects by both [[NMDA receptor antagonist|blocking the NMDA receptor]] and [[Stimulants|modulating monoamine transporters]].<ref>{{cite journal | vauthors=((Kapur, S.)), ((Seeman, P.)) | journal=Molecular Psychiatry | title=NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia | volume=7 | issue=8 | pages=837–844 | date= September 2002 | url=https://www.nature.com/articles/4001093 | issn=1476-5578 | doi=10.1038/sj.mp.4001093}}</ref>\n\nIt has never been marketed, but it did enjoy a brief time of street popularity, presumably being mislabeled as PCP.<ref>\"Peace Pill\". Microgram. Bureau of Drug Abuse Control. Jan 1968. 1(3):p1 (Erowid.org) | https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf</ref><ref>\"Sweet Streetfact's Lowdown on Low Dope Highs!\". Berkeley Tribe, September 10-16, 1971. p12 (Independent Voices) | https://www.jstor.org/stable/community.28033860?seq=12</ref> Having been synthesized in a british patent from 1958<ref name=\"GB836083A\">https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083<nowiki> | title= Heterocyclic amine compounds}}</nowiki></ref>, it was never developed for medical use, some higher analogues substituted at either the pyrrolidine ring or the phenyl ring are known, in this case the latter [[3-Me-PCPy/Summary|3-Me]] being discovered as a strong triple reuptake inhibitor<ref name=\"Drug Testingand Analysis\"><nowiki>doi: 10.1002/dta.1468 | title=Preparation and analytical characterization of 1-(1-phenylcyclohexyl)piperidine (PCP) and 1-(1 phenylcyclohexyl)pyrrolidine (PCPy)analogues}}</nowiki></ref> \n \n\n[[Subjective effects]] include [[motor control loss]], [[pain relief]], [[internal hallucinations]], [[memory suppression]], [[conceptual thinking]], [[euphoria]], and [[depersonalization]] / [[disconnective effects|dissociation]]. Routes of administration include [[oral]], [[Routes of administration#Smoking|smoking]], [[insufflation]] or [[Routes of administration#Injection|injection]].<ref>{{Citation | vauthors=((Abuse, N. I. on D.)) | year=2019 | title=Hallucinogens DrugFacts | url=https://nida.nih.gov/publications/drugfacts/hallucinogens}}</ref> Rolicyclidine, having less stimulant effects than PCP, is generally tolerated better on a psychological level and has a more clean dissociation.\nPCPy has high abuse potential. [[Compulsive redosing]] has been reported, as well as psychological dependence following chronic use (i.e. high dose, repeated administration). Additionally, chronic use is likely to produce behavioral toxicity which can include self-harm or serious bodily injury. (see [[PCP#Toxicity and harm potential|this section]] for more information).{{citation needed}} It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nIt was synthesized by Parke Davis chemists in the year 1958, later it showed up in some street samples of supposed PCP and was responsible for at least one confirmed death by gunshot wound in 1979<ref name=\"CLINICAL TOXICOLOGY\"><nowiki>doi: 10.3109/15563657909010600 | title=Determination of 1-(1-Phenylcyclohexyl) Pyrrolidine (PHP) in Postmortem Specimens: A Case Report}}</nowiki></ref> \n\n===Common names===\nDue to producing similar effects to PCP it was presumably sold under similar street names such as \"Wet\", \"Sherm sticks\", etc.\n\n==Chemistry==\nPCPy, or rolicyclidine, is a synthetic dissociative of the arylcyclohexylamine class. PCPy contains cyclohexane, a six-member saturated ring, bonded to two additional rings at R<sub>1</sub>. One of these rings is a pyrrolidine ring, a nitrogenous five member ring, bonded at its nitrogen group. The other ring is an aromatic phenyl ring. PCPy is an initialism named from the first letters of the two constituent rings aswell as \"Py\" which is a generic denunciation for something containing a pyrrolidine ring.\n\nIt can be synthesized by the action of a cyanide salt upon cyclohexanone which produces the hydroxynitrile, this can then be reacted with the secondary amine of choice, in this case pyrrolidine, to produce the carbonitrile which is further reacted with phenylmagnesium bromide and worked up to produce PCPy<ref>https://patents.google.com/patent/GB836083A/en?oq=gb836%2c083<nowiki> | title= Heterocyclic amine compounds}}</nowiki></ref>\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nPCPy acts as an [[NMDA receptor antagonist]]. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the notorious “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\nPCPy probably features similar biochemical properties to PCP, which includes antagonizing the NMDA receptor, the PCP2 glutamate receptor<ref>{{cite journal | vauthors=((Rothman, R.)) | title=PCP site 2: A high affinity MK-801-insensitive phencyclidine binding site | date=1 July 1994 | url=https://zenodo.org/record/1258623 | doi=10.1016/0892-0362(94)90022-1}}</ref> and acting as a agonist at the sigma-1 receptor aswell as a modulator of the serotonin transporter, which might be responsible for some of the pupil dilatory effects.\n\nPCPy is about as potent as PCP in inducing ataxia in animals<ref>[https://archive.org/details/pcpphencyclidine0000unse PCP (Phencyclidine) : historical and current perspectives, p. 373, NPP Books]</ref>\n\n==Subjective effects==\n{{EffectStub}}\nPCPy is considerably more likely to induce [[psychosis]] and [[mania]] than other dissociatives and is therefore potentially dangerous even in a proper setting.\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Pain relief]]\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Nausea]]''' - Vomiting is sometimes reported at the comeup\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Spontaneous physical sensations]]'''\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile suppression]]'''\n\n\n}}\n{{effects/visual|\n\n====Suppression====\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::Visual acuity suppression]]'''\n\n====Distortions====\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\nAt high doses, PCPy can produce a full range of high-level hallucinatory states that are unique, feel more natural and are qualitatively different from the visuals produced by other dissociatives during a hole. These effects include:\n\n*'''[[Effect::Internal hallucination]]'''\n*'''[[Effect::External hallucination]]'''\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Cognitive disconnection]]'''\n*'''[[Effect::Physical disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in PCPy's equivalent of the \"k-hole\" or more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n\n}}\n|{{effects/cognitive|\nThe general head space of PCPy is very manic in nature but not particularly stimulating, rather providing a mellow state in which functioning is possible up to moderate dosages, it is also not particularly immobilizing unlike [[ketamine]], and provides a more clear-headed and \"full\" dissociation that is highly visual, compared to [[DXM]] and [[Eticyclidine]]-type compounds.\n\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]\n*'''[[Effect::Derealization]]\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Ego death]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Feelings of impending doom]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Mania]]'''\n*'''[[Effect::Memory suppression]]''' \n*'''[[Effect::Psychosis]]''' - This effect is more common on PCP-type compounds than other dissociatives.<ref name=\"Luisada1978\">{{Citation | vauthors=((Luisada, P. V., M. D.)) | year=1978 | title=“The Phencyclidine Psychosis: Phenomenology and Treatment.” Phencyclidine (PCP) Abuse: An Appraisal. | publisher=National Institute on Drug Abuse | url=https://www.ojp.gov/ncjrs/virtual-library/abstracts/phencyclidine-psychosis-phenomenology-and-treatment-phencyclidine}}</ref><ref name=\"Tasman2015\">{{cite book | vauthors=((Tasman, A.)), ((Kay, J.)), ((Lieberman, J. A.)), ((First, M. B.)), ((Riba, M.)) | date=5 February 2015 | title=Psychiatry | publisher=John Wiley & Sons | isbn=9781118753361}}</ref>\n*'''[[Effect::Suicidal ideation]]'''\n*'''[[Effect::Thought acceleration]]''' & '''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought disorganization]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Depression relief]]''' - PCP type compounds are known to provide quality anti-depressant effects similarly to Ketamine.\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n*'''[[Effect::Auditory suppression]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:PCP]][[Category:Experience]]|format=ul|Columns=1}}\nexperience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_PCP.shtml Erowid Experience Vaults: PCP]\n\n==Toxicity and harm potential==\n{{Further|Responsible use#Hallucinogens}}\nThe long-term use of substances of the PCP class may lead to schizophrenia-like psychotic episodes, severe lasting memory loss, disorganized thinking, depression, weight loss, liver abnormalities and rhabdomyolysis (skeletal muscle breakdown).<ref name=\"erowid\">{{Citation | title=Erowid PCP (Phencyclidine) Vault : Effects | url=https://www.erowid.org/chemicals/pcp/pcp_effects.shtml}}</ref>\n\nIt is very strongly recommended that one use extreme caution and [[responsible drug use|harm reduction]] practices when using this substance. For example,\n\n*The biggest danger with this family of compounds is their potency, coupled with their duration of action and their propensity to cause bizarre manic states at higher dosages, start low and go slow if you are unfamiliar with its effects, by itself PCPy, if used carefully, is not any more dangerous than other more well known drugs.\n*Users should avoid taking the drug multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger adverse effects.\n*Users should start with extremely low doses and work their way up as slowly as possible. [[Volumetric liquid dosing|Volumetric liquid dosing]] should preferably be used due to the drug's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.\n*[[Compulsive redosing]] before one has fully sobered up is not recommended and can result in too high of a dose.\n\n===Psychosis===\nPCPy, like its parent, has been reported to cause [[psychosis]] and mania at a significantly higher rate than other [[dissociative]]s such as [[ketamine]], [[diphenidine]], or [[MXE]]. Multiple scientific papers describe states of psychosis, mania, and/or delirium occurring after moderate to large doses of the parent compound.\n\nDue to the risk of psychosis, it is not recommended to combine this substance with other substances, especially [[stimulant|stimulants]], [[psychedelic|psychedelics]], or other [[dissociative|dissociatives]] like [[MXE]] and [[DXM]].\n\n===Neurological effects===\nSome studies found that, like other [[NMDA receptor antagonist|NMDA receptor antagonists]], PCPy can cause brain damage called [https://en.wikipedia.org/wiki/Olney%27s_lesions Olney's lesions] in rats.<ref>{{cite journal | vauthors=((Olney, J. W.)), ((Labruyere, J.)), ((Price, M. T.)) | journal=Science (New York, N.Y.) | title=Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs | volume=244 | issue=4910 | pages=1360–1362 | date=16 June 1989 | issn=0036-8075 | doi=10.1126/science.2660263}}</ref><ref>{{cite journal | vauthors=((Hargreaves, R. J.)), ((Hill, R. G.)), ((Iversen, L. L.)) | journal=Acta Neurochirurgica. Supplementum | title=Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology | volume=60 | pages=15–19 | date= 1994 | doi=10.1007/978-3-7091-9334-1_4}}\n</ref> Studies conducted on rats showed that high doses of the NMDA receptor antagonist dizocilpine caused reversible vacuoles to form in certain regions of the rats' brains. All studies of Olney's lesions have only been performed on non-human animals and may not apply to humans. \n\nOne unpublished study by Frank Sharp reportedly showed no damage by the NMDA antagonist [[ketamine]] (a similar drug) far beyond recreational doses<ref>{{cite book | vauthors=((Grof, S.)) | date= 2010 | title=The ultimate journey: consciousness and the mystery of death | publisher=MAPS | edition=2. ed | isbn=9780966001976}}</ref> but its validity is controversial since it was never published.\n\nPCP-type compounds have also been shown to cause schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate levels in the rat brain, which are detectable both in living rats and upon necropsy examination of brain tissue.<ref>{{cite journal | vauthors=((Reynolds, L. M.)), ((Cochran, S. M.)), ((Morris, B. J.)), ((Pratt, J. A.)), ((Reynolds, G. P.)) | journal=Schizophrenia Research | title=Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain | volume=73 | issue=2–3 | pages=147–152 | date=1 March 2005 | issn=0920-9964 | doi=10.1016/j.schres.2004.02.003}}</ref>Rolicyclidine, like its parent, PCP, probably induces schizomimetic effects in humans.<ref>{{cite journal | vauthors=((Murray, J. B.)) | journal=The Journal of Psychology | title=Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research | volume=136 | issue=3 | pages=319–327 | date= May 2002 | issn=0022-3980 | doi=10.1080/00223980209604159}}</ref>\n\n===Urinary tract effects===\nIn terms of its long-term health effects when used repeatedly and excessively for extended periods of time, PCP-type compounds seem to have similar toxic effects as ketamine but as much lower dosages are usually employed it has less of a propensity to cause toxic effects, accumulate or present severe metabolic load.\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the uncontrolled leakage of urine.\n\n===Dependence and abuse potential===\nThe chronic use of PCPy can be considered [[Addiction potential::highly addictive with a high potential for adverse side effects such as psychosis]]. In comparison to other [[dissociative]]s, PCPy has been reported to be more addictive than [[MXE]], [[diphenidine]], [[ephenidine]], and [[ketamine]]. \n\nWhen addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of PCPy develops [[Time to full tolerance::with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). PCPy presents cross-tolerance with [[Cross-tolerance::all [[dissociative|dissociatives]]]], meaning that after the consumption of PCPy, all [[dissociative|dissociatives]] will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::MXE]]''' - PCPy generally potentiates the action of other arylcyclohexylamine dissociatives.\n*'''[[UncertainInteraction::Caffeine]]''' - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::Opioids]]''' - Opioids add to the central depressant action of PCPy, easily producing unconsciousness at higher doses\n*'''[[UnsafeInteraction::DOx]]''' - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*'''[[UnsafeInteraction::Amphetamines]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::MDMA]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::Cocaine]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::Alcohol]]''' - Adds to the central depressant effect of PCPy, dangerous at high dosages.\n*'''[[UnsafeInteraction::Benzodiazepines]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely. Small amounts of benzodiazepines might end a bad trip.\n*'''[[UnsafeInteraction::SSRIs]]''' - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::2C-T-x]]'''\n*'''[[DangerousInteraction::ΑMT]]'''\n*'''[[DangerousInteraction::5-MeO-xxT]]'''\n*'''[[UnsafeInteraction::DXM]]''' - Unnecessary as it might produce unpleasant effects such as dizziness or nausea, but may at the same time increase visuals and or dissociation.\n*'''[[DangerousInteraction::GHB]]''' - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::GBL]]''' - Details of this combination are not well understood but PCPy generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::Tramadol]]'''\n*'''[[DangerousInteraction::MAOIs]]''' - Stimulatory effects as are produced by this class of compounds are innately dangerous with MAO inhibition, potential serotonergic effects are deadly with MAO inhibition.\n\n==Legal status==\nInternationally, PCPy is a Schedule II substance under the Convention on Psychotropic Substances.<ref>{{cite web|archive-url=http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf|url=http://www.incb.org/pdf/e/list/green.pdf|archive-date=March 2, 2007|title=List of psychotropic substances under international control (Green List)|edition=23rd|date=August 2003|publisher=International Narcotics Control Board (INCB)}}</ref>\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Dissociative]]\n*[[Phencyclidines]]\n*[[3-MeO-PCP]]\n*[[MXE]]\n*[[PCE]]\n*[[DXM]]\n*[[Ketamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Rolicyclidine PCPy (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=691&name=PCPy PCPy (Isomer Design)]\n\n===Forums===\n\n*[https://bluelight.org/xf/threads/pcp-analogs-cumulative-retrospective-bioassays.504286/ Early thread about the chemistry of PCP, mentions PCPy (Bluelight)]\n\n==Literature==\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n{{reflist|2}}\n\n[[Category:Arylcyclohexylamine]]\n[[Category:Dissociative]]\n\n{{#set:Featured=true}}\n[[Category:Pyrrolidine]]"
+}

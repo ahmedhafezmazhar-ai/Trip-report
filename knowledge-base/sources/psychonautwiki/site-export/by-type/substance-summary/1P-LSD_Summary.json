@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10335",
+ "type": "substance-summary",
+ "title": "1P-LSD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1P-LSD/Summary",
+  "pageid": 10335,
+  "last_edited": "2015-10-14T14:16:38Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1P-LSD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1P-LSD}}"
+}

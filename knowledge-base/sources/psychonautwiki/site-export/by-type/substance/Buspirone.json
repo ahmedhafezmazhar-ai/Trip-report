@@ -1,0 +1,523 @@
+{
+ "id": "psychonautwiki:20796",
+ "type": "substance",
+ "title": "Buspirone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Buspirone",
+  "pageid": 20796,
+  "last_edited": "2026-10-09T08:35:19Z"
+ },
+ "categories": [
+  "Approval",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Buspirone",
+ "substance_box": {
+  "names": {
+   "common": "Buspirone, Buspar, Buspin",
+   "substitutive": "Buspirone",
+   "systematic": "8-(4-(4-(pyrimidin-2-yl)piperazin-1-yl)butyl)-8-azaspiro[4.5]decane-7,9-dione"
+  },
+  "classes": {
+   "psychoactive": "Anxiolytic",
+   "chemical": "Azapirone"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "3.9%",
+    "threshold": "5 mg",
+    "light": "7.5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "0.5 - 2.5 hours",
+    "peak": "40 - 90 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "16%",
+    "threshold": "5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "5 - 10 minutes",
+    "comeup": "10 - 15 minutes",
+    "peak": "15 - 45 hours",
+    "offset": "30 - 60 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Buspirone",
+    "Buspar",
+    "Buspin"
+   ],
+   "psychoactive class": [
+    "Anxiolytic"
+   ],
+   "chemical class": [
+    "Azapirone"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg",
+    "mg"
+   ],
+   "Oral min light dose": [
+    "7.5"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "0.5"
+   ],
+   "Oral max total time": [
+    "2.5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "40"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "5"
+   ],
+   "Insufflated max light dose": [
+    "10"
+   ],
+   "Insufflated min common dose": [
+    "10"
+   ],
+   "Insufflated max common dose": [
+    "25"
+   ],
+   "Insufflated min strong dose": [
+    "25"
+   ],
+   "Insufflated max strong dose": [
+    "40"
+   ],
+   "Insufflated heavy dose": [
+    "40"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "2"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "10"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "15"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "15"
+   ],
+   "Insufflated max peak time": [
+    "45"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "60"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Buspirone",
+   "clean": "Molecular structure of Buspirone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Buspirone.png",
+   "clean": "File:Buspirone.png"
+  },
+  "SkeletalImageWidth": {
+   "raw": "351px",
+   "clean": "351px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Buspirone]], [[common name::Buspar]], [[common name::Buspin]]",
+   "clean": "Buspirone, Buspar, Buspin"
+  },
+  "NameSubstitution": {
+   "raw": "Buspirone",
+   "clean": "Buspirone"
+  },
+  "NameSystematic": {
+   "raw": "8-(4-(4-(pyrimidin-2-yl)piperazin-1-yl)butyl)-8-azaspiro[4.5]decane-7,9-dione",
+   "clean": "8-(4-(4-(pyrimidin-2-yl)piperazin-1-yl)butyl)-8-azaspiro[4.5]decane-7,9-dione"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Anxiolytic]]",
+   "clean": "Anxiolytic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Azapirone]]",
+   "clean": "Azapirone"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "3.9%<ref>{{Citation | title=Jann MW. Buspirone: an update on a unique anxiolytic agent. Pharmacotherapy. 1988;8(2):100-16. doi: 10.1002/j.1875-9114.1988.tb03543.x. PMID: 3041384.| url=https://pubmed.ncbi.nlm.nih.gov/3041384/}}</ref>",
+   "clean": "3.9%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::7.5]] - [[Oral max light dose::15]] [[Oral dose units::mg]]",
+   "clean": "7.5 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::0.5]] - [[Oral max total time::2.5]] [[Oral total time units::hours]]",
+   "clean": "0.5 - 2.5 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::40]] - [[Oral max peak time::90]] [[Oral peak time units::hours]]",
+   "clean": "40 - 90 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "16%<ref>{{cite journal |journal=Al-Azhar Journal of Pharmaceutical Sciences|vauthors=Bshara H, Ahmed R, Holayel S, El-Shamy A  |date=March 2012|title=Improvement Of The Bioavailability Of Buspirone Hcl Using Intranasal Delivery Systems|url=https://pdfs.semanticscholar.org/6bcd/e62904ad2eb1fac40b14aeaba1c832ad2b14.pdf|volume=45|pages=86-102|doi= 10.21608/ajps.2012.7154}}</ref>",
+   "clean": "16%"
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::5]] - [[Insufflated max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::10]] - [[Insufflated max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::25]] - [[Insufflated max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::2]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::10]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::15]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 15 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::15]] - [[Insufflated max peak time::45]] [[Insufflated peak time units::hours]]",
+   "clean": "15 - 45 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::60]] [[Insufflated offset time units::hours]]",
+   "clean": "30 - 60 hours"
+  }
+ },
+ "plain_text": "Buspirone (trade name Buspar among others) is an anxiolytic substance of the azapirone class. It is primarily used to treat anxiety disorders, particularly generalized anxiety disorder (GAD.) It is a serotonin 5-HT1A receptor partial agonist, increasing action at serotonin receptors in the brain. \n\nIt is often prescribed as a safer alternative to benzodiazepines for anxiety as it does not activate GABA receptors and does not possess any addiction liability. At therapeutic doses, it has no immediate anxiolytic effects and hence has a delayed onset of action; its full clinical effectiveness may require 2–4 weeks to manifest itself.\n\nHistory and culture\n\nChemistry\n\nPharmacology\n\nSubjective effects\n\nExperience reports\n\nToxicity and harm potential\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nTolerance and addiction potential\n\nDangerous interactions\n\nLegal status\n\nSee also\n\n*Responsible use\n\nExternal links\n\n*Buspirone (Wikipedia)\n\nLiterature\n\n*APA formatted reference\n\nPlease see the citation formatting guide if you need assistance properly formatting citations.\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval",
+ "wikitext": "{{decree|type=notice|message=This article is in the 'Talk' namespace because it is an unfinished draft. This section is used to host drafts for unpublished articles as well as discussions for published ones. If you'd like to use this area to discuss this draft, please do so in the 'Discussion' section at the very bottom of the page. This notice will be removed once this draft has been approved for publication by an administrator.}}\n\n{{headerpanel|{{Approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/Buspirone}}\n'''Buspirone''' (trade name '''Buspar''' among others) is an [[Anxiety suppression|anxiolytic]] substance of the [[azapirone]] class. It is primarily used to treat [[Anxiety|anxiety disorders]], particularly generalized anxiety disorder (GAD.)<ref>[https://www.drugs.com/monograph/buspirone.html \"Buspirone Hydrochloride Monograph for Professionals\".] ''[https://drugs.com Drugs.com]''</ref> It is a [[serotonin]] 5-HT<sub>1A</sub> [[receptor]] [[Agonist|partial agonist]], increasing action at serotonin receptors in the brain.<ref>Loane C, Politis M (June 2012). \"Buspirone: what is it all about?\". ''Brain Research''. '''1461''': 111–118. https://doi.org/10.1016%2Fj.brainres.2012.04.032</ref> \n\nIt is often prescribed as a safer alternative to [[benzodiazepines]] for anxiety as it does not activate [[GABA|GABA receptors]] and does not possess any addiction liability.<ref>Wilson TK, Tripp J (January 2018). [https://www.ncbi.nlm.nih.gov/books/NBK531477/ \"Buspirone\".]</ref> At therapeutic doses, it has no immediate anxiolytic effects and hence has a delayed [[Onset|onset of action]]; its full clinical effectiveness may require 2–4 weeks to manifest itself.\n<!-- Please ensure that any new substance articles are first published in the 'Talk' namespace. For example, a new article on substance XYZ should have the title \"Talk: XYZ\" instead of \"XYZ\". Once the submitted article has been reviewed and determined to meet the guidelines and standards, it will be published by a staff member.\n\nFor tips on how to properly format a substance article, please refer to this document: [[Content Style Guide - Substance]]\n-->\n==History and culture==\n{{historyStub}}\n\n==Chemistry==\n{{chemistry}}\n==Pharmacology==\n{{pharmacology}}\n\n==Subjective effects==\n{{EffectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\nIf applicable, a brief paragraph summary of the substance's physical effects may be included here. \n\nYou may select physical effects to add below [[Subjective effect index#Physical effects|here]].\n\n*'''[[Effect::Physical effect]]''' \n*'''[[Effect::Physical effect2]]'''\n*'''[[Effect::Physical effect3]]'''\n\n}}\n{{effects/visual|\nIf applicable, a brief paragraph summary of the substance's visual effects may be included here. \n\nYou may select visual effects to add below [[Subjective effect index#Visual effects|here]].\n\n====Enhancements====\n*'''[[Effect::Visual acuity effect1]]'''\n\n====Distortions====\n*'''[[Effect::Visual distortion effect1]]'''\n\n====[[Effect::Geometry]]====\nIf applicable, a brief paragraph summary describing the visual geometry produced by the substance may be included here.\n====Hallucinatory states====\nIf applicable, a brief summary of the substance's visual effects profile may be written here.\n\n*'''[[Effect::Hallucinatory states1]]'''\n\n}}\n\n|{{effects/cognitive|\nIf applicable, a brief paragraph summary of the substance's cognitive effects may be included here. \n\nYou may select from a list of cognitive effects to add below [[Subjective effect index#Cognitive effects|here]].\n\n*'''[[Effect::Cognitive effect1]]''' \n*'''[[Effect::Cognitive effect2]]''' \n*'''[[Effect::Cognitive effect3]]''' \n\n}}\n{{effects/auditory|\nIf applicable, a brief paragraph summary of the substance's auditory effects may be included here. \n\nYou may select from a list of auditory effects to add below [[Subjective effect index#Auditory effects|here]].\n\n*'''[[Effect::Auditory effect1]]'''\n*'''[[Effect::Auditory effect2]]'''\n\n}}\n{{effects/multisensory|\nIf applicable, a brief paragraph summary of the substance's multisensory effects may be included here. \n\nYou may select from a list of multisensory effects to add below [[Subjective effect index#Multisensory effects|here]].\n\n*'''[[Effect::Multisensory effect1]]''' \n*'''[[Effect::Multisensory effect2]]''' \n\n}}\n{{effects/transpersonal|\nIf applicable, a brief paragraph summary of the substance's transpersonal effects may be included here. \n\nYou may select from a list of transpersonal effects to add below [[Subjective effect index#Transpersonal effects|here]].\n\n*'''[[Effect::Transpersonal effect1]]'''\n*'''[[Effect::Transpersonal effect2]]'''\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=Pharms - Buspirone}}\n\n==Toxicity and harm potential==\n{{toxicity}}\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n===Lethal dosage===\n===Tolerance and addiction potential===\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n==Legal status==\n{{LegalStub}}\n\n==See also==\n\n*[[Responsible use]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Buspirone Buspirone (Wikipedia)]\n\n==Literature==\n\n*APA formatted reference\n\nPlease see the [[citation formatting guide]] if you need assistance properly formatting citations.\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]"
+}

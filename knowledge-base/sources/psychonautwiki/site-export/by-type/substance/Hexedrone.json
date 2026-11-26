@@ -1,0 +1,306 @@
+{
+ "id": "psychonautwiki:13120",
+ "type": "substance",
+ "title": "Hexedrone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Hexedrone",
+  "pageid": 13120,
+  "last_edited": "2024-04-21T23:45:02Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "CS1 German-language sources (de)",
+  "Cathinone",
+  "Proofread",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Hexedrone",
+ "substance_box": {
+  "names": {
+   "common": "Hexedrone",
+   "substitutive": "",
+   "systematic": "2-(methylamino)-1-phenylhexan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "30 mg",
+    "light": "50 - 70 mg",
+    "common": "70 - 100 mg",
+    "strong": "100 - 125 mg",
+    "heavy": "125 mg +",
+    "duration": "1 - 4 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Hexedrone"
+   ],
+   "Oral threshold dose": [
+    "30"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "70"
+   ],
+   "Oral min common dose": [
+    "70"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "125"
+   ],
+   "Oral heavy dose": [
+    "125"
+   ],
+   "Oral min total time": [
+    "1"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Hexedrone.",
+   "clean": "Molecular structure of Hexedrone."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Hexedrone.svg",
+   "clean": "File:Hexedrone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Hexedrone]]",
+   "clean": "Hexedrone"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-(methylamino)-1-phenylhexan-1-one",
+   "clean": "2-(methylamino)-1-phenylhexan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Substituted cathinone|Cathinone]]",
+   "clean": "Cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/hexedrone TripSit]'''",
+   "clean": "This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::30]] [[Oral dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::70]] mg",
+   "clean": "50 - 70 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::70]] - [[Oral max common dose::100]] mg",
+   "clean": "70 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::125]] mg",
+   "clean": "100 - 125 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::125]] mg +",
+   "clean": "125 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  }
+ },
+ "plain_text": "Hexedrone is a novel synthetic stimulant of the cathinone class. It has been speculated to act as a norepinephrine-dopamine-reuptake-inhibitor (NDRI).\n\nSubjective effects include stimulation, disinhibition, thought acceleration and euphoria.\n\nLittle is known about toxicity, addiction, and abuse potential of hexedrone. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be treated with caution.\n\nChemistry\n\nHexedrone is a cathinone, which is closely related to amphetamines, but have a ß-substituted ketone group as well. Relative to regular cathinone, which can be found in the Khat plant, hexedrone consists of two added substitutions. At the R2 position, a n-Butyl substitution forms a hexan chain. The second substitution is a Methyl group, that's attached to the amine (R4), thus forming N-Methyl.\n\nPharmacology\n\nDue to the lack of research regarding the substance, all discussion regarding the pharmacology of it is purely based upon its structure and subjective effect similarities to other cathinones such as pentedrone and others. Hexedrone most likely acts as both a dopamine and norepinephrine reuptake inhibitor. This allows dopamine and norepinephrine to build up within the brain, resulting in stimulating and euphoric effects. \n\nThe decreased potency, compared to both pentedrone as well as ethyl-hexedrone can be easily explained. Compared to pentedrone, there is a larger non-polar side chain. Ethyl-hexedrone has an ethyl group, instead of a methyl, which results in a significantly shifted electronegativity.\n\nSubjective effects\n\nToxicity and harm potential\n\nSince hexedrone has been insufficiently studied and most data consists of speculation and user experiences, one should be especially cautious when it comes to the risks and harm this substance may pose, especially in terms of seriouslong-term  health hazards.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of Hexedrone can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of hexedrone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Hexedrone presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of Hexedrone all stimulants will have a reduced effect.\n\nLegal status\n\n*Brazil: On September 7, 2018, all Cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.\n*Germany: Hexedrone is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: Hexedrone can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.\n*United Kingdom: Hexedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Substituted cathinone\n\nExternal links\n\n*Hexedrone (Wikipedia)\n*Hexedrone (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Cathinone\nCategory:Research chemical\nCategory:Proofread",
+ "wikitext": "{{distinguish2|[[N-Ethylhexedrone|N-Ethylhexedrone (Hexen)]]}}\n{{SummarySheet}}\n{{SubstanceBox/Hexedrone}}\n'''Hexedrone''' is a novel synthetic [[psychoactive class::stimulant]] of the [[chemical class::cathinone]] class. It has been speculated to act as a [[norepinephrine]]-[[dopamine]]-[[reuptake inhibitor|reuptake-inhibitor]] (NDRI).\n\n[[Subjective effects]] include [[stimulation]], [[disinhibition]], [[thought acceleration]] and [[euphoria]].\n\nLittle is known about toxicity, addiction, and abuse potential of hexedrone. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be treated with caution.\n\n==Chemistry==\nHexedrone is a [[Substituted cathinone|cathinone]], which is closely related to [[Amphetamines|amphetamines]], but have a ß-substituted ketone group as well. Relative to regular cathinone, which can be found in the Khat plant, hexedrone consists of two added substitutions. At the R<sub>2</sub> position, a n-Butyl substitution forms a hexan chain. The second substitution is a Methyl group, that's attached to the amine (R<sub>4</sub>), thus forming N-Methyl.\n\n==Pharmacology==\nDue to the lack of research regarding the substance, all discussion regarding the pharmacology of it is purely based upon its structure and subjective effect similarities to other [[Substituted cathinone|cathinone]]s such as [[Pentedrone|pentedrone]] and others. Hexedrone most likely acts as both a [[dopamine]] and [[norepinephrine]] [[reuptake inhibitor]]. This allows [[Dopamine|dopamine]] and [[Norepinephrine|norepinephrine]] to build up within the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects. \n\nThe decreased potency, compared to both pentedrone as well as [[Ethyl-Hexedrone|ethyl-hexedrone]] can be easily explained. Compared to pentedrone, there is a larger non-polar side chain. Ethyl-hexedrone has an ethyl group, instead of a methyl, which results in a significantly shifted electronegativity.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous tactile sensations]]''' - High doses of hexedrone result in a pleasurable body high characterized by pleasant tingling.  \n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, hexedrone can be considered to be extremely stimulating and energetic. \n*'''[[Effect::Dehydration]]''' - Dry mouth and increased sweating can occur after consuming hexedrone. Low doses of the substance in question cause minimal dehydration.\n*'''[[Effect::Vasoconstriction]]''' - Hexedrone can be considered slightly vasoconstricting.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Analysis enhancement]]''' - This effect is mostly present in lower doses when not overshadowed by euphoria.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Increased music appreciation]]'''\n\n}}\n\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n\n}}\n<!-- STOP copy paste -->\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nSince hexedrone has been insufficiently studied and most data consists of speculation and user experiences, one should be especially cautious when it comes to the risks and harm this substance may pose, especially in terms of seriouslong-term  health hazards.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of Hexedrone can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of hexedrone [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Hexedrone presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of Hexedrone all [[stimulant]]s will have a reduced effect.\n\n==Legal status==\n{{LegalStub}}\n\n*'''Brazil''': On September 7, 2018, all Cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.<ref>New blanket ban on synthetic illegal drugs is approved (Portuguese) | http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil</ref>\n*'''Germany''': Hexedrone is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 23, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref>\n*'''Switzerland''': Hexedrone can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Hexedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Substituted cathinone]]\n==External links==\n*[https://en.wikipedia.org/wiki/Hexedrone Hexedrone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=641 Hexedrone (Isomer Design)]\n\n==References==\n{{references}}\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Cathinone]]\n[[Category:Research chemical]]\n[[Category:Proofread]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19555",
+ "type": "substance-summary",
+ "title": "Flunitrazolam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Flunitrazolam/Summary",
+  "pageid": 19555,
+  "last_edited": "2021-09-28T19:01:34Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Flunitrazolam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Flunitrazolam}}"
+}

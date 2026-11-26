@@ -1,0 +1,426 @@
+{
+ "id": "psychonautwiki:7600",
+ "type": "substance",
+ "title": "Brown rice flour psilocybin mushroom tek",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Brown_rice_flour_psilocybin_mushroom_tek",
+  "pageid": 7600,
+  "last_edited": "2024-04-21T23:15:58Z"
+ },
+ "categories": [
+  "Mushroom cultivation",
+  "Mycology"
+ ],
+ "substance_box_template": "SubstanceBox/4-HO-DMT",
+ "substance_box": {
+  "names": {
+   "common": "Psilocin, Psilocine, Psilocyn, Psilotsin, 4-HO-DMT, 4-OH-DMT",
+   "substitutive": "4-Hydroxy-N,N-dimethyltryptamine",
+   "systematic": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": ">",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "The dosage below assumes that one is using pure psilocin powder, which is very uncommon.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 45 minutes",
+    "comeup": "1.5 - 3 hours",
+    "peak": "2 - 3 hours",
+    "offset": "1.5 - 2 hours",
+    "aftereffects": "4 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Psilocin",
+    "Psilocine",
+    "Psilocyn",
+    "Psilotsin",
+    "4-HO-DMT",
+    "4-OH-DMT"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Tryptamine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1.5"
+   ],
+   "Oral max comeup time": [
+    "3"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1.5"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 4-HO-DMT",
+   "clean": "Molecular structure of 4-HO-DMT"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Psilocin.svg",
+   "clean": "File:Psilocin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Psilocin]], [[common name::Psilocine]], [[common name::Psilocyn]], [[common name::Psilotsin]], [[common name::4-HO-DMT]], [[common name::4-OH-DMT]]",
+   "clean": "Psilocin, Psilocine, Psilocyn, Psilotsin, 4-HO-DMT, 4-OH-DMT"
+  },
+  "NameSubstitution": {
+   "raw": "4-Hydroxy-N,N-dimethyltryptamine",
+   "clean": "4-Hydroxy-N,N-dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol",
+   "clean": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": ">",
+   "clean": ">"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "<br>\n<span style=\"color:black\">'''The dosage below assumes that one is using pure [[psilocin]] powder, which is very uncommon.'''</span>",
+   "clean": "The dosage below assumes that one is using pure psilocin powder, which is very uncommon."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1.5]] - [[Oral max comeup time::3]] [[Oral comeup time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1.5]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 24 hours"
+  }
+ },
+ "plain_text": "This article represent the BRF (Brown Rice Flour) tek, also known as PF tek, this tek is specially created for growing Psilocybe cubensis mushrooms, although it may work for similar mushrooms in the Psilocybe genus like Psilocybe mexicana. Also, multiple cakes minimize the risk of contamination, so successful cakes can be diluted later if you prefer bulk growing as described in this guide.\n\nMaterials and equipment\n\n* Vermiculite\n* Perlite\n* Water\n* Brown rice flour/rye flour\n* Short wide jars\n* Big bowl\n* Spoon\n* Tin foil\n* Pressure cooker\n* Spore prints\n* Syringe\n* 2 plastic toy tubs\n* An aquarium heater\n* 2 extra Spare jars\n* Towel\n* Colander\n* 1 large tub with a lid\n* Drill\n* Spray bottle\n\nFor bulk substrate (optional)\n* Vermiculite\n* Coco coir\n* Gypsum\n\nThe procedure\n\nSterilize\n\nBefore the BRF tek is started, sterilization procedures need to be taken. \nThe surface working on should be as sterile as possible as well as the equipment and tools.\n\nWindows should be kept open if possible, as this will help with the air staying sterile.\n\nAn antiseptic cleaning spray should be sprayed in the area that will be worked in every so often to ensure no dust or germs infect the jars.\nIt’s vital that sterilization procedures are taken as it’s very easy for the jars to become contaminated.\n\nMaking the cakes\n\nTo know how much vermiculite, water, and brown rice flour is needed, a bit of math is required (but nothing too complicated).\n\nThe following ingredients are needed to fill a 240ml jar:\n\n* 140ml Vermiculite.\n* 40ml Brown rice flour.\n* 20-30ml water.\n\nTo work out how much of these ingredients will be needed, it will depend on the number of jars and how much the jar can contain.\nFor example, if we wanted to use six 240ml jars, each ingredient would need to be multiplied by 6.\n\nContamination is quite common, so if you are going to dilute your BRF cakes with bulk substrate later instead of growing them as cakes, it's wise to make at least 4 cakes, so if you fail with 50% of the jars, you still have 2 jars (400 g) which should be sufficient to dilute them later with 800-1200 g bulk substrate.\n\nOnce the amount of each ingredient is figured out, the vermiculite and water need to be mixed until the water starts to pool when the bowl is tilted to the side.\n\nAfterward, the brown rice flour is added.\nThe mix then needs to be put into the jars, leaving about half an inch left at the top, and then filled with dry vermiculite.\n\n2 Layers of foil need to be put on top of the jars tightly, so they won’t come off. Then put a 3rd layer of foil on very loosely.\n\nThe jars need to be sterilized further, so they need to be put in a pressure cooker for about 20-30 minutes. The lids of the jars can be put at the bottom of the pressure cooker to ensure that the jars at the bottom of the pressure cooker do not get too hot.\n300px|thumbnail|Spore syringe\n\nInoculation\n\nAfter the jars have cooled down, the jars then need to be inoculated with the spores.\nA syringe is used to do this, and it needs to be sterile.The spore print should be scraped off with a scalpel very lightly into a sterile jar or cup, and then 10ml of water should be added.\n\nUsing the syringe, the water, and spore mixture should be sucked into the syringe. If the spores stick to the bottom of the jar, empty and refill the syringe a few times. This also helps to ensure that the spores are properly mixed into the water.\n\nThe 3rd layer of foil on top of the jars should be taken off then pierce four sides of the 2nd layer of foil with the syringe. The number of spores put into the jar does not really matter too much, but more usually is better to ensure the jars do get inoculated. Once all the jars are inoculated, the 3rd layer of foil needs to be put back on the jars tightly.\n\nIncubation\n\nOne of the tubs should have an aquarium heater placed on the bottom of the tub and then filled 1/3 of the way up with water.\nThe aquarium heater should be set to 27 degrees C.\nThen the second tub should be placed inside, using the spare jars to hold up the second tub, so that the aquarium heater is not touching the bottom of the top tub.\nThe jars should be then placed inside the tub. If the jars need to be stacked, a piece of card should be used to separate them as the bottom of the jars should not be resting on top of the foil as this could make the foil become loose and then will be prone to contamination.\nA clean towel should then be placed on top of the box to keep in the heat.\n300px|thumbnail|Colonization of Psilocybe cyanescens.\n200px|thumbnail|A contaminated jar.\n\nColonization\n\nAfter 3-5 days, signs of colonization should appear. The jars should have little specks of a white growing inside of them; this is the mycelium that will eventually colonize the whole jar.\nIf any other color other than white (and the brown vermiculite) is seen in the jars, it means that the jars have been contaminated and has mold growing on them. More sterile procedures need to be taken the next time this is done.\n\nIf the jars have started to colonize properly, then full colonization should take from 2 to 6 weeks.\nDepending on certain things, colonization can vary from just a couple of days to a month or two.\n\nThings that will affect the speed of the colonization are:\n\n* Temperature of the room\n* Air humidity\n* The strain of spore\n* Patience is needed for this step, but if signs of colonization are shown, most likely the whole jar will eventually be colonized.\n\nDilute with bulk substrate (optional)\n\nDilute the colonized substrate into larger volumes of bulk substrate to significantly increase the fruit yield later.\n\nTo prepare bulk substrate. For 2 jars (400 g) colonized substrate, add 2:1 or 3:1 ratio of your current colonization, mix:\n\n{| class=\"wikitable sortable\" style=\"width: auto; text-align: center;\"\n|-\n! Colonized:bulk substrate ratio\n! Substrate\n! Water\n|-\n| 2:1\n| 400 g vermiculite:400 g coco coir:88 grams gypsum\n| 2.9 L\n|-\n| 3:1\n| 540 g vermiculite:540 g coco coir:120 grams gypsum\n| 4.4 L\n|}\n\n* Mix the bulk substrate and put it in a plastic bucket.\n* Boil the water\n* Pour the water in the bucket, and cover the bucket with a lid.\n* Let the mixture cool down to room temperature. Don't proceed to the next step if it's hot, because it will kill the mycelium.\n* Mix the colonized substrate with the bulk substrate.\n* Start all over with the colonization process.\n\nPinning\n\nWhen the jar has completely colonized, they should be taken out of the incubator and placed in direct sunlight at room temperature.\nPins should start to be seen in the jars after 5 days, but sometimes pinning can occur during step 8. \n(Pinning is the name given to the mushrooms when they are first seen, as they are very, very small and thin.)\n\nDunk, and roll\n\nAfter 5 days are over, the cakes should be taken out of the jars and washed under a tap, to get any excess vermiculite off.\nThe cakes should then be submerged (dunked) in a big pot of water for 24 hours.\nAfter the 24 hours, the cakes then need to be taken out of the water and rolled in dry vermiculite, helping to keep in the moisture.\n(Cakes are the name given to the mixture of vermiculite and mycelium once they have left the jars.)\n250px|thumbnail\n\nFruiting\n\nA fruiting chamber is needed and is made by drilling multiple holes on all 4 sides of the tub and on the lid (this helps with the air flow in the tub).\nThe perlite should be poured into a colander and soaked in water thoroughly. After the perlite has been soaked, it should be placed into the fruiting chamber (about 5-7 liters is needed, but depending on the size of the tub the level of perlite should be about 2-4 inches high).\n\nThe cakes should be then placed in the fruiting chamber on top of a small square piece of foil to ensure that the mycelium does not grow in the perlite, But I am not entirely sure if that is a bad thing or not (yet)…\nThen when the cakes are all placed inside, the tub should be sprayed with water AT LEAST three times a day.\n\nIf pinning didn’t occur during step 6, they should start to pin during this step, but again patience is needed as pinning can sometimes take a while.\n200px|thumbnail|Now they are fully grown and ready to pick.\n\nPicking\n\nYou should see progress within a week or two, possibly less than that.\nPicking them is usually best to do, just after the veil is broken (the veil is the thin piece that attaches the stem to the cap).\nIf you see some pins on the cakes that have turned black, these are called aborts. They are still okay to eat. They just didn’t manage to grow quickly enough, but they’ll still have psilocybin in them ;)\n\nDosage, onset and duration\n\n* Threshold: 0.25 g \n* Light: 0.25 – 2.5 g \n* Moderate: 2.5 - 5 g \n* Strong: 5 + g Onset : 10 - 40 minutes\n\n* Onset: 20 - 60 minutes (when swallowed on an empty stomach)\n* Duration: 2 - 6 hours\n* Normal after effects: up to 8 hours\n\nPreparation\n\nThe easiest method of preparation for eliminating nausea and taste is having the mushrooms prepared into a chocolate bar.\nThis can be done by melting a small standard size chocolate bar. While the chocolate melts, the dried mushrooms need to be blended into a fine powder.\nThe powdered mushrooms would then be mixed into the melted chocolate, and the mixture should then be left to set in a mold and placed into the fridge so that the chocolate can settle. Once the chocolate has settled, the tasty psychedelic treat can be consumed.\n\nA quicker technique is putting blended mushroom powder into a chocolate spread or jam sandwich as this disguises the taste completely and reduces nausea in leaps and bounds.\n\nSee also\n\n*Responsible use\n*Mushrooms\n*4-AcO-DMT\n*Tutorial index\n\nExternal links\n\n* Enteogenic Mushrooms - philosophy of cultivation\n\nCategory:Mushroom cultivation\nCategory:Mycology",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/4-HO-DMT}}\n\n'''This article represent the BRF (Brown Rice Flour) tek, also known as PF tek, this tek is specially created for growing [[Psilocybe cubensis (mycology)|Psilocybe cubensis]] mushrooms, although it may work for similar mushrooms in the [[:category:Psilocybe (genus)|Psilocybe genus]] like [[Psilocybe mexicana (mycology)|Psilocybe mexicana]]. Also, multiple cakes minimize the risk of contamination, so successful cakes can be diluted later if you prefer [[#Dilute with bulk substrate (optional)|bulk]] growing as described in this guide.'''\n\n===Materials and equipment===\n* Vermiculite\n* Perlite\n* Water\n* Brown rice flour/rye flour\n* Short wide jars\n* Big bowl\n* Spoon\n* Tin foil\n* Pressure cooker\n* Spore prints\n* Syringe\n* 2 plastic toy tubs\n* An aquarium heater\n* 2 extra Spare jars\n* Towel\n* Colander\n* 1 large tub with a lid\n* Drill\n* Spray bottle\n\nFor bulk substrate (optional)\n* Vermiculite\n* Coco coir\n* Gypsum\n\n===The procedure===\n\n====Sterilize====\nBefore the BRF tek is started, sterilization procedures need to be taken. \nThe surface working on should be as sterile as possible as well as the equipment and tools.\n\nWindows should be kept open if possible, as this will help with the air staying sterile.\n\nAn antiseptic cleaning spray should be sprayed in the area that will be worked in every so often to ensure no dust or germs infect the jars.\nIt’s vital that sterilization procedures are taken as it’s very easy for the jars to become contaminated.\n\n====Making the cakes====\nTo know how much vermiculite, water, and brown rice flour is needed, a bit of math is required (but nothing too complicated).\n\nThe following ingredients are needed to fill a 240ml jar:\n\n* 140ml Vermiculite.\n* 40ml Brown rice flour.\n* 20-30ml water.\n\nTo work out how much of these ingredients will be needed, it will depend on the number of jars and how much the jar can contain.\nFor example, if we wanted to use six 240ml jars, each ingredient would need to be multiplied by 6.\n\nContamination is quite common, so if you are going to dilute your BRF cakes with [[#Dilute with bulk substrate (optional)|bulk substrate later]] instead of growing them as cakes, it's wise to make at least 4 cakes, so if you fail with 50% of the jars, you still have 2 jars (400 g) which should be sufficient to dilute them later with 800-1200 g bulk substrate.\n\nOnce the amount of each ingredient is figured out, the vermiculite and water need to be mixed until the water starts to pool when the bowl is tilted to the side.\n\nAfterward, the brown rice flour is added.\nThe mix then needs to be put into the jars, leaving about half an inch left at the top, and then filled with dry vermiculite.\n\n2 Layers of foil need to be put on top of the jars tightly, so they won’t come off. Then put a 3rd layer of foil on very loosely.\n\nThe jars need to be sterilized further, so they need to be put in a pressure cooker for about 20-30 minutes. The lids of the jars can be put at the bottom of the pressure cooker to ensure that the jars at the bottom of the pressure cooker do not get too hot.\n[[File:SporeSyringe222.jpg|300px|thumbnail|Spore syringe]]\n\n====Inoculation====\nAfter the jars have cooled down, the jars then need to be inoculated with the spores.\nA syringe is used to do this, and it needs to be sterile.The spore print should be scraped off with a scalpel very lightly into a sterile jar or cup, and then 10ml of water should be added.\n\nUsing the syringe, the water, and spore mixture should be sucked into the syringe. If the spores stick to the bottom of the jar, empty and refill the syringe a few times. This also helps to ensure that the spores are properly mixed into the water.\n\nThe 3rd layer of foil on top of the jars should be taken off then pierce four sides of the 2nd layer of foil with the syringe. The number of spores put into the jar does not really matter too much, but more usually is better to ensure the jars do get inoculated. Once all the jars are inoculated, the 3rd layer of foil needs to be put back on the jars tightly.\n\n====Incubation====\nOne of the tubs should have an aquarium heater placed on the bottom of the tub and then filled 1/3 of the way up with water.\nThe aquarium heater should be set to 27 degrees C.\nThen the second tub should be placed inside, using the spare jars to hold up the second tub, so that the aquarium heater is not touching the bottom of the top tub.\nThe jars should be then placed inside the tub. If the jars need to be stacked, a piece of card should be used to separate them as the bottom of the jars should not be resting on top of the foil as this could make the foil become loose and then will be prone to contamination.\nA clean towel should then be placed on top of the box to keep in the heat.\n[[File:Psilocybe-cyanescens-spawnbag.jpg|300px|thumbnail|Colonization of Psilocybe cyanescens.]]\n[[File:ContaminationJar.jpg|200px|thumbnail|A contaminated jar.]]\n\n====Colonization====\nAfter 3-5 days, signs of colonization should appear. The jars should have little specks of a white growing inside of them; this is the mycelium that will eventually colonize the whole jar.\nIf any other color other than white (and the brown vermiculite) is seen in the jars, it means that the jars have been contaminated and has mold growing on them. More sterile procedures need to be taken the next time this is done.\n\nIf the jars have started to colonize properly, then full colonization should take from 2 to 6 weeks.\nDepending on certain things, colonization can vary from just a couple of days to a month or two.\n\nThings that will affect the speed of the colonization are:\n\n* Temperature of the room\n* Air humidity\n* The strain of spore\n* Patience is needed for this step, but if signs of colonization are shown, most likely the whole jar will eventually be colonized.\n\n====Dilute with bulk substrate (optional)====\nDilute the colonized substrate into larger volumes of bulk substrate to significantly increase the fruit yield later.\n\nTo prepare bulk substrate. For 2 jars (400 g) colonized substrate, add 2:1 or 3:1 ratio of your current colonization, mix:\n\n{| class=\"wikitable sortable\" style=\"width: auto; text-align: center;\"\n|-\n! Colonized:bulk substrate ratio\n! Substrate\n! Water\n|-\n| 2:1\n| 400 g vermiculite:400 g coco coir:88 grams gypsum\n| 2.9 L\n|-\n| 3:1\n| 540 g vermiculite:540 g coco coir:120 grams gypsum\n| 4.4 L\n|}\n\n* Mix the bulk substrate and put it in a plastic bucket.\n* Boil the water\n* Pour the water in the bucket, and cover the bucket with a lid.\n* Let the mixture cool down to room temperature. Don't proceed to the next step if it's hot, because it will kill the mycelium.\n* Mix the colonized substrate with the bulk substrate.\n* Start all over with the [[#Colonization|colonization]] process.\n\n====Pinning====\nWhen the jar has completely colonized, they should be taken out of the incubator and placed in direct sunlight at room temperature.\nPins should start to be seen in the jars after 5 days, but sometimes pinning can occur during step 8. \n(Pinning is the name given to the mushrooms when they are first seen, as they are very, very small and thin.)\n\n====Dunk, and roll====\nAfter 5 days are over, the cakes should be taken out of the jars and washed under a tap, to get any excess vermiculite off.\nThe cakes should then be submerged (dunked) in a big pot of water for 24 hours.\nAfter the 24 hours, the cakes then need to be taken out of the water and rolled in dry vermiculite, helping to keep in the moisture.\n(Cakes are the name given to the mixture of vermiculite and mycelium once they have left the jars.)\n[[File:PsilocybeFruiting.jpg|250px|thumbnail]]\n\n====Fruiting====\nA fruiting chamber is needed and is made by drilling multiple holes on all 4 sides of the tub and on the lid (this helps with the air flow in the tub).\nThe perlite should be poured into a colander and soaked in water thoroughly. After the perlite has been soaked, it should be placed into the fruiting chamber (about 5-7 liters is needed, but depending on the size of the tub the level of perlite should be about 2-4 inches high).\n\nThe cakes should be then placed in the fruiting chamber on top of a small square piece of foil to ensure that the mycelium does not grow in the perlite, But I am not entirely sure if that is a bad thing or not (yet)…\nThen when the cakes are all placed inside, the tub should be sprayed with water AT LEAST three times a day.\n\nIf pinning didn’t occur during step 6, they should start to pin during this step, but again patience is needed as pinning can sometimes take a while.\n[[File:055400588-image33.jpg|200px|thumbnail|Now they are fully grown and ready to pick.]]\n\n====Picking====\nYou should see progress within a week or two, possibly less than that.\nPicking them is usually best to do, just after the veil is broken (the veil is the thin piece that attaches the stem to the cap).\nIf you see some pins on the cakes that have turned black, these are called aborts. They are still okay to eat. They just didn’t manage to grow quickly enough, but they’ll still have psilocybin in them ;)\n\n===Dosage, onset and duration===\n* Threshold: 0.25 g \n* Light: 0.25 – 2.5 g \n* Moderate: 2.5 - 5 g \n* Strong: 5 + g Onset : 10 - 40 minutes\n\n* Onset: 20 - 60 minutes (when swallowed on an empty stomach)\n* Duration: 2 - 6 hours\n* Normal after effects: up to 8 hours\n\n===Preparation===\nThe easiest method of preparation for eliminating nausea and taste is having the mushrooms prepared into a chocolate bar.\nThis can be done by melting a small standard size chocolate bar. While the chocolate melts, the dried mushrooms need to be blended into a fine powder.\nThe powdered mushrooms would then be mixed into the melted chocolate, and the mixture should then be left to set in a mold and placed into the fridge so that the chocolate can settle. Once the chocolate has settled, the tasty psychedelic treat can be consumed.\n\nA quicker technique is putting blended mushroom powder into a chocolate spread or jam sandwich as this disguises the taste completely and reduces nausea in leaps and bounds.\n\n===See also===\n*[[Responsible use]]\n*[[Mushrooms]]\n*[[4-AcO-DMT]]\n*[[Tutorial index]]\n\n===External links===\n* [http://www.en.psilosophy.info/psilosopedium Enteogenic Mushrooms - philosophy of cultivation]\n\n[[Category:Mushroom cultivation]]\n[[Category:Mycology]]\n\n{{#set:Featured=true}}"
+}

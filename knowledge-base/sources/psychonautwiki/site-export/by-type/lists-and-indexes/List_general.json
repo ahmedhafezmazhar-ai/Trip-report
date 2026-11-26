@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:11996",
+ "type": "lists-and-indexes",
+ "title": "List/general",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/List/general",
+  "pageid": 11996,
+  "last_edited": "2025-07-13T18:15:24Z"
+ },
+ "categories": [],
+ "plain_text": "__NOTOC__\n\n    \n        \n            Psychonautics x20px|right|link=\n            \n                \n*Entheogens\n*Hallucinogens\n*Psychoactive substances\n*Naturally occurring sources\n*Learning techniques\n*Lucid dreaming\n*Meditation\n*Tulpas\n*Oneirogens\n*Responsible use\n*Routes of administration\n*Sensory deprivation\n*Spokespeople\n*Trip sitter\n                \n            \n        \n    \n\n    \n        \n            Community x20px|right|link=\n            \n                \n*PsychonautWiki\n*High score board\n*User levels\n*Donate\n*Disclaimer\n*Good vibes\n*Network\n*Facebook\n*Twitter\n                \n            \n        \n    \n\n    \n        \n            Development x20px|right|link=\n            \n            \n                \n*Recent changes\n*To-do list\n*Change log\n*Guidelines\n*Blog",
+ "wikitext": "<noinclude>\n__NOTOC__\n</noinclude>\n<onlyinclude>\n<div class=\"flex-panel\">\n    <div class=\"flex-column\">\n        <div class=\"panel radius\">\n            <h3 class=\"panel-header\">[[Psychonautics]] [[File:Eye.svg|x20px|right|link=]]</h3>\n            <ul class=\"featured-table\">\n                <li class=\"featured list-item\">\n*[[Entheogens]]\n*[[Hallucinogens]]\n*[[Psychoactive substances]]\n*[[Naturally occurring sources]]\n*[[Learning techniques]]\n*[[Lucid dreaming]]\n*[[Meditation]]\n*[[Tulpas]]\n*[[Oneirogens]]\n*[[Responsible use]]\n*[[Routes of administration]]\n*[[Sensory deprivation]]\n*[[Spokespeople]]\n*[[Trip sitter]]\n                </li>\n            </ul>\n        </div>\n    </div>\n\n    <div class=\"flex-column\">\n        <div class=\"panel radius\">\n            <h3 class=\"panel-header\">Community [[File:users.svg|x20px|right|link=]]</h3>\n            <ul class=\"featured-table\">\n                <li class=\"featured list-item\">\n*[[PsychonautWiki]]\n*[[Special:TopUsers|High score board]]\n*[[Help:User levels|User levels]]\n*[[Donate|Donate]]\n*[[Project:General disclaimer|Disclaimer]]\n*[[Good vibes|Good vibes]]\n*[[Project:Network|Network]]\n*[https://www.facebook.com/pages/PsychonautWiki/1647600655466130 Facebook]\n*[https://twitter.com/PsychonautWiki Twitter]\n                </li>\n            </ul>\n        </div>\n    </div>\n\n    <div class=\"flex-column\">\n        <div class=\"panel radius\">\n            <h3 class=\"panel-header\">Development [[File:line-chart.svg|x20px|right|link=]]</h3>\n            \n            <ul class=\"featured-table\">\n                <li class=\"featured list-item\">\n*[[Special:RecentChanges|Recent changes]]\n*[[To-do list|To-do list]]\n*[http://psychonautwiki.tumblr.com/ Change log]\n*[[Guidelines|Guidelines]]\n*[http://www.disregardeverythingisay.com Blog]\n                </li>\n            </ul>\n        </div>\n    </div>\n</div>\n</onlyinclude>"
+}

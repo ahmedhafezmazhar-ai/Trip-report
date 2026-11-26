@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10866",
+ "type": "substance-summary",
+ "title": "DOM/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/DOM/Summary",
+  "pageid": 10866,
+  "last_edited": "2015-11-13T04:36:53Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "DOM",
+ "plain_text": "",
+ "wikitext": "{{Summary|DOM}}"
+}

@@ -1,0 +1,222 @@
+{
+  "source": {
+    "title": "Responsible drug use",
+    "site": "PsychonautWiki",
+    "requested_url": "https://psychonautwiki.org/wiki/Harm_reduction_practices",
+    "canonical_url": "https://psychonautwiki.org/wiki/Responsible_drug_use",
+    "note": "The requested URL redirects to the canonical article.",
+    "revision_id": 168206,
+    "last_edited": "2025-07-13 18:14 UTC (by David Hedlund)",
+    "fetched": "2026-11-25",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+  },
+  "files": [
+    {
+      "path": "00-overview.md",
+      "title": "Overview: what responsible drug use is + general harm reduction advice",
+      "category": "overview",
+      "tags": [
+        "harm-reduction",
+        "philosophy",
+        "general-advice"
+      ]
+    },
+    {
+      "path": "general/01-dosage.md",
+      "title": "Dosage",
+      "category": "general-harm-reduction",
+      "tags": [
+        "dosage",
+        "choosing-dose",
+        "allergy-testing",
+        "eyeballing",
+        "milligram-scales",
+        "volumetric-dosing"
+      ]
+    },
+    {
+      "path": "general/02-routes-of-administration.md",
+      "title": "Routes of administration",
+      "category": "general-harm-reduction",
+      "tags": [
+        "routes-of-administration",
+        "oral",
+        "sublingual",
+        "inhalation",
+        "injection",
+        "insufflation",
+        "nbome"
+      ]
+    },
+    {
+      "path": "general/03-recovery-position.md",
+      "title": "Recovery position",
+      "category": "general-harm-reduction",
+      "tags": [
+        "first-aid",
+        "recovery-position",
+        "overdose",
+        "respiratory-depression",
+        "vomiting"
+      ]
+    },
+    {
+      "path": "general/04-reagent-testing-kits.md",
+      "title": "Reagent testing kits",
+      "category": "general-harm-reduction",
+      "tags": [
+        "drug-checking",
+        "reagent-testing",
+        "adulteration",
+        "nbome",
+        "lsd"
+      ]
+    },
+    {
+      "path": "general/05-dangerous-combinations.md",
+      "title": "Dangerous combinations",
+      "category": "general-harm-reduction",
+      "tags": [
+        "interactions",
+        "combinations",
+        "depressants",
+        "prescription-medication"
+      ]
+    },
+    {
+      "path": "general/06-effects-research.md",
+      "title": "Effects",
+      "category": "general-harm-reduction",
+      "tags": [
+        "effects",
+        "research",
+        "duration",
+        "trip-reports"
+      ]
+    },
+    {
+      "path": "general/07-addiction.md",
+      "title": "Addiction",
+      "category": "general-harm-reduction",
+      "tags": [
+        "addiction",
+        "stimulants",
+        "opioids",
+        "depressants",
+        "hallucinogens"
+      ]
+    },
+    {
+      "path": "hallucinogens/00-intro.md",
+      "title": "Hallucinogens: scope of this section",
+      "category": "hallucinogens",
+      "tags": [
+        "hallucinogens",
+        "psychedelics",
+        "dissociatives",
+        "deliriants"
+      ]
+    },
+    {
+      "path": "hallucinogens/01-setting.md",
+      "title": "Setting",
+      "category": "hallucinogens",
+      "tags": [
+        "set-and-setting",
+        "environment",
+        "preparation"
+      ]
+    },
+    {
+      "path": "hallucinogens/02-set-state-of-mind.md",
+      "title": "Set (State of mind)",
+      "category": "hallucinogens",
+      "tags": [
+        "set-and-setting",
+        "mindset",
+        "mental-health",
+        "letting-go"
+      ]
+    },
+    {
+      "path": "hallucinogens/03-bodily-state.md",
+      "title": "Bodily state",
+      "category": "hallucinogens",
+      "tags": [
+        "physical-state",
+        "body-load",
+        "preparation"
+      ]
+    },
+    {
+      "path": "hallucinogens/04-trip-sitters.md",
+      "title": "Trip sitters",
+      "category": "hallucinogens",
+      "tags": [
+        "trip-sitter",
+        "safety",
+        "supervision"
+      ]
+    },
+    {
+      "path": "hallucinogens/05-anchors.md",
+      "title": "Anchors",
+      "category": "hallucinogens",
+      "tags": [
+        "anchors",
+        "grounding",
+        "ego-death",
+        "bad-trip"
+      ]
+    },
+    {
+      "path": "hallucinogens/06-aborting-trips.md",
+      "title": "Aborting trips",
+      "category": "hallucinogens",
+      "tags": [
+        "aborting-trips",
+        "benzodiazepines",
+        "antipsychotics",
+        "bad-trip",
+        "panic"
+      ]
+    },
+    {
+      "path": "references.md",
+      "title": "See also, external links and references",
+      "category": "references",
+      "tags": [
+        "references",
+        "citations",
+        "external-links"
+      ]
+    },
+    {
+      "path": "full-page.md",
+      "title": "Full page (single file, complete)",
+      "category": "full-page",
+      "tags": [
+        "complete"
+      ]
+    },
+    {
+      "path": "related-pages.md",
+      "title": "Responsible drug use index (related pages)",
+      "category": "related-pages",
+      "tags": [
+        "navigation",
+        "related-pages",
+        "to-fetch"
+      ]
+    },
+    {
+      "path": "media.md",
+      "title": "Media (images) on the page",
+      "category": "media",
+      "tags": [
+        "images",
+        "media"
+      ]
+    }
+  ]
+}

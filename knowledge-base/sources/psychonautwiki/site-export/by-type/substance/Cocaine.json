@@ -1,0 +1,847 @@
+{
+ "id": "psychonautwiki:4430",
+ "type": "substance",
+ "title": "Cocaine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cocaine",
+  "pageid": 4430,
+  "last_edited": "2026-10-14T02:18:37Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Articles with unsourced statements from October 2016",
+  "CS1 German-language sources (de)",
+  "CS1 Spanish-language sources (es)",
+  "CS1 errors: PMC",
+  "Pages with citations using unsupported parameters",
+  "Stimulant",
+  "Tropane"
+ ],
+ "substance_box_template": "SubstanceBox/Cocaine",
+ "substance_box": {
+  "names": {
+   "common": "Cocaine, Coke, Coca, Crack, Blow, Girl, White, Snow, Nose Candy, Yayo, Perico,Gear, Chari",
+   "substitutive": "Benzoylmethylecgonine",
+   "systematic": "Methyl (1R,2R,3S,5S)-3- (Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1] octane-2-carboxylate"
+  },
+  "classes": {
+   "psychoactive": "Stimulant, SNDRI",
+   "chemical": "Tropane alkaloid"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "Peak effects of insufflation are nearly always reach after the 7 - 9 minute mark, before initial rush subsides into usually and a still pleasant or tolerable state for another 10 minutes approximately",
+    "collapsed": "false",
+    "bioavailability": "60-80%",
+    "threshold": "5 mg",
+    "light": "10 - 30 mg",
+    "common": "30 - 60 mg",
+    "strong": "60 - 90 mg",
+    "heavy": "90 mg +",
+    "duration": "10 - 90 minutes",
+    "total": "12 - 70 minutes",
+    "onset": "3 - 10 minutes",
+    "comeup": "5 - 12 minutes",
+    "peak": "7.5 - 16 minutes",
+    "offset": "10 - 25 minutes",
+    "aftereffects": "Psychological craving and compulsive redosing",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "100%",
+    "threshold": "2 mg",
+    "light": "2 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 15 mg",
+    "heavy": "15 mg +",
+    "duration": "5 - 15 minutes",
+    "onset": "3 - 5 seconds",
+    "comeup": "1 - 2 minutes",
+    "peak": "2 - 10 minutes",
+    "offset": "1 - 5 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "33%",
+    "threshold": "13 mg",
+    "light": "13 - 75 mg",
+    "common": "75 - 150 mg",
+    "strong": "150 - 225 mg",
+    "heavy": "225 mg +",
+    "duration": "120 - 240 minutes",
+    "total": "60 - 120 minutes",
+    "onset": "30 - 40 minutes",
+    "comeup": "40 - 50 minutes",
+    "peak": "60 - 180 minutes",
+    "offset": "10 - 25 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "Crack cocaine",
+    "collapsed": "true",
+    "bioavailability": "90%",
+    "threshold": "2.5 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 45 mg",
+    "heavy": "45 mg +",
+    "duration": "5 - 15 minutes",
+    "onset": "3 - 5 seconds",
+    "comeup": "1 - 2 minutes",
+    "peak": "2 - 10 minutes",
+    "offset": "1 - 5 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cocaine",
+    "Coke",
+    "Coca",
+    "Crack",
+    "Blow",
+    "Girl",
+    "White",
+    "Snow",
+    "Nose Candy",
+    "Yayo",
+    "Perico",
+    "Gear",
+    "Chari"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Tropane alkaloid"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "30"
+   ],
+   "Insufflated min common dose": [
+    "30"
+   ],
+   "Insufflated max common dose": [
+    "60"
+   ],
+   "Insufflated min strong dose": [
+    "60"
+   ],
+   "Insufflated max strong dose": [
+    "90"
+   ],
+   "Insufflated heavy dose": [
+    "90"
+   ],
+   "Insufflated min total time": [
+    "10",
+    "12"
+   ],
+   "Insufflated max total time": [
+    "90",
+    "70"
+   ],
+   "Insufflated total time units": [
+    "minutes",
+    "minutes"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "10"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "12"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "7.5"
+   ],
+   "Insufflated max peak time": [
+    "16"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "10"
+   ],
+   "Insufflated max offset time": [
+    "25"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Intravenous threshold dose": [
+    "2"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "2"
+   ],
+   "Intravenous max light dose": [
+    "5"
+   ],
+   "Intravenous min common dose": [
+    "5"
+   ],
+   "Intravenous max common dose": [
+    "10"
+   ],
+   "Intravenous min strong dose": [
+    "10"
+   ],
+   "Intravenous max strong dose": [
+    "15"
+   ],
+   "Intravenous heavy dose": [
+    "15"
+   ],
+   "Intravenous min total time": [
+    "5"
+   ],
+   "Intravenous max total time": [
+    "15"
+   ],
+   "Intravenous total time units": [
+    "minutes"
+   ],
+   "Intravenous min onset time": [
+    "3"
+   ],
+   "Intravenous max onset time": [
+    "5"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "1"
+   ],
+   "Intravenous max comeup time": [
+    "2"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "2"
+   ],
+   "Intravenous max peak time": [
+    "10"
+   ],
+   "Intravenous peak time units": [
+    "minutes"
+   ],
+   "Intravenous min offset time": [
+    "1"
+   ],
+   "Intravenous max offset time": [
+    "5"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ],
+   "Oral threshold dose": [
+    "13"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "13"
+   ],
+   "Oral max light dose": [
+    "75"
+   ],
+   "Oral min common dose": [
+    "75"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "225"
+   ],
+   "Oral heavy dose": [
+    "225"
+   ],
+   "Oral min total time": [
+    "120",
+    "60"
+   ],
+   "Oral max total time": [
+    "240",
+    "120"
+   ],
+   "Oral total time units": [
+    "minutes",
+    "minutes"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "40"
+   ],
+   "Oral max comeup time": [
+    "50"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "60"
+   ],
+   "Oral max peak time": [
+    "180"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "10"
+   ],
+   "Oral max offset time": [
+    "25"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Smoked threshold dose": [
+    "2.5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "5"
+   ],
+   "Smoked max light dose": [
+    "15"
+   ],
+   "Smoked min common dose": [
+    "15"
+   ],
+   "Smoked max common dose": [
+    "30"
+   ],
+   "Smoked min strong dose": [
+    "30"
+   ],
+   "Smoked max strong dose": [
+    "45"
+   ],
+   "Smoked heavy dose": [
+    "45"
+   ],
+   "Smoked min total time": [
+    "5"
+   ],
+   "Smoked max total time": [
+    "15"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "3"
+   ],
+   "Smoked max onset time": [
+    "5"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "1"
+   ],
+   "Smoked max comeup time": [
+    "2"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "10"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "5"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "test",
+   "clean": "test"
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Cocaine.",
+   "clean": "Molecular structure of Cocaine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Cocaine.svg",
+   "clean": "File:Cocaine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cocaine]], [[common name::Coke]], [[common name::Coca]], [[common name::Crack]], [[common name::Blow]], [[common name::Girl]], [[common name::White]], [[common name::Snow]], [[common name::Nose Candy]], [[common name::Yayo]], [[common name::Perico]],[[common name::Gear]], [[common name::Chari]]",
+   "clean": "Cocaine, Coke, Coca, Crack, Blow, Girl, White, Snow, Nose Candy, Yayo, Perico,Gear, Chari"
+  },
+  "NameSubstitution": {
+   "raw": "Benzoylmethylecgonine",
+   "clean": "Benzoylmethylecgonine"
+  },
+  "NameSystematic": {
+   "raw": "Methyl (1R,2R,3S,5S)-3- (Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1] octane-2-carboxylate",
+   "clean": "Methyl (1R,2R,3S,5S)-3- (Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1] octane-2-carboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]], [[Serotonin-norepinephrine reuptake inhibitor|SNDRI]]",
+   "clean": "Stimulant, SNDRI"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tropane alkaloid]]",
+   "clean": "Tropane alkaloid"
+  },
+  "ChemicalFormula": {
+   "raw": "testing",
+   "clean": "testing"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "Peak effects of insufflation are nearly always reach after the 7 - 9 minute mark, before initial rush subsides into usually and a still pleasant or tolerable state for another 10 minutes approximately",
+   "clean": "Peak effects of insufflation are nearly always reach after the 7 - 9 minute mark, before initial rush subsides into usually and a still pleasant or tolerable state for another 10 minutes approximately"
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "60<ref>{{cite journal | vauthors=((Barnett, G.)), ((Hawks, R.)), ((Resnick, R.)) | journal=Journal of Ethnopharmacology | title=Cocaine pharmacokinetics in humans | volume=3 | issue=2–3 | pages=353–366 | date= March 1981 | url=https://linkinghub.elsevier.com/retrieve/pii/0378874181900635 | issn=03788741 | doi=10.1016/0378-8741(81)90063-5}}</ref>-80%<ref>{{cite journal | vauthors=((Jeffcoat, A. R.)), ((Perez-Reyes, M.)), ((Hill, J. M.)), ((Sadler, B. M.)), ((Cook, C. E.)) | journal=Drug Metabolism and Disposition: The Biological Fate of Chemicals | title=Cocaine disposition in humans after intravenous injection, nasal insufflation (snorting), or smoking | volume=17 | issue=2 | pages=153–159 | date= April 1989 | issn=0090-9556}}</ref>",
+   "clean": "60-80%"
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::30]] - [[Insufflated max common dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::60]] - [[Insufflated max strong dose::90]] mg",
+   "clean": "60 - 90 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::90]] mg +",
+   "clean": "90 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::10]] - [[Insufflated max total time::90]] [[Insufflated total time units::minutes]]",
+   "clean": "10 - 90 minutes"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::10]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 10 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::12]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 12 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::7.5]] - [[Insufflated max peak time::16]] [[Insufflated peak time units::minutes]]",
+   "clean": "7.5 - 16 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::10]] - [[Insufflated max offset time::25]] [[Insufflated offset time units::minutes]]",
+   "clean": "10 - 25 minutes"
+  },
+  "InsufflatedROA_Total": {
+   "raw": "[[Insufflated min total time::12]] - [[Insufflated max total time::70]] [[Insufflated total time units::minutes]]",
+   "clean": "12 - 70 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "Psychological craving and compulsive redosing",
+   "clean": "Psychological craving and compulsive redosing"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "100%",
+   "clean": "100%"
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::2]] [[Intravenous dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::2]] - [[Intravenous max light dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::5]] - [[Intravenous max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::10]] - [[Intravenous max strong dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::15]] mg +",
+   "clean": "15 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::5]] - [[Intravenous max total time::15]] [[Intravenous total time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::3]] - [[Intravenous max onset time::5]] [[Intravenous onset time units::seconds]]",
+   "clean": "3 - 5 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::1]] - [[Intravenous max comeup time::2]] [[Intravenous comeup time units::minutes]]",
+   "clean": "1 - 2 minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::2]] - [[Intravenous max peak time::10]] [[Intravenous peak time units::minutes]]",
+   "clean": "2 - 10 minutes"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::1]] - [[Intravenous max offset time::5]] [[Intravenous offset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "33%<ref name=\"fattinger2000\">{{Cite journal | vauthors = Fattinger K, Benowitz NL, Jones RT, Verotta D | title = Nasal mucosal versus gastrointestinal absorption of nasally administered cocaine | journal = European Journal of Clinical Pharmacology | volume = 56 | issue = 4 | pages = 305–10 | date = July 2000 | pmid = 10954344 | doi = 10.1007/s002280000147 | s2cid = 20708443 }}</ref>",
+   "clean": "33%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::13]] [[Oral dose units::mg]]",
+   "clean": "13 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::13]] - [[Oral max light dose::75]] mg",
+   "clean": "13 - 75 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::75]] - [[Oral max common dose::150]] mg",
+   "clean": "75 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::225]] mg",
+   "clean": "150 - 225 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::225]] mg +",
+   "clean": "225 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::120]] - [[Oral max total time::240]] [[Oral total time units::minutes]]",
+   "clean": "120 - 240 minutes"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::40]] - [[Oral max comeup time::50]] [[Oral comeup time units::minutes]]",
+   "clean": "40 - 50 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::60]] - [[Oral max peak time::180]] [[Oral peak time units::minutes]]",
+   "clean": "60 - 180 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::10]] - [[Oral max offset time::25]] [[Oral offset time units::minutes]]",
+   "clean": "10 - 25 minutes"
+  },
+  "OralROA_Total": {
+   "raw": "[[Oral min total time::60]] - [[Oral max total time::120]] [[Oral total time units::minutes]]",
+   "clean": "60 - 120 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "Crack cocaine",
+   "clean": "Crack cocaine"
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "90%<ref>{{cite journal |last1=Roque Bravo |first1=R |last2=Faria |first2=AC |last3=Brito-da-Costa |first3=AM |last4=Carmo |first4=H |last5=Mladěnka |first5=P |last6=Dias da Silva |first6=D |last7=Remião |first7=F |last8=On Behalf Of The Oemonom |first8=Researchers |title=Cocaine: An Updated Overview on Chemistry, Detection, Biokinetics, and Pharmacotoxicological Aspects including Abuse Pattern. |journal=Toxins |date=13 April 2022 |volume=14 |issue=4 |doi=10.3390/toxins14040278 |pmid=35448887 |pmc=9032145}}</ref>",
+   "clean": "90%"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2.5]] [[Smoked dose units::mg]]",
+   "clean": "2.5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::5]] - [[Smoked max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::15]] - [[Smoked max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::30]] - [[Smoked max strong dose::45]] mg",
+   "clean": "30 - 45 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::45]] mg +",
+   "clean": "45 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::5]] - [[Smoked max total time::15]] [[Smoked total time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::3]] - [[Smoked max onset time::5]] [[Smoked onset time units::seconds]]",
+   "clean": "3 - 5 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::1]] - [[Smoked max comeup time::2]] [[Smoked comeup time units::minutes]]",
+   "clean": "1 - 2 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::10]] [[Smoked peak time units::minutes]]",
+   "clean": "2 - 10 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::5]] [[Smoked offset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "[[File:Cocaine lines 2.jpg|thumb|200px|Contaminated currency such as banknotes might serve as a fomite of diseases like hepatitis C]]\n[[File:Cocaine nose.jpg|thumb|200px|Chronic cocaine use can cause \"cocaine nose\"—damage ranging from nasal septum perforation (pictured) to cocaine-induced midline destructive lesions (CIMDL)]]\n\nCocaine (also known as benzoylmethylecgonine, and informally as coke,  cola, snow, blow, white, among others) is a classical stimulant substance of the tropane class. It is a naturally-occurring alkaloid extracted from the leaves of two coca plant species; namely Erythroxylum coca and E. novogranatense that are native to South America. The mechanism of action involves increasing levels of serotonin, dopamine, and norepinephrine in the brain.\n\nCocaine is one of the most widespread and highly controlled illicit substances in the world. According to a 2007 United Nations report, it was the second most widely used substance in the world, after cannabis. It is considered a major so-called \"street drug\" and \"drug of abuse\", alongside heroin and methamphetamine. Due to its high profit margins and longtime steady demand, it has become a staple product trade and smuggling for various transnational criminal syndicates or related organizations who traffic drugs in the black market.\n\nCocaine use spans all social classes, defying traditional stereotypes that associate the drug solely with either the wealthy or the poor. Although cocaine is an expensive drug—often considered a status symbol among affluent users—studies indicate that its use is proportionately higher among those with higher incomes and education levels, particularly in so-called “middle-class” or wealthy groups. About 25% of adults with ADHD use cocaine, with 10% developing a use disorder. Screening is often advised due to associated health risks.\n\nSubjective effects include stimulation, increased blood pressure, appetite suppression, disinhibition, motivation enhancement, ego inflation, increased libido, and euphoria. Routes of administration include insufflation (\"snorting\" or \"sniffing\") and occasionally injection. Oral intake is rare but possible, and possesses a marketly longer duration; 60 minutes as opposed to 10 - 20 minutes when insufflated or 5 minutes smoked. \n\nThe typical cocaine high is characterized by a rapid onset and a short duration, featuring a powerful euphoric \"rush\" that is followed by a marked comedown or \"crash\" — an experience that can promote compulsive redosing. Excessive use is reported to increase the risk of anxiety, paranoia, irritability, minor hallucinations, mania, and, in rare cases, psychosis.\n\nIt is known to have high abuse potential. Chronic use (i.e. high dose, repeat administration) is associated with escalating tolerance and physiological  dependence, which can become severe if left untreated. \n\nAdditionally, some evidence suggests it poses unique cardiotoxic risks compared to other CNS stimulants, including the entire amphetamine class. Even \"regular\" use has been linked to the development of permanent heart conditions and it also appears to cause sudden cardiac death in susceptible individuals (see this section for more).\n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nCocaine (presumably in the form of coca leaves) is among one of the oldest used drugs, with a 1000-year-old collection of ancient “drug paraphernalia” (most likely used ceremonially), discovered in a rock shelter in south-western Bolivia known as Cueva del Chilano which is seemingly traceable to the archaic Tiwanuku culture. The ancient Andean site features traces of five drug chemicals which include cocaine, benzoylecgonine (inactive metabolite of cocaine), bufotenine, DMT, as well as harmine (possibly indicating utilization of ayahuasca). Curiously enough, a decorated “bone snuffer” was also uncovered.\n\nHowever, it is highly unlikely that it was consumed as “powdered cocaine”, but rather simply with raw, unprocessed coca leaves which can be chewed to create a less intense and less dangerous stimulant effect than modern-day cocaine powder or freebase. The degree of subjective intensity in regards to the stimulating and psychoactive effects felt when chewing coca leaves or consuming it when brewed as a drink (tea) known as mate de coca is perhaps conversely more so comparable to that of caffeine, albeit with many users maintaining the notion of “coca tea” still technically feeling stronger than ordinary caffeinated-drinks like coffee or black tea. One of the earliest documentations of the cocaine alkaloid being isolated from the plant was in 1855  where German chemist Friedrich Gaedcke published a description in the journal \"Archiv der Pharmazie\", naming the alkaloid \"erythoxyline.\" Five years later in 1860, Albert Niemann describes the isolation of an alkaloid from coca who then went on to call it cocaine. With this chemical partitioning of the infamous alkaloid from the coca plant, the history of cocaine in its contemporary form begins. Western medicine was quick to exploit the various perceived surface-level or postulated benefits of the drug. Thereafter, research publications within the pharmaceutical and medical community commenced.  \n\nOne such highlight of the papers published would be Sigmund Freud's collection of publications referred to as the \"Cocaine Papers\" which can be considered partly responsible for the surge in popularity both when published and upon the rediscovery of the papers, around 1974. In these papers, he correctly speculates on the medical use of cocaine as a topical anesthetic due to its numbing effects.: \"The capacity of cocaine [...], to anesthetize cutaneous and mucous membranes suggests a possible future use, especially in cases of local infections .... Some additional uses of cocaine based on this anesthetic property are likely to be developed in the near future.\" Furthermore to cocaine's numbing effects on the lips and mouth being observed by Freud.  \n\nFreud notes his studied effects on hunger, sleep, and fatigue. describing; \"...exhilaration and lasting euphoria, which in no way differs from the normal euphoria of the healthy person .... You perceive an increase of selfcontrol and possess more vitality and capacity for work .... In other words, you are simply normal, and it is soon hard to believe that you are under the influence of any drug .... Long intensive mental or physical work is performed without any fatigue .... This result is enjoyed without any of the unpleasant after-effects that follow exhilaration brought about by alcohol. ... Absolutely no craving for the further use of cocaine appears after the first, or even repeated, taking of the drug; one feels rather a certain curious aversion to it.\" The final statement contradicting much of the modern reputation surrounding the cravings cocaine induces following use (compulsive redosing). \n\nFreud also suggests that cocaine be used for morphine withdrawal treatment.  \n\nThe first major article on the drug and part of the collection of \"Cocaine Papers\" would be Sigmund Freud's 1884 \"Uber Coca.\"   that outlines many major observed effects and offers a scientific breakdown of the potential uses of the drug. Freud observes:  \n\n\"A few minutes after taking cocaine, one experiences a sudden exhilaration and feeling of lightness. One feels a certain furriness on the lips and palate, followed by a feeling of warmth in the same areas; if one now drinks cold water, it feels warm on the lips and cold in the throat. On other occasions the predominant feeling is a rather pleasant coolness in the mouth and throat\" The euphoria or physical euphoria felt from the drug is referenced. The trademark mouth numbing can be read from the experience narration too.    \n\nAccording to a 2007 United Nations report, cocaine is the second most widely used illicit substance in the world, after cannabis. Scientific evidence for a direct link between cocaine use and violent behavior is limited; media bias and misconceptions may contribute to this perception, which is more likely explained by cocaine use disorder or personality disorders. Considering how the late 2010s and early 2020s have reportedly gone on to see even more growth in the production and global usage of the drug as well, this statistical figure appears to still remain quite befitting. According to certain outlets of the press such as VICE News, as of 2022; Scotland is considered to be the world-center for cocaine usage and subsequently, now the possible “drug-death capital within the EU”. In the past several years, cocaine trafficking and general usage has seen what can aptly be described as an exponential growth in various nations and regions throughout the Eastern Hemisphere, with many organized crime groups now having shifted their business models to heavily favor cocaine trafficking often by working directly with major criminal groups in South America. \" by adding it after \"llicit substance in the world, after cannabis.\n\nIn terms of user rates (as of 2007), Spain is the country with the highest rate of cocaine usage (3.0% of adults in the previous year). Other countries where the usage rate meets or exceeds 1.5% are the United States (2.8%), England and Wales (2.4%), Canada (2.3%), Italy (2.1%), Bolivia (1.9%), Chile (1.8%), and Scotland (1.5%).\n\nEtymology\n\nThe name cocaine is derived from \"coca\" and the alkaloid suffix \"-ine\".\n\nCommon names\n\nCocaine has numerous common or street names, including coke, coca, cola, snow, ski, blow, nose candy, white, and girl. Spanish-influenced names include lello, yayo, yeyo, or yay. More regional to the UK are biff, charlie, lemos, flake among others.\n\nChemistry\n\nCocaine is a tropane alkaloid found in the leaves of two coca plants, Erythroxylum coca and E. novogranatense which are native to the Andes in South America. However, coca production in Central America has increased sharply. In 2022, authorities destroyed over 6.5 million coca plants in Honduras, 4 million in Guatemala, and more than half a million in southern Belize. By 2024, the number of coca plantations found and eradicated in Honduras had nearly doubled compared to the previous year, and a record number of processing labs were dismantled across the region. Unlike the Andes, where small farmers typically grow coca, cultivation in Central America is controlled by organized crime groups with backing from major foreign cartels.\n\nCocaine decomposes when heated strongly so the freebase and hydrogen carbonate salts of cocaine, which have much lower boiling points compared to the hydrochloride salt, are typically used when the substance is to be vaporized and are known as cocaine base and \"crack\" respectively.\n\nThe chemical structure of cocaine consists of three parts; the hydrophilic methyl ester moiety and the lipophilic benzoyl ester moiety, which are located in place of the carboxylic acid and hydroxyl groups of ecgonine respectively. This structure allows for its rapid absorption through nasal membranes and blood-brain barrier.\n\nThe presence of the two ester groups makes cocaine relatively unstable in warm, humid environments and cocaine stored in an open container or with a high moisture content will lose apparent potency over time due to hydrolysis to methyl ecgonine or benzoylecgonine.\n\nSynthesis\n\nWhile biosynthesis of cocaine is rare and technically challenging, advances in metabolic engineering make it theoretically possible to produce cocaine in laboratories anywhere in the world, potentially eliminating reliance on Latin American trafficking. As the drug currently passes through numerous intermediaries—each seeking to increase profits—it is frequently cut with various adulterants, leading to reduced purity and increased health risks for users. Producing cocaine directly in controlled laboratory settings could significantly reduce such adulteration. This approach may even be useful for very small-scale production in countries where possession of small amounts is decriminalized, even when cocaine is purchased in the same country where it is produced. Cocaine is sometimes adulterated with levamisole by cartels before it reaches end users.\n\nCocaine Synthesis by Professor Buzz in the Rhodium archive provides an example of a synthetic route to cocaine.\n\nPharmacology\n\nThe most extensively studied effect of cocaine on the central nervous system is the blockade of the dopamine transporter. This substance acts as a reuptake inhibitor and prevents dopamine from being recycled, causing excessive amounts to build up in the synapse, or junction between neurons. The result is an enhanced and prolonged post-synaptic effect of dopaminergic signaling. To a lesser extent, cocaine also exhibits functionally similar effects of reuptake inhibition upon the neurotransmitters of serotonin and noradrenaline. It is this sudden flood of neurotransmitters that causes cocaine’s characteristic high.\n\nThe pharmacodynamics of cocaine involve the complex relationships of neurotransmitters (inhibiting monoamine uptake in rats with ratios of about: serotonin:dopamine = 2:3, serotonin:norepinephrine = 2:5). The most extensively studied effect of cocaine on the central nervous system is the blockade of the dopamine transporter protein. Dopamine transmitter released during neural signaling is normally recycled via the transporter; i.e., the transporter binds the transmitter and pumps it out of the synaptic cleft back into the presynaptic neuron, where it is taken up into storage vesicles. \n\nCocaine binds tightly at the dopamine transporter forming a complex that blocks the transporter's function. The dopamine transporter can no longer perform its reuptake function, and thus dopamine accumulates in the synaptic cleft. The increased concentration of dopamine in the synapse activates post-synaptic dopamine receptors, which makes the drug rewarding and promotes the compulsive use of cocaine.\n\nSubjective effects\n\nThe cognitive effects of cocaine can be broken down into several components which progressively intensify proportional to dosage. The general headspace of cocaine is described as one of extreme mental stimulation, increased motivation, increased sex drive, and overwhelming euphoria and/or satisfaction. Subjective experience of the drug can heavily depend quality and purity however which can vary drastically.\n\nExperience reports\n\nCommon usage\n\nCocaine is often adulterated when sold on black markets and this can significantly alter its effects on the body. Even when adulterants are pharmacologically inactive, their combination with the long-term perishability of cocaine due to moisture can lead to vastly differing apparent potencies between dosages of cocaine, and as such, it can be challenging to determine a \"typical\" recreational dose. \n\nPure cocaine is very potent and generates perceptible local anesthetic (numbing) effects from 1 mg and perceptible CNS stimulation from 5-7 mg; however, much higher doses tend to be used in recreational settings.\n\nForms\n\nthumb|200px|right|In order for cocaine (in plastic bag at bottom) to be converted to crack, several supplies are needed. Pictured here are baking soda (a commonly used base in making crack) a metal spoon, a tea light, and a cigarette lighter. The spoon is held over the heat source in order to \"cook\" the cocaine into crack.\n\n*Cocaine paste: A crude extract of the coca leaf, which contains 40% to 91% cocaine sulfate along with companion coca alkaloids and varying quantities of benzoic acid, methanol, and kerosene.\n*Salts: Cocaine is a weakly alkaline compound (an \"alkaloid\") and can, therefore, combine with acidic compounds to form various salts. The hydrochloride (HCl) salt of cocaine is by far the most commonly encountered, although the sulfate (-SO4) and the nitrate (-NO3) are occasionally seen. Different salts dissolve to a greater or lesser extent in various solvents. The hydrochloride salt is polar in character and quite soluble in water.\n*Freebase: “Freebase” is the base form of cocaine, as opposed to the salt form. It is practically insoluble in water whereas hydrochloride salt is water soluble. This prevents cocaine in its basic form from being usable for sublingual usage and insufflation. Freebase cocaine can be treated with ethers, isopropyl alcohol, and hydrochloric acid to turn it into the salt form. \n*\"Crack\": \"Crack\" refers to a lower purity form of freebase cocaine that is usually produced by neutralization of cocaine hydrochloride with a solution of baking soda (sodium bicarbonate, NaHCO3) and water, producing a very hard/brittle, off-white-to-brown colored, amorphous material that contains sodium carbonate, entrapped water, and other by-products as the main impurities.Smoking or vaporizing cocaine and inhaling it into the lungs produces an almost immediate \"high\" that can be very powerful and addictive. This initial buildup of stimulation is known as a \"rush\". While the stimulating effects may last for hours, the euphoric sensation is very brief, prompting the user to smoke more immediately.\n*Coca leaf infusions: Coca herbal infusion (also referred to as coca tea) is used in coca-leaf producing countries as much as any herbal medicinal infusion would be elsewhere in the world. The free and legal commercialization of dried coca leaves under the form of filtration bags to be used as \"coca tea\" has been actively promoted by the governments of Peru and Bolivia for many years as a drink having medicinal properties. The leaves are also very widely used by native populations for a variety of purposes including the treatment of altitude sickness.\n*Coca leaf chewing: Chewing the leaves (with lime) is also common in producing regions, which numbs the mouth and causes mild stimulation.\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Crack cocaine and cocaine were found to be the third and fifth overall most dangerous drugs, respectively.\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of cocaine\n\nChronic cocaine use has been shown to lead to neurotoxicity, being associated with high morbidity and mortality rates. Its extended use or abuse does also cause short-term downregulation of neurotransmitters.\n\nThe most potentially harmful physical effects of cocaine appear to be not neurological but cardiovascular. Severe cardiac adverse events, particularly sudden cardiac death, become a serious risk at high doses due to cocaine's blocking effect on cardiac sodium channels.\nMoreover, long-term cocaine use may result in cocaine-related cardiomyopathy.\n\nRegular cocaine insufflation, the most popular method of ingestion, can have extremely adverse effects on one's nostrils, nose, and nasal cavities. These include a loss of the sense of smell, nosebleeds, difficulty swallowing, hoarseness, or a chronically runny nose.\n\n\"Crack lung\" is a term for various pulmonary diseases caused by smoking crack cocaine, and it can develop even after short-term or initial use. While crack lung is usually reversible with appropriate medical care and most people recover fully, in some cases—especially if complications arise—lasting lung damage may occur.\n\nIt is strongly recommended that one use harm reduction practices if using this substance.\n\nLethal dosage\n\nSusceptible individuals have died from as little as 30 mg applied to mucous membranes, whereas addicts may tolerate up to 5 grams daily.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of cocaine can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a serious risk with heavy recreational cocaine use but is unlikely to arise from typical medical use.\n\nTolerance to many of the effects of cocaine develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). \n\nCocaine exhibits cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of cocaine all stimulants will have a reduced effect.\n\nDespite evidence of brain structure and function changes in chronic users, a 2018 systematic review found limited support for widespread cognitive impairment caused by long-term cocaine use, suggesting that common assumptions about pervasive cognitive deficits may be overstated.\n\nWithdrawal symptoms\n\nAfter taking cocaine on a regular basis, some users will become addicted. When the substance is discontinued immediately, the user will experience what has come to be known as a \"crash\" along with a number of other cocaine withdrawal symptoms including paranoia, depression, Decreased libido, anxiety, itching, mood swings, irritability, fatigue, insomnia, an intense craving for more cocaine, and, in some cases, nausea and vomiting.\n\nThese symptoms can last for weeks or, in some cases, months. Even after most withdrawal symptoms dissipate most users feel the need to continue using the drug; this feeling can last for years and may peak during times of stress. About 30-40% of cocaine addicts will turn to other substances such as medication and alcohol after giving up cocaine.\n\nThe misuse of cocaine has a high correlation with suicide. In those who use cocaine, the risk is greatest during the withdrawal phase.\n\nPsychosis\n\nCocaine has a similar potential to induce temporary psychosis with more than half of cocaine abusers reporting at least some psychotic symptoms at some point. \n\nTypical symptoms of sufferers include paranoid delusions that they are being followed and that their drug use is being watched accompanied by hallucinations that support the delusional beliefs. Delusional parasitosis with formication (\"cocaine bugs\") is also a fairly common symptom.\n\nCocaine-induced psychosis shows sensitization toward the psychotic effects of the drug. This means that psychosis becomes more severe with repeated intermittent use.\n\nDangerous interactions\n\n*Mushrooms - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*LSD - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*DMT - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*Mescaline - The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops.\n*2C-x - The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. A combination of the stimulating effects may be uncomfortable.\n*Cannabis - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*Ketamine - No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill-advised due to the risk of physical injury.\n*MXE - Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.\n*Amphetamines - This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine.\n*MDMA - Cocaine blocks some of the desirable effects of MDMA while increasing the risk of a heart attack.\n*Caffeine - Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.\n*GHB - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the sedative may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind.\n*GBL - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the sedative may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind.\n*DOx - The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic.\n*25x-NBOMe - Cocaine and NBOMes both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.\n*2C-T-x - Cocaine and 2C-T-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.\n*5-MeO-xxT - The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics.\n*DXM - Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.\n*PCP - This combination can easily lead to hypermanic states.\n*Alcohol - Drinking while using stimulants is risky because the sedative effects of alcohol are reduced. These are what the body uses to gauge “drunkenness”. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.\n*ΑMT\n*Opioids - Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.\n*Tramadol - Tramadol and stimulants both increase the risk of seizures.\n*MAOIs - This combination is poorly explored.\n\nLegal status\n\n*Australia: Cocaine is a Schedule 8 (controlled) drug permitting some medical use, but is otherwise outlawed. Personal quantities under 1.5 grams are decriminalized in the Australian Capital Territory (ACT) as of 28 October 2023.\n*Austria: Cocaine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Bolivia: Limited cultivation of coca is legal in Bolivia, where chewing the leaves and drinking coca tea are considered cultural practices, in particular, in the mountainous regions. Processed cocaine is illegal.\n*Brazil: Personal use of cocaine is decriminalized although public consumption is considered a crime. It is illegal to cultivate, transport and sell.\n*Canada: Cocaine is a Schedule I drug under the Controlled Drugs and Substances Act of Canada.\n*Colombia: Even though possession of less than 1 gram of cocaine was legalized for personal use in 1994 by the supreme court, sale and possession are now illegal under the new nationwide police code.\n*Germany: Cocaine was listed in the initial version of the Opiumgesetz (Opium Act) of December 10, 1929. In accordance to the Narcotics Act reform of 1981, it is controlled under Anlage III BtMG (Narcotics Act, Schedule III). It can only be prescribed on a narcotic prescription form. If owned illegaly, a quantity of up to 5 grams is regarded as a small amount. In these cases, the prosecution can cease the proceeding.\n*Hong Kong: Use and possession of cocaine is illegal unless a license was issued by the Department of Health.\n*India: Use and possession of cocaine is illegal with a mandatory 10-year sentence.\n*Lithuania: Cocaine is a schedule I substance. Possession, production, and trade are not allowed.\n*Mexico: As of August 25, 2009, the Mexican legislature officially legalized small doses of cocaine, heroin, marijuana, crystal meth, and ecstasy for personal use. No action will be taken for those carrying up to half a gram of cocaine.\n*The Netherlands: Cocaine is considered an illegal hard drug. Possession, production, and trade are not allowed as stated in the Opium Law of 1928. Although technically illegal, possession of less than half a gram usually goes unpunished.\n*New Zealand: Cocaine is a Class A drug. The coca leaf and preparations of cocaine containing no more than 0.1% cocaine base, in such a way that the cocaine cannot be recovered, are both classified as Class C.\n*Nigeria: It is a crime to be seen with cocaine.\n*Pakistan: Use and possession of cocaine is illegal.\n*Peru: Cultivation of coca plants is legal and coca leaves are sold openly on markets. Similarly to Bolivia, chewing leaves and drinking coca tea belong to cultural practices. Possession of up to 2 grams of cocaine or up to 5 grams of cocaine basic paste is legal for personal use in Peru per Article 299 of Peruvian Penal Code. However, the reality of how police treats it might be very different. An important part of Article 299 is that person may not possess two or more kinds of drugs at the same time -- this would make it a criminal offense.\n*Poland: Cocaine is listed in \"Wykaz środków odurzających i substancji psychotropowych\" group \"I-N\". Use and possession of cocaine is illegal.\n*Portugal: Personal use of cocaine is decriminalized. Drug abuse is dealt with by administrative and medical intervention. Trafficking is illegal.\n*Saudi Arabia: Use and possession of cocaine is punishable by death.\n*Singapore: Possession of more than 30 grams of cocaine results in a mandatory death sentence, but can be issued by the Department of Health.\n*South Africa: Cocaine is a controlled substance.\n*Switzerland: Cocaine is a controlled substance specifically named under Verzeichnis A.\n*United Kingdom: Cocaine is a Class A drug, controlled by the Misuse of Drugs Act 1971. However, medical use by doctors for controlling pain is permitted.\n*United States: Cocaine is classified as a Schedule II Narcotic under the Controlled Substances Act of the United States.\n\nResearch\n\nA single low dose of cocaine caused structural brain damage in mice, even without noticeable behavioral or metabolic changes. Cocaine increases dopamine, norepinephrine, and serotonin in the rat brain by blocking their reuptake, potentially causing neurotoxicity through free radical formation and excessive glutamate activity. However, repeated cocaine use in rats also raises levels of taurine, a neuroprotective amino acid that helps counteract this excitotoxicity. This suggests the rat brain has a self-protective response, and taurine or its derivatives could help manage cocaine’s harmful effects.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Tropanes\n*Dichloropane (RTI-111)\n*Amphetamine\n\nExternal links\n\n*Cocaine (Wikipedia)\n*Cocaine (Erowid Vault)\n*Cocaine (Isomer Design)\n*Cocaine (DrugBank)\n*Cocaine (Drugs.com)\n*Cocaine (Drugs-Forum)\n\nReferences\n\nCategory:Tropane\nCategory:Stimulant\nCategory:Alkaloid",
+ "wikitext": "{{headerpanel|{{Template:Warning/Cocaine}}}}\n{{SummarySheet}}\n{{SubstanceBox/Cocaine}}\n[[File:Cocaine lines 2.jpg|thumb|200px|[https://en.wikipedia.org/wiki/Contaminated_currency Contaminated currency] such as banknotes might serve as a [https://en.wikipedia.org/wiki/Fomite fomite] of diseases like hepatitis C<ref name=\"LV\">{{cite web |url=http://cocaine.org/cokemoney/banknotes.html |title='Shared banknote' health warning to cocaine users |accessdate=2008-07-26 |author=Laureen Veevers |date=1 October 2006 |work=The Observer }}</ref>]]\n[[File:Cocaine nose.jpg|thumb|200px|Chronic cocaine use can cause \"[https://en.wikipedia.org/wiki/Cocaine#Cocaine_nose cocaine nose]\"—damage ranging from [https://en.wikipedia.org/wiki/Nasal_septum_perforation nasal septum perforation] (pictured) to [https://en.wikipedia.org/wiki/Cocaine-induced_midline_destructive_lesions cocaine-induced midline destructive lesions (CIMDL)]]]\n\n'''Cocaine''' (also known as '''benzoylmethylecgonine''', and informally as '''coke''', ''' cola''', '''snow''', '''blow''', '''white''', [[Cocaine#Etymology|among others]]) is a classical [[psychoactive class::stimulant]] substance of the [[chemical class::tropane]] class. It is a [[naturally-occurring]] [[alkaloid]] extracted from the leaves of two [[coca]] plant species; namely ''Erythroxylum coca'' and ''E. novogranatense'' that are native to South America.<ref name=\"isbn9788123713830\">{{cite book | vauthors=((Aggrawal, A.)) | date= 1995 | title=Narcotic Drugs | publisher=National Book Trust | isbn=9788123713830}}</ref> The mechanism of action involves increasing levels of [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain.{{citation needed}}\n\nCocaine is one of the most widespread and highly controlled illicit substances in the world. According to a 2007 United Nations report, it was the second most widely used substance in the world, after [[cannabis]].<ref name=\"UNReport2007\">http://www.unodc.org/pdf/research/wdr07/WDR_2007.pdf</ref> It is considered a major so-called \"street drug\" and \"drug of abuse\", alongside [[heroin]] and [[methamphetamine]].{{citation needed}} Due to its high profit margins and longtime steady demand, it has become a staple product trade and smuggling for various transnational criminal syndicates or related organizations who traffic drugs in the black market.\n\nCocaine use spans all social classes, defying traditional stereotypes that associate the drug solely with either the wealthy or the poor. Although cocaine is an expensive drug—often considered a status symbol among affluent users—studies indicate that its use is proportionately higher among those with higher incomes and education levels, particularly in so-called “middle-class” or wealthy groups.<ref>{{cite news |title=Cocaine: The drug that is more than a middle-class problem |url=https://www.bbc.com/news/uk-45036469 |date=3 August 2018}}</ref> About 25% of adults with ADHD use cocaine, with 10% developing a use disorder. Screening is often advised due to associated health risks.<ref>{{cite journal | vauthors = Oliva F, Mangiapane C, Nibbio G, Berchialla P, Colombi N, Vigna-Taglianti FD | title = Prevalence of cocaine use and cocaine use disorder among adult patients with attention-deficit/hyperactivity disorder: A systematic review and meta-analysis | journal = Journal of Psychiatric Research | volume = 143 | pages = 587–598 | date = November 2021 | pmid = 33199055 | doi = 10.1016/j.jpsychires.2020.11.021 | hdl-access = free | hdl = 2318/1768539 }}</ref>\n\n[[Subjective effects]] include [[stimulation]], [[increased blood pressure]], [[appetite suppression]], [[disinhibition]], [[motivation enhancement]], [[ego inflation]], [[increased libido]], and [[euphoria]]. Routes of administration include [[insufflation]] (\"snorting\" or \"sniffing\") and occasionally [[injection]]. [[Orally|Oral]] intake is rare but possible, and possesses a marketly longer duration; 60 minutes as opposed to 10 - 20 minutes when insufflated or 5 minutes smoked.<ref>{{cite journal | vauthors=((Wilkinson, P.)), ((Van Dyke, C.)), ((Jatlow, P.)), ((Barash, P.)), ((Byck, R.)) | journal=Clinical Pharmacology and Therapeutics | title=Intranasal and oral cocaine kinetics | volume=27 | issue=3 | pages=386–394 | date= March 1980 | url=http://doi.wiley.com/10.1038/clpt.1980.52 | issn=0009-9236 | doi=10.1038/clpt.1980.52}}</ref><ref>{{cite journal | vauthors=((Coe, M. A.)), ((Jufer Phipps, R. A.)), ((Cone, E. J.)), ((Walsh, S. L.)) | journal=Journal of Analytical Toxicology | title=Bioavailability and Pharmacokinetics of Oral Cocaine in Humans | volume=42 | issue=5 | pages=285–292 | date=1 June 2018 | url=https://academic.oup.com/jat/article/42/5/285/4859571 | issn=0146-4760 | doi=10.1093/jat/bky007}}</ref> \n\nThe typical cocaine high is characterized by a rapid [[onset]] and a short duration, featuring a powerful euphoric \"rush\" that is followed by a marked comedown or \"crash\" — an experience that can promote [[compulsive redosing]]. Excessive use is reported to increase the risk of [[anxiety]], [[paranoia]], irritability, minor [[hallucinations]], [[mania]], and, in rare cases, [[psychosis]].\n\nIt is known to have high abuse potential.{{citation needed}} Chronic use (i.e. high dose, repeat administration) is associated with escalating tolerance and physiological  dependence, which can become severe if left untreated. \n\nAdditionally, some evidence suggests it poses unique cardiotoxic risks compared to other CNS stimulants, including the entire [[amphetamines|amphetamine]] class.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)60464-4/fulltext | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref> Even \"regular\" use has been linked to the development of permanent heart conditions and it also appears to cause sudden cardiac death in susceptible individuals (see [[Cocaine#Toxicity and harm potential|this section for more]]).<ref name=\"OLeary2010\">{{cite journal | vauthors=((O’Leary, M. E.)), ((Hancox, J. C.)) | journal=British Journal of Clinical Pharmacology | title=Role of voltage-gated sodium, potassium and calcium channels in the development of cocaine-associated cardiac arrhythmias: Voltage-gated ion channels and cocaine-induced arrhythmia | volume=69 | issue=5 | pages=427–442 | date=28 January 2010 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2010.03629.x | issn=03065251 | doi=10.1111/j.1365-2125.2010.03629.x}}</ref>\n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nCocaine (presumably in the form of ''coca'' leaves) is among one of the oldest used drugs, with a 1000-year-old collection of ancient “drug paraphernalia” (most likely used ceremonially), discovered in a rock shelter in south-western Bolivia known as Cueva del Chilano which is seemingly traceable to the archaic Tiwanuku culture. The ancient Andean site features traces of five drug chemicals which include cocaine, benzoylecgonine (inactive metabolite of cocaine), [[bufotenine]], [[DMT]], as well as harmine (possibly indicating utilization of [[ayahuasca]]). Curiously enough, a decorated “bone snuffer” was also uncovered.<ref>{{cite journal | vauthors=((Miller, M. J.)), ((Albarracin-Jordan, J.)), ((Moore, C.)), ((Capriles, J. M.)) | journal=Proceedings of the National Academy of Sciences | title=Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America | volume=116 | issue=23 | pages=11207–11212 | date=4 June 2019 | url=https://pnas.org/doi/full/10.1073/pnas.1902174116 | issn=0027-8424 | doi=10.1073/pnas.1902174116}}</ref>\n\nHowever, it is highly unlikely that it was consumed as “powdered cocaine”, but rather simply with raw, unprocessed coca leaves which can be chewed to create a less intense and less dangerous stimulant effect than modern-day cocaine powder or freebase. The degree of subjective intensity in regards to the stimulating and psychoactive effects felt when chewing coca leaves or consuming it when brewed as a drink (tea) known as ''mate de coca'' is perhaps conversely more so comparable to that of [[caffeine]], albeit with many users maintaining the notion of “coca tea” still technically feeling stronger than ordinary caffeinated-drinks like coffee or black tea. One of the earliest documentations of the cocaine alkaloid being isolated from the plant was in 1855 <ref>Gaedcke, F. (1855). Ueber das Erythroxylin, dargestellt aus den Blättern des in Südamerika cultivirten Strauches Erythroxylon Coca Lam. https://doi.org/10.1002/ardp.18551320208</ref> where German chemist Friedrich Gaedcke published a description in the journal \"Archiv der Pharmazie\", naming the alkaloid \"erythoxyline.\" Five years later in 1860, Albert Niemann describes the isolation of an alkaloid from coca who then went on to call it ''cocaine''. With this chemical partitioning of the infamous alkaloid from the coca plant, the history of cocaine in its contemporary form begins. Western medicine was quick to exploit the various perceived surface-level or postulated benefits of the drug. Thereafter, research publications within the pharmaceutical and medical community commenced.  \n\nOne such highlight of the papers published would be Sigmund Freud's collection of publications referred to as the \"Cocaine Papers\"<ref>https://libgen.top/ads3b7a7a253eb54644e9ca79039ca3e0f105V1622B</ref> which can be considered partly responsible for the surge in popularity both when published and upon the rediscovery of the papers, around 1974. In these papers, he correctly speculates on the medical use of cocaine as a topical anesthetic due to its numbing effects.: \"The capacity of cocaine [...], to anesthetize cutaneous and mucous membranes suggests a possible future use, especially in cases of local infections .... Some additional uses of cocaine based on this anesthetic property are likely to be developed in the near future.\" Furthermore to cocaine's numbing effects on the lips and mouth being observed by Freud.  \n\nFreud notes his studied effects on hunger, sleep, and fatigue. describing; \"...exhilaration and lasting euphoria, which in no way differs from the normal euphoria of the healthy person .... You perceive an increase of selfcontrol and possess more vitality and capacity for work .... In other words, you are simply normal, and it is soon hard to believe that you are under the influence of any drug .... Long intensive mental or physical work is performed without any fatigue .... This result is enjoyed without any of the unpleasant after-effects that follow exhilaration brought about by alcohol. ... Absolutely no craving for the further use of cocaine appears after the first, or even repeated, taking of the drug; one feels rather a certain curious aversion to it.\" The final statement contradicting much of the modern reputation surrounding the cravings cocaine induces following use ([[Compulsive redosing|compulsive redosing]]). \n\nFreud also suggests that cocaine be used for morphine withdrawal treatment.  \n\nThe first major article on the drug and part of the collection of \"Cocaine Papers\" would be Sigmund Freud's 1884 \"Uber Coca.\"   that outlines many major observed effects and offers a scientific breakdown of the potential uses of the drug. Freud observes:  \n\n\"A few minutes after taking cocaine, one experiences a sudden exhilaration and feeling of lightness. One feels a certain furriness on the lips and palate, followed by a feeling of warmth in the same areas; if one now drinks cold water, it feels warm on the lips and cold in the throat. On other occasions the predominant feeling is a rather pleasant coolness in the mouth and throat\" The [[euphoria]] or [[Physical euphoria|physical euphoria]] felt from the drug is referenced. The trademark [[Mouth numbing|mouth numbing]] can be read from the experience narration too.    \n\nAccording to a 2007 United Nations report, cocaine is the second most widely used illicit substance in the world, after [[cannabis]].<ref name=\"UNReport2007\" /> Scientific evidence for a direct link between cocaine use and violent behavior is limited; media bias and misconceptions may contribute to this perception, which is more likely explained by cocaine use disorder or personality disorders.<ref>{{cite journal |last1=van Amsterdam |first1=J |last2=van den Brink |first2=W |title=Combined use of cocaine and alcohol: A violent cocktail? A systematic review. |journal=Journal of forensic and legal medicine |date=November 2023 |volume=100 |pages=102597 |doi=10.1016/j.jflm.2023.102597 |pmid=37832170}}</ref> Considering how the late 2010s and early 2020s have reportedly gone on to see even more growth in the production and global usage of the drug as well, this statistical figure appears to still remain quite befitting. According to certain outlets of the press such as VICE News, as of 2022; Scotland is considered to be the world-center for cocaine usage and subsequently, now the possible “drug-death capital within the EU”. In the past several years, cocaine trafficking and general usage has seen what can aptly be described as an exponential growth in various nations and regions throughout the Eastern Hemisphere, with many organized crime groups now having shifted their business models to heavily favor cocaine trafficking often by working directly with major criminal groups in South America. \" by adding it after \"llicit substance in the world, after [[cannabis]].\n\nIn terms of user rates (as of 2007), Spain is the country with the highest rate of cocaine usage (3.0% of adults in the previous year). Other countries where the usage rate meets or exceeds 1.5% are the United States (2.8%), England and Wales (2.4%), Canada (2.3%), Italy (2.1%), Bolivia (1.9%), Chile (1.8%), and Scotland (1.5%).<ref>http://www.unodc.org/pdf/research/wdr07/WDR_2007.pdf</ref>\n\n===Etymology===\nThe name ''cocaine'' is derived from \"coca\" and the alkaloid suffix \"-ine\".{{citation needed}}\n\n===Common names===\nCocaine has numerous common or street names, including '''coke''', '''coca''', '''cola''', '''snow''', '''ski''', '''blow''', '''nose candy''', '''white''', and '''girl'''. Spanish-influenced names include '''lello''', '''yayo''', '''yeyo''', or '''yay'''. More regional to the UK are biff, charlie, lemos, flake among others.\n\n==Chemistry==\nCocaine is a [[tropane]] [[alkaloid]] found in the leaves of two [[coca]] plants, ''Erythroxylum coca'' and ''E. novogranatense'' which are native to the Andes in South America.<ref name=\"isbn9788123713830\" /> However, coca production in Central America has increased sharply. In 2022, authorities destroyed over 6.5 million coca plants in Honduras, 4 million in Guatemala, and more than half a million in southern Belize. By 2024, the number of coca plantations found and eradicated in Honduras had nearly doubled compared to the previous year, and a record number of processing labs were dismantled across the region. Unlike the Andes, where small farmers typically grow coca, cultivation in Central America is controlled by organized crime groups with backing from major foreign cartels.<ref>{{cite news |title=Plantaciones, laboratorios y narcorutas de coca en Honduras |url=https://www.elheraldo.hn/elheraldoplus/interactivos/plantaciones-laboratorios-y-narcorutas-de-coca-en-honduras-LJ17693091 |work=www.elheraldo.hn |language=es-HN}}</ref><ref>{{cite news |last1=Voss |first1=Alex Papadovassilakis, Gavin |title=Guatemala registra récord en producción de coca, pero no de cocaína |url=https://insightcrime.org/es/noticias/guatemala-registra-record-produccion-coca-no-cocaina/ |work=InSight Crime |date=10 February 2023 |language=es-ES}}</ref><ref>{{cite news |title=Police find half a million coca plants in Southern Belize |url=https://www.breakingbelizenews.com/2023/08/31/police-find-half-a-million-coca-plants-in-southern-belize/ |work=Belize News and Opinion on www.breakingbelizenews.com |date=31 August 2023}}</ref>\n\nCocaine decomposes when heated strongly so the freebase and hydrogen carbonate salts of cocaine, which have much lower boiling points compared to the hydrochloride salt, are typically used when the substance is to be vaporized and are known as cocaine base and \"crack\" respectively.\n\nThe chemical structure of cocaine consists of three parts; the hydrophilic methyl ester moiety and the lipophilic benzoyl ester moiety, which are located in place of the carboxylic acid and hydroxyl groups of ecgonine respectively. This structure allows for its rapid absorption through nasal membranes and blood-brain barrier.\n\nThe presence of the two ester groups makes cocaine relatively unstable in warm, humid environments and cocaine stored in an open container or with a high moisture content will lose apparent potency over time due to hydrolysis to methyl ecgonine or benzoylecgonine.\n\n===Synthesis===\n{{Disclaimer}}\n\nWhile [https://en.wikipedia.org/wiki/Biosynthesis_of_cocaine biosynthesis of cocaine] is rare and technically challenging, advances in metabolic engineering make it theoretically possible to produce cocaine in laboratories anywhere in the world, potentially eliminating reliance on Latin American trafficking. As the drug currently passes through numerous intermediaries—each seeking to increase profits—it is frequently cut with various adulterants, leading to reduced purity and increased health risks for users. Producing cocaine directly in controlled laboratory settings could significantly reduce such adulteration. This approach may even be useful for very small-scale production in countries where possession of [https://en.wikipedia.org/wiki/Legal_status_of_cocaine small amounts is decriminalized], even when cocaine is purchased in the same country where it is produced. Cocaine is sometimes adulterated with levamisole by cartels before it reaches end users.<ref name=\"pmid20358411\">{{cite journal |last1=Buchanan |first1=JA |last2=Oyer |first2=RJ |last3=Patel |first3=NR |last4=Jacquet |first4=GA |last5=Bornikova |first5=L |last6=Thienelt |first6=C |last7=Shriver |first7=DA |last8=Shockley |first8=LW |last9=Wilson |first9=ML |last10=Hurlbut |first10=KM |last11=Lavonas |first11=EJ |title=A confirmed case of agranulocytosis after use of cocaine contaminated with levamisole. |journal=Journal of Medical Toxicology : Official Journal of the American College of Medical Toxicology |date=June 2010 |volume=6 |issue=2 |pages=160–4 |doi=10.1007/s13181-010-0060-3 |pmid=20358411|pmc=3550277 }}</ref>\n\n[[Cocaine/Synthesis|Cocaine Synthesis by Professor Buzz]] in the Rhodium archive provides an example of a synthetic route to cocaine.\n\n==Pharmacology==\nThe most extensively studied effect of cocaine on the central nervous system is the blockade of the [[dopamine]] transporter. This substance acts as a [[reuptake inhibitor]] and prevents [[dopamine]] from being recycled, causing excessive amounts to build up in the synapse, or junction between [[neurons]]. The result is an enhanced and prolonged post-synaptic effect of dopaminergic signaling. To a lesser extent, cocaine also exhibits functionally similar effects of reuptake inhibition upon the neurotransmitters of [[serotonin]] and [[noradrenaline]].<ref>{{cite journal | vauthors=((Rothman, R. B.)), ((Baumann, M. H.)), ((Dersch, C. M.)), ((Romero, D. V.)), ((Rice, K. C.)), ((Carroll, F. I.)), ((Partilla, J. S.)) | journal=Synapse | title=Amphetamine-type central nervous system stimulants release norepinephrine more potently than they release dopamine and serotonin | volume=39 | issue=1 | pages=32–41 | date=1 January 2001 | url=https://onlinelibrary.wiley.com/doi/10.1002/1098-2396(20010101)39:1<32::AID-SYN5>3.0.CO;2-3 | issn=0887-4476 | doi=10.1002/1098-2396(20010101)39:1<32::AID-SYN5>3.0.CO;2-3}}</ref> It is this sudden flood of [[neurotransmitters]] that causes cocaine’s characteristic high.\n\nThe pharmacodynamics of cocaine involve the complex relationships of neurotransmitters (inhibiting monoamine uptake in rats with ratios of about: serotonin:dopamine = 2:3, serotonin:norepinephrine = 2:5). The most extensively studied effect of cocaine on the central nervous system is the blockade of the dopamine transporter protein. Dopamine transmitter released during neural signaling is normally recycled via the transporter; i.e., the transporter binds the transmitter and pumps it out of the synaptic cleft back into the presynaptic neuron, where it is taken up into storage vesicles. \n\nCocaine binds tightly at the dopamine transporter forming a complex that blocks the transporter's function. The dopamine transporter can no longer perform its reuptake function, and thus dopamine accumulates in the synaptic cleft. The increased concentration of dopamine in the synapse activates post-synaptic dopamine receptors, which makes the drug rewarding and promotes the compulsive use of cocaine.<ref>{{cite journal | vauthors=((Hummel, M.)), ((Unterwald, E. M.)) | journal=Journal of Cellular Physiology | title=D1 dopamine receptor: A putative neurochemical and behavioral link to cocaine action | volume=191 | issue=1 | pages=17–27 | date= April 2002 | url=https://onlinelibrary.wiley.com/doi/10.1002/jcp.10078 | issn=0021-9541 | doi=10.1002/jcp.10078}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\nThe cognitive effects of cocaine can be broken down into several components which progressively intensify proportional to dosage. The general headspace of cocaine is described as one of extreme mental stimulation, increased motivation, increased sex drive, and overwhelming euphoria and/or satisfaction. Subjective experience of the drug can heavily depend quality and purity however which can vary drastically.\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - Cocaine is reported to be extremely energetic and stimulating in a fashion that is comparatively weaker than [[methamphetamine]], but often stronger than that of [[amphetamine]], [[modafinil]], [[caffeine]], and [[methylphenidate]]. The particular style of stimulation which cocaine presents can be described as encouraged at low to moderate dosages but forced at higher dosages. This means that at certain dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of fine motor control. This effect is replaced with mild fatigue and general exhaustion during the offset of the experience. Many users however report relatively limited “energizing“ effects compared to the standard amphetamines, and will not uncommonly even report certain “relaxing” effects or notable euphoria and elation but with limited amounts of actual stimulation.\n*'''[[Effect::Abnormal heartbeat]]''' - Cocaine consistently raises one's heart rate to abnormally high levels which can be potentially dangerous with prolonged or high dosing, especially during short windows of time. Even subtle physical activities such as walking can seemingly induce an unusually fast heartbeat; even compared to other stimulants. Therefore it is recommended for users to partake in a less amount physical activity than is typical, even compared to these other substances due to the drug’s uniquely prominent effect on pulse rate and cardiac output. Cocaine is a particularly cardiotoxic stimulant.\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Neurotoxicity]]''' - Long-term or heavy recreational use of cocaine can result in persistent neurological and microvascular damage.<ref name=\"pmid24296074\" /><ref name=\"Clare_2024\" /><ref name=\"pmid33584173\" /> Unlike classical monoamine terminal toxins like methamphetamine, cocaine-induced brain injury primary stems from severe cerebral vasoconstriction (causing localized ischemia and elevated stroke risk), neuroinflammation, and oxidative stress. Additionally, widespread adulteration with levamisole presents a risk of progressive neurotoxic leukoencephalopathy.<ref name=\"pmid24296074\" />\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Appetite suppression]]''' - This component can often be less intense for new or unconditioned users.\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Bronchodilation]]''' - This can sometimes be very apparent and can result in an inability to swallow.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Bowel movements]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Pain relief]]''' - One of the few accepted medical uses of cocaine is as a topical anesthetic; namely due to [[tactile suppression]] (numbness). This effect seems to be mediated mainly from sodium channel blockage.{{citation needed}} In recreational contexts, such as with insufflation; this is noticeably felt primarily in the nasal passages, throat, and/or front teeth. A numbing of the whole face though is usually indicative of cutting agents added to the substance such as Novacaine.\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Mouth numbing]]'''\n*'''[[Effect::Tactile hallucination]]'''<ref>{{cite journal | vauthors=((Morani, A. S.)), ((Panwar, V.)), ((Grasing, K.)) | journal=The American Journal on Addictions | title=Tactile Hallucinations with Repetitive Movements Following Low-Dose Cocaine: Implications for Cocaine Reinforcement and Sensitization: Case Report | volume=22 | issue=2 | pages=181–182 | date= March 2013 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1521-0391.2013.00336.x | issn=10550496 | doi=10.1111/j.1521-0391.2013.00336.x}}</ref> - High doses and/or prolonged usage of certain dopaminergic stimulants like [[methamphetamine]] and cocaine can lead to hallucinatory sensations of bugs crawling on the surface of or underneath one’s skin (formication). This is typically referred to as ''delusional parasitosis'' or more informally as “coke bugs”. \n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]''' - Like other stimulants, this can cause users to feel colder in various parts of the body, such as the hands. This can become very dangerous when combined with other vasoconstrictors, such as [[nicotine]].{{citation needed}}\n}}\n|{{effects/cognitive| The mental headspace and cognitive effects of cocaine, is considered as euphoric and elating with a noticeable initial “rush” that quickly levels out into a lesser high before soon fading off within a dozen or so minutes unless (safely) redosed. It is sometimes reported as being more “hedonistic”, manic or distractible compared to stimulants of a similar caliber or strength; such as most [[amphetamine]]s, but while still often being reported as typically less “scatterbrained” than moderate to high doses of the common [[xanthine]] stimulant known as [[caffeine]]. It commonly presents noticeably less enhancements in executive functioning compared to other strong stimulants as well. It is also known for its supposed “honeymoon phase”, where the effects of cocaine (especially mental) seem either particularly or disproportionately positive when a user is new to the substance; often with effects like [[appetite suppression]] and [[wakefulness]] reportedly being less intense with earlier exposures to the drug.\n \n*'''[[Effect::Analysis enhancement]]''' - This effect is usually only present at low to moderate doses.\n*'''[[Effect::Anxiety]]''' ''or'' '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]''' - This effect is more prevalent than with any other commonly used [[stimulant]].\n*'''[[Effect::Cognitive euphoria]]''' -  When [[insufflated]] (snorted), this component almost invariably presents itself first as an initial “rush” feeling within the first 5 - 10 minutes before quickly leveling-out into a lesser degree of mental euphoria for another 10 or so minutes. However, other mental and physical components can outlast this initial highly-sought after euphoric ''rush'' stage of the high.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]''' - This effect can manifest inconsistently or sporadically, and sometimes conversely; only on the tail-end, with repeated dosing or even paradoxically, in conjunction with other more amicable components such as [[Empathy, affection, and sociability enhancement]]; however still markedly less than with [[MDMA]] and [[entactogens]].\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration. This effect is still considerably less prominent when compared to amphetamines however, and usually consists of increased distractibility and often an inability to stay focused on a single task at a time. The rewarding feeling, fleeting cognitive enhancements, and unusually euphoric mental “rush” from insufflation has often been cited as being the primary reason for this limited increased focus potential.\n*'''[[Effect::Increased libido]]''' - This may be more prominent or intense in its particular style (compared to similar substances) due to the drug’s alleged effects on testosterone levels as oppose to just the increase in dopamine. It can also be dosage dependent.\n*'''[[Effect::Increased music appreciation]]''' - This component can become less intense or even not present at all after regular or prolonged use.\n*'''[[Effect::Irritability]]''' -  Although usually this effect is seen mostly after the [[peak]] or during the comedown phase; irritability and/or extreme impatience associated with cocaine intoxication is notorious in its occassional and largely unpredictable potential intensity. It colloquialy known as \"coke rage.\"<ref>{{Citation | title=Urban Dictionary: Coke Rage | url=https://www.urbandictionary.com/define.php?term=Coke%20Rage}}</ref>\n*'''[[Effect::Mania]]''' - This aspect of cocaine is typically one of the main qualities that designates it as being less clearheaded and “functional” when compared to equipotent dosages of amphetamines.\n*'''[[Effect::Memory enhancement]]''' - This is usually only present during the very brief peak effects, but can be unusually prominent; possibly due to cocaine’s increased signaling of [[acetylcholine]] in the brain.\n*'''[[Effect::Memory suppression]]''' - This effect is most prevalent in high doses and appears to mostly impact short term memory. \n*'''[[Effect::Suggestibility suppression]]'''     \n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect:: Ringing in ears ]]''' - This effect is usually only experienced when cocaine is administered [[Intravenous|intravenously]] and is referred to as a \"bell ringer\".\n*'''[[Effect::Thought acceleration]]''' - This aspect can continue even once the main effects have worn off.\n*'''[[Effect::Thought organization]]''' - This possible effect is regarded as being considerably less prominent when compared to that of amphetamines.   \n*'''[[Effect::Time distortion|Time compression]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n*'''[[Effect::Wakefulness]]''' - This is considered less prominent when compared to amphetamine stimulants, particularly methamphetamine.\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a ''comedown'' or “crash” and occurs because of [[neurotransmitter]] depletion. Many users report however that the severity of the “crash” depends on dose; with apparently low or modest doses sometimes displaying a lack of intensity for the crash compared to other major-neurotransmitter depleting stimulants. Conversely, in high doses it can still be very severe. Its effects commonly include:\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Compulsive redosing]]'''<ref>https://one.nhtsa.gov/people/injury/research/job185drugs/cocain.htm</ref> - During the offset, almost immediately once the user has come down, they may experience unusually intense cravings for the drug.\n*'''[[Effect::Depression]]''' - Can be severe in higher doses but at times; practically nonexistent in lower doses for a number of users. However when experienced at moderate to severe levels it can also include significant physical bodily discomfort and feelings of dysphoric “emptiness”, sometimes in the chest or nasal passages.\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Tactile hallucination]]''' - This occurs after heavy or prolonged use and manifests as the sensation of insects crawling on one's skin.\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Headache]]'''\n\n}}\n}}\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=Cocaine}}\n\n==Common usage==\nCocaine is often adulterated when sold on black markets and this can significantly alter its effects on the body. Even when adulterants are pharmacologically inactive, their combination with the long-term perishability of cocaine due to moisture can lead to vastly differing apparent potencies between dosages of cocaine, and as such, it can be challenging to determine a \"typical\" recreational dose. \n\nPure cocaine is very potent and generates perceptible local anesthetic (numbing) effects from 1 mg and perceptible CNS stimulation from 5-7 mg; however, much higher doses tend to be used in recreational settings.\n\n==Forms==\n[[File:502px-Crack Ingredients.JPG|thumb|200px|right|In order for cocaine (in plastic bag at bottom) to be converted to crack, several supplies are needed. Pictured here are baking soda (a commonly used base in making crack) a metal spoon, a tea light, and a cigarette lighter. The spoon is held over the heat source in order to \"cook\" the cocaine into crack.]]\n\n*'''Cocaine paste:''' A crude extract of the coca leaf, which contains 40% to 91% cocaine sulfate along with companion coca alkaloids and varying quantities of benzoic acid, methanol, and kerosene.\n*'''Salts:''' Cocaine is a weakly alkaline compound (an \"alkaloid\") and can, therefore, combine with acidic compounds to form various salts. The hydrochloride (HCl) salt of cocaine is by far the most commonly encountered, although the sulfate (-SO4) and the nitrate (-NO3) are occasionally seen. Different salts dissolve to a greater or lesser extent in various solvents. The hydrochloride salt is polar in character and quite soluble in water.\n*'''Freebase:''' “Freebase” is the base form of cocaine, as opposed to the salt form. It is practically insoluble in water whereas hydrochloride salt is water soluble. This prevents cocaine in its basic form from being usable for [[sublingual]] usage and [[insufflation]]. Freebase cocaine can be treated with ethers, isopropyl alcohol, and hydrochloric acid to turn it into the salt form. <ref>{{Citation | title=Ask Erowid : ID 3151 : Can freebase cocaine be converted back to powder? | url=https://www.erowid.org/ask/ask.php?ID=3151}}</ref>\n*'''\"Crack\":''' \"Crack\" refers to a lower purity form of freebase cocaine that is usually produced by neutralization of cocaine hydrochloride with a solution of baking soda (sodium bicarbonate, NaHCO3) and water, producing a very hard/brittle, off-white-to-brown colored, amorphous material that contains sodium carbonate, entrapped water, and other by-products as the main impurities.<p>Smoking or vaporizing cocaine and inhaling it into the lungs produces an almost immediate \"high\" that can be very powerful and addictive. This initial buildup of stimulation is known as a \"rush\". While the stimulating effects may last for hours, the euphoric sensation is very brief, prompting the user to smoke more immediately.</p>\n*'''Coca leaf infusions:''' Coca herbal infusion (also referred to as coca tea) is used in coca-leaf producing countries as much as any herbal medicinal infusion would be elsewhere in the world. The free and legal commercialization of dried coca leaves under the form of filtration bags to be used as \"coca tea\" has been actively promoted by the governments of Peru and Bolivia for many years as a drink having medicinal properties. The leaves are also very widely used by native populations for a variety of purposes including the treatment of altitude sickness.\n*'''Coca leaf chewing:''' Chewing the leaves (with lime) is also common in producing regions, which numbs the mouth and causes mild stimulation.\n\n==Toxicity and harm potential==\n{{Template:Warning/Nasal administration}}\n\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Crack cocaine and cocaine were found to be the third and fifth overall most dangerous drugs, respectively.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of cocaine<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n\nChronic cocaine use has been shown to lead to neurotoxicity, being associated with high morbidity and mortality rates.<ref name=\"pmid33584173\" /><ref name=\"pmid24296074\">{{cite journal | vauthors = Hofmaier T, Luf A, Seddik A, Stockner T, Holy M, Freissmuth M, Ecker GF, Schmid R, Sitte HH, Kudlacek O | title = Aminorex, a metabolite of the cocaine adulterant levamisole, exerts amphetamine like actions at monoamine transporters | journal = Neurochemistry International | volume = 73 | issue = 100 | pages = 32–41 | date = July 2014 | pmid = 24296074 | pmc = 4077236 | doi = 10.1016/j.neuint.2013.11.010 }}</ref><ref name=\"Clare_2024\">{{cite journal | vauthors = Clare K, Park K, Pan Y, Lejuez CW, Volkow ND, Du C | title = Neurovascular effects of cocaine: relevance to addiction | journal = Frontiers in Pharmacology | volume = 15 | pages = 1357422 | date = 2024 | pmid = 38455961 | pmc = 10917943 | doi = 10.3389/fphar.2024.1357422 | doi-access = free }}</ref> Its extended use or abuse does also cause short-term downregulation of [[neurotransmitters]].\n\nThe most potentially harmful physical effects of cocaine appear to be not neurological but cardiovascular. Severe cardiac adverse events, particularly sudden cardiac death, become a serious risk at high doses due to cocaine's blocking effect on cardiac sodium channels.<ref name=\"OLeary2010\" />\nMoreover, long-term cocaine use may result in cocaine-related cardiomyopathy.<ref>{{cite journal | title=Cocaine-Related Cardiomyopathy: Overview, Cardiac Effects of Cocaine, Epidemiology | date=16 October 2021 | url=https://emedicine.medscape.com/article/152535-overview}}</ref>\n\nRegular cocaine insufflation, the most popular method of ingestion, can have extremely adverse effects on one's nostrils, nose, and nasal cavities. These include a loss of the sense of smell, nosebleeds, difficulty swallowing, hoarseness, or a chronically runny nose.\n\n\"[https://en.wikipedia.org/wiki/Crack_cocaine#Crack_lung Crack lung]\" is a term for various pulmonary diseases caused by smoking crack cocaine, and it can develop even after short-term or initial use. While crack lung is usually reversible with appropriate medical care and most people recover fully, in some cases—especially if complications arise—lasting lung damage may occur.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] if using this substance.\n\n===Lethal dosage===\nSusceptible [[Toxicity::individuals have died from as little as 30 mg applied to mucous membranes, whereas addicts may tolerate up to 5 grams daily]].<ref>{{Citation | title=Cocaine and crack drug profile | url=https://www.emcdda.europa.eu/publications/drug-profiles/cocaine}}</ref>\n===Dependence and abuse potential===\nAs with other [[stimulant]]s, the chronic use of cocaine can be considered [[Addiction potential::highly addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage. Addiction is a serious risk with heavy recreational cocaine use but is unlikely to arise from typical medical use.\n\nTolerance to many of the effects of cocaine [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). \n\nCocaine exhibits cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of cocaine all [[stimulant]]s will have a reduced effect.\n\nDespite evidence of brain structure and function changes in chronic users, a 2018 systematic review found limited support for widespread cognitive impairment caused by long-term cocaine use, suggesting that common assumptions about pervasive cognitive deficits may be overstated.<ref>{{cite journal |last1=Frazer |first1=KM |last2=Richards |first2=Q |last3=Keith |first3=DR |title=The long-term effects of cocaine use on cognitive functioning: A systematic critical review. |journal=Behavioural brain research |date=1 August 2018 |volume=348 |pages=241-262 |doi=10.1016/j.bbr.2018.04.005 |pmid=29673580}}</ref>\n\n====Withdrawal symptoms====\nAfter taking cocaine on a regular basis, some users will become addicted. When the substance is discontinued immediately, the user will experience what has come to be known as a \"crash\" along with a number of other cocaine withdrawal symptoms including [[Paranoia|paranoia]], [[Depression|depression]], [[Decreased libido]], [[Anxiety|anxiety]], itching, [[Cognitive effects: Mood swings|mood swings]], [[Irritability|irritability]], fatigue, [[Physical effects:  Wakefulness|insomnia]], an intense craving for more cocaine, and, in some cases, [[Nausea|nausea and vomiting]].\n\nThese symptoms can last for weeks or, in some cases, months. Even after most withdrawal symptoms dissipate most users feel the need to continue using the drug; this feeling can last for years and may peak during times of stress. About 30-40% of cocaine addicts will turn to other substances such as medication and [[alcohol]] after giving up cocaine.{{Citation needed|date=October 2016}}\n\nThe misuse of cocaine has a high correlation with suicide.<ref name=\"Vijayakumar_2011\">{{cite journal | vauthors = Vijayakumar L, Kumar MS, Vijayakumar V | title = Substance use and suicide | journal = Current Opinion in Psychiatry | volume = 24 | issue = 3 | pages = 197–202 | date = May 2011 | pmid = 21430536 | doi = 10.1097/YCO.0b013e3283459242 | s2cid = 206143129 }}</ref><ref>{{cite journal | vauthors = Moçambique M, Hoffmann A, Roglio V, Kessler F, Dalbosco C, Schuch J, Pechansky F | title = Prevalence of suicide in cocaine users accessing health services: a systematic review and meta-analysis. | journal = Revista Brasileira de Psiquiatria | location = Sao Paulo, Brazil | volume = 44 | issue = 4 | pages = 441–448 | date = 24 June 2022 | pmid = 35751594 | pmc = 9375660 | doi = 10.47626/1516-4446-2021-2207 }}</ref> In those who use cocaine, the risk is greatest during the withdrawal phase.<ref>{{cite book | vauthors = Ayd FJ | title = Lexicon of psychiatry, neurology, and the neurosciences | location = Philadelphia [u.a.] | pages = 256 | year = 2000 | url = https://books.google.com/books?id=ea_QVG2BFy8C&q=256 | publisher = Lippincott Williams & Wilkins | isbn = 978-0-7817-2468-5 | edition = 2nd }}</ref>\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nCocaine has a similar potential to induce temporary [[psychosis]]<ref>{{cite journal | vauthors=((Brady, K. T.)), ((Lydiard, R. B.)), ((Malcolm, R.)), ((Ballenger, J. C.)) | journal=The Journal of Clinical Psychiatry | title=Cocaine-induced psychosis | volume=52 | issue=12 | pages=509–512 | date= December 1991 | issn=0160-6689}}</ref> with more than half of cocaine abusers reporting at least some psychotic symptoms at some point.<ref>{{Citation | title=Psychosis Among Substance Users | url=https://www.medscape.com/viewarticle/528487}}</ref> \n\nTypical symptoms of sufferers include paranoid delusions that they are being followed and that their drug use is being watched accompanied by hallucinations that support the delusional beliefs.<ref name=\"cokebugs\">{{cite journal | vauthors=((Elliott, A.)), ((Mahmood, T.)), ((Smalligan, R. D.)) | journal=The American Journal on Addictions | title=Cocaine Bugs: A Case Report of Cocaine-Induced Delusions of Parasitosis: Cocaine Bugs | volume=21 | issue=2 | pages=180–181 | date= March 2012 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1521-0391.2011.00208.x | issn=10550496 | doi=10.1111/j.1521-0391.2011.00208.x}}</ref> [[Delusional parasitosis]] with [[formication]] (\"cocaine bugs\") is also a fairly common symptom.<ref name=\"cokebugs\" />\n\nCocaine-induced psychosis shows sensitization toward the psychotic effects of the drug. This means that psychosis becomes more severe with repeated intermittent use.<ref>{{cite journal | vauthors=((Schanzer, B. M.)), ((First, M. B.)), ((Dominguez, B.)), ((Hasin, D. S.)), ((Caton, C. L. M.)) | journal=Psychiatric Services | title=Diagnosing Psychotic Disorders in the Emergency Department in the Context of Substance Use | volume=57 | issue=10 | pages=1468–1473 | date= October 2006 | url=http://psychiatryonline.org/doi/abs/10.1176/ps.2006.57.10.1468 | issn=1075-2730 | doi=10.1176/ps.2006.57.10.1468}}</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::Mushrooms]]''' - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*'''[[UncertainInteraction::LSD]]''' - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*'''[[UncertainInteraction::DMT]]''' - Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.\n*'''[[UncertainInteraction::Mescaline]]''' - The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops.\n*'''[[UncertainInteraction::2C-x]]''' - The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. A combination of the stimulating effects may be uncomfortable.\n*'''[[UncertainInteraction::Cannabis]]''' - Stimulants increase [[anxiety]] levels and the risk of [[thought loops]] which can lead to negative experiences.\n*'''[[UncertainInteraction::Ketamine]]''' - No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill-advised due to the risk of physical injury.\n*'''[[UncertainInteraction::MXE]]''' - Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.\n*'''[[UncertainInteraction::Amphetamines]]''' - This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine.\n*'''[[UncertainInteraction::MDMA]]''' - Cocaine blocks some of the desirable effects of MDMA while increasing the risk of a heart attack.\n*'''[[UncertainInteraction::Caffeine]]''' - Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.\n*'''[[UncertainInteraction::GHB]]''' - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the sedative may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind.\n*'''[[UncertainInteraction::GBL]]''' - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the sedative may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind.\n*'''[[UnsafeInteraction::DOx]]''' - The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic.\n*'''[[UnsafeInteraction::25x-NBOMe]]''' - Cocaine and NBOMes both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.\n*'''[[UnsafeInteraction::2C-T-x]]''' - Cocaine and 2C-T-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.\n*'''[[UnsafeInteraction::5-MeO-xxT]]''' - The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics.\n*'''[[UnsafeInteraction::DXM]]''' - Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.\n*'''[[UnsafeInteraction::PCP]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::Alcohol]]''' - Drinking while using stimulants is risky because the sedative effects of alcohol are reduced. These are what the body uses to gauge “drunkenness”. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.\n*'''[[DangerousInteraction::ΑMT]]'''\n*'''[[DangerousInteraction::Opioids]]''' - Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.\n*'''[[DangerousInteraction::Tramadol]]''' - Tramadol and stimulants both increase the risk of seizures.\n*'''[[DangerousInteraction::MAOIs]]''' - This combination is poorly explored.\n\n==Legal status==\n\n*'''Australia''': Cocaine is a Schedule 8 (controlled) drug permitting some medical use, but is otherwise outlawed.<ref>{{Citation | vauthors=Health | title=Poisons Standard October 2019 | url=http://www.legislation.gov.au/Details/F2019L01197}}</ref> Personal quantities under 1.5 grams are decriminalized in the Australian Capital Territory (ACT) as of 28 October 2023.<ref>https://www.health.act.gov.au/about-our-health-system/population-health/drug-law-reform</ref>\n*'''Austria''': Cocaine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).<ref>{{cite web|url=https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053|title=Suchtgiftverordnung|publisher=Government of Austria|access-date= February 18, 2022}}</ref>\n*'''Bolivia''': Limited cultivation of coca is legal in Bolivia, where chewing the leaves and drinking coca tea are considered cultural practices, in particular, in the mountainous regions. Processed cocaine is illegal.{{citation needed}}\n*'''Brazil''': Personal use of cocaine is decriminalized although public consumption is considered a crime. It is illegal to cultivate, transport and sell.<ref>http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm</ref>\n*'''Canada''': Cocaine is a Schedule I drug under the Controlled Drugs and Substances Act of Canada.<ref>http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-23.html#h-26</ref>\n*'''Colombia''': Even though possession of less than 1 gram of cocaine was legalized for personal use in 1994 by the supreme court,<ref>http://www.signonsandiego.com/news/world/20040405-0915-legalizeddrugs.html</ref><ref>http://www.cbsnews.com/stories/2004/04/05/world/main610293.shtml</ref> sale and possession are now illegal under the new nationwide police code.{{citation needed}}\n*'''Germany''': Cocaine was listed in the initial version of the Opiumgesetz (''Opium Act'') of December 10, 1929.<ref>{{cite web|url=https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_29T1_043_0215.jpg|title=Gesetz über den Verkehr mit Betäubungsmitteln (Opiumgesetz)|publisher=Reichsministerium des Innern|access-date=December 28, 2019|language=de}}</ref> In accordance to the Narcotics Act reform of 1981, it is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form. If owned illegaly, a quantity of up to 5 grams is regarded as a small amount.<ref>{{cite web|url=https://research.wolterskluwer-online.de/document/ff414862-1114-4b4d-b724-00d35b0ec251|title=Bundesgerichtshof: Urt. v. 01.02.1985, Az.: 2 StR 685/84|publisher=2. Strafsenat des Bundesgerichtshofs|date=February 1, 1985|access-date=December 28, 2019|language=de}}</ref> In these cases, the prosecution can cease the proceeding.\n*'''Hong Kong''': Use and possession of cocaine is illegal unless a license was issued by the Department of Health.{{citation needed}}\n*'''India''': Use and possession of cocaine is illegal with a mandatory 10-year sentence.{{citation needed}}\n*'''Lithuania''': Cocaine is a schedule I substance. Possession, production, and trade are not allowed.<ref>http://vvkt.lt/lit/I-narkotiniu-ir-psichotropiniu-medziagu-saraas/312</ref>\n*'''Mexico''': As of August 25, 2009, the Mexican legislature officially legalized small doses of cocaine, heroin, marijuana, crystal meth, and ecstasy for personal use. No action will be taken for those carrying up to half a gram of cocaine.<ref>{{Citation | title=USATODAY.com - Mexico votes to legalize small amounts of cocaine, heroin and marijuana | url=https://usatoday30.usatoday.com/news/world/2006-04-28-mexicodrugs_x.htm}}</ref><ref>http://www.foxnews.com/story/0,2933,193616,00.html</ref><ref>http://www.cbsnews.com/stories/2006/05/03/world/main1575608.shtml</ref><ref>http://www.cbsnews.com/stories/2006/04/12/world/main1491595.shtml</ref><ref>http://www.msnbc.msn.com/id/12535896</ref>\n*'''The Netherlands''': Cocaine is considered an illegal hard drug. Possession, production, and trade are not allowed as stated in the Opium Law of 1928. Although technically illegal, possession of less than half a gram usually goes unpunished.<ref>http://www.lwl.org/LWL/Jugend/KoopSucht/nl/Repression/index_html#b</ref><ref>http://www.drugsbeleid.nl/nederlands/projecten/drugsverbod_juridisch_ontmaskeren.htm</ref>\n*'''New Zealand''': Cocaine is a Class A drug. The coca leaf and preparations of cocaine containing no more than 0.1% cocaine base, in such a way that the cocaine cannot be recovered, are both classified as Class C.{{citation needed}}\n*'''Nigeria''': It is a crime to be seen with cocaine.{{citation needed}}\n*'''Pakistan''': Use and possession of cocaine is illegal.{{citation needed}}\n*'''Peru''': Cultivation of coca plants is legal and coca leaves are sold openly on markets. Similarly to Bolivia, chewing leaves and drinking coca tea belong to cultural practices. Possession of up to 2 grams of cocaine or up to 5 grams of cocaine basic paste is legal for personal use in Peru per Article 299 of Peruvian Penal Code.<ref>http://www.druglawreform.info/en/country-information/peru/item/207-peru?pop=1&tmpl=component&print=1</ref> However, the reality of how police treats it might be very different.<ref>{{Citation | vauthors=Tony | year=2012 | title=Drugs in Peru: The Laws of Possession | url=https://howtoperu.com/drugs-in-peru-laws-of-possession/}}</ref> An important part of Article 299 is that person may not possess two or more kinds of drugs at the same time -- this would make it a criminal offense.\n*'''Poland''': Cocaine is listed in \"Wykaz środków odurzających i substancji psychotropowych\" group \"I-N\". Use and possession of cocaine is illegal.<ref>https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20051791485/T/D20051485L.pdf</ref>\n*'''Portugal''': Personal use of cocaine is decriminalized. Drug abuse is dealt with by administrative and medical intervention. Trafficking is illegal.<ref>http://www.cato.org/pubs/wtpapers/greenwald_whitepaper.pdf</ref>\n*'''Saudi Arabia''': Use and possession of cocaine is punishable by death.{{citation needed}}\n*'''Singapore''': Possession of more than 30 grams of cocaine results in a mandatory death sentence, but can be issued by the Department of Health.{{citation needed}}\n*'''South Africa''': Cocaine is a controlled substance.{{citation needed}}\n*'''Switzerland''': Cocaine is a controlled substance specifically named under Verzeichnis A.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Cocaine is a Class A drug, controlled by the Misuse of Drugs Act 1971. However, medical use by doctors for controlling pain is permitted.{{citation needed}}\n*'''United States''': Cocaine is classified as a Schedule II Narcotic under the Controlled Substances Act of the United States.<ref>http://www.justice.gov/dea/pubs/scheduling.html</ref>\n\n==Research==\nA single low dose of cocaine caused structural brain damage in mice, even without noticeable behavioral or metabolic changes.<ref name=\"pmid33584173\">{{cite journal |last1=Nicolucci |first1=C |last2=Pais |first2=ML |last3=Santos |first3=AC |last4=Ribeiro |first4=FM |last5=Encarnação |first5=PMCC |last6=Silva |first6=ALM |last7=Castro |first7=IF |last8=Correia |first8=PMM |last9=Veloso |first9=JFCA |last10=Reis |first10=J |last11=Lopes |first11=MZ |last12=Botelho |first12=MF |last13=Pereira |first13=FC |last14=Priolli |first14=DG |title=Single Low Dose of Cocaine-Structural Brain Injury Without Metabolic and Behavioral Changes. |journal=Frontiers in neuroscience |date=2020 |volume=14 |pages=589897 |doi=10.3389/fnins.2020.589897 |pmid=33584173 |pmc=7874143}}</ref> Cocaine increases dopamine, norepinephrine, and serotonin in the rat brain by blocking their reuptake, potentially causing neurotoxicity through free radical formation and excessive glutamate activity. However, repeated cocaine use in rats also raises levels of taurine, a neuroprotective amino acid that helps counteract this excitotoxicity. This suggests the rat brain has a self-protective response, and taurine or its derivatives could help manage cocaine’s harmful effects.<ref>{{cite journal |last1=Yablonsky-Alter |first1=E |last2=Agovic |first2=MS |last3=Gashi |first3=E |last4=Lidsky |first4=TI |last5=Friedman |first5=E |last6=Banerjee |first6=SP |title=Cocaine challenge enhances release of neuroprotective amino acid taurine in the striatum of chronic cocaine treated rats: a microdialysis study. |journal=Brain research bulletin |date=29 May 2009 |volume=79 |issue=3-4 |pages=215-8 |doi=10.1016/j.brainresbull.2008.12.014 |pmid=19166917 |pmc=2734188}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Tropanes]]\n*[[Dichloropane]] (RTI-111)\n*[[Amphetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Cocaine Cocaine (Wikipedia)]\n*[https://erowid.org/chemicals/cocaine/cocaine.shtml Cocaine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2969 Cocaine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00907 Cocaine (DrugBank)]\n*[https://www.drugs.com/illicit/cocaine.html Cocaine (Drugs.com)]\n*[https://drugs-forum.com/wiki/Cocaine Cocaine (Drugs-Forum)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Tropane]]\n[[Category:Stimulant]]\n[[Category:Alkaloid]]\n\n{{#set:Featured=true}}"
+}

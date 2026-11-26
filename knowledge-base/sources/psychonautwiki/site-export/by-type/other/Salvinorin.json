@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19056",
+ "type": "other",
+ "title": "Salvinorin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Salvinorin",
+  "pageid": 19056,
+  "last_edited": "2024-06-17T13:20:16Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "Stub"
+ ],
+ "plain_text": "Salvinorins are a class of organic compounds naturally found in salvia divinorum. They are classified as diterpenoid furanolactones. \n\nSalvinorins are structurally distinct from other naturally occurring tryptamines (such as DMT, psilocybin) because they contain no nitrogen atoms; hence, it is not an alkaloid (and cannot be rendered as a salt), but rather is a terpenoid. It also differs in subjective experience, compared to other hallucinogens, and has been described as dissociative.\n\nList of salvinorin compounds\n\n{| class=\"wikitable\"\n|-\n! scope=\"col\" |Compound\n! scope=\"col\" style=\"width: 50px;\" |R1\n! scope=\"col\" style=\"width: 50px;\" |R2\n! scope=\"col\" |Structure\n|-\n|Salvinorin A||–OCOCH3||H||200px\n|-\n|Salvinorin B||–OH||H||200px\n|-\n|Salvinorin C||OCOCH3||–OCOCH3||-\n|-\n|Salvinorin D||–OCOCH3||–OH||-\n|-\n|Salvinorin E||–OH||–OCOCH3||-\n|-\n|Salvinorin F||–OH||–H||-\n|-\n|Salvinorin G||=O||–OCOCH3||-\n|-\n|Salvinorin H||–OH||–OH||-\n|-\n|Salvinorin I||H||H||-\n|-\n|17α-Salvinorin J||H||H||-\n|-\n|17β-Salvinorin J||H||H||-\n|}\n\nReferences",
+ "wikitext": "{{headerpanel|{{stub}}}}\n\n'''Salvinorins''' are a class of organic compounds naturally found in [[Salvia divinorum (botany)|''salvia divinorum'']]. They are classified as [https://en.wikipedia.org/wiki/Diterpene#Diterpenoids diterpenoid] [https://en.wikipedia.org/wiki/Furanolactone furanolactones]. \n\nSalvinorins are structurally distinct from other naturally occurring tryptamines (such as DMT, psilocybin) because they contain no nitrogen atoms; hence, it is not an alkaloid (and cannot be rendered as a salt), but rather is a terpenoid. It also differs in subjective experience, compared to other hallucinogens, and has been described as dissociative.\n\n== List of salvinorin compounds==\n{| class=\"wikitable\"\n|-\n! scope=\"col\" |'''Compound'''\n! scope=\"col\" style=\"width: 50px;\" |'''R<sub>1</sub>'''\n! scope=\"col\" style=\"width: 50px;\" |'''R<sub>2</sub>'''\n! scope=\"col\" |'''Structure'''\n|-\n|[[Salvinorin A]]||–OCOCH<sub>3</sub>||H||[[File:Salvinorin_A.svg|200px]]\n|-\n|[[Salvinorin B]]||–OH||H||[[File:Salvinorin_B_methoxymethyl_ether.svg|200px]]\n|-\n|[[Salvinorin C]]||OCOCH<sub>3</sub>||–OCOCH<sub>3</sub>||-\n|-\n|[[Salvinorin D]]||–OCOCH<sub>3</sub>||–OH||-\n|-\n|[[Salvinorin E]]||–OH||–OCOCH<sub>3</sub>||-\n|-\n|[[Salvinorin F]]||–OH||–H||-\n|-\n|[[Salvinorin G]]||=O||–OCOCH<sub>3</sub>||-\n|-\n|[[Salvinorin H]]||–OH||–OH||-\n|-\n|[[Salvinorin I]]||H||H||-\n|-\n|[[17a-Salvinorin J|17α-Salvinorin J]]||H||H||-\n|-\n|[[17b-Salvinorin J|17β-Salvinorin J]]||H||H||-\n|}\n\n==References==\n{{references}}\n<references />"
+}

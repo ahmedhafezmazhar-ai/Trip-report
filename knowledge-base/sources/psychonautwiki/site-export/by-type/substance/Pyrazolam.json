@@ -1,0 +1,383 @@
+{
+ "id": "psychonautwiki:7483",
+ "type": "substance",
+ "title": "Pyrazolam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pyrazolam",
+  "pageid": 7483,
+  "last_edited": "2024-06-13T14:15:25Z"
+ },
+ "categories": [
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Psychoactive substance",
+  "Research chemical",
+  "Triazolobenzodiazepine"
+ ],
+ "substance_box_template": "SubstanceBox/Pyrazolam",
+ "substance_box": {
+  "names": {
+   "common": "Pyrazolam",
+   "substitutive": "",
+   "systematic": "8-bromo-1-methyl-6-(pyridin-2-yl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.5 mg",
+    "light": "0.5 - 0.75 mg",
+    "common": "0.75 - 2 mg",
+    "strong": "2 - 3.5 mg",
+    "heavy": "3 mg +",
+    "duration": "5 - 8 hours",
+    "onset": "10 - 15 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Pyrazolam"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Benzodiazepine"
+   ],
+   "Oral threshold dose": [
+    "0.5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "0.75"
+   ],
+   "Oral min common dose": [
+    "0.75"
+   ],
+   "Oral max common dose": [
+    "2"
+   ],
+   "Oral min strong dose": [
+    "2"
+   ],
+   "Oral max strong dose": [
+    "3.5"
+   ],
+   "Oral heavy dose": [
+    "3"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "15"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Pyrazolam.",
+   "clean": "Molecular structure of Pyrazolam."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Pyrazolam.svg",
+   "clean": "File:Pyrazolam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Pyrazolam]]",
+   "clean": "Pyrazolam"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "8-bromo-1-methyl-6-(pyridin-2-yl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+   "clean": "8-bromo-1-methyl-6-(pyridin-2-yl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/pyrazolam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.5]] [[Oral dose units::mg]]",
+   "clean": "0.5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::0.75]] mg",
+   "clean": "0.5 - 0.75 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::0.75]] - [[Oral max common dose::2]] mg",
+   "clean": "0.75 - 2 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2]] - [[Oral max strong dose::3.5]] mg",
+   "clean": "2 - 3.5 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::3]] mg +",
+   "clean": "3 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::15]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 15 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Pyrazolam is a novel depressant substance of the benzodiazepine class.\n\nPyrazolam was originally developed at Hoffman-La Roche in the 1970s and subsequently \"rediscovered\" and sold as a research chemical starting in 2012. \n\nSubjective effects include sedation, anxiety suppression, muscle relaxation, disinhibition, and euphoria. Pyrazolam is reported to produce comparibily greater amounts of anxiety supression than sedation and euphoria in comparison to other benzodiazepines, limiting its recreational use. However, this can lead to greater delusions of sobriety when using felt level of sedation to gauge one's level of intoxication. \n\nIt should be noted that the sudden discontinuation of benzodiazepines can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death. It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.\n\nBenzodiazepines are habit-forming and can produce mental and physical dependence with continued use. It is strongly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nPyrazolam was originally developed by a team led by Leo Sternbach at Hoffman-La Roche in the 1970s and subsequently \"rediscovered\" and sold as a research chemical starting in 2012. The first official report of the drug came out of Finland in 2011 and another came from the UK in 2012. \n\nChemistry\n\nPyrazolam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. Bromine is bound to this bicyclic structure at R7. Additionally, at R6 the bicylic core is substitued with a 2-pyridine ring. Pyrazolam also contains a 1-methylated triazole ring fused to and incorporating R1 and R2 of its diazepine ring. Pyrazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nPharmacology\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter gamma aminobutyric acid (GABA) by acting on its receptors. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of pyrazolam on the nervous system.\n\nThe anticonvulsant properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.\n\nPyrazolam is most selective for the α2 and α3 receptor subtypes. It is excreted by the body unchanged thus not interacting with liver enzymes like other benzodiazepines, meaning that its use in people with reduced liver function may be safer.\n\nPyrazolam has structural similarities to alprazolam and bromazepam. Unlike other benzodiazepines, pyrazolam does not appear to undergo metabolism, instead being excreted unchanged in the urine. It is most selective for the α2 and α3 subtypes of the GABAA receptor.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Pyrazolam\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.\n\nPyrazolam likely has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nPyrazolam is extremely physically and psychologically addictive.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see this guide.\n\nBenzodiazepine discontinuation is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nPyrazolam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect.\n\nOverdose\n\nBenzodiazepine overdose may occur when a benzodiazepine is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine benzodiazepines with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\nPyrazolam is not explicitly prohibited in most parts of the world, meaning it exists in a legal grey area. This means that it is not known to be specifically illegal, people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume.\n\n*Canada: All benzodiazepines are listed in Schedule IV.\n*Germany: Pyrazolam is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Russia: Pyrazolam is a Schedule III controlled substance since 2017.\n*Sweden:  Pyrazolam is a controlled substance.\n*Switzerland: Pyrazolam is a controlled substance specifically named under Verzeichnis E.\n*Turkey: Pyrazolam is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: Pyrazolam is a Class C controlled substance as of May 31, 2017. It is illegal to possess, produce or supply.\n\nSee also\n\n*Responsible use\n*Benzodiazepines\n*Depressants\n\nExternal links\n\n*Pyrazolam (Wikipedia)\n*Pyrazolam (Isomer Design)\n*Pyrazolam (DrugBank)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Triazolobenzodiazepine\nCategory:Research chemical",
+ "wikitext": "{{DepressantOD|benzodiazepines}}\n{{SummarySheet}}\n{{SubstanceBox/Pyrazolam}}\n'''Pyrazolam''' is a novel [[psychoactive class::depressant]] substance of the [[chemical class::benzodiazepine]] class.\n\nPyrazolam was originally developed at Hoffman-La Roche in the 1970s<ref name=\"SternbachPatent\">{{Citation | vauthors=((Sternbach, L. H.)), ((Walser, A.)) | title=Preparation of triazolo benzodiazepines and novel compounds | url=https://patents.google.com/patent/US3954728A/en}}</ref> and subsequently \"rediscovered\" and sold as a [[research chemical]] starting in 2012.<ref name=\"Moosmann2013\">{{cite journal | vauthors=((Moosmann, B.)), ((Hutter, M.)), ((Huppertz, L. M.)), ((Ferlaino, S.)), ((Redlingshöfer, L.)), ((Auwärter, V.)) | journal=Forensic Toxicology | title=Characterization of the designer benzodiazepine pyrazolam and its detectability in human serum and urine | volume=31 | issue=2 | pages=263–271 | date=1 July 2013 | url=https://doi.org/10.1007/s11419-013-0187-4 | issn=1860-8973 | doi=10.1007/s11419-013-0187-4}}</ref> \n\n[[Subjective effects]] include [[sedation]], [[anxiety suppression]], [[muscle relaxation]], [[disinhibition]], and [[euphoria]]. Pyrazolam is reported to produce comparibily greater amounts of anxiety supression than sedation and euphoria in comparison to other benzodiazepines, limiting its recreational use. However, this can lead to greater delusions of sobriety when using felt level of sedation to gauge one's level of intoxication. \n\nIt should be noted that [[Benzodiazepine#Discontinuation|the sudden discontinuation of benzodiazepines]] can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death.<ref name=\"Lann2009\" /> It is highly recommended to [[taper]] one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\nBenzodiazepines are habit-forming and can produce mental and physical dependence with continued use. It is strongly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{historyStub}}\nPyrazolam was originally developed by a team led by Leo Sternbach at Hoffman-La Roche in the 1970s<ref name=\"SternbachPatent\" /> and subsequently \"rediscovered\" and sold as a [[research chemical]] starting in 2012.<ref name=\"Moosmann2013\" /> The first official report of the drug came out of Finland in 2011 and another came from the UK in 2012.<ref>{{cite journal | vauthors=((O’Connor, L. C.)), ((Torrance, H. J.)), ((McKeown, D. A.)) | journal=Journal of Analytical Toxicology | title=ELISA Detection of Phenazepam, Etizolam, Pyrazolam, Flubromazepam, Diclazepam and Delorazepam in Blood Using Immunalysis ® Benzodiazepine Kit | volume=40 | issue=2 | pages=159–161 | date= March 2016 | url=https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkv122 | issn=0146-4760 | doi=10.1093/jat/bkv122}}</ref> \n\n==Chemistry==\nPyrazolam is a drug of the [[benzodiazepine]] class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. Bromine is bound to this bicyclic structure at R<sub>7</sub>. Additionally, at R<sub>6</sub> the bicylic core is substitued with a 2-pyridine ring. Pyrazolam also contains a 1-methylated triazole ring fused to and incorporating R<sub>1</sub> and R<sub>2</sub> of its diazepine ring. Pyrazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\n==Pharmacology==\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by acting on its [[receptor]]s.<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of pyrazolam on the nervous system.\n\nThe [[anticonvulsant]] properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.<ref>{{cite journal | vauthors=((McLean, M. J.)), ((Macdonald, R. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture | volume=244 | issue=2 | pages=789–795 | date= February 1988 | issn=0022-3565}}\n</ref>\n\nPyrazolam is most selective for the α2 and α3 receptor subtypes.<ref>{{cite journal | vauthors=((Hester, J. B.)), ((Von Voigtlander, P.)) | journal=Journal of Medicinal Chemistry | title=6-Aryl-4H-s-triazolo[4,3-a][1,4]benzodiazepines. Influence of 1-substitution on pharmacological activity | volume=22 | issue=11 | pages=1390–1398 | date= November 1979 | url=https://pubs.acs.org/doi/abs/10.1021/jm00197a021 | issn=0022-2623 | doi=10.1021/jm00197a021}}</ref> It is excreted by the body unchanged thus not interacting with liver enzymes like other benzodiazepines,<ref name=\"Moosmann2013\" /> meaning that its use in people with reduced liver function may be safer.\n\nPyrazolam has structural similarities to alprazolam and bromazepam.<ref>{{cite journal | vauthors=((Hester, J. B.)), ((Rudzik, A. D.)), ((Kamdar, B. V.)) | journal=Journal of Medicinal Chemistry | title=6-phenyl-4H-s-triazolo[4,3-a][1,4]benzodiazepines which have central nervous system depressant activity | volume=14 | issue=11 | pages=1078–1081 | date= November 1971 | issn=0022-2623 | doi=10.1021/jm00293a015}}</ref> Unlike other benzodiazepines, pyrazolam does not appear to undergo metabolism, instead being excreted unchanged in the urine.<ref name=\"Moosmann2013\" /> It is most selective for the α<sub>2</sub> and α<sub>3</sub> subtypes of the GABA<sub>A</sub> receptor.<ref>{{cite journal | vauthors=((Hester, J. B.)), ((Von Voigtlander, P.)) | journal=Journal of Medicinal Chemistry | title=6-Aryl-4H-s-triazolo[4,3-a][1,4]benzodiazepines. Influence of 1-substitution on pharmacological activity | volume=22 | issue=11 | pages=1390–1398 | date= November 1979 | issn=0022-2623 | doi=10.1021/jm00197a021}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, pyrazolam is considerably less sedating than other substances of the same class unless it is taken at heavy doses.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Respiratory depression]]'''\n\n}}\n{{effects/paradoxical|\nParadoxical reactions to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref>\n\nThese paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref>\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of pyrazolam can be broken down into several components which progressively intensify proportional to dosage. The general head space of pyrazolam is described by many as one of mild sedation and proportionally intense anxiety suppression. It contains a large number of typical [[depressant]]s cognitive effects.\n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others.\n*'''[[Effect::Dream potentiation]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Pyrazolam.shtml Erowid Experience Vaults: Pyrazolam]\n\n==Toxicity and harm potential==\n{{toxicity}}\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n{{Further|Research chemicals#Toxicity and harm potential}}\nPyrazolam likely has a [[Toxicity::low toxicity]] relative to dose.<ref>{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine metabolism: an analytical perspective | volume=9 | issue=8 | pages=827–844 | date= October 2008 | issn=1389-2002 | doi=10.2174/138920008786049258}}</ref> However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nPyrazolam is [[Addiction potential::extremely physically and psychologically addictive]].\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide].\n\n[[Benzodiazepine#Discontinuation|Benzodiazepine discontinuation]] is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of [[hypertension]], [[seizures]], and death.<ref name=\"Lann2009\">{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> Drugs which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\nPyrazolam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption all benzodiazepines will have a reduced effect.\n\n===Overdose===\nBenzodiazepine overdose may occur when a [[benzodiazepine]] is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as [[barbiturate |barbiturates]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with [[flumazenil]], a GABA<sub>A</sub> antagonist<ref>{{cite journal | vauthors=((Hoffman, E. J.)), ((Warren, E. W.)) | journal=Clinical Pharmacy | title=Flumazenil: a benzodiazepine antagonist | volume=12 | issue=9 | pages=641–656; quiz 699–701 | date= September 1993 | issn=0278-2677}}</ref>, however care is primarily supportive in nature.\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  It is dangerous to combine benzodiazepines with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified [[disinhibition]] as well as [[benzodiazepine#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\nPyrazolam is not explicitly prohibited in most parts of the world, meaning it exists in a legal grey area. This means that it is not known to be specifically illegal, people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume.\n\n*'''Canada''': All benzodiazepines are listed in Schedule IV.<ref>\nNew item…\n{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-15.html}}</ref>\n*'''Germany''': Pyrazolam is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|publication-date=July 17, 2019|access-date=December 28, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref>\n*'''Russia''': Pyrazolam is a Schedule III controlled substance since 2017.<ref>{{Citation | title=Постановление Правительства РФ от 12.07.2017 N 827 “О внесении изменений в некоторые акты Правительства Российской Федерации в связи с совершенствованием контроля за оборотом наркотических средств и психотропных веществ” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=220067&dst=1000000001&date=02.12.2019}}</ref>\n*'''Sweden''':  Pyrazolam is a controlled substance.<ref>{{Citation | title=Regeringskansliets rättsdatabaser | url=https://rkrattsbaser.gov.se/sfst?fritext=pyrazolam&upph=false}}</ref>\n*'''Switzerland''': Pyrazolam is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Pyrazolam is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2016/9712\">https://resmigazete.gov.tr/eskiler/2017/01/20170112-8.pdf</ref>\n*'''United Kingdom''': Pyrazolam is a Class C controlled substance as of May 31, 2017. It is illegal to possess, produce or supply.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2017 | url=https://www.legislation.gov.uk/uksi/2017/634/made}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Benzodiazepines]]\n*[[Depressants]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Pyrazolam Pyrazolam (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3045 Pyrazolam (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB14718 Pyrazolam (DrugBank)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Triazolobenzodiazepine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,412 @@
+{
+ "id": "psychonautwiki:169",
+ "type": "substance",
+ "title": "Mirtazapine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Mirtazapine",
+  "pageid": 169,
+  "last_edited": "2026-04-26T05:07:05Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Antidepressant",
+  "Antihistamine",
+  "Articles with unsourced statements",
+  "Benzazepine",
+  "CS1 maint: Extra text",
+  "Deliriant",
+  "Depressant",
+  "Phenethylamine",
+  "Piperazinoazepine"
+ ],
+ "substance_box_template": "SubstanceBox/Mirtazapine",
+ "substance_box": {
+  "names": {
+   "common": "Avanza, Axit, Mirtaz, Mirtazon, Remeron, Zispin",
+   "substitutive": "Mirtazapine",
+   "systematic": "(±)-2-Methyl-1,2,3,4,10,14b-hexahydropyrazino[2,1-a]pyrido[2,3-c][2]benzazepine"
+  },
+  "classes": {
+   "psychoactive": "Deliriant / Depressant",
+   "chemical": "Piperazinoazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "50%",
+    "threshold": "3.5 mg",
+    "light": "70 - 130 mg",
+    "common": "130 - 190 mg",
+    "strong": "190 - 250 mg",
+    "heavy": "250 mg +",
+    "duration": "14 - 24 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "90 - 180 minutes",
+    "offset": "2 - 6 hours",
+    "aftereffects": "up to 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Avanza",
+    "Axit",
+    "Mirtaz",
+    "Mirtazon",
+    "Remeron",
+    "Zispin"
+   ],
+   "Psychoactive class": [
+    "Deliriant",
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Piperazinoazepine"
+   ],
+   "Oral threshold dose": [
+    "3.5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "70"
+   ],
+   "Oral max light dose": [
+    "130"
+   ],
+   "Oral min common dose": [
+    "130"
+   ],
+   "Oral max common dose": [
+    "190"
+   ],
+   "Oral min strong dose": [
+    "190"
+   ],
+   "Oral max strong dose": [
+    "250"
+   ],
+   "Oral heavy dose": [
+    "250"
+   ],
+   "Oral min total time": [
+    "14"
+   ],
+   "Oral max total time": [
+    "24"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "90"
+   ],
+   "Oral max peak time": [
+    "180"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of mirtazapine",
+   "clean": "Molecular structure of mirtazapine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Mirtazapine.svg",
+   "clean": "File:Mirtazapine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Avanza]], [[common name::Axit]], [[common name::Mirtaz]], [[common name::Mirtazon]], [[common name::Remeron]], [[common name::Zispin]]",
+   "clean": "Avanza, Axit, Mirtaz, Mirtazon, Remeron, Zispin"
+  },
+  "NameSubstitution": {
+   "raw": "Mirtazapine",
+   "clean": "Mirtazapine"
+  },
+  "NameSystematic": {
+   "raw": "(±)-2-Methyl-1,2,3,4,10,14b-hexahydropyrazino[2,1-a]pyrido[2,3-c][2]benzazepine",
+   "clean": "(±)-2-Methyl-1,2,3,4,10,14b-hexahydropyrazino[2,1-a]pyrido[2,3-c][2]benzazepine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class:: Deliriant]] / [[Psychoactive class::Depressant]]",
+   "clean": "Deliriant / Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Piperazinoazepine]]",
+   "clean": "Piperazinoazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "50%<ref>{{Citation | title=Mirtazapine 15mg Tablets - Summary of Product Characteristics (SmPC) - (emc) | url=https://www.medicines.org.uk/emc/product/531/smpc}}</ref>",
+   "clean": "50%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::3.5]] [[Oral dose units::mg]]",
+   "clean": "3.5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::70]] - [[Oral max light dose::130]] mg",
+   "clean": "70 - 130 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::130]] - [[Oral max common dose::190]] mg",
+   "clean": "130 - 190 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::190]] - [[Oral max strong dose::250]] mg",
+   "clean": "190 - 250 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::250]] mg +",
+   "clean": "250 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::14]] - [[Oral max total time::24]] [[Oral total time units::hours]]",
+   "clean": "14 - 24 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::90]] - [[Oral max peak time::180]] [[Oral peak time units::minutes]]",
+   "clean": "90 - 180 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "up to 24 hours",
+   "clean": "up to 24 hours"
+  }
+ },
+ "plain_text": "Mirtazapine (trade name Remeron, among others) is an antidepressant substance of the piperazinoazepine class. At high doses, it has been reported to act as an atypical psychedelic and sedative. It is classified as a noradrenergic and specific serotonergic antidepressant (NaSSA). \n\nMirtazapine was developed in the Netherlands and introduced in the United States in 1996. Its patent expired in 2004 and generic versions have been widely available since. It is used primarily in the treatment of major depressive disorder and other mood disorders. It has also been prescribed off-label for the treatment of \ngeneralized anxiety disorder, social anxiety disorder, obsessive-compulsive disorder, panic disorder, post-traumatic stress disorder, low appetite, insomnia, nausea/vomiting, \nitching, and headaches and migraines.\n\nHigher doses of mirtazapine (that exceed the recommended prescription dose) are reported to produce an unusual mixture of psychedelic and sedative effects. Subjective effects include sedation and mild-moderate versions of open and closed-eye visuals, conceptual thinking, and euphoria.\nMirtazapines has potential paradoxical effects concerning it's sedative effects. Anecdotal reports and studies suggest it's Sedation decreases as the dose increases. (7.5mg is more sedating than 15mg.) One theory suggests it has minor Stimulant effects that overpowers it's sedative effects.  \n\nThe toxicity and health risks of recreational mirtazapine use is not known. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nMirtazapine is a synthetic tetrahedral molecule of the piperazino-azepine and phenethylamine group of compounds. It is comprised of a fusion of pyridine, benzene, azepine, and piperazine rings. It is a tetracyclic antidepressant, named so because of their four-ring structure. Mirtazapine is the 6-aza analog of mianserin, which is pharmacologically similar in function. \n\nMirtazapine enhances central adrenergic and serotonergic transmission, possibly by acting as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors. This agent is a potent antagonist of 5-hydroxytryptamine type 2 (5-HT2), 5-HT3, and histamine 1 (H1) receptors, and a moderate antagonist of peripheral α1 adrenergic and muscarinic receptors. \n\nPharmacology\n\nMirtazapine inhibits presynaptic serotonin 5-HT2 and α2-adrenergic auto- and hetero-receptors, thereby increasing serotonergic and noradrenergic neurotransmission. The increased amount of 5-HT released interacts with postsynaptic 5-HT1 receptors, which may be relevant to the antidepressant effects of the drug. The affinity of mirtazapine for central α2 adrenoreceptors is 10 times higher than for peripheral receptors, resulting in fewer peripheral effects related to increased blood pressure. Mirtazapine is an antagonist at postsynaptic 5-HT2A, 5-HT2C, and 5-HT3 receptors. The blockade of these receptors may result in a lower incidence of certain adverse effects (e.g., anxiety, insomnia, nausea) than occurs with antidepressants that do not antagonize these receptors. Mirtazapine significantly antagonizes histamine H1 receptors at low doses, and this activity is associated with sedation and appetite stimulation. Higher doses have a greater effect on norepinephrine release relative to antihistamine effects, which may offset the sedative potential and appetite stimulation observed at low doses. Mirtazapine has muscarinic antagonist properties, which may be associated with xerostomia, constipation, and other anticholinergic effects. Orthostatic hypotension is the result of the peripheral alpha-1 adrenergic antagonism of the drug. Mirtazapine does not have clinically significant receptor affinity for DA, 5-HT1A, or 5-HT1B, and has no effects on the central reuptake of either norepinephrine or serotonin.:\n\n*5-HT2A receptor\n*5-HT2B receptor\n*5-HT2C receptor\n*5-HT3 receptor\n*5-HT7 receptor\n*α1-adrenergic receptor\n*α2A-adrenergic receptor\n*α2B-adrenergic receptor\n*α2C-adrenergic receptor\n*H1 receptor\n*mACH receptors\n\nWhile mirtazapine has some affinity for the 5-HT2A receptor, it acts as an antagonist thus it is unlikely that this mechanism is responsible for its psychedelic and deliriant effects.\n\nAdditionally, Mirtazapine has also been observed to indirectly agonize the following GCPR in humans:\n\n*Opioid receptor κ3\n\nMirtazapine has also been found to modulate the κ3 opioid receptor, supporting the claim that mirtazapine causes pain relief and adds to the sedative and hallucinogenic effects of mirtazapine. This even may explain mirtazapine's withdrawal/discontinuation effects as well as its promotion of diuresis and a possible increase in food intake (usually resulting in weight gain).\n\nIt should be noted that although some of these effects are observed in those who take mirtazapine recreationally (or one off dosing) most neurophysiological effects are observed in those with on-going use (15, 30 and 45 mg daily prescribed for depression, etc) due to a maintained level of mirtazapine in the body.\n\nThe oral bioavailability of mirtazapine is about 50%. It is found mostly bound to plasma proteins, about 85%. It is metabolized primarily in the liver by demethylation and hydroxylation via cytochrome P450 enzymes, CYP1A2, CYP2D6, CYP3A4. One of its major metabolites is desmethylmirtazapine. The overall elimination half-life is 20–40 hours. It is conjugated in the kidney for excretion in the urine, where 75% of the drug is excreted,  and about 15% is eliminated in feces.\n\nSubjective effects\n\nAlthough mirtazapine exhibits almost exclusively psychedelic effects, the hallucinations that accompany it do have distinctively deliriant-like effects. For example, they are often delirious in their believability and rarely comprised of condensed visual geometry. Instead they tend to be solid and extremely realistic in appearance.\n\nThe mental processes, thought patterns and general head space experienced during a high dose mirtazapine experience is one that is typically described to be completely devoid of insight. In contrast to many other substances with hallucinogenic properties, it produces no introspection, personal problem solving or creativity enhancing effects; for this reason it is generally reported that mirtazapine holds no therapeutic potential when used as a hallucinogen. \n\nCombination effects\n\n*Cannabis - When mirtazapine is combined with cannabis, the euphoric and visual effects are greatly potentiated.\n*Psychedelics - Due to mirtazapines action as a 5-HT2A antagonist, it can help reduce the intensity or \"abort\" a bad trip.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Mirtazapine\n\nToxicity and harm potential\n\n300px|thumbnail|This document, provided with prescription mirtazapine, contains detailed information regrading its toxicity and harm potential.\n\nMirtazapine is not known to cause brain damage, and has extremely low toxicity relative to dose. Similar to other psychedelic drugs, there are relatively few physical side effects associated with mirtazapine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort.\n\nDependence and abuse potential\n\nMirtazapine is not habit-forming when used as a hallucinogen and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of mirtazapine are built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption).\n\nOverdose\n\nMirtazapine is considered to be relatively safe in the event of an overdose, although it is considered slightly more toxic in overdose than most of the SSRIs (except citalopram). Unlike the TCAs, mirtazapine showed no significant cardiovascular adverse effects at 7 to 22 times the maximum recommended dose. Case reports of overdose with as much as 30 to 50 times the standard dose described the drug as relatively nontoxic, compared to TCAs.\n\nTwelve reported fatalities have been attributed to mirtazapine overdose. The fatal toxicity index (deaths per million prescriptions) for mirtazapine is 3.1 (95% CI: 0.1 to 17.2). This is similar to that observed with SSRIs.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDangerous interactions\n\n*Antidepressants - Different types of antidepressants can cause adverse effects as well as possible serotonin syndrome when mixed.\n\nLegal status\n\nMirtazapine is legally approved for medical purposes worldwide. However, it is illegal to sell and possess in most countries without a prescription.\n\n*Switzerland: Mirtazapine is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.\n*Turkey: Mirtazapine is classed as anti-depressant so it is prescription only drug but the law is often unenforced.\n*United Kingdom: Mirtazapine is a licensed prescription-only medicine (POM) in the United Kingdom. It is not a criminal offence to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.\n*United States: Mirtazapine is not a controlled substance in the United States; however, it is classified as RX only and requires a prescription.\n\nSee also\n\n*Responsible use\n*Hallucinogen\n*Psychedelic\n*Deliriant\n\nExternal links\n\n*Mirtazapine (Wikipedia)\n*Mirtazapine (Erowid Vault)\n*Mirtazapine (Isomer Design)\n*Mirtazapine (Drugs.com)\n\nDiscussion\n\n*Mirtazapine, broken down and described (Disregard Everything I Say)\n\nReferences\n\nCategory:Benzazepine\nCategory:Piperazinoazepine\nCategory:Phenethylamine\nCategory:Deliriant\nCategory:Depressant\nCategory:Antidepressant\nCategory:Antihistamine",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Mirtazapine}}\n'''Mirtazapine''' (trade name '''Remeron''', among others) is an [[psychoactive class::antidepressant]] substance of the [[Chemical class::piperazinoazepine]] class. At high doses, it has been reported to act as an atypical [[psychedelic]] and [[sedative]]. It is classified as a noradrenergic and specific serotonergic antidepressant (NaSSA).<ref>Roland A. Carlstedt (14 December 2009). ''Handbook of Integrative Clinical Psychology, Psychiatry, and Behavioral Medicine: Perspectives, Practices, and Research''. Springer Publishing Company. p. 290. [[ISBN (identifier)|ISBN]] [[Special:BookSources/978-0-8261-1094-7|<bdi>978-0-8261-1094-7</bdi>]]. Retrieved 23 April 2012.</ref> \n\nMirtazapine was developed in the Netherlands and introduced in the United States in 1996.<ref> \"REMERON (mirtazapine) tablet, film coated [Organon Pharmaceuticals USA]\". DailyMed. Organon Pharmaceuticals USA. October 2012. Retrieved 24 October 2013.</ref> Its patent expired in 2004 and generic versions have been widely available since.<ref name=\"Schatzberg\">{{cite book | vauthors=((Schatzberg, A. F.)), ((Cole, J. O.)), ((DeBattista, C.)) | date= 2010 | title=Manual of clinical psychopharmacology | publisher=American Psychiatric Pub | volume=3 | edition=7th ed | isbn=9781585623778}}</ref> It is used primarily in the treatment of major depressive disorder and other mood disorders.<ref>{{cite journal | vauthors=((Gorman, J. M.)) | journal=The Journal of Clinical Psychiatry | title=Mirtazapine: clinical overview | volume=60 Suppl 17 | pages=9–13; discussion 46-48 | date= 1999 | issn=0160-6689}}</ref><ref>{{cite journal | journal=Expert Opinion on Pharmacotherapy | title=Review of the use of mirtazapine in the treatment of depression | url=https://informahealthcare.com/doi/abs/10.1517/14656566.2011.585459}}</ref> It has also been prescribed off-label for the treatment of \ngeneralized anxiety disorder,<ref name=\"Anttila2006\">{{cite journal | vauthors=((Anttila, S. A. K.)), ((Leinonen, E. V. J.)) | journal=CNS Drug Reviews | title=A Review of the Pharmacological and Clinical Profile of Mirtazapine | volume=7 | issue=3 | pages=249–264 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2001.tb00198.x | issn=1080563X | doi=10.1111/j.1527-3458.2001.tb00198.x}}</ref> social anxiety disorder,<ref name=\"Croom2009\">{{cite journal | vauthors=((Croom, K. F.)), ((Perry, C. M.)), ((Plosker, G. L.)) | journal=CNS Drugs | title=Mirtazapine | volume=23 | issue=5 | pages=427–452 | date=1 May 2009 | url=https://doi.org/10.2165/00023210-200923050-00006 | issn=1179-1934 | doi=10.2165/00023210-200923050-00006}}</ref><ref>{{cite journal | vauthors=((Muehlbacher, M.)), ((Nickel, M. K.)), ((Nickel, C.)), ((Kettler, C.)), ((Lahmann, C.)), ((Gil, F. P.)), ((Leiberich, P. K.)), ((Rother, N.)), ((Bachler, E.)), ((Fartacek, R.)), ((Kaplan, P.)), ((Tritt, K.)), ((Mitterlehner, F.)), ((Anvar, J.)), ((Rother, W. K.)), ((Loew, T. H.)), ((Egger, C.)) | journal=Journal of Clinical Psychopharmacology | title=Mirtazapine Treatment of Social Phobia in Women: A Randomized, Double-Blind, Placebo-Controlled Study | volume=25 | issue=6 | pages=580–583 | date= December 2005 | url=http://journals.lww.com/00004714-200512000-00015 | issn=0271-0749 | doi=10.1097/01.jcp.0000186871.04984.8d}}</ref> obsessive-compulsive disorder,<ref name=\"Croom2009\" /><ref>Mirtazapine Treatment of Obsessive-Compulsive Disorder | http://journals.lww.com/psychopharmacology/Citation/2001/10000/Mirtazapine_Treatment_of_Obsessive_Compulsive.16.aspx</ref> panic disorder,<ref name=\"Croom2009\" /><ref name=\"Carpenter1999\">{{cite journal | vauthors=((Carpenter, L.)), ((Leon, Z.)), ((Yasmin, S.)), ((Price, L.)) | journal=Annals of Clinical Psychiatry | title=Clinical Experience with Mirtazapine in the Treatment of Panic Disorder | volume=11 | issue=2 | pages=81–86 | date=1 June 1999 | issn=1040-1237 | doi=10.3109/10401239909147053}}</ref> post-traumatic stress disorder,<ref name=\"Croom2009\" /> low appetite,<ref>{{cite journal | vauthors=((Landowski, J.)) | journal=Psychiatria Polska | title=[Mirtazapine--an antidepressant] | volume=36 | issue=6 Suppl | pages=125–130 | date= December 2002 | issn=0033-2674}}</ref><ref>{{cite journal | vauthors=((Chinuck, R. S.)), ((Fortnum, H.)), ((Baldwin, D. R.)) | journal=Journal of Human Nutrition and Dietetics | title=Appetite stimulants in cystic fibrosis: a systematic review | volume=20 | issue=6 | pages=526–537 | date= December 2007 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-277X.2007.00824.x | issn=0952-3871 | doi=10.1111/j.1365-277X.2007.00824.x}}</ref><ref>{{cite journal | journal=Expert Review of Anticancer Therapy | title=Management of symptons associated with advanced cancer: olanzapine and mirtazapine | url=https://informahealthcare.com/doi/abs/10.1586/14737140.2.4.365}}</ref> insomnia,<ref>{{cite journal | vauthors=((Hartmann, P. M.)) | journal=American Family Physician | title=Mirtazapine: a newer antidepressant | volume=59 | issue=1 | pages=159–161 | date=1 January 1999 | issn=0002-838X}}</ref><ref>{{cite journal | vauthors=((Jindal, R. D.)) | journal=CNS Drugs | title=Insomnia in Patients with Depression | volume=23 | issue=4 | pages=309–329 | date=1 April 2009 | url=https://doi.org/10.2165/00023210-200923040-00004 | issn=1179-1934 | doi=10.2165/00023210-200923040-00004}}</ref> nausea/vomiting,<ref>{{cite journal | vauthors=((Nutt, D. J.)) | journal=Human Psychopharmacology: Clinical and Experimental | title=Tolerability and safety aspects of mirtazapine | volume=17 | issue=S1 | pages=S37–S41 | date= June 2002 | url=https://onlinelibrary.wiley.com/doi/10.1002/hup.388 | issn=0885-6222 | doi=10.1002/hup.388}}</ref><ref name=\"Li2011\">{{cite journal | vauthors=((Li, T.-C.)), ((Shiah, I.-S.)), ((Sun, C.-J.)), ((Tzang, R.-F.)), ((Huang, K.-C.)), ((Lee, W.-K.)) | journal=The Journal of ECT | title=Mirtazapine Relieves Post-Electroconvulsive Therapy Headaches and Nausea: A Case Series and Review of the Literature | volume=27 | issue=2 | pages=165–167 | date= June 2011 | url=https://journals.lww.com/00124509-201106000-00016 | issn=1095-0680 | doi=10.1097/YCT.0b013e3181e63346}}</ref><ref>{{cite journal | vauthors=((Kast, R. E.)), ((Foley, K. F.)) | journal=European Journal of Cancer Care | title=Cancer chemotherapy and cachexia: mirtazapine and olanzapine are 5-HT3 antagonists with good antinausea effects | volume=16 | issue=4 | pages=351–354 | date= July 2007 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2354.2006.00760.x | issn=0961-5423 | doi=10.1111/j.1365-2354.2006.00760.x}}</ref> \nitching,<ref>{{cite journal | vauthors=((Twycross, R.)) | journal=QJM | title=Itch: scratching more than the surface | volume=96 | issue=1 | pages=7–26 | date=1 January 2003 | url=https://academic.oup.com/qjmed/article-lookup/doi/10.1093/qjmed/hcg002 | issn=14602393 | doi=10.1093/qjmed/hcg002}}</ref><ref>{{cite journal | vauthors=((Greaves, M. W.)) | journal=Dermatologic Therapy | title=Itch in systemic disease: therapeutic options: Itch in systemic disease | volume=18 | issue=4 | pages=323–327 | date=17 November 2005 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8019.2005.00036.x | issn=13960296 | doi=10.1111/j.1529-8019.2005.00036.x}}</ref> and headaches and migraines.<ref name=\"Li2011\" /><ref>{{cite journal | vauthors=((Colombo, B.)), ((Annovazzi, P. O. L.)), ((Comi, G.)) | journal=Neurological Sciences | title=Therapy of primary headaches: the role of antidepressants | volume=25 | issue=3 | pages=s171–s175 | date=1 October 2004 | url=https://doi.org/10.1007/s10072-004-0280-x | issn=1590-3478 | doi=10.1007/s10072-004-0280-x}}</ref><ref>{{cite journal | vauthors=((Tajti, J.)), ((Almási, J.)) | journal=Neuropsychopharmacologia Hungarica: A Magyar Pszichofarmakologiai Egyesulet Lapja = Official Journal of the Hungarian Association of Psychopharmacology | title=[Effects of mirtazapine in patients with chronic tension-type headache. Literature review] | volume=8 | issue=2 | pages=67–72 | date= June 2006 | issn=1419-8711}}</ref>\n\nHigher doses of mirtazapine (that exceed the recommended prescription dose) are reported to produce an unusual mixture of [[psychedelic]] and [[sedative]] effects. [[Subjective effects]] include [[sedation]] and mild-moderate versions of [[geometry|open and closed-eye visuals]], [[conceptual thinking]], and [[euphoria]].\nMirtazapines has potential paradoxical effects concerning it's sedative effects. Anecdotal reports and studies suggest it's [[Sedation]] decreases as the dose increases. (7.5mg is more [[sedating]] than 15mg.) One theory suggests it has minor [[Stimulant]] effects that overpowers it's sedative effects. {{citation needed}} \n\nThe toxicity and health risks of recreational mirtazapine use is not known. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nMirtazapine is a synthetic tetrahedral molecule of the piperazino-azepine and [[phenethylamine]] group of compounds. It is comprised of a fusion of pyridine, benzene, azepine, and piperazine rings. It is a tetracyclic antidepressant, named so because of their four-ring structure. Mirtazapine is the 6-aza analog of mianserin, which is pharmacologically similar in function. \n\nMirtazapine enhances [[central]] adrenergic and serotonergic transmission, possibly by acting as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors. This agent is a potent antagonist of [[serotonin|5-hydroxytryptamine]] type 2 (5-HT<sub>2</sub>), 5-HT<sub>3</sub>, and [[histamine]] 1 (H1) receptors, and a moderate antagonist of [[peripheral]] α<sub>1</sub> [[Adrenaline|adrenergic]] and [[mAChR|muscarinic receptors]].<ref>{{Citation | title=NCI Thesaurus -  Mirtazapine (Code C29265) | url=https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=NCI_Thesaurus&code=C29265}}</ref> \n\n==Pharmacology==\nMirtazapine inhibits presynaptic [[serotonin]] [[serotonin|5-HT<sub>2</sub>]] and α<sub>2</sub>-adrenergic auto- and hetero-receptors, thereby increasing serotonergic and noradrenergic neurotransmission. The increased amount of 5-HT released interacts with postsynaptic 5-HT<sub>1</sub> receptors, which may be relevant to the antidepressant effects of the drug. The affinity of mirtazapine for central α<sub>2</sub> adrenoreceptors is 10 times higher than for peripheral receptors, resulting in fewer peripheral effects related to increased blood pressure. Mirtazapine is an antagonist at postsynaptic 5-HT<sub>2A</sub>, 5-HT<sub>2C</sub>, and 5-HT<sub>3</sub> receptors. The blockade of these receptors may result in a lower incidence of certain adverse effects (e.g., anxiety, insomnia, nausea) than occurs with antidepressants that do not antagonize these receptors. Mirtazapine significantly antagonizes histamine H1 receptors at low doses, and this activity is associated with sedation and appetite stimulation. Higher doses have a greater effect on norepinephrine release relative to antihistamine effects, which may offset the sedative potential and appetite stimulation observed at low doses. Mirtazapine has muscarinic antagonist properties, which may be associated with xerostomia, constipation, and other anticholinergic effects. Orthostatic hypotension is the result of the peripheral alpha-1 adrenergic antagonism of the drug. Mirtazapine does not have clinically significant receptor affinity for [[Dopamine|DA]], 5-HT<sub>1A</sub>, or 5-HT<sub>1B</sub>, and has no effects on the central reuptake of either norepinephrine or serotonin.:<ref name=\"Fernandez2005\">{{cite journal | vauthors=((Fernández, J.)), ((Alonso, J. M.)), ((Andrés, J. I.)), ((Cid, J. M.)), ((Díaz, A.)), ((Iturrino, L.)), ((Gil, P.)), ((Megens, A.)), ((Sipido, V. K.)), ((Trabanco, A. A.)) | journal=Journal of Medicinal Chemistry | title=Discovery of New Tetracyclic Tetrahydrofuran Derivatives as Potential Broad-Spectrum Psychotropic Agents | volume=48 | issue=6 | pages=1709–1712 | date=1 March 2005 | url=https://pubs.acs.org/doi/10.1021/jm049632c | issn=0022-2623 | doi=10.1021/jm049632c}}</ref><ref>{{cite journal | vauthors=((Boer, Th. de)), ((Maura, G.)), ((Raiteri, M.)), ((Vos, C. J. de)), ((Wieringa, J.)), ((Pinder, R. M.)) | journal=Neuropharmacology | title=Neurochemical and autonomic pharmacological profiles of the 6-aza-analogue of mianserin, org 3770 and its enantiomers | volume=27 | issue=4 | pages=399–408 | date=1 April 1988 | url=https://www.sciencedirect.com/science/article/pii/0028390888901499 | issn=0028-3908 | doi=10.1016/0028-3908(88)90149-9}}</ref>\n\n*[[serotonin|5-HT<sub>2A</sub> receptor]]<ref name=\"Fernandez2005\" />\n*5-HT<sub>2B</sub> receptor<ref>{{cite journal | vauthors=((Boer, T. de)) | journal=The Journal of Clinical Psychiatry | title=The pharmacologic profile of mirtazapine | volume=57 Suppl 4 | pages=19–25 | date= 1996 | issn=0160-6689}}</ref>\n*5-HT<sub>2C</sub> receptor<ref name=\"Fernandez2005\" />\n*5-HT<sub>3</sub> receptor\n*5-HT<sub>7</sub> receptor\n*[[adrenaline|α<sub>1</sub>-adrenergic receptor]]<ref name=\"Goodman2011\">{{cite book | veditors=((Goodman, L. S.)), ((Brunton, L. L.)), ((Chabner, B.)), ((Knollmann, B. C.)) | date= 2011 | title=Goodman & Gilman’s pharmacological basis of therapeutics | publisher=McGraw-Hill | edition=12th ed | isbn=9780071624428}}</ref>\n*α<sub>2A</sub>-adrenergic receptor<ref name=\"TGAeBS\">{{Citation | title=TGA eBS - Product and Consumer Medicine Information Licence | url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05345-3}}</ref>\n*α<sub>2B</sub>-adrenergic receptor<ref>{{cite journal | vauthors=((Kennis, L. E.)), ((Bischoff, F. P.)), ((Mertens, C. J.)), ((Love, C. J.)), ((Van den Keybus, F. A.)), ((Pieters, S.)), ((Braeken, M.)), ((Megens, A. A.)), ((Leysen, J. E.)) | journal=Bioorganic & Medicinal Chemistry Letters | title=New 2-substituted 1,2,3,4-tetrahydrobenzofuro[3,2-c]pyridine having highly active and potent central alpha 2-antagonistic activity as potential antidepressants | volume=10 | issue=1 | pages=71–74 | date=3 January 2000 | issn=0960-894X | doi=10.1016/s0960-894x(99)00591-0}}</ref>\n*α<sub>2C</sub>-adrenergic receptor<ref name=\"TGAeBS\" />\n*H<sub>1</sub> receptor<ref>{{cite journal | vauthors=((Wikström, H. V.)), ((Mensonides-Harsema, M. M.)), ((Cremers, T. I. F. H.)), ((Moltzen, E. K.)), ((Arnt, J.)) | journal=Journal of Medicinal Chemistry | title=Synthesis and Pharmacological Testing of 1,2,3,4,10,14b-Hexahydro-6-methoxy-2-methyldibenzo[ c , f ]pyrazino[1,2- a ]azepin and Its Enantiomers in Comparison with the Two Antidepressants Mianserin and Mirtazapine | volume=45 | issue=15 | pages=3280–3285 | date=1 July 2002 | url=https://pubs.acs.org/doi/10.1021/jm010566d | issn=0022-2623 | doi=10.1021/jm010566d}}</ref>\n*[[acetylcholine|mACH receptors]]<ref name=\"Goodman2011\" />\n\nWhile mirtazapine has some affinity for the 5-HT<sub>2A</sub> receptor, it acts as an [[antagonist]]<ref name=\"Anttila2006\" /> thus it is unlikely that this mechanism is responsible for its [[psychedelic]] and [[deliriant]] effects.\n\nAdditionally, Mirtazapine has also been observed to indirectly agonize the following GCPR in humans:\n\n*[[Opioid]] receptor κ<sub>3</sub><ref>{{cite journal | vauthors=((Schreiber, S.)), ((Rigai, T.)), ((Katz, Y.)), ((Pick, C. G.)) | journal=Brain Research Bulletin | title=The antinociceptive effect of mirtazapine in mice is mediated through serotonergic, noradrenergic and opioid mechanisms | volume=58 | issue=6 | pages=601–605 | date= September 2002 | url=https://linkinghub.elsevier.com/retrieve/pii/S0361923002008250 | issn=03619230 | doi=10.1016/S0361-9230(02)00825-0}}</ref>\n\nMirtazapine has also been found to modulate the κ<sub>3</sub> opioid receptor, supporting the claim that mirtazapine causes pain relief<ref>{{cite journal | vauthors=((Dapoigny, M.)), ((Abitbol, J. L.)), ((Fraitag, B.)) | journal=Digestive Diseases and Sciences | title=Efficacy of peripheral kappa agonist fedotozine versus placebo in treatment of irritable bowel syndrome. A multicenter dose-response study | volume=40 | issue=10 | pages=2244–2249 | date= October 1995 | issn=0163-2116 | doi=10.1007/BF02209014}}</ref> and adds to the [[sedative]] and [[hallucinogenic]] effects of mirtazapine<ref>{{cite journal | vauthors=((Pande, A. C.)), ((Pyke, R. E.)), ((Greiner, M.)), ((Wideman, G. L.)), ((Benjamin, R.)), ((Pierce, M. W.)) | journal=Clinical Neuropharmacology | title=Analgesic efficacy of enadoline versus placebo or morphine in postsurgical pain | volume=19 | issue=5 | pages=451–456 | date= October 1996 | issn=0362-5664 | doi=10.1097/00002826-199619050-00009}}</ref><ref>{{cite journal | vauthors=((Rimoy, G. H.)), ((Wright, D. M.)), ((Bhaskar, N. K.)), ((Rubin, P. C.)) | journal=European Journal of Clinical Pharmacology | title=The cardiovascular and central nervous system effects in the human of U-62066E. A selective opioid receptor agonist | volume=46 | issue=3 | pages=203–207 | date= 1994 | issn=0031-6970 | doi=10.1007/BF00192549}}</ref>. This even may explain mirtazapine's withdrawal/discontinuation effects as well as its promotion of diuresis and a possible increase in food intake (usually resulting in weight gain).\n\nIt should be noted that although some of these effects are observed in those who take mirtazapine recreationally (or one off dosing) most neurophysiological effects are observed in those with on-going use (15, 30 and 45 mg daily prescribed for depression, etc) due to a maintained level of mirtazapine in the body.\n\nThe oral bioavailability of mirtazapine is about 50%. It is found mostly bound to plasma proteins, about 85%. It is metabolized primarily in the liver by demethylation and hydroxylation via cytochrome P450 enzymes, CYP1A2, CYP2D6, CYP3A4.<ref name=\"Anttila2006\" /> One of its major metabolites is desmethylmirtazapine. The overall elimination half-life is 20–40 hours. It is conjugated in the kidney for excretion in the urine, where 75% of the drug is excreted,<ref>{{cite journal | vauthors=((Al-Majed, A.)), ((Bakheit, A. H.)), ((Alharbi, R. M.)), ((Abdel Aziz, H. A.)) | journal=Profiles of Drug Substances, Excipients, and Related Methodology | title=Mirtazapine | volume=43 | pages=209–254 | date= 2018 | issn=1871-5125 | doi=10.1016/bs.podrm.2018.01.002}}</ref>  and about 15% is eliminated in feces.<ref>{{cite book | veditors=((Schatzberg, A. F.)), ((Nemeroff, C. B.)) | date= 2009 | title=The American Psychiatric Publishing textbook of psychopharmacology | publisher=American Psychiatric Pub | edition=4th ed | isbn=9781585623099}}</ref>\n\n==Subjective effects==\nAlthough mirtazapine exhibits almost exclusively psychedelic effects, the hallucinations that accompany it do have distinctively deliriant-like effects. For example, they are often delirious in their believability and rarely comprised of condensed visual [[geometry]]. Instead they tend to be solid and extremely realistic in appearance.\n\nThe mental processes, thought patterns and general head space experienced during a high dose mirtazapine experience is one that is typically described to be completely devoid of insight. In contrast to many other substances with hallucinogenic properties, it produces no [[introspection]], [[personal bias suppression|personal problem solving]] or [[creativity enhancement|creativity enhancing]] effects; for this reason it is generally reported that mirtazapine holds no therapeutic potential when used as a [[hallucinogen]]. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - In terms of energy level alterations, mirtazapine is extremely sedating and often results in an overwhelmingly lethargic state. This causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness. It is a state which often leaves people feeling extremely lethargic and tired the following day.\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of mirtazapine can be described as a pleasurable, warm, soft and all-encompassing tingling sensation. This maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached and is not capable of becoming anything but mildly euphoric even at high dosages. This is accompanied by strange but mild throbbing or aching sensations.\n*'''[[Effect::Tactile hallucination]]''' - Unique tactile hallucinations are commonly felt within this substance. These can be described as bizarrely structured vibrations and pulsations that spontaneously manifest themselves across the skin at various locations and propagate outwards for a short distance from its center.\n*'''[[Effect::Changes in felt gravity]]'''\n*'''[[Effect::Motor control loss]]''' - If physical activities such as walking are forcibly engaged in, a distinct but not completely incapacitating loss of motor control is noticed as well as the consistent feeling that you are walking on top of a trampoline and not a normal solid floor. \n*'''[[Effect::Appetite enhancement]]''' - The above components are also accompanied by an intense appetite enhancement that is identical in strength to “the munchies” experienced with cannabis.<ref>https://www.drugs.com/sfx/mirtazapine-side-effects.html</ref>\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Bronchodilation]]''' - This can cause swallowing to be extremely difficult and uncomfortable, as with some other [[deliriants|anticholinergics]] such as [[diphenhydramine]]. As with [[diphenhydramine]], it is most prominent during the onset phase of the experience and often fades away as the peak sets in.\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Restless legs]]''' - This effect is considered slightly less apparent than it is with [[diphenhydramine]].\n*'''[[Effect::Nausea suppression]]'''\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n*'''[[Effect::Auditory enhancement]]'''\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' or '''[[Effect::Cognitive dysphoria]]''' - Some reports of recreational mirtazapine use describe mild euphoria, while others either produce a neutral state of mind or dysphoria due to the pronounced side effects.\n*'''[[Effect::Dream potentiation]]''' - Dreams becomes more vivid than usual.\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Emotion suppression]]''' - Mirtazapine has a dulling effect on emotions and it is typically difficult to express them.\n*'''[[Effect::Anxiety suppression]]''' - This effect is much stronger and more rapidly acting than that of SSRIs.\n}}\n{{effects/visual|\n====Distortions====\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Tracers]]''' - This effect is very common and is more capable of manifesting itself at level 4 than most (if not all) traditional psychedelics.\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Flowing|flowing]], [[Visual drifting#Breathing|breathing]] and [[Visual drifting#morphing|morphing]])''\n*'''[[Effect::Color tinting]]'''\n*'''[[Effect::Color shifting]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Visual haze]]'''\n\n====[[Effect::Geometry]]====\nIn terms of complexity, the visual geometry found within high dose mirtazapine trips can be said to be completely on par with that of [[LSD]] or [[psilocin]]. It can be comprehensively described as intricate in complexity, abstract in style, structured in organization, equally organic and synthetic in style, dimly lit in lighting, monotone is scheme, glossy in shading, equal in sharp and soft edges, large in size, fast in speed, smooth in motion, equal in rounded and angular corners, non-immersive in depth and consistent in intensity. \n\nAt higher dosages, [[Level 8A]] and [[Level 8B]] are not present simply because the sedating effects are too overwhelming to allow people to remain conscious at such a high level. Many users report an almost menacing feeling, following a sinister and ominous style with a colour scheme that generally consists of greys and blues.\n\n====Hallucinatory states====\n*'''[[Effect::External hallucination]]''' (''[[Effect::Autonomous entities]]'', ''[[Effect::Settings, sceneries, and landscapes]]'', ''[[Perspective alterations]]'' and ''[[Scenarios and plots|Scenarios and plots]]'') - This effect is very similar to the same experience found within [[deliriant]]s but does not manifest itself consistently and usually happens only at high dosages. It can be comprehensively described through its [[Visual_effects:_External_hallucinations#Variations|variations]] as delirious in believability, autonomous in controllability and solid in style. \n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - The internal hallucinations which mirtazapine induces are generally only present as spontaneous breakthroughs at higher dosages as one is falling asleep. This effect's [[Internal_hallucinations#Variations|variations]] are delirious in believability, interactive in style, new experiences in content, autonomous in controllability and solid in appearance. The most common way in which they manifest themselves are through [[hypnagogic]] scenarios which the user may experience as they are drifting off to sleep. These are short and fleeting but frequent and completely believable and convincing as they happen. In terms of the theme they often take the form of bizarre and extremely nonsensical plots. These can also be observed in [[hypnopompic]] states (when one is waking from sleep).\n*'''[[Effect::Transformations]]''' \n*'''[[Effect::Object activation]]'''\n}}\n}}\n\n===Combination effects===\n\n*'''[[Cannabis]]''' - When mirtazapine is combined with cannabis, the euphoric and visual effects are greatly potentiated.\n*'''[[Psychedelics]]''' - Due to mirtazapines action as a 5-HT<sub>2A</sub> antagonist, it can help reduce the intensity or \"abort\" a [[bad trip]].\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Mirtazapine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Mirtazapine.shtml Erowid Experience Vaults: Mirtazapine]\n\n==Toxicity and harm potential==\n[[File:Mirtazapine FDA prescription guide.jpg|300px|thumbnail|This document, provided with prescription mirtazapine, contains detailed information regrading its toxicity and harm potential.]]\n{{Further|Responsible use#Hallucinogens}}\nMirtazapine is not known to cause brain damage, and has extremely low toxicity relative to dose. Similar to other [[psychedelic]] drugs, there are relatively few physical side effects associated with mirtazapine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort.\n\n===Dependence and abuse potential===\nMirtazapine is [[Addiction potential::not habit-forming]] when used as a hallucinogen and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of mirtazapine are built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::7 days]] to be back at baseline (in the absence of further consumption).\n\n===Overdose===\nMirtazapine is considered to be relatively safe in the event of an [[overdose]],<ref>{{cite book | veditors=((Taylor, D.)), ((Paton, C.)), ((Kapur, S.)) | date= 2012 | title=The Maudsley prescribing guidelines in psychiatry | publisher=Wiley | edition=11. ed | isbn=9780470979488}}</ref> although it is considered slightly more toxic in overdose than most of the SSRIs (except [[citalopram]]).<ref>{{cite journal | vauthors = White N, Litovitz T, Clancy C | title = Suicidal antidepressant overdoses: a comparative analysis by antidepressant type | journal = Journal of Medical Toxicology | volume = 4 | issue = 4 | pages = 238–50 | date = December 2008 | pmid = 19031375 | pmc = 3550116 | doi = 10.1007/bf03161207 | url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550116/pdf/13181_2009_Article_BF03161207.pdf | format = PDF }}</ref> Unlike the TCAs, mirtazapine showed no significant cardiovascular adverse effects at 7 to 22 times the maximum recommended dose.<ref>{{cite journal | vauthors=((Fawcett, J.)), ((Barkin, R. L.)) | journal=Journal of Affective Disorders | title=Review of the results from clinical studies on the efficacy, safety and tolerability of mirtazapine for the treatment of patients with major depression | volume=51 | issue=3 | pages=267–285 | date=1 December 1998 | url=https://www.sciencedirect.com/science/article/pii/S0165032798002249 | issn=0165-0327 | doi=10.1016/S0165-0327(98)00224-9}}</ref> Case reports of overdose with as much as 30 to 50 times the standard dose described the drug as relatively nontoxic, compared to TCAs.<ref name=\"pmid9807651\">{{cite journal | vauthors = Holzbach R, Jahn H, Pajonk FG, Mähne C | title = Suicide attempts with mirtazapine overdose without complications | journal = Biological Psychiatry | volume = 44 | issue = 9 | pages = 925–6 | date = November 1998 | pmid = 9807651 | doi = 10.1016/S0006-3223(98)00081-X }}{{Unreliable medical source|date=October 2011}}</ref><ref name=\"pmid9861579\">{{cite journal | vauthors = Retz W, Maier S, Maris F, Rösler M | title = Non-fatal mirtazapine overdose | journal = International Clinical Psychopharmacology | volume = 13 | issue = 6 | pages = 277–9 | date = November 1998 | pmid = 9861579 | doi = 10.1097/00004850-199811000-00007 }}{{Unreliable medical source|date=October 2011}}</ref>\n\nTwelve reported fatalities have been attributed to mirtazapine overdose.<ref>{{cite journal | vauthors = Nikolaou P, Dona A, Papoutsis I, Spiliopoulou C, Maravelias C | title = Death Due to Mirtazapine Overdose}} in {{cite journal |doi=10.1080/15563650902952273 |title=Abstracts of the XXIX International Congress of the European Association of Poison Centres and Clinical Toxicologists, May 12–15, 2009, Stockholm, Sweden | year = 2009 | journal = Clinical Toxicology | volume = 47 | issue = 5 | pages = 436–510 }}</ref><ref>{{cite book | author = Baselt, RC | title = Disposition of Toxic Drugs and Chemicals in Man | edition = 8th | publisher = Biomedical Publications | location = Foster City, CA | year = 2008 | pages = 1045–7 | isbn = 978-0-9626523-7-0 }}</ref> The fatal toxicity index (deaths per million prescriptions) for mirtazapine is 3.1 (95% CI: 0.1 to 17.2). This is similar to that observed with SSRIs.<ref name=\"bmj325\">{{cite journal | vauthors = Buckley NA, McManus PR | title = Fatal toxicity of serotoninergic and other antidepressant drugs: analysis of United Kingdom mortality data | journal = BMJ | volume = 325 | issue = 7376 | pages = 1332–3 | date = December 2002 | pmid = 12468481 | pmc = 137809 | doi = 10.1136/bmj.325.7376.1332 }}{{Unreliable medical source|date=October 2011}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dangerous interactions===\n\n*'''[[UncertainInteraction::Antidepressants]]''' - Different types of antidepressants can cause adverse effects as well as possible [[serotonin syndrome]] when mixed.\n\n==Legal status==\n{{legalStub}}\nMirtazapine is legally approved for medical purposes worldwide. However, it is illegal to sell and possess in most countries without a prescription.\n\n*'''Switzerland''': Mirtazapine is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.{{citation needed}}\n*'''Turkey''': Mirtazapine is classed as anti-depressant so it is prescription only drug{{citation needed}} but the law is often unenforced.\n*'''United Kingdom:''' Mirtazapine is a licensed prescription-only medicine (POM) in the United Kingdom.<ref>{{cite web |url = http://www.mhra.gov.uk/home/groups/par/documents/websiteresources/con2025201.pdf|title = MHRA license for Modafinil in UK|date = November 10, 2006|author = MHRA|publisher = MHRA}}</ref> It is not a criminal offence to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.<ref>{{cite web |url = http://www.legislation.gov.uk/ukpga/1968/67/section/13|title = Medicines Act 1968 Section 13}}</ref>\n*'''United States:''' Mirtazapine is not a controlled substance in the United States; however, it is classified as RX only and requires a prescription.\n\n==See also==\n\n*[[Responsible use]]\n*[[Hallucinogen]]\n*[[Psychedelic]]\n*[[Deliriant]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Mirtazapine Mirtazapine (Wikipedia)]\n*[http://www.erowid.org/pharms/mirtazapine/mirtazapine.shtml Mirtazapine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9430 Mirtazapine (Isomer Design)]\n*[http://www.drugs.com/mirtazapine.html Mirtazapine (Drugs.com)]\n\n===Discussion===\n\n*[http://disregardeverythingisay.com/post/43240860676/mirtazapine-broken-down-and-described Mirtazapine, broken down and described (Disregard Everything I Say)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Benzazepine]]\n[[Category:Piperazinoazepine]]\n[[Category:Phenethylamine]]\n[[Category:Deliriant]]\n[[Category:Depressant]]\n[[Category:Antidepressant]]\n[[Category:Antihistamine]]\n\n{{#set:Featured=true}}"
+}

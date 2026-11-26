@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10840",
+ "type": "substance-summary",
+ "title": "5-MeO-MiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-MeO-MiPT/Summary",
+  "pageid": 10840,
+  "last_edited": "2015-11-11T08:36:51Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-MeO-MiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-MeO-MiPT}}"
+}

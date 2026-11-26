@@ -1,0 +1,323 @@
+{
+ "id": "psychonautwiki:14882",
+ "type": "substance",
+ "title": "25C-NBOH",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25C-NBOH",
+  "pageid": 14882,
+  "last_edited": "2022-06-30T07:18:16Z"
+ },
+ "categories": [
+  "25x-NBOH",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/25C-NBOH",
+ "substance_box": {
+  "names": {
+   "common": "25C-NBOH",
+   "substitutive": "2C-C-NBOH",
+   "systematic": "[[systematic name::2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "100 µg",
+    "light": "250 - 500 µg",
+    "common": "500 - 750 µg",
+    "strong": "750 - 1000 µg",
+    "heavy": "25C-NBOH may be fatal at heavy doses.",
+    "duration": "5 - 7 hours",
+    "onset": "15 - 45 minutes",
+    "comeup": "30 - 90 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "3 - 6 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "25C-NBOH"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Phenethylamine"
+   ],
+   "Sublingual threshold dose": [
+    "100"
+   ],
+   "Sublingual dose units": [
+    "µg"
+   ],
+   "Sublingual min light dose": [
+    "250"
+   ],
+   "Sublingual max light dose": [
+    "500"
+   ],
+   "Sublingual min common dose": [
+    "500"
+   ],
+   "Sublingual max common dose": [
+    "750"
+   ],
+   "Sublingual min strong dose": [
+    "750"
+   ],
+   "Sublingual max strong dose": [
+    "1000"
+   ],
+   "Sublingual min total time": [
+    "5"
+   ],
+   "Sublingual max total time": [
+    "7"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "15"
+   ],
+   "Sublingual max onset time": [
+    "45"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "30"
+   ],
+   "Sublingual max comeup time": [
+    "90"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min afterglow time": [
+    "3"
+   ],
+   "Sublingual max afterglow time": [
+    "6"
+   ],
+   "Sublingual afterglow time units": [
+    "days"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 25C-NBOH",
+   "clean": "Molecular structure of 25C-NBOH"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:25C-NBOH.svg",
+   "clean": "File:25C-NBOH.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::25C-NBOH]]",
+   "clean": "25C-NBOH"
+  },
+  "NameSubstitution": {
+   "raw": "2C-C-NBOH",
+   "clean": "2C-C-NBOH"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]",
+   "clean": "[[systematic name::2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "[[Sublingual threshold dose::100]] [[Sublingual dose units::µg]]",
+   "clean": "100 µg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::250]] - [[Sublingual max light dose::500]] µg",
+   "clean": "250 - 500 µg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::500]] - [[Sublingual max common dose::750]] µg",
+   "clean": "500 - 750 µg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::750]] - [[Sublingual max strong dose::1000]] µg",
+   "clean": "750 - 1000 µg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "<span style=\"color:red\">'''25C-NBOH may be fatal at heavy doses.</span>",
+   "clean": "25C-NBOH may be fatal at heavy doses."
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::5]] - [[Sublingual max total time::7]] [[Sublingual total time units::hours]]",
+   "clean": "5 - 7 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::15]] - [[Sublingual max onset time::45]] [[Sublingual onset time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::30]] - [[Sublingual max comeup time::90]] [[Sublingual comeup time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::3]] - [[Sublingual max afterglow time::6]] [[Sublingual afterglow time units::days]]",
+   "clean": "3 - 6 days"
+  }
+ },
+ "plain_text": "25C-NBOH (also known as 2C-C-NBOH and NBOH-2C-C) is novel synthetic psychedelic substance of the phenethylamine chemical class that produces an array of visually-dominant and stimulating psychedelic effects when administered. It is a closely related analog of 25B-NBOMe and is reported to share most of its properties with the exception of a moderately reduced potency and a shorter duration.\n\nThe name 25C-NBOH, which is short-hand for 2C-C-NBOH, is a derivative of the phenethylamine psychedelic 2C-C. It was first synthesized and documented in 2011 by Martin Hansen at the University of Copenhagen.\n\nIt is worth noting that compounds of the NBOH family are not orally active and should be administered sublingually by placing and holding it into one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\nExtremely little is known about the pharmacological properties, metabolism, and toxicity of 25C-NBOH in humans. It has no history of human use before being sold online as a designer drug in 2011. It is closely related to members of the 25x-NBOMe series, which have been associated with many hospitalizations and deaths. Anecdotal reports suggest that this substance may be difficult to use safely due to its highly sensitive dose-response and unpredictable effects.\n\nChemistry\n\n25C-NBOH or 2C-C-NBOH, is a serotonergic N-benzyl derivative of the substituted phenethylamine psychedelic known as 2C-C. 25C-NBOH is a substituted phenethylamine with methoxy groups CH3O- attached to carbons R2 and R5 as well as an bromine atom attached to carbon R4. It differs from 2C-C structurally through a substitution on the amine (NH2) with a 2-hydroxybenzyl (BOH) group. 25C-NBOH shares this 2-hydroxybenzyl substitution with other chemicals of the NBOH family. This NBOH addition is comprised of a hydroxy ether OH- bound to a benzene ring at R2.\n\nPharmacology\n\n25C-NBOH has efficacy at the 5-HT2A receptor where it acts as a potent agonist. \n\nThis compound is pharmacologically unique when compared to other psychedelics due to the unusually high selectivity it displays for various serotonin receptors. It is notable as one of the most selective agonist ligands for the 5-HT2A receptor with a pEC50 value of 9.43\n\nIt acts as a potent serotonin receptor agonist with similar affinity to the better-known compound 25C-NBOMe at 5-HT2A and 5-HT2C receptors with pKis values of 9.4 and 7.8, respectively.\n\nHowever, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 25C-NBOH\n\nToxicity and harm potential\n\n25C-NBOH is a relatively new substance, and little is known about its toxicity or interaction with other substances. It is assumed to pose similar acute health risks as 25C-NBOMe and other members of 25x-NBOMe series. The LD50 has not yet been determined although it is likely to be potentially fatal at heavy dosages. \n\n25C-NBOH's extreme potency means it should not be insufflated (snorted) as this method of administration has been associated with many deaths and hospitalizations with closely related members of the 25x-NBOMe series.\n\nTolerance and addiction potential\n\n25C-NBOH is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 25C-NBOH is built almost immediately after ingestion. After that, it takes about 1 week for the tolerance to be reduced to half and 2 weeks to be back at baseline (in the absence of further consumption). 25C-NBOH presents cross-tolerance with all psychedelics, meaning that after the consumption of 25C-NBOH all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*Brazil: As of December 10, 2018, 25C-NBOH has been added to Portaria SVS/MS nº 344. Possession, distribution and use of this substance is now considered illegal.\n*Germany: 25C-NBOH is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Sweden: The Riksdag added 25C-NBOH to Narcotic Drugs Punishments Act under swedish schedule I (\"substances, plant materials and fungi which normally do not have medical use\") as of August 18, 2015, published by Medical Products Agency (MPA) in regulation HSLF-FS 2015:12\n*Switzerland: 25C-NBOH is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: 25C-NBOH is a Class A drug in the United Kingdom as a result of the N-benzylphenethylamine catch-all clause.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Psychedelics\n*Phenethylamines\n*25x-NBOH\n*25C-NBOMe\n\nExternal links\n\n*25C-NBOH (Wikipedia)\n*25C-NBOH (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:25x-NBOH\nCategory:Research chemical",
+ "wikitext": "\n{{Headerpanel|{{Warning/25C-NBOH}}}}\n{{SummarySheet}}\n{{SubstanceBox/25C-NBOH}}\n\n'''25C-NBOH''' (also known as '''2C-C-NBOH''' and '''NBOH-2C-C''') is novel synthetic [[Psychoactive class::psychedelic]] substance of the [[chemical class::phenethylamine]] chemical class that produces an array of visually-dominant and [[stimulating]] [[psychedelic]] effects when [[Routes of administration|administered]]. It is a closely related analog of [[25B-NBOMe]] and is reported to share most of its properties with the exception of a moderately reduced potency and a shorter duration.\n\nThe name 25C-NBOH, which is short-hand for 2C-C-NBOH, is a derivative of the phenethylamine psychedelic [[2C-C]]. It was first synthesized and documented in 2011 by Martin Hansen at the University of Copenhagen.<ref>{{cite book | vauthors=((Hansen, M.)) | date= 2010 | title=Design and synthesis of selective serotonin receptor agonists for positron emission tomography imaging of the brain: PhD thesis | publisher=Faculty of Pharmaceutical Sciences, University of Copenhagen | isbn=9788792719003}}</ref>\n\nIt is worth noting that compounds of the NBOH family are not [[orally]] active and should be administered [[sublingual|sublingually]] by placing and holding it into one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\nExtremely little is known about the pharmacological properties, metabolism, and toxicity of 25C-NBOH in humans. It has no history of human use before being sold online as a [[designer drug]] in 2011.{{citation needed}} It is closely related to members of the [[25x-NBOMe]] series, which have been associated with many hospitalizations and deaths.<ref name=\"25Ifatal\">{{Citation | title=Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml}}</ref><ref name=\"25Cfatal\">{{Citation | title=Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml}}</ref><ref name=\"25Xfatal\">{{Citation | title=Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/nbome/nbome_death.shtml}}</ref> Anecdotal reports suggest that this substance may be difficult to use safely due to its highly sensitive dose-response and unpredictable effects.\n\n==Chemistry==\n25C-NBOH or 2C-C-NBOH, is a serotonergic N-benzyl derivative of the substituted phenethylamine psychedelic known as [[2C-C]]. 25C-NBOH is a substituted phenethylamine with methoxy groups CH<sub>3</sub>O- attached to carbons R<sub>2</sub> and R<sub>5</sub> as well as an bromine atom attached to carbon R<sub>4</sub>. It differs from [[2C-C]] structurally through a substitution on the amine (NH<sub>2</sub>) with a 2-hydroxybenzyl (BOH) group. 25C-NBOH shares this 2-hydroxybenzyl substitution with other chemicals of the NBOH family. This NBOH addition is comprised of a hydroxy ether OH- bound to a benzene ring at R<sub>2</sub>.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\n25C-NBOH has efficacy at the [[serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] where it acts as a potent [[Agonist#Agonists|agonist]]. \n\nThis compound is pharmacologically unique when compared to other psychedelics due to the unusually high selectivity it displays for various [[serotonin]] receptors. It is notable as one of the most selective agonist ligands for the 5-HT<sub>2A</sub> receptor with a pEC<sub>50</sub> value of 9.43<ref>{{cite journal | vauthors=((Silva, M. E.)), ((Heim, R.)), ((Strasser, A.)), ((Elz, S.)), ((Dove, S.)) | journal=Journal of Computer-Aided Molecular Design | title=Theoretical studies on the interaction of partial agonists with the 5-HT2A receptor | volume=25 | issue=1 | pages=51–66 | date= January 2011 | url=http://link.springer.com/10.1007/s10822-010-9400-2 | issn=0920-654X | doi=10.1007/s10822-010-9400-2}}</ref>\n\nIt acts as a potent [[serotonin]] [[receptor]] [[agonist]] with similar affinity to the better-known compound [[25C-NBOMe]] at 5-HT<sub>2A</sub> and 5-HT<sub>2C</sub> receptors with pKis values of 9.4 and 7.8, respectively.<ref>{{cite journal | vauthors=((Hansen, M.)), ((Phonekeo, K.)), ((Paine, J. S.)), ((Leth-Petersen, S.)), ((Begtrup, M.)), ((Bräuner-Osborne, H.)), ((Kristensen, J. L.)) | journal=ACS Chemical Neuroscience | title=Synthesis and Structure–Activity Relationships of N -Benzyl Phenethylamines as 5-HT 2A/2C Agonists | volume=5 | issue=3 | pages=243–249 | date=19 March 2014 | url=https://pubs.acs.org/doi/10.1021/cn400216u | issn=1948-7193 | doi=10.1021/cn400216u}}</ref>\n\nHowever, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain elusive.\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, 25C-NBOH is usually considered to be very energetic and stimulating. For most people, this substance induces a unique type of physical stimulation which can be described as feeling extremely energetic but in a way which does not force the user to move unless they choose to do so. For others, however, the stimulation can be quite uncontrollable, occasionally resulting in bodily shakes and a grinding of the teeth comparable to that of [[MDMA]] and traditional stimulants such as [[amphetamine]].\n*'''[[Effect::Perception of bodily lightness]]''' - In terms of the body’s perceived weight, this substance consistently leaves people feeling extremely light, often to the point of total weightlessness.\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" itself can be described as a mild, all-encompassing, soft but euphoric tingling sensation. This tingling sensation is also accompanied by spontaneous rushes of [[Physical euphoria|euphoria]] that become longer and more drawn out proportional to the dosage consumed.\n*'''[[Effect::Mouth numbing]]''' - Assuming the substance has been taken [[sublingual|sublingually]], the very first physical effect which a person will notice immediately after sublingual absorption is a strong, unpleasant metallic chemical taste. This is accompanied by a very distinct feeling of general numbness of the tongue and mouth which can stay for up to an hour after the blotter paper has been consumed. \n*'''[[Effect::Nausea]]''' - As the user begins to come up, nausea is not uncommon and can sometimes result in initial vomiting, although nausea usually disappears when the user has vomited or the trip fully set in. In comparison to other psychedelics such as [[psilocin]], [[LSD]], [[2C-E]] and [[2C-I]], this could actually be considered very mild in its intensity.\n*'''[[Effect::Temperature regulation suppression]]'''\n**'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Muscle tension]]'''\n*'''[[Effect::Gustatory hallucination]]'''\n*'''[[Effect::Vasoconstriction]]''' \n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Difficulty urinating]]''' or '''[[Effect::Frequent urination]]'''\n*'''[[Effect::Restless legs]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Seizures]]'''\n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Magnification]]''' - At higher doses, users can experience a \"fish-eye\" effect, where magnification changes based on the direction the user is looking relative to the object.\n\n====Suppressions====\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Peripheral information misinterpretation]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Flowing|flowing]], [[Drifting#Breathing|breathing]] and [[Drifting# morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, static in appearance and unrealistic/cartoon-like in style. \n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Colour replacement]]'''\n*'''[[Effect::Colour tinting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Diffraction]]'''\n*'''[[Effect::Brightness alteration]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Recursion]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry produced by this substance is similar to [[LSD]] and can be comprehensively described as algorithmic in geometric style, intricate in complexity, fine and zoomed out in detail, fast and smooth in motion, structured in shape, colorful in scheme, glossy in color, sharp around the edges and equally angular as well as rounded across their corners. In comparison to other more commonly used psychedelics they can be described as significantly more intricate than the visual geometry found within [[2C-I]] and most of the [[2C-x]] family in general as well as completely on par with [[LSD]], [[Psilocin]] and [[DMT]] at appropriately high dosages. \n\n25C-NBOH’s geometry leads reliably leads to [[Effect::8A Geometry|Level 8A]] visual geometry with [[Level 8B]] remaining so far unconfirmed. It seems to consistently be able to build up in visual intensity when the user stares at a central point. This eventually envelops the visual field and creates the sensation that the tripper has broken through into a continuously shifting geometric landscape or structure with a vast sense of immersive physical size attributed to it.\n\n====Hallucinatory states====\n25C-NBOH is capable of producing a full range of hallucinatory states within the level 1 - 3 range extremely consistently. However, level 4 hallucinatory breakthroughs are reported but very different and inconsistent in comparison to other more commonly used psychedelics such as [[psilocin]], [[2C-E]] and [[DMT]].\n\nThese effects include:\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Machinescapes]]''' - This component is an uncommon effect that typically only occurs at very strong to heavy doses. It also tends to be accompanied by overwhelming if not dangerous physical and cognitive effects.\n*'''[[Effect::Internal hallucination]]''' - (''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]''). These are more common within dark environments and can be described as lucid in believability, interactive in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of 25C-NBOH are described by many as notably light in comparison to the classical [[psychedelics]]. It is not uncommon for people to report feeling that their thought stream has maintained general normality in its specific style throughout low to moderate dosages. At high dosages, however, strong to overwhelming cognitive alterations become present, which can lead to states of [[confusion]], [[amnesia]], and general sensory overload. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]''' - This effect is generally only present at low doses.\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Conceptual thinking]]''' - This effect is considered to be very mild compared to traditional psychedlics.\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect seems to occur more readily than other psychedelics, perhaps due to its very prominent stimulating properties\n**'''[[Effect::Feelings of impending doom]]''' - This is generally only experienced during the comedown period or if one has taken a large amount of the substance.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - The [[entactogenic]] effects range from mild to powerful, but are inconsistently manifested. Entactogenic effects for people who try this substance usually become prominent in the presence of others. These feelings of increased sociability, love and empathy do not seem to be quite as strong or profound as those found within other [[entactogen|entactogens]] (such as [[MDMA]], [[2C-B]] and [[AMT]])\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Dosage independent intensity]]''' - While the reasons for this are not understood, many reports suggest that this substance can produce unexpectedly strong or weak effects even when taken at the seemingly same dose in an unpredictable manner.{{citation needed}} This may contribute to the relative risk it is poses compared to most other psychedelics.\n*'''[[Effect::Synaesthesia]]''' - In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states.\n\n}}\n{{effects/transpersonal|\nWhile they are occasionally reported, the transpersonal effects produced by this substance seem to be significantly less consistent and reproducible than other [[psychedelics]], which perhaps corresponds with the notably mild changes to one's perceptual and cognitive processes. \n\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:25C-NBOH]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_25CNBOH.shtml Erowid Experience Vaults: 25C-NBOH]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\n25C-NBOH is a relatively new substance, and little is known about its toxicity or interaction with other substances. It is assumed to pose similar acute health risks as 25C-NBOMe and other members of 25x-NBOMe series. The [[LD50|LD<sub>50</sub>]] has not yet been determined although it is likely to be [[Toxicity::potentially fatal at heavy dosages]]. \n\n25C-NBOH's extreme potency means it should not be [[insufflated]] (snorted) as this method of administration has been associated with many deaths and hospitalizations with closely related members of the [[25x-NBOMe]] series.<ref name=\"25Ifatal\"/><ref name=\"25Cfatal\"/><ref name=\"25Xfatal\"/>\n\n===Tolerance and addiction potential===\n25C-NBOH is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 25C-NBOH is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::1 week]] for the tolerance to be reduced to half and [[Time to zero tolerance::2 weeks]] to be back at baseline (in the absence of further consumption). 25C-NBOH presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of 25C-NBOH all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Psychedelics}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Brazil''': As of December 10, 2018, 25C-NBOH has been added to Portaria SVS/MS nº 344. Possession, distribution and use of this substance is now considered illegal.<ref>List of controlled substances: Portaria SVS/MS nº 344 (Portuguese) | http://portal.anvisa.gov.br/lista-de-substancias-sujeitas-a-controle-especial</ref>\n*'''Germany''': 25C-NBOH is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 11, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref>\n*'''Sweden''': The Riksdag added 25C-NBOH to Narcotic Drugs Punishments Act under swedish schedule I (\"substances, plant materials and fungi which normally do not have medical use\") as of August 18, 2015, published by Medical Products Agency (MPA) in regulation HSLF-FS 2015:12<ref>https://lakemedelsverket.se/upload/lvfs/HSLF_FS_2015_12.pdf</ref>\n*'''Switzerland''': 25C-NBOH is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': 25C-NBOH is a Class A drug in the United Kingdom as a result of the N-benzylphenethylamine catch-all clause.<ref>{{Citation | year=2014 | title=Misuse of Drugs Act 1971 (S.I. 2014/1106) | publisher=London: The Stationery Office Limited | url=https://www.legislation.gov.uk/uksi/2014/1106/made | access-date=5 July 2017}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Psychedelics]]\n*[[Phenethylamines]]\n*[[25x-NBOH]]\n*[[25C-NBOMe]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/25C-NBOH 25C-NBOH (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1252 25C-NBOH (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:25x-NBOH]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true\n}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12154",
+ "type": "substance-summary",
+ "title": "Creatine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Creatine/Summary",
+  "pageid": 12154,
+  "last_edited": "2016-06-23T00:26:20Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Creatine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Creatine}}"
+}

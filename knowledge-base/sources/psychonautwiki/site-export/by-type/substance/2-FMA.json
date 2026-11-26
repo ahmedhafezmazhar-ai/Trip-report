@@ -1,0 +1,517 @@
+{
+ "id": "psychonautwiki:7228",
+ "type": "substance",
+ "title": "2-FMA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-FMA",
+  "pageid": 7228,
+  "last_edited": "2025-07-21T21:02:14Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 Chinese-language sources (zh)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/2-FMA",
+ "substance_box": {
+  "names": {
+   "common": "2-FMA",
+   "substitutive": "2-Fluoromethamphetamine",
+   "systematic": "1-(2-Fluorophenyl)-N-methylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "7 - 9 hours",
+    "onset": "30 - 60 minutes",
+    "comeup": "15 - 40 minutes",
+    "peak": "2.5 - 4 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "4 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 40 minutes",
+    "comeup": "10 - 20 minutes",
+    "peak": "1 - 3 hours",
+    "offset": "1.5 - 3 hours",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "2-FMA"
+   ],
+   "systematic name": [
+    "1-(2-Fluorophenyl)-N-methylpropan-2-amine"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "7"
+   ],
+   "Oral max total time": [
+    "9"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2.5"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "5"
+   ],
+   "Insufflated max light dose": [
+    "15"
+   ],
+   "Insufflated min common dose": [
+    "15"
+   ],
+   "Insufflated max common dose": [
+    "30"
+   ],
+   "Insufflated min strong dose": [
+    "30"
+   ],
+   "Insufflated max strong dose": [
+    "50"
+   ],
+   "Insufflated heavy dose": [
+    "50"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "20"
+   ],
+   "Insufflated max onset time": [
+    "40"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "20"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1.5"
+   ],
+   "Insufflated max offset time": [
+    "3"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 2-FMA",
+   "clean": "Molecular structure of 2-FMA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:2-FMA.svg",
+   "clean": "File:2-FMA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::2-FMA]]",
+   "clean": "2-FMA"
+  },
+  "NameSubstitution": {
+   "raw": "2-Fluoromethamphetamine",
+   "clean": "2-Fluoromethamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::1-(2-Fluorophenyl)-N-methylpropan-2-amine]]",
+   "clean": "1-(2-Fluorophenyl)-N-methylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::7]] - [[Oral max total time::9]] [[Oral total time units::hours]]",
+   "clean": "7 - 9 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2.5]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2.5 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 12 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::5]] - [[Insufflated max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::15]] - [[Insufflated max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::30]] - [[Insufflated max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::20]] - [[Insufflated max onset time::40]] [[Insufflated onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::20]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1.5]] - [[Insufflated max offset time::3]] [[Insufflated offset time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  }
+ },
+ "plain_text": "2-Fluoromethamphetamine (also known as 2-FMA) is a novel stimulant substance of the amphetamine class. It is a structural analog of methamphetamine and is related to 2-FA, 3-FA, and 4-FMA. 2-FMA produces its stimulant effects through action at dopamine and norepinephrine receptors in the brain. \n\nThe sale of 2-FMA on the online research chemical market was first reported in August 2007.. It appeared alongside other fluorinated amphetamines like 2-FA and 4-FA. It appears to be unknown in the clinical and research literature.\n\nSubjective effects include stimulation, focus enhancement, motivation enhancement, increased libido, appetite suppression, and euphoria. It is commonly taken either orally or via insufflation and is reported to be highly unpleasant and dangerous to vaporize as the heat can break off the carbon-fluoride bond which in turn can be very toxic. 2-FMA is commonly compared to lisdexamfetamine (Vyvanse) in its duration, potency and efficacy as a study or productivity aid. A substantial increase in adverse effects like high blood pressure and increased heart rate are often reported for dosages above the heavy dosage range. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2-FMA. It is strongly advised to use harm reduction practices if using this substance.\n\nChemistry\n\n2-Fluoromethamphetamine (2-FMA) is a synthetic molecule of the substituted amphetamine class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα (i.e., amphetamines are alpha-methylated phenethylamines). 2-FMA contains a methyl group bound to the terminal amine RN of the amphetamine core, a substitution it shares with methamphetamine. \n\n2-FMA is the 2-position fluorinated analog of methamphetamine and the N-methylated homolog of 2-FA (2-fluoroamphetamine).\n\nPharmacology\n\nAlthough 2-FMA has not been formally studied on the same level as traditional amphetamines, it is thought that it acts as both a dopamine and norepinephrine releasing agent. This means it effectively increases the levels of the norepinephrine and dopamine in the brain by binding to and partially blocking the transporter proteins that normally remove them from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects.\n\nSubjective effects\n\nIn comparison to other substituted amphetamines, 2-FMA is reported to be relatively free of side effects such as nausea, high blood pressure, anxiety and an uncomfortable offset (\"comedown\"). It is considered to be a functional stimulant for performing general productivity tasks in a manner similar to amphetamine or lisdexamfetamine (Vyvanse). However, at higher doses, it typically loses its productivity and focus-enhancing effects and begins to take on a recreational character due to the distracting euphoria that it can produce. Majority of users report through anecdotal reports that this has a ceiling effect with high dose (Heavy+) ranges where many report of the uncomfortable effects from stimulants when passing or entering the strong-heavy dose range.  \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 2-FMA\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 2-FMA use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 2-FMA has a very limited history of human usage. \n\nAnecdotal reports from those who have tried 2-FMA suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of 2-FMA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 2-FMA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 2-FMA presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 2-FMA all stimulants will have a reduced effect.\n\nPsychosis\n\nThe use of compounds in the amphetamine class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\nLegal status\n\n2-FMA is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\n*Canada: 2-FMA would be considered Schedule I as it is an analogue of Amphetamine.\n*China: As of October 2015 2-FMA is a controlled substance in China.\n*France: As of december 2024, 2-FMA is not explicitly scheduled. It is thus legal to possess, although in a grey area.\n*Germany: 2-FMA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*New Zealand: 2-FMA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.\n*Switzerland: 2-FMA is a controlled substance specifically named under Verzeichnis E.\n*Turkey: 2-FMA is a classed as drug and is illegal to possess, produce, supply, or import. \n*The Netherlands: 2-FMA is a controlled substance as of July 1, 2025. \n*United Kingdom: 2-FMA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.\n*Ukraine: 2-FMA is considered a narcotic and is illegal.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Substituted amphetamine\n*Lisdexamfetamine\n*2-FA\n*Methamphetamine\n\nExternal links\n\n*2-Fluoromethamphetamine (Wikipedia)\n*2-FMA  (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Amphetamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/2-FMA}}\n\n'''2-Fluoromethamphetamine''' (also known as '''2-FMA''') is a novel [[psychoactive class::stimulant]] substance of the [[chemical class::amphetamine]] class. It is a structural analog of [[methamphetamine]] and is related to [[2-FA]], [[3-FA]], and [[4-FMA]]. 2-FMA produces its stimulant effects through action at [[dopamine]] and [[norepinephrine]] receptors in the brain. \n\nThe sale of 2-FMA on the online [[research chemical]] market was first reported in August 2007.<ref>{{cite journal | vauthors=((Camilleri, A.)), ((Johnston, M. R.)), ((Brennan, M.)), ((Davis, S.)), ((Caldicott, D. G. E.)) | journal=Forensic Science International | title=Chemical analysis of four capsules containing the controlled substance analogues 4-methylmethcathinone, 2-fluoromethamphetamine, α-phthalimidopropiophenone and N-ethylcathinone | volume=197 | issue=1–3 | pages=59–66 | date= April 2010 | url=https://linkinghub.elsevier.com/retrieve/pii/S0379073809005490 | issn=03790738 | doi=10.1016/j.forsciint.2009.12.048}}</ref>. It appeared alongside other fluorinated amphetamines like [[2-FA]] and [[4-FA]]. It appears to be unknown in the clinical and research literature.\n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement]], [[motivation enhancement]], [[increased libido]], [[appetite suppression]], and [[euphoria]]. It is commonly taken either orally or via insufflation and is reported to be highly unpleasant and dangerous to vaporize as the heat can break off the carbon-fluoride bond which in turn can be very toxic. 2-FMA is commonly compared to [[lisdexamfetamine]] (Vyvanse) in its duration, potency and efficacy as a study or productivity aid. A substantial increase in adverse effects like [[increased blood pressure|high blood pressure]] and [[increased heart rate]] are often reported for dosages above the heavy dosage range. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2-FMA. It is strongly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n2-Fluoromethamphetamine (2-FMA) is a synthetic molecule of the [[substituted amphetamine]] class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub> (i.e., amphetamines are alpha-methylated phenethylamines). 2-FMA contains a methyl group bound to the terminal amine R<sub>N</sub> of the amphetamine core, a substitution it shares with [[methamphetamine]]. \n\n2-FMA is the 2-position fluorinated analog of [[methamphetamine]] and the N-methylated homolog of [[2-FA]] (2-fluoroamphetamine).\n\n==Pharmacology==\n{{pharmacology}}\nAlthough 2-FMA has not been formally studied on the same level as traditional [[amphetamines]], it is thought that it acts as both a [[dopamine]] and [[norepinephrine]] [[releasing agent]]. This means it effectively increases the levels of the norepinephrine and dopamine in the brain by binding to and partially blocking the transporter proteins that normally remove them from the [[synaptic cleft]]. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects.\n\n==Subjective effects==\nIn comparison to other substituted amphetamines, 2-FMA is reported to be relatively free of side effects such as [[nausea]], [[high blood pressure]], [[anxiety]] and an uncomfortable [[offset]] (\"comedown\"). It is considered to be a functional stimulant for performing general productivity tasks in a manner similar to [[amphetamine]] or [[lisdexamfetamine]] (Vyvanse). However, at higher doses, it typically loses its productivity and focus-enhancing effects and begins to take on a recreational character due to the distracting euphoria that it can produce. Majority of users report through anecdotal reports that this has a ceiling effect with high dose (Heavy+) ranges where many report of the uncomfortable effects from stimulants when passing or entering the strong-heavy dose range.  \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, 2-FMA is usually considered to be very energetic and stimulating in a fashion that is slightly weaker to that of [[methamphetamine]], but stronger than that of [[modafinil]], [[caffeine]], and [[methylphenidate]]. The particular style of stimulation which 2-FMA presents can be described as forced, but compared to many other stimulants such as [[amphetamine]] many describe it as a very \"clean\" stimulation. This means that, at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntary bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general loss of fine motor control. \n*'''[[Effect::Physical euphoria]]''' - This effect is more prominent at higher dosages and is typically weaker then that of other stimulants such as [[amphetamine]], [[lisdexamfetamine]] and [[methylphenidate]]\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' \n*'''[[Effect::Pupil dilation]]''' - This effect is typically experienced only at higher dosages and is more prominent on the comedown.\n*'''[[Effect::Teeth grinding]]''' - This component is more prominent as higher dosages and can be considered to be less intense when compared with that of [[MDMA]].\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Restless legs]]'''\n\n}}\n{{effects/visual|\nThe visual effects of 2-FMA are usually less consistent and only mildly noticeable at higher dosages. They are somewhat comparable to [[deliriants]] and occur more readily in darker areas.\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Breathing|breathing]] and [[Visual drifting#Morphing|morphing]])'' - This effect is usually subtle and barely noticeable and only occurs at higher dosages or when combined with [[cannabis]].\n*'''[[Effect::Brightness alteration]]''' - 2-FMA can make spaces seem brighter as a result of its pupil dilating effects.\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]''' - This effect occurs very rarely, and typically only when the user has taken high doses, is coming down, or has been awake for unusually long periods. It is usually very mild when it does occur.\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect typically occurs with overly high doses or after redosing and staying awake for extended periods of time.\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Emotion suppression]]\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Psychosis]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Memory suppression]]''' - Multiple reports indicate that after recurrent user short-term memory loss is common.\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:2-FMA]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_2Fluoromethamphetamine.shtml Erowid Experience Vaults: 2-FMA]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational 2-FMA use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 2-FMA has a very limited history of human usage. \n\nAnecdotal reports from those who have tried 2-FMA suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other [[stimulant]]s, the chronic use of 2-FMA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 2-FMA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 2-FMA presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of 2-FMA all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nThe use of compounds in the amphetamine class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref>{{Citation | publisher=National Institute on Drug Abuse | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"amppsychosis\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\n{{legalStub}}\n2-FMA is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\n*'''Canada''': 2-FMA would be considered Schedule I as it is an analogue of Amphetamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''China''': As of October 2015 2-FMA is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>\n*'''France''': As of december 2024, 2-FMA is not explicitly scheduled. It is thus legal to possess, although in a grey area.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 2-FMA is controlled under Anlage I BtMG (''Narcotics Act, Schedule I'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl114s1999.pdf%27%5D|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''New Zealand''': 2-FMA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation |url=http://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html#DLM436576}}</ref>\n*'''Switzerland''': 2-FMA is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' 2-FMA is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''The Netherlands:''' 2-FMA is a controlled substance as of July 1, 2025. <ref>{{Citation|title= Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden. | year=2025|url=https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs}}</ref>\n*'''United Kingdom''': 2-FMA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.<ref>{{Citation | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I}}</ref>\n*'''Ukraine''': 2-FMA is considered a narcotic and is illegal.<ref>{{Citation | title=Про внесення змін до переліку наркотичних засобів, психотропних речовин і прекурсорів | url=https://zakon.rada.gov.ua/go/600-2019-%D0%BF}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Substituted amphetamine]]\n*[[Lisdexamfetamine]]\n*[[2-FA]]\n*[[Methamphetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/2-Fluoromethamphetamine 2-Fluoromethamphetamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2131 2-FMA  (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Amphetamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

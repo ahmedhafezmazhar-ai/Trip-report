@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10837",
+ "type": "substance-summary",
+ "title": "Psilocin/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Psilocin/Summary",
+  "pageid": 10837,
+  "last_edited": "2015-11-11T08:25:04Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Psilocin",
+ "plain_text": "",
+ "wikitext": "{{Summary|Psilocin}}"
+}

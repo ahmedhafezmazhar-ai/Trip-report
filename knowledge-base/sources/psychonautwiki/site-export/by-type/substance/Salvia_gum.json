@@ -1,0 +1,393 @@
+{
+ "id": "psychonautwiki:9337",
+ "type": "substance",
+ "title": "Salvia gum",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Salvia_gum",
+  "pageid": 9337,
+  "last_edited": "2017-09-27T19:54:23Z"
+ },
+ "categories": [
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/Salvia",
+ "substance_box": {
+  "names": {
+   "common": "Salvia, Salvia divinorum, Diviner's Sage, Ska María Pastora, Seer's Sage, Sally",
+   "substitutive": "Salvinorin A",
+   "systematic": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate"
+  },
+  "classes": {
+   "psychoactive": "Hallucinogen",
+   "chemical": "Salvinorin"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "15 - 90 minutes",
+    "onset": "15 - 60 seconds",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "15 - 60 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "30 - 90 minutes",
+    "onset": "10 - 20 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "30 - 120 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Salvia",
+    "Salvia divinorum",
+    "Diviner's Sage",
+    "Ska María Pastora",
+    "Seer's Sage",
+    "Sally"
+   ],
+   "psychoactive class": [
+    "Hallucinogen"
+   ],
+   "chemical class": [
+    "Salvinorin"
+   ],
+   "Smoked min total time": [
+    "15"
+   ],
+   "Smoked max total time": [
+    "90"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "15"
+   ],
+   "Smoked max onset time": [
+    "60"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min afterglow time": [
+    "15"
+   ],
+   "Smoked max afterglow time": [
+    "60"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Sublingual min total time": [
+    "30"
+   ],
+   "Sublingual max total time": [
+    "90"
+   ],
+   "Sublingual total time units": [
+    "minutes"
+   ],
+   "Sublingual min onset time": [
+    "10"
+   ],
+   "Sublingual max onset time": [
+    "20"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min afterglow time": [
+    "30"
+   ],
+   "Sublingual max afterglow time": [
+    "120"
+   ],
+   "Sublingual afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of salvinorin A",
+   "clean": "Molecular structure of salvinorin A"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Salvinorin A.svg",
+   "clean": "File:Salvinorin A.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Salvia]], [[common name::Salvia divinorum]], [[common name::Diviner's Sage]], [[common name::Ska María Pastora]], [[common name::Seer's Sage]], [[common name::Sally]]",
+   "clean": "Salvia, Salvia divinorum, Diviner's Sage, Ska María Pastora, Seer's Sage, Sally"
+  },
+  "NameSubstitution": {
+   "raw": "Salvinorin A",
+   "clean": "Salvinorin A"
+  },
+  "NameSystematic": {
+   "raw": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate",
+   "clean": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Hallucinogen]]",
+   "clean": "Hallucinogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Salvinorin]]",
+   "clean": "Salvinorin"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''''The dosages for this substance differs between its [[Salvinorin_A#Forms_of_salvia_divinorum|varying forms]]. Do your research and adjust accordingly.'''''",
+   "clean": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::15]] - [[Smoked max total time::90]] [[Smoked total time units::minutes]]",
+   "clean": "15 - 90 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::15]] - [[Smoked max onset time::60]] [[Smoked onset time units::seconds]]",
+   "clean": "15 - 60 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::15]] - [[Smoked max afterglow time::60]] [[Smoked afterglow time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "'''''The dosages for this substance differs between its [[Salvinorin_A#Forms_of_salvia_divinorum|varying forms]]. Do your research and adjust accordingly.'''''",
+   "clean": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly."
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::30]] - [[Sublingual max total time::90]] [[Sublingual total time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::10]] - [[Sublingual max onset time::20]] [[Sublingual onset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::30]] - [[Sublingual max afterglow time::120]] [[Sublingual afterglow time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  }
+ },
+ "plain_text": "To mask the bitter taste of salvia and to aid in the buccal administration of Salvinorin A, one can prepare gum with the extract of Salvia Divinorum leaves. This results in a chewable substrate that allows ease of ingestion and even increased levels of absorption despite the reduced surface area.\n\nItems needed\n\n* 1-2 large stick(s) of bubble gum\n* Half shot of 80 proof alcohol or higher\n* 0.3 grams of 5x or 10x Salvia Divinorum extract\n\nPreperation\n\n# Get 1 large stick of bubble gum. It is not advised to use chewing gum as it is highly ineffective.\n# Chew the gum briefly until it is flexible enough to be stretched out.\n# When the gum is stretched out, load .3 grams of the salvia extract onto the center of the gum. Fold/roll the gum back up, so the extract is in the center.\n# Place the gum in your mouth. Take and hold a half shot of any alcohol of 80 proof or higher (Everclear is best) in your mouth. Chew the gum and swish the alcohol in your mouth to create a salvia/gum/alcohol juice mixture. Do not swallow any of the contents in your mouth. Wait 20-30 minutes to feel the effects.\n# Once the effects take hold, spit out the contents being held in the mouth.\n\nSee also\n\n*Salvia divinorum\n*Salvinorin A\n*Hot water extraction from dried Salvia Divinorum leaves\n\nReferences\n\nCategory:Preparation",
+ "wikitext": "{{disclaimer}}\n{{SubstanceBox/Salvia}}\n\nTo mask the bitter taste of salvia and to aid in the buccal administration of [[Salvinorin A]], one can prepare gum with the extract of [[Salvia Divinorum]] leaves.<ref>https://www.erowid.org/experiences/exp.php?ID=25175</ref> This results in a chewable substrate that allows ease of ingestion and even increased levels of absorption despite the reduced surface area.\n\n==Items needed==\n* 1-2 large stick(s) of bubble gum\n* Half shot of 80 proof alcohol or higher\n* 0.3 grams of 5x or 10x Salvia Divinorum extract\n\n==Preperation==\n# Get 1 large stick of bubble gum. It is not advised to use chewing gum as it is highly ineffective.\n# Chew the gum briefly until it is flexible enough to be stretched out.\n# When the gum is stretched out, load .3 grams of the salvia extract onto the center of the gum. Fold/roll the gum back up, so the extract is in the center.\n# Place the gum in your mouth. Take and hold a half shot of any alcohol of 80 proof or higher (Everclear is best) in your mouth. Chew the gum and swish the alcohol in your mouth to create a salvia/gum/alcohol juice mixture. Do not swallow any of the contents in your mouth. Wait 20-30 minutes to feel the effects.\n# Once the effects take hold, spit out the contents being held in the mouth.\n\n==See also==\n*[[Salvia divinorum (botany)|Salvia divinorum]]\n*[[Salvinorin A]]\n*[[Hot water extraction from dried Salvia Divinorum leaves]]\n\n==References==\n<references/>\n\n[[Category:Preparation]]"
+}

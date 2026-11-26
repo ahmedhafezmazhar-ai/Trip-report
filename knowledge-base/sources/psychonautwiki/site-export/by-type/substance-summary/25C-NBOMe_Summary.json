@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10857",
+ "type": "substance-summary",
+ "title": "25C-NBOMe/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25C-NBOMe/Summary",
+  "pageid": 10857,
+  "last_edited": "2016-02-02T11:14:21Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "25C-NBOMe",
+ "plain_text": "References",
+ "wikitext": "{{Template:Warning/25C-NBOMe}}\n{{Summary|25C-NBOMe}}\n===References===\n<references/>"
+}

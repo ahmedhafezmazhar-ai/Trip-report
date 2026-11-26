@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14514",
+ "type": "substance-summary",
+ "title": "Psilocybin mushrooms/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Psilocybin_mushrooms/Summary",
+  "pageid": 14514,
+  "last_edited": "2017-05-25T15:59:00Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Psilocybin mushrooms",
+ "plain_text": "",
+ "wikitext": "{{Summary|Psilocybin mushrooms}}"
+}

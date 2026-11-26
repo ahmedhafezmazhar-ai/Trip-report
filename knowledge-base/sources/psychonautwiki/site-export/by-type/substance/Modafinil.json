@@ -1,0 +1,349 @@
+{
+ "id": "psychonautwiki:1199",
+ "type": "substance",
+ "title": "Modafinil",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Modafinil",
+  "pageid": 1199,
+  "last_edited": "2025-11-25T04:31:36Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzhydryl",
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Modafinil",
+ "substance_box": {
+  "names": {
+   "common": "Modafinil, Alertec, Modavigil, Modiodal, Provigil, Modalert",
+   "substitutive": "Modafinil",
+   "systematic": "2-[(Diphenylmethyl)sulfinyl]acetamide"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Eugeroic",
+   "chemical": "Benzhydryl"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 200 mg",
+    "strong": "200 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "20 - 60 minutes",
+    "peak": "3.5 - 5 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "2 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Modafinil",
+    "Alertec",
+    "Modavigil",
+    "Modiodal",
+    "Provigil",
+    "Modalert"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Eugeroic"
+   ],
+   "chemical class": [
+    "Benzhydryl"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "200"
+   ],
+   "Oral min strong dose": [
+    "200"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "3.5"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Modafinil",
+   "clean": "Molecular structure of Modafinil"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Modafinil.svg",
+   "clean": "File:Modafinil.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Modafinil]], [[common name::Alertec]], [[common name::Modavigil]], [[common name::Modiodal]], [[common name::Provigil]], [[common name::Modalert]]",
+   "clean": "Modafinil, Alertec, Modavigil, Modiodal, Provigil, Modalert"
+  },
+  "NameSubstitution": {
+   "raw": "Modafinil",
+   "clean": "Modafinil"
+  },
+  "NameSystematic": {
+   "raw": "2-[(Diphenylmethyl)sulfinyl]acetamide",
+   "clean": "2-[(Diphenylmethyl)sulfinyl]acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Eugeroic]]",
+   "clean": "Stimulant / Eugeroic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzhydryl]]",
+   "clean": "Benzhydryl"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::200]] - [[Oral max strong dose::300]] mg",
+   "clean": "200 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3.5]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "3.5 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 6 hours"
+  }
+ },
+ "plain_text": "Modafinil (also known by the brand names Provigil, Alertec, Modavigil, and others) is a eugeroic substance of the benzhydryl class that produces wakefulness-promoting and stimulant effects when administered. It is commonly used to enhance cognition, reduce fatigue, and increase alertness in both medical and non-medical contexts.\n\nModafinil is approved by the U.S. Food and Drug Administration for the treatment of obstructive sleep apnea, shift work sleep disorder and narcolepsy. However, studies have shown that modafinil may also be useful off-label for alleviating the symptoms of depression, bipolar disorder, Parkinson's disease, seasonal depressive disorder, ADHD, and various other conditions which have fatigue as a symptom. \n\nModafinil has also been used as a doping agent by various athletes due to its ability to produce physical stimulation. It has recently gained mainstream popularity for its use as a \"smart drug\" to improve memory, counteract the desire or need for sleep, and increase general productivity.\n\nHistory and culture\n\nModafinil was originally developed in France by neurophysiologist professor Michel Jouvet and Lafon Laboratories. Modafinil originated with the late 1970s invention of a series of benzhydryl sulfinyl compounds, including adrafinil, which was first offered as an experimental treatment for narcolepsy in France in 1986. Modafinil is the primary metabolite of adrafinil, lacking the polar -OH group on its terminal amide, and has similar activity to the parent drug but is much more widely used. It has been prescribed in France since 1994 under the name Modiodal, and in the US since 1998 as Provigil.\n\nChemistry\n\nModafinil is a synthetic molecule of the benzhydryl class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. Modafinil is classified as a sulphinyl benzhydryl molecule, as it also contains a sulfinyl group, a sulphur molecule double-bonded to an oxygen molecule, attached to the carbon of the benzhydryl group. From this sulphur group at R2, an acetamide group is bound at its free carbon through a carbonyl group to a terminal amine group. Modafinil is structurally analogous to fluorafinil, another benzhydryl stimulant. \n\nWhile modafinil is a racemic mixture, a similar medication, armodafinil, consists of only the (−)-(R)-enantiomer of modafinil. Modafinil is a highly researched compound, with many derivatives created and studied.\n\nReagent Testing Color Results\n\nTo find out whether a substance is likely to be Modafinil, reagent testing kits can be used. Application of different reagents to the same substance may cause specific colors changes to appear. The expected color changes for Modafinil with their respective reagent tests (Marquis, Mecke, Mandelin, Liebermann and Froehde) are shown in the following image. Exposing substances to reagents may cause a color change which is indicative of the substance under test  . Reagent tests do not guarantee that a substance is pure. To test purity of a substance, consider thin layer chromatography (TLC) or even more elaborate tests like gas chromatography.  \n800px|thumb|center|Expected color changes for Modafinil\n\nSubjective effects\n\nIn comparison to traditional stimulants such as amphetamine, methylphenidate or cocaine, this compound induces an experience which is far less forceful, euphoric, and recreational. It instead emphasizes general wakefulness and motivation enhancement.     \n                                                                    \n    \n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Modafinil\n\nToxicity and harm potential\n\nThe long-term safety and effectiveness of modafinil as a drug of regular usage have not been determined. \n\nAnecdotal reports from people who have tried modafinil suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is worth noting that as this compound is a commonly prescribed pharmaceutical, it is considerably less likely to have unpredictable adverse health effects than the typical research chemical. Nevertheless, it is strongly recommended that one use harm reduction practices if using this substance.\n\nLethal dosage\n\nThe median lethal dose at which 50% of participants die (LD50) from modafinil for human beings has never been reached. No life-threatening effects have taken place in clinical trials involving the administration of 1000mg to 1600mg of modafinil per day for 7 to 21 consecutive days. Intentional acute overdoses of 4500mg and 4000mg in two adult subjects and an accidental ingestion of 800mg by a three-year-old child did not result in any life-threatening effects or death. After overdosing on 5000mg of modafinil in a suicide attempt, a fifteen-year-old female reported a severe headache, nausea, and tachycardia, but did not appear to have any lethal or long-term effects.\n\nTolerance and addiction potential\n\nThe chronic use of modafinil can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among most users.\n\nTolerance to many of the effects of modafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Modafinil may present a cross-tolerance with all nootropics]], meaning that after the consumption of modafinil, all related eugeroic compounds such as armodafinil and adrafinil will display a reduced effect.\n\nDangerous interactions\n\n*Hormonal Birth Control - Modafinil reduces the effectiveness of hormonal birth control for up to a month after use by increasing the activity of the enzyme CYP3A4/5. Notably, the same enzyme is inhibited by grapefruit juice.\n*CYP2C19-substrates - Modafinil may prolonge the elimation of some anxyolitics like diazepam, propranolol and clomipramine, resulting in higher systemic exposure to those drugs.\n\nAlthough Modafinil may cause nausea and acid reflex, it should not be taken together with omeprazole (which is a CYP2C19-substrate).\n\nLegal status\n\nModafinil is legally approved for medical purposes worldwide. However, it is illegal to sell and possess in most countries without a prescription. \n\n*Australia: Modafinil is listed as a Schedule 4 (prescription only) drug in Australia and it can be prescribed for sleep apnea and narcolepsy.\n*Austria: Modafinil is classed as NR (prescription only, repeated dispense prohibited) \n*Canada: Modafinil is listed as a Schedule F prescription drug in Canada and can be prescribed for human and veterinary use.\n*Germany: Modafinil is a prescription medicine, according to Anlage 1 AMVV.\n*Russian Federation: Modafinil is classed as a Schedule II substance. \n*Switzerland: Modafinil is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.\n*United Kingdom: Modafinil is a licensed prescription-only medicine (POM) in the United Kingdom. It is not a criminal offence to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.\n*United States: In the United States, modafinil is a Schedule IV controlled substance. It is illegal to buy, sell, or possess the drug without a prescription or DEA license.\n\nSee also\n\n*Responsible use\n*Nootropics\n*Stimulants\n*Armodafinil\n*Caffeine\n\nExternal links\n\n*Modafinil (Wikipedia)\n*Modafinil (Erowid Vault)\n*Modafinil (Isomer Design)\n*Modafinil (DrugBank)\n*Modafinil (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Benzhydryl\nCategory:Nootropic\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Modafinil}}\n\n'''Modafinil''' (also known by the brand names '''Provigil''', '''Alertec''', '''Modavigil''', and others) is a [[psychoactive class::eugeroic]] substance of the [[chemical class::benzhydryl]] class that produces [[wakefulness|wakefulness-promoting]] and [[stimulant]] effects when [[administered]]. It is commonly used to enhance cognition, reduce fatigue, and increase alertness in both medical and non-medical contexts.\n\nModafinil is approved by the U.S. Food and Drug Administration for the treatment of obstructive sleep apnea, shift work sleep disorder and narcolepsy.<ref>Provigal (Manufacturer's Website) | http://www.provigil.com/</ref> However, studies have shown that modafinil may also be useful off-label for alleviating the symptoms of depression,<ref>{{cite journal | vauthors=((Fava, M.)), ((Thase, M. E.)), ((DeBattista, C.)), ((Doghramji, K.)), ((Arora, S.)), ((Hughes, R. J.)) | journal=Annals of Clinical Psychiatry: Official Journal of the American Academy of Clinical Psychiatrists | title=Modafinil augmentation of selective serotonin reuptake inhibitor therapy in MDD partial responders with persistent fatigue and sleepiness | volume=19 | issue=3 | pages=153–159 | date= September 2007 | issn=1040-1237 | doi=10.1080/10401230701464858}}</ref> bipolar disorder,<ref>{{cite journal | vauthors=((Frye, M. A.)), ((Grunze, H.)), ((Suppes, T.)), ((McElroy, S. L.)), ((Keck, P. E.)), ((Walden, J.)), ((Leverich, G. S.)), ((Altshuler, L. L.)), ((Nakelsky, S.)), ((Hwang, S.)), ((Mintz, J.)), ((Post, R. M.)) | journal=The American Journal of Psychiatry | title=A placebo-controlled evaluation of adjunctive modafinil in the treatment of bipolar depression | volume=164 | issue=8 | pages=1242–1249 | date= August 2007 | issn=0002-953X | doi=10.1176/appi.ajp.2007.06060981}}</ref> Parkinson's disease,<ref>{{cite journal | vauthors=((Vliet, S. A. M. van)), ((Vanwersch, R. A. P.)), ((Jongsma, M. J.)), ((Gugten, J. van der)), ((Olivier, B.)), ((Philippens, I. H. C. H. M.)) | journal=Behavioural Pharmacology | title=Neuroprotective effects of modafinil in a marmoset Parkinson model: behavioral and neurochemical aspects | volume=17 | issue=5–6 | pages=453–462 | date= September 2006 | issn=0955-8810 | doi=10.1097/00008877-200609000-00011}}</ref> seasonal depressive disorder,<ref>{{cite journal | vauthors=((Lundt, L.)) | journal=Journal of Affective Disorders | title=Modafinil treatment in patients with seasonal affective disorder/winter depression: an open-label pilot study | volume=81 | issue=2 | pages=173–178 | date= August 2004 | issn=0165-0327 | doi=10.1016/S0165-0327(03)00162-9}}</ref> ADHD,<ref>{{cite journal | vauthors=((Biederman, J.)), ((Pliszka, S. R.)) | journal=The Journal of Pediatrics | title=Modafinil improves symptoms of attention-deficit/hyperactivity disorder across subtypes in children and adolescents | volume=152 | issue=3 | pages=394–399 | date= March 2008 | issn=1097-6833 | doi=10.1016/j.jpeds.2007.07.052}}</ref> and various other conditions which have fatigue as a symptom. \n\nModafinil has also been used as a doping agent by various athletes due to its ability to produce [[Stimulation|physical stimulation]].<ref>https://www.cyclingnews.com/news/clinger-given-two-year-suspension-for-doping</ref><ref>https://web.archive.org/web/20120122061356/http://sportsillustrated.cnn.com/2006/baseball/mlb/03/06/news.excerpt/1.html</ref><ref>https://journals.lww.com/acsm-msse/fulltext/2004/06000/effects_of_acute_modafinil_ingestion_on_exercise.23.aspx</ref> It has recently gained mainstream popularity for its use as a [[nootropic|\"smart drug\"]] to [[Memory enhancement|improve memory]], counteract the desire or need for sleep, and increase general productivity.<ref>https://pubmed.ncbi.nlm.nih.gov/34632515</ref>\n\n==History and culture==\nModafinil was originally developed in France by neurophysiologist professor Michel Jouvet and Lafon Laboratories. Modafinil originated with the late 1970s invention of a series of benzhydryl sulfinyl compounds, including adrafinil, which was first offered as an experimental treatment for narcolepsy in France in 1986. Modafinil is the primary metabolite of adrafinil, lacking the polar -OH group on its terminal amide,<ref>{{cite journal | vauthors=((Ballas, C. A.)), ((Kim, D.)), ((Baldassano, C. F.)), ((Hoeh, N.)) | journal=Expert Review of Neurotherapeutics | title=Modafinil: past, present and future | volume=2 | issue=4 | pages=449–457 | date=1 July 2002 | url=https://doi.org/10.1586/14737175.2.4.449 | issn=1473-7175 | doi=10.1586/14737175.2.4.449}}</ref> and has similar activity to the parent drug but is much more widely used. It has been prescribed in France since 1994 under the name Modiodal, and in the US since 1998 as Provigil.\n\n==Chemistry==\nModafinil is a synthetic molecule of the benzhydryl class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. Modafinil is classified as a sulphinyl benzhydryl molecule, as it also contains a sulfinyl group, a sulphur molecule double-bonded to an oxygen molecule, attached to the carbon of the benzhydryl group. From this sulphur group at R<sub>2</sub>, an acetamide group is bound at its free carbon through a carbonyl group to a terminal amine group. Modafinil is structurally analogous to fluorafinil, another benzhydryl stimulant. \n\nWhile modafinil is a racemic mixture, a similar medication, [[armodafinil]], consists of only the (−)-(R)-enantiomer of modafinil. Modafinil is a highly researched compound, with many derivatives created and studied<ref>{{cite journal | vauthors=((De Risi, C.)), ((Ferraro, L.)), ((Pollini, G. P.)), ((Tanganelli, S.)), ((Valente, F.)), ((Veronese, A. C.)) | journal=Bioorganic & Medicinal Chemistry | title=Efficient synthesis and biological evaluation of two modafinil analogues | volume=16 | issue=23 | pages=9904–9910 | date=1 December 2008 | url=https://www.sciencedirect.com/science/article/pii/S0968089608009772 | issn=0968-0896 | doi=10.1016/j.bmc.2008.10.027}}</ref>.\n\n==Reagent Testing Color Results==\nTo find out whether a substance is likely to be Modafinil, reagent testing kits can be used. Application of different reagents to the same substance may cause specific colors changes to appear. The expected color changes for Modafinil with their respective reagent tests (Marquis, Mecke, Mandelin, Liebermann and Froehde) are shown in the following image. Exposing substances to reagents may cause a color change which is indicative of the substance under test <ref>{{cite web |url = https://app.testdrugs.info/substances/564|title = Modafinil Testdrugs.info Website|date = September 7, 2022|author = Testdrugs|publisher = Testdrugs}}</ref> . Reagent tests do not guarantee that a substance is pure. To test purity of a substance, consider thin layer chromatography (TLC) or even more elaborate tests like gas chromatography.  \n[[File:Modafinil-reagent-colors-psychonautwiki.svg|800px|thumb|center|Expected color changes for Modafinil]]\n\n\n{{Modafinil/Pharmacology}}\n==Subjective effects==\nIn comparison to traditional stimulants such as [[amphetamine]], [[methylphenidate]] or [[cocaine]], this compound induces an experience which is far less forceful, euphoric, and recreational. It instead emphasizes general [[wakefulness]] and [[motivation enhancement]].     \n                                                                    \n{{Preamble/SubjectiveEffects}}    \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, modafinil is commonly considered to be stimulating and energetic, but can be considered as much less stimulating when compared to [[amphetamine]]. This stimulation encourages physical movement and activities such as running, playing sports, socializing, and/or exercising. The particular style of stimulation which modafinil presents can result in jaw clenching, teeth grinding, or other involuntary movements comparable to that of traditional stimulants at high doses, but are manifested much less consistently and intensely when compared to [[amphetamine]] or [[cocaine]].\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]''' -  The above components are also accompanied by a suppression of appetite which is usually less intense in strength in comparison to the appetite suppression experienced with [[amphetamine]].\n*'''[[Effect::Dehydration]]''' - Dehydration and dry mouth commonly occur due to an increase in motivation to engage in physical activities as well as an increased sense of focus which causes one to forget to drink water.\n*'''[[Effect::Headaches]]''' - In terms of physical discomfort, modafinil can cause headaches especially if dehydrated, if you have not eaten food, or if you have been sitting in an awkward position for an extended period of time focused intensely on a task.\n*'''[[Effect::Body odor alteration]]''' - Modafinil can leave a very distinct smell of sulfur in one's urine. This is likely because modafinil, being a member of the sulphinyl benzhydryl chemical class, contains sulfur in its chemical makeup.<ref>{{cite journal | vauthors=((Udert, K. M.)), ((Larsen, T. A.)), ((Gujer, W.)) | journal=Water Science and Technology | title=Fate of major compounds in source-separated urine | volume=54 | issue=11–12 | pages=413–420 | date=1 December 2006 | url=https://iwaponline.com/wst/article/54/11-12/413/13916/Fate-of-major-compounds-in-sourceseparated-urine | issn=0273-1223 | doi=10.2166/wst.2006.921}}</ref>\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Photophobia]]''' - Although uncommon, modafinil can cause a temporary visual intolerance to light. \n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Diarrhea]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Focus enhancement]]''' \n*'''[[Effect::Depression reduction]]'''\n*'''[[Effect::Thought acceleration]]\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]''' - While this effect is overall weaker than that of methylphenidate, cocaine, or amphetamine, the stimulation modafinil provides is sometimes described as more biased towards motivation as compared to focus enhancement. \n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Emotion enhancement]]''' or '''[[Effect::Emotion suppression]]''' \n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]'''{{citation needed}}\n*'''[[Effect::Increased music appreciation]]''' - While modafinil is capable of producing this effect, it does not do so as reliably as it does with traditional [[stimulants]] or [[entactogens]].\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Modafinil.shtml Erowid Experience Vaults: Modafinil]\n\n==Toxicity and harm potential==\nThe long-term safety and effectiveness of modafinil as a drug of regular usage have not been determined.<ref>{{cite journal | vauthors=((Banerjee, D.)), ((Vitiello, M. V.)), ((Grunstein, R. R.)) | journal=Sleep Medicine Reviews | title=Pharmacotherapy for excessive daytime sleepiness | volume=8 | issue=5 | pages=339–354 | date=1 October 2004 | url=https://www.sciencedirect.com/science/article/pii/S1087079204000243 | issn=1087-0792 | doi=10.1016/j.smrv.2004.03.002}}</ref> \n\nAnecdotal reports from people who have tried modafinil suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is worth noting that as this compound is a commonly prescribed pharmaceutical, it is considerably less likely to have unpredictable adverse health effects than the typical [[research chemical]]. Nevertheless, it is strongly recommended that one use [[responsible drug use|harm reduction practices]] if using this substance.\n\n===Lethal dosage===\n[[Toxicity::The median lethal dose at which 50% of participants die ([[LD50|LD<sub>50</sub>]]) from modafinil for human beings has never been reached]]. No life-threatening effects have taken place in clinical trials involving the administration of 1000mg to 1600mg of modafinil per day for 7 to 21 consecutive days. Intentional acute overdoses of 4500mg and 4000mg in two adult subjects and an accidental ingestion of 800mg by a three-year-old child did not result in any life-threatening effects or death.<ref>The National Library of Medicine - PROVIGIL | http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd75a8a7-a8ab-4141-9af9-989a220b9c19</ref> After overdosing on 5000mg of modafinil in a suicide attempt, a fifteen-year-old female reported a severe [[Headaches|headache]], [[Nausea|nausea]], and [[Abnormal heartbeat|tachycardia]], but did not appear to have any lethal or long-term effects.<ref>{{cite journal | vauthors=((Neuman, G.)), ((Shehadeh, N.)), ((Pillar, G.)) | journal=Journal of Clinical Sleep Medicine : JCSM : Official Publication of the American Academy of Sleep Medicine | title=Unsuccessful Suicide Attempt of a 15 Year Old Adolescent with Ingestion of 5000 mg Modafinil | volume=5 | issue=4 | pages=372–373 | date=15 August 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725258/ | issn=1550-9389}}</ref>\n\n===Tolerance and addiction potential===\nThe chronic use of modafinil can be considered as [[Addiction potential::not addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among most users.{{citation needed}}\n\nTolerance to many of the effects of modafinil [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Modafinil may present a cross-tolerance with [[Cross-tolerance::all [[benzhydryl]] [[nootropic|nootropics]]]], meaning that after the consumption of modafinil, all related eugeroic compounds such as [[armodafinil]] and [[adrafinil]] will display a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=modafinil}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[DangerousInteraction::Hormonal Birth Control]]''' - Modafinil reduces the effectiveness of hormonal birth control for up to a month after use by increasing the activity of the enzyme CYP3A4/5.<ref>{{cite journal | last=Robertson | first=P | title=Effect of modafinil on the pharmacokinetics of ethinyl estradiol and triazolam in healthy volunteers | journal=Clinical Pharmacology & Therapeutics | publisher=Springer Nature | volume=71 | issue=1 | year=2002 | issn=0009-9236 | doi=10.1067/mcp.2002.121217 | pages=46–56}}</ref> Notably, the same enzyme is inhibited by grapefruit juice.<ref>{{cite journal | last=Bailey | first=D. G. | last2=Dresser | first2=G. | last3=Arnold | first3=J. M. O. | title=Grapefruit-medication interactions: Forbidden fruit or avoidable consequences? | journal=Canadian Medical Association Journal | publisher=Joule Inc. | volume=185 | issue=4 | date=2012-11-26 | issn=0820-3946 | doi=10.1503/cmaj.120951 | pages=309–316}}</ref>\n*'''[[DangerousInteraction::CYP2C19-substrates]]''' - Modafinil may prolonge the elimation of some anxyolitics like diazepam, propranolol and clomipramine, resulting in higher systemic exposure to those drugs.<ref name=\"rxlist\">https://www.rxlist.com/provigil-drug.htm</ref>\n\nAlthough Modafinil may cause nausea and acid reflex, it should not be taken together with omeprazole (which is a CYP2C19-substrate).<ref name=\"rxlist\" />\n\n==Legal status==\nModafinil is legally approved for medical purposes worldwide. However, it is illegal to sell and possess in most countries without a prescription. \n\n*'''Australia:''' Modafinil is listed as a Schedule 4 (prescription only) drug in Australia and it can be prescribed for sleep apnea and narcolepsy.<ref>{{Citation | title=Modafinil | url=https://en.wikipedia.org/w/index.php?title=Modafinil&oldid=1100020692}}</ref>\n*'''Austria:''' Modafinil is classed as NR (prescription only, repeated dispense prohibited) <ref>Rezeptverordnung | https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358</ref>\n*'''Canada:''' Modafinil is listed as a Schedule F prescription drug in Canada and can be prescribed for human and veterinary use.<ref>National Association of Pharmacy Regulatory Authorities - Regulations Amending the Food and Drug Regulations (1184 — Modafinil) | http://napra.ca/Content_Files/Files/FDR-Project1184-Modafinil-Oct122006.pdf</ref>\n*'''Germany:''' Modafinil is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''Russian Federation:''' Modafinil is classed as a Schedule II substance. <ref>{{cite web |url = http://www.consultant.ru/cons/cgi/online.cgi?req=doc;base=LAW;n=142882;fld=134;dst=4294967295;rnd=0.8965571122244;from=141820-563|title = Narcotics}}</ref>\n*'''Switzerland:''' Modafinil is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.{{citation needed}}\n*'''United Kingdom:''' Modafinil is a licensed prescription-only medicine (POM) in the United Kingdom.<ref>{{cite web |url = http://www.mhra.gov.uk/home/groups/par/documents/websiteresources/con273748.pdf|title = MHRA license for Modafinil in UK|date = April 3, 2013|author = MHRA|publisher = MHRA}}</ref> It is not a criminal offence to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.<ref>{{cite web |url = http://www.legislation.gov.uk/ukpga/1968/67/section/13|title = Medicines Act 1968 Section 13}}</ref>\n*'''United States:''' In the United States, modafinil is a Schedule IV controlled substance. It is illegal to buy, sell, or possess the drug without a prescription or DEA license.<ref>Placement of Modafinil Into Schedule IV - U.S. Department of Justice | http://www.deadiversion.usdoj.gov/fed_regs/rules/1999/fr0127.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Nootropics]]\n*[[Stimulants]]\n*[[Armodafinil]]\n*[[Caffeine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Modafinil Modafinil (Wikipedia)]\n*[https://www.erowid.org/smarts/modafinil/ Modafinil (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2978 Modafinil (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00745 Modafinil (DrugBank)]\n*[https://drugs-forum.com/wiki/Modafinil Modafinil (Drugs-Forum)]\n\n\n==References==\n{{reflist|2}}\n[[Category:Psychoactive substance]]\n[[Category:Benzhydryl]]\n[[Category:Nootropic]]\n[[Category:Stimulant]]\n{{#set:Featured=true}}"
+}

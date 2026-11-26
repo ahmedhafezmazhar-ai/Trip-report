@@ -1,0 +1,352 @@
+{
+ "id": "psychonautwiki:335",
+ "type": "substance",
+ "title": "AL-LAD",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/AL-LAD",
+  "pageid": 335,
+  "last_edited": "2022-06-30T04:16:49Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 Danish-language sources (da)",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "CS1 Latvian-language sources (lv)",
+  "CS1 Swedish-language sources (sv)",
+  "CS1 Turkish-language sources (tr)",
+  "Hallucinogen",
+  "Lysergamide",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/AL-LAD",
+ "substance_box": {
+  "names": {
+   "common": "AL-LAD, Aladdin",
+   "substitutive": "6-Allyl-6-nor-lysergic acid diethylamide",
+   "systematic": "(6aR,9R)-N,N-Diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo-[4,3-fg]quinoline-9-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 µg",
+    "light": "50 - 100 µg",
+    "common": "100 - 225 µg",
+    "strong": "225 - 350 µg",
+    "heavy": "350 µg +",
+    "duration": "7 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2.5 - 5 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "2 - 18 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "AL-LAD",
+    "Aladdin"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Lysergamide"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "µg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "225"
+   ],
+   "Oral min strong dose": [
+    "225"
+   ],
+   "Oral max strong dose": [
+    "350"
+   ],
+   "Oral heavy dose": [
+    "350"
+   ],
+   "Oral min total time": [
+    "7"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2.5"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "18"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of AL-LAD",
+   "clean": "Molecular structure of AL-LAD"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:AL-LAD.svg",
+   "clean": "File:AL-LAD.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245x",
+   "clean": "245x"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::AL-LAD]], [[common name::Aladdin]]",
+   "clean": "AL-LAD, Aladdin"
+  },
+  "NameSubstitution": {
+   "raw": "6-Allyl-6-nor-lysergic acid diethylamide",
+   "clean": "6-Allyl-6-nor-lysergic acid diethylamide"
+  },
+  "NameSystematic": {
+   "raw": "(6aR,9R)-N,N-Diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo-[4,3-fg]quinoline-9-carboxamide",
+   "clean": "(6aR,9R)-N,N-Diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo-[4,3-fg]quinoline-9-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] [[Oral dose units::µg]]",
+   "clean": "20 µg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] µg",
+   "clean": "50 - 100 µg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::225]] µg",
+   "clean": "100 - 225 µg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::225]] - [[Oral max strong dose::350]] µg",
+   "clean": "225 - 350 µg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::350]] µg +",
+   "clean": "350 µg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::7]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "7 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2.5]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "2.5 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::18]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 18 hours"
+  }
+ },
+ "plain_text": "6-Allyl-6-nor-lysergic acid diethylamide (also known as N-allyl-nor-lysergic acid N,N-diethylamide, N-allyl-nor-LSD, or commonly as AL-LAD) is a novel psychedelic substance of the lysergamide class. AL-LAD is chemically similar to LSD and has a similar mechanism of action, working primarily by binding to serotonin receptors in the brain.\n\nAL-LAD was first investigated in 1984 by Andrew J. Hoffman and David Nichols as part of a series of LSD analogs, which also included ETH-LAD and PRO-LAD. Its activity in humans was later documented by Alexander Shulgin in his book TiHKAL (\"Tryptamines I Have Known and Loved\"), in which it is described as \"one of the several very potent compounds in a large series of nor-LSD analogues\". In 2013, AL-LAD appeared for sale on the research chemical market, where it has been commonly marketed alongside lysergamides such as 1P-LSD, ALD-52 and ETH-LAD as a legal, grey-market alternative to LSD.\n\nUser reports describe the effects of AL-LAD as similar to those of LSD with some subtle differences. It is thought to either be equally or moderately less potent than LSD itself, with an active dose reported at between 75 and 150 micrograms. It is often described as being more visually-oriented but with a less introspective headspace. It also has a moderately shorter duration and is generally considered to be a less anxiety-provoking and challenging version of LSD. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of AL-LAD.  While it is often characterized by users as being generally more recreational and non-threatening compared to LSD, it is highly advised to approach this highly potent hallucinogenic substance with the proper amount of precaution and harm reduction practices if using it.\n\nChemistry\n\nAL-LAD, or 6-allyl-6-nor-lysergic acid diethylamide, is a semisynthetic alkaloid of the lysergamide family. AL-LAD is a structural analog of lysergic acid, with an N,N-diethylamide functional group bound to RN of the chemical structure. AL-LAD's chemical structure contains a bicyclic hexahydroindole fused to a bicyclic quinoline group (nor-lysergic acid). Unlike LSD, AL-LAD does not contain a methyl group substituted at R6 of its nor-lysergic acid skeleton, this is represented by the nor- prefix. Instead, AL-LAD is substituted at R6 with an allyl group comprised of a methylene bridge bound to a vinyl substituent. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound.\n\nAL-LAD is a chiral compound with two stereocenters at R5 and R8. AL-LAD, also called (+)-D-AL-LAD, has an absolute configuration of (5R, 8R). The three other stereoisomers of AL-LAD do not have psychoactive properties.\n\nAL-LAD does not cause a color change with the Marquis, Mecke or Mandelin reagents, but does cause the Ehrlich's reagent to turn purple because of the presence of the indole moiety in its structure.\n\nPharmacology\n\nAL-LAD likely acts as a 5-HT2A partial agonist. The psychedelic effects are believed to come from AL-LAD's efficacy at the 5-HT2A receptors. However, the role of these interactions and how they result in the psychedelic experience continues to remain an object of scientific elucidation.\n\nAL-LAD shares many common traits with its parent compound LSD; in humans it appears to be roughly equal (if slightly less) in potency as well as similar in mechanism although the progression and duration of effects are compressed (while remaining qualitatively less intense and more manageable - perhaps due to being catabolised more readily). In rats, however, AL-LAD was measured to be around twice the potency of LSD, although anecdotal reports by humans have reported to be about equipotent if not slightly less potently psychoactive as LSD.\n\nSubjective effects\n\nWhile its subjective effects largely overlap with those of LSD, AL-LAD is commonly reported to be significantly shorter in its duration and less uncomfortable in both its negative physical side effects and general anxiety. Some users have proposed that this compound could potentially serve as an effective introductory psychedelic, alongside other shorter-lasting and manageable psychedelics like 2C-B or 4-HO-MET.\n\nCombination effects\n\n*Alcohol - Alcohol's central depressant effects can counteract some of the anxiety and bodily tension produced by AL-LAD. However, alcohol can cause dehydration, nausea and physical fatigue which can negatively impact the tone of the trip. Users are advised to pace themselves and drink a portion of their usual amount.\n*Benzodiazepines - Benzodiazepines are highly effective at reducing the intensity of AL-LAD's effects through the general suppression of brain activity.\n*Cannabis - Cannabis strongly intensifies the sensory and cognitive effects of AL-LAD. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like anxiety, confusion and psychosis. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*Dissociatives - AL-LAD enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced holes, spaces, and voids and internal hallucinations become more vivid and intense on AL-LAD. These effects correspond with an increased risk of confusion, delusions, and psychosis.\n*MDMA - AL-LAD and MDMA are highly synergistic and mutually enhance each other's physical, cognitive, and visual effects. The synergy between these substances is unpredictable so it is advised to start with markedly lower doses than one would take for each individually. There is some evidence that suggests that co-administration of LSD with MDMA increases the neurotoxicity of the latter, and this may extend to AL-LAD.\n\nExperience reports\n\nThere are currently  anecdotal reports which describe the effects of this compound within our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: AL-LAD\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational AL-LAD use do not seem to have been studied in any scientific context and the exact toxic dose is unknown. This is because AL-LAD is a research chemical with very little history of human usage. \n\nThe body of anecdotal reports suggests that there are no negative health effects attributed to simply trying the substance by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nAs with other psychedelic substances, there are relatively few physical side effects that have been reported associated with acute AL-LAD exposure. Although no formal studies have been conducted, it is likely that as with LSD itself, AL-LAD is able to be considered non-addictive, with an extremely low toxicity relative to dose. It is also likely that as with LSD, there are little to no negative physical, cognitive, psychiatric or other toxic consequences associated with acute AL-LAD exposure.  \n\nHowever, as with LSD and psychedelics in general, it is possible that AL-LAD can act as a potential trigger for those with underlying psychiatric conditions. Those with a personal or family history of mental illness are generally advised not to use this substance, particularly outside of a supervised medical setting. \n\nIt is strongly recommended that one uses harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAlthough no formal studies have been conducted, it is not unreasonable to assume that as with LSD itself, AL-LAD is not habit-forming and that the desire to use it can actually decrease with use.\n\nTolerance to the effects of AL-LAD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). AL-LAD presents cross-tolerance with all psychedelics, meaning that after the use of AL-LAD all psychedelics will have a reduced effect.\n\nOverdose\n\nThe LD50 of AL-LAD is unknown. Adverse psychological reactions are common especially at higher dosages. Some of these include anxiety, delusions, panic attacks and more rarely seizures. Medical attention is usually only needed if suspected of severe psychotic episodes or “fake acid” (such as 25i-NBOMe or DOB). Administration of benzodiazepines or antipsychotics can help to relieve the negative cognitive effects of AL-LAD.\n\nDangerous interactions\n\nLegal status\n\nAL-LAD is currently a gray area compound within many parts of the world. This means that it is not known to be specifically illegal within most countries, but people may still be charged for its possession under certain circumstances such as under analog laws and with the intent to sell or consume.\n\n*Austria: AL-LAD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD. \n*Denmark: As of August 25, 2015, AL-LAD is specifically named on the list of illegal substances.\n*Germany: AL-LAD is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Japan: AL-LAD is a controlled substance in Japan effective February 28th, 2020.\n*Latvia: AL-LAD is illegal in Latvia. Although it isn't officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.\n*Sweden: Following its sale as a designer drug, AL-LAD was made illegal in Sweden on January 26, 2016.\n*Switzerland: 21 substances, including AL-LAD, were added to the list of illegal substances including on December 1, 2015. It is a controlled substance specifically named under Verzeichnis E.\n*Turkey: AL-LAD is illegal in Turkey as of February 2016.\n*United Kingdom: As of January 7, 2015, AL-LAD is specifically named in the U.K. Misuse of Drugs Act as a Class A controlled substance.\n*United States: AL-LAD is unscheduled but can be considered to be an analogue of LSD, which would make it illegal to possess for human consumption under the Federal Analogue Act.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Psychedelics\n*ETH-LAD\n*ALD-52\n*LSZ\n*LSD\n\nExternal links\n\n*AL-LAD (Wikipedia)\n*AL-LAD (TiHKAL / Isomer Design)\n\nDiscussion\n\n*The Big & Dandy AL-LAD Thread - Part 1 (Bluelight)\n\nLiterature\n\n*Hoffman, A. J., & Nichols, D. E. (1985). Synthesis and LSD-like discriminative stimulus properties in a series of N (6)-alkyl norlysergic acid N, N-diethylamide derivatives. Journal of Medicinal Chemistry, 28(9), 1252-1255. https://doi.org/10.1021/jm00147a022.\n*Watts, V. J., Mailman, R. B., Lawler, C. P., Neve, K. A., & Nichols, D. E. (1995). LSD and structural analogs: pharmacological evaluation at D1 dopamine receptors. Psychopharmacology, 118(4), 401-409. https://doi.org/10.1007/BF02245940.\n*Niwaguchi, T., Nakahara, Y., & Ishii, H. (1976). Studies on lysergic acid diethylamide and related compounds. IV. Syntheses of various amide derivatives of norlysergic acid and related compounds. Yakugaku Zasshi: Journal of the Pharmaceutical Society of Japan, 96(5), 673-678. PMID 987200.\n*Pfaff, R. C., Huang, X., Marona-Lewicka, D., Oberlender, R., & Nichols, D. E. (1994). Lysergamides Revisited. NIDA Research Monograph, 146, 52-73. PMID: 8742794.\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Hallucinogen\nCategory:Psychedelic\nCategory:Lysergamide\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/AL-LAD}}\n\n'''6-Allyl-6-nor-lysergic acid diethylamide''' (also known as '''N-allyl-''nor''-lysergic acid N,N-diethylamide''', '''N-allyl''-nor''-LSD''', or commonly as '''AL-LAD''') is a novel [[Psychoactive class::psychedelic]] substance of the [[chemical class::lysergamide]] class. AL-LAD is chemically similar to [[LSD]] and has a similar mechanism of action, working primarily by binding to [[serotonin]] receptors in the brain.\n\nAL-LAD was first investigated in 1984 by Andrew J. Hoffman and [[David Nichols]] as part of a series of LSD analogs, which also included [[ETH-LAD]] and [[PRO-LAD]].<ref name=\"nichols\">{{cite journal|last1=Hoffman|first1=Andrew J.|last2=Nichols|first2=David E.|author-link2=David E. Nichols|title=Synthesis and LSD-like discriminative stimulus properties in a series of N(6)-alkyl norlysergic acid N,N-diethylamide derivatives|journal=Journal of Medicinal Chemistry|volume=28|issue=9|pages=1252-1255|year=1985|doi=10.1021/jm00147a022|issn=0022-2623}}</ref> Its activity in humans was later documented by [[Alexander Shulgin]] in his book [[TiHKAL]] (\"Tryptamines I Have Known and Loved\"), in which it is described as \"one of the several very potent compounds in a large series of nor-LSD analogues\".<ref name=\"TiKHAL\">{{cite book|title=TiHKAL: The Continuation|title-link=TiHKAL|last1=Shulgin|first1=Alexander|last2=Shulgin|first2=Ann|author-link1=Alexander Shulgin|year=1997|publisher=Transform Press|location=United States|isbn=0-9630096-9-9|oclc=38503252|chapter-url=https://erowid.org/library/books_online/tihkal/tihkal01.shtml|chapter=#1. AL-LAD}}</ref> In 2013, AL-LAD appeared for sale on the [[research chemical]] market,<ref name=\"Brandt2015\">{{cite journal|last1=Brandt|first1=S. D.|last2=Kavanagh|first2=P. V.|last3=Westphal|first3=F.|last4=Elliott|first4=S. P.|last5=Wallach|first5=J.|last6=Colestock|first6=T.|last7=Burrow|first7=T. E.|last8=Chapman|first8=S. J.|last9=Stratford|first9=A.|last10=Nichols|first10=D. E.|author-link10=David E. Nichols|last11=Halberstadt|first11=A. L.|year=2016|title=Return of the lysergamides. Part II: Analytical and behavioural characterization of N<sup>6</sup>‐allyl‐6‐norlysergic acid diethylamide (AL‐LAD) and (2&acute;''S'',4&acute;''S'')‐lysergic acid 2,4‐dimethylazetidide (LSZ)|journal=Drug Testing and Analysis|volume=9|issue=1|pages=38-50|doi=10.1002/dta.1985|issn=1942-7603}}</ref> where it has been commonly marketed alongside lysergamides such as [[1P-LSD]], [[ALD-52]] and [[ETH-LAD]] as a legal, grey-market alternative to LSD.\n\nUser reports describe the effects of AL-LAD as similar to those of LSD with some subtle differences. It is thought to either be equally or moderately less potent than [[LSD]] itself, with an active dose reported at between 75 and 150 micrograms. It is often described as being more visually-oriented but with a less introspective headspace. It also has a moderately shorter duration and is generally considered to be a less [[anxiety]]-provoking and challenging version of LSD. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of AL-LAD.  While it is often characterized by users as being generally more recreational and non-threatening compared to [[LSD]], it is highly advised to approach this highly potent [[hallucinogenic]] substance with the proper amount of precaution and [[harm reduction practices]] if using it.\n\n==Chemistry==\nAL-LAD, or 6-allyl-6-nor-lysergic acid diethylamide, is a semisynthetic [[alkaloid]] of the [[lysergamide]] family. AL-LAD is a structural analog of lysergic acid, with an N,N-diethylamide functional group bound to R<sub>N</sub> of the chemical structure. AL-LAD's chemical structure contains a bicyclic hexahydroindole fused to a bicyclic quinoline group (nor-lysergic acid). Unlike [[LSD]], AL-LAD does not contain a methyl group substituted at R<sub>6</sub> of its nor-lysergic acid skeleton, this is represented by the nor- prefix. Instead, AL-LAD is substituted at R<sub>6</sub> with an allyl group comprised of a methylene bridge bound to a vinyl substituent. At carbon 8 of the quinoline a N,N-diethyl carboxamide is bound.\n\nAL-LAD is a chiral compound with two stereocenters at R<sub>5</sub> and R<sub>8</sub>. AL-LAD, also called (+)-D-AL-LAD, has an absolute configuration of (5''R'', 8''R''). The three other stereoisomers of AL-LAD do not have psychoactive properties.<ref name=\"TiKHAL\"></ref>\n\nAL-LAD does not cause a color change with the Marquis, Mecke or Mandelin reagents,<ref>{{Citation | title=DrugsData.org (was EcstasyData): Test Details : Result #2829 - AL-LAD, 2829 | url=https://www.drugsdata.org/view.php?id=2829}}</ref> but does cause the Ehrlich's reagent to turn purple because of the presence of the indole moiety in its structure.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nAL-LAD likely acts as a [[Serotonin#The_5-HT_system|5-HT<sub>2A</sub>]] [[Agonist#Agonists|partial agonist]]. The [[psychedelic]] effects are believed to come from AL-LAD's efficacy at the 5-HT<sub>2A</sub> receptors. However, the role of these interactions and how they result in the psychedelic experience continues to remain an object of scientific elucidation.\n\nAL-LAD shares many common traits with its parent compound [[LSD]]; in humans it appears to be roughly equal (if slightly less) in potency as well as similar in mechanism although the progression and duration of effects are compressed (while remaining qualitatively less intense and more manageable - perhaps due to being catabolised more readily). In rats, however, AL-LAD was measured to be around twice the potency of LSD,<ref name=\"nichols\" /> although anecdotal reports by humans have reported to be about equipotent if not slightly less potently psychoactive as [[LSD]].\n\n==Subjective effects==\nWhile its subjective effects largely overlap with those of [[LSD]], AL-LAD is commonly reported to be significantly shorter in its duration and less uncomfortable in both its [[Uncomfortable_physical_effects|negative physical side effects]] and general [[anxiety]]. Some users have proposed that this compound could potentially serve as an effective introductory psychedelic, alongside other shorter-lasting and manageable psychedelics like [[2C-B]] or [[4-HO-MET]].\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, AL-LAD is regarded as being able primarily stimulating in nature in the same vein as LSD. This is in distinction to other, more commonly used psychedelics such as [[psilocybin]] which are more consistent in producing [[sedation]] and [[muscle relaxation|relaxedness]].\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of AL-LAD can be described as proportionally intense in comparison to its accompanying visual and cognitive effects. It behaves as a euphoric, fast-moving, sharp and location specific tingling sensation. For some, it is manifested spontaneously at different unpredictable points throughout the experience, but for most it maintains a steady presence that rises with the onset and hits its limit once the peak has been reached. In comparison to LSD, it is a little less sharp in the tingling sensations it produces as but is otherwise essentially indistinguishable.\n*'''[[Effect::Perception of bodily lightness]]'''  - This component typically accompanies any feelings of [[stimulation]] that this compound can produce.\n*'''[[Effect::Physical euphoria]]''' - It should be noted that this effect is not as reliably induceable as it is with substances like [[stimulants]] or [[entactogens]], and can just as easily manifest as physical discomfort without any apparent reason. \n*'''[[Effect::Changes in felt bodily form]]''' - This effect is often accompanied by a sense of warmth or [[Unity and interconnectedness#Unity between the self and specific external systems|unity]] and usually occurs during and up to the peak of the experience or directly afterward. Users can feel as if they are physically part of or conjoined with other objects. This is usually reported as feeling comfortable and peaceful in its sensations.  \n*'''[[Effect::Tactile enhancement]]''' - Feelings of enhanced tactile sensations are consistently present at moderate levels throughout most AL-LAD trips. If [[Effect::8A Geometry|level 8A geometry]] is reached, an intense sensation of suddenly becoming aware of and being able to feel every single nerve ending across a person's entire body all at once becomes consistently present.\n*'''[[Effect::Temperature regulation suppression]]''' - This component can occur with the use of any lysergamide or psychedelic, but reports suggest it may be pronounced in AL-LAD. It is highly advised that users of this compound, especially at heavier doses, monitor their bodily temperature and use techniques like hot showers or cold packs to regulate their core and brain temperature throughout the experience, and to generally always maintain proximity to a climate-controlled environment.\n*'''[[Effect::Increased bodily temperature]]''' \n*'''[[Effect::Nausea]]''' - Mild nausea is occasionally reported when this substance is consumed in moderate to high dosages, usually during the peak, and either passes soon after the user has vomited or gradually fades by itself as the peak sets in.\n*'''[[Effect::Stamina enhancement]]''' - This is generally mild in comparison to traditional [[stimulants]].\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Increased libido]]''' \n*'''[[Effect::Excessive yawning]]''' - This effect is significantly less pronounced than it is with [[psilocybin]] and its related compounds, the four-position [[Tryptamine#List of substituted tryptamines|substituted tryptamines]].\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Increased salivation]]''' \n*'''[[Effect::Seizure]]''' - This is an effect whose likelihood is largely extrapolated from the seizures that have been reported from the use of [[LSD]]. They are thought to mainly be a risk in those who are genetically predisposed to them, particularly while accompanied by physically taxing conditions such as dehydration, fatigue or undernourishment. \n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed yet cartoon-like in appearance. The distortions are slow and smooth in motion and fleeting in their appearance. This is nearly identical in appearance to the visual drifting which occurs under the influence of [[LSD]].\n*'''[[Effect::After images]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Diffraction]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n\n====[[Geometry]]====\nThe [[visual geometry]] evoked by AL-LAD can be described as more similar in appearance to that of [[LSD]], [[2C-B]] or [[4-HO-MET]] than [[psilocin]], [[LSA]] or [[DMT]]. It can be comprehensively described through its [[Visual_effects:_Geometry#Variations|variations]] as primarily intricate in complexity, algorithmic in form, unstructured in organization, brightly lit, colourful and cartoonish in scheme, organic in feel, flat in shading, soft in its edges, large in size, slow in speed, smooth in motion, either angular or round in its corners, non-immersive in-depth and consistent in intensity. At higher dosages, it consistently results in states of [[Effect::Level 8B]] visual geometry over [[Level 8A]].\n\nIn comparison to LSD specifically, AL-LAD's geometry tends to be more rounded in its corners, slightly softer in its edges, warmer in hue, and slightly less intricate in its form. Aside from this, it is otherwise identical in its appearance.\n\n====Hallucinatory states====\nAL-LAD is capable of producing a full range of low and high level hallucinatory states in a fashion that is a less consistent and reproducible than that of many other commonly used psychedelics such as [[psilocin]] or [[DMT]] but considerably more likely to when compared to that of [[LSD]]. This can feel similar to the hallucinations which occur with [[4-AcO-DMT]] but tends to occur almost exclusively at [[heavy|heavier]] [[dosage|doses]]. Some of these effects include:\n\n*'''[[Effect::Machinescapes]]'''\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  This effect is very consistent in dark environments at appropriately high dosages. They can be comprehensively described through their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, autonomous in controllability, [[Geometry|geometry]]-based in style and occasionally of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n\n|{{effects/cognitive|\n\nIn comparison to other psychedelics such as [[psilocin]], [[LSA]] and [[ayahuasca]], AL-LAD is significantly more stimulating and fast-paced in terms of the specific style of thought stream which it produces and contains a large number of potential effects associated with both psychedelic tryptamines and phenethylamines. In comparison to [[LSD]], it is often reported to be less [[anxiety]]-provoking and generally more emotionally comfortable and forgiving. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]''' - This effect is consistent in its manifestation and [[outrospection]] dominant.\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This component is, generally speaking less consistent and pronounced than it is with substances like [[psilocybin]] and [[MDMA]]. The mental euphoria experienced on AL-LAD is usually simply due to an enhancement of the user’s current psychological and emotional state coupled with its more regularly occurring effect, [[physical euphoria]]. \n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - This effect is experienced exclusively on low or [[Dosage#Threshold|threshold]] dosages and feels less forced than it does with [[stimulants]]. \n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Synaesthesia]]''' -  In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states.\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Perception of eternalism]]'''\n*'''[[Effect::Perception of self-design]]'''\n*'''[[Effect::Perception of interdependent opposites]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Combination effects===\n\n*'''[[Alcohol]]''' - Alcohol's central depressant effects can counteract some of the anxiety and bodily tension produced by AL-LAD. However, alcohol can cause [[dehydration]], [[nausea]] and [[physical fatigue]] which can negatively impact the tone of the trip. Users are advised to pace themselves and drink a portion of their usual amount.\n*'''[[Benzodiazepines]]''' - Benzodiazepines are highly effective at reducing the intensity of AL-LAD's effects through the general suppression of brain activity.\n*'''[[Cannabis]]''' - Cannabis strongly intensifies the sensory and cognitive effects of AL-LAD. Extreme caution is advised when using this combination as it can significantly increase the chances of a negative psychological reaction like [[anxiety]], [[confusion]] and [[psychosis]]. Users are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits to avoid over intake.\n*'''[[Dissociatives]]''' - AL-LAD enhances the cognitive, visual and general hallucinatory effects of dissociatives. Dissociative-induced [[Visual_disconnection#Holes.2C_spaces_and_voids|holes, spaces, and voids]] and [[internal hallucinations]] become more vivid and intense on AL-LAD. These effects correspond with an increased risk of [[confusion]], [[delusions]], and [[psychosis]].\n*'''[[MDMA]]''' - AL-LAD and MDMA are highly synergistic and mutually enhance each other's physical, cognitive, and visual effects. The synergy between these substances is unpredictable so it is advised to start with markedly lower doses than one would take for each individually. There is some evidence that suggests that co-administration of LSD with MDMA increases the neurotoxicity of the latter,<ref>{{cite journal|last1=Armstrong|first1=B. D.|last2=Paik|first2=E.|last3=Chhith|first3=S.|last4=Lelievre|first4=V.|last5=Waschek|first5=J. A.|last6=Howard|first6=S. G.|year=2004|title=Potentiation of (DL)‐3,4‐methylenedioxymethamphetamine (MDMA)‐induced toxicity by the serotonin 2A receptior partial agonist d‐lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939|journal=Neuroscience Research Communications|volume=35|issue=2|pages=83-95|doi=10.1002/nrc.20023|issn=1520-6769}}</ref><ref>{{cite journal|last1=Gudelsky|first1=Gary A.|last2=Yamamoto|first2=Bryan|last3=Nash|first3=J. Frank|year=1994|title=Potentiation of 3,4-methylenedioxymethamphetamine-induced dopamine release and serotonin neurotoxicity by 5-HT2 receptor agonists|journal=European Journal of Pharmacology|volume=264|issue=3|pages=325-330|doi=10.1016/0014-2999(94)90669-6|issn=0014-2999}}</ref><ref>{{cite journal|last1=Capela|first1=J. P.|last2=Fernandes|first2=E.|last3=Remião|first3=F.|last4=Bastos|first4=M. L.|last5=Meisel|first5=A.|last6=Carvalho|first6=F.|year=2007|title=Ecstasy induces apoptosis via 5-HT<sub>2A</sub>-receptor stimulation in cortical neurons|journal=Neurotoxicology|volume=28|issue=4|pages=868-875|pmid=17572501|doi=10.1016/j.neuro.2007.04.005|issn=0161-813X}}</ref> and this may extend to AL-LAD.\n\n===Experience reports===\nThere are currently {{#ask:[[Category:AL-LAD]][[Category:Experience]] | format=count}} anecdotal reports which describe the effects of this compound within our [[experience index]].\n{{#ask: [[Category:AL-LAD]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_ALLAD.shtml Erowid Experience Vaults: AL-LAD]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational AL-LAD use do not seem to have been studied in any scientific context and the exact [[Toxicity::toxic dose is unknown]]. This is because AL-LAD is a [[research chemical]] with very little history of human usage. \n\nThe body of anecdotal reports suggests that there are no negative health effects attributed to simply trying the substance by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nAs with other psychedelic substances, there are relatively few physical side effects that have been reported associated with acute AL-LAD exposure. Although no formal studies have been conducted, it is likely that as with [[LSD]] itself, AL-LAD is able to be considered non-addictive, with an [[Toxicity::extremely low toxicity]] relative to dose.<ref>{{cite journal|last1=Passie|first1=T.|last2=Halpern|first2=J. H.|last3=Stichtenoth|first3=D. O.|last4=Emrich|first4=H. M.|last5=Hintzen|first5=A.|title=The Pharmacology of Lysergic Acid Diethylamide: A Review|url=http://www.maps.org/w3pb/new/2008/2008_Passie_23067_1.pdf|archive-url=https://web.archive.org/web/20130501033627/http://www.maps.org/w3pb/new/2008/2008_Passie_23067_1.pdf|archive-date=May 1, 2013|access-date=January 1, 2020|journal=CNS Neuroscience & Therapeutics|volume=14|pages=295–314|doi=10.1111/j.1755-5949.2008.00059.x|issn=1755-5930}}</ref> It is also likely that as with LSD, there are little to no negative physical, cognitive, psychiatric or other toxic consequences associated with acute AL-LAD exposure.  \n\nHowever, as with LSD and psychedelics in general, it is possible that AL-LAD can act as a potential trigger for those with underlying psychiatric conditions. Those with a personal or family history of mental illness are generally advised not to use this substance, particularly outside of a supervised medical setting. \n\nIt is strongly recommended that one uses [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAlthough no formal studies have been conducted, it is not unreasonable to assume that as with LSD itself, AL-LAD is [[Addiction potential::not habit-forming]] and that the desire to use it can actually decrease with use.\n\nTolerance to the effects of AL-LAD is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::5-7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). AL-LAD presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the use of AL-LAD all psychedelics will have a reduced effect.\n\n===Overdose===\nThe LD<sub>50</sub> of AL-LAD is unknown. Adverse psychological reactions are common especially at higher dosages. Some of these include [[anxiety]], [[delusions]], [[panic attacks]] and more rarely [[seizures]]. Medical attention is usually only needed if suspected of severe psychotic episodes or “fake acid” (such as [[25i-NBOMe]] or [[DOB]]). Administration of [[benzodiazepines]] or [[antipsychotics]] can help to relieve the negative cognitive effects of AL-LAD.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Psychedelics}}\n\n==Legal status==\nAL-LAD is currently a gray area compound within many parts of the world. This means that it is not known to be specifically illegal within most countries, but people may still be charged for its possession under certain circumstances such as under analog laws and with the intent to sell or consume.\n\n*'''Austria''': AL-LAD is technically not illegal but it may fall in the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich) as an analogue of LSD. {{citation needed}}\n*'''Denmark''': As of August 25, 2015, AL-LAD is specifically named on the list of illegal substances.<ref>{{cite web|url=https://laegemiddelstyrelsen.dk/da/nyheder/2015/bekendtgoerelse-om-euforiserende-stoffer-ni-nye-stoffer-tilfoejet|title=Bekendtgørelse om euforiserende stoffer - ni nye stoffer tilføjet|publisher=Lægemiddelstyrelsen [Danish Medicines Ageny]|date=August 31, 2015|access-date=January 1, 2020|language=da}}</ref>\n*'''Germany''': AL-LAD is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Japan''': AL-LAD is a controlled substance in Japan effective February 28th, 2020.<ref>{{cite web|url=https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/oshirase/20200228-1.html|title=指定薬物を指定する省令が公布されました|publisher=厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]|access-date=May 2, 2022|language=ja}}</ref>\n*'''Latvia''': AL-LAD is illegal in Latvia. Although it isn't officially scheduled, it is controlled as an LSD structural analog due to an amendment made on June 1, 2015.<ref>{{cite web|url=http://likumi.lv/doc.php?id=121086|title=Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem|publisher=VSIA Latvijas Vēstnesis|access-date=January 1, 2020|publication-date=November 10, 2005|language=lv}}</ref>\n*'''Sweden''': Following its sale as a [[designer drug]], AL-LAD was made illegal in Sweden on January 26, 2016.<ref>{{cite web|url=https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2016/januari/31-nya-substanser-klassas-som-narkotika-eller-halsofarlig-vara|title=31 nya substanser klassas som narkotika eller hälsofarlig vara|publisher=Folkhälsomyndigheten [Public Health Agency of Sweden]|access-date=January 1, 2020|publication-date=January 26, 2016|language=sv}}</ref>\n*'''Switzerland''': 21 substances, including AL-LAD, were added to the list of illegal substances including on December 1, 2015. It is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/official-compilation/2015/5093.pdf|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel,psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien: Änderung vom 2. November 2015|access-date=January 1, 2020|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|language=de}}</ref>\n*'''Turkey''': AL-LAD is illegal in Turkey as of February 2016.<ref>{{cite web|url=https://www.resmigazete.gov.tr/eskiler/2016/03/20160308-4.pdf|publisher=Resmi Gazete |access-date=January 15, 2020|language=tr|title=Karar Sayısı : 2016/8548}}</ref>\n*'''United Kingdom''': As of January 7, 2015, AL-LAD is specifically named in the U.K. Misuse of Drugs Act as a Class A controlled substance.<ref>{{cite web|url=https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/318693/UpdateGenericDefinitionTryptamines.pdf|title=Update of the generic definition for tryptamines|date=June 10, 2014|access-date=January 1, 2020|publisher=Government Digital Service|page=12|author=Advisory Council on the Misuse of Drugs}}</ref>\n*'''United States''': AL-LAD is unscheduled but can be considered to be an analogue of LSD, which would make it illegal to possess for human consumption under the Federal Analogue Act.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Psychedelics]]\n*[[ETH-LAD]]\n*[[ALD-52]]\n*[[LSZ]]\n*[[LSD]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/AL-LAD AL-LAD (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=tk&id=1 AL-LAD (TiHKAL / Isomer Design)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/679138-The-Big-amp-Dandy-AL-LAD-Thread-Part-1 The Big & Dandy AL-LAD Thread - Part 1 (Bluelight)]\n\n==Literature==\n\n*Hoffman, A. J., & Nichols, D. E. (1985). Synthesis and LSD-like discriminative stimulus properties in a series of N (6)-alkyl norlysergic acid N, N-diethylamide derivatives. Journal of Medicinal Chemistry, 28(9), 1252-1255. https://doi.org/10.1021/jm00147a022.\n*Watts, V. J., Mailman, R. B., Lawler, C. P., Neve, K. A., & Nichols, D. E. (1995). LSD and structural analogs: pharmacological evaluation at D1 dopamine receptors. Psychopharmacology, 118(4), 401-409. https://doi.org/10.1007/BF02245940.\n*Niwaguchi, T., Nakahara, Y., & Ishii, H. (1976). Studies on lysergic acid diethylamide and related compounds. IV. Syntheses of various amide derivatives of norlysergic acid and related compounds. Yakugaku Zasshi: Journal of the Pharmaceutical Society of Japan, 96(5), 673-678. PMID 987200.\n*Pfaff, R. C., Huang, X., Marona-Lewicka, D., Oberlender, R., & Nichols, D. E. (1994). [http://archives.drugabuse.gov/pdf/monographs/146.pdf Lysergamides Revisited.] NIDA Research Monograph, 146, 52-73. PMID: 8742794.\n\n==References==\n{{reflist|2}}\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Hallucinogen]]\n[[Category:Psychedelic]]\n[[Category:Lysergamide]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true\n|RN1=CH₂CH₃\n|RN2=CH₂CH₃\n|R1=\n|R2=\n|R6=CH₂-CH=CH₂\n}}\n{{#set:Featured=true}}"
+}

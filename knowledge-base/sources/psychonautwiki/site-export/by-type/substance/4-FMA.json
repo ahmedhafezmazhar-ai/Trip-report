@@ -1,0 +1,347 @@
+{
+ "id": "psychonautwiki:13629",
+ "type": "substance",
+ "title": "4-FMA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-FMA",
+  "pageid": 13629,
+  "last_edited": "2025-07-21T20:49:14Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 Chinese-language sources (zh)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/4-FMA",
+ "substance_box": {
+  "names": {
+   "common": "4-FMA",
+   "substitutive": "4-Fluoromethamphetamine",
+   "systematic": "1-(4-Fluorophenyl)-N-methylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "25 - 50 mg",
+    "common": "50 - 75 mg",
+    "strong": "100 - 125 mg",
+    "heavy": "125 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "20 - 40 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "2 - 5 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "3 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "4-FMA"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "25"
+   ],
+   "Oral max light dose": [
+    "50"
+   ],
+   "Oral min common dose": [
+    "50"
+   ],
+   "Oral max common dose": [
+    "75"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "125"
+   ],
+   "Oral heavy dose": [
+    "125"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "3"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 4-FMA",
+   "clean": "Molecular structure of 4-FMA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:4-FMA.svg",
+   "clean": "File:4-FMA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::4-FMA]]",
+   "clean": "4-FMA"
+  },
+  "NameSubstitution": {
+   "raw": "4-Fluoromethamphetamine",
+   "clean": "4-Fluoromethamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "1-(4-Fluorophenyl)-N-methylpropan-2-amine",
+   "clean": "1-(4-Fluorophenyl)-N-methylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::75]] mg",
+   "clean": "50 - 75 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::125]] mg",
+   "clean": "100 - 125 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::125]] mg +",
+   "clean": "125 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "3 - 12 hours"
+  }
+ },
+ "plain_text": "4-Fluoromethamphetamine (also known as 4-FMA) is a lesser-known novel stimulant-entactogen substance of the Substituted amphetamine class. 4-FMA is chemically related to 4-FA and methamphetamine. Little is known about its pharmacology, but it likely produces its effects by increasing levels of dopamine, norepinephrine, and serotonin in the brain.\n\n4-FMA was first detected being sold in Japan as a legal high in 2006. It has been sold online as a research chemical alongside 2-fluoroamphetamine (2-FA), 3-fluoroamphetamine (3-FA) and 4-fluoroamphetamine (4-FA). When 4-FA was made illegal in the Netherlands in 2017, 4-FMA grew in popularity as a legal substitute, due to their similar names and effects. In 2018, the number of analyzed 4-FA samples increasingly contained 4-FMA (and/or other fluorinated amphetamines) and the availability of actual 4-FA decreased sharply.\n\nUser reports describe the effects of 4-FMA as having characteristics of both traditional stimulants like amphetamine and entactogens like MDMA. Its effects have been described as subjectively lying between 4-FA and 2-FMA. It has been reported to be more likely to produce side effects like headaches and cardiovascular effects than similar substances.\n\nVery little is known about the pharmacological properties, metabolism, and toxicity of 4-FMA. 4-FMA use may produce dependence and abuse as well as damage to the brain and other organs. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\n4-Fluoromethamphetamine (4-FMA) is a synthetic molecule of the substituted amphetamine family. Molecules of this class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. The term \"amphetamine\" is the contracted form of . 4-fluoromethamphetamine contains a fluorine atom at R4 of its phenyl ring and is therefore a fluorinated analogue of methamphetamine.\n\nPharmacology\n\nSimilar to its structural analog 4-FA, 4-Fluoromethamphetamine is thought to act as a releasing agent and reuptake inhibitor of dopamine, serotonin, and norepinephrine, producing stimulating amphetamine-like effects at lower doses and more euphoric, entactogen effects similar to MDA at dosages above 125mg. Researchers have found some evidence that indicates some similarities between the \"Serotonin Release\" of 4-FMA and other popular empathogens such as: MDA, 4-Methylmethcathinone, and 4-fluoroamphetamine..  \n\nThe mechanism of action of 4-FMA effectively boosts the levels of the norepinephrine, dopamine, and serotonin neurotransmitters in higher doses in the brain by binding to and partially blocking the transporter proteins that normally clear these monoamines from the synaptic cleft. This allows dopamine, norepinephrine, and serotonin to accumulate within various regions of the brain, including its reward pathways, resulting in stimulating, euphoric and entactogenic effects.  \n\n4-FMA is a CYP450 inhibitor. It reduces the metabolism of methamphetamine, which has the effect of increasing its potency, duration and systemic toxicity while also reducing its cellular toxicity.  \n\nSubjective effects\n\nIn low doses, 4-FMA has been reported to be a lackluster nootropic for general productivity. Such usage would be strongly discouraged however, due to the increased risks for neurotoxicity and other dangerous side-effects. The reasoning for this warning is based on the studies showing that 4-FMA is similar to MDA, and belongs to the entactogen class. Using any entactogen frequently is considered dangerous, and it is seen as unwise to take \"microdoses\" below the minimum dose required to experience a \"roll\" with members of the entactogen class. At higher dosages, it is known to become dysfunctional and recreational due to the scattering quality of its euphoria and stimulation.\n\nSimilar to MDA, MDMA, 4-FA, and other substances that produce distinct pleasurable tactile \"roll\"-like sensations, which is typically linked to serotonin-releasing properties, 4-FMA has been reported to be able to produce similar entactogenic effects in addition to traditional stimulant ones. Some reports suggest it tends to come with more side effects and bodily strain than other fluorinated amphetamines, explaining its lack of popularity and availability.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: 4-Fluoromethamphetamine\n\nToxicity and harm potential\n\nDo not use 4-FMA if you have a history of heart-related issues or experience severe headache after its use. We have been made aware of a report released by Trimbos-instituut and Nationaal Vergiftigingen Informatie Centrum (NVIC), describing incidents of strokes after an increased use of the closely related analogue 4-FA, and there is no reason this does not apply to 4-FMA as well. In addition to the common amphetamine-like effects (agitation, anxiety, tachycardia, hypertension, chest pain et al.), serious cardio- and cerebrovascular complications have been reported, including rhythm (sinus arrhythmia, ventricular extrasystoles (bigeminy), conduction disturbances) and acute cardiac failure. Although a causal relationship has not been confirmed, when presented with a severe headache and lateralization after 4-FA usage, a medical evaluation at an emergency department should be conducted immediately. \n\nThe toxicity and long-term health effects of recreational 4-FMA use has not been studied in any scientific context and the exact toxic dosage is unknown. This is because 4-FMA has very little history of human usage. Anecdotal evidence suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nThe LD50 (mouse; i.p.) of 4-FMA is unknown. While 4-FA does not cause long-lasting depletion of brain serotonin unlike MDMA or 4-FA's analogs 4-CA and 4-BA, it is unknown whether this also applies to 4-FMA as well. \n\n4-FMA is reported to be particularly caustic in comparison to other compounds and can, therefore, cause chemical burns within the nasal passage and throat if it is insufflated.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of 4-FMA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-FMA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). This is how long it takes to reduce the tolerance for the stimulating effects. Tolerance for the entactogenic effects may take a longer period to reduce. 4-FA presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 4-FMA all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use.\n\nDangerous interactions\n\nLegal status\n\n*Australia: 4-FMA is a Schedule 9 prohibited substance in Australia under the Poisons Standard (February 2021). A Schedule 9 substance is defined as a substance which may be abused or misused, the manufacture, possession, sale or use of which should be prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.\n*Austria: 4-FMA is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Canada: 4-FMA would be considered Schedule I as it is an analogue of Amphetamine.\n*China: As of October 2015 4-FMA is a controlled substance in China.\n*France: As of december 2024, 4-FMA is not explicitly scheduled. It is thus legal to possess, although in a grey area.\n*Germany: 4-FMA is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of July 26, 2012. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*New Zealand: 4-FMA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.\n*Switzerland: 4-FMA is a controlled substance specifically named under Verzeichnis E.\n*The Netherlands: 4-FMA is a controlled substance as of July 1, 2025. \n*United Kingdom: 4-FMA is a Class A drug under the Misuse of Drugs Act. 4-FMA is covered by the 1977 addition to the Misuse of Drugs Act of 1971.\n*Italy: 4-FMA is a Schedule I controlled substance.\n\nSee also\n\n*Responsible use\n*Research chemicals\n*Stimulants\n*Substituted amphetamine\n*Methamphetamine\n*4-FA\n\nExternal links\n\n*4-FMA (Wikipedia)\n*4-FMA (Isomer Design)\n\nDiscussion\n\n*4-fluoromethamphetamine (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Amphetamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/4-FMA}}\n\n'''4-Fluoromethamphetamine''' (also known as '''4-FMA''') is a lesser-known novel [[Psychoactive class::stimulant]]-[[Psychoactive class::entactogen]] substance of the [[Chemical class::Substituted amphetamine|amphetamine]] class. 4-FMA is chemically related to [[4-FA]] and [[methamphetamine]]. Little is known about its pharmacology, but it likely produces its effects by increasing levels of [[dopamine]], [[norepinephrine]], and [[serotonin]] in the brain.\n\n4-FMA was first detected being sold in Japan as a legal high in 2006.<ref>{{cite journal | vauthors=((Nagashima, M.)), ((Seto, T.)), ((Takahashi, M.)), ((Suzuki, J.)), ((Yasuda, I.)) | journal=Annu. Rep. Tokyo Metr. Inst. Public Health | title=Spectrum Data of the 3rd Governor-designated Drugs and the Analyses of Uncontrolled Drugs Purchased | volume=57 | pages=109–113 | date= 2006}}</ref> It has been sold online as a [[research chemical]] alongside [[2-FA|2-fluoroamphetamine]] (2-FA), 3-fluoroamphetamine (3-FA) and [[4-FA|4-fluoroamphetamine]] (4-FA).<ref>{{cite journal | vauthors=((Nagai, F.)), ((Nonaka, R.)), ((Satoh Hisashi Kamimura, K.)) | journal=European Journal of Pharmacology | title=The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain | volume=559 | issue=2–3 | pages=132–137 | date=22 March 2007 | issn=0014-2999 | doi=10.1016/j.ejphar.2006.11.075}}</ref><ref>{{cite journal | vauthors=((Rösner, P.)), ((Quednow, B.)), ((Girreser, U.)), ((Junge, T.)) | journal=Forensic Science International | title=Isomeric fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs) | volume=148 | issue=2–3 | pages=143–156 | date=10 March 2005 | issn=0379-0738 | doi=10.1016/j.forsciint.2004.05.003}}</ref> When 4-FA was made illegal in the Netherlands in 2017, 4-FMA grew in popularity as a legal substitute, due to their similar names and effects.<ref>https://www.drugs-test.nl/nieuws-detail/?bericht=92</ref> In 2018, the number of analyzed 4-FA samples increasingly contained 4-FMA (and/or other fluorinated amphetamines) and the availability of actual 4-FA decreased sharply.<ref>{{Citation |title=(Annual Report 2018, section: 4-FA) |url=https://www.drugs-test.nl/publicaties-dims/jaarberichten}}</ref>\n\nUser reports describe the effects of 4-FMA as having characteristics of both traditional stimulants like [[amphetamine]] and [[entactogens]] like [[MDMA]]. Its effects have been described as subjectively lying between [[4-FA]] and [[2-FMA]]. It has been reported to be more likely to produce side effects like [[headaches]] and cardiovascular effects than similar substances.\n\nVery little is known about the pharmacological properties, metabolism, and toxicity of 4-FMA. 4-FMA use may produce dependence and abuse as well as damage to the brain and other organs. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n4-Fluoromethamphetamine (4-FMA) is a synthetic molecule of the [[substituted amphetamine]] family. Molecules of this class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. The term \"amphetamine\" is the contracted form of {{nowrap|<u>a</u>lpha</u>-methyl<u>phen</u>e<u>t</u>hyl<u>amine</u>}}. 4-fluoromethamphetamine contains a fluorine atom at R<sub>4</sub> of its phenyl ring and is therefore a fluorinated analogue of methamphetamine.\n\n==Pharmacology==\nSimilar to its structural analog [[4-FA]], 4-Fluoromethamphetamine is thought to act as a releasing agent and reuptake inhibitor of [[dopamine]], [[serotonin]], and [[norepinephrine]], producing stimulating amphetamine-like effects at lower doses and more euphoric, [[entactogen]] effects similar to MDA at dosages above 125mg.{{opinion}} Researchers have found some evidence that indicates some similarities between the \"Serotonin Release\" of 4-FMA and other popular empathogens such as: [[MDA]], [[Mephedrone|4-Methylmethcathinone]], and [[4-FA|4-fluoroamphetamine]].<ref>{{cite journal | vauthors=((Rickli, A.)), ((Hoener, M. C.)), ((Liechti, M. E.)) | journal=European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology | title=Monoamine transporter and receptor interaction profiles of novel psychoactive substances: para-halogenated amphetamines and pyrovalerone cathinones | volume=25 | issue=3 | pages=365–376 | date= March 2015 | issn=1873-7862 | doi=10.1016/j.euroneuro.2014.12.012}}</ref>.  \n\nThe mechanism of action of 4-FMA effectively boosts the levels of the norepinephrine, dopamine, and serotonin [[neurotransmitters]] in higher doses in the brain by binding to and partially blocking the transporter proteins that normally clear these monoamines from the synaptic cleft. This allows dopamine, norepinephrine, and serotonin to accumulate within various regions of the brain, including its reward pathways, resulting in stimulating, euphoric and [[entactogen]]ic effects.<ref>{{cite journal | vauthors=((Fuller, R. W.)), ((Baker, J. C.)), ((Perry, K. W.)), ((Molloy, B. B.)) | journal=Neuropharmacology | title=Comparison of 4-chloro-, 4-bromo- and 4-fluoroamphetamine in rats: Drug levels in brain and effects on brain serotonin metabolism | volume=14 | issue=10 | pages=739–746 | date=1 October 1975 | url=https://www.sciencedirect.com/science/article/pii/0028390875900994 | issn=0028-3908 | doi=10.1016/0028-3908(75)90099-4}}</ref><ref>{{cite journal | vauthors=((Nagai, F.)), ((Nonaka, R.)), ((Satoh Hisashi Kamimura, K.)) | journal=European Journal of Pharmacology | title=The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain | volume=559 | issue=2 | pages=132–137 | date=22 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0014299906013811 | issn=0014-2999 | doi=10.1016/j.ejphar.2006.11.075}}</ref>  \n\n4-FMA is a CYP450 inhibitor. It reduces the metabolism of methamphetamine, which has the effect of increasing its potency, duration and systemic toxicity while also reducing its cellular toxicity.<ref>{{cite journal | vauthors=((Cherner, M.)), ((Bousman, C.)), ((Everall, I.)), ((Barron, D.)), ((Letendre, S.)), ((Vaida, F.)), ((Atkinson, J. H.)), ((Heaton, R.)), ((Grant, I.)), ((Group, T. H.)) | journal=Journal of the International Neuropsychological Society | title=Cytochrome P450-2D6 extensive metabolizers are more vulnerable to methamphetamine-associated neurocognitive impairment: Preliminary findings | volume=16 | issue=5 | pages=890–901 | date= September 2010 | url=https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/abs/cytochrome-p4502d6-extensive-metabolizers-are-more-vulnerable-to-methamphetamineassociated-neurocognitive-impairment-preliminary-findings/FB5B886545B54DEEE32FBDDFEF3F4D04 | issn=1469-7661 | doi=10.1017/S1355617710000779}}</ref>  \n\n==Subjective effects==\nIn low doses, 4-FMA has been reported to be a lackluster [[nootropic]] for general productivity.{{citation needed}} Such usage would be strongly discouraged however, due to the increased risks for neurotoxicity and other dangerous side-effects. The reasoning for this warning is based on the studies showing that 4-FMA is similar to [[MDA]], and belongs to the [[entactogen]] class. Using any entactogen frequently is considered dangerous, and it is seen as unwise to take \"microdoses\" below the minimum dose required to experience a \"roll\" with members of the [[entactogen]] class. At higher dosages, it is known to become dysfunctional and recreational due to the scattering quality of its [[euphoria]] and [[stimulation]].{{citation needed}}\n\nSimilar to [[MDA]], [[MDMA]], [[4-FA]], and other substances that produce distinct pleasurable tactile \"roll\"-like sensations, which is typically linked to serotonin-releasing properties, 4-FMA has been reported to be able to produce similar [[entactogen]]ic effects in addition to traditional stimulant ones. Some reports suggest it tends to come with more side effects and bodily strain than other fluorinated amphetamines, explaining its lack of popularity and availability.<ref>{{Citation | vauthors=peskypenguins | year=2016 | title=4-FMA short response | url=https://www.reddit.com/r/researchchemicals/comments/57fpu3/4fma_short_response/}}</ref>\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]'''{{citation needed}} - The stimulation which 4-FMA presents can be described as being a mix between a typical [[entactogen]] stimulation and the stimulation style of [[Methamphetamine]].\n*'''[[Effect::Tactile enhancement]]''' - This component, relative to other fluorinated amphetamines like [[2-FA]] or [[3-FA]], has been reported to be a distinct aspect of the experience.\n*'''[[Effect::Physical euphoria]]''' - This effect is extremely intense when compared to its physical stimulation.\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Bronchodilation]]''' \n*'''[[Effect::Pupil dilation]]''' \n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Dehydration]]'''{{citation needed}}\n*'''[[Effect::Increased perspiration]]'''{{citation needed}}\n*'''[[Effect::Increased bodily temperature]]'''  \n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Vibrating vision]]'''\n*'''[[Effect::Restless leg syndrome]]'''\n*'''[[Effect::Tremor]]''' - This effect is distinctly present at doses above 150mg\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Dizziness]]'''{{citation needed}}\n*'''[[Effect::Abnormal heartbeat]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - This effect has been reported to occur a series of euphoric waves that recede and reappear randomly throughout the experience. It is distinctly present at dosages above 100mg.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - Varying reports differ on the level of this effect, with some reports comparing [[4-FA]] and others comparing [[MDMA]].\n*'''[[Effect::Immersion enhancement]]''' \n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Motivation enhancement]]''''\n*'''[[Effect::Disinhibition]]''' \n*'''[[Effect::Delusion]]''' - As with most potent stimulants, 4-FMA has been reported as having the capacity to produce delusional ideation. However, it is not clear if this occurs in a context unique to the effects of 4-FMA.\n*'''[[Effect::Ego inflation]]''' - Some users have reported that this component is distinct, although it is not clear how it compares to other substituted and non-substituted amphetamines.\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Paranoia]]''' - As with most strong stimulants, 4-FMA has been reported to produce states of paranoia, although it is not clear to which extent this happens relative to other stimulants and under what conditions.\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Psychosis]]'''  \n*'''[[Effect::Suicidal ideation]]''' \n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_4Fluoromethamphetamine.shtml Erowid Experience Vaults: 4-Fluoromethamphetamine]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\n'''Do not use 4-FMA if you have a history of heart-related issues or experience severe headache after its use.''' We have been made aware of a report released by Trimbos-instituut<ref>{{Citation | title=Voor mentale gezondheid | url=https://www.trimbos.nl/}}</ref> and Nationaal Vergiftigingen Informatie Centrum<ref>{{Citation | title=Vergiftigingen.info - Home | url=https://www.vergiftigingen.info}}</ref> (NVIC), describing incidents of strokes after an increased use of the closely related analogue 4-FA, and there is no reason this does not apply to 4-FMA as well. In addition to the common amphetamine-like effects (agitation, anxiety, tachycardia, hypertension, chest pain et al.), serious cardio- and cerebrovascular complications have been reported, including rhythm (sinus arrhythmia, ventricular extrasystoles (bigeminy), conduction disturbances) and acute cardiac failure. Although a causal relationship has not been confirmed, when presented with a severe headache and lateralization after 4-FA usage, a medical evaluation at an emergency department should be conducted immediately. <ref>https://psychonautwiki.org/wiki/File:Behandeling-4-fa-intoxicatie.pdf</ref>\n\nThe toxicity and long-term health effects of recreational 4-FMA use has not been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 4-FMA has very little history of human usage. Anecdotal evidence suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nThe [[LD50|LD<sub>50</sub>]] (mouse; i.p.) of 4-FMA is unknown. While 4-FA does not cause long-lasting depletion of brain [[serotonin]] unlike [[MDMA]] or [[4-FA]]'s analogs [[4-CA]] and [[4-BA]], it is unknown whether this also applies to 4-FMA as well. \n\n4-FMA is reported to be particularly caustic in comparison to other compounds and can, therefore, cause chemical burns within the nasal passage and throat if it is [[insufflated]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of 4-FMA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-FMA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). This is how long it takes to reduce the tolerance for the stimulating effects. Tolerance for the [[Empathy, love, and sociability enhancement|entactogenic effects]] may take a longer period to reduce. 4-FA presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of 4-FMA all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\"/><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\"/> Psychosis very rarely arises from therapeutic use.<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Australia''': 4-FMA is a Schedule 9 prohibited substance in Australia under the Poisons Standard (February 2021).<ref name=\":0\">{{Citation | title=Poisons Standard February 2021 | url=https://www.legislation.gov.au/Details/F2021C00098/}}</ref> A Schedule 9 substance is defined as a substance which may be abused or misused, the manufacture, possession, sale or use of which should be prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.<ref name=\":0\" />\n*'''Austria''': 4-FMA is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Canada''': 4-FMA would be considered Schedule I as it is an analogue of Amphetamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''China''': As of October 2015 4-FMA is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>\n*'''France''': As of december 2024, 4-FMA is not explicitly scheduled. It is thus legal to possess, although in a grey area.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 4-FMA is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of July 26, 2012.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl112s1639.pdf%27%5D|title=Sechsundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''New Zealand''': 4-FMA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html}}</ref>\n*'''Switzerland''': 4-FMA is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''The Netherlands:''' 4-FMA is a controlled substance as of July 1, 2025. <ref>{{Citation|title= Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden. | year=2025|url=https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs}}</ref>\n*'''United Kingdom''': 4-FMA is a Class A drug under the Misuse of Drugs Act. 4-FMA is covered by the 1977 addition to the Misuse of Drugs Act of 1971.{{citation needed}}\n*'''Italy''': 4-FMA is a Schedule I controlled substance.<ref>Tabella delle sostanze stupefacenti e psicotrope (in italian), Tabella 1, pagina 3 [http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf]</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemicals]]\n*[[Stimulants]]\n*[[Substituted amphetamine]]\n*[[Methamphetamine]]\n*[[4-FA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/4-Fluoromethamphetamine 4-FMA (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2133 4-FMA (Isomer Design)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/356585-4-fluoromethamphetamine 4-fluoromethamphetamine (Bluelight)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Amphetamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

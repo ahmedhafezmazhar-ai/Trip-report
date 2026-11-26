@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13402",
+ "type": "substance-summary",
+ "title": "Buprenorphine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Buprenorphine/Summary",
+  "pageid": 13402,
+  "last_edited": "2016-11-30T23:08:38Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Buprenorphine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Buprenorphine}}"
+}

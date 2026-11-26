@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10881",
+ "type": "substance-summary",
+ "title": "Cannabis/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabis/Summary",
+  "pageid": 10881,
+  "last_edited": "2015-11-13T05:47:03Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Cannabis",
+ "plain_text": "",
+ "wikitext": "{{Summary|Cannabis}}"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:6416",
+ "type": "substance-class",
+ "title": "Substituted piperidines",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Substituted_piperidines",
+  "pageid": 6416,
+  "last_edited": "2020-09-24T23:37:59Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "Chemical class",
+  "Piperidine",
+  "Stub"
+ ],
+ "plain_text": "thumb|130px|right|Molecular structure of a piperidine ring\nSubstituted piperidines refers to a class of compounds which can produce stimulant, analgesic or dissociative effects.\n\nChemistry\n\nPiperidine is an organic, heterocyclic compound consisting of a six-membered ring containing one amine (nitrogen) constituent. Its ring is fully saturated, and contains no double bonds. Piperidine is a staple component for the synthesis of complex drugs and chemicals.\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy and half-life.\n\nDerivatives\n\nPharmacology\n\nPiperidines include compounds which can produce a variety of pharmacological effects. Many have been demonstrated to interact with NMDA receptors and inhibit re-uptake of dopamine and norepinephrine.\n\nSee also\n\n*Responsible use\n*Glutamate\n*Dopamine\n*Serotonin\n\nReferences\n\nCategory:Chemical class\n*",
+ "wikitext": "{{stub}}\n[[File:Piperidine.svg|thumb|130px|right|Molecular structure of a ''piperidine'' ring]]\n'''Substituted piperidines''' refers to a class of compounds which can produce [[stimulant]], [[pain relief|analgesic]] or [[dissociative]] effects.\n\n==Chemistry==\nPiperidine is an organic, heterocyclic compound consisting of a six-membered ring containing one amine (nitrogen) constituent. Its ring is fully saturated, and contains no double bonds. Piperidine is a staple component for the synthesis of complex drugs and chemicals.\n\nHydrogen atoms around the structure can be substituted for other functional groups to produce drugs of varying potency, affinity, efficacy and half-life.\n===Derivatives===\n{{#ask: [[Category:Piperidine]]\n|format=ul\n|columns=1\n}}\n==Pharmacology==\n{{pharmacology}}\nPiperidines include compounds which can produce a variety of pharmacological effects. Many have been demonstrated to interact with [[Glutamate#The glutamate system|NMDA receptors]] and inhibit re-uptake of [[dopamine]] and [[norepinephrine]].\n\n==See also==\n*[[Responsible use]]\n*[[Glutamate]]\n*[[Dopamine]]\n*[[Serotonin]]\n==References==\n{{references}}\n\n[[Category:Chemical class]]\n[[Category:Piperidine|*]]"
+}

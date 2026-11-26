@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19825",
+ "type": "substance-summary",
+ "title": "PPAP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PPAP/Summary",
+  "pageid": 19825,
+  "last_edited": "2021-12-28T11:44:15Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "PPAP",
+ "plain_text": "",
+ "wikitext": "{{Summary|PPAP}}"
+}

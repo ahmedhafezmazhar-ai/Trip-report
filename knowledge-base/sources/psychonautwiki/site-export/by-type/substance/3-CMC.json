@@ -1,0 +1,680 @@
+{
+ "id": "psychonautwiki:19940",
+ "type": "substance",
+ "title": "3-CMC",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-CMC",
+  "pageid": 19940,
+  "last_edited": "2026-07-07T23:02:19Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements"
+ ],
+ "substance_box_template": "SubstanceBox/3-CMC",
+ "substance_box": {
+  "names": {
+   "common": "3-CMC, Clophedrone",
+   "substitutive": "3-Chloromethcathinone",
+   "systematic": "1-(3-Chlorophenyl)-2-(methylamino)-1-propanone"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "30 mg",
+    "light": "30 - 60 mg",
+    "common": "60 - 100 mg",
+    "strong": "100 - 180 mg",
+    "heavy": "180 - 250 mg +",
+    "duration": "1 - 5 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "5 - 15 minutes",
+    "peak": "20 - 120 minutes",
+    "offset": "1 - 3 hours",
+    "aftereffects": "2 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "This route causes instant inflammation in the nasal cavities and is not recommended.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "20 mg",
+    "light": "20 - 50 mg",
+    "common": "50 - 85 mg",
+    "strong": "85 - 130 mg",
+    "heavy": "130-200 mg +",
+    "duration": "1 - 4 hours",
+    "onset": "5 - 8 minutes",
+    "comeup": "1 - 5 minutes",
+    "peak": "20 - 90 minutes",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 1.5 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "This route is not recommended as the drug is very damaging to mucus.",
+    "collapsed": "true",
+    "bioavailability": "~ +90%",
+    "threshold": "30 mg",
+    "light": "30 - 40 mg",
+    "common": "40 - 80 mg",
+    "strong": "80 - 120 mg",
+    "heavy": "120-180 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "1 - 15 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "20 - 60 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "60 - 90 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "3-CMC",
+    "Clophedrone"
+   ],
+   "systematic name": [
+    "1-(3-Chlorophenyl)-2-(methylamino)-1-propanone"
+   ],
+   "Psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Cathinone"
+   ],
+   "Oral threshold dose": [
+    "30"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "30"
+   ],
+   "Oral max light dose": [
+    "60"
+   ],
+   "Oral min common dose": [
+    "60"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "180"
+   ],
+   "Oral heavy dose": [
+    "180 - 250"
+   ],
+   "Oral min total time": [
+    "1"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "5"
+   ],
+   "Oral max comeup time": [
+    "15"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "20"
+   ],
+   "Oral max peak time": [
+    "120"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "20"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "20"
+   ],
+   "Insufflated max light dose": [
+    "50"
+   ],
+   "Insufflated min common dose": [
+    "50"
+   ],
+   "Insufflated max common dose": [
+    "85"
+   ],
+   "Insufflated min strong dose": [
+    "85"
+   ],
+   "Insufflated max strong dose": [
+    "130"
+   ],
+   "Insufflated heavy dose": [
+    "130-200"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "8"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "1"
+   ],
+   "Insufflated max comeup time": [
+    "5"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "20"
+   ],
+   "Insufflated max peak time": [
+    "90"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "2"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "1.5"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Rectal threshold dose": [
+    "30"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "30"
+   ],
+   "Rectal max light dose": [
+    "40"
+   ],
+   "Rectal min common dose": [
+    "40"
+   ],
+   "Rectal max common dose": [
+    "80"
+   ],
+   "Rectal min strong dose": [
+    "80"
+   ],
+   "Rectal max strong dose": [
+    "120"
+   ],
+   "Rectal heavy dose": [
+    "120-180"
+   ],
+   "Rectal min total time": [
+    "1"
+   ],
+   "Rectal max total time": [
+    "2"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "1"
+   ],
+   "Rectal max onset time": [
+    "15"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "5"
+   ],
+   "Rectal max comeup time": [
+    "10"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "20"
+   ],
+   "Rectal max peak time": [
+    "60"
+   ],
+   "Rectal peak time units": [
+    "minutes"
+   ],
+   "Rectal min offset time": [
+    "30"
+   ],
+   "Rectal max offset time": [
+    "90"
+   ],
+   "Rectal offset time units": [
+    "minutes"
+   ],
+   "Rectal min afterglow time": [
+    "60"
+   ],
+   "Rectal max afterglow time": [
+    "90"
+   ],
+   "Rectal afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Skeletal structure of 3-CMC",
+   "clean": "Skeletal structure of 3-CMC"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:3-CMC.svg",
+   "clean": "File:3-CMC.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::3-CMC]], [[common name::Clophedrone]]",
+   "clean": "3-CMC, Clophedrone"
+  },
+  "NameSubstitution": {
+   "raw": "3-Chloromethcathinone",
+   "clean": "3-Chloromethcathinone"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::1-(3-Chlorophenyl)-2-(methylamino)-1-propanone]]",
+   "clean": "1-(3-Chlorophenyl)-2-(methylamino)-1-propanone"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]] / [[Psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cathinone]]",
+   "clean": "Cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::30]] [[Oral dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::30]] - [[Oral max light dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::60]] - [[Oral max common dose::100]] mg",
+   "clean": "60 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::180]] mg",
+   "clean": "100 - 180 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::180 - 250]] mg +",
+   "clean": "180 - 250 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "1 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::5]] - [[Oral max comeup time::15]] [[Oral comeup time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::20]] - [[Oral max peak time::120]] [[Oral peak time units::minutes]]",
+   "clean": "20 - 120 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "This route causes instant inflammation in the nasal cavities and is not recommended.",
+   "clean": "This route causes instant inflammation in the nasal cavities and is not recommended."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::20]] [[Insufflated dose units::mg]]",
+   "clean": "20 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::20]] - [[Insufflated max light dose::50]] mg",
+   "clean": "20 - 50 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::50]] - [[Insufflated max common dose::85]] mg",
+   "clean": "50 - 85 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::85]] - [[Insufflated max strong dose::130]] mg",
+   "clean": "85 - 130 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::130-200]] mg +",
+   "clean": "130-200 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::8]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 8 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::1]] - [[Insufflated max comeup time::5]] [[Insufflated comeup time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::20]] - [[Insufflated max peak time::90]] [[Insufflated peak time units::minutes]]",
+   "clean": "20 - 90 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::2]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::1.5]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "This route is not recommended as the drug is very damaging to mucus.",
+   "clean": "This route is not recommended as the drug is very damaging to mucus."
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "~ +90%",
+   "clean": "~ +90%"
+  },
+  "RectalROA_Threshold": {
+   "raw": "[[Rectal threshold dose::30]] [[Rectal dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::30]] - [[Rectal max light dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::40]] - [[Rectal max common dose::80]] mg",
+   "clean": "40 - 80 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::80]] - [[Rectal max strong dose::120]] mg",
+   "clean": "80 - 120 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::120-180]] mg +",
+   "clean": "120-180 mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::1]] - [[Rectal max total time::2]] [[Rectal total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::1]] - [[Rectal max onset time::15]] [[Rectal onset time units::minutes]]",
+   "clean": "1 - 15 minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::5]] - [[Rectal max comeup time::10]] [[Rectal comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::20]] - [[Rectal max peak time::60]] [[Rectal peak time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::30]] - [[Rectal max offset time::90]] [[Rectal offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::60]] - [[Rectal max afterglow time::90]] [[Rectal afterglow time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  }
+ },
+ "plain_text": "3-Chloromethcathinone (also known as 3-CMC or clophedrone ) is a novel stimulant-entactogen substance of the cathinone class. It is the β-keto analog of 3-chloromethamphetamine (3-CMA) and structurally similar to the antidepressant and smoking cessation medication bupropion. The subjective effects are reported to be similar, but weaker, to those of 3-MMC. This mostly includes stimulation, anxiety suppression, disinhibition, enhanced empathy and sociability, relaxation, increased libido, and euphoria. It is also reported to be subject to compulsive redosing which can lead to psychosis and habitual use.\n\nHistory and culture\n\n3-CMC has been sold online on the research chemical market as a designer drug since 2013 in mainly European countries. 3-CMC has been marketed as the legal successor of 3-MMC in the Netherlands since its ban in October 2021 .\n\nPharmacology\n\nThe pharmacology of 3-CMC has not been fully studied, however it is known to promote the release of dopamine, noradrenaline and serotonin similar to other substituted methcathinones. \n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 3-CMC\n\nToxicity and harm potential\n\n3-CMC's isomer 4-CMC is a known neurotoxin, and research shows that 3-CMC is neurotoxic in mice. If 3-CMC's mechanism of action is inherently neurotoxic then damage to human health may be incurred even at moderate recreational doses. Anecdotal reports mention highly concerning cardiovascular and neurological symptoms after frequent or high-dose use, which seems to confirm this suspicion.\n\nIt is strongly advised to avoid this substance completely. Use excessive harm reduction practices if planning on using this substance, and avoid redosing.\n\nLegal status\n\nWhile 3-CMC is not controlled under the United Nations Single Convention on Narcotic Drugs, 1961, nor under the Convention on Psychotropic Substances of 1971. it is subject to restrictive measures in 21 Member States of the European Union: Croatia, Czechia, Denmark, Estonia, France, Italy, Ireland, Latvia, Poland, Portugal, Slovenia, Slovakia, and Sweden. \n\n*China: Is considered a narcotic substance since 2015\n*France: As a derivative of cathinone with a halogen substitution on the phenyl group, 3-CMC is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*The Netherlands: Since 2023-09-12, 3-CMC is classified as a \"List 1\" drug which makes it illegal.\n*Poland: Is considered a narcotic substance since 2017. \n\nSee also\n\n*Responsible use\n*Stimulant\n*Substituted cathinones\n*3-MMC\n*4-MMC\n\nExternal links\n\n*3-CMC (Wikipedia)\n*3-CMC (Isomer Design)\n\nReferences\n\nAdded & revised subjective effects. Chinker24 (talk) 00:11, 19 January 2023 (UTC)\nAdded legal status User:Bernkastel - needs to be conventionalized.",
+ "wikitext": "{{Headerpanel|{{Warning/3-CMC}}}}\n{{SubstanceBox/3-CMC}}\n'''3-Chloromethcathinone''' (also known as '''3-CMC''' or '''clophedrone''' <ref>WRZESIEŃ, W., STANASZEK, R., ZUBA, D., BYRSKA, B. (2018). Clandestine laboratory producing mephedrone (4-MMC) and Clephedrone (4-CMC) – substance, identification and hazard analysis, 40, 287-309. <nowiki>http://www.forensicscience.pl/pfs/115_Wrzesien_m.pdf</nowiki>.</ref>) is a novel [[psychoactive class::stimulant]]-[[psychoactive class::entactogen]] substance of the [[chemical class::cathinone]] class. It is the β-keto analog of 3-chloromethamphetamine (3-CMA) and structurally similar to the antidepressant and smoking cessation medication [[Talk:Bupropion|bupropion]]. The [[subjective effects]] are reported to be similar, but weaker, to those of 3-MMC. This mostly includes [[stimulation]], [[anxiety suppression]], [[disinhibition]], [[empathy, affection, and sociability enhancement|enhanced empathy and sociability]], [[muscle relaxation|relaxation]], [[increased libido]], and [[euphoria]]. It is also reported to be subject to [[compulsive redosing]] which can lead to [[psychosis]] and habitual use.\n\n==History and culture==\n3-CMC has been sold online on the [[research chemical]] market as a [[designer drug]] since 2013 in mainly European countries<ref>{{cite journal | vauthors = Odoardi S, Romolo FS, Strano-Rossi S | title = A snapshot on NPS in Italy: Distribution of drugs in seized materials analyzed in an Italian forensic laboratory in the period 2013-2015 | journal = Forensic Science International | volume = 265 | pages = 116–20 | date = August 2016 | pmid = 26874736 | doi = 10.1016/j.forsciint.2016.01.037 }}</ref>. 3-CMC has been marketed as the legal successor of [[3-MMC]] in the Netherlands since its ban in October 2021 <ref>[https://www.tubantia.nl/enschede/tactus-verslavingszorg-is-bezorgd-want-de-verboden-partydrug-3-mmc-heeft-al-een-legale-opvolger-3-cmc~a3acd662/ ''Tactus Verslavingszorg is bezorgd, want de verboden partydrug 3-MMC heeft al een legale opvolger: 3-CMC'']</ref>.\n\n==Pharmacology==\nThe pharmacology of 3-CMC has not been fully studied, however it is known to promote the release of [[dopamine]], [[noradrenaline]] and [[serotonin]] similar to other substituted methcathinones.<ref>National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224711, Source: ChEMBL. Retrieved January 16, 2022 from <nowiki>https://pubchem.ncbi.nlm.nih.gov/bioassay/1224711</nowiki>.</ref> <ref>National Center for Biotechnology Information (2022). PubChem Bioassay Record for AID 1224713, Source: ChEMBL. Retrieved January 16, 2022 from <nowiki>https://pubchem.ncbi.nlm.nih.gov/bioassay/1224713</nowiki>.</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - The stimulation is heavily increased when combined with alcohol, however, this is not recommended due to its potential for harm. Paradoxically, the stimulation may be less pronounced at higher doses.\n*'''[[Effect::Spontaneous bodily sensations]]''' \n**'''[[Effect::Physical euphoria]]''' - This is more likely to occur in higher doses, or when taken orally.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n**'''[[Effect::Increased heart rate]]'''\n**'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Vasoconstriction]]''' - This is reported to be less pronounced with an oral ROA at low - medium doses.\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Cognitive euphoria]]''' - Similar to the [[physical euphoria]], this is more likely to occur in higher doses, or when taken orally.\n*'''[[Effect::Compulsive redosing]]''' - Be careful if redosing this substance as it can lead to extreme cases of vasoconstriction.\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Decreased libido]]''' *'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Uncomfortable physical effects]]'''\n*'''[[Effect::Psychosis]]'''\n**'''[[Effect::Paranoia]]'''\n**'''[[Effect::Delusions]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Memory suppression]]''' - After a few doses, memory becomes impaired in fashion to the MDMA comedown, if more doses are ingested it can be hard to even remember what you are talking about mid sentence.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Confusion]]''' - This can be described as being \"fried\" and it can be hard to even form thoughts properly. This effect usually appears at higher dosage after the first or second peak has passed.\n\n}}\n{{effects/aftereffects|\n\n*'''[[Delusions]]'''\n**'''[[Effect::Anxiety]]''' - Can cause severe anxiety, especially if coupled with [[psychosis]] or repeated dosages.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Cognitive fatigue]]'''\n*'''[[Effect::Low blood pressure]]''' - This effect is reported by some experience reports, the cathinone family's known vasoconstriction coupled with this can lead to numbness and pale face and hands.\n\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:3-CMC (experience)]][[Category:Experience]]|format=ul|Columns=1}}\n\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_3Chloromethcathinone.shtml Erowid Experience Vaults: 3-CMC]\n\n==Toxicity and harm potential==\n{{toxicity}}\n3-CMC's isomer [[4-CMC]] is a known neurotoxin, and research shows that 3-CMC is neurotoxic in mice<ref>Wojcieszak, Jakub & Kuczyńska, Katarzyna & Zawilska, Jolanta. (2020). Four Synthetic Cathinones: 3-Chloromethcathinone, 4-Chloromethcathinone, 4-Fluoro-α-Pyrrolidinopentiophenone, and 4-Methoxy-α-Pyrrolidinopentiophenone Produce Changes in the Spontaneous Locomotor Activity and Motor Performance in Mice with Varied Profiles. Neurotoxicity Research. 38. 10.1007/s12640-020-00227-8.</ref>. If 3-CMC's mechanism of action is inherently neurotoxic then damage to human health may be incurred even at moderate recreational doses. Anecdotal reports mention highly concerning cardiovascular and neurological symptoms after frequent or high-dose use, which seems to confirm this suspicion.\n\nIt is strongly advised to avoid this substance completely. Use excessive [[harm reduction practices]] if planning on using this substance, and avoid redosing.\n\n==Legal status==\n{{LegalStub}}\nWhile 3-CMC is not controlled under the United Nations Single Convention on Narcotic Drugs, 1961, nor under the Convention on Psychotropic Substances of 1971. it is subject to restrictive measures in 21 Member States of the European Union: Croatia, Czechia, Denmark, Estonia, France, Italy, Ireland, Latvia, Poland, Portugal, Slovenia, Slovakia, and Sweden. \n\n*'''China''': Is considered a narcotic substance since 2015{{Citation needed}}\n*'''France''': As a derivative of cathinone with a halogen substitution on the phenyl group, 3-CMC is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''The Netherlands''': Since 2023-09-12, 3-CMC is classified as a \"List 1\" drug which makes it illegal.<ref>https://www.officielebekendmakingen.nl/stb-2023-289.html</ref>\n*'''Poland:''' Is considered a narcotic substance since [https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.pl/attachment/20162a5a-a531-4e09-8840-79d02202e1ec&ved=2ahUKEwiZ1JKIlKyPAxX4JhAIHVafL7AQFnoECBUQAQ&usg=AOvVaw2xjc8ztzF7sMPD6Kb68hxV 2017]. \n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulant]]\n*[[Substituted cathinones]]\n*[[3-MMC]]\n*[[4-MMC]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/3-Chloromethcathinone 3-CMC (Wikipedia)]\n*[https://isomerdesign.com/pihkal/explore/645 3-CMC (Isomer Design)]\n\n==References==\n<references />\n\nAdded & revised subjective effects. [[User:Chinker24|Chinker24]] ([[User talk:Chinker24|talk]]) 00:11, 19 January 2023 (UTC)\nAdded legal status [[User:Bernkastel]] - needs to be conventionalized."
+}

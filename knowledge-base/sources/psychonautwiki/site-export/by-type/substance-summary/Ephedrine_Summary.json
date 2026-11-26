@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17433",
+ "type": "substance-summary",
+ "title": "Ephedrine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ephedrine/Summary",
+  "pageid": 17433,
+  "last_edited": "2019-05-08T22:34:36Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Ephedrine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Ephedrine}}"
+}

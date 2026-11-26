@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13358",
+ "type": "substance-summary",
+ "title": "Methylnaphthidate/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methylnaphthidate/Summary",
+  "pageid": 13358,
+  "last_edited": "2016-11-27T18:48:12Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Methylnaphthidate",
+ "plain_text": "",
+ "wikitext": "{{Summary|Methylnaphthidate}}"
+}

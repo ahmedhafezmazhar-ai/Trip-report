@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11816",
+ "type": "substance-summary",
+ "title": "5-APB/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-APB/Summary",
+  "pageid": 11816,
+  "last_edited": "2016-05-03T07:31:45Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-APB",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-APB}}"
+}

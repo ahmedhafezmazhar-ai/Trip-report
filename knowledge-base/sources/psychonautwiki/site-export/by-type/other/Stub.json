@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:7227",
+ "type": "other",
+ "title": "Stub",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Stub",
+  "pageid": 7227,
+  "last_edited": "2016-07-04T00:49:29Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "Empty sections",
+  "Stub"
+ ],
+ "plain_text": "Stub\n\nThe word stub means something that is very short. On Wikimedia sites, a stub is a short article. When writers begin a new article, they use the stub template banner to show that people can add a lot more useful information. \n\nTo do this, insert the following text into the first line of the article:\n\n \n\nThis will display as:\n\nIf you make or find a stub, you can improve the article yourself in accordance with our guidelines or add the task to our community to-do list.\nTo find a stub, use the following links:\n\n*Special:Whatlinkshere/Template:Stub\n*Special:Shortpages (sometimes, the article has not been marked a stub)\n\nEmpty sections\n\nEmpty sections of pages should contain the following:\n\n \n\nThis will display as:\n\nNo References\n\nPages that do not feature citations should implement the following code in the references section:\n\n \n\nThis will display as:\n\nSee also\n\n*Responsible use\n*PsychonautWiki",
+ "wikitext": "===Stub===\nThe word '''stub''' means something that is very short. On Wikimedia sites, a stub is a short article. When writers begin a new article, they use the stub template banner to show that people can add a lot more useful information. \n\nTo do this, insert the following text into the first line of the article:\n\n <nowiki>{{stub}}</nowiki>\n\nThis will display as:\n\n{{stub}}\n\nIf you make or find a stub, you can improve the article yourself in accordance with our [[Project:Guidelines|guidelines]] or add the task to our community [[Project:To-do list|to-do list]].\nTo find a stub, use the following links:\n\n*[[Special:Whatlinkshere/Template:Stub]]\n*[[Special:Shortpages]] (sometimes, the article has not been marked a stub)\n\n===Empty sections===\nEmpty sections of pages should contain the following:\n\n <nowiki>{{empty}}</nowiki>\n\nThis will display as:\n{{empty}}\n\n===No References===\nPages that do not feature citations should implement the following code in the references section:\n\n <nowiki>{{references}}</nowiki>\n\nThis will display as:\n{{references}}\n\n==See also==\n*[[Responsible use]]\n*[[PsychonautWiki]]"
+}

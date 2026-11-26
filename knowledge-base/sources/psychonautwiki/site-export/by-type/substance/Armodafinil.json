@@ -1,0 +1,350 @@
+{
+ "id": "psychonautwiki:11967",
+ "type": "substance",
+ "title": "Armodafinil",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Armodafinil",
+  "pageid": 11967,
+  "last_edited": "2024-07-01T18:10:48Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzhydryl",
+  "Eugeroic",
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Armodafinil",
+ "substance_box": {
+  "names": {
+   "common": "Armodafinil, Nuvigil, Waklert, Artvigil, R-Modawake, Neoresotyl",
+   "substitutive": "(R)-Modafinil",
+   "systematic": "2-[(R)-benzhydrylsulfinyl]acetamide"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Eugeroic",
+   "chemical": "Benzhydryl"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 mg",
+    "light": "40 - 100 mg",
+    "common": "100 - 175 mg",
+    "strong": "175 - 250 mg",
+    "heavy": "250 mg +",
+    "duration": "8 - 15 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "1 - 2.5 hours",
+    "peak": "4 - 7 hours",
+    "offset": "2 - 5 hours",
+    "aftereffects": "2 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Armodafinil",
+    "Nuvigil",
+    "Waklert",
+    "Artvigil",
+    "R-Modawake",
+    "Neoresotyl"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Eugeroic"
+   ],
+   "chemical class": [
+    "Benzhydryl"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "175"
+   ],
+   "Oral min strong dose": [
+    "175"
+   ],
+   "Oral max strong dose": [
+    "250"
+   ],
+   "Oral heavy dose": [
+    "250"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "15"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2.5"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "4"
+   ],
+   "Oral max peak time": [
+    "7"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Armodafinil",
+   "clean": "Molecular structure of Armodafinil"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Armodafinil.svg",
+   "clean": "File:Armodafinil.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Armodafinil]], [[common name::Nuvigil]], [[common name::Waklert]], [[common name::Artvigil]], [[common name::R-Modawake]], [[common name::Neoresotyl]]",
+   "clean": "Armodafinil, Nuvigil, Waklert, Artvigil, R-Modawake, Neoresotyl"
+  },
+  "NameSubstitution": {
+   "raw": "(R)-Modafinil",
+   "clean": "(R)-Modafinil"
+  },
+  "NameSystematic": {
+   "raw": "2-[(R)-benzhydrylsulfinyl]acetamide",
+   "clean": "2-[(R)-benzhydrylsulfinyl]acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Eugeroic]]",
+   "clean": "Stimulant / Eugeroic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzhydryl]]",
+   "clean": "Benzhydryl"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] [[Oral dose units::mg]]",
+   "clean": "20 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::100]] mg",
+   "clean": "40 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::175]] mg",
+   "clean": "100 - 175 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::175]] - [[Oral max strong dose::250]] mg",
+   "clean": "175 - 250 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::250]] mg +",
+   "clean": "250 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::15]] [[Oral total time units::hours]]",
+   "clean": "8 - 15 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2.5]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2.5 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::4]] - [[Oral max peak time::7]] [[Oral peak time units::hours]]",
+   "clean": "4 - 7 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::5]] [[Oral offset time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 12 hours"
+  }
+ },
+ "plain_text": "(R)-Modafinil (also known as Armodafinil and by the brand names Nuvigil, Artvigil, and Waklert) is a eugeroic substance of the benzhydryl class. Armodafinil is the enantiopure formulation of modafinil (brand name Provigil). As opposed to the racemic formulation, which contains a 50/50 mix of both the (S) and (R) enantiomers, armodafinil consists of just the (R)-enantiomer of modafinil.\n\nArmodafinil was approved by the U.S. Food and Drug Administration (FDA) in June 2007 for the treatment of obstructive sleep apnea, shift work sleep disorder, and narcolepsy.\n\nIn addition to its wakefulness-promoting effects and ability to increase locomotor activity in animals, armodafinil can produce rewarding psychoactive and euphoric effects such as alterations in mood, perception, thinking, and feelings typically observed with other central nervous system (CNS) stimulants in humans. \n\nA study in which patients were administered modafinil, methylphenidate, and a placebo found that armodafinil produces \"psychoactive and euphoric effects and feelings consistent with methylphenidate.\" Relative to modafinil, armodafinil reaches its peak concentration in the blood later after administration than modafinil does, which may make it more effective at improving wakefulness in patients with excessive daytime sleepiness.\n\nThe long-term risks of regular armodafinil intake have yet to be studied in detail.\n\nChemistry\n\nArmodafinil, or (R)-modafinil, is a psychoactive molecule of the benzhydryl class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. Armodafinil is classified as a sulphinyl benzhydryl molecule, as it also contains a sulphinyl group, a sulfur molecule double-bonded to an oxygen molecule attached to the carbon of the benzhydryl group.\n\nFrom this sulfur group at R2, an acetamide group is bound at its free carbon through a carbonyl group to a terminal amine group. Armodafinil has a center of chirality at its sulfur group. Armodafinil, unlike modafinil, consists of only the (−)-(R)-enantiomer of modafinil.\n\nSubjective effects\n\nIn comparison to traditional stimulants such as amphetamine, this compound induces an experience which is far less forceful, recreational and euphoric. It instead focuses on general wakefulness and motivation enhancement. In comparison to regular modafinil it is usually considered to be less side effect intensive, more comfortable and with a longer duration.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Armodafinil\n\nToxicity and harm potential\n\nThe long-term safety and effectiveness of armodafinil has not been determined. \n\nAnecdotal evidence suggests a lack of adverse health effects when sparingly used at small to moderate doses, although this must not be assumed. This compound is a commonly prescribed prescription medication, thus is considerably less likely to have adverse health effects than that of a typical research chemical.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nThe median lethal dose at which 50% of participants die (LD50) from either armodafinil or modafinil for human beings has never been reached. No life-threatening effects have taken place in clinical trials involving the administration of 1000mg to 1600mg of modafinil per day for 7 to 21 consecutive days. Intentional acute overdoses of 4500mg and 4000mg in two adult subjects and an accidental ingestion of 800mg by a three-year-old child did not result in any life-threatening effects or death. After overdosing on 5000mg of modafinil in a suicide attempt, a fifteen-year-old female reported a severe headache, nausea, and tachycardia, but did not appear to have any lethal or long-term effects.\n\nTolerance and addiction potential\n\nArmodafinil, like racemic modafinil, may also possess addiction reinforcing properties, as evidenced by its self-administration in monkeys previously trained to administer cocaine; armodafinil was also partially discriminated as stimulant-like. The chronic use of armodafinil can be considered as mildly addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among certain users.\n\nTolerance to many of the effects of armodafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Armodafinil may present a cross-tolerance with all benzhydryl [[nootropics]], meaning that after the consumption of armodafinil, certain nootropics such as modafinil and adrafanil may have a reduced effect.\n\nDangerous interactions\n\n*Hormonal birth control - Modafinil reduces the effectiveness of hormonal birth control for up to a month after use by increasing the activity of the enzyme CYP3A4/5. Notably, the same enzyme is inhibited by grapefruit juice.\n\nLegal status\n\nArmodafinil is legally approved for medical purposes worldwide. However, it is illegal to sell and possess without a prescription in most countries.\n\n*Canada: Modafinil is listed as a Schedule F prescription drug in Canada and it can be prescribed for human and veterinary use.\n*Germany: Modafinil is a prescription medicine, according to Anlage 1 AMVV.\n*United Kingdom: Armodafinil is not a licensed medicine in the United Kingdom and is not covered by the Misuse of Drugs Act 1971 so it may be considered illegal to produce, supply, or import under the Psychoactive Substances Act. However, it may not be covered by the Psychoactive Substances Act as it is a licensed medicine in many other countries and modafinil, the non-enantiopure substance that is comprised of armodafinil and the S-enantiomer of modafinil in equal proportions, is a licensed prescription-only medicine (POM) in the United Kingdom. In this case it would not be considered a criminal offence to possess this substance without a valid prescription and it could be legally be obtained with a valid prescription or through legal import of the substance for personal use as outlined in Section 13 of the Medicines Act 1968.\n*United States: Armodafinil is a Schedule IV controlled substance in the United States. It is illegal to buy, sell, or possess the drug without a prescription or DEA license.\n\nSee also\n\n*Responsible use\n*Nootropics\n*Stimulants\n*Modafinil\n*Caffeine\n*Amphetamine\n\nExternal links\n\n*Armodafinil (Wikipedia)\n*Armodafinil (Isomer Design)\n*Armodafinil (DrugBank)\n\nLiterature\n\n*Darwish, M., Kirby, M., D’Andrea, D. M., Yang, R., Hellriegel, E. T., & Robertson, P. (2010). Pharmacokinetics of armodafinil and modafinil after single and multiple doses in patients with excessive sleepiness associated with treated obstructive sleep apnea: A randomized, open-label, crossover study. Clinical Therapeutics, 32(12), 2074–2087. https://doi.org/10.1016/j.clinthera.2010.11.009\n*Fuller, P., Vetrivelan, R., & Saper, C. (2014). Armodafinil-induced wakefulness in animals with ventrolateral preoptic lesions. Nature and Science of Sleep, 6, 57. https://doi.org/10.2147/NSS.S53132\n*Greve, D. N., Duntley, S. P., Larson-Prior, L., Krystal, A. D., Diaz, M. T., Drummond, S. P. A., … Thomas, R. J. (2014). Effect of Armodafinil on Cortical Activity and Working Memory in Patients with Residual Excessive Sleepiness Associated with CPAP-Treated OSA: A Multicenter fMRI Study. Journal of Clinical Sleep Medicine, 10(2), 143–153. https://doi.org/10.5664/jcsm.3440\n*Loland, C. J., Mereu, M., Okunola, O. M., Cao, J., Prisinzano, T. E., Mazier, S., … Newman, A. H. (2012). R-modafinil (armodafinil): A unique dopamine uptake inhibitor and potential medication for psychostimulant abuse. Biological Psychiatry, 72(5), 405–413. https://doi.org/10.1016/j.biopsych.2012.03.022\n*Niemegeers, P., Maudens, K. E., Morrens, M., Patteet, L., Joos, L., Neels, H., & Sabbe, B. G. (2012). Pharmacokinetic evaluation of armodafinil for the treatment of bipolar depression. Expert Opinion on Drug Metabolism & Toxicology, 8(9), 1189–1197. https://doi.org/10.1517/17425255.2012.708338\n*Ramachandra, B. (2016). A Critical Review of Properties of Modafinil and Analytical, Bioanalytical Methods for its Determination. Critical Reviews in Analytical Chemistry, 46(6), 482–489. https://doi.org/10.1080/10408347.2016.1153948\n*T., M., M., M., N., S., & S., N. (2016). The pathogenesis of narcolepsy, current treatments, and prospective therapeutic targets. Expert Opinion on Orphan Drugs, 4(1), 63–82. https://doi.org/10.1517/21678707.2016.1117973\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Eugeroic\nCategory:Benzhydryl\nCategory:Nootropic\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Armodafinil}}\n\n'''(R)-Modafinil''' (also known as '''Armodafinil''' and by the brand names '''Nuvigil, Artvigil,''' and '''Waklert'''<ref name=\"sunpharma product listings\">{{cite web | url = https://www.sunpharma.com/indiaproducts |accessdate = 2017-06-03 | title = Sun Pharma Product Listing | quote = Product Name: Waklert 150, Waklert 50. Molecule: Armodafinily. Therapy area: Neurology and Psychiatry.}}</ref>) is a [[psychoactive class::eugeroic]] substance of the [[chemical class::benzhydryl]] class. Armodafinil is the [[enantiomer|enantiopure]] formulation of [[modafinil]] (brand name '''Provigil'''). As opposed to the [[racemic]] formulation, which contains a 50/50 mix of both the (S) and (R) [[enantiomers]], armodafinil consists of just the (R)-[[enantiomer]] of modafinil.\n\nArmodafinil was approved by the U.S. Food and Drug Administration (FDA) in June 2007 for the treatment of obstructive sleep apnea, shift work sleep disorder, and narcolepsy.<ref>Nuvigil (Manufacturer's Website) | http://www.nuvigil.com/</ref>\n\nIn addition to its wakefulness-promoting effects and ability to increase locomotor activity in animals, armodafinil can produce rewarding psychoactive and euphoric effects such as alterations in mood, perception, thinking, and feelings typically observed with other central nervous system (CNS) stimulants in humans. \n\nA study in which patients were administered modafinil, [[methylphenidate]], and a placebo found that armodafinil produces \"psychoactive and euphoric effects and feelings consistent with [[methylphenidate]].\"<ref>http://www.nuvigil.com/PDF/Full_Prescribing_Information.pdf</ref> Relative to modafinil, armodafinil reaches its peak concentration in the blood later after administration than modafinil does, which may make it more effective at improving wakefulness in patients with excessive daytime sleepiness.{{citation needed}}\n\nThe long-term risks of regular armodafinil intake have yet to be studied in detail.{{citation needed}}\n\n==Chemistry==\nArmodafinil, or (R)-modafinil, is a psychoactive molecule of the benzhydryl class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. Armodafinil is classified as a sulphinyl benzhydryl molecule, as it also contains a sulphinyl group, a sulfur molecule double-bonded to an oxygen molecule attached to the carbon of the benzhydryl group.\n\nFrom this sulfur group at R<sub>2</sub>, an acetamide group is bound at its free carbon through a carbonyl group to a terminal amine group. Armodafinil has a center of chirality at its sulfur group. Armodafinil, unlike modafinil, consists of only the (−)-(R)-enantiomer of modafinil.\n\n{{Modafinil/Pharmacology}}\n\n==Subjective effects==\nIn comparison to traditional stimulants such as [[amphetamine]], this compound induces an experience which is far less forceful, recreational and euphoric. It instead focuses on general [[wakefulness]] and [[motivation enhancement]]. In comparison to regular [[modafinil]] it is usually considered to be less side effect intensive, more comfortable and with a longer duration.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, armodafinil is commonly considered to be stimulating and energetic, but can be considered as much less stimulating when compared to [[amphetamine]]. This stimulation encourages physical movement and activities such as running, playing sports, socializing and exercising. The particular style of stimulation which armodafinil presents can result in jaw clenching, teeth grinding, or other involuntary movements comparable to that of traditional stimulants at high doses, but are manifested much less consistently and intensely when compared to [[amphetamine]] or [[cocaine]].\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Dehydration]]''' - Dehydration and dry mouth commonly occur due to an increase in motivation to engage in physical activities as well as an increased sense of focus which causes one to forget to drink water.\n*'''[[Effect::Appetite suppression]]''' -  A possible suppression of appetite can be attributed to dopaminergic properties of armodafinil.<ref>{{cite journal | vauthors=((Davis, C.)), ((Levitan, R. D.)), ((Kaplan, A. S.)), ((Carter, J.)), ((Reid, C.)), ((Curtis, C.)), ((Patte, K.)), ((Kennedy, J. L.)) | journal=Neuropsychopharmacology | title=Dopamine Transporter Gene (DAT1) Associated with Appetite Suppression to Methylphenidate in a Case–Control Study of Binge Eating Disorder | volume=32 | issue=10 | pages=2199–2206 | date= October 2007 | url=http://www.nature.com/articles/1301348 | issn=0893-133X | doi=10.1038/sj.npp.1301348}}</ref><ref>{{cite journal | vauthors=((Blundell, J.)) | journal=Trends in Pharmacological Sciences | title=Pharmacological approaches to appetite suppression | volume=12 | pages=147–157 | date= January 1991 | url=https://linkinghub.elsevier.com/retrieve/pii/016561479190532W | issn=01656147 | doi=10.1016/0165-6147(91)90532-W}}</ref> There is a disparity between the strength of the suppression induced by this substance and [[amphetamine]], likely due to a higher dopaminergic activity of the latter.<ref>{{cite journal | vauthors=((Heal, D. J.)), ((Smith, S. L.)), ((Gosden, J.)), ((Nutt, D. J.)) | journal=Journal of Psychopharmacology | title=Amphetamine, past and present – a pharmacological and clinical perspective | volume=27 | issue=6 | pages=479–496 | date= June 2013 | url=http://journals.sagepub.com/doi/10.1177/0269881113482532 | issn=0269-8811 | doi=10.1177/0269881113482532}}</ref>\n*'''[[Effect::Headaches]]''' - In terms of physical discomfort, armodafinil can cause headaches especially if dehydrated, if you have not eaten food, or if you have been sitting in an awkward position for an extended period focused intensely on a task.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Photophobia]]''' - Although uncommon, armodafinil can cause a temporary visual intolerance to light.\n*'''[[Effect::Body odor alteration]]''' - Armodafinil, like the racemic [[modafinil]], can leave a very distinct smell of sulfur in one's urine. This is likely because armodafinil, being a member of sulphinyl benzhydryl chemical class, contain sulfur in its chemical makeup.<ref>{{cite journal | vauthors=((Udert, K. M.)), ((Larsen, T. A.)), ((Gujer, W.)) | journal=Water Science and Technology | title=Fate of major compounds in source-separated urine | volume=54 | issue=11–12 | pages=413–420 | date=1 December 2006 | url=https://iwaponline.com/wst/article/54/11-12/413/13916/Fate-of-major-compounds-in-sourceseparated-urine | issn=0273-1223 | doi=10.2166/wst.2006.921}}</ref>\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Time distortion]]''' - A perceived increase of time can be attributed to the dopaminergic properties of this substance.<ref>{{cite journal | vauthors=((Rammsayer, T.)) | journal=Neuropsychobiology | title=Is there a common dopaminergic basis of time perception and reaction time? | volume=21 | issue=1 | pages=37–42 | date= 1989 | issn=0302-282X | doi=10.1159/000118549}}</ref><ref>{{cite journal | vauthors=((Sessi, P.)), ((Di Sante, D.)), ((Szczerbakow, A.)), ((Glott, F.)), ((Wilfert, S.)), ((Schmidt, H.)), ((Bathon, T.)), ((Dziawa, P.)), ((Greiter, M.)), ((Neupert, T.)), ((Sangiovanni, G.)), ((Story, T.)), ((Thomale, R.)), ((Bode, M.)) | journal=Science | title=Robust spin-polarized midgap states at step edges of topological crystalline insulators | volume=354 | issue=6317 | pages=1269–1273 | date=9 December 2016 | url=https://www.science.org/doi/10.1126/science.aah6233 | issn=0036-8075 | doi=10.1126/science.aah6233}}</ref>\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Armodafinil.shtml Erowid Experience Vaults: Armodafinil]\n\n==Toxicity and harm potential==\nThe long-term safety and effectiveness of armodafinil has not been determined.<ref>{{cite journal | vauthors=((Banerjee, D.)), ((Vitiello, M. V.)), ((Grunstein, R. R.)) | journal=Sleep Medicine Reviews | title=Pharmacotherapy for excessive daytime sleepiness | volume=8 | issue=5 | pages=339–354 | date=1 October 2004 | url=https://www.sciencedirect.com/science/article/pii/S1087079204000243 | issn=1087-0792 | doi=10.1016/j.smrv.2004.03.002}}</ref> \n\nAnecdotal evidence suggests a lack of adverse health effects when sparingly used at small to moderate doses, although this must not be assumed. This compound is a commonly prescribed prescription medication, thus is considerably less likely to have adverse health effects than that of a typical [[research chemical]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Lethal dosage===\n[[Toxicity::The median lethal dose at which 50% of participants die ([[LD50|LD<sub>50</sub>]]) from either armodafinil or modafinil for human beings has never been reached]]. No life-threatening effects have taken place in clinical trials involving the administration of 1000mg to 1600mg of modafinil per day for 7 to 21 consecutive days. Intentional acute overdoses of 4500mg and 4000mg in two adult subjects and an accidental ingestion of 800mg by a three-year-old child did not result in any life-threatening effects or death.<ref>The National Library of Medicine - PROVIGIL | http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd75a8a7-a8ab-4141-9af9-989a220b9c19</ref> After overdosing on 5000mg of modafinil in a suicide attempt, a fifteen-year-old female reported a severe [[Headaches|headache]], [[Nausea|nausea]], and [[Abnormal heartbeat|tachycardia]], but did not appear to have any lethal or long-term effects.<ref>{{cite journal | vauthors=((Neuman, G.)), ((Shehadeh, N.)), ((Pillar, G.)) | journal=Journal of Clinical Sleep Medicine : JCSM : Official Publication of the American Academy of Sleep Medicine | title=Unsuccessful Suicide Attempt of a 15 Year Old Adolescent with Ingestion of 5000 mg Modafinil | volume=5 | issue=4 | pages=372–373 | date=15 August 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725258/ | issn=1550-9389}}</ref>\n\n===Tolerance and addiction potential===\nArmodafinil, like racemic modafinil, may also possess addiction reinforcing properties, as evidenced by its self-administration in monkeys previously trained to administer cocaine; armodafinil was also partially discriminated as stimulant-like. The chronic use of armodafinil can be considered as [[Addiction potential::mildly addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among certain users.\n\nTolerance to many of the effects of armodafinil [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Armodafinil may present a cross-tolerance with [[Cross-tolerance::all [[benzhydryl]] [[nootropic]]s]], meaning that after the consumption of armodafinil, certain [[nootropic]]s such as [[modafanil|modafinil]] and [[adrafanil]] may have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=armodafinil}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[DangerousInteraction::Hormonal birth control]]''' - Modafinil reduces the effectiveness of hormonal birth control for up to a month after use by increasing the activity of the enzyme CYP3A4/5.<ref>{{cite journal | last=Robertson | first=P | title=Effect of modafinil on the pharmacokinetics of ethinyl estradiol and triazolam in healthy volunteers | journal=Clinical Pharmacology & Therapeutics | publisher=Springer Nature | volume=71 | issue=1 | year=2002 | issn=0009-9236 | doi=10.1067/mcp.2002.121217 | pages=46–56}}</ref> Notably, the same enzyme is inhibited by grapefruit juice.<ref>{{cite journal | last=Bailey | first=D. G. | last2=Dresser | first2=G. | last3=Arnold | first3=J. M. O. | title=Grapefruit-medication interactions: Forbidden fruit or avoidable consequences? | journal=Canadian Medical Association Journal | publisher=Joule Inc. | volume=185 | issue=4 | date=2012-11-26 | issn=0820-3946 | doi=10.1503/cmaj.120951 | pages=309–316}}</ref>\n\n==Legal status==\nArmodafinil is legally approved for medical purposes worldwide. However, it is illegal to sell and possess without a prescription in most countries.\n\n*'''Canada:''' Modafinil is listed as a Schedule F prescription drug in Canada and it can be prescribed for human and veterinary use.<ref>National Association of Pharmacy Regulatory Authorities Regulations Amending the Food and Drug Regulations (1184 — Modafinil) | http://napra.ca/Content_Files/Files/FDR-Project1184-Modafinil-Oct122006.pdf</ref>\n*'''Germany:''' Modafinil is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''United Kingdom:''' Armodafinil is not a licensed medicine in the United Kingdom and is not covered by the Misuse of Drugs Act 1971 so it may be considered illegal to produce, supply, or import under the Psychoactive Substances Act.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref> However, it may not be covered by the Psychoactive Substances Act as it is a licensed medicine in many other countries{{citation needed}} and [[modafinil]], the non-enantiopure substance that is comprised of armodafinil and the S-enantiomer of modafinil in equal proportions, is a licensed prescription-only medicine (POM) in the United Kingdom.<ref>{{cite web |url = http://www.mhra.gov.uk/home/groups/par/documents/websiteresources/con273748.pdf|title = MHRA license for Modafinil in UK|date = April 3, 2013|author = MHRA|publisher = MHRA}}</ref> In this case it would not be considered a criminal offence to possess this substance without a valid prescription and it could be legally be obtained with a valid prescription or through legal import of the substance for personal use as outlined in Section 13 of the Medicines Act 1968.<ref>{{cite web |url = http://www.legislation.gov.uk/ukpga/1968/67/section/13|title = Medicines Act 1968 Section 13}}</ref>\n*'''United States:''' Armodafinil is a Schedule IV controlled substance in the United States. It is illegal to buy, sell, or possess the drug without a prescription or DEA license.<ref>Placement of Modafinil Into Schedule IV - U.S. Department of Justice | http://www.deadiversion.usdoj.gov/fed_regs/rules/1999/fr0127.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Nootropics]]\n*[[Stimulants]]\n*[[Modafinil]]\n*[[Caffeine]]\n*[[Amphetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Armodafinil Armodafinil (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=12122 Armodafinil (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB06413 Armodafinil (DrugBank)]\n\n==Literature==\n\n*Darwish, M., Kirby, M., D’Andrea, D. M., Yang, R., Hellriegel, E. T., & Robertson, P. (2010). Pharmacokinetics of armodafinil and modafinil after single and multiple doses in patients with excessive sleepiness associated with treated obstructive sleep apnea: A randomized, open-label, crossover study. Clinical Therapeutics, 32(12), 2074–2087. https://doi.org/10.1016/j.clinthera.2010.11.009\n*Fuller, P., Vetrivelan, R., & Saper, C. (2014). Armodafinil-induced wakefulness in animals with ventrolateral preoptic lesions. Nature and Science of Sleep, 6, 57. https://doi.org/10.2147/NSS.S53132\n*Greve, D. N., Duntley, S. P., Larson-Prior, L., Krystal, A. D., Diaz, M. T., Drummond, S. P. A., … Thomas, R. J. (2014). Effect of Armodafinil on Cortical Activity and Working Memory in Patients with Residual Excessive Sleepiness Associated with CPAP-Treated OSA: A Multicenter fMRI Study. Journal of Clinical Sleep Medicine, 10(2), 143–153. https://doi.org/10.5664/jcsm.3440\n*Loland, C. J., Mereu, M., Okunola, O. M., Cao, J., Prisinzano, T. E., Mazier, S., … Newman, A. H. (2012). R-modafinil (armodafinil): A unique dopamine uptake inhibitor and potential medication for psychostimulant abuse. Biological Psychiatry, 72(5), 405–413. https://doi.org/10.1016/j.biopsych.2012.03.022\n*Niemegeers, P., Maudens, K. E., Morrens, M., Patteet, L., Joos, L., Neels, H., & Sabbe, B. G. (2012). Pharmacokinetic evaluation of armodafinil for the treatment of bipolar depression. Expert Opinion on Drug Metabolism & Toxicology, 8(9), 1189–1197. https://doi.org/10.1517/17425255.2012.708338\n*Ramachandra, B. (2016). A Critical Review of Properties of Modafinil and Analytical, Bioanalytical Methods for its Determination. Critical Reviews in Analytical Chemistry, 46(6), 482–489. https://doi.org/10.1080/10408347.2016.1153948\n*T., M., M., M., N., S., & S., N. (2016). The pathogenesis of narcolepsy, current treatments, and prospective therapeutic targets. Expert Opinion on Orphan Drugs, 4(1), 63–82. https://doi.org/10.1517/21678707.2016.1117973\n\n==References==\n{{reflist|2}}\n[[Category:Psychoactive substance]]\n[[Category:Eugeroic]]\n[[Category:Benzhydryl]]\n[[Category:Nootropic]]\n[[Category:Stimulant]]\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,639 @@
+{
+ "id": "psychonautwiki:13348",
+ "type": "substance",
+ "title": "A-PHP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/A-PHP",
+  "pageid": 13348,
+  "last_edited": "2025-07-02T14:26:28Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Pages using citations with accessdate and no URL",
+  "Pages using web citations with no URL",
+  "Pages with citations using unnamed parameters",
+  "Psychoactive substance",
+  "Pyrrolidinophenone",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/A-PHP",
+ "substance_box": {
+  "names": {
+   "common": "α-PHP, alpha-PHP, PV7",
+   "substitutive": "alpha-Pyrrolidinohexiophenone",
+   "systematic": "1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted cathinone / Pyrrolidinophenone"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "0.5 mg",
+    "light": "1 - 5 mg",
+    "common": "5 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25+ mg",
+    "duration": "2 - 5 hours",
+    "onset": "10 - 30 minutes",
+    "peak": "20 - 45 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 20 mg",
+    "heavy": "20+ mg",
+    "duration": "2 - 5 hours",
+    "onset": "2 - 8 minutes",
+    "peak": "30 - 90 minutes",
+    "offset": "1 - 4 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "2 - 8 hours",
+    "onset": "2 - 20 minutes",
+    "peak": "1 - 2.5 hours",
+    "offset": "1 - 5 hours",
+    "aftereffects": "1 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "α-PHP",
+    "alpha-PHP",
+    "PV7"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted cathinone",
+    "Pyrrolidinophenone"
+   ],
+   "Insufflated threshold dose": [
+    "0.5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "1"
+   ],
+   "Insufflated max light dose": [
+    "5"
+   ],
+   "Insufflated min common dose": [
+    "5"
+   ],
+   "Insufflated max common dose": [
+    "15"
+   ],
+   "Insufflated min strong dose": [
+    "15"
+   ],
+   "Insufflated max strong dose": [
+    "25"
+   ],
+   "Insufflated min total time": [
+    "2"
+   ],
+   "Insufflated max total time": [
+    "5"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "10"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "20"
+   ],
+   "Insufflated max peak time": [
+    "45"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "2"
+   ],
+   "Smoked max light dose": [
+    "5"
+   ],
+   "Smoked min common dose": [
+    "5"
+   ],
+   "Smoked max common dose": [
+    "10"
+   ],
+   "Smoked min strong dose": [
+    "10"
+   ],
+   "Smoked max strong dose": [
+    "20"
+   ],
+   "Smoked min total time": [
+    "2"
+   ],
+   "Smoked max total time": [
+    "5"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "2"
+   ],
+   "Smoked max onset time": [
+    "8"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "30"
+   ],
+   "Smoked max peak time": [
+    "90"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "4"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "1"
+   ],
+   "Smoked max afterglow time": [
+    "8"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "2"
+   ],
+   "Oral max onset time": [
+    "20"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of α-PHP",
+   "clean": "Molecular structure of α-PHP"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:α-PHP.svg",
+   "clean": "File:α-PHP.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::α-PHP]], [[common name::alpha-PHP]], [[common name::PV7]]",
+   "clean": "α-PHP, alpha-PHP, PV7"
+  },
+  "NameSubstitution": {
+   "raw": "alpha-Pyrrolidinohexiophenone",
+   "clean": "alpha-Pyrrolidinohexiophenone"
+  },
+  "NameSystematic": {
+   "raw": "1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one",
+   "clean": "1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted cathinone|Cathinone]] / [[chemical class::Pyrrolidinophenone]]",
+   "clean": "Substituted cathinone / Pyrrolidinophenone"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::0.5]] [[Insufflated dose units::mg]]",
+   "clean": "0.5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::1]] - [[Insufflated max light dose::5]] mg",
+   "clean": "1 - 5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::5]] - [[Insufflated max common dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::15]] - [[Insufflated max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "25+ mg",
+   "clean": "25+ mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2]] - [[Insufflated max total time::5]] [[Insufflated total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::10]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::20]] - [[Insufflated max peak time::45]] [[Insufflated peak time units::minutes]]",
+   "clean": "20 - 45 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::2]] - [[Smoked max light dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::5]] - [[Smoked max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::10]] - [[Smoked max strong dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "20+ mg",
+   "clean": "20+ mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::2]] - [[Smoked max total time::5]] [[Smoked total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::2]] - [[Smoked max onset time::8]] [[Smoked onset time units::minutes]]",
+   "clean": "2 - 8 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::30]] - [[Smoked max peak time::90]] [[Smoked peak time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::4]] [[Smoked offset time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::1]] - [[Smoked max afterglow time::8]] [[Smoked afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "2 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::2]] - [[Oral max onset time::20]] [[Oral onset time units::minutes]]",
+   "clean": "2 - 20 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::5]] [[Oral offset time units::hours]]",
+   "clean": "1 - 5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 48 hours"
+  }
+ },
+ "plain_text": "alpha-Pyrrolidinohexiophenone (also known as PV-7, alpha-PHP, A-PHP, and α-PHP) is a lesser-known novel stimulant substance of the cathinone class. It is structurally related to MDPV and is one of the successors to the designer drug cathinone analog α-PVP. \n\nIt is being used and marketed as a replacement for α-PVP (known on the street as flakka) a few years following its ban, where it has come to substitute α-PVP in many parts of the world. While initially mass synthesized in Chinese industrial laboratories, a ban on α-PHP within China's borders has forced production to nations worldwide. \n\nSubjective effects such as euphoria, thought acceleration, disinhibition and ego inflation. It generally comes in the form of either a fine powder or crystallized shards that can produce powerful but short-lived euphoric stimulant effects comparable to those of vaporized methamphetamine and cocaine. Like its cathinone predecessors, it is has gained notoriety for its tendency to induce compulsive redosing and addictive behaviors as well the ability to produce delusional states and psychosis when abused.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of α-PHP. It has recently become commonly marketed alongside research chemical stimulants like NEP and Hexen as a legal, grey-market alternative to a-PVP, and commercially distributed through online research chemical vendors.\n\nIt is highly advised to use harm reduction practices if using this substance.\n \n\nChemistry\n\nα-PHP, or α-Pyrrolidinohexanophenone,  is a compound of the substituted cathinone and substituted pyrrolidine chemical classes. Its structure is comprised of hexanal bound to a phenyl ring at the 1 position and the nitrogen of a pyrrolidine ring at the 2 position.\n\nα-PHP is the longer chain homolog of α-PVP, possessing an additional carbon on the alkyl side chain.\n\nPharmacology\n\nThe mechanism of action of α-PHP is unknown. Aside from a substantially shorter duration, it is believed to act similarly to the designer drug pentedrone and α-PVP, which both act as a potent norepinephrine-dopamine reuptake inhibitors (NDRI), although no substantial research on the pharmacology of this compound has yet been conducted.\n\nThis means it may effectively boost the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects.\n\nSubjective effects\n\nIn comparison to its predecessor α-PVP, this compound has been reported as inducing slightly less anxiety, uncomfortable side effects, euphoria, and an easier comedown.\n\nExperience reports\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational α-PHP use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because α-PHP has very little history of human usage. Anecdotal evidence from people who have tried α-PHP within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nα-PHP has been reported to be the cause, or a significant contributory cause, of death in suicides and overdoses caused by combinations of drugs. \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other short-lived highly dopaminergic stimulants, the chronic use of α-PHP can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of α-PHP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). α-PHP presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of α-PHP all stimulants will have a reduced effect.\n\nPsychosis\n\nα-PHP, like other strongly dopaminergic stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\nSerotonin syndrome risk\n\nLegal status\n\nInternationally, α-PHP was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.\n\n*Austria:\tα-PHP is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Brazil: As of September 7, 2018, all cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.\n*China: α-PHP is a controlled substance in China as of October 2015.\n*Germany: α-PHP is a controlled substance under the BtmG (Betäubungsmittelgesetz) as of Dezember 21, 2022. Possession, production, sales and consumption is illegal and penalized.\n*Italy: The President of the Republic of Italy classified cathinone and all structurally derived analogues (including pyrovalerone analogues) as Narcotics in January 2012. \n*Netherlands: As of October 29, 2021, α-PHP has been banned in the Netherlands under the 1971 Vienna Convention on Psychotropic Substances. \n*Sweden: α-PHP is classified as narcotic substance.\n*Switzerland: α-PHP can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.\n*United Kingdom:  is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: α-PiHP has been assigned to Schedule I on a Temporary Placement basis. This order, which extends the temporary scheduling order that DEA previously issued for these substances (84 FR 34291, July 18, 2019), is effective July 18, 2021 and expires on July 18, 2022. . As such, the sale or the use of this compound is prohibited.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Stimulants\n*Substituted cathinone\n*Substituted pyrrolidine\n*MDPV\n*α-PVP\n\nExternal links\n\n*α-PHP (Wikipedia)\n*α-PHP (Isomer Design)\n*a-PHP (Erowid)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Pyrrolidinophenone\nCategory:Research chemical",
+ "wikitext": "{{Distinguish|A-PVP}}\n{{SummarySheet}}\n{{SubstanceBox/A-PHP}}\n\n'''alpha-Pyrrolidinohexiophenone''' (also known as '''PV-7''', '''alpha-PHP''', '''A-PHP''', and '''α-PHP''') is a lesser-known novel [[psychoactive class::stimulant]] substance of the [[chemical class::cathinone]] class. It is structurally related to [[MDPV]] and is one of the successors to the [[designer drug]] [[Substituted cathinone|cathinone]] analog [[A-PVP|α-PVP]]. \n\nIt is being used and marketed as a replacement for [[α-PVP]] (known on the street as ''flakka'') a few years following its ban, where it has come to substitute α-PVP in many parts of the world. While initially mass synthesized in Chinese industrial laboratories, a ban on α-PHP within China's borders has forced production to nations worldwide.{{citation needed}} \n\n[[Subjective effects]] such as [[euphoria]], [[thought acceleration]], [[disinhibition]] and [[ego inflation]]. It generally comes in the form of either a fine powder or crystallized shards that can produce powerful but short-lived euphoric stimulant effects comparable to those of vaporized [[methamphetamine]] and [[cocaine]]. Like its cathinone predecessors, it is has gained notoriety for its tendency to induce [[compulsive redosing]] and addictive behaviors as well the ability to produce [[Delusions|delusional states]] and [[psychosis]] when abused.{{citation needed}}\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of α-PHP. It has recently become commonly marketed alongside [[research chemical]] [[stimulants]] like [[NEP]] and [[Hexen]] as a legal, grey-market alternative to [[a-PVP]], and commercially distributed through online [[research chemical]] vendors.\n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n \n==Chemistry==\nα-PHP, or α-Pyrrolidinohexanophenone,  is a compound of the [[substituted cathinone]] and [[substituted pyrrolidine]] chemical classes. Its structure is comprised of hexanal bound to a phenyl ring at the 1 position and the nitrogen of a pyrrolidine ring at the 2 position.\n\nα-PHP is the longer chain homolog of α-PVP, possessing an additional carbon on the alkyl side chain.\n\n==Pharmacology==\nThe mechanism of action of α-PHP is unknown. Aside from a substantially shorter duration, it is believed to act similarly to the [[designer drug]] [[pentedrone]] and [[α-PVP]], which both act as a potent [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]]s (NDRI),<ref>{{cite journal | vauthors=((Meltzer, P. C.)), ((Butler, D.)), ((Deschamps, J. R.)), ((Madras, B. K.)) | journal=Journal of medicinal chemistry | title=1-(4-Methylphenyl)-2-pyrrolidin-1-yl-pentan-1-one (Pyrovalerone) analogs. A promising class of monoamine uptake inhibitors | volume=49 | issue=4 | pages=1420–1432 | date=23 February 2006 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602954/ | issn=0022-2623 | doi=10.1021/jm050797a}}</ref> although no substantial research on the pharmacology of this compound has yet been conducted.\n\nThis means it may effectively boost the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects.\n\n==Subjective effects==\nIn comparison to its predecessor [[α-PVP]], this compound has been reported as inducing slightly less anxiety, uncomfortable side effects, euphoria, and an easier comedown.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - α-PHP can be considered to be extremely stimulating and energetic, although less so than [[α-PVP]]. This encourages activities such as running, climbing and dancing, although it can also encourage sitting immobile and engaging in repetitive tasks. The particular style of stimulation which α-PHP presents can be described as forced. This means that at higher dosages it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in an extreme unsteadiness of the hands and a general lack of motor control.\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of α-PHP can be described as a moderate to extreme euphoric tingling sensation that encompasses the entire body. It is capable of becoming overwhelming at higher dosages. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n*'''[[Effect::Tactile enhancement]]''' - α-PHP can enhance one's sense of touch to extreme degrees, often leading to states of sexual arousal.\n*'''[[Effect::Vibrating vision]]''' - A person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing vision to become blurry and temporarily out of focus (a condition known as nystagmus).\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Focus enhancement]]''' - α-PHP has been noted as enhancing focus, but in a way that leaves the user totally fixated on whatever task at hand, however trivial.\n*'''[[Effect::Mouth numbing]]''' - In a similar fashion to that of [[cocaine]] this compound numbs the areas of the body which it touches, these areas can include the nostrils, gums, mouth and throat of the user.\n*'''[[Effect::Abnormal heartbeat]]''' - Due to the potency of its rush, α-PHP can cause various uncomfortable or painful sensations in the heart, especially when abused or used for extended periods. Those with familial or personal heart issues are discouraged from using this drug in its most potent [[routes of administration]].\n*'''[[Effect::Increased blood pressure]]''' - α-PHP, especially when it is vaporized or injected, can lead to sudden spikes of blood pressure that may manifest in an extremely uncomfortable \"exploding heart\" sensation. \n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Dehydration]]''' - Dry mouth and dehydration are a universal experience with α-PHP and are a product of an increased heart rate, adrenergic activity and the motivation to engage in strenuous physical activities. While it is important to avoid becoming dehydrated, especially when out dancing in a hot environment, there is a potential possibility of suffering from water intoxication through over-drinking. Therefore it is advised that users simply sip at water and be mindful of their water in-take.\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Difficulty urinating]]''' - Higher doses of α-PHP result in an overall difficulty when it comes to urination, an effect that is temporary and typically harmless.\n*'''[[Effect::Headaches]]''' - This typically can occur towards the end of the experience, but can sometimes happen during one as well.\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Restless leg syndrome]]'''\n*'''[[Effect::Vasoconstriction]]''' - α-PHP can be considered very vasoconstricting at higher doses, and is on par with that of [[amphetamine]] and [[methamphetamine]].\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]], though becomes more present at high doses.\n*'''[[Effect::Seizure]]''' - α-PHP may lower the seizure threshold in some individuals, especially when it is misused.\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Brightness alteration]]''' - α-PHP can make spaces seem brighter due to its ability to dilate the pupils.\n*'''[[Effect::Drifting]]''' - This effect is usually very mild and increases with sleep deprivation.\n*'''[[Effect::Visual acuity suppression]]''' - α-PHP can have visual and vision-impairing effects that can lend readily to peripheral hallucinations.\n\n===Hallucinatory states===\n*'''[[Effect::Peripheral information misinterpretation]]'''\n*'''[[Effect::Scenarios and plots]]'''\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of α-PHP can be broken down into several components which progressively intensify proportional to dosage. The ample head space of α-PHP is described by many as one of extreme mental stimulation and powerful euphoria. It contains a large number of typical [[Stimulants|stimulant]] cognitive effects, particularly those of the [[Substituted cathinone|cathinone]] or [[Substituted pyrrolidine|pyrrolidine]] classes of drugs.\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Cognitive euphoria]]''' - A euphoria very similar to [[amphetamine]] or [[cocaine]] is present as well as feelings of well-being and contentedness which are likely a direct result of serotonin and dopamine accumulation in the brain's reward pathways.\n*'''[[Effect::Analysis enhancement]]''' - Users report that this effect typically only occurs at low doses, and becomes increasingly more impairing as one increases their intake.\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - α-PHP can lead to states of extreme anxiety and paranoia when dosed too highly or frequently, which is why eyeballing this substance is strongly discouraged. The anxiety and paranoia this compound produces shares many features of the paranoia that can be induced by [[methamphetamine]] or [[cocaine]], and typically happens during the come down phase of the experience. \n**'''[[Effect::Feelings of impending doom]]''' - This typically is experienced when the substance is abused, but can happen at higher than needed doses, or the comedowns of binges. It can also happen spontaneously, although this tends to be rare.\n*'''[[Effect::Information processing suppression]]\n*'''[[Effect::Ego inflation]]''' - Similar to the ego inflation of [[cocaine]] or [[methamphetamine]], α-PHP can temporarily induce states of egomania at its peak.\n*'''[[Effect::Compulsive redosing]]''' - While a high tendency to compulsive redose is a hallmark of this class of drug, α-PHP has been reported as being slightly less compulsive than its predecessor α-PVP. Nevertheless, users are advised to use extreme caution in not losing control when on this drug.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]''' - This effect provides short-lived states of extreme motivation, but due to the cognitively narrowing aspects of its action, rarely ever translates into productive action. \n*'''[[Effect::Increased libido]]''' - α-PHP, like its predecessor α-PVP can induce states of extreme sexual arousal due to its powerful disinhibiting effects\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Time distortion]]''' - Strong feelings of time compression are common within α-PHP and increase in the perception of perceived experience is greatly increased\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Psychosis]]''' - This compound may induce psychosis if it is compulsively binged upon for prolonged periods of time. However, the likelihood of psychosis on this compound has been reported to be noticeably less than that of [[A-PVP]].\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. It has been reported that this crash is usually not considered as severe as it is on [[A-PVP]] at equivalent dosages. The effects commonly include, but are not limited to:\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=alpha-PHP}}\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational α-PHP use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because α-PHP has very little history of human usage. Anecdotal evidence from people who have tried α-PHP within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nα-PHP has been reported to be the cause, or a significant contributory cause, of death in suicides and overdoses caused by combinations of drugs.<ref>{{cite journal | vauthors=((Klavž, J.)), ((Gorenjak, M.)), ((Marinšek, M.)) | journal=Forensic Science International | title=Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC | volume=265 | pages=121–124 | date=1 August 2016 | url=https://www.sciencedirect.com/science/article/pii/S0379073816000372 | issn=0379-0738 | doi=10.1016/j.forsciint.2016.01.018}}</ref> \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nAs with other short-lived highly dopaminergic [[stimulant]]s, the chronic use of α-PHP can be considered [[Addiction potential::highly addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of α-PHP [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). α-PHP presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of α-PHP all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nα-PHP, like other strongly dopaminergic stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\"/><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\"/>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=[[Substituted cathinone|cathinone]]s}}\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\nInternationally, α-PHP was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.<ref>{{cite web|url=https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3|date=December 2019|title=WHO: World Health Organization recommends 12 NPS for scheduling|access-date=October 16, 2020}}</ref><ref>{{cite web|url=https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d|title=CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting|date=March 18, 2020|publisher=World Health Organization (WHO)|access-date=October 16, 2020}}</ref>\n\n*'''Austria''':\tα-PHP is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Brazil''': As of September 7, 2018, all cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.<ref>New blanket ban on synthetic illegal drugs is approved (Portuguese) | http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR</ref>\n*'''China''': α-PHP is a controlled substance in China as of October 2015.<ref>http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Germany''': α-PHP is a controlled substance under the BtmG (''Betäubungsmittelgesetz'')<ref>{{cite web|urlhttps://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=AnlageII BtmG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=May 30, 2023|language=de}}</ref> as of Dezember 21, 2022.<ref>{{cite web|url=https://community.beck.de/2023/01/03/aenderung-des-btmg-mit-aufnahme-von-vier-neuen-nps-in-kraft-getreten|title=Änderung des BtMG mit Aufnahme von vier neuen NPS in Kraft getreten|publisherBeck Community|access-date=May 30, 2023|language=de}}</ref> Possession, production, sales and consumption is illegal and penalized.\n*'''Italy''': The President of the Republic of Italy classified cathinone and all structurally derived analogues (including pyrovalerone analogues) as Narcotics in January 2012. <ref>http://www.politicheantidroga.it/media/491607/decreto%20ministero%20salute%2029%20dicembre%202011.pdf</ref>\n*'''Netherlands''': As of October 29, 2021, α-PHP has been banned in the Netherlands under the 1971 Vienna Convention on Psychotropic Substances. <ref>{{cite web |url=https://zoek.officielebekendmakingen.nl/trb-2021-110.html#d17e4724 |title=Tractatenblad van het Koninkrijk der Nederlanden - 77 (1971), Nr. 7, A. TITEL, Verdrag inzake psychotrope stoffen;Wenen, 21 februari 1971|access-date=2021-10-29}}</ref>\n*'''Sweden''': α-PHP is classified as narcotic substance.<ref>http://rkrattsbaser.gov.se/sfst?fritext=alfa-PHP&upph=false&sort=desc&post_id=2</ref>\n*'''Switzerland''': α-PHP can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''':  is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n*'''United States''': α-PiHP has been assigned to Schedule I on a Temporary Placement basis. This order, which extends the temporary scheduling order that DEA previously issued for these substances (84 FR 34291, July 18, 2019), is effective July 18, 2021 and expires on July 18, 2022. .<ref>{{cite web | title=Schedules of Controlled Substances Extension | url=https://www.federalregister.gov/documents/2021/07/16/2021-15113/schedules-of-controlled-substances-extension-of-temporary-placement-of-n | publisher=Drug Enforcement Administration | access-date= 2022-04-22}}</ref> As such, the sale or the use of this compound is prohibited.\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Stimulants]]\n*[[Substituted cathinone]]\n*[[Substituted pyrrolidine]]\n*[[MDPV]]\n*[[α-PVP]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/α-PHP α-PHP (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=644 α-PHP (Isomer Design)]\n*[https://www.erowid.org/experiences/subs/exp_alphaPHP.shtml a-PHP (Erowid)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Pyrrolidinophenone]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19746",
+ "type": "substance-summary",
+ "title": "Promethazine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Promethazine/Summary",
+  "pageid": 19746,
+  "last_edited": "2021-11-30T06:21:42Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Promethazine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Promethazine}}"
+}

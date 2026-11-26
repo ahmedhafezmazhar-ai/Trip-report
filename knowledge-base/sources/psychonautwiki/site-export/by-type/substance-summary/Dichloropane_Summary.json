@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12917",
+ "type": "substance-summary",
+ "title": "Dichloropane/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Dichloropane/Summary",
+  "pageid": 12917,
+  "last_edited": "2016-10-22T18:22:37Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Dichloropane",
+ "plain_text": "",
+ "wikitext": "{{Summary|Dichloropane}}"
+}

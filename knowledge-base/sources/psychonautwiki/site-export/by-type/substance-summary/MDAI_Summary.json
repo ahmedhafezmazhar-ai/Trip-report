@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10934",
+ "type": "substance-summary",
+ "title": "MDAI/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MDAI/Summary",
+  "pageid": 10934,
+  "last_edited": "2015-11-13T10:04:40Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "MDAI",
+ "plain_text": "",
+ "wikitext": "{{Summary|MDAI}}"
+}

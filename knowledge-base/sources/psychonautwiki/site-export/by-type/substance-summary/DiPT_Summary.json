@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10843",
+ "type": "substance-summary",
+ "title": "DiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/DiPT/Summary",
+  "pageid": 10843,
+  "last_edited": "2015-11-11T08:41:48Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "DiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|DiPT}}"
+}

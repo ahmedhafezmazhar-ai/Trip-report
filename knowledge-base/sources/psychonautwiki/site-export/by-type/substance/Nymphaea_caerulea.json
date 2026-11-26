@@ -1,0 +1,1784 @@
+{
+ "id": "psychonautwiki:21111",
+ "type": "substance",
+ "title": "Nymphaea caerulea",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nymphaea_caerulea",
+  "pageid": 21111,
+  "last_edited": "2026-10-30T19:42:47Z"
+ },
+ "categories": [],
+ "substance_box_template": "SubstanceBox/Example",
+ "substance_box": {
+  "names": {
+   "common": "DMT, Dimethyltryptamine, Dmitri",
+   "substitutive": "N,N-Dimethyltryptamine",
+   "systematic": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x - mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "a - b hours",
+    "onset": "a - b minutes",
+    "comeup": "a - b minutes",
+    "peak": "a - b hours",
+    "offset": "a - b hours",
+    "aftereffects": "a - b hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "x% - y",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "DMT",
+    "Dimethyltryptamine",
+    "Dmitri"
+   ],
+   "systematic name": [
+    "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Tryptamine"
+   ],
+   "Oral min bioavailability": [
+    "x"
+   ],
+   "Oral max bioavailability": [
+    "y"
+   ],
+   "Oral threshold dose": [
+    "x"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "x"
+   ],
+   "Oral max light dose": [
+    "y"
+   ],
+   "Oral min common dose": [
+    "x"
+   ],
+   "Oral max common dose": [
+    "y"
+   ],
+   "Oral min strong dose": [
+    "x"
+   ],
+   "Oral max strong dose": [
+    "y"
+   ],
+   "Oral heavy dose": [
+    "x"
+   ],
+   "Oral min total time": [
+    "x"
+   ],
+   "Oral max total time": [
+    "y"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "x"
+   ],
+   "Oral max onset time": [
+    "y"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "x"
+   ],
+   "Oral max comeup time": [
+    "y"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "x"
+   ],
+   "Oral max peak time": [
+    "y"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "x"
+   ],
+   "Oral max offset time": [
+    "y"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "x"
+   ],
+   "Oral max afterglow time": [
+    "y"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Sublingual min bioavailability": [
+    "x"
+   ],
+   "Sublingual max bioavailability": [
+    "y"
+   ],
+   "Sublingual threshold dose": [
+    "x"
+   ],
+   "Sublingual dose units": [
+    "mg"
+   ],
+   "Sublingual min light dose": [
+    "x"
+   ],
+   "Sublingual max light dose": [
+    "y"
+   ],
+   "Sublingual min common dose": [
+    "x"
+   ],
+   "Sublingual max common dose": [
+    "y"
+   ],
+   "Sublingual min strong dose": [
+    "x"
+   ],
+   "Sublingual max strong dose": [
+    "y"
+   ],
+   "Sublingual heavy dose": [
+    "x"
+   ],
+   "Sublingual min total time": [
+    "a"
+   ],
+   "Sublingual max total time": [
+    "b"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "a"
+   ],
+   "Sublingual max onset time": [
+    "b"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "a"
+   ],
+   "Sublingual max comeup time": [
+    "b"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "a"
+   ],
+   "Sublingual max peak time": [
+    "b"
+   ],
+   "Sublingual peak time units": [
+    "hours"
+   ],
+   "Sublingual min offset time": [
+    "a"
+   ],
+   "Sublingual max offset time": [
+    "b"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ],
+   "Sublingual min afterglow time": [
+    "a"
+   ],
+   "Sublingual max afterglow time": [
+    "b"
+   ],
+   "Sublingual afterglow time units": [
+    "hours"
+   ],
+   "Buccal min bioavailability": [
+    "x"
+   ],
+   "Buccal max bioavailability": [
+    "y"
+   ],
+   "Buccal threshold dose": [
+    "x"
+   ],
+   "Buccal dose units": [
+    "mg"
+   ],
+   "Buccal min light dose": [
+    "x"
+   ],
+   "Buccal max light dose": [
+    "y"
+   ],
+   "Buccal min common dose": [
+    "x"
+   ],
+   "Buccal max common dose": [
+    "y"
+   ],
+   "Buccal min strong dose": [
+    "x"
+   ],
+   "Buccal max strong dose": [
+    "y"
+   ],
+   "Buccal heavy dose": [
+    "x"
+   ],
+   "Buccal min total time": [
+    "x"
+   ],
+   "Buccal max total time": [
+    "y"
+   ],
+   "Buccal total time units": [
+    "hours"
+   ],
+   "Buccal min onset time": [
+    "x"
+   ],
+   "Buccal max onset time": [
+    "y"
+   ],
+   "Buccal onset time units": [
+    "minutes"
+   ],
+   "Buccal min comeup time": [
+    "x"
+   ],
+   "Buccal max comeup time": [
+    "y"
+   ],
+   "Buccal comeup time units": [
+    "minutes"
+   ],
+   "Buccal min peak time": [
+    "x"
+   ],
+   "Buccal max peak time": [
+    "y"
+   ],
+   "Buccal peak time units": [
+    "hours"
+   ],
+   "Buccal min offset time": [
+    "x"
+   ],
+   "Buccal max offset time": [
+    "y"
+   ],
+   "Buccal offset time units": [
+    "hours"
+   ],
+   "Buccal min afterglow time": [
+    "x"
+   ],
+   "Buccal max afterglow time": [
+    "y"
+   ],
+   "Buccal afterglow time units": [
+    "hours"
+   ],
+   "Insufflated min bioavailability": [
+    "x"
+   ],
+   "Insufflated max bioavailability": [
+    "y"
+   ],
+   "Insufflated threshold dose": [
+    "x"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "x"
+   ],
+   "Insufflated max light dose": [
+    "y"
+   ],
+   "Insufflated min common dose": [
+    "x"
+   ],
+   "Insufflated max common dose": [
+    "y"
+   ],
+   "Insufflated min strong dose": [
+    "x"
+   ],
+   "Insufflated max strong dose": [
+    "y"
+   ],
+   "Insufflated heavy dose": [
+    "x"
+   ],
+   "Insufflated min total time": [
+    "x"
+   ],
+   "Insufflated max total time": [
+    "y"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "x"
+   ],
+   "Insufflated max onset time": [
+    "y"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "x"
+   ],
+   "Insufflated max comeup time": [
+    "y"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "x"
+   ],
+   "Insufflated max peak time": [
+    "y"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "x"
+   ],
+   "Insufflated max offset time": [
+    "y"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "x"
+   ],
+   "Insufflated max afterglow time": [
+    "y"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Rectal min bioavailability": [
+    "x"
+   ],
+   "Rectal max bioavailability": [
+    "y"
+   ],
+   "Rectal threshold dose": [
+    "x"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "x"
+   ],
+   "Rectal max light dose": [
+    "y"
+   ],
+   "Rectal min common dose": [
+    "x"
+   ],
+   "Rectal max common dose": [
+    "y"
+   ],
+   "Rectal min strong dose": [
+    "x"
+   ],
+   "Rectal max strong dose": [
+    "y"
+   ],
+   "Rectal heavy dose": [
+    "x"
+   ],
+   "Rectal min total time": [
+    "x"
+   ],
+   "Rectal max total time": [
+    "y"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "x"
+   ],
+   "Rectal max onset time": [
+    "y"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "x"
+   ],
+   "Rectal max comeup time": [
+    "y"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "x"
+   ],
+   "Rectal max peak time": [
+    "y"
+   ],
+   "Rectal peak time units": [
+    "hours"
+   ],
+   "Rectal min offset time": [
+    "x"
+   ],
+   "Rectal max offset time": [
+    "y"
+   ],
+   "Rectal offset time units": [
+    "hours"
+   ],
+   "Rectal min afterglow time": [
+    "x"
+   ],
+   "Rectal max afterglow time": [
+    "y"
+   ],
+   "Rectal afterglow time units": [
+    "hours"
+   ],
+   "Transdermal min bioavailability": [
+    "x"
+   ],
+   "Transdermal max bioavailability": [
+    "y"
+   ],
+   "Transdermal threshold dose": [
+    "x"
+   ],
+   "Transdermal dose units": [
+    "mg"
+   ],
+   "Transdermal min light dose": [
+    "x"
+   ],
+   "Transdermal max light dose": [
+    "y"
+   ],
+   "Transdermal min common dose": [
+    "x"
+   ],
+   "Transdermal max common dose": [
+    "y"
+   ],
+   "Transdermal min strong dose": [
+    "x"
+   ],
+   "Transdermal max strong dose": [
+    "y"
+   ],
+   "Transdermal heavy dose": [
+    "x"
+   ],
+   "Transdermal min total time": [
+    "x"
+   ],
+   "Transdermal max total time": [
+    "y"
+   ],
+   "Transdermal total time units": [
+    "hours"
+   ],
+   "Transdermal min onset time": [
+    "x"
+   ],
+   "Transdermal max onset time": [
+    "y"
+   ],
+   "Transdermal onset time units": [
+    "minutes"
+   ],
+   "Transdermal min comeup time": [
+    "x"
+   ],
+   "Transdermal max comeup time": [
+    "y"
+   ],
+   "Transdermal comeup time units": [
+    "minutes"
+   ],
+   "Transdermal min peak time": [
+    "x"
+   ],
+   "Transdermal max peak time": [
+    "y"
+   ],
+   "Transdermal peak time units": [
+    "hours"
+   ],
+   "Transdermal min offset time": [
+    "x"
+   ],
+   "Transdermal max offset time": [
+    "y"
+   ],
+   "Transdermal offset time units": [
+    "hours"
+   ],
+   "Transdermal min afterglow time": [
+    "x"
+   ],
+   "Transdermal max afterglow time": [
+    "y"
+   ],
+   "Transdermal afterglow time units": [
+    "hours"
+   ],
+   "Subcutaneous min bioavailability": [
+    "x"
+   ],
+   "Subcutaneous max bioavailability": [
+    "y"
+   ],
+   "Subcutaneous threshold dose": [
+    "x"
+   ],
+   "Subcutaneous dose units": [
+    "mg"
+   ],
+   "Subcutaneous min light dose": [
+    "x"
+   ],
+   "Subcutaneous max light dose": [
+    "y"
+   ],
+   "Subcutaneous min common dose": [
+    "x"
+   ],
+   "Subcutaneous max common dose": [
+    "y"
+   ],
+   "Subcutaneous min strong dose": [
+    "x"
+   ],
+   "Subcutaneous max strong dose": [
+    "y"
+   ],
+   "Subcutaneous heavy dose": [
+    "x"
+   ],
+   "Subcutaneous min total time": [
+    "x"
+   ],
+   "Subcutaneous max total time": [
+    "y"
+   ],
+   "Subcutaneous total time units": [
+    "hours"
+   ],
+   "Subcutaneous min onset time": [
+    "x"
+   ],
+   "Subcutaneous max onset time": [
+    "y"
+   ],
+   "Subcutaneous onset time units": [
+    "minutes"
+   ],
+   "Subcutaneous min comeup time": [
+    "x"
+   ],
+   "Subcutaneous max comeup time": [
+    "y"
+   ],
+   "Subcutaneous comeup time units": [
+    "minutes"
+   ],
+   "Subcutaneous min peak time": [
+    "x"
+   ],
+   "Subcutaneous max peak time": [
+    "y"
+   ],
+   "Subcutaneous peak time units": [
+    "hours"
+   ],
+   "Subcutaneous min offset time": [
+    "x"
+   ],
+   "Subcutaneous max offset time": [
+    "y"
+   ],
+   "Subcutaneous offset time units": [
+    "hours"
+   ],
+   "Subcutaneous min afterglow time": [
+    "x"
+   ],
+   "Subcutaneous max afterglow time": [
+    "y"
+   ],
+   "Subcutaneous afterglow time units": [
+    "hours"
+   ],
+   "Intramuscular min bioavailability": [
+    "x"
+   ],
+   "Intramuscular max bioavailability": [
+    "y"
+   ],
+   "Intramuscular threshold dose": [
+    "x"
+   ],
+   "Intramuscular dose units": [
+    "mg"
+   ],
+   "Intramuscular min light dose": [
+    "x"
+   ],
+   "Intramuscular max light dose": [
+    "y"
+   ],
+   "Intramuscular min common dose": [
+    "x"
+   ],
+   "Intramuscular max common dose": [
+    "y"
+   ],
+   "Intramuscular min strong dose": [
+    "x"
+   ],
+   "Intramuscular max strong dose": [
+    "y"
+   ],
+   "Intramuscular heavy dose": [
+    "x"
+   ],
+   "Intramuscular min total time": [
+    "x"
+   ],
+   "Intramuscular max total time": [
+    "y"
+   ],
+   "Intramuscular total time units": [
+    "hours"
+   ],
+   "Intramuscular min onset time": [
+    "x"
+   ],
+   "Intramuscular max onset time": [
+    "y"
+   ],
+   "Intramuscular onset time units": [
+    "minutes"
+   ],
+   "Intramuscular min comeup time": [
+    "x"
+   ],
+   "Intramuscular max comeup time": [
+    "y"
+   ],
+   "Intramuscular comeup time units": [
+    "minutes"
+   ],
+   "Intramuscular min peak time": [
+    "x"
+   ],
+   "Intramuscular max peak time": [
+    "y"
+   ],
+   "Intramuscular peak time units": [
+    "hours"
+   ],
+   "Intramuscular min offset time": [
+    "x"
+   ],
+   "Intramuscular max offset time": [
+    "y"
+   ],
+   "Intramuscular offset time units": [
+    "hours"
+   ],
+   "Intramuscular min afterglow time": [
+    "x"
+   ],
+   "Intramuscular max afterglow time": [
+    "y"
+   ],
+   "Intramuscular afterglow time units": [
+    "hours"
+   ],
+   "Intravenous min bioavailability": [
+    "x"
+   ],
+   "Intravenous max bioavailability": [
+    "y"
+   ],
+   "Intravenous threshold dose": [
+    "x"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "x"
+   ],
+   "Intravenous max light dose": [
+    "y"
+   ],
+   "Intravenous min common dose": [
+    "x"
+   ],
+   "Intravenous max common dose": [
+    "y"
+   ],
+   "Intravenous min strong dose": [
+    "x"
+   ],
+   "Intravenous max strong dose": [
+    "y"
+   ],
+   "Intravenous heavy dose": [
+    "x"
+   ],
+   "Intravenous min total time": [
+    "x"
+   ],
+   "Intravenous max total time": [
+    "y"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "x"
+   ],
+   "Intravenous max onset time": [
+    "y"
+   ],
+   "Intravenous onset time units": [
+    "minutes"
+   ],
+   "Intravenous min comeup time": [
+    "x"
+   ],
+   "Intravenous max comeup time": [
+    "y"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "x"
+   ],
+   "Intravenous max peak time": [
+    "y"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "x"
+   ],
+   "Intravenous max offset time": [
+    "y"
+   ],
+   "Intravenous offset time units": [
+    "hours"
+   ],
+   "Intravenous min afterglow time": [
+    "x"
+   ],
+   "Intravenous max afterglow time": [
+    "y"
+   ],
+   "Intravenous afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:DMT.svg",
+   "clean": "File:DMT.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::DMT]], [[common name::Dimethyltryptamine]], [[common name::Dmitri]]",
+   "clean": "DMT, Dimethyltryptamine, Dmitri"
+  },
+  "NameSubstitution": {
+   "raw": "N,N-Dimethyltryptamine",
+   "clean": "N,N-Dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-(1H-Indol-3-yl)-N,N-dimethylethanamine]]",
+   "clean": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::x]]% - [[Oral max bioavailability::y]]%<ref>APA formatted citation.</ref>",
+   "clean": "x% - y%"
+  },
+  "OralROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::x]] -  [[Oral dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::x]] - [[Oral max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::x]] - [[Oral max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::x]] - [[Oral max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::x]] - [[Oral max total time::y]] [[Oral total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::x]] - [[Oral max onset time::y]] [[Oral onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::x]] - [[Oral max comeup time::y]] [[Oral comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::x]] - [[Oral max peak time::y]] [[Oral peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::x]] - [[Oral max offset time::y]] [[Oral offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::x]] - [[Oral max afterglow time::y]] [[Oral afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "[[Sublingual min bioavailability::x]]% - [[Sublingual max bioavailability::y]]%",
+   "clean": "x% - y%"
+  },
+  "SublingualROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "[[Sublingual threshold dose::x]] - [[Sublingual dose units::mg]]",
+   "clean": "x - mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::x]] - [[Sublingual max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::x]] - [[Sublingual max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::x]] - [[Sublingual max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "[[Sublingual heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::a]] - [[Sublingual max total time::b]] [[Sublingual total time units::hours]]",
+   "clean": "a - b hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::a]] - [[Sublingual max onset time::b]] [[Sublingual onset time units::minutes]]",
+   "clean": "a - b minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::a]] - [[Sublingual max comeup time::b]] [[Sublingual comeup time units::minutes]]",
+   "clean": "a - b minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::a]] - [[Sublingual max peak time::b]] [[Sublingual peak time units::hours]]",
+   "clean": "a - b hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::a]] - [[Sublingual max offset time::b]] [[Sublingual offset time units::hours]]",
+   "clean": "a - b hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::a]] - [[Sublingual max afterglow time::b]] [[Sublingual afterglow time units::hours]]",
+   "clean": "a - b hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "BuccalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "BuccalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "[[Buccal min bioavailability::x]]% - [[Buccal max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "BuccalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "[[Buccal threshold dose::x]] -  [[Buccal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "[[Buccal min light dose::x]] - [[Buccal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "[[Buccal min common dose::x]] - [[Buccal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "[[Buccal min strong dose::x]] - [[Buccal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": "[[Buccal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "[[Buccal min total time::x]] - [[Buccal max total time::y]] [[Buccal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "[[Buccal min onset time::x]] - [[Buccal max onset time::y]] [[Buccal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "BuccalROA_Comeup": {
+   "raw": "[[Buccal min comeup time::x]] - [[Buccal max comeup time::y]] [[Buccal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "[[Buccal min peak time::x]] - [[Buccal max peak time::y]] [[Buccal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "[[Buccal min offset time::x]] - [[Buccal max offset time::y]] [[Buccal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "[[Buccal min afterglow time::x]] - [[Buccal max afterglow time::y]] [[Buccal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "[[Insufflated min bioavailability::x]]% - [[Insufflated max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "InsufflatedROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::x]] -  [[Insufflated dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::x]] - [[Insufflated max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::x]] - [[Insufflated max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::x]] - [[Insufflated max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::x]] - [[Insufflated max total time::y]] [[Insufflated total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::x]] - [[Insufflated max onset time::y]] [[Insufflated onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::x]] - [[Insufflated max comeup time::y]] [[Insufflated comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::x]] - [[Insufflated max peak time::y]] [[Insufflated peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::x]] - [[Insufflated max offset time::y]] [[Insufflated offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::x]] - [[Insufflated max afterglow time::y]] [[Insufflated afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "[[Rectal min bioavailability::x]]% - [[Rectal max bioavailability::y]]",
+   "clean": "x% - y"
+  },
+  "RectalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "[[Rectal threshold dose::x]] -  [[Rectal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::x]] - [[Rectal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::x]] - [[Rectal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::x]] - [[Rectal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::x]] - [[Rectal max total time::y]] [[Rectal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::x]] - [[Rectal max onset time::y]] [[Rectal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::x]] - [[Rectal max comeup time::y]] [[Rectal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::x]] - [[Rectal max peak time::y]] [[Rectal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::x]] - [[Rectal max offset time::y]] [[Rectal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::x]] - [[Rectal max afterglow time::y]] [[Rectal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "[[Transdermal min bioavailability::x]]% - [[Transdermal max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "TransdermalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "[[Transdermal threshold dose::x]] -  [[Transdermal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "[[Transdermal min light dose::x]] - [[Transdermal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "[[Transdermal min common dose::x]] - [[Transdermal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "[[Transdermal min strong dose::x]] - [[Transdermal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": "[[Transdermal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "[[Transdermal min total time::x]] - [[Transdermal max total time::y]] [[Transdermal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "[[Transdermal min onset time::x]] - [[Transdermal max onset time::y]] [[Transdermal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "TransdermalROA_Comeup": {
+   "raw": "[[Transdermal min comeup time::x]] - [[Transdermal max comeup time::y]] [[Transdermal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "[[Transdermal min peak time::x]] - [[Transdermal max peak time::y]] [[Transdermal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "[[Transdermal min offset time::x]] - [[Transdermal max offset time::y]] [[Transdermal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "[[Transdermal min afterglow time::x]] - [[Transdermal max afterglow time::y]] [[Transdermal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "[[Subcutaneous min bioavailability::x]]% - [[Subcutaneous max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "SubcutaneousROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "[[Subcutaneous threshold dose::x]] -  [[Subcutaneous dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "[[Subcutaneous min light dose::x]] - [[Subcutaneous max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "[[Subcutaneous min common dose::x]] - [[Subcutaneous max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "[[Subcutaneous min strong dose::x]] - [[Subcutaneous max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": "[[Subcutaneous heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "[[Subcutaneous min total time::x]] - [[Subcutaneous max total time::y]] [[Subcutaneous total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "[[Subcutaneous min onset time::x]] - [[Subcutaneous max onset time::y]] [[Subcutaneous onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "SubcutaneousROA_Comeup": {
+   "raw": "[[Subcutaneous min comeup time::x]] - [[Subcutaneous max comeup time::y]] [[Subcutaneous comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "[[Subcutaneous min peak time::x]] - [[Subcutaneous max peak time::y]] [[Subcutaneous peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "[[Subcutaneous min offset time::x]] - [[Subcutaneous max offset time::y]] [[Subcutaneous offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "[[Subcutaneous min afterglow time::x]] - [[Subcutaneous max afterglow time::y]] [[Subcutaneous afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "[[Intramuscular min bioavailability::x]]% - [[Intramuscular max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "IntramuscularROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "[[Intramuscular threshold dose::x]] -  [[Intramuscular dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Intramuscular min light dose::x]] - [[Intramuscular max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Intramuscular min common dose::x]] - [[Intramuscular max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Intramuscular min strong dose::x]] - [[Intramuscular max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Intramuscular heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Intramuscular min total time::x]] - [[Intramuscular max total time::y]] [[Intramuscular total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Intramuscular min onset time::x]] - [[Intramuscular max onset time::y]] [[Intramuscular onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Intramuscular min comeup time::x]] - [[Intramuscular max comeup time::y]] [[Intramuscular comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Intramuscular min peak time::x]] - [[Intramuscular max peak time::y]] [[Intramuscular peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Intramuscular min offset time::x]] - [[Intramuscular max offset time::y]] [[Intramuscular offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "[[Intramuscular min afterglow time::x]] - [[Intramuscular max afterglow time::y]] [[Intramuscular afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "[[Intravenous min bioavailability::x]]% - [[Intravenous max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "IntravenousROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::x]] -  [[Intravenous dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::x]] - [[Intravenous max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::x]] - [[Intravenous max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::x]] - [[Intravenous max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::x]] - [[Intravenous max total time::y]] [[Intravenous total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::x]] - [[Intravenous max onset time::y]] [[Intravenous onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::x]] - [[Intravenous max comeup time::y]] [[Intravenous comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::x]] - [[Intravenous max peak time::y]] [[Intravenous peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::x]] - [[Intravenous max offset time::y]] [[Intravenous offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "[[Intravenous min afterglow time::x]] - [[Intravenous max afterglow time::y]] [[Intravenous afterglow time units::hours]]",
+   "clean": "x - y hours"
+  }
+ },
+ "plain_text": "Nymphaea caerulea, more commonly referred to as Blue Lotus, is a psychoactive plant historically revered for its calming and mildly euphoric effects. Native to the Nile River region, this sacred water lily has held a significant place in Egyptian mythology, where it was often associated with spiritual awakening and divine connection. Today, Blue Lotus is widely explored for its potential to induce relaxation, enhance introspection, and promote a dreamlike state. With a primary focus on its active alkaloids, nuciferine and aporphine, Blue Lotus exhibits a unique profile that combines mild sedative properties with subtle psychoactivity. Whether smoked, brewed as tea, or consumed as an extract, its effects are often described as calming yet uplifting, with a sensation akin to floating in tranquil waters.\n\nHistory and culture\n\nThe use of Blue Lotus dates back to Ancient Egypt, where it held significant cultural and religious importance. Often depicted in hieroglyphs, murals, and artifacts, the flower was closely associated with the sun god Ra and the concept of rebirth, due to its tendency to bloom with the sunrise and close at night.\n\nIn Egyptian mythology, Blue Lotus was thought to represent the journey of the soul and was often included in burial rituals to guide the deceased into the afterlife. Some accounts suggest it was used as a ceremonial plant, consumed in sacred rituals to induce a heightened state of consciousness, spiritual insight, and connection to the divine.\n\nBeyond Egypt, Blue Lotus found its way into other ancient cultures. In traditional Indian medicine, it was recognized for its calming and aphrodisiac properties, while ancient Greeks and Romans admired it for its beauty and potential medicinal applications. The plant’s popularity waned over time, but it has seen a resurgence in modern times among psychonauts and herbal enthusiasts exploring its psychoactive and meditative effects.\n\nChemistry\n\nPharmacology\n\nSubjective effects\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: Blue Lotus\n\nToxicity and harm potential\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nTolerance and addiction potential\n\nDangerous interactions\n\nLegal status\n\nSee also\n\n*Responsible use\n*Psychedelic\n*Cannabis",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Example}}\n\n'''Nymphaea caerulea''', more commonly referred to as '''Blue Lotus''', is a psychoactive plant historically revered for its calming and mildly euphoric effects. Native to the Nile River region, this sacred water lily has held a significant place in Egyptian mythology, where it was often associated with spiritual awakening and divine connection. Today, Blue Lotus is widely explored for its potential to induce relaxation, enhance introspection, and promote a dreamlike state. With a primary focus on its active alkaloids, '''nuciferine''' and '''aporphine''', Blue Lotus exhibits a unique profile that combines mild sedative properties with subtle psychoactivity. Whether smoked, brewed as tea, or consumed as an extract, its effects are often described as calming yet uplifting, with a sensation akin to floating in tranquil waters.\n\n==History and culture==\nThe use of Blue Lotus dates back to Ancient Egypt, where it held significant cultural and religious importance. Often depicted in hieroglyphs, murals, and artifacts, the flower was closely associated with the sun god Ra and the concept of rebirth, due to its tendency to bloom with the sunrise and close at night.\n\nIn Egyptian mythology, Blue Lotus was thought to represent the journey of the soul and was often included in burial rituals to guide the deceased into the afterlife. Some accounts suggest it was used as a ceremonial plant, consumed in sacred rituals to induce a heightened state of consciousness, spiritual insight, and connection to the divine.\n\nBeyond Egypt, Blue Lotus found its way into other ancient cultures. In traditional Indian medicine, it was recognized for its calming and aphrodisiac properties, while ancient Greeks and Romans admired it for its beauty and potential medicinal applications. The plant’s popularity waned over time, but it has seen a resurgence in modern times among psychonauts and herbal enthusiasts exploring its psychoactive and meditative effects.\n\n==Chemistry==\n{{chemistry}}\n\n==Pharmacology==\n{{pharmacology}}\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Perception of bodily lightness]]''' - This effect can be described as mild, warm, and comforting.\n*'''[[Effect::Physical euphoria]]''' - The physical euphoria produced by Blue Lotus is often compared to opioids.\n*'''[[Effect::Nausea]]''' - Although mild, this symptom is not generally observed in all users. Apomorphine/aporphine derivatives can induce vomiting in high doses, but severe nausea is typically only experienced at very high doses of Blue Lotus.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Increased appetite]]'''\n}}\n{{effects/visual|\nBlue Lotus is capable of producing psychedelic-like visual effects, particularly at high doses.\n*'''[[Effect::Acuity suppression]]'''\n\n====Enhancements====\n*'''[[Effect::Color enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]'''\n*'''[[Effect::Depth perception distortion]]'''\n\n====[[Effect::Geometry]]====\nBlue Lotus is reported to produce up to Level 6 geometry, which is often compared to [[cannabis]] and [[dmt]].\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]'''\n*'''[[Effect::External hallucination]]'''\n**'''[[Settings, sceneries, and landscapes]]'''\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - Can be described as a gentle but effective feeling of bliss.\n*'''[[Effect::Cognitive euphoria]]''' - The euphoria produced by Blue Lotus is often compared to opioids.\n*'''[[Effect::Mood enhancement]]'''\n*'''[[Effect::Introspection]]''' - This effect is not as prominent as it is in other substances such as [[psychedelics]].\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Increased libido]]''' - Blue Lotus is reported to be an aphrodisiac, and the increase in libido is often accompanied by [[empathy, affection, and sociability enhancement]].\n*'''[[Effect::Empathy, affection, and sociability enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n*'''[[Effect::Dream potentiation]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently {{#ask:[[Category:Blue Lotus]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:Blue Lotus]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Blue_Lotus.shtml Erowid Experience Vaults: Blue Lotus]\n\n==Toxicity and harm potential==\n{{toxicity}}\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n\n===Lethal dosage===\n\n===Tolerance and addiction potential===\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n==Legal status==\n{{LegalStub}}\n\n==See also==\n*[[Responsible use]]\n*[[Psychedelic]]\n*[[Cannabis]]"
+}

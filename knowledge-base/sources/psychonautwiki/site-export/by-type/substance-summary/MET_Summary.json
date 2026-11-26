@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13365",
+ "type": "substance-summary",
+ "title": "MET/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MET/Summary",
+  "pageid": 13365,
+  "last_edited": "2016-11-27T23:31:57Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "MET",
+ "plain_text": "",
+ "wikitext": "{{Summary|MET}}"
+}

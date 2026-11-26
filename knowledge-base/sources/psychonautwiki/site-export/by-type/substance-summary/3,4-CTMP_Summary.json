@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12954",
+ "type": "substance-summary",
+ "title": "3,4-CTMP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3%2C4-CTMP/Summary",
+  "pageid": 12954,
+  "last_edited": "2016-10-25T20:13:23Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "3,4-CTMP",
+ "plain_text": "",
+ "wikitext": "{{Summary|3,4-CTMP}}"
+}

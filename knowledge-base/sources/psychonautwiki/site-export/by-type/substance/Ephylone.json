@@ -1,0 +1,312 @@
+{
+ "id": "psychonautwiki:16699",
+ "type": "substance",
+ "title": "Ephylone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ephylone",
+  "pageid": 16699,
+  "last_edited": "2022-07-31T22:15:07Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Cathinone",
+  "Entactogen",
+  "MDxx",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Ephylone",
+ "substance_box": {
+  "names": {
+   "common": "Ephylone, bk-EBDP, βk-EBDP, bk-ethyl-K",
+   "substitutive": "N-Ethylpentylone",
+   "systematic": "1-(2H-1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Cathinone / MDxx"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 80 mg",
+    "heavy": "Ephylone may be fatal at heavy doses.",
+    "duration": "4 - 8 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ephylone",
+    "bk-EBDP",
+    "βk-EBDP",
+    "bk-ethyl-K"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "80"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N-Ethylpentylone",
+   "clean": "Molecular structure of N-Ethylpentylone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:N-ethyl-nor-pentylone.svg",
+   "clean": "File:N-ethyl-nor-pentylone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ephylone]], [[common name::bk-EBDP]], [[common name::βk-EBDP]], [[common name::bk-ethyl-K]]",
+   "clean": "Ephylone, bk-EBDP, βk-EBDP, bk-ethyl-K"
+  },
+  "NameSubstitution": {
+   "raw": "N-Ethylpentylone",
+   "clean": "N-Ethylpentylone"
+  },
+  "NameSystematic": {
+   "raw": "1-(2H-1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one",
+   "clean": "1-(2H-1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[Substituted cathinone|Cathinone]] / [[MDxx]]",
+   "clean": "Cathinone / MDxx"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::80]] mg",
+   "clean": "40 - 80 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "<span style=\"color:red\">'''Ephylone may be fatal at heavy doses.'''</span>",
+   "clean": "Ephylone may be fatal at heavy doses."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  }
+ },
+ "plain_text": "N-Ethylpentylone (also known as bk-EBDP, βk-EBDP, and ephylone) is a novel stimulant-entactogen substance of the cathinone class. Ephylone is chemically related to pentylone and belongs to a group of compounds known as the substituted cathinones. Little is known about its pharmacology, although it likely produces its effects by increasing levels of serotonin, dopamine, and norepinephrine in the brain.\n\nEphylone was developed in the 1960s by Boehringer Ingelheim as a central nervous system stimulant, although it never became marketed. Reports of recreational use first appeared in late 2015. Since then, its prevalence has steadily risen, particularly at dance music festivals where it appears as an adulterant or counterfeit for MDMA. Ephylone has been linked to numerous hospitalizations and overdose deaths.\n\nUser reports indicate that ephylone produces a mixture of classic stimulant and entactogenic effects resembling those of MDMA, methylone and cocaine. Typical effects include stimulation, disinhibition, increased libido, compulsive redosing, and euphoria. Unlike similar substances, however, ephylone is reported to be very long lasting when taken in larger doses. The significance of this is not known, although it may indicate that it has a different toxicity profile compared to other stimulants. \n\nEphylone is sold online as a research chemical alongside other synthetic cathinones like ethylone and dibutylone. Due to the lack of research, it is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nSynthetic cathinones were first synthesized in the late 1920s, starting with methcathinone and mephedrone. However, they did not find medical use due to their side effects. In the early 2000s, synthetic cathinones began to be sold in \"head\" shops and online as designer drugs, also known as research chemicals and \"legal highs\". Their quasi-legality and ability to substitute for traditional stimulants like cocaine or amphetamine made them popular in certain demographics. Due to a history of being falsely marketed as bath salt products, they are referred in the media as \"bath salts.\" \n\nThe synthesis of ephylone was first described in a patent filed by Boehringer Ingelheim in 1969. It was described alongside the synthesis of other novel central nervous system stimulants including pentylone, butylone and dibutylone. However, its pharmacological properties were not tested and it was never marketed.\n\nThe emergence of ephylone on the recreational drug market was reported in drug seizures for the first time in 2016. According to 2017 DEA reports, ephylone was the number one reported synthetic cathinone accounting for 55%, 50% and 38% of cases reported for the first three quarters of 2017, respectively.\n\nReports about the availability and effects of ephylone began to appear in forums such as bluelight.org or drugs-forum.com by mid-2015. A 2018 report issued by the drug testing organization Energy Control found evidence indicating increasing use of ephylone as a counterfeit or adulterant for MDMA.\n\nChemistry\n\nEphylone, or N-ethylpentylone, is a synthetic substance belonging to a group known as substituted cathinones. Substituted cathinones are derivatives of the naturally occurring substance cathinone, which is one of the psychoactive principles in khat (Catha edullis). Cathinone is composed of a phenethylamine core with an alkyl group attached to the alpha carbon, and a ketone group attached to the beta carbon. \n\nEphylone is a structural analog of pentylone. Pentylone's chemical structure consists of a cathinone core substituted with a methylenedioxy ring at R3 and R4 of the phenyl ring, a propyl group at the alpha carbon, and a methyl group at the amino group. Ephylone has an identical structure with the exception of an N-ethyl alkyl substituting for the N-methyl moiety.\n\nPharmacology\n\nVery little data exists on the human pharmacokinetics and pharmacodynamics of ethylone and other substituted cathinones. Like amphetamines, synthetic cathinones exert their stimulating and sympathomimetic effects via increasing synaptic concentration of catecholamines such as dopamine, serotonin and norepinephrine. These molecules are able to inhibit monoamine reuptake transporters producing a decreased clearance of the neurotransmitters from the synapse. Furthermore, they may cause release of biogenic amines from intracellular stores. \n\nSynthetic cathinones are generally less able than amphetamines to cross the blood–brain barrier because the beta-keto group causes an increase in polarity. Unlike other synthetic cathinones, pyrrolidine derivatives have a higher ability to cross the blood–brain barrier because the pyrrolidine ring confers a low polarity to these molecules. The studies on the metabolism of synthetic cathinones have shown that they are N-demethylated, the keto group is reduced to hydroxyl and ring alkyl groups are oxidised.\n\nSubjective effects\n\nCompared to other stimulant-entactogens, ephylone is reported to be more stimulating than entactogenic. Entactogenic feelings are said to be weak compared to substances like MDMA, 6-APB or methylone. Ephylone is also described as less euphoric and satisfying than traditional entactogens. Reports suggest that the physical side effects increase disproportionately to the desirable effects, which may promote compulsive redosing. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: Ephylone\n\nToxicity and harm potential\n\nEphylone is a research chemical with a very short history of human usage. Very little is known about its long-term health effects and the exact toxic dosage is unknown. \n\nNumerous reports of hospitalizations and overdose deaths indicate that ephylone is extremely toxic at very high dosages. The DEA claimed approximately 151 ephylone-related deaths occurred in the U.S. between 2014 and 2018. Higher dosages of ephylone have been linked to serotonin syndrome, rhabdomyolysis, kidney injury, acidemia and other life-threatening symptoms.\n\nIt is strongly advised to use harm reduction practices if using this substance.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of ephylone can be considered moderately addictive with a high potential for abuse. It is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects will occur if one suddenly stops their use.\n\nTolerance to many of the effects of ephylone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects.\n\nDangerous interactions\n\n*Stimulants - Combining ephylone with other stimulants may result in dangerous increases in blood pressure and heart rate. \n\nSerotonin syndrome risk\n\nLegal status\n\nEphylone is currently unscheduled in most parts of the world.\n\n*Brazil: On September 7, 2018, all Cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.\n*Germany: Ephylone is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of December 21, 2019. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Switzerland: Ephylone can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.\n*United States: On July 13, 2018, the DEA issued a temporary scheduling order to place ephylone in schedule I of the Controlled Substances Act (CSA). This makes the production, sale, and possession of ephylone illegal.\n\nSee also\n\n*Responsible use\n*Entactogens\n*Stimulants\n*Cathinones\n*Methylone\n*MDPV\n\nExternal links\n\n*Ephylone (Wikipedia)\n*Ephylone (Isomer Design)\n\nLiterature\n\n* Prosser, J. M., & Nelson, L. S. (2012). The toxicology of bath salts: a review of synthetic cathinones. Journal of Medical Toxicology, 8(1), 33-42. https://doi.org/0.1007/s13181-011-0193-z.\n* Wood, M. R., Bernal, I., & Lalancette, R. A. (2017). The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones. Structural Chemistry, 28(5), 1369-1376. http://dx.doi.org/10.1007/s11224-017-0951-x\n*Krotulski, A. J., Papsun, D. M., De Martinis, B. S., Mohr, A. L., & Logan, B. K. (2018). N-Ethyl Pentylone (Ephylone) Intoxications: Quantitative Confirmation and Metabolite Identification in Authentic Human Biological Specimens. Journal of Analytical Toxicology. https://doi.org/10.1093/jat/bky025\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Entactogen\nCategory:MDxx\nCategory:Cathinone\nCategory:Research chemical",
+ "wikitext": "{{headerpanel|{{Warning/Ephylone}}}}\n{{Distinguish|Ethylone}}\n{{SummarySheet}}\n{{SubstanceBox/Ephylone}}\n\n'''N-Ethylpentylone''' (also known as '''bk-EBDP''', '''βk-EBDP''', and '''ephylone''') is a novel [[Psychoactive class::stimulant]]-[[Psychoactive class::entactogen]] substance of the [[chemical class::cathinone]] class. Ephylone is chemically related to [[pentylone]] and belongs to a group of compounds known as the [[substituted cathinones]]. Little is known about its pharmacology, although it likely produces its effects by increasing levels of [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain.<ref name=\"Wood\">{{cite journal | vauthors=((Wood, M. R.)), ((Bernal, I.)), ((Lalancette, R. A.)) | journal=Structural Chemistry | title=The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones | volume=28 | issue=5 | pages=1369–1376 | date=1 October 2017 | url=https://doi.org/10.1007/s11224-017-0951-x | issn=1572-9001 | doi=10.1007/s11224-017-0951-x}}</ref>\n\nEphylone was developed in the 1960s by Boehringer Ingelheim as a central nervous system stimulant,<ref name=\"Wood\" /> although it never became marketed. Reports of recreational use first appeared in late 2015. Since then, its prevalence has steadily risen, particularly at dance music festivals where it appears as an adulterant or counterfeit for [[MDMA]].<ref name=\"Wood\" /> Ephylone has been linked to numerous hospitalizations and overdose deaths.<ref name=\"Krotulski2018\">{{cite journal | vauthors=((Krotulski, A. J.)), ((Papsun, D. M.)), ((De Martinis, B. S.)), ((Mohr, A. L. A.)), ((Logan, B. K.)) | journal=Journal of Analytical Toxicology | title=N-Ethyl Pentylone (Ephylone) Intoxications: Quantitative Confirmation and Metabolite Identification in Authentic Human Biological Specimens | volume=42 | issue=7 | pages=467–475 | date=1 September 2018 | url=https://academic.oup.com/jat/article/42/7/467/4957061 | issn=0146-4760 | doi=10.1093/jat/bky025}}</ref>\n\nUser reports indicate that ephylone produces a mixture of classic [[stimulant]] and [[entactogen|entactogenic]] effects resembling those of [[MDMA]], [[methylone]] and [[cocaine]]. Typical effects include [[stimulation]], [[disinhibition]], [[increased libido]], [[compulsive redosing]], and [[euphoria]]. Unlike similar substances, however, ephylone is reported to be very long lasting when taken in larger doses. The significance of this is not known, although it may indicate that it has a different toxicity profile compared to other stimulants. \n\nEphylone is sold online as a [[research chemical]] alongside other synthetic cathinones like [[ethylone]] and [[dibutylone]].<ref name=\"Wood\" /> Due to the lack of research, it is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\n{{Further|Research chemicals#History and culture}}\nSynthetic cathinones were first synthesized in the late 1920s, starting with [[methcathinone]] and [[mephedrone]]. However, they did not find medical use due to their side effects. In the early 2000s, synthetic cathinones began to be sold in \"head\" shops and online as [[designer drugs]], also known as [[research chemicals]] and \"legal highs\".<ref>{{cite journal | vauthors=((Coppola, M.)), ((Mondola, R.)) | journal=Toxicology Letters | title=Synthetic cathinones: Chemistry, pharmacology and toxicology of a new class of designer drugs of abuse marketed as “bath salts” or “plant food” | volume=211 | issue=2 | pages=144–149 | date= June 2012 | url=https://linkinghub.elsevier.com/retrieve/pii/S0378427412001117 | issn=03784274 | doi=10.1016/j.toxlet.2012.03.009}}</ref> Their quasi-legality and ability to substitute for traditional stimulants like [[cocaine]] or [[amphetamine]] made them popular in certain demographics. Due to a history of being falsely marketed as bath salt products, they are referred in the media as \"bath salts.\" \n\nThe synthesis of ephylone was first described in a patent filed by Boehringer Ingelheim in 1969. It was described alongside the synthesis of other novel central nervous system stimulants including [[pentylone]], [[butylone]] and [[dibutylone]]. However, its pharmacological properties were not tested and it was never marketed.\n\nThe emergence of ephylone on the recreational drug market was reported in drug seizures for the first time in 2016. According to 2017 DEA reports, ephylone was the number one reported synthetic cathinone accounting for 55%, 50% and 38% of cases reported for the first three quarters of 2017, respectively.<ref name=\"Krotulski2018\"/>\n\nReports about the availability and effects of ephylone began to appear in forums such as bluelight.org or drugs-forum.com by mid-2015. A 2018 report issued by the drug testing organization Energy Control found evidence indicating increasing use of ephylone as a counterfeit or adulterant for [[MDMA]].<ref>{{Citation | vauthors=DoctorX | title=Ecstasy and MDMA aldulterated with N-Ethyl-Pentylone. A brief report |publisher=International Energy Control | url=https://energycontrol-international.org/ecstasy-mdma-aldulterated-with-n-ethyl-pentylone-report/}}</ref>\n\n==Chemistry==\nEphylone, or N-ethylpentylone, is a synthetic substance belonging to a group known as [[substituted cathinones]]. Substituted cathinones are derivatives of the naturally occurring substance [[cathinone]], which is one of the psychoactive principles in khat (Catha edullis). Cathinone is composed of a phenethylamine core with an alkyl group attached to the alpha carbon, and a ketone group attached to the beta carbon. \n\nEphylone is a structural analog of pentylone. Pentylone's chemical structure consists of a cathinone core substituted with a methylenedioxy ring at R3 and R4 of the phenyl ring, a propyl group at the alpha carbon, and a methyl group at the amino group. Ephylone has an identical structure with the exception of an N-ethyl alkyl substituting for the N-methyl moiety.\n\n==Pharmacology==\nVery little data exists on the human pharmacokinetics and pharmacodynamics of ethylone and other substituted cathinones. Like amphetamines, synthetic cathinones exert their stimulating and sympathomimetic effects via increasing synaptic concentration of [[catecholamines]] such as [[dopamine]], [[serotonin]] and [[norepinephrine]]. These molecules are able to inhibit [[monoamine]] [[reuptake transporters]] producing a decreased clearance of the [[neurotransmitters]] from the synapse. Furthermore, they may cause release of biogenic amines from intracellular stores.<ref>{{cite journal | vauthors=((Cozzi, N. V.)), ((Sievert, M. K.)), ((Shulgin, A. T.)), ((Jacob, P.)), ((Ruoho, A. E.)) | journal=European Journal of Pharmacology | title=Inhibition of plasma membrane monoamine transporters by β-ketoamphetamines | volume=381 | issue=1 | pages=63–69 | date= September 1999 | url=https://linkinghub.elsevier.com/retrieve/pii/S0014299999005385 | issn=00142999 | doi=10.1016/S0014-2999(99)00538-5}}</ref> \n\nSynthetic cathinones are generally less able than amphetamines to cross the blood–brain barrier because the beta-keto group causes an increase in polarity. Unlike other synthetic cathinones, pyrrolidine derivatives have a higher ability to cross the blood–brain barrier because the pyrrolidine ring confers a low polarity to these molecules. The studies on the metabolism of synthetic cathinones have shown that they are N-demethylated, the keto group is reduced to hydroxyl and ring alkyl groups are oxidised.<ref>{{cite journal | vauthors=((Meyer, M. R.)), ((Maurer, H. H.)) | journal=Current Drug Metabolism | title=Metabolism of Designer Drugs of Abuse: An Updated Review | volume=11 | issue=5 | pages=468–482 | url=https://www.eurekaselect.com/article/16867}}</ref>\n\n==Subjective effects==\n{{effectStub}}\nCompared to other stimulant-entactogens, ephylone is reported to be more stimulating than entactogenic. Entactogenic feelings are said to be weak compared to substances like [[MDMA]], [[6-APB]] or [[methylone]]. Ephylone is also described as less euphoric and satisfying than traditional entactogens. Reports suggest that the physical side effects increase disproportionately to the desirable effects, which may promote compulsive redosing. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' \n*'''[[Effect::Spontaneous bodily sensations]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Dehydration]]''' - Ephylone appears to be dehydrating to a similar extent as substances like [[methylone]]. Users are advised to pay careful attention to both their water and electrolyte levels when taking the substance, being cautious to neither under nor over-drink.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Temperature regulation suppression]]''' \n**'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Nausea]]''' - Nausea may be briefly present during the [[come up]] phase of the experience, or at heavy doses.\n\n}}\n{{effects/visual|\n====Suppressions====\n*'''[[Effect::Peripheral information misinterpretation]]'''\n====Hallucinatory states====\n*'''[[Effect::Transformations]]''' - A rare effect that typically only occurs when the user has taken high doses, is coming down, or are sleep deprived. They are usually mild when they do occur.\n*'''[[Effect::Shadow people]]''' - A rare effect that occurs mostly due to [[sleep deprivation]] brought on by continual redosing or very high doses.\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive euphoria]]''' \n*'''[[Effect::Compulsive redosing]]''' - Reports of redose compulsion on ephylone suggests it is more similar to other substituted cathinones like [[mephedrone]], than to [[MDMA]].\n*'''[[Effect::Delusions]]''' \n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]''' \n*'''[[Effect::Emotion enhancement]]''' \n*'''[[Effect::Empathy, affection, and sociability enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''  \n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Motivation enhancement]]''' \n*'''[[Effect::Paranoia]]''' \n*'''[[Effect::Psychosis]]''' \n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n*'''[[Effect::Wakefulness]]''' \n\n}}\n{{effects/aftereffects|\nThe effects which occur during the offset of a stimulant experience generally feel negative and uncomfortable in comparison to the effects which occurred during its peak. This is often referred to as a \"comedown\" or \"crash\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n* '''[[Effect::Anxiety]]'''\n* '''[[Effect::Cognitive fatigue]]'''\n* '''[[Effect::Depression]]'''\n* '''[[Effect::Irritability]]'''\n* '''[[Effect::Motivation suppression]]'''\n* '''[[Effect::Thought deceleration]]'''\n* '''[[Effect::Wakefulness]]'''\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Ephylone]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n* [https://erowid.org/experiences/subs/exp_bkEBDP.shtml Erowid Experience Vaults: Ephylone]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential}}\n\nEphylone is a [[research chemical]] with a very short history of human usage. Very little is known about its long-term health effects and the [[Toxicity::exact toxic dosage is unknown]]. \n\nNumerous reports of hospitalizations and overdose deaths indicate that ephylone is extremely toxic at very high dosages.<ref>{{cite journal | vauthors=((Thirakul, P.)), ((S Hair, L.)), ((L Bergen, K.)), ((M Pearson, J.)) | journal=Journal of Analytical Toxicology | title=Clinical Presentation, Autopsy Results and Toxicology Findings in an Acute N-Ethylpentylone Fatality | volume=41 | issue=4 | pages=342–346 | date=1 May 2017 | issn=1945-2403 | doi=10.1093/jat/bkx004}}</ref> The DEA claimed approximately 151 ephylone-related deaths occurred in the U.S. between 2014 and 2018.<ref name=\"2018SchedulesofControlledSubstances\">{{Citation | year=2018 | title=Schedules of Controlled Substances: Temporary Placement of N-Ethylpentylone in Schedule I | url=https://www.federalregister.gov/documents/2018/06/13/2018-12669/schedules-of-controlled-substances-temporary-placement-of-n-ethylpentylone-in-schedule-i}}</ref> Higher dosages of ephylone have been linked to [[serotonin syndrome]], rhabdomyolysis, kidney injury, acidemia and other life-threatening symptoms.<ref name=\"Krotulski2018\"/>\n\nIt is strongly advised to use [[responsible use|harm reduction practices]] if using this substance.\n\n===Dependence and abuse potential===\nAs with other stimulants, the chronic use of ephylone can be considered [[Addiction potential::moderately addictive with a high potential for abuse]]. It is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal]] effects will occur if one suddenly stops their use.\n\nTolerance to many of the effects of ephylone [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n*'''[[Stimulants]]''' - Combining ephylone with other stimulants may result in dangerous [[increased blood pressure|increases in blood pressure]] and [[increased heart rate|heart rate]]. \n{{DangerousInteractions/Stimulants}}\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n{{LegalStub}}\nEphylone is currently unscheduled in most parts of the world.\n\n*'''Brazil''': On September 7, 2018, all Cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.<ref>New blanket ban on synthetic illegal drugs is approved (Portuguese) | http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil/219201/pop_up?_101_INSTANCE_FXrpx9qY7FbU_viewMode=print&_101_INSTANCE_FXrpx9qY7FbU_languageId=pt_BR</ref>\n*'''Germany''': Ephylone is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 25, 2019|language=de}}</ref> as of December 21, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s2850.pdf|title=Neunzehnte Verordnung zur Änderung von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|access-date=December 25, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 25, 2019|language=de}}</ref>\n*'''Switzerland''': Ephylone can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States''': On July 13, 2018, the DEA issued a temporary scheduling order to place ephylone in schedule I of the Controlled Substances Act (CSA).<ref name=\"2018SchedulesofControlledSubstances\"/> This makes the production, sale, and possession of ephylone illegal.\n\n==See also==\n*[[Responsible use]]\n*[[Entactogens]]\n*[[Stimulants]]\n*[[Cathinones]]\n*[[Methylone]]\n*[[MDPV]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Ephylone Ephylone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=6764 Ephylone (Isomer Design)]\n\n==Literature==\n* Prosser, J. M., & Nelson, L. S. (2012). The toxicology of bath salts: a review of synthetic cathinones. Journal of Medical Toxicology, 8(1), 33-42. https://doi.org/0.1007/s13181-011-0193-z.\n* Wood, M. R., Bernal, I., & Lalancette, R. A. (2017). The hydrochloride hydrates of pentylone and dibutylone and the hydrochloride salt of ephylone: the structures of three novel designer cathinones. Structural Chemistry, 28(5), 1369-1376. http://dx.doi.org/10.1007/s11224-017-0951-x\n*Krotulski, A. J., Papsun, D. M., De Martinis, B. S., Mohr, A. L., & Logan, B. K. (2018). N-Ethyl Pentylone (Ephylone) Intoxications: Quantitative Confirmation and Metabolite Identification in Authentic Human Biological Specimens. Journal of Analytical Toxicology. https://doi.org/10.1093/jat/bky025\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Entactogen]]\n[[Category:MDxx]]\n[[Category:Cathinone]]\n[[Category:Research chemical]]"
+}

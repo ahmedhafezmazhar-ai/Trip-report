@@ -1,0 +1,602 @@
+{
+ "id": "psychonautwiki:9007",
+ "type": "substance",
+ "title": "Pregabalin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pregabalin",
+  "pageid": 9007,
+  "last_edited": "2026-07-22T06:32:05Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Depressant",
+  "Gabapentinoid",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Pregabalin",
+ "substance_box": {
+  "names": {
+   "common": "Pregabalin, Lyrica, Nervalin",
+   "substitutive": "3-Isobutyl GABA",
+   "systematic": "(S)-3-(Aminomethyl)-5-methylhexanoic acid"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Gabapentinoid"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "~90%",
+    "threshold": "50 mg",
+    "light": "50 - 225 mg",
+    "common": "225 - 600 mg",
+    "strong": "600 - 900 mg",
+    "heavy": "900 mg +",
+    "duration": "9 - 17 hours",
+    "onset": "30 - 45 minutes",
+    "comeup": "1 - 2 hours",
+    "peak": "4 - 6 hours",
+    "offset": "4 - 8 hours",
+    "aftereffects": "4 - 10 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "~99%",
+    "threshold": "< 40 mg",
+    "light": "40 - 200 mg",
+    "common": "200 - 450 mg",
+    "strong": "450 - 600 mg",
+    "heavy": "600 mg+",
+    "duration": "5 - 8 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "30 - 120 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "3 - 5 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Pregabalin",
+    "Lyrica",
+    "Nervalin"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Gabapentinoid"
+   ],
+   "Oral min bioavailability": [
+    ""
+   ],
+   "Oral max bioavailability": [
+    "90"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "225"
+   ],
+   "Oral min common dose": [
+    "225"
+   ],
+   "Oral max common dose": [
+    "600"
+   ],
+   "Oral min strong dose": [
+    "600"
+   ],
+   "Oral max strong dose": [
+    "900"
+   ],
+   "Oral heavy dose": [
+    "900"
+   ],
+   "Oral min total time": [
+    "9"
+   ],
+   "Oral max total time": [
+    "17"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "4"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "8"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "10"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Rectal threshold dose": [
+    "40"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "40"
+   ],
+   "Rectal max light dose": [
+    "200"
+   ],
+   "Rectal min common dose": [
+    "200"
+   ],
+   "Rectal max common dose": [
+    "450"
+   ],
+   "Rectal min strong dose": [
+    "450"
+   ],
+   "Rectal max strong dose": [
+    "600"
+   ],
+   "Rectal heavy dose": [
+    "600"
+   ],
+   "Rectal min total time": [
+    "5"
+   ],
+   "Rectal max total time": [
+    "8"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "15"
+   ],
+   "Rectal max onset time": [
+    "30"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "30"
+   ],
+   "Rectal max comeup time": [
+    "120"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "2"
+   ],
+   "Rectal max peak time": [
+    "3"
+   ],
+   "Rectal peak time units": [
+    "hours"
+   ],
+   "Rectal min offset time": [
+    "3"
+   ],
+   "Rectal max offset time": [
+    "5"
+   ],
+   "Rectal offset time units": [
+    "hours"
+   ],
+   "Rectal min afterglow time": [
+    "6"
+   ],
+   "Rectal max afterglow time": [
+    "12"
+   ],
+   "Rectal afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of pregabalin",
+   "clean": "Molecular structure of pregabalin"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Pregabalin.svg",
+   "clean": "File:Pregabalin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Pregabalin]], [[common name::Lyrica]], [[common name::Nervalin]]",
+   "clean": "Pregabalin, Lyrica, Nervalin"
+  },
+  "NameSubstitution": {
+   "raw": "3-Isobutyl GABA",
+   "clean": "3-Isobutyl GABA"
+  },
+  "NameSystematic": {
+   "raw": "(S)-3-(Aminomethyl)-5-methylhexanoic acid",
+   "clean": "(S)-3-(Aminomethyl)-5-methylhexanoic acid"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Gabapentinoid]]",
+   "clean": "Gabapentinoid"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/pregabalin TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::]] ~[[Oral max bioavailability::90]]%<ref name=\"Bockbrader2010\">{{cite journal | vauthors=((Bockbrader, H. N.)), ((Radulovic, L. L.)), ((Posvar, E. L.)), ((Strand, J. C.)), ((Alvey, C. W.)), ((Busch, J. A.)), ((Randinitis, E. J.)), ((Corrigan, B. W.)), ((Haig, G. M.)), ((Boyd, R. A.)), ((Wesche, D. L.)) | journal=The Journal of Clinical Pharmacology | title=Clinical Pharmacokinetics of Pregabalin in Healthy Volunteers | volume=50 | issue=8 | pages=941–950 | date= August 2010 | url=http://doi.wiley.com/10.1177/0091270009352087 | issn=00912700 | doi=10.1177/0091270009352087}}</ref>",
+   "clean": "~90%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::225]] mg",
+   "clean": "50 - 225 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::225]] - [[Oral max common dose::600]] mg",
+   "clean": "225 - 600 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::600]] - [[Oral max strong dose::900]] mg",
+   "clean": "600 - 900 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::900]] mg +",
+   "clean": "900 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::9]] - [[Oral max total time::17]] [[Oral total time units::hours]]",
+   "clean": "9 - 17 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::4]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::8]] [[Oral offset time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::10]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/methamphetamine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "~99%",
+   "clean": "~99%"
+  },
+  "RectalROA_Threshold": {
+   "raw": "< [[Rectal threshold dose::40]] [[Rectal dose units::mg]]",
+   "clean": "< 40 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::40]] - [[Rectal max light dose::200]] mg",
+   "clean": "40 - 200 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::200]] - [[Rectal max common dose::450]] mg",
+   "clean": "200 - 450 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::450]] - [[Rectal max strong dose::600]] mg",
+   "clean": "450 - 600 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::600]] mg+",
+   "clean": "600 mg+"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::5]] - [[Rectal max total time::8]] [[Rectal total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::15]] - [[Rectal max onset time::30]] [[Rectal onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::30]] - [[Rectal max comeup time::120]] [[Rectal comeup time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::2]] - [[Rectal max peak time::3]] [[Rectal peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::3]] - [[Rectal max offset time::5]] [[Rectal offset time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::6]] - [[Rectal max afterglow time::12]] [[Rectal afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "Pregabalin (also known as 3-isobutyl GABA and by the trade-name Lyrica) is a depressant substance of the gabapentinoid class. Pregabalin is a common prescription drug, which is typically used to treat neuropathic pain, anxiety, restless leg syndrome, and as an adjunct drug in the treatment of seizures.\n\nPregabalin has a pharmacological profile comparable to that of gabapentin as they both share similar mechanisms of action and induce similar subjective effects. The advantages pregabalin has over gabapentin include greater bioavailability and potency, as well as a wider variety of accepted medical applications for pregabalin not seen with gabapentin, such as its successful use in the treatment of anxiety, in which the use of gabapentin was not successful, excluding some more severe cases. \n\nChemistry\n\nPregabalin is a structural analog of GABA (gamma-aminobutyric acid), with an isobutyl group substituted on the beta carbon of the aminobutyric chain. Pregabalin is similar in structure to other gabapentinoids, such as gabapentin and phenibut. Pregabalin contains a carboxylated chain of hexane called hexanoic acid. This carbon chain is substituted with an amine group through a methyl bridge in (S) conformation at R3 and a methyl group at R5.\n\nPharmacology\n\nthumb|right|Pregabalin is neither a GABAA or GABAB receptor agonist\n\nPharmacodynamics\n\nThe pharmacological action of pregabalin is mediated by binding to the α2δ-1 site of voltage-gated calcium channels (VGCC). This site has also been referred to as the gabapentin receptor, as it is the target of the related substance gabapentin (also developed by Pfizer). The α2δ-1 site is present in very high amounts in the  sensorial neurons projecting from the dorsal root ganglia and peripheral nerve damage upregulates this structural subunit, causing the sensitization that underlies neuropathic pain development and maintenance . By blocking the α2δ-1 subunit of VGCC at the spinal cord, pregabalin provides relief from pain, as it reduces the release of substances like glutamate, substance P, CGRP (Calcitonin Gene-Related Peptide), which are neurotransmitters that take part in modulating and amplifying pain signals. Advantages to pregabalin over gabapentin include higher bioavailability and potency.\n\nAlthough pregabalin is a chemical derivative of GABA, it displays no activity at any GABA receptors, including GABAA, GABAB and the benzodiazepine site. Pregabalin, despite its GABA backbone, does not appear to alter GABA levels in the brain, so its pharmacological activity is presumed to be unrelated to GABA. Instead, it is its binding to the α2δ-1 site of voltage-gated calcium channels which appears to be the source of its subjective effects. By binding to this site, pregabalin reduces the release of several excitatory neurotransmitters, including glutamate, substance P, acetylcholine and norepinephrine.\n\nReduction in the release of glutamate and acetylcholine might be the cause of dissociative / deliriant like effects in high doses.\n\nOne study has also shown that pregabalin promotes deep sleep, thus enhancing sleep quality. This may be substantial because reductions in slow-wave sleep have been associated with anxiety and fibromyalgia.\nAlso, an independent action of the gabapentin site on the neurogenesis of excitatory synapses has been discovered. The endogenous neurochemical thrombospondin also binds to this site and is important for the generation of new excitatory synapses. Gabapentin and pregabalin, having a high affinity for this site, block this action and result in lower levels of excitatory synapses in animal models. \n\nAs pregabalin treats conditions and neurotransmitters associated with overexcitability of the brain (anxiety, epilepsy, neuropathic pain), its modulation results in the sedating (or calming) effects of pregabalin on the nervous system.\n\nPharmacokinetics\n\nPregabalin is rapidly absorbed when administered on an empty stomach, with peak plasma concentrations occurring within 1 to 1.5 hours. Pregabalin oral bioavailability is estimated to be greater than or equal to 90%. The rate of pregabalin absorption is decreased when given with food, resulting in delay of approximately 3 hours to reach peak plasma concentrations, with peak levels themselves, decreased by about 25 to 30%. Administration with food, however, has no clinically significant effect on the extent of absorption.\n\nPregabalin undergoes negligible metabolism in humans. In experiments using nuclear medicine techniques, it was revealed that approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin. The primary metabolite is N-methyl pregabalin.\n\nPregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged substance. The elimination half life is 6.3 hours.\n\nSubjective effects\n\nEach individual can have a very different reaction to pregabalin, thus it is essential to start at lower doses to ensure that it does not have any severe adverse effects such as peripheral edema or muscle pain.\n \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Pregabalin\n\nMedical uses\n\nthumb|300px|right|A box of 75mg capsules of Pfizer brand 'Lyrica' (pregabalin)\nPregabalin is used in a medical setting, usually prescribed in capsules, to treat epilepsy, neuropathic pain, fibromyalgia, and generalized anxiety disorder. Its use for epilepsy is as an add-on therapy for partial seizures with or without secondary generalization in adults. Some off-label uses of pregabalin include restless leg syndrome, prevention of migraines, social anxiety disorder, and alcohol withdrawal. \n\nSeizure Prevention\n\nPregabalin is useful when added to other treatments, when those other treatments are not controlling partial epilepsy. Its use alone is less effective than some other seizure medications. It is unclear how it compares to gabapentin for this use. Pregabalin has also been shown to be effective against alcohol withdrawal induced seizures .\n\nNeuropathic pain\n\nThe European Federation of Neurological Societies recommends pregabalin as a first line agent for the treatment of pain associated with diabetic neuropathy, post-herpetic neuralgia, and central neuropathic pain. A minority obtain substantial benefit, and a larger number obtain moderate benefit. Other first line agents, including gabapentin and tricyclic antidepressants, are given equal weight as first line agents, and unlike pregabalin, are available as less expensive generics.\n\nAnxiety disorders\n\nThe World Federation of Biological Psychiatry recommends pregabalin as one of several first line agents for the treatment of generalized anxiety disorder, but recommends other agents such as SSRIs as first line treatment for obsessive-compulsive disorder and post-traumatic stress disorder. It appears to have anxiolytic effects similar to benzodiazepines with less risk of dependence.\n\nThe effects of pregabalin appear after 1 week of use and is similar in effectiveness to lorazepam, alprazolam, and venlafaxine, but pregabalin has demonstrated superiority by producing more consistent therapeutic effects for psychosomatic anxiety symptoms. Long-term trials have shown continued effectiveness without the development of tolerance, and, in addition, unlike benzodiazepines, it has a beneficial effect on sleep and sleep architecture, characterized by the enhancement of slow-wave sleep. It produces less severe cognitive and psychomotor impairment compared to those drugs and may be preferred over the benzodiazepines for these reasons.\n\nSubstance disorders\n\nOpioids\n\nAnecdotal reports exist of successful discontinuation of opioid use by supplementing with pregabalin.\n\nTobacco\n\nOne placebo-controlled four-day trial (n=24 completed) investigated the effects of pregabalin on smoking cessation in non-treatment-seeking smokers. This study did not find any statistically significant effect on smoking behavior, although pregabalin reduced some withdrawal symptoms: anxiety, irritability, and frustration. Pregabalin also reduced the measure of subjective \"liking\" after smoking a cigarette.\n\nAlcohol\n\nA meta-review of five studies concerning the use of pregabalin in treating alcoholism or alcohol withdrawal found positive results for relapse prevention in sober patients at dosages of 150-450 mg/day, but conflicting results for the treatment of acute alcohol withdrawal. Two of the studies concerned the only maintenance of abstinence. Both showed positive results. In one of them (n=59), pregabalin compared favorably to naltrexone on the measure of days abstinent from any amount of alcohol. \n\nBenzodiazepines\n\nOne open-label pilot study of 15 individuals with high-dose benzodiazepine dependence reported that all subjects have successfully discontinued benzodiazepines within 14 weeks, while taking supplemental doses of 225-900mg pregabalin/day. The patients also showed reduced anxiety levels and better cognitive functioning. Pregabalin was well tolerated.\n\nToxicity and harm potential\n\nPregabalin likely has a low toxicity relative to dose. However, it is potentially lethal when mixed with depressants like alcohol or opioids.\n\nSeizure Risk\n\nPregabalin has been shown to induce and or increase the risk of seizures at recreational dosages. There is little evidence showing there is a concern at medical dosages (600mg and under). This risk may be increased when mixed with other drugs that lower seizure threshold. Caution is recommended when using doses of higher than 600mg. Reducing various susceptibility factors may also be beneficial in lowering this risk. Susceptibility factors may include things such as low sodium, lack of sleep, and intensive physical activity.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nThe LD50 for rodents has been established to be greater than 5000mg/kg. Rat IV LD50 was also determined to be greater than 300mg/kg. \n\nIn terms of humans, there exists a case report of a man who ingested 8,400mg pregabalin and eventually fell into a coma but was managed with supportive care alone until he regained consciousness. For comparison, the maximum recommended a therapeutic dose of pregabalin is 600mg/day. Pfizer's official package insert for Lyrica states that the highest accidental ingestion of pregabalin during clinical trials was 8 g, with no significant consequences.\n\nTolerance and addiction potential\n\nPregabalin was initially thought to be non-addictive with a low abuse potential and little tolerance development. However, recreational use of the substance has caused a re-evaluation of this assessment. The euphoric effects of the substance and the development of tolerance can lead to the use of dosages far above the therapeutic range, which suggests both the potential for recreational use and addiction.\n\nTolerance will develop to the depressant effects within several months of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms are likely to occur after ceasing usage abruptly following a few months or longer of steady dosing and may necessitate a gradual dose reduction. \n\nThe withdrawal effects of abrupt cessation of chronic use include anxiety, insomnia, sweating, muscle spasms, gastrointestinal problems, hot and cold flashes, nausea, and a flu-like feeling.\n\nDangerous Interactions\n\n*Oxycodone / SSRIs / MDMA - A single case report describes a patient developing serotonin syndrome following perioperative use of oxycodone and pregabalin together. However, multiple studies have found no evidence that pregabalin has any serotonergic activity. It is not a serotonin reuptake inhibitor, has no significant affinity for GABA-A/B or glutamate receptors, and is not metabolized into a GABA agonist. A more recent review similarly states pregabalin \"has no involvement with serotonin and dopamine receptors and does not inhibit dopamine, serotonin, or noradrenaline reuptake.\" Instead, pregabalin's main mechanism is binding to the alpha-2-delta subunit of voltage-gated calcium channels, dampening overactive neurons downstream. Given the total absence of corroborating evidence, the single reported case may have been a freak occurrence caused by unrelated factors; nonetheless, other serotonergic substances (analgesics, recreational drugs, etc.) should still be combined cautiously pending further data.\n*Ketamine - Combining these substances can cause a significant increase in sedation, dizziness, and confusion, along with impaired concentration, judgment, and motor coordination. This is especially risky for elderly users. In severe cases, particularly at high doses or when combined with other depressants, this combination can lead to respiratory depression, hypoxia, or loss of consciousness.\n\nLegal status\n\nPregabalin is regulated as a prescription drug in most countries.\n\n*Germany: Pregabalin is a prescription medicine, according to Anlage 1 AMVV.\n*Norway: Pregabalin is in prescription schedule B alongside most benzodiazepines and painkillers. It was rescheduled to schedule B from the less restrictive schedule C because of reported recreational use, tolerance development and addiction.\n*Sweden: Pregabalin is a prescription drug. classified as a controlled substance, as a schedule V drug, since 24 july 2018 \n*Switzerland: Pregabalin is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.\n*Turkey: Pregabalin is a 'green prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: The Misuse of Drugs Act 1971 makes it illegal to possess the drug without a prescription and, for such purposes, it is classified as a Class C drug.\n*United States: Pregabalin is in Schedule V, indicating \"low potential for abuse.\" For comparison, benzodiazepines are in Schedule IV.\n\nCombinations\n\nwith Memantine (anecdotal, N=1)Add-on of 20mg to 30mg Memantine per day to 75mg Pregabalin is equivalent to 300mg Pregabalin (I had tolerance of that much at the time. I have chronic anxiety)\n\nSee also\n\n*Responsible use\n*Gabapentin\n*Benzodiazepines\n\nExternal links\n\n*Pregabalin (Wikipedia)\n*Pregabalin (Erowid Vault)\n*Pregabalin (TiHKAL / Isomer Design)\n*Pregabalin (Drugs.com)\n\nLiterature\n\n*Field, M. J., Cox, P. J., Stott, E., Melrose, H., Offord, J., Su, T., … Williams, D. (2006). Identification of the alpha2-delta-1 subunit of voltage-dependent calcium channels as a molecular target for pain mediating the analgesic actions of pregabalin. Proceedings of the National Academy of Sciences of the United States of America, 103(46), 17537–42. https://doi.org/10.1073/pnas.0409066103\n*Eroglu, Ç., Allen, N. J., Susman, M. W., O’Rourke, N. A., Park, C. Y., Özkan, E., … Barres, B. A. (2009). Gabapentin Receptor α2δ-1 Is a Neuronal Thrombospondin Receptor Responsible for Excitatory CNS Synaptogenesis. Cell, 139(2), 380–392. https://doi.org/10.1016/j.cell.2009.09.025\n*Taylor, C. P., Angelotti, T., & Fauman, E. (2007). Pharmacology and mechanism of action of pregabalin: The calcium channel ??2-?? (alpha2-delta) subunit as a target for antiepileptic drug discovery. Epilepsy Research, 73(2), 137–150. https://doi.org/10.1016/j.eplepsyres.2006.09.008\n*Hindmarch, I., Dawson, J., & Stanley, N. (2005). A double-blind study in healthy volunteers to assess the effects on sleep of pregabalin compared with alprazolam and placebo. Sleep, 28(2), 187–93. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/16171242\n*Wood, D. M., Berry, D. J., Glover, G., Eastwood, J., & Dargan, P. I. (2010). Significant Pregabalin Toxicity Managed with Supportive Care Alone. Journal of Medical Toxicology, 6(4), 435–437. https://doi.org/10.1007/s13181-010-0052-3\n*Braga, A. J., & Chidley, K. (2007). Self-poisoning with lamotrigine and pregabalin. Anaesthesia, 62(5), 524–527. https://doi.org/10.1111/j.1365-2044.2006.04913.x\n*Kavoussi, R. (2006). Pregabalin: From molecule to medicine. European Neuropsychopharmacology, 16, S128–S133. https://doi.org/10.1016/j.euroneuro.2006.04.005\n*Song, H.-K. (2013). Serotonin syndrome with perioperative oxycodone and pregabalin. Pain Physician, 16(October), E632-3. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/24077214\n*Herman, A. I., Waters, A. J., McKee, S. A., & Sofuoglu, M. (2012). Effects of pregabalin on smoking behavior, withdrawal symptoms, and cognitive performance in smokers. Psychopharmacology, 220(3), 611–617. https://doi.org/10.1007/s00213-011-2507-x\n*Guglielmo, R., Martinotti, G., Clerici, M., & Janiri, L. (2012). Pregabalin for alcohol dependence: A critical review of the literature. Advances in Therapy, 29(11), 947–957. https://doi.org/10.1007/s12325-012-0061-5\n*Kämmerer, N., Lemenager, T., Grosshans, M., Kiefer, F., & Hermann, D. (2012). [Pregabalin for the reduction of opiate withdrawal symptoms]. Psychiatrische Praxis, 39(7), 351–2. https://doi.org/10.1055/s-0032-1305042\n*Bobes, J., Rubio, G., Terán, A., Cervera, G., López-Gómez, V., Vilardaga, I., & Pérez, M. (2012). Pregabalin for the discontinuation of long-term benzodiazepines use: An assessment of its effectiveness in daily clinical practice. European Psychiatry, 27(4), 301–307. https://doi.org/10.1016/j.eurpsy.2010.12.004\n*Oulis, P., Konstantakopoulos, G., Kouzoupis, A. V., Masdrakis, V. G., Karakatsanis, N. A., Karapoulios, E., … Papadimitriou, G. N. (2008). Pregabalin in the discontinuation of long-term benzodiazepines’ use. Human Psychopharmacology: Clinical and Experimental, 23(4), 337–340. https://doi.org/10.1002/hup.937\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Gabapentinoid",
+ "wikitext": "{{headerpanel|{{DepressantOD|gabapentinoids}}}}\n{{SummarySheet}}\n{{SubstanceBox/Pregabalin}}\n\n'''Pregabalin''' (also known as '''3-isobutyl GABA''' and by the trade-name '''Lyrica''') is a [[psychoactive class::depressant]] substance of the [[chemical class::gabapentinoid]] class. Pregabalin is a common prescription drug, which is typically used to treat neuropathic pain, [[anxiety]], [[restless leg syndrome]], and as an adjunct drug in the treatment of [[seizures]].<ref>{{Citation | vauthors=EMA | year=2018 | title=Lyrica | url=https://www.ema.europa.eu/en/medicines/human/EPAR/lyrica}}</ref><ref>{{cite journal | vauthors=((Garcia-Borreguero, D.)), ((Larrosa, O.)), ((Williams, A.-M.)), ((Albares, J.)), ((Pascual, M.)), ((Palacios, J. C.)), ((Fernandez, C.)) | journal=Neurology | title=Treatment of restless legs syndrome with pregabalin: A double-blind, placebo-controlled study | volume=74 | issue=23 | pages=1897–1904 | date=8 June 2010 | url=https://n.neurology.org/content/74/23/1897 | issn=0028-3878 | doi=10.1212/WNL.0b013e3181e1ce73}}</ref>\n\nPregabalin has a pharmacological profile comparable to that of [[gabapentin]] as they both share similar mechanisms of action and induce similar subjective effects. The advantages pregabalin has over gabapentin include greater bioavailability and potency,<ref>{{cite journal | vauthors=((Wesche, D.)), ((Bockbrader, H.)) | journal=The Journal of Pain | title=A pharmacokinetic comparison of pregabalin and gabapentin | volume=6 | issue=3 | pages=S29 | date= March 2005 | url=https://linkinghub.elsevier.com/retrieve/pii/S152659000500129X | issn=15265900 | doi=10.1016/j.jpain.2005.01.114}}</ref> as well as a wider variety of accepted medical applications for pregabalin not seen with gabapentin, such as its successful use in the treatment of anxiety, in which the use of gabapentin was not successful, excluding some more severe cases.<ref>{{cite journal | vauthors=((Feltner, D. E.)), ((Crockatt, J. G.)), ((Dubovsky, S. J.)), ((Cohn, C. K.)), ((Shrivastava, R. K.)), ((Targum, S. D.)), ((Liu-Dumaw, M.)), ((Carter, C. M.)), ((Pande, A. C.)) | journal=Journal of Clinical Psychopharmacology | title=A Randomized, Double-Blind, Placebo-Controlled, Fixed-Dose, Multicenter Study of Pregabalin in Patients With Generalized Anxiety Disorder: | volume=23 | issue=3 | pages=240–249 | date= June 2003 | url=http://journals.lww.com/00004714-200306000-00005 | issn=0271-0749 | doi=10.1097/01.jcp.0000084032.22282.ff}}</ref> <ref>{{cite journal | vauthors=((Pande, A. C.)), ((Pollack, M. H.)), ((Crockatt, J.)), ((Greiner, M.)), ((Chouinard, G.)), ((Lydiard, R. B.)), ((Taylor, C. B.)), ((Dager, S. R.)), ((Shiovitz, T.)) | journal=Journal of Clinical Psychopharmacology | title=Placebo-Controlled Study of Gabapentin Treatment of Panic Disorder: | volume=20 | issue=4 | pages=467–471 | date= August 2000 | url=http://journals.lww.com/00004714-200008000-00011 | issn=0271-0749 | doi=10.1097/00004714-200008000-00011}}</ref>\n\n==Chemistry==\nPregabalin is a structural analog of [[GABA]] (gamma-aminobutyric acid), with an isobutyl group substituted on the beta carbon of the aminobutyric chain. Pregabalin is similar in structure to other [[Gabapentinoid|gabapentinoids]], such as [[gabapentin]] and [[phenibut]]. Pregabalin contains a carboxylated chain of hexane called hexanoic acid. This carbon chain is substituted with an amine group through a methyl bridge in (S) conformation at R<sub>3</sub> and a methyl group at R<sub>5</sub>.\n\n==Pharmacology==\n[[File:Gabapentinoids.png|thumb|right|Pregabalin is neither a GABA<sub>A</sub> or GABA<sub>B</sub> receptor agonist]]\n===Pharmacodynamics===\nThe pharmacological action of pregabalin is mediated by binding to the α2δ-1 site of voltage-gated calcium channels (VGCC).<ref>{{cite journal | vauthors=((Field, M. J.)), ((Cox, P. J.)), ((Stott, E.)), ((Melrose, H.)), ((Offord, J.)), ((Su, T.-Z.)), ((Bramwell, S.)), ((Corradini, L.)), ((England, S.)), ((Winks, J.)), ((Kinloch, R. A.)), ((Hendrich, J.)), ((Dolphin, A. C.)), ((Webb, T.)), ((Williams, D.)) | journal=Proceedings of the National Academy of Sciences | title=Identification of the α 2 -δ-1 subunit of voltage-dependent calcium channels as a molecular target for pain mediating the analgesic actions of pregabalin | volume=103 | issue=46 | pages=17537–17542 | date=14 November 2006 | url=https://pnas.org/doi/full/10.1073/pnas.0409066103 | issn=0027-8424 | doi=10.1073/pnas.0409066103}}</ref><ref name=\"thromb\">{{cite journal | vauthors=((Eroglu, Ç.)), ((Allen, N. J.)), ((Susman, M. W.)), ((O’Rourke, N. A.)), ((Park, C. Y.)), ((Özkan, E.)), ((Chakraborty, C.)), ((Mulinyawe, S. B.)), ((Annis, D. S.)), ((Huberman, A. D.)), ((Green, E. M.)), ((Lawler, J.)), ((Dolmetsch, R.)), ((Garcia, K. C.)), ((Smith, S. J.)), ((Luo, Z. D.)), ((Rosenthal, A.)), ((Mosher, D. F.)), ((Barres, B. A.)) | journal=Cell | title=Gabapentin Receptor α2δ-1 Is a Neuronal Thrombospondin Receptor Responsible for Excitatory CNS Synaptogenesis | volume=139 | issue=2 | pages=380–392 | date= October 2009 | url=https://linkinghub.elsevier.com/retrieve/pii/S0092867409011854 | issn=00928674 | doi=10.1016/j.cell.2009.09.025}}</ref> This site has also been referred to as the gabapentin receptor, as it is the target of the related substance [[gabapentin]] (also developed by Pfizer). The α2δ-1 site is present in very high amounts in the  sensorial neurons projecting from the dorsal root ganglia and peripheral nerve damage upregulates this structural subunit, causing the sensitization that underlies neuropathic pain development and maintenance <ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1635787/#:~:text=These%20subunits%20have%20distinct%20tissue,and%20maintenance%20are%20not%20clear.</ref>. By blocking the α2δ-1 subunit of VGCC at the spinal cord, pregabalin provides relief from pain, as it reduces the release of substances like glutamate, substance P, CGRP (Calcitonin Gene-Related Peptide), which are neurotransmitters that take part in modulating and amplifying pain signals. Advantages to pregabalin over gabapentin include higher bioavailability and potency.\n\nAlthough pregabalin is a chemical derivative of [[GABA]], it displays no activity at any GABA receptors, including GABA<sub>A</sub>, GABA<sub>B</sub> and the [[benzodiazepine]] site. Pregabalin, despite its GABA backbone, does not appear to alter GABA levels in the brain, so its pharmacological activity is presumed to be unrelated to GABA.<ref>{{cite journal | vauthors=((Taylor, C. P.)), ((Angelotti, T.)), ((Fauman, E.)) | journal=Epilepsy Research | title=Pharmacology and mechanism of action of pregabalin: The calcium channel α2–δ (alpha2–delta) subunit as a target for antiepileptic drug discovery | volume=73 | issue=2 | pages=137–150 | date= February 2007 | url=https://linkinghub.elsevier.com/retrieve/pii/S0920121106003895 | issn=09201211 | doi=10.1016/j.eplepsyres.2006.09.008}}</ref> Instead, it is its binding to the α2δ-1 site of voltage-gated calcium channels which appears to be the source of its subjective effects. By binding to this site, pregabalin reduces the release of several excitatory neurotransmitters, including [[glutamate]], [[substance P]], [[acetylcholine]] and [[norepinephrine]].<ref>{{Cite journal| doi = 10.1124/mol.106.023309| issn = 1521-0111| volume = 70| issue = 2| pages = 467–476| last1 = Micheva| first1 = Kristina D.| last2 = Taylor| first2 = Charles P.| last3 = Smith| first3 = Stephen J.| title = Pregabalin Reduces the Release of Synaptic Vesicles from Cultured Hippocampal Neurons| journal = Molecular Pharmacology| accessdate = 2023-07-14| date = 2006-08-01| url = https://molpharm.aspetjournals.org/content/70/2/467| pmid = 16641316}}</ref>\n\nReduction in the release of glutamate and acetylcholine might be the cause of dissociative / deliriant like effects in high doses.{{citation needed}}\n\nOne study has also shown that pregabalin promotes deep sleep, thus enhancing sleep quality. This may be substantial because reductions in slow-wave sleep have been associated with anxiety and fibromyalgia.<ref>{{cite journal | vauthors=((Hindmarch, I.)), ((Dawson, J.)), ((Stanley, N.)) | journal=Sleep | title=A double-blind study in healthy volunteers to assess the effects on sleep of pregabalin compared with alprazolam and placebo | volume=28 | issue=2 | pages=187–193 | date= February 2005 | issn=0161-8105 | doi=10.1093/sleep/28.2.187}}</ref>\nAlso, an independent action of the gabapentin site on the neurogenesis of excitatory synapses has been discovered. The endogenous neurochemical thrombospondin also binds to this site and is important for the generation of new excitatory synapses. Gabapentin and pregabalin, having a high affinity for this site, block this action and result in lower levels of excitatory synapses in animal models.<ref name=\"thromb\" /> \n\nAs pregabalin treats conditions and [[neurotransmitter]]s associated with overexcitability of the brain (anxiety, epilepsy, neuropathic pain), its modulation results in the [[sedating]] (or [[anxiety suppression|calming]]) effects of pregabalin on the nervous system.{{citation needed}}\n\n===Pharmacokinetics===\nPregabalin is rapidly absorbed when administered on an empty stomach, with peak plasma concentrations occurring within 1 to 1.5 hours. Pregabalin oral bioavailability is estimated to be greater than or equal to 90%. The rate of pregabalin absorption is decreased when given with food, resulting in delay of approximately 3 hours to reach peak plasma concentrations, with peak levels themselves, decreased by about 25 to 30%.<ref>https://www.drugs.com/ppa/pregabalin.html</ref> Administration with food, however, has no clinically significant effect on the extent of absorption.<ref>http://web.archive.org/web/20160305012454/http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000546/WC500046602.pdf</ref>\n\nPregabalin undergoes negligible metabolism in humans. In experiments using nuclear medicine techniques, it was revealed that approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin. The primary metabolite is N-methyl pregabalin.\n\nPregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged substance.<ref>{{Citation | year=2016 | title=LYRICA 200 mg | url=http://web.archive.org/web/20160305071130/http://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=41099}}</ref> The elimination half life is 6.3 hours.<ref>{{Citation | title=Pregabalin | url=https://go.drugbank.com/drugs/DB00230}}</ref>\n\n==Subjective effects==\nEach individual can have a very different reaction to pregabalin, thus it is essential to start at lower doses to ensure that it does not have any severe adverse effects such as peripheral edema or muscle pain.\n{{Preamble/SubjectiveEffects}} \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' -  Pregabalin produces mild sedation and improves sleep onset latency modestly. Several studies have shown pregabalin improves sleep quality of those who take it for various indications. It is unknown if this effect is carried over to those who take it recreationally.<ref>{{cite journal | vauthors=((Arnold, L. M.)), ((Emir, B.)), ((Pauer, L.)), ((Resnick, M.)), ((Clair, A.)) | journal=Pain Medicine (Malden, Mass.) | title=Time to improvement of pain and sleep quality in clinical trials of pregabalin for the treatment of fibromyalgia | volume=16 | issue=1 | pages=176–185 | date= January 2015 | issn=1526-4637 | doi=10.1111/pme.12636}}</ref><ref>{{cite journal | vauthors=((Perez-Lloret, S.)), ((Rojas, G. M.)), ((Menoni, M. C.)), ((Ruiz, G.)), ((Velásquez, C.)), ((Rodriguez, H.)), ((Rey, M. V.)), ((Cardinali, A. D. P.)), ((PGB Study Team)) | journal=Clinical Neuropharmacology | title=Pregabalin beneficial effects on sleep quality or health-related quality of life are poorly correlated with reduction on pain intensity after an 8-week treatment course | volume=35 | issue=1 | pages=21–24 | date= February 2012 | issn=1537-162X | doi=10.1097/WNF.0b013e31823df2dc}}</ref> However, it is not an overly sedating substance when taken in the daytime.\n*'''[[Effect::Appetite enhancement]]''' - This effect is not particularly prominent, but is reported to occur in some people. It can have a synergistic effect when combined with [[cannabis]].\n*'''[[Effect::Pain relief]]''' - Pregabalin is effective against certain types of chronic pain, particularly neuropathic pain, but not against acute pain.<ref>{{cite journal | vauthors=((Verma, V.)), ((Singh, N.)), ((Singh Jaggi, A.)) | journal=Current Neuropharmacology | title=Pregabalin in Neuropathic Pain: Evidences and Possible Mechanisms | volume=12 | issue=1 | pages=44–56 | date= January 2014 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3915349/ | issn=1570-159X | doi=10.2174/1570159X1201140117162802}}</ref>\n*'''[[Effect::Spontaneous bodily sensations]]''' - The general \"body high\" of pregabalin can be described as a sharp, pleasurable tingling sensation which is location specific to the hands, feet, and head.\n*'''[[Effect::Physical euphoria]]''' - This component, while prominent in the experience, is generally not as strong as the cognitive euphoria that can be induced. The sensation itself can be described as feelings of physical comfort, warmth and bliss.\n*'''[[Effect::Tactile enhancement]]''' - Although the user’s body may feel numb, the sense of touch can be heightened at the same time.\n*'''[[Effect::Muscle twitching]]''' - Somewhat paradoxically, since pregabalin is used as an adjunct treatment for epilepsy, pregabalin, especially in higher doses, can produce muscle spasms.{{citation needed}} Anecdotally, seizures have been reported in overdose.{{citation needed}}\n*'''[[Effect::Respiratory depression]]''' - While pregabalin may cause respiratory depression, this effect is not as strong as those with [[opioids]] and [[benzodiazepines]].<ref>{{cite journal | vauthors=((Eipe, N.)), ((Penning, J.)) | journal=Pain Research & Management : The Journal of the Canadian Pain Society | title=Postoperative respiratory depression associated with pregabalin: A case series and a preoperative decision algorithm | volume=16 | issue=5 | pages=353–356 | date= 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206785/ | issn=1203-6765}}</ref>\n*'''[[Effect::Muscle relaxation]]''' - While the muscle relaxation experienced on pregabalin is not as powerful as that of [[diazepam]] or other [[benzodiazepines]], it is still prominent.\n*'''[[Effect::Dizziness]]''' - This effect is fairly prevalent at higher doses.\n*'''[[Effect::Perception of bodily lightness]]''' - At very high doses, some users report feeling lighter.\n*'''[[Effect::Increased libido]]''' ''or'' '''[[Effect::Decreased libido]]'''\n*'''[[Effect::Orgasm depression]]''' - Some may experience a delayed but stronger orgasm even if they experience an increase in libido.\n*'''[[Effect::Difficulty urinating]]''' - This effect is commonly reported by users.\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Motor control loss]]''' - At higher doses this effect resembles that of [[benzodiazepines]] and [[alcohol]]. Users report stumbling and bumping in to walls. \n*'''[[Tactile suppression]]''' - This effect can result in the whole body feeling numb, particularly one’s face. At the same time the user’s sense of touch can be enhanced. \n*'''[[Effect::Seizure suppression]]''' - Pregabalin is effective at reducing certain types of seizures such as focal seizures and partial seizures.<ref>{{Citation | title=Pregabalin | url=https://www.epilepsy.com/tools-resources/seizure-medication-list/pregabalin}}</ref><ref>{{cite journal | vauthors=((Ryvlin, P.)), ((Perucca, E.)), ((Rheims, S.)) | journal=Neuropsychiatric Disease and Treatment | title=Pregabalin for the management of partial epilepsy | volume=4 | issue=6 | pages=1211–1224 | date= December 2008 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2646650/ | issn=1176-6328}}</ref>\n*'''[[Effect::Pupil dilation]]'''\n\n}}\n{{effects/visual|\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Visual acuity suppression]]''' - At high dosages, pregabalin can induce slightly blurred vision.\n*'''[[Effect::Tracers]]''' - This effect can be seen at high doses and is generally quite mild. It generally does not extend past level 2.\n*'''[[Effect::Depth perception distortions]]''' - This effect is quite mild and only appears at very high doses.\n*'''[[Effect::Object alteration]]''' - Although this effect is rare, it can still occur spontaneously, typically with heavy doses.\n*'''[[Effect::Drifting]]'''\n*'''[[Effect::After images]]''' and *'''[[Effect::Frame rate suppression]]'''  at high / very high doses. These 2 effects together can make your vision feel more 'slow'.\n*'''[[Effect::Double vision]]'''- This effect is quite mild and inconsistently appears at high doses.\n====Hallucinatory states====\nWhile pregabalin isn't commonly thought off as a hallucinogenic drug, it still can cause dissociative and even psychotic like effects at higher doses. Sleep deprivation and genetics might play a role into the hallucinatory states of Pregabalin. Pregabalin's hallucinatory states are (but not limited to) :\n\n*'''[[Effect::Internal hallucination]]''' - At high dosages, one may experience dream-like states and [[hypnagogia]].\n*'''[[Effect::External hallucination]]''' - This effect is rare and only occurs on heavy doses and/or when the user is sleep deprived. This effect can be delirious /  psychotic in nature. It can include : [[Object activation]], [[Shadow people]] and [[Transformations]]. It may include even non existent people and animals from a distance, but once the user comes closer they may disappear. \n}}\n{{effects/disconnective|\n*'''[[Effect::Visual disconnection]]''' - This effect is generally quite mild and appears inconsistently at  high doses. It results in feeling as if one's sense of vision is distant or vague and being viewed through a screen or window. However, pregabalin is rarely reported to cause [[holes, spaces and voids]] or [[Visual_disconnection#Structures|hallucinatory structures]].\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of pregabalin can be broken down into several components which progressively intensify proportional to dosage. Pregabalin's headspace is comparable to a more clear-headed [[alcohol]] or [[benzodiazepine]] intoxication, although it can take a more [[dissociative]] turn at  high dosages.\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Analysis suppression]]'''\n* '''[[Effect::Empathy, affection, and sociability enhancement]]''' - Pregabalin presents distinct [[entactogen|entactogen/empathogenic]] effects. In contrast to [[benzodiazepines]] (which merely increase sociability through [[disinhibition]]), at high dosages pregabalin directly increases the urge to communicate with others with feelings of empathy, love, closeness and connection being well-defined. These effects, although weaker than that of [[MDMA]], are still prominent.\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Suggestibility enhancement]]''' \n*'''[[Effect::Amnesia]]''' - Compared to [[benzodiazepines]], pregabalin is only mildly amnesiac if not combined with other depressants. With chronic usage or high dosages, one should expect more \"tip of the tongue\" moments and impaired short-term memory (e.g., walking into a room and forgetting what you were supposed to do there). Total blackouts do not seem to occur except in combination with other substances.\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Cognitive euphoria]]'''<ref>{{cite book | date= 2012 | title=Abuse and Misuse Potential of Pregabalin: A Review of the Clinical Evidence | publisher=Canadian Agency for Drugs and Technologies in Health}}</ref> - Many users who take pregabalin describe a moderate to even intense euphoria, even at lower doses. Many users describe it as similar to [[opioid]] induced euphoria. The sensation itself can be described as powerful and overwhelming feelings of emotional bliss, contentment, and happiness.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Increased music appreciation]]''' - The music enhancement from pregabalin can be described as music sounding more detailed, 'higher quality', and even slowed down on higher dosages.\n*'''[[Effect::Motivation enhancement]]''' - Like [[kratom]], pregabalin can be mildly sedative yet increase motivation in a [[stimulant]]-like fashion.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Creativity enhancement]]''' - This effect is especially noticeable on higher doses. \n*'''[[Effect::Depersonalization]]''' ''and'' '''[[Effect::Derealization]]''' - At heavy doses, pregabalin can induce a mild dissociative state. The DPDR from pregabalin can be increased and made more ''negative'' (dysphoric) by sleep deprivation. \n*'''[[Effect::Suicidal ideation]]''' - In heavy doses, this can lead to suicide attempts.\n*'''[[Effect::Psychosis]]''' - Even at therapeutic doses, pregabalin has been shown to have psychotic side effects in a minority of it's users <ref>{{cite journal | vauthors=((Olaizola, I.)), ((Ellger, T.)), ((Young, P.)), ((Bösebeck, F.)), ((Evers, S.)), ((Kellinghaus, C.)) | journal=Seizure | title=Pregabalin-associated acute psychosis and epileptiform EEG-changes | volume=15 | issue=3 | pages=208–210 | date=1 April 2006 | url=https://www.sciencedirect.com/science/article/pii/S105913110600029X | issn=1059-1311 | doi=10.1016/j.seizure.2006.02.004}}</ref><ref>{{cite journal | vauthors=((Mousailidis, G.)), ((Papanna, B.)), ((Salmon, A.)), ((Sein, A.)), ((Al-Hillawi, Q.)) | journal=BMC Pharmacology and Toxicology | title=Pregabalin induced visual hallucinations – a rare adverse reaction | volume=21 | issue=1 | pages=16 | date=28 February 2020 | url=https://doi.org/10.1186/s40360-020-0395-6 | issn=2050-6511 | doi=10.1186/s40360-020-0395-6}}</ref>. Sleep deprivation strongly potentiates this effect, which may be higher for people genetically predisposed to schizophrenia.\n*'''[[Effect::Mania]]''' - When used to treat bipolar disorder <ref>{{cite journal | vauthors=((Schaffer, L. C.)), ((Schaffer, C. B.)), ((Miller, A. R.)), ((Manley, J. L.)), ((Piekut, J. A.)), ((Nordahl, T. E.)) | journal=Journal of Affective Disorders | title=An open trial of pregabalin as an acute and maintenance adjunctive treatment for outpatients with treatment resistant bipolar disorder | volume=147 | issue=1–3 | pages=407–410 | date= May 2013 | issn=1573-2517 | doi=10.1016/j.jad.2012.09.005}}</ref>,it can cause mania, even from therapeutic doses.<ref>{{cite journal | vauthors=((Yukawa, T.)), ((Suzuki, Y.)), ((Fukui, N.)), ((Otake, M.)), ((Sugai, T.)), ((Someya, T.)) | journal=Psychiatry and Clinical Neurosciences | title=Manic symptoms associated with pregabalin in a patient with conversion disorder | volume=67 | issue=2 | pages=129–130 | date= February 2013 | url=https://onlinelibrary.wiley.com/doi/10.1111/pcn.12012 | issn=13231316 | doi=10.1111/pcn.12012}}</ref>. This effect typically occurs in a recreational settings, with heavy doses, or when the user is sleep-deprived. It can appear low in intensity (hypomania) or synergize with [[psychosis]]. However, this effect is rare, and it's not a part of the typical experience.\n*'''[[Effect::Thought deceleration]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]''' - These are usually mild and only present at extremely high doses.\n*'''[[Effect::Auditory hallucination]]''' - At heavier dosages, one may experience tinnitus or the perception of imagined sounds, such as voices.\n\n}}\n{{effects/aftereffects|\nThe effects during a  [[offset]] of an [[Pregabalin]] experience are generally positive and more similar to an 'afterglow' rather then a 'hangover'. These effects are usually very mild compared to [[peak]] effects. The after effects of [[Pregabalin]]  are:\n*'''[[Effect::Motivation enhancement]]''' - Pregabalin is usually mentally stimulating, and the ''afterglow'' is similar. Since the high is mostly gone, this can lead to productivity enhancement.\n*'''[[Effect::Increased music appreciation]]''' - This effect is not as strong as it would be in the high, but music is noticeably enhanced and sounds more detailed.\n*'''[[Effect::Muscle relaxation]]''' - This effect is not as strong as the high but its still here in the afterglow.\n*'''[[Effect::Motor control loss]]''' - This effect is weaker than the ''high'' but is still noticeable to the user. Driving while in the ''afterglow'' / comedown is a bad idea.\n*'''[[Effect::Dizziness]]''' - The after effects are mostly positive with pregabalin, but dizziness can still be here, especially after doing a high dose.\n\n}}\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Pregabalin]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Pregabalin.shtml Erowid Experience Vaults: Pregabalin]\n\n==Medical uses==\n[[File:Pregabalin_75.png|thumb|300px|right|A box of 75mg capsules of Pfizer brand 'Lyrica' (pregabalin)]]\nPregabalin is used in a medical setting, usually prescribed in capsules, to treat epilepsy, neuropathic pain, fibromyalgia, and generalized anxiety disorder. Its use for epilepsy is as an add-on therapy for partial seizures with or without secondary generalization in adults. Some off-label uses of pregabalin include restless leg syndrome, prevention of migraines, social anxiety disorder, and alcohol withdrawal. \n\n===Seizure Prevention===\nPregabalin is useful when added to other treatments, when those other treatments are not controlling partial epilepsy. Its use alone is less effective than some other seizure medications. It is unclear how it compares to gabapentin for this use. Pregabalin has also been shown to be effective against alcohol withdrawal induced seizures <ref>{{cite journal | vauthors=((Becker, H. C.)), ((Myrick, H.)), ((Veatch, L. M.)) | journal=Alcohol and Alcoholism | title=PREGABALIN IS EFFECTIVE AGAINST BEHAVIORAL AND ELECTROGRAPHIC SEIZURES DURING ALCOHOL WITHDRAWAL | volume=41 | issue=4 | pages=399–406 | date=1 July 2006 | url=http://academic.oup.com/alcalc/article/41/4/399/162460/PREGABALIN-IS-EFFECTIVE-AGAINST-BEHAVIORAL-AND | issn=1464-3502 | doi=10.1093/alcalc/agl029}}</ref>.\n\n===Neuropathic pain===\nThe European Federation of Neurological Societies recommends pregabalin as a first line agent for the treatment of pain associated with diabetic neuropathy, post-herpetic neuralgia, and central neuropathic pain. A minority obtain substantial benefit, and a larger number obtain moderate benefit. Other first line agents, including gabapentin and tricyclic antidepressants, are given equal weight as first line agents, and unlike pregabalin, are available as less expensive generics.\n\n===Anxiety disorders===\nThe World Federation of Biological Psychiatry recommends pregabalin as one of several first line agents for the treatment of generalized anxiety disorder, but recommends other agents such as SSRIs as first line treatment for obsessive-compulsive disorder and post-traumatic stress disorder. It appears to have anxiolytic effects similar to benzodiazepines with less risk of dependence.\n\nThe effects of pregabalin appear after 1 week of use and is similar in effectiveness to lorazepam, alprazolam, and venlafaxine, but pregabalin has demonstrated superiority by producing more consistent therapeutic effects for psychosomatic anxiety symptoms. Long-term trials have shown continued effectiveness without the development of tolerance, and, in addition, unlike benzodiazepines, it has a beneficial effect on sleep and sleep architecture, characterized by the enhancement of slow-wave sleep. It produces less severe cognitive and psychomotor impairment compared to those drugs and may be preferred over the benzodiazepines for these reasons.\n\n===Substance disorders===\n\n====Opioids====\nAnecdotal reports<ref>{{cite journal | vauthors=((Kämmerer, N.)), ((Lemenager, T.)), ((Grosshans, M.)), ((Kiefer, F.)), ((Hermann, D.)) | journal=Psychiatrische Praxis | title=Pregabalin zur Reduktion von Opiatentzugssymptomen | volume=39 | issue=07 | pages=351–352 | date=11 June 2012 | url=http://www.thieme-connect.de/DOI/DOI?10.1055/s-0032-1305042 | issn=0303-4259 | doi=10.1055/s-0032-1305042}}</ref> exist of successful discontinuation of opioid use by supplementing with pregabalin.\n\n====Tobacco====\nOne placebo-controlled four-day trial (n=24 completed) investigated the effects of pregabalin on smoking cessation in non-treatment-seeking smokers.<ref>{{cite journal | vauthors=((Herman, A. I.)), ((Waters, A. J.)), ((McKee, S. A.)), ((Sofuoglu, M.)) | journal=Psychopharmacology | title=Effects of pregabalin on smoking behavior, withdrawal symptoms, and cognitive performance in smokers | volume=220 | issue=3 | pages=611–617 | date= April 2012 | url=http://link.springer.com/10.1007/s00213-011-2507-x | issn=0033-3158 | doi=10.1007/s00213-011-2507-x}}</ref> This study did not find any statistically significant effect on smoking behavior, although pregabalin reduced some withdrawal symptoms: anxiety, irritability, and frustration. Pregabalin also reduced the measure of subjective \"liking\" after smoking a cigarette.\n\n====Alcohol====\nA meta-review of five studies concerning the use of pregabalin in treating alcoholism or alcohol withdrawal found positive results for relapse prevention in sober patients at dosages of 150-450 mg/day, but conflicting results for the treatment of acute alcohol withdrawal.<ref>{{cite journal | vauthors=((Guglielmo, R.)), ((Martinotti, G.)), ((Clerici, M.)), ((Janiri, L.)) | journal=Advances in Therapy | title=Pregabalin for Alcohol Dependence: A Critical Review of the Literature | volume=29 | issue=11 | pages=947–957 | date= November 2012 | url=http://link.springer.com/10.1007/s12325-012-0061-5 | issn=0741-238X | doi=10.1007/s12325-012-0061-5}}</ref> Two of the studies concerned the only maintenance of abstinence. Both showed positive results. In one of them (n=59), pregabalin compared favorably to naltrexone on the measure of days abstinent from any amount of alcohol. \n\n====Benzodiazepines====\nOne open-label pilot study<ref>{{cite journal | vauthors=((Oulis, P.)), ((Konstantakopoulos, G.)), ((Kouzoupis, A. V.)), ((Masdrakis, V. G.)), ((Karakatsanis, N. A.)), ((Karapoulios, E.)), ((Kontoangelos, K. A.)), ((Papadimitriou, G. N.)) | journal=Human Psychopharmacology: Clinical and Experimental | title=Pregabalin in the discontinuation of long-term benzodiazepines’ use | volume=23 | issue=4 | pages=337–340 | date= June 2008 | url=https://onlinelibrary.wiley.com/doi/10.1002/hup.937 | issn=08856222 | doi=10.1002/hup.937}}</ref> of 15 individuals with high-dose [[benzodiazepine]] dependence reported that all subjects have successfully discontinued benzodiazepines within 14 weeks, while taking supplemental doses of 225-900mg pregabalin/day. The patients also showed reduced anxiety levels and better cognitive functioning. Pregabalin was well tolerated.\n\n==Toxicity and harm potential==\nPregabalin likely has a [[Toxicity::low toxicity]] relative to dose. However, it is potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]].\n\n===Seizure Risk===\n \nPregabalin has been shown to induce and or increase the risk of seizures at recreational dosages.<ref>https://doi.org/10.1101/cshperspect.a022863</ref><ref>https://doi.org/10.1111/j.0013-9580.2004.455003.x</ref><ref>https://doi.org/10.1111/j.0013-9580.2004.455003.x</ref> There is little evidence showing there is a concern at medical dosages (600mg and under). This risk may be increased when mixed with other drugs that lower seizure threshold. Caution is recommended when using doses of higher than 600mg. Reducing various susceptibility factors may also be beneficial in lowering this risk. Susceptibility factors may include things such as low sodium, lack of sleep, and intensive physical activity.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Lethal dosage===\nThe [[LD50|LD<sub>50</sub>]] for rodents has been established to be greater than 5000mg/kg. Rat IV LD50 was also determined to be greater than 300mg/kg.<ref>Lyrica material data sheet | http://web.archive.org/web/20161203214718/http://www.pfizer.com/files/products/material_safety_data/722.pdf</ref> \n\nIn terms of humans, there exists a case report of a man who ingested 8,400mg pregabalin and eventually fell into a coma but was managed with supportive care alone until he regained consciousness.<ref>{{cite journal | vauthors=((Wood, D. M.)), ((Berry, D. J.)), ((Glover, G.)), ((Eastwood, J.)), ((Dargan, P. I.)) | journal=Journal of Medical Toxicology | title=Significant Pregabalin Toxicity Managed with Supportive Care Alone | volume=6 | issue=4 | pages=435–437 | date= December 2010 | url=http://link.springer.com/10.1007/s13181-010-0052-3 | issn=1556-9039 | doi=10.1007/s13181-010-0052-3}}</ref> For comparison, the maximum recommended a therapeutic dose of pregabalin is 600mg/day.<ref>{{Citation | title=Lyrica (pregabalin) for Fibromyalgia: Uses, Dosage, Side Effects, Interactions, Warnings | url=https://www.rxlist.com/lyrica-drug.htm}}</ref> Pfizer's official package insert for Lyrica states that the highest accidental ingestion of pregabalin during clinical trials was 8 g, with no significant consequences.<ref>Lyrica package insert | http://labeling.pfizer.com/ShowLabeling.aspx?id=561#section-10 </ref>\n\n===Tolerance and addiction potential===\nPregabalin was initially thought to be non-addictive with a low abuse potential and little tolerance development. However, recreational use of the substance has caused a re-evaluation of this assessment. The euphoric effects of the substance and the development of tolerance can lead to the use of dosages far above the therapeutic range, which suggests both the potential for recreational use and addiction.<ref>{{Citation | year=2016 | title=Ja, pregabalin kan misbrukes! - Tidsskrift for Den norske legeforening | url=http://web.archive.org/web/20160407131805/http://tidsskriftet.no/article/2029812}}</ref><ref>{{cite journal | journal=Prescrire International | title=Gabapentin and pregabalin: abuse and addiction | volume=21 | issue=128 | pages=152–154 | date= June 2012 | issn=1167-7422}}</ref>\n\nTolerance will develop to the depressant effects [[Time to full tolerance::within several months of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms are likely to occur after ceasing usage abruptly following a few months or longer of steady dosing and may necessitate a gradual dose reduction. \n\nThe withdrawal effects of abrupt cessation of chronic use include anxiety, insomnia, sweating, muscle spasms, gastrointestinal problems, hot and cold flashes, nausea, and a flu-like feeling.\n\n===Dangerous Interactions===\n*'''[[UncertainInteraction::Oxycodone]]''' / '''[[UncertainInteraction::SSRIs]]''' / '''[[UncertainInteraction::MDMA]]''' - A single case report describes a patient developing serotonin syndrome following perioperative use of oxycodone and pregabalin together.<ref>{{cite journal | vauthors=((Song, H.-K.)) | journal=Pain Physician | title=Serotonin syndrome with perioperative oxycodone and pregabalin | volume=16 | issue=5 | pages=E632-633 | date= October 2013 | issn=2150-1149}}</ref> However, multiple studies have found no evidence that pregabalin has any serotonergic activity. It is not a serotonin reuptake inhibitor, has no significant affinity for GABA-A/B or glutamate receptors, and is not metabolized into a GABA agonist.<ref>{{cite journal | vauthors=((Kavoussi, R.)) | journal=European Neuropsychopharmacology | title=Pregabalin: From molecule to medicine | volume=16 | pages=S128–S133 | date= July 2006 | url=https://linkinghub.elsevier.com/retrieve/pii/S0924977X06000733 | issn=0924977X | doi=10.1016/j.euroneuro.2006.04.005}}</ref> A more recent review similarly states pregabalin \"has no involvement with serotonin and dopamine receptors and does not inhibit dopamine, serotonin, or noradrenaline reuptake.\"<ref>{{cite journal | vauthors=((Marks, D. M.)), ((Patkar, A. A.)), ((Masand, P. S.)), ((Pae, C.-U.)) | journal=Psychiatry Investigation | title=Does Pregabalin Have Neuropsychotropic Effects?: A Short Perspective | volume=6 | issue=2 | pages=55–58 | date= June 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796047/ | issn=1738-3684 | doi=10.4306/pi.2009.6.2.55}}</ref> Instead, pregabalin's main mechanism is binding to the alpha-2-delta subunit of voltage-gated calcium channels, dampening overactive neurons downstream. Given the total absence of corroborating evidence, the single reported case may have been a freak occurrence caused by unrelated factors; nonetheless, other serotonergic substances (analgesics, recreational drugs, etc.) should still be combined cautiously pending further data.\n*'''[[UncertainInteraction::Ketamine]]''' - Combining these substances can cause a significant increase in sedation, dizziness, and confusion, along with impaired concentration, judgment, and motor coordination. This is especially risky for elderly users. In severe cases, particularly at high doses or when combined with other depressants, this combination can lead to respiratory depression, hypoxia, or loss of consciousness.<ref>{{cite web | title=Ketamine and Pregabalin Interactions | url=https://www.drugs.com/drug-interactions/ketamine-with-pregabalin-1411-0-1937-0.html | website=Drugs.com | access-date=2026-07-22}}</ref>\n\n==Legal status==\nPregabalin is regulated as a prescription drug in most countries.\n\n*'''Germany:''' Pregabalin is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''Norway:''' Pregabalin is in prescription schedule B alongside most benzodiazepines and painkillers. It was rescheduled to schedule B from the less restrictive schedule C because of reported recreational use, tolerance development and addiction.<ref>https://nhi.no/for-helsepersonell/nytt-om-legemidler/pregabalin-lyrica-flyttes-til-reseptgruppe-b/</ref>\n*'''Sweden:''' Pregabalin is a prescription drug. classified as a controlled substance, as a schedule V drug, since 24 july 2018 <ref>https://lakemedelsverket.se/Alla-nyheter/NYHETER---2018/Pregabalin-narkotikaklassas/</ref>\n*'''Switzerland:''' Pregabalin is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.{{citation needed}}\n*'''Turkey''': Pregabalin is a 'green prescription' only substance and illegal when sold or possessed without a prescription.<ref>YEŞİL REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/01.04.2019%20SKRS%20Ye%C5%9Fil%20Re%C3%A7eteli%20%C4%B0la%C3%A7lar%20Aktif%20SON%20-%20G%C3%9CNCEL_58b1ff4a-2e1c-4867-bad7-eec855d6162a.pdf</ref>{{citation needed}}\n*'''United Kingdom:''' The Misuse of Drugs Act 1971 makes it illegal to possess the drug without a prescription and, for such purposes, it is classified as a Class C drug.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2018 | url=https://www.legislation.gov.uk/uksi/2018/1356/article/2/made}}</ref>\n*'''United States:''' Pregabalin is in Schedule V, indicating \"low potential for abuse.\" For comparison, benzodiazepines are in Schedule IV.<ref>{{Citation | year=2016 | title=Title 21 CFR - PART 1308 - Section 1308.15 Schedule V | url=http://web.archive.org/web/20161017105621/https://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_15.htm}}</ref>\n\n<br />\n\n== Combinations ==\n\n\nwith [[Memantine]] (anecdotal, N=1)<blockquote>Add-on of 20mg to 30mg Memantine per day to 75mg Pregabalin is equivalent to 300mg Pregabalin (I had tolerance of that much at the time. I have chronic anxiety)</blockquote>\n\n==See also==\n\n*[[Responsible use]]\n*[[Gabapentin]]\n*[[Benzodiazepines]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Pregabalin Pregabalin (Wikipedia)]\n*[https://www.erowid.org/pharms/pregabalin/ Pregabalin (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1909 Pregabalin (TiHKAL / Isomer Design)]\n*[http://web.archive.org/web/20160508222204/http://www.drugs.com/cdi/pregabalin.html Pregabalin (Drugs.com)]\n\n==Literature==\n\n*Field, M. J., Cox, P. J., Stott, E., Melrose, H., Offord, J., Su, T., … Williams, D. (2006). Identification of the alpha2-delta-1 subunit of voltage-dependent calcium channels as a molecular target for pain mediating the analgesic actions of pregabalin. Proceedings of the National Academy of Sciences of the United States of America, 103(46), 17537–42. https://doi.org/10.1073/pnas.0409066103\n*Eroglu, Ç., Allen, N. J., Susman, M. W., O’Rourke, N. A., Park, C. Y., Özkan, E., … Barres, B. A. (2009). Gabapentin Receptor α2δ-1 Is a Neuronal Thrombospondin Receptor Responsible for Excitatory CNS Synaptogenesis. Cell, 139(2), 380–392. https://doi.org/10.1016/j.cell.2009.09.025\n*Taylor, C. P., Angelotti, T., & Fauman, E. (2007). Pharmacology and mechanism of action of pregabalin: The calcium channel ??2-?? (alpha2-delta) subunit as a target for antiepileptic drug discovery. Epilepsy Research, 73(2), 137–150. https://doi.org/10.1016/j.eplepsyres.2006.09.008\n*Hindmarch, I., Dawson, J., & Stanley, N. (2005). A double-blind study in healthy volunteers to assess the effects on sleep of pregabalin compared with alprazolam and placebo. Sleep, 28(2), 187–93. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/16171242\n*Wood, D. M., Berry, D. J., Glover, G., Eastwood, J., & Dargan, P. I. (2010). Significant Pregabalin Toxicity Managed with Supportive Care Alone. Journal of Medical Toxicology, 6(4), 435–437. https://doi.org/10.1007/s13181-010-0052-3\n*Braga, A. J., & Chidley, K. (2007). Self-poisoning with lamotrigine and pregabalin. Anaesthesia, 62(5), 524–527. https://doi.org/10.1111/j.1365-2044.2006.04913.x\n*Kavoussi, R. (2006). Pregabalin: From molecule to medicine. European Neuropsychopharmacology, 16, S128–S133. https://doi.org/10.1016/j.euroneuro.2006.04.005\n*Song, H.-K. (2013). Serotonin syndrome with perioperative oxycodone and pregabalin. Pain Physician, 16(October), E632-3. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/24077214\n*Herman, A. I., Waters, A. J., McKee, S. A., & Sofuoglu, M. (2012). Effects of pregabalin on smoking behavior, withdrawal symptoms, and cognitive performance in smokers. Psychopharmacology, 220(3), 611–617. https://doi.org/10.1007/s00213-011-2507-x\n*Guglielmo, R., Martinotti, G., Clerici, M., & Janiri, L. (2012). Pregabalin for alcohol dependence: A critical review of the literature. Advances in Therapy, 29(11), 947–957. https://doi.org/10.1007/s12325-012-0061-5\n*Kämmerer, N., Lemenager, T., Grosshans, M., Kiefer, F., & Hermann, D. (2012). [Pregabalin for the reduction of opiate withdrawal symptoms]. Psychiatrische Praxis, 39(7), 351–2. https://doi.org/10.1055/s-0032-1305042\n*Bobes, J., Rubio, G., Terán, A., Cervera, G., López-Gómez, V., Vilardaga, I., & Pérez, M. (2012). Pregabalin for the discontinuation of long-term benzodiazepines use: An assessment of its effectiveness in daily clinical practice. European Psychiatry, 27(4), 301–307. https://doi.org/10.1016/j.eurpsy.2010.12.004\n*Oulis, P., Konstantakopoulos, G., Kouzoupis, A. V., Masdrakis, V. G., Karakatsanis, N. A., Karapoulios, E., … Papadimitriou, G. N. (2008). Pregabalin in the discontinuation of long-term benzodiazepines’ use. Human Psychopharmacology: Clinical and Experimental, 23(4), 337–340. https://doi.org/10.1002/hup.937\n\n==References==\n{{reflist|2}}\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Gabapentinoid]]\n\n{{#set:Featured=true}}"
+}

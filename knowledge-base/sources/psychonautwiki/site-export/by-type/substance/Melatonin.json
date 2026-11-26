@@ -1,0 +1,337 @@
+{
+ "id": "psychonautwiki:184",
+ "type": "substance",
+ "title": "Melatonin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Melatonin",
+  "pageid": 184,
+  "last_edited": "2025-11-11T18:29:29Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Dietary supplement",
+  "Hormone",
+  "Oneirogen",
+  "Tryptamine"
+ ],
+ "substance_box_template": "SubstanceBox/Melatonin",
+ "substance_box": {
+  "names": {
+   "common": "Melatonin",
+   "substitutive": "N-Acetyl-5-methoxytryptamine",
+   "systematic": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide"
+  },
+  "classes": {
+   "psychoactive": "Oneirogen",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "15%%",
+    "threshold": "0.25 mg",
+    "light": "0.5 - 1 mg",
+    "common": "1 - 3 mg",
+    "strong": "3 - 6 mg",
+    "heavy": "6 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 - 20 minutes",
+    "comeup": "20 - 70 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Melatonin"
+   ],
+   "psychoactive class": [
+    "Oneirogen"
+   ],
+   "chemical class": [
+    "Tryptamine"
+   ],
+   "Oral min bioavailability": [
+    "15"
+   ],
+   "Oral threshold dose": [
+    "0.25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1"
+   ],
+   "Oral min common dose": [
+    "1"
+   ],
+   "Oral max common dose": [
+    "3"
+   ],
+   "Oral min strong dose": [
+    "3"
+   ],
+   "Oral max strong dose": [
+    "6"
+   ],
+   "Oral heavy dose": [
+    "6"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "5"
+   ],
+   "Oral max onset time": [
+    "20"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "70"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Chemical structure of Melatonin",
+   "clean": "Chemical structure of Melatonin"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Melatonin.svg",
+   "clean": "File:Melatonin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Melatonin]]",
+   "clean": "Melatonin"
+  },
+  "NameSubstitution": {
+   "raw": "N-Acetyl-5-methoxytryptamine",
+   "clean": "N-Acetyl-5-methoxytryptamine"
+  },
+  "NameSystematic": {
+   "raw": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide",
+   "clean": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Oneirogen]]",
+   "clean": "Oneirogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::15]]%%<ref>{{cite journal | vauthors=((DeMuro, R. L.)), ((Nafziger, A. N.)), ((Blask, D. E.)), ((Menhinick, A. M.)), ((Bertino, J. S.)) | journal=The Journal of Clinical Pharmacology | title=The Absolute Bioavailability of Oral Melatonin | volume=40 | issue=7 | pages=781–784 | date= July 2000 | url=http://doi.wiley.com/10.1177/00912700022009422 | issn=00912700 | doi=10.1177/00912700022009422}}</ref>",
+   "clean": "15%%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.25]] [[Oral dose units::mg]]",
+   "clean": "0.25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1]] - [[Oral max common dose::3]] mg",
+   "clean": "1 - 3 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::3]] - [[Oral max strong dose::6]] mg",
+   "clean": "3 - 6 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::6]] mg +",
+   "clean": "6 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::20]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::70]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 70 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Acetyl-5-methoxytryptamine (also known as melatonin) is a hormone of the tryptamine class. It is found in animals, plants, fungi, and bacteria. In animals, it functions as a hormone that anticipates the daily onset of darkness; it may have different functions in other organisms.\n\nMelatonin is active and can be taken sublingually and buccally by placing it into one's mouth and allowing it to absorb over a period of 15-25 minutes. It is less active when taken orally. \n\nMelatonin is commonly used as a medication for insomnia; however, there is insufficient scientific evidence to prove any benefit in this area. It is sold over-the-counter in most pharmacies within the United States and Canada. In other countries, it may require a prescription or not be available.\n\nIt should be noted that when purchasing melatonin, dosages may range from 3 - 10mg. While not dangerous, this dosage range is well beyond the effective dose of .25 mg, and may increase instances of drowsiness the next day.\n\nChemistry\n\nMelatonin is comprised of a monoamine chain attached to an indole ring at the third carbon. A monoamine chain is made up of an amine group attached to an ethane chain. This monoamine chain can be found in many neurotransmitters, including histamine, dopamine, adrenaline, and noradrenaline. It is also found in many psychoactive substances such as members of the tryptamine and phenethylamine chemical classes. \n\nMelatonin, being a tryptamine, shares many structural properties with psychedelic substances. However, it lacks their associated psychedelic effects. Where many tryptamines have a group bonded to the ethylamine, melatonin has an acetyl group.\n\nMelatonin can reacted when used with Erlich reagent turning pink/red to purple (Tested with Natrol Melatonin Tablet).\n\nPharmacology\n\nMelatonin is a full agonist of melatonin receptor 1 (picomolar binding affinity) and melatonin receptor 2 (nanomolar binding affinity), both of which belong to the class of G-protein coupled receptors (GPCRs). Melatonin receptors 1 and 2 are both Gi/o-coupled GPCRs, although melatonin receptor 1 is also Gq-coupled. Melatonin also acts as a high-capacity free radical scavenger within mitochondria which also promotes the expression of antioxidant enzymes such as superoxide dismutase, glutathione peroxidase, glutathione reductase, and catalase via signal transduction through melatonin receptors.Melatonin is metabolized in the liver by cytochrome P450 enzyme CYP1A2 to 6-hydroxymelatonin. Metabolites are conjugated with sulfuric acid or glucuronic acid for excretion in the urine. 5% of melatonin is excreted in the urine as the unchanged drug. Some of the metabolites formed via the reaction of melatonin with a free radical include cyclic 3-hydroxymelatonin, N1-acetyl-N2-formyl-5-methoxykynuramine (AFMK), and N1-acetyl-5-methoxykynuramine (AMK).\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Melatonin\n\nToxicity and harm potential\n\nMelatonin is non-addictive, not known to be harmful, and has an extremely low toxicity relative to dose. Similar to other tryptamines, there are relatively few physical side effects associated with acute melatonin exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric, or toxic physical consequences. \n\nMelatonin appears to cause very few side effects as tested in the short-term (up to three months) at low doses. Two systematic reviews found no adverse effects of melatonin usage in several clinical trials, while comparative trials found the adverse effects headaches, dizziness, nausea, and drowsiness were reported about equally for both melatonin and placebo. Prolonged-release melatonin is safe with long-term use of up to 12 months.\n\nLethal dosage\n\nThe median lethal dose of melatonin at which 50% of participants die (LD50) for human beings has never been reached in any setting.\n\nDependence and abuse potential\n\nMelatonin is not habit-forming. It is possible, however, to develop a mild physical dependency if this compound is used on a nightly basis for a prolonged period. This simply means that if one suddenly stops their usage of the substance without tapering, they may have trouble sleeping for a couple of days afterward.\n\nTolerance to the effects of melatonin is slowly built after prolonged and repeated usage. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Melatonin presents cross-tolerance with no other known compounds, meaning that after the use of melatonin, other psychoactive compounds will not have a reduced effect.\n\nLegal status\n\n*Australia: Melatonin is schedule 4 (prescription only) except when included in schedule 3 (pharmacist only) for human use: \n**in modified release tablets containing 2 mg or less of melatonin for monotherapy for the short term treatment of primary insomnia characterised by poor quality of sleep for adults aged 55 or over, in packs containing not more than 30 tablets.\n*Canada: Melatonin is freely available to purchase as a dietary supplement and can be found at most pharmacies and grocery stores across the country.\n*France: Melatonin is available over the counter\n*Germany: Melatonin is a prescription medicine, according to Anlage 1 AMVV. It is however available as a dietary supplement in certain forms, often in low dosages or as combination preparations.\n*India: Melatonin is legal to purchase as a dietary supplement.\n*Italy: Melatonin is legal to purchase as a dietary supplement.\n*Ireland: Melatonin is a prescription-only medicine.\n*Sweden: Melatonin is an over-the-counter medication in small amounts, but generally a prescription pharmaceutical.\n*Switzerland: Melatonin is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.\n*United Kingdom: Melatonin is a licensed prescription-only medicine (POM) in the United Kingdom. It is not a criminal offense to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.\n*United States: Melatonin is listed as an uncontrolled substance and is legal to possess and distribute, and is freely available to purchase as a dietary supplement.\n\nSee also\n\n*Responsible use\n*Oneirogen\n*Neurotransmitter\n*Hormone\n*Tryptamine\n\nExternal links\n\n*Melatonin (Wikipedia)\n*Melatonin as a medication and supplement (Wikipedia)\n*Melatonin (Erowid Vault)\n*Melatonin (TiHKAL / Isomer Design)\n*Melatonin (DrugBank)\n*Melatonin (Drugs.com)\n*Melatonin (Examine)\n\nReferences\n\nCategory:Dietary supplement\nCategory:Hormone\nCategory:Tryptamine \nCategory:Oneirogen",
+ "wikitext": "{{headerpanel|{{Warning/Melatonin}}}}\n{{SummarySheet}}\n{{SubstanceBox/Melatonin}}\n'''N-Acetyl-5-methoxytryptamine''' (also known as '''melatonin'''<ref>{{Citation | title=Sleepdex: Melatonin |url=http://www.sleepdex.org/melatonin.htm}}</ref>) is a hormone of the [[chemical class::tryptamine]] class. It is found in animals, plants, fungi, and bacteria. In animals, it functions as a hormone that anticipates the daily onset of darkness;<ref>{{cite journal | vauthors=((Hardeland, R.)), ((Pandi-Perumal, S. R.)), ((Cardinali, D. P.)) | journal=The International Journal of Biochemistry & Cell Biology | title=Melatonin | volume=38 | issue=3 | pages=313–316 | date= March 2006 | issn=1357-2725 | doi=10.1016/j.biocel.2005.08.020}}</ref> it may have different functions in other organisms.\n\nMelatonin is active and can be taken [[sublingually]] and [[buccally]] by placing it into one's mouth and allowing it to absorb over a period of 15-25 minutes. It is less active when taken [[orally]]. \n\nMelatonin is commonly used as a medication for insomnia; however, there is insufficient scientific evidence to prove any benefit in this area.<ref>{{cite book | vauthors=((Brasure, M.)), ((MacDonald, R.)), ((Fuchs, E.)), ((Olson, C. M.)), ((Carlyle, M.)), ((Diem, S.)), ((Koffel, E.)), ((Khawaja, I. S.)), ((Ouellette, J.)), ((Butler, M.)), ((Kane, R. L.)), ((Wilt, T. J.)) | date= 2015 | title=Management of Insomnia Disorder | publisher=Agency for Healthcare Research and Quality (US) | series=AHRQ Comparative Effectiveness Reviews | url=http://www.ncbi.nlm.nih.gov/books/NBK343503/}}</ref> It is sold over-the-counter in most pharmacies within the United States and Canada. In other countries, it may require a prescription or not be available.\n\nIt should be noted that when purchasing melatonin, dosages may range from 3 - 10mg. While not dangerous, this dosage range is well beyond the effective dose of .25 mg, and may increase instances of drowsiness the next day.<ref>{{cite journal | vauthors=((Mundey, K.)), ((Benloucif, S.)), ((Harsanyi, K.)), ((Dubocovich, M. L.)), ((Zee, P. C.)) | journal=Sleep | title=Phase-dependent treatment of delayed sleep phase syndrome with melatonin | volume=28 | issue=10 | pages=1271–1278 | date= October 2005 | issn=0161-8105 | doi=10.1093/sleep/28.10.1271}}</ref>\n\n==Chemistry==\nMelatonin is comprised of a monoamine chain attached to an indole ring at the third carbon. A monoamine chain is made up of an amine group attached to an ethane chain. This monoamine chain can be found in many neurotransmitters, including [[histamine]], [[dopamine]], [[adrenaline]], and [[noradrenaline]]. It is also found in many psychoactive substances such as members of the [[tryptamine]] and [[phenethylamines|phenethylamine]] chemical classes. \n\nMelatonin, being a tryptamine, shares many structural properties with [[psychedelic]] substances. However, it lacks their associated psychedelic effects.<ref>{{Citation | title=Erowid Online Books : “TIHKAL” - #35 MELATONIN | url=https://erowid.org/library/books_online/tihkal/tihkal35.shtml}}</ref> Where many tryptamines have a group bonded to the ethylamine, melatonin has an acetyl group.\n\nMelatonin can reacted when used with Erlich reagent turning pink/red to purple (Tested with Natrol Melatonin Tablet).\n\n==Pharmacology==\n{{pharmacology}}\nMelatonin is a full agonist of melatonin receptor 1 (picomolar binding affinity) and melatonin receptor 2 (nanomolar binding affinity), both of which belong to the class of G-protein coupled receptors (GPCRs).<ref name=\":0\">J{{cite journal | vauthors=((Jockers, R.)), ((Delagrange, P.)), ((Dubocovich, M. L.)), ((Markus, R. P.)), ((Renault, N.)), ((Tosini, G.)), ((Cecon, E.)), ((Zlotos, D. P.)) | journal=British Journal of Pharmacology | title=Update on melatonin receptors: IUPHAR Review 20 | volume=173 | issue=18 | pages=2702–2725 | date= September 2016 | issn=1476-5381 | doi=10.1111/bph.13536}}</ref> Melatonin receptors 1 and 2 are both G<sub>i/o</sub>-coupled GPCRs, although melatonin receptor 1 is also G<sub>q</sub>-coupled.<ref name=\":0\" /> Melatonin also acts as a high-capacity free radical scavenger within mitochondria which also promotes the expression of antioxidant enzymes such as superoxide dismutase, glutathione peroxidase, glutathione reductase, and catalase via signal transduction through melatonin receptors.<ref name=\":0\" /><br />Melatonin is metabolized in the liver by cytochrome P450 enzyme CYP1A2 to 6-hydroxymelatonin. Metabolites are conjugated with sulfuric acid or glucuronic acid for excretion in the urine. 5% of melatonin is excreted in the urine as the unchanged drug.<ref>{{cite journal | vauthors=((Tordjman, S.)), ((Chokron, S.)), ((Delorme, R.)), ((Charrier, A.)), ((Bellissant, E.)), ((Jaafari, N.)), ((Fougerou, C.)) | journal=Current Neuropharmacology | title=Melatonin: Pharmacology, Functions and Therapeutic Benefits | volume=15 | issue=3 | pages=434–443 | date= April 2017 | issn=1875-6190 | doi=10.2174/1570159X14666161228122115}}</ref> Some of the metabolites formed via the reaction of melatonin with a free radical include cyclic 3-hydroxymelatonin, N1-acetyl-N2-formyl-5-methoxykynuramine (AFMK), and N1-acetyl-5-methoxykynuramine (AMK).<ref name=\":0\" />\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Melatonin does not produce sedation in the manner of central nervous depressants like [[alcohol]], [[benzodiazepines]], or [[zolpidem]]. \n*'''[[Effect::Muscle relaxation]]'''<ref name=\"Pozo2010\">{{cite journal | vauthors=((Pozo, M. J.)), ((Gomez-Pinilla, P. J.)), ((Camello-Almaraz, C.)), ((Martin-Cano, F. E.)), ((Pascua, P.)), ((Rol, M. A.)), ((Acuña-Castroviejo, D.)), ((Camello, P. J.)) | journal=Current Medicinal Chemistry | title=Melatonin, a potential therapeutic agent for smooth muscle-related pathological conditions and aging | volume=17 | issue=34 | pages=4150–4165 | date= 2010 | issn=1875-533X | doi=10.2174/092986710793348536}}</ref><ref name=\"Pozo2010\"/> - In comparison to other compounds, such as [[benzodiazepines]], this effect is very mild and only present at heavy dosages.\n**'''[[Effect::Physical euphoria]]''' - This effect can occur alongside [[Muscle relaxation]], and is only present at heavy dosages when the user resists the urge to sleep.\n*'''[[Effect::Decreased libido]]''' - This effect can be caused by the [[Sedation]] or by the fact that melatonin can inhibit secretion of hormones that control sexual functions.{{citation needed}}\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Sleepiness]]''' - Regarding its effects on the user's physical energy levels, melatonin is commonly considered to facilitate sleepiness. It is often used and sold as a sleep aid and mimics one's natural circadian cycle.\n*'''[[Effect::Anxiety suppression]] or [[Effect::Anxiety]]''' - Although this substance decreases anxiety with most people, it can also cause anxiety by some.\n*'''[[Effect::Dream potentiation]]''' - Melatonin is effective at increasing the duration, occurrence, and vividness of dreams. It is common for people to note that their dreams had noticeably increased the morning after ingesting melatonin as a sleep aid. Melatonin is sometimes used to increase the chances of lucid dreaming. \n*'''[[Effect::Depersonalization]]''' - Depersonalization can present itself upon the come-up and persist well into the next day if the user has ingested a massive dose.\n*'''[[Effect::Irritability]]''' Irritability is only present at high dosages when the user resists the urge to sleep.\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Headaches]]''' - A small subset of people may experience headaches the day after ingesting melatonin.<ref>{{Citation | title=Melatonin (Melatonin Time Release) - Side Effects, Interactions, Uses, Dosage, Warnings | url=https://www.everydayhealth.com/drugs/melatonin}}</ref>\n*'''[[Effect::Sleepiness]]'''\n}}\n\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Melatonin.shtml Erowid Experience Vaults: Melatonin]\n\n==Toxicity and harm potential==\nMelatonin is non-addictive, not known to be harmful, and has an [[Toxicity::extremely low toxicity]] relative to dose. Similar to other [[tryptamines]], there are relatively few physical side effects associated with acute melatonin exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric, or toxic physical consequences. \n\nMelatonin appears to cause very few side effects as tested in the short-term (up to three months) at low doses. Two systematic reviews found no adverse effects of melatonin usage in several clinical trials, while comparative trials found the adverse effects headaches, dizziness, nausea, and drowsiness were reported about equally for both melatonin and placebo.<ref>{{cite journal | vauthors=((Buscemi, N.)), ((Vandermeer, B.)), ((Hooton, N.)), ((Pandya, R.)), ((Tjosvold, L.)), ((Hartling, L.)), ((Baker, G.)), ((Klassen, T. P.)), ((Vohra, S.)) | journal=Journal of General Internal Medicine | title=The Efficacy and Safety of Exogenous Melatonin for Primary Sleep Disorders | volume=20 | issue=12 | pages=1151–1158 | date= December 2005 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1490287/ | issn=0884-8734 | doi=10.1111/j.1525-1497.2005.0243.x}}</ref><ref>{{cite journal | vauthors=((Buscemi, N.)), ((Vandermeer, B.)), ((Hooton, N.)), ((Pandya, R.)), ((Tjosvold, L.)), ((Hartling, L.)), ((Vohra, S.)), ((Klassen, T. P.)), ((Baker, G.)) | journal=BMJ : British Medical Journal | title=Efficacy and safety of exogenous melatonin for secondary sleep disorders and sleep disorders accompanying sleep restriction: meta-analysis | volume=332 | issue=7538 | pages=385–393 | date=18 February 2006 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1370968/ | issn=0959-8138 | doi=10.1136/bmj.38731.532766.F6}}</ref> Prolonged-release melatonin is safe with long-term use of up to 12 months.<ref>{{cite journal | vauthors=((Lyseng-Williamson, K. A.)) | journal=Drugs & Aging | title=Melatonin prolonged release: in the treatment of insomnia in patients aged ≥55 years | volume=29 | issue=11 | pages=911–923 | date= November 2012 | issn=1179-1969 | doi=10.1007/s40266-012-0018-z}}</ref>\n\n===Lethal dosage===\nThe median lethal dose of melatonin at which 50% of participants die ([[LD50|LD<sub>50</sub>]]) for human beings has never been reached in any setting.\n\n===Dependence and abuse potential===\nMelatonin is [[Addiction potential::not habit-forming]]. It is possible, however, to develop a mild physical dependency if this compound is used on a nightly basis for a prolonged period. This simply means that if one suddenly stops their usage of the substance without tapering, they may have trouble sleeping for a couple of days afterward.\n\nTolerance to the effects of melatonin is slowly built [[Time to full tolerance::after prolonged and repeated usage]]. After that, it takes about [[Time to half tolerance::7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). Melatonin presents cross-tolerance with [[Cross-tolerance::no other known compounds]], meaning that after the use of melatonin, other psychoactive compounds will not have a reduced effect.\n\n==Legal status==\n\n*'''Australia''': Melatonin is schedule 4 (prescription only) except when included in schedule 3 (pharmacist only) for human use: \n**in modified release tablets containing 2 mg or less of melatonin for monotherapy for the short term treatment of primary insomnia characterised by poor quality of sleep for adults aged 55 or over, in packs containing not more than 30 tablets.<ref>{{Citation | vauthors=Health | title=Poisons Standard February 2022 | url=https://www.legislation.gov.au/Details/F2022L00074/}}</ref>\n*'''Canada''': Melatonin is freely available to purchase as a dietary supplement and can be found at most pharmacies and grocery stores across the country.<ref>https://health-products.canada.ca/lnhpd-bdpsnh/info?licence=80015830</ref>\n*France: Melatonin is available over the counter\n*'''Germany''': Melatonin is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=Anlage 1 AMVV - Einzelnorm | url=https://www.gesetze-im-internet.de/amvv/anlage_1.html}}</ref> It is however available as a dietary supplement in certain forms, often in low dosages or as combination preparations.<ref>{{Citation | vauthors=((Moll, D.)) | year=2019 | title=Melatonin in Nahrungsergänzungsmitteln | url=https://www.deutsche-apotheker-zeitung.de/news/artikel/2019/10/22/melatonin-in-nahrungsergaenzungsmitteln}}</ref>\n*'''India''': Melatonin is legal to purchase as a dietary supplement.{{citation needed}}\n*'''Italy''': Melatonin is legal to purchase as a dietary supplement.{{citation needed}}\n*'''Ireland''': Melatonin is a prescription-only medicine.<ref>https://www.hpra.ie/homepage/medicines/medicines-information/find-a-medicine/results/item?pano=EU/1/07/392/001&t=Circadin</ref>\n*'''Sweden''': Melatonin is an over-the-counter medication in small amounts, but generally a prescription pharmaceutical.<ref>”Receptfritt melatonin på apoteken”. ''janusinfo.se''.</ref>\n*'''Switzerland''': Melatonin is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.<ref>https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html</ref>\n*'''United Kingdom''': Melatonin is a licensed prescription-only medicine (POM) in the United Kingdom.<ref>https://www.nhs.uk/medicines/melatonin/about-melatonin/</ref> It is not a criminal offense to possess this medicine without a valid prescription. This medicine can legally be obtained with a valid prescription or through legal import of the medicine for personal use as outlined in Section 13 of the Medicines Act 1968.<ref>{{cite web |url = http://www.legislation.gov.uk/ukpga/1968/67/section/13|title = Medicines Act 1968 Section 13}}</ref>\n*'''United States''': Melatonin is listed as an uncontrolled substance and is legal to possess and distribute, and is freely available to purchase as a dietary supplement.<ref>https://www.drugs.com/melatonin.html</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Oneirogen]]\n*[[Neurotransmitter]]\n*[[Hormone]]\n*[[Tryptamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Melatonin Melatonin (Wikipedia)]\n*[https://en.wikipedia.org/wiki/Melatonin_as_a_medication_and_supplement Melatonin as a medication and supplement (Wikipedia)]\n*[https://erowid.org/smarts/melatonin/ Melatonin (Erowid Vault)]\n*[http://isomerdesign.com/PiHKAL/read.php?domain=tk&id=35 Melatonin (TiHKAL / Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01065 Melatonin (DrugBank)]\n*[https://www.drugs.com/melatonin.html Melatonin (Drugs.com)]\n*[https://examine.com/supplements/melatonin/ Melatonin (Examine)]\n\n==References==\n<references />\n\n[[Category:Dietary supplement]]\n[[Category:Hormone]]\n[[Category:Tryptamine]] \n[[Category:Oneirogen]]\n\n{{#set:Featured=true}}"
+}

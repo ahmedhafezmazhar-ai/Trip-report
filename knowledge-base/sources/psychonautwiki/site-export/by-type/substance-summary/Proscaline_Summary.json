@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13387",
+ "type": "substance-summary",
+ "title": "Proscaline/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Proscaline/Summary",
+  "pageid": 13387,
+  "last_edited": "2016-11-29T10:25:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Proscaline",
+ "plain_text": "",
+ "wikitext": "{{Summary|Proscaline}}"
+}

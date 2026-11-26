@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:5928",
+ "type": "other",
+ "title": "List of articles",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/List_of_articles",
+  "pageid": 5928,
+  "last_edited": "2017-06-10T20:25:36Z"
+ },
+ "categories": [
+  "PsychonautWiki"
+ ],
+ "plain_text": "__NOTOC__\n\nThis list serves as an organized and central index of the content and articles available within PsychonautWiki.\n\nGeneral\n\nResponsible use\n\nSubjective effects\n\nPsychoactive substances\n\nExperiences\n\nTutorials\n\nReplications\n\nCategory:PsychonautWiki",
+ "wikitext": "__NOTOC__\n{{SubmissionPanel/article}}\nThis list serves as an organized and central index of the content and articles available within [[PsychonautWiki]].\n==General==\n{{:List/general}}\n==Responsible use==\n{{Responsible use2}}\n==Subjective effects==\n{{:List/effects}}\n==Psychoactive substances==\n{{:List/substances}}\n==Experiences==\n{{:List/experiences}}\n==Tutorials==\n{{:List/tutorials}}\n{{:Scientific Information}}\n==Replications==\n{{:Effects/Gallery}}\n{{:Effects/SeeAlso}}\n\n[[Category:PsychonautWiki]]"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13148",
+ "type": "substance-summary",
+ "title": "1P-ETH-LAD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1P-ETH-LAD/Summary",
+  "pageid": 13148,
+  "last_edited": "2016-11-05T23:18:17Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1P-ETH-LAD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1P-ETH-LAD}}"
+}

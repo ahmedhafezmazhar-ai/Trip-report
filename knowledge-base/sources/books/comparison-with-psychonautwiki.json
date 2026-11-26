@@ -1,0 +1,1144 @@
+[
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:1",
+  "book_name": "AL-LAD",
+  "psychonautwiki": "AL-LAD",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/AL-LAD",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "80 - 160 microgramos, vía oral",
+   "duration": "6 - 8 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 µg",
+   "light": "50 - 100 µg",
+   "common": "100 - 225 µg",
+   "strong": "225 - 350 µg",
+   "heavy": "350 µg +",
+   "duration": "7 - 10 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:3",
+  "book_name": "DET",
+  "psychonautwiki": "DET",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DET",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "50 – 100 mg, vía oral",
+   "duration": "2 – 4 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "10 mg",
+   "light": "20 - 40 mg",
+   "common": "40 - 70 mg",
+   "strong": "70 - 100 mg",
+   "heavy": "100 mg +",
+   "duration": ""
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:4",
+  "book_name": "DIPT",
+  "psychonautwiki": "DiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DiPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "25 – 100 mg, vía oral",
+   "duration": "6 – 8 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "15 mg",
+   "light": "15 - 30 mg",
+   "common": "30 - 75 mg",
+   "strong": "75 - 150 mg",
+   "heavy": "150 mg +",
+   "duration": "3 - 26 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:6",
+  "book_name": "DMT",
+  "psychonautwiki": "DMT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DMT",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "> 350 mg (vía oral) 60 – 100 mg (vía intramuscular) 60 – 100 mg (vía subcutánea) 60 – 100 mg (vía inhalatoria) 4 – 30 mg (vía intrvenosa)",
+   "duration": "hasta una hora"
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:9",
+  "book_name": "DPT",
+  "psychonautwiki": "DPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "100 – 250 mg, vía oral",
+   "duration": "2 - 4 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "50 mg",
+   "light": "75 - 150 mg",
+   "common": "150 - 250 mg",
+   "strong": "250 - 350 mg",
+   "heavy": "350 mg +",
+   "duration": "2 - 4 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:11",
+  "book_name": "α-ET",
+  "psychonautwiki": "AET",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/AET",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "100 – 150 mg, vía oral",
+   "duration": "6 – 8 horas"
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:12",
+  "book_name": "ETH-LAD",
+  "psychonautwiki": "ETH-LAD",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/ETH-LAD",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "40 – 150 microgramos, vía oral",
+   "duration": "8 – 12 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "15 µg",
+   "light": "30 - 60 µg",
+   "common": "60 - 150 µg",
+   "strong": "150 - 225 µg",
+   "heavy": "225 µg +",
+   "duration": "8 - 12 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:16",
+  "book_name": "4-OH-DET",
+  "psychonautwiki": "4-HO-DET",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-DET",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "10 – 25 mg, vía oral",
+   "duration": "4 – 6 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 15 mg",
+   "common": "20 - 30 mg",
+   "strong": "30 - 45 mg",
+   "heavy": "45 mg +",
+   "duration": "5 - 7 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:17",
+  "book_name": "4-OH-DIPT",
+  "psychonautwiki": "4-HO-DiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-DiPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "15 – 20 mg, vía oral",
+   "duration": "2 – 3 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "3 - 10 mg",
+   "common": "10 - 20 mg",
+   "strong": "20 - 30 mg",
+   "heavy": "30 mg +",
+   "duration": "2 - 4 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:18",
+  "book_name": "4-OH-DMT",
+  "psychonautwiki": "Psilocin",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Psilocin",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "10 – 20 mg, vía oral (como indolol, acetato o fosfato)",
+   "duration": "3 – 6 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 15 mg",
+   "common": "15 - 25 mg",
+   "strong": "25 - 40 mg",
+   "heavy": "40 mg +",
+   "duration": "4 - 6 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:19",
+  "book_name": "5-OH-DMT",
+  "psychonautwiki": "Bufotenin",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Bufotenin",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "8 – 16 mg, vía intravenosa",
+   "duration": "1 – 2 horas"
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:20",
+  "book_name": "4-OH-DPT",
+  "psychonautwiki": "4-HO-DPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-DPT",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "desconocida",
+   "duration": "desconocida"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 mg",
+   "light": "40 - 60 mg",
+   "common": "60 - 90 mg",
+   "strong": "90 - 130 mg",
+   "heavy": "130 mg +",
+   "duration": "5 - 8 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:21",
+  "book_name": "4-OH-MET",
+  "psychonautwiki": "4-HO-MET",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-MET",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "10 – 20 mg, vía oral",
+   "duration": "4 – 6 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "5 - 15 mg",
+   "common": "15 - 25 mg",
+   "strong": "25 - 45 mg",
+   "heavy": "45 mg +",
+   "duration": "4 - 6 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:22",
+  "book_name": "4-OH-MIPT",
+  "psychonautwiki": "4-HO-MiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-MiPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "12 – 25 mg, vía oral (como indolol o acetato)",
+   "duration": "4 – 6 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 15 mg",
+   "common": "15 - 25 mg",
+   "strong": "25 - 35 mg",
+   "heavy": "35 mg +",
+   "duration": "4 - 6 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:23",
+  "book_name": "4-OH-MPT",
+  "psychonautwiki": "4-HO-MPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/4-HO-MPT",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "desconocida",
+   "duration": "desconocida"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 20 mg",
+   "common": "20 - 30 mg",
+   "strong": "30 - 50 mg",
+   "heavy": "50 mg +",
+   "duration": "5 - 7 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:25",
+  "book_name": "Ibogaína",
+  "psychonautwiki": "Ibogaine",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Ibogaine",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "(desde cientos de miligramos hast un gramo o más, vía oral)",
+   "duration": "(bastante larga)"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "1 - 5 mg/kg of body weight",
+   "light": "5 - 10 mg/kg of body weight",
+   "common": "10 - 20 mg/kg of body weight",
+   "strong": "Strong doses may result in fatal heart complications.",
+   "heavy": "",
+   "duration": ""
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:26",
+  "book_name": "LSD",
+  "psychonautwiki": "LSD",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/LSD",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "60 – 200 microgramos, vía oral",
+   "duration": "8 – 12 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "",
+   "light": "",
+   "common": "",
+   "strong": "",
+   "heavy": "",
+   "duration": ""
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:35",
+  "book_name": "Melatonina",
+  "psychonautwiki": "Melatonin",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Melatonin",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "1 – 10 mg, vía oral",
+   "duration": "unas pocas horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "0.25 mg",
+   "light": "0.5 - 1 mg",
+   "common": "1 - 3 mg",
+   "strong": "3 - 6 mg",
+   "heavy": "6 mg +",
+   "duration": "3 - 6 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:37",
+  "book_name": "5-MeO-DIPT",
+  "psychonautwiki": "5-MeO-DiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/5-MeO-DiPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "6 – 12 mg, vía oral",
+   "duration": "4 – 8 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "3 - 10 mg",
+   "common": "10 - 15 mg",
+   "strong": "15 - 20 mg",
+   "heavy": "20 mg +",
+   "duration": "4 - 8 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:38",
+  "book_name": "5-MeO-DMT",
+  "psychonautwiki": "5-MeO-DMT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/5-MeO-DMT",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "6 – 20 mg, fumado; 2 – 3 mg, vía intravenosa",
+   "duration": "1 – 2 horas"
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:40",
+  "book_name": "5-MeO-MIPT",
+  "psychonautwiki": "5-MeO-MiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/5-MeO-MiPT",
+  "status": "differs",
+  "flags": [
+   "book dose range does not overlap PsychonautWiki's common oral dose"
+  ],
+  "note": null,
+  "book_says": {
+   "dose": "4 – 6 mg, vía oral. 12 – 20 mg, fumado",
+   "duration": "4 – 6 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "3 - 7 mg",
+   "common": "7 - 15 mg",
+   "strong": "15 - 20 mg",
+   "heavy": "20 mg +",
+   "duration": "5 - 8 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:47",
+  "book_name": "MIPT",
+  "psychonautwiki": "MiPT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/MiPT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "10 – 25 mg, vía oral",
+   "duration": "3 – 4 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "",
+   "light": "",
+   "common": "10 - 25 mg",
+   "strong": "25 - 75 mg",
+   "heavy": "75 - 200 mg",
+   "duration": "3 - 8 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:48",
+  "book_name": "α-MT",
+  "psychonautwiki": "ΑMT",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/%CE%91MT",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "15 – 30 mg, vía oral, 5 – 20 mg, fumado",
+   "duration": "12 – 15 horas"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 25 mg",
+   "common": "25 - 40 mg",
+   "strong": "40 - 60 mg",
+   "heavy": "60 - 80 mg",
+   "duration": "13 - 15 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:51",
+  "book_name": "PRO-LAD",
+  "psychonautwiki": "PRO-LAD",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/PRO-LAD",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": null,
+   "duration": "6 – 8 horas."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 µg",
+   "light": "50 - 100 µg",
+   "common": "100 - 200 µg",
+   "strong": "200 - 350 µg",
+   "heavy": "350 µg +",
+   "duration": "6 - 8 hours"
+  }
+ },
+ {
+  "book": "TiHKAL (Spanish ed.)",
+  "book_id": "tihkal-es:53",
+  "book_name": "T",
+  "psychonautwiki": "Tryptamine (compound)",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Tryptamine_%28compound%29",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "dose": "250 mg, vía intrvenosa.",
+   "duration": "muy corta."
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:2",
+  "book_name": "AL",
+  "psychonautwiki": "Allylescaline",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Allylescaline",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 20-35 mg; duration 8-12 hours (Shulgin and Shulgin, 1 99 1 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "15 mg",
+   "light": "20 - 30 mg",
+   "common": "30 - 40 mg",
+   "strong": "40 - 60 mg",
+   "heavy": "60 mg +",
+   "duration": "8 - 12 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:10",
+  "book_name": "B-DFLY",
+  "psychonautwiki": "Bromo-DragonFLY",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Bromo-DragonFLY",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": "B-DFLY was first reported to be active in humans via i.m. administration at about 1 00 µg; it was initially reported without oral activity at this dose (Shulgin, 2003)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "75 µg",
+   "light": "100 - 300 µg",
+   "common": "300 - 500 µg",
+   "strong": "500 - 750 µg",
+   "heavy": "750 µg +",
+   "duration": "1 - 4 days"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:18",
+  "book_name": "2C-B",
+  "psychonautwiki": "2C-B",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-B",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at about 20 mg (Lemaire et al., 1985), and at 1 2-24 mg; duration 4-8 hours (Shulgin and Shulgin, 1 991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 15 mg",
+   "common": "15 - 25 mg",
+   "strong": "25 - 45 mg",
+   "heavy": "45 mg +",
+   "duration": "5 - 7 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:19",
+  "book_name": "2C-C",
+  "psychonautwiki": "2C-C",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-C",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 20-40 mg; duration 4-8 hours (Shulgin and Shulgin, 1 99 1 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "15 - 30 mg",
+   "common": "30 - 50 mg",
+   "strong": "50 - 90 mg",
+   "heavy": "90 mg +",
+   "duration": "4 - 8 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:20",
+  "book_name": "2C-D",
+  "psychonautwiki": "2C-D",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-D",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "2C-D was reported an orally active psychedelic in humans at about 40 mg (Lemaire et al., 1985), and a mild stimulant with some psychedelic suggestions at 20-60 mg; duration 4-6 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "10 - 25 mg",
+   "common": "25 - 50 mg",
+   "strong": "50 - 100 mg",
+   "heavy": "100 mg +",
+   "duration": "3 - 5 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:21",
+  "book_name": "2C-E",
+  "psychonautwiki": "2C-E",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-E",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 10-25 mg; duration 8-12 hours (Shulgin and Shulgin, 199 1 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "2 mg",
+   "light": "5 - 10 mg",
+   "common": "10 - 15 mg",
+   "strong": "15 - 30 mg",
+   "heavy": "30 mg +",
+   "duration": "6 - 10 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:22",
+  "book_name": "2C-H",
+  "psychonautwiki": "2C-H",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-H",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "",
+   "light": "",
+   "common": "Unknown",
+   "strong": "",
+   "heavy": "",
+   "duration": "Unknowm"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:23",
+  "book_name": "2C-I",
+  "psychonautwiki": "2C-I",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-I",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 14-22 mg; duration 6-1 0 hours (Shulgin and Shulgin, 1 991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "2 mg",
+   "light": "5 - 10 mg",
+   "common": "10 - 20 mg",
+   "strong": "20 - 30 mg",
+   "heavy": "30 mg +",
+   "duration": "6 - 10 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:24",
+  "book_name": "mCPP",
+  "psychonautwiki": "MCPP",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/MCPP",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "15 mg",
+   "light": "20 - 50 mg",
+   "common": "50 - 120 mg",
+   "strong": "120 - 150 mg",
+   "heavy": "150 mg +",
+   "duration": ""
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:25",
+  "book_name": "2C-T",
+  "psychonautwiki": "2C-T",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-T",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 60-1 00 mg; duration 3-5 hours (Shulgin and Shulgin, 1 991 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 mg",
+   "light": "40 - 60 mg",
+   "common": "60 - 100 mg",
+   "strong": "100 - 120 mg",
+   "heavy": "125 mg +",
+   "duration": "3 - 6 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:26",
+  "book_name": "2C-T-2",
+  "psychonautwiki": "2C-T-2",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-T-2",
+  "status": "differs",
+  "flags": [
+   "book duration does not overlap PsychonautWiki's oral duration"
+  ],
+  "note": null,
+  "book_says": {
+   "statement": "2C-T-2 is orally active in humans at 8-20 mg; duration 12-18 hours (Shulgin and Shulgin, 1 991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "5 - 10 mg",
+   "common": "10 - 20 mg",
+   "strong": "20 - 30 mg",
+   "heavy": "25 - 30 mg +",
+   "duration": "6 - 10 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:27",
+  "book_name": "2C-T-7",
+  "psychonautwiki": "2C-T-7",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2C-T-7",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 10-30 mg; duration 8-15 hours (Shulgin and Shulgin, 1 99 1 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "3 mg",
+   "light": "10 - 15 mg",
+   "common": "15 - 25 mg",
+   "strong": "25 - 40 mg",
+   "heavy": "40 mg +",
+   "duration": "6 - 10 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:36",
+  "book_name": "2,5-DMA",
+  "psychonautwiki": "2,5-DMA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/2%2C5-DMA",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "10 mg",
+   "light": "10 - 40 mg",
+   "common": "40 - 80 mg",
+   "strong": "80 - 200 mg",
+   "heavy": "200 mg +",
+   "duration": "6 - 8 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:52",
+  "book_name": "DOB",
+  "psychonautwiki": "DOB",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DOB",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": "DOB is an active psychedelic in humans in the 1-2 mg range; increased dose extends activity up to 24 hours (Shulgin et al., 1971 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "0.2 mg",
+   "light": "0.2 - 0.75 mg",
+   "common": "0.75 - 1.75 mg",
+   "strong": "1.75 - 3 mg",
+   "heavy": "3 mg +",
+   "duration": "14 - 24 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:54",
+  "book_name": "DOC",
+  "psychonautwiki": "DOC",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DOC",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "0.5 mg",
+   "light": "1 - 2 mg",
+   "common": "2 - 4 mg",
+   "strong": "4 - 6 mg",
+   "heavy": "6 mg +",
+   "duration": "12 - 24 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:58",
+  "book_name": "DOI",
+  "psychonautwiki": "DOI",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DOI",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 1.5-3.0 mg; duration 16-30 hours (Shulgin and Shulgin, 199 1 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "0.5 mg",
+   "light": "0.5 - 1 mg",
+   "common": "1 - 2 mg",
+   "strong": "2 - 3 mg",
+   "heavy": "3 mg +",
+   "duration": "16 - 24 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:60",
+  "book_name": "DOM",
+  "psychonautwiki": "DOM",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/DOM",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "DOM was reported to be orally active in humans at about 5 mg (Shulgin and Dyer, 1975; Lemaire et al., 1985), and at 3-1 0 mg; duration 14-20 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "0.5 mg",
+   "light": "1 - 3 mg",
+   "common": "3 - 5 mg",
+   "strong": "5 - 10 mg",
+   "heavy": "10 mg +",
+   "duration": "12 - 16 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:64",
+  "book_name": "Escaline",
+  "psychonautwiki": "Escaline",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Escaline",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Escaline is orally active in humans at 60 mg (Braun et al., 1978a), at 30-60 mg (Jacob and Shulgin, 1984), and at 40-60 mg; duration 8-12 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 mg",
+   "light": "30 - 50 mg",
+   "common": "50 - 100 mg",
+   "strong": "100 - 150 mg",
+   "heavy": "150 mg +",
+   "duration": "8 - 12 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:77",
+  "book_name": "MDA",
+  "psychonautwiki": "MDA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/MDA",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "MDA has been reported to be orally active in humans at 60-120 mg (Braun et al., 1980), at 80-160 mg; duration 3-5 hours (Erowid and Erowid, 2001), and 8-12 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 mg",
+   "light": "40 - 60 mg",
+   "common": "60 - 100 mg",
+   "strong": "100 - 145 mg",
+   "heavy": "145 mg +",
+   "duration": "5 - 8 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:81",
+  "book_name": "MOE",
+  "psychonautwiki": "MDEA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/MDEA",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Oral activity in humans was first reported at 140-200 mg (Braun et al., 1 980)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "40 mg",
+   "light": "70 - 120 mg",
+   "common": "120 - 180 mg",
+   "strong": "180 - 225 mg",
+   "heavy": "225 mg +",
+   "duration": "3 - 6 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:82",
+  "book_name": "MOMA",
+  "psychonautwiki": "MDMA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/MDMA",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "MOMA was orally active in humans at 80-1 50 mg; duration 4-6 hours (Shulgin and Shulgin, 1991 )."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "20 mg",
+   "light": "20 - 80 mg",
+   "common": "80 - 120 mg",
+   "strong": "120 - 150 mg",
+   "heavy": "150 mg +",
+   "duration": "3 - 6 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:91",
+  "book_name": "Mescaline",
+  "psychonautwiki": "Mescaline",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Mescaline",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Mescaline was orally active in humans at about 400 mg (Lemaire et al., 1 985), and at 200400 mg; duration 10-12 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "50 mg",
+   "light": "50 - 200 mg",
+   "common": "200 - 400 mg",
+   "strong": "400 - 800 mg",
+   "heavy": "800 mg+",
+   "duration": "8 - 14 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:92",
+  "book_name": "METHCATH",
+  "psychonautwiki": "Methcathinone",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Methcathinone",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "25 mg",
+   "light": "50 - 100 mg",
+   "common": "100 - 200 mg",
+   "strong": "200 - 300 mg",
+   "heavy": "300 mg +",
+   "duration": "4 - 6 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:93",
+  "book_name": "Methylone",
+  "psychonautwiki": "Methylone",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Methylone",
+  "status": "book gives no comparable oral dose or duration",
+  "flags": [],
+  "note": "Book statement is not an oral human dose, so doses were not compared.",
+  "book_says": {
+   "statement": null
+  },
+  "psychonautwiki_oral": {
+   "threshold": "75 mg",
+   "light": "75 - 150 mg",
+   "common": "150 - 225 mg",
+   "strong": "225 - 325 mg",
+   "heavy": "325 mg +",
+   "duration": "2.5 - 4 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:104",
+  "book_name": "Proscaline",
+  "psychonautwiki": "Proscaline",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Proscaline",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "The octanol-water partition coefficient may serve as a predictor of human psychedelic potency (Nichols and Dyer, 1977); a comparison was made of other steric properties, with rivatives (Nichols, l 986b ). animal and human potency of several phenethylamines, tryptamines and lysergide deOrally active in humans at 30-60 mg (Braun et al., 1978; Shulgin and Shulgin, 1991); duration 8-12 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "10 mg",
+   "light": "15 - 30 mg",
+   "common": "30 - 40 mg",
+   "strong": "40 - 60 mg",
+   "heavy": "60 mg +",
+   "duration": "8 - 12 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:107",
+  "book_name": "PEA",
+  "psychonautwiki": "Phenethylamine (compound)",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/Phenethylamine_%28compound%29",
+  "status": "no PsychonautWiki oral data",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "An orally active psychedelic dose level in humans was not reached at 1 600 mg; any effect duration is unknown (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": null
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:110",
+  "book_name": "PMA",
+  "psychonautwiki": "PMA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/PMA",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "Orally active in humans at 60 mg (Shulgin et al., 1969), and at 50-80 mg, with a \"relatively short\" duration of action (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "< 10 mg",
+   "light": "20 - 40 mg",
+   "common": "40 - 60 mg",
+   "strong": "Higher dosages can result in serious hyperthermia and eventually death.",
+   "heavy": "",
+   "duration": "short"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:112",
+  "book_name": "PMMA",
+  "psychonautwiki": "PMMA",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/PMMA",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "PMMA has oral psychedelic activity in humans at greater than 1 00 mg; the duration is \"short\" (Shulgin and Shulgin, 1991)"
+  },
+  "psychonautwiki_oral": {
+   "threshold": "",
+   "light": "",
+   "common": "100 - 120 mg",
+   "strong": "Higher dosages can result in serious hyperthermia and eventually death.",
+   "heavy": "",
+   "duration": "short"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:118",
+  "book_name": "TMA-2",
+  "psychonautwiki": "TMA-2",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/TMA-2",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "TMA-2 is orally active as a psychedelic in humans at 20-40 mg; duration 8-12 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 20 mg",
+   "common": "20 - 40 mg",
+   "strong": "40 - 60 mg",
+   "heavy": "60 mg +",
+   "duration": "8 - 12 hours"
+  }
+ },
+ {
+  "book": "Shulgin Index Vol. 1",
+  "book_id": "shulgin-index-v1:122",
+  "book_name": "TMA-6",
+  "psychonautwiki": "TMA-6",
+  "psychonautwiki_url": "https://psychonautwiki.org/wiki/TMA-6",
+  "status": "consistent",
+  "flags": [],
+  "note": null,
+  "book_says": {
+   "statement": "TMA-6 is an orally active psychedelic in humans at 25-50 mg; duration 12-16 hours (Shulgin and Shulgin, 1991)."
+  },
+  "psychonautwiki_oral": {
+   "threshold": "5 mg",
+   "light": "10 - 20 mg",
+   "common": "20 - 35 mg",
+   "strong": "35 - 50 mg",
+   "heavy": "50 mg +",
+   "duration": "10 - 16 hours"
+  }
+ }
+]

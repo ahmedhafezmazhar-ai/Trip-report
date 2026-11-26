@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10916",
+ "type": "substance-summary",
+ "title": "2M2B/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2M2B/Summary",
+  "pageid": 10916,
+  "last_edited": "2017-04-07T23:28:51Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2M2B",
+ "plain_text": "",
+ "wikitext": "{{Summary|2-methyl-2-butanol}}"
+}

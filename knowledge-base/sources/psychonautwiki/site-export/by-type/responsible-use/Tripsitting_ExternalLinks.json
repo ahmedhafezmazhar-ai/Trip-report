@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:25780",
+ "type": "responsible-use",
+ "title": "Tripsitting/ExternalLinks",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tripsitting/ExternalLinks",
+  "pageid": 25780,
+  "last_edited": "2026-10-08T20:45:26Z"
+ },
+ "categories": [],
+ "plain_text": "External links\n\n* Salience Journal (explanatory invariant secondary document)",
+ "wikitext": "==External links==\n* [https://hydrationcheck.codeberg.page/Portfolio/saliencejournal.html Salience Journal (explanatory invariant secondary document)]"
+}

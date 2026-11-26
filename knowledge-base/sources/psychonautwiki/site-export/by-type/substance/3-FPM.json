@@ -1,0 +1,515 @@
+{
+ "id": "psychonautwiki:8880",
+ "type": "substance",
+ "title": "3-FPM",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-FPM",
+  "pageid": 8880,
+  "last_edited": "2024-12-09T21:23:24Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Phenylmorpholine",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/3-FPM",
+ "substance_box": {
+  "names": {
+   "common": "3-FPM, PAL-593",
+   "substitutive": "3-Fluorophenmetrazine",
+   "systematic": "2-(3-Fluorophenyl)-3-methylmorpholine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted amphetamine / Phenylmorpholine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 30 mg",
+    "common": "30 - 60 mg",
+    "strong": "60 - 90 mg",
+    "heavy": "90 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 40 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "30 - 90 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 35 mg",
+    "strong": "35 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "3-FPM",
+    "PAL-593"
+   ],
+   "systematic name": [
+    "2-(3-Fluorophenyl)-3-methylmorpholine"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine",
+    "Phenylmorpholine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "30"
+   ],
+   "Oral min common dose": [
+    "30"
+   ],
+   "Oral max common dose": [
+    "60"
+   ],
+   "Oral min strong dose": [
+    "60"
+   ],
+   "Oral max strong dose": [
+    "90"
+   ],
+   "Oral heavy dose": [
+    "90"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "30"
+   ],
+   "Oral max afterglow time": [
+    "90"
+   ],
+   "Oral afterglow time units": [
+    "minutes"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "20"
+   ],
+   "Insufflated max common dose": [
+    "35"
+   ],
+   "Insufflated min strong dose": [
+    "35"
+   ],
+   "Insufflated max strong dose": [
+    "50"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 3-FPM",
+   "clean": "Molecular structure of 3-FPM"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:3-FPM.svg",
+   "clean": "File:3-FPM.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::3-FPM]], [[common name::PAL-593]]",
+   "clean": "3-FPM, PAL-593"
+  },
+  "NameSubstitution": {
+   "raw": "3-Fluorophenmetrazine",
+   "clean": "3-Fluorophenmetrazine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-(3-Fluorophenyl)-3-methylmorpholine]]",
+   "clean": "2-(3-Fluorophenyl)-3-methylmorpholine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]] / [[chemical class::Phenylmorpholine]]",
+   "clean": "Substituted amphetamine / Phenylmorpholine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::30]] - [[Oral max common dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::60]] - [[Oral max strong dose::90]] mg",
+   "clean": "60 - 90 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::90]] mg +",
+   "clean": "90 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::30]] - [[Oral max afterglow time::90]] [[Oral afterglow time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::20]] - [[Insufflated max common dose::35]] mg",
+   "clean": "20 - 35 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::35]] - [[Insufflated max strong dose::50]] mg",
+   "clean": "35 - 50 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "50 mg +",
+   "clean": "50 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "5 minutes",
+   "clean": "5 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "3-Fluorophenmetrazine (also known as 3F-Phenmetrazine, PAL-593, and 3-FPM) is a novel stimulant substance of the phenylmorpholine class. 3-FPM is a derivative of phenmetrazine, a once-popular stimulant substance that was clinically used as an anorectic in Europe in the 1950s. It produces its activity by increasing the levels of serotonin, dopamine, and norepinephrine in the brain. \n\nThe synthesis and pharmacology of 3-FPM was first reported in a patent filed in 2011. Reports of human use first surfaced in early 2015 after it appeared for sale on the online research chemical market. \n\nSubjective effects include stimulation, enhanced focus and motivation, thought acceleration, and euphoria. Users commonly report that 3-FPM produces classical stimulant effects comparable to those of amphetamine. Many reports describe 3-FPM as having a relatively subtle and controlled stimulant effect which produces less nervousness, insomnia and euphoria than other stimulants, which makes it suitable as a study-aid or productivity-enhancer. A few but significant number of anecdotal reports indicate some people experience serious nervous system reactions to 3-FPM.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 3-FPM. Due to the lack of information on its properties, it is highly advised to use harm reduction practices if using this substance. \n\nChemistry\n\n3-Fluorophenmetrazine (3-FPM) is a synthetic molecule of the Substituted amphetamine family.  Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. Amphetamines are alpha-methylated phenethylamines. 3-FPM contains a fluorine atom attached at R3 of the phenyl ring. Additionally, part of its amphetamine skeleton is incorporated into a morpholine ring. At R2 of its chain, an oxygen group is bound -- this oxygen group is linked by an ethyl chain to the terminal amine of the amphetamine chain to form a morpholine group. 3-FPM is a fluorinated derivative of phenmetrazine.\n\nPharmacology\n\n3-FPM is a sympathomimetic drug which has classical stimulant effects when consumed. Its mechanism of action appears to function by acting as a releasing agent for dopamine and norepinephrine, increasing their concentrations in the synaptic clefts of neurons in the brain. This accumulation of neurotransmitters results in the experience of euphoric and stimulating effects. Its parent compound, phenmetrazine, was previously marketed as an appetite suppressant in the 60s and 70s but has since been withdrawn from the market due to concerns of abuse and addiction.\n\nBelow is a table showing 3-FPM's potency for inducing release (EC50) of dopamine (DA), serotonin (5-HT) and noradrenaline (NE) in comparison to phenmetrazine:\n{|\n|-\n|\n{| class=\"wikitable\"\n|-\n|-\n|Compounds >'Neurotransmitters V||3-FPM||Phenmetrazine\n|-\n|DA Release||43||87\n|-\n|5-HT Release||2558||3246\n|-\n|NE Release||30||38\n|}\n ||\n|}\n\nSubjective effects\n\nAccording to anecdotal reports, 3-FPM is considered to be more subtle in its effects when compared to other stimulants and produces less nervousness, euphoria, and insomnia than substances of the substituted amphetamine class, leading to its adoption as a study and productivity-enhancing drug as opposed to the more typical recreational stimulant with pronounced euphoric properties. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 3-FPM\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 3-FPM use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 3-FPM has very little history of human usage. \n\nAnecdotal evidence suggests that 3-FPM is relatively well-tolerated, with most users encountering few side-effects at low to moderate doses. However, several users have encountered serious flu-like symptoms on the comedown of 3-FPM, consisting of muscle and joint aches, fever and chills, and headaches, sometimes with migraine auras present. This is speculated to be systemic inflammation induced by 3-FPM. Therefore new users should exercise great caution in dosing to gauge their own physiological response to 3-FPM.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of 3-FPM can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 3-FPM develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 3-FPM presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 3-FPM all stimulants will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*France: As of december 2024, 3-FPM is not explicitly scheduled. It is thus legal to possess, although in a grey area.\n*Germany: 3-FPM is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. As of 2022 due to changes in the NpSG it's legal again if sold only for research purposes.\n*Israel: 3-FPM is illegal to buy, sell or possess in Israel as of 2017.\n*Sweden: The public health agency suggested the classification of the drug as an illegal narcotic on June 1, 2015.\n*Switzerland: 3-FPM is a controlled substance specifically named under Verzeichnis E. It was added to the list of controlled substances in December 2015.\n*Turkey: 3-FPM is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: 3-FPM is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n*United States: 3-FPM may be considered to be an analogue of phenmetrazine, a Schedule II drug, under the Federal Analogue Act if it is intended for human consumption. It is an illegal Schedule I controlled substance in the state of Virginia, as well as its isomers such as 4-FPM.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Phenethylamine\n*Methylphenidate\n*Ethylphenidate\n\nExternal links\n\n*3-FPM (Wikipedia)\n*3-FPM (Isomer Design)\n\nCommunity\n\n*3F-Phenmetrazine (3-FPM) (Bluelight)\n*PAL-593 / 3-fluorophenmetrazine (3-FPM)  (Drugs Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Amphetamine\nCategory:Phenylmorpholine\nCategory:Stimulant\nCategory:Research chemical",
+ "wikitext": "{{Distinguish|3F-Phenetrazine}}\n{{SummarySheet}}\n{{SubstanceBox/3-FPM}}\n'''3-Fluorophenmetrazine''' (also known as '''3F-Phenmetrazine''', '''PAL-593''', and '''3-FPM''') is a novel [[psychoactive class::stimulant]] substance of the [[Chemical class::phenylmorpholine]] class. 3-FPM is a derivative of [[phenmetrazine]], a once-popular stimulant substance that was clinically used as an anorectic in Europe in the 1950s.<ref>{{cite book | vauthors=((Kalant, O. J.)) | date= 1966 | title=The amphetamines; toxicity and addiction | publisher=[Springfield, Ill.] Thomas [Toronto, Univ. of Toronto Press] | url=http://archive.org/details/amphetaminestoxi0000unse}}</ref> It produces its activity by increasing the levels of [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain. \n\nThe synthesis and pharmacology of 3-FPM was first reported in a patent filed in 2011.<ref>{{Citation | vauthors=((Blough, B. E.)), ((Rothman, R.)), ((Landavazo, A.)), ((Page, K. M.)), ((Decker, A. M.)) | title=Phenylmorpholines and analogues thereof | url=https://patents.google.com/patent/US9617229B2/en}}</ref> Reports of human use first surfaced in early 2015 after it appeared for sale on the online [[research chemical]] market. \n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement|enhanced focus]] and [[motivation enhancement|motivation]], [[thought acceleration]], and [[euphoria]]. Users commonly report that 3-FPM produces classical stimulant effects comparable to those of amphetamine. Many reports describe 3-FPM as having a relatively subtle and controlled stimulant effect which produces less nervousness, insomnia and euphoria than other stimulants, which makes it suitable as a study-aid or productivity-enhancer. A few but significant number of anecdotal reports indicate some people experience serious nervous system reactions to 3-FPM<ref>{{Citation | vauthors=Sisquitch | year=2021 | title=I had the 3-FPM that caused mild paralysis and damage to a Reddit user’s peroneal nerve NMR tested. Results in the description. | url=https://www.reddit.com/r/researchchemicals/comments/l4yvh5/i_had_the_3fpm_that_caused_mild_paralysis_and/}}</ref>.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 3-FPM. Due to the lack of information on its properties, it is highly advised to use [[harm reduction practices]] if using this substance. \n\n==Chemistry==\n3-Fluorophenmetrazine (3-FPM) is a synthetic molecule of the [[Chemical class::Substituted amphetamine|amphetamine]] family.  Molecules of the amphetamine class contain a [[phenethylamine]] core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. Amphetamines are alpha-methylated phenethylamines. 3-FPM contains a fluorine atom attached at R<sub>3</sub> of the phenyl ring. Additionally, part of its amphetamine skeleton is incorporated into a morpholine ring. At R<sub>2</sub> of its chain, an oxygen group is bound -- this oxygen group is linked by an ethyl chain to the terminal amine of the amphetamine chain to form a morpholine group. 3-FPM is a fluorinated derivative of [[phenmetrazine]].\n\n==Pharmacology==\n3-FPM is a sympathomimetic drug which has classical [[stimulant]] effects when consumed. Its mechanism of action appears to function by acting as a [[releasing agent]] for [[dopamine]] and [[norepinephrine]], increasing their concentrations in the synaptic clefts of neurons in the brain. This accumulation of [[neurotransmitters]] results in the experience of [[physical euphoria|euphoric]] and [[stimulation|stimulating]] effects. Its parent compound, phenmetrazine, was previously marketed as an [[appetite suppressant]] in the 60s and 70s but has since been withdrawn from the market due to concerns of abuse and addiction.\n\nBelow is a table showing 3-FPM's potency for inducing release (EC50) of [[dopamine]] (DA), [[serotonin]] (5-HT) and [[noradrenaline]] (NE) in comparison to phenmetrazine:\n{|\n|-\n|\n{| class=\"wikitable\"\n|-\n|-\n|'''Compounds >'''<br>'''Neurotransmitters V'''||3-FPM||[[Phenmetrazine]]\n|-\n|[[dopamine|DA Release]]||43||87\n|-\n|[[serotonin|5-HT Release]]||2558||3246\n|-\n|[[noradrenaline|NE Release]]||30||38\n|}\n ||<ref>{{Citation | vauthors=((Blough, B. E.)), ((Rothman, R.)), ((Landavazo, A.)), ((Page, K. M.)), ((Decker, A. M.)) | title=Phenylmorpholines and analogues thereof | url=https://patents.google.com/patent/US20130203752/en}}</ref>\n|}\n\n==Subjective effects==\n{{EffectStub}}\nAccording to anecdotal reports, 3-FPM is considered to be more subtle in its effects when compared to other stimulants and produces less [[anxiety|nervousness]], [[euphoria]], and [[wakefulness|insomnia]] than substances of the [[substituted amphetamine]] class, leading to its adoption as a study and productivity-enhancing drug as opposed to the more typical recreational stimulant with pronounced [[euphoric]] properties. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, 3-FPM is usually considered to be mildly to moderately energetic and stimulating in a fashion that is considerably weaker in comparison to that of traditional recreational stimulants such as [[amphetamine]], [[MDMA]] or [[cocaine]]. This encourages physical activities such as performing chores and repetitive tasks which would otherwise be boring and strenuous physical activities.\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased heart rate]]''' - In comparison to other stimulants such as [[amphetamine]] or [[cocaine]],  3-FPM only has a mild effect on one's heart rate. This effect may be more pronounced with higher doses aswell with redosing.\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Appetite suppression]]''' - The above components are also accompanied by a suppression of appetite which is usually much less intense in strength in comparison to the appetite suppression experienced with [[amphetamine]] or [[methamphetamine]].\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Vasoconstriction]]''' {{citation needed}}\n*'''[[Effect::Increased libido]]''' - 3-FPM is known for having aphrodisiac properties and is said to enhance sex drive and improve sexual performance.{{citation needed}}\n*'''[[Effect::Decreased libido]]''' - 3-FPM is known for increasing sexual activity. But while being a CNS stimulant vasoconstriction that occurs with stimulants can make sexual activity more strenuous{{citation needed}}\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]] and many other stimulants.\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Disinhibition]]''' - While 3-FPM is often noted for its potential functional applications, higher doses can result in the kind of disinhibition seen in traditional stimulants like [[amphetamine]] or [[cocaine]], leading to increased sociability.\n*'''[[Effect::Cognitive euphoria]]''' - This component is much less intense than the euphoria experienced with other stimulants such as [[amphetamine]], [[cocaine]], or [[methamphetamine]].\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate doses as anything higher will usually impair concentration.\n*'''[[Effect::Motivation enhancement]]''' - This component is experienced in a functional form even at moderate to high doses.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\nAlthough many report 3-FPM to have minor comedowns, many also report redosing can produce moderate to full on of the effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Derealization]]'''\n}}\n\n{{effects/visual|\nThe visual effects of 3-FPM are usually less consistent and only mildly noticeable at higher dosages and sleep deprivation. They are somewhat comparable to deliriants and occur more readily in darker areas. Visual effects include:\n*'''[[Effect::Brightness alteration]]''' - People often report an increase of Brightness on 3-FPM in their subjective experiences. Based on anecdotal reports\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:3-FPM]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_3FPhenmetrazine.shtml Erowid Experience Vaults: 3-FPM]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational 3-FPM use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 3-FPM has very little history of human usage. \n\nAnecdotal evidence suggests that 3-FPM is relatively well-tolerated, with most users encountering few side-effects at low to moderate doses. However, several users have encountered serious flu-like symptoms on the comedown of 3-FPM, consisting of muscle and joint aches, fever and chills, and headaches, sometimes with migraine auras present. This is speculated to be systemic inflammation induced by 3-FPM. Therefore new users should exercise great caution in dosing to gauge their own physiological response to 3-FPM.{{citation needed}}\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other [[stimulants]], the chronic use of 3-FPM can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 3-FPM [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 3-FPM presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of 3-FPM all [[stimulant]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n\n==Legal status==\n\n*'''France''': As of december 2024, 3-FPM is not explicitly scheduled. It is thus legal to possess, although in a grey area.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 3-FPM is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> As of 2022 due to changes in the NpSG it's legal again if sold only for research purposes.\n*'''Israel''': 3-FPM is illegal to buy, sell or possess in Israel as of 2017.<ref>{{Citation | title=פקודת הסמים המסוכנים [נוסח חדש], תשל\"ג-1973 | url=https://www.nevo.co.il/law_html/Law01/P170_001.htm}}</ref>\n*'''Sweden''': The public health agency suggested the classification of the drug as an illegal narcotic on June 1, 2015.<ref>http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2015/juni/23-nya-amnen-kan-klassas-som-narkotika-eller-halsofarlig-vara</ref>\n*'''Switzerland''': 3-FPM is a controlled substance specifically named under Verzeichnis E. It was added to the list of controlled substances in December 2015.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' 3-FPM is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2016/9712\">https://resmigazete.gov.tr/eskiler/2017/01/20170112-8.pdf</ref>\n*'''United Kingdom''': 3-FPM is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States''': 3-FPM may be considered to be an analogue of phenmetrazine, a Schedule II drug<ref>https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf</ref>, under the Federal Analogue Act if it is intended for human consumption.<ref>{{Citation | title=21 U.S. Code § 813 - Treatment of controlled substance analogues | url=https://www.law.cornell.edu/uscode/text/21/813}}</ref> It is an illegal Schedule I controlled substance in the state of Virginia, as well as its isomers such as 4-FPM.<ref>https://law.lis.virginia.gov/vacode/title54.1/chapter34/section54.1-3446/#:~:text=5.%20Unless%20specifically,name%3A%203%2Dfluorophenmetrazine)%3B</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Phenethylamine]]\n*[[Methylphenidate]]\n*[[Ethylphenidate]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/3-Fluorophenmetrazine 3-FPM (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=629 3-FPM (Isomer Design)]\n\n===Community===\n\n*[http://www.bluelight.org/vb/threads/737012-3F-Phenmetrazine-(3-FPM) 3F-Phenmetrazine (3-FPM) (Bluelight)]\n*[https://www.drugs-forum.com/forum/showthread.php?t=257863 PAL-593 / 3-fluorophenmetrazine (3-FPM)  (Drugs Forum)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Amphetamine]]\n[[Category:Phenylmorpholine]]\n[[Category:Stimulant]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

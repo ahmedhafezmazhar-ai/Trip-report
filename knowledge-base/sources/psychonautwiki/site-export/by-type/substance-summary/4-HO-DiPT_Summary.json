@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13367",
+ "type": "substance-summary",
+ "title": "4-HO-DiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-HO-DiPT/Summary",
+  "pageid": 13367,
+  "last_edited": "2016-11-28T02:11:52Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-HO-DiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-HO-DiPT}}"
+}

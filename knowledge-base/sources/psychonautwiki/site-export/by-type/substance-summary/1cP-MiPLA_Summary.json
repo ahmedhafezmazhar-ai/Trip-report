@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19487",
+ "type": "substance-summary",
+ "title": "1cP-MiPLA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1cP-MiPLA/Summary",
+  "pageid": 19487,
+  "last_edited": "2021-08-15T18:50:12Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1cP-MiPLA",
+ "plain_text": "",
+ "wikitext": "{{Summary|1cP-MiPLA}}"
+}

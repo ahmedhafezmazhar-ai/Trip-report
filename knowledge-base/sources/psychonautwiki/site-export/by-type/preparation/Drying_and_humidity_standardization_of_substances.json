@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:20800",
+ "type": "preparation",
+ "title": "Drying and humidity standardization of substances",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Drying_and_humidity_standardization_of_substances",
+  "pageid": 20800,
+  "last_edited": "2023-01-28T20:17:51Z"
+ },
+ "categories": [
+  "General extraction",
+  "Preparation"
+ ],
+ "plain_text": "Drying\n\n# Weight the substance on a weighing scale, and write down the value.\n# If possible, make a fine powder by rubbing the substance through a coarse strainer, and then with a fine strainer, to speed up the drying process.\n# Dry the chemical with silica gel in a sealed container.\n* Use completely dried silica gel (can be heat in microwave for 5 minutes at 800W) in a sealed container, and weigh samples until they don't lose any weight, which indicates that it's completely dry.\n* Weight the substance again, and divide it with the weight in step 1, to calculate the loss of weight in percentage.\n\nExpected loss of substances\n\nCannabis\n\n* 10-20%.\n\nPowders\n\n* 40% weight from large moist lumps.\n* 50% or more from a paste.\n\nHumidity standardization\n\n# To make it simple, dry the substance first.\n# Calculate how much water you need to add (see the below section).\n# For small batches, pour the water in folded toilet paper, and attach the paper at the inside of a lid for a sealed container, for example, a mason jar.\n# Add a hygrometer to the container, to monitor the relative humidity.\n# Store until the toilet paper is dry.\n\nHow to calculate the amount of water\n\nAdd x% of the desired weight in water to y weight substance: (y+(y*x))*x\n\n:Example: To get 10% humidity for 100 g dry herb, add 11 g water: (100+(100*0.1))*0.1 = 11\n\nCategory:General extraction\nCategory:Preparation",
+ "wikitext": "==Drying==\n# Weight the substance on a weighing scale, and write down the value.\n# If possible, make a fine powder by rubbing the substance through a coarse strainer, and then with a fine strainer, to speed up the drying process.\n# Dry the chemical with silica gel in a sealed container.\n* Use completely dried silica gel (can be heat in microwave for 5 minutes at 800W) in a sealed container, and weigh samples until they don't lose any weight, which indicates that it's completely dry.\n* Weight the substance again, and divide it with the weight in step 1, to calculate the loss of weight in percentage.\n\n===Expected loss of substances===\n\n====Cannabis====\n* 10-20%.\n\n====Powders====\n* 40% weight from large moist lumps.\n* 50% or more from a paste.\n\n==Humidity standardization==\n# To make it simple, [[#Drying|dry]] the substance first.\n# Calculate how much water you need to add (see the below section).\n# For small batches, pour the water in folded toilet paper, and attach the paper at the inside of a lid for a sealed container, for example, a mason jar.\n# Add a hygrometer to the container, to monitor the relative humidity.\n# Store until the toilet paper is dry.\n\n===How to calculate the amount of water===\nAdd x% of the desired weight in water to y weight substance: (y+(y*x))*x\n\n:Example: To get 10% humidity for 100 g dry herb, add 11 g water: (100+(100*0.1))*0.1 = 11\n\n[[Category:General extraction]]\n[[Category:Preparation]]"
+}

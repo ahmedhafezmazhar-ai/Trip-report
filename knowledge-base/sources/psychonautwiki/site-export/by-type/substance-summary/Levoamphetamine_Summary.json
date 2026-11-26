@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21241",
+ "type": "substance-summary",
+ "title": "Levoamphetamine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Levoamphetamine/Summary",
+  "pageid": 21241,
+  "last_edited": "2023-10-04T22:32:31Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Levoamphetamine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Levoamphetamine}}"
+}

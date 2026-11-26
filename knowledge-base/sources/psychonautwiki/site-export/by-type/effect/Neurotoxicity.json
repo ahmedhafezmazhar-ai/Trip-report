@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:19791",
+ "type": "effect",
+ "title": "Neurotoxicity",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Neurotoxicity",
+  "pageid": 19791,
+  "last_edited": "2026-10-14T03:53:50Z"
+ },
+ "categories": [
+  "Effect",
+  "Physical",
+  "Stub",
+  "Uncomfortable"
+ ],
+ "plain_text": "Psychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nSee also\n\n*Responsible use\n*Subjective effects index\n*Vasoconstriction\n\nExternal links\n\n* Neurotoxicity (Wikipedia)\nCategory:PhysicalCategory:UncomfortableCategory:Effect",
+ "wikitext": "{{headerpanel|{{stub}}}}\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Neurotoxicity]]|format=ul|Columns=2}}\n\n==See also==\n*[[Responsible use]]\n*[[Subjective effects index]]\n*[[Vasoconstriction]]\n\n===External links===\n* [https://en.wikipedia.org/wiki/Neurotoxicity Neurotoxicity (Wikipedia)]\n[[Category:Physical]][[Category:Uncomfortable]][[Category:Effect]]"
+}

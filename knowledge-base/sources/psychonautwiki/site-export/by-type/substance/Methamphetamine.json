@@ -1,0 +1,1036 @@
+{
+ "id": "psychonautwiki:6149",
+ "type": "substance",
+ "title": "Methamphetamine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methamphetamine",
+  "pageid": 6149,
+  "last_edited": "2025-11-29T08:25:14Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 Dutch-language sources (nl)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Pages using citations with accessdate and no URL",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Methamphetamine",
+ "substance_box": {
+  "names": {
+   "common": "Methamphetamine, Meth, Crystal, Desoxyn, Speed, Ma, Ice, Glass, Shard, Tina, T, Tweak, Crank, Shabu, Yaba",
+   "substitutive": "N-Methylamphetamine",
+   "systematic": "N-Methyl-1-phenylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "~70%",
+    "threshold": "< 5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "8 - 12 hours Up to 24h for irregular users.",
+    "onset": "15 - 45 minutes",
+    "comeup": "1 - 3 hours",
+    "peak": "3 - 5 hours",
+    "offset": "3 - 4 hours",
+    "aftereffects": "12 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "~99%",
+    "threshold": "< 5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 40 mg",
+    "heavy": "40 mg+",
+    "duration": "6 - 10 hours Up to 18h for irregular users.",
+    "onset": "5 - 15 minutes",
+    "comeup": "3 - 5 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "3 - 5 hours",
+    "aftereffects": "12 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": ">90%",
+    "threshold": "< 5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 20 mg",
+    "strong": "20 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "2 - 6 hoursUp to 12h for irregular users.",
+    "onset": "7 - 10 seconds",
+    "comeup": "5 - 10 seconds",
+    "peak": "1 - 3 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "2 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": ">90%",
+    "threshold": "< 5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 7 hours Up to 12h for irregular users.",
+    "onset": "3 - 5 minutes",
+    "comeup": "3 - 5 minutes",
+    "peak": "1.5 - 3 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "~100%",
+    "threshold": "< 5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 40 mg",
+    "heavy": "40 mg+",
+    "duration": "4 - 8 hours Up to 18h for irregular users.",
+    "onset": "15 - 30 seconds",
+    "comeup": "1 - 2 minutes",
+    "peak": "1 - 3 hours",
+    "offset": "3 - 4 hours",
+    "aftereffects": "12 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": "280px"
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Methamphetamine",
+    "Meth",
+    "Crystal",
+    "Desoxyn",
+    "Speed",
+    "Ma",
+    "Ice",
+    "Glass",
+    "Shard",
+    "Tina",
+    "T",
+    "Tweak",
+    "Crank",
+    "Shabu",
+    "Yaba"
+   ],
+   "systematic name": [
+    "N-Methyl-1-phenylpropan-2-amine"
+   ],
+   "Psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "3"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "12"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Rectal threshold dose": [
+    "5"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "5"
+   ],
+   "Rectal max light dose": [
+    "10"
+   ],
+   "Rectal min common dose": [
+    "10"
+   ],
+   "Rectal max common dose": [
+    "30"
+   ],
+   "Rectal min strong dose": [
+    "30"
+   ],
+   "Rectal max strong dose": [
+    "40"
+   ],
+   "Rectal heavy dose": [
+    "40"
+   ],
+   "Rectal min total time": [
+    "6"
+   ],
+   "Rectal max total time": [
+    "10"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "5"
+   ],
+   "Rectal max onset time": [
+    "15"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "3"
+   ],
+   "Rectal max comeup time": [
+    "5"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "2"
+   ],
+   "Rectal max peak time": [
+    "4"
+   ],
+   "Rectal peak time units": [
+    "hours"
+   ],
+   "Rectal min offset time": [
+    "3"
+   ],
+   "Rectal max offset time": [
+    "5"
+   ],
+   "Rectal offset time units": [
+    "hours"
+   ],
+   "Rectal min afterglow time": [
+    "12"
+   ],
+   "Rectal max afterglow time": [
+    "24"
+   ],
+   "Rectal afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "5"
+   ],
+   "Smoked max light dose": [
+    "10"
+   ],
+   "Smoked min common dose": [
+    "10"
+   ],
+   "Smoked max common dose": [
+    "20"
+   ],
+   "Smoked min strong dose": [
+    "20"
+   ],
+   "Smoked max strong dose": [
+    "60"
+   ],
+   "Smoked heavy dose": [
+    "60"
+   ],
+   "Smoked min total time": [
+    "2"
+   ],
+   "Smoked max total time": [
+    "6"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "7"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "5"
+   ],
+   "Smoked max comeup time": [
+    "10"
+   ],
+   "Smoked comeup time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "1"
+   ],
+   "Smoked max peak time": [
+    "3"
+   ],
+   "Smoked peak time units": [
+    "hours"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "3"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "2"
+   ],
+   "Smoked max afterglow time": [
+    "24"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "5"
+   ],
+   "Insufflated max light dose": [
+    "10"
+   ],
+   "Insufflated min common dose": [
+    "10"
+   ],
+   "Insufflated max common dose": [
+    "30"
+   ],
+   "Insufflated min strong dose": [
+    "30"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "7"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "3"
+   ],
+   "Insufflated max comeup time": [
+    "5"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1.5"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "2"
+   ],
+   "Insufflated max offset time": [
+    "4"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "6"
+   ],
+   "Insufflated max afterglow time": [
+    "24"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Intravenous threshold dose": [
+    "5"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "5"
+   ],
+   "Intravenous max light dose": [
+    "10"
+   ],
+   "Intravenous min common dose": [
+    "10"
+   ],
+   "Intravenous max common dose": [
+    "30"
+   ],
+   "Intravenous min strong dose": [
+    "30"
+   ],
+   "Intravenous max strong dose": [
+    "40"
+   ],
+   "Intravenous heavy dose": [
+    "40"
+   ],
+   "Intravenous min total time": [
+    "4"
+   ],
+   "Intravenous max total time": [
+    "8"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "15"
+   ],
+   "Intravenous max onset time": [
+    "30"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "1"
+   ],
+   "Intravenous max comeup time": [
+    "2"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "1"
+   ],
+   "Intravenous max peak time": [
+    "3"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "3"
+   ],
+   "Intravenous max offset time": [
+    "4"
+   ],
+   "Intravenous offset time units": [
+    "hours"
+   ],
+   "Intravenous min afterglow time": [
+    "12"
+   ],
+   "Intravenous max afterglow time": [
+    "24"
+   ],
+   "Intravenous afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Methamphetamine",
+   "clean": "Molecular structure of Methamphetamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Methamphetamine.svg",
+   "clean": "File:Methamphetamine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Methamphetamine]], [[common name::Meth]], [[common name::Crystal]], [[common name::Desoxyn]], [[common name::Speed]], [[common name::Ma]], [[common name::Ice]], [[common name::Glass]], [[common name::Shard]], [[common name::Tina]], [[common name::T]], [[common name::Tweak]], [[common name::Crank]], [[common name::Shabu]], [[common name::Yaba]]",
+   "clean": "Methamphetamine, Meth, Crystal, Desoxyn, Speed, Ma, Ice, Glass, Shard, Tina, T, Tweak, Crank, Shabu, Yaba"
+  },
+  "NameSubstitution": {
+   "raw": "N-Methylamphetamine",
+   "clean": "N-Methylamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::N-Methyl-1-phenylpropan-2-amine]]",
+   "clean": "N-Methyl-1-phenylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "~70%<ref name=\"Rau2016\">{{cite journal | vauthors=((Rau, T.)), ((Ziemniak, J.)), ((Poulsen, D.)) | journal=Progress in Neuro-Psychopharmacology and Biological Psychiatry | title=The neuroprotective potential of low-dose methamphetamine in preclinical models of stroke and traumatic brain injury | volume=64 | pages=231–236 | date=4 January 2016 | url=https://www.sciencedirect.com/science/article/pii/S0278584615000469 | issn=0278-5846 | doi=10.1016/j.pnpbp.2015.02.013}}</ref>",
+   "clean": "~70%"
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::12]] [[Oral total time units::hours]] <span style=\"color:green\">'''Up to 24h for irregular users.'''</span>",
+   "clean": "8 - 12 hours Up to 24h for irregular users."
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::3]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::12]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "12 - 24 hours"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/methamphetamine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "~99%<ref name=\"Methamphetamine | City Vision\">{{Citation | title=Methamphetamine - City Vision | url=https://library.cityvision.edu/methamphetamine}}</ref>",
+   "clean": "~99%"
+  },
+  "RectalROA_Threshold": {
+   "raw": "< [[Rectal threshold dose::5]] [[Rectal dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::5]] - [[Rectal max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::10]] - [[Rectal max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::30]] - [[Rectal max strong dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::40]] mg+",
+   "clean": "40 mg+"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::6]] - [[Rectal max total time::10]] [[Rectal total time units::hours]] <span style=\"color:green\">'''Up to 18h for irregular users.'''</span>",
+   "clean": "6 - 10 hours Up to 18h for irregular users."
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::5]] - [[Rectal max onset time::15]] [[Rectal onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::3]] - [[Rectal max comeup time::5]] [[Rectal comeup time units::minutes]]",
+   "clean": "3 - 5 minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::2]] - [[Rectal max peak time::4]] [[Rectal peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::3]] - [[Rectal max offset time::5]] [[Rectal offset time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::12]] - [[Rectal max afterglow time::24]] [[Rectal afterglow time units::hours]]",
+   "clean": "12 - 24 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/methamphetamine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": ">90%",
+   "clean": ">90%"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< [[Smoked threshold dose::5]] [[Smoked dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::5]] - [[Smoked max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::10]] - [[Smoked max common dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::20]] - [[Smoked max strong dose::60]] mg",
+   "clean": "20 - 60 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::2]] - [[Smoked max total time::6]] [[Smoked total time units::hours]]<span style=\"color:green\">'''Up to 12h for irregular users.'''</span>",
+   "clean": "2 - 6 hoursUp to 12h for irregular users."
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::7]] - [[Smoked max onset time::10]] [[Smoked onset time units::seconds]]",
+   "clean": "7 - 10 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::5]] - [[Smoked max comeup time::10]] [[Smoked comeup time units::seconds]]",
+   "clean": "5 - 10 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::1]] - [[Smoked max peak time::3]] [[Smoked peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::3]] [[Smoked offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::2]] - [[Smoked max afterglow time::24]] [[Smoked afterglow time units::hours]]",
+   "clean": "2 - 24 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/methamphetamine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": ">90%",
+   "clean": ">90%"
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< [[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::5]] - [[Insufflated max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::10]] - [[Insufflated max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::30]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::7]] [[Insufflated total time units::hours]] <span style=\"color:green\">'''Up to 12h for irregular users.'''</span>",
+   "clean": "4 - 7 hours Up to 12h for irregular users."
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 5 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::3]] - [[Insufflated max comeup time::5]] [[Insufflated comeup time units::minutes]]",
+   "clean": "3 - 5 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1.5]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::2]] - [[Insufflated max offset time::4]] [[Insufflated offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::6]] - [[Insufflated max afterglow time::24]] [[Insufflated afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/methamphetamine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "~100%<ref name=\"Rau2016\"/>",
+   "clean": "~100%"
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< [[Intravenous threshold dose::5]] [[Intravenous dose units::mg]]",
+   "clean": "< 5 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::5]] - [[Intravenous max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::10]] - [[Intravenous max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::30]] - [[Intravenous max strong dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::40]] mg+",
+   "clean": "40 mg+"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "280px",
+   "clean": "280px"
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::4]] - [[Intravenous max total time::8]] [[Intravenous total time units::hours]] <span style=\"color:green\">'''Up to 18h for irregular users.'''</span>",
+   "clean": "4 - 8 hours Up to 18h for irregular users."
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::15]] - [[Intravenous max onset time::30]] [[Intravenous onset time units::seconds]]",
+   "clean": "15 - 30 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::1]] - [[Intravenous max comeup time::2]] [[Intravenous comeup time units::minutes]]",
+   "clean": "1 - 2 minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::1]] - [[Intravenous max peak time::3]] [[Intravenous peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::3]] - [[Intravenous max offset time::4]] [[Intravenous offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "[[Intravenous min afterglow time::12]] - [[Intravenous max afterglow time::24]] [[Intravenous afterglow time units::hours]]",
+   "clean": "12 - 24 hours"
+  }
+ },
+ "plain_text": "N-Methylamphetamine (also known as Methamphetamine, Ma, Meth, Glass, Ice, Shard, Crank, Tina, T, Tweak, Yaba, Shabu, and Crystal) is a classical stimulant substance of the amphetamine class. It is structurally related to amphetamine, however it crosses the blood-brain barrier more rapidly, due to its relatively high lipid solubility. It produces its effects by increasing levels of the neurotransmitters serotonin, dopamine, and norepinephrine in the brain.\n\nMethamphetamine was first synthesized from ephedrine in 1893 by Japanese chemist Nagayoshi Nagai. Along with heroin and cocaine, it has a notorious reputation as a dangerous and highly addictive \"street drug\".\n\nSubjective effects include motivation enhancement, stamina enhancement, appetite suppression, increased libido, and euphoria. Chronic high-dose use can induce states of anxiety & paranoia, delusions, thought disorganization, psychosis, and violent behavior. It is associated with compulsive redosing, especially when it is vaporized (\"smoked\") or injected, due to the overwhelming euphoric rush it produces in the user upon initial administration.  \n\nMethamphetamine has been shown to have extremely high abuse and addiction potential; it is widely considered to be one of the most addictive substances due to the intense euphoria it produces. Additionally, unlike amphetamine at therapeutic doses, methamphetamine at moderate to heavy recreational doses is considered to be directly neurotoxic to humans, damaging both dopamine and serotonin neurons within the central nervous system. In nonhuman mammals, degeneration of monaminergic terminals and neuronal apoptosis (cell death) has been known to occur. In humans the effects are also neurotoxic. It also displays cardiotoxicity, including increased blood pressure and elevated risk of stroke and heart attack. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\n250px|thumbnail|right|Pure \"shards\" of Methamphetamine Hydrochloride, commonly known as \"crystal meth\".\n\nHistory and culture\n\nAmphetamine was first synthesized in 1887 in Germany by Romanian chemist Lazăr Edeleanu who named it phenylisopropylamine. Shortly after, methamphetamine was synthesized from ephedrine in 1893 by Japanese chemist Nagai Nagayoshi. Neither drug had a pharmacological use until 1934, when Smith, Kline, and French began selling amphetamine as an inhaler under the trade name Benzedrine as a decongestant. During World War II, amphetamine and methamphetamine were used extensively by both the Allied and Axis forces for their stimulant and performance-enhancing effects. \n\nEventually, as the addictive properties of the drugs became known, governments began to place strict controls on the sale of the drugs. For example, in 1970 in the United States, the two drugs methamphetamine and amphetamine became schedule II controlled substances under the Controlled Substances Act.\n\nDespite strict government controls, both amphetamine and methamphetamine have still been used legally or illicitly by individuals from a variety of backgrounds for different purposes. Due to the large underground market for these drugs, they are frequently illegally synthesized by clandestine chemists, trafficked, and sold on the black market. Based upon drug and drug precursor seizures, illicit amphetamine production and trafficking is much less prevalent than that of methamphetamine.\n\nMethamphetamine hydrochloride is approved by the United States Food and Drug Administration (USFDA) under the trade name \"Desoxyn\". However, it is rarely prescribed due to its abuse potential, typically being reserved for cases of severe obesity or ADHD in which all other treatment options have been exhausted. \n\nChemistry\n\nMethamphetamine, or N-methylamphetamine, is a synthetic molecule of the amphetamine family.  Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. Amphetamines are alpha-methylated phenethylamines. Methamphetamine contains an additional methyl substitution at RN, a substitution which is shared with MDMA, methcathinone, and mephedrone. \n\nStereoisomers\n\nMethamphetamine exists as two enantiomers: dextrorotary and levorotary. Dextrorotatory or dextromethamphetamine (also known as d-methamphetamine) is a stronger central nervous system (CNS) stimulant than levomethamphetamine; however, both are considered to be dependence-forming and addictive when misused and capable of producing similar toxicity symptoms at heavy recreational doses.\n\nPharmacology\n\nMethamphetamine primarily affects the central nervous system (CNS) by acting as a releasing agent for neurotransmitters such as dopamine, norepinephrine, and serotonin.  It also acts as a reuptake inhibitor for some transporter neurons, thereby holding neurotransmitters like norepinephrine in the synapse. Meth also acts as reverse transporter for some transporter neurons, increasing levels of monoamines by forcing the neurotransmitters out of their storage vesicles and expelling them into the synaptic gap by making the dopamine transporters work in reverse.  Other mechanisms by which methamphetamine are known to increase monoamine levels are by:\n\n*Decreasing the expression of dopamine transporters at the cell surface, which has the same effect as listed above.\n*Increasing cytosolic levels of monoamines by inhibiting the activity of monoamine oxidase (MAO)\n*Increasing the activity and expression of the dopamine-synthesizing enzyme tyrosine hydroxylase (TH)\n\nIn addition to releasing potent amounts of monoamines, Methamphetamine has a high lipid solubility which leads to a relatively fast transfer of the drug across the blood-brain barrier and a quick onset in comparison to other stimulants. All of this results in feelings of reward, euphoria, and stimulation as well as an unpleasant offset.\n\nSubjective effects\n\nExperience reports\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Methamphetamine was found to be the fourth overall most dangerous drug.\n\nNeurotoxicity\n\nThere is evidence that methamphetamine causes brain damage from long-term use in humans; this damage includes adverse changes in brain structure and function, such as reductions in gray matter volume in several brain regions and adverse changes in markers of metabolic integrity.\n\nUnlike amphetamine, methamphetamine is directly neurotoxic to dopamine neurons. Moreover, methamphetamine abuse is associated with an increased risk of Parkinson's disease due to excessive pre-synaptic dopamine autoxidation, a mechanism of neurotoxicity. Similar to the neurotoxic effects on the dopamine system, methamphetamine can also result in neurotoxicity to serotonin neurons. It has been demonstrated that a high core temperature is correlated with an increase in the neurotoxic effects of methamphetamine. As a result of methamphetamine-induced neurotoxicity to dopamine neurons, chronic use may also lead to post acute withdrawals which persist beyond the withdrawal period for months, and even up to a year.\n\nDependence and abuse potential\n\nAs with other stimulants, the chronic use of methamphetamine can be considered extremely addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to the effects of methamphetamine rapidly develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Methamphetamine presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of methamphetamine all stimulants will have a reduced effect.\n\nThe evidence on effective treatments for amphetamine and methamphetamine dependence and abuse is limited. In light of this, fluoxetine and imipramine appear to have some limited benefits in treating abuse and addiction, \"no treatment has been demonstrated to be effective for the treatment of methamphetamine dependence and abuse\". \n\nIn highly dependent amphetamine and methamphetamine abusers, \"when chronic heavy users abruptly discontinue methamphetamine use, many report a time-limited withdrawal syndrome that occurs within 24 hours of their last dose\". Withdrawal symptoms in chronic, high-dose users are frequent, occurring in up to 87.6% of cases, and persist for three to four weeks with a marked \"crash\" phase occurring during the first week. Methamphetamine withdrawal symptoms can include anxiety, drug craving, dysphoric mood, fatigue, increased appetite, increased movement or decreased movement, lack of motivation, sleeplessness or sleepiness, and vivid or lucid dreams. Withdrawal symptoms are associated with the degree of dependence (i.e., the extent of abuse). The mental depression associated with methamphetamine withdrawal lasts longer and is more severe than that of cocaine withdrawal.\n\nAlthough it is clear that vaporised methamphetamine is more addictive than oral or insufflated amphetamine, there is debate as to whether the drug itself is inherently more addictive, and if so, how important the difference is. Besides the duration of action, the main difference between the two drugs is that methamphetamine is proportionally more centrally and less peripherally active. One reason is because the increased lipid solubility of the methyl group causes faster central absorption. Another cause is the fact that methamphetamine releases proportionally more dopamine at an equivalent dose. D-methamphetamine releases a dopamine:norepinephrine ratio of ~1:1.3 from synapses versus ~1:2 for d-amphetamine. Their effect on the norepinephrine (NET) and dopamine (DAT) transporters are more alike but there is a slight difference. D-methamphetamine favours NET by a factor of about 4 vs 5 for d-amphetamine. D-methamphetamine is also slightly more serotonergic. This may be a negligible difference, as the ratio of serotonin:norepinephrine release is only 1:60 for d-methamphetamine and 1:80 for d-amphetamine. Neither drug has any appreciable affinity for the serotonin transporter (SERT). \n\nThis increased central vs peripheral effect of methamphetamine agrees with the common subjective feeling among stimulant users that the methamphetamine high has less of an inherently 'jittery' quality to it. The downside is that this aversive effect may be helpful as it discourages harmful levels of use. It is unclear what real world impact this difference has. A double-blind but small study of 13 methamphetamine users revealed only a minor preference towards methamphetamine, and this may be explained by the users having a greater familiarity with the drug.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nPsychosis\n\nAbuse of methamphetamine can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use.\n\nOverdose\n\nA methamphetamine overdose may result in a wide range of symptoms and is potentially fatal at heavy dosages. A moderate overdose of methamphetamine may induce symptoms such as abnormal heart rhythm, confusion, dysuria, high or low blood pressure, hyperthermia, hyperreflexia, myalgia, severe agitation, tachypnea, tremor, urinary hesitancy, and urinary retention. An extremely large overdose may produce symptoms such as adrenergic storm, methamphetamine psychosis, anuria, cardiogenic shock, cerebral hemorrhage, circulatory collapse, hyperpyrexia, pulmonary hypertension, renal failure, rhabdomyolysis, serotonin syndrome, and a form of stereotypy (\"tweaking\"). A methamphetamine overdose will likely also result in mild brain damage due to dopaminergic and serotonergic neurotoxicity. Death from fatal methamphetamine poisoning is typically preceded by convulsions and coma.\n\nEmergency treatment\n\nAcute methamphetamine overdose is largely managed by treating the symptoms, and administration of benzodiazepines relieves symptoms such as agitation, hypertension, tachycardia, and seizure.\n\nHarm reduction\n\nStudies have shown that N-acetylcysteine (NAC) can block the harmful neurotoxic effects of methamphetamine while preventing neurotransmitter depletion in rats and clinical trials in humans to treat methamphetamine dependence are currently underway. NAC may be effective for reducing the cravings and psychological dependence as well. NAC has a short half life and a sustained release formulation may be preferred for harm reduction purposes. Selenium has also been shown to protect the brain against meth induced neurotoxicity. However, it is worth noting that this data is preliminary and may not be applicable to humans. \n\nDangerous interactions\n\nLegal status\n\nThe production, distribution, sale, and possession of methamphetamine is restricted or illegal in many jurisdictions. Methamphetamine has been placed in Schedule II of the United Nations Convention on Psychotropic Substances treaty.\n\n*Australia: Methamphetamine is placed under Schedule 8, meaning that it is available for medical use, but possession, production or supply of it is illegal without authority. Personal quantities under 1.5 grams are decriminalized in the Australian Capital Territory (ACT) as of 28 October 2023.\n*Austria: Methamphetamine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Brazil: Methamphetamine is a Class F2 prohibited psychoactive substance.\n*Canada: Methamphetamine is listed on the CDSA as a schedule I substance.\n*Czech Republic: Methamphetamine is a Schedule II controlled substance.\n*France: Methamphetamine is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*Germany: Methamphetamine was added to the Opiumgesetz (Opium Act) on July 1, 1941. It is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of March 1, 2008. Before that, it could be prescribed on a narcotic prescription form because it was in Anlage III (Schedule III). It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Japan: Methamphetamine is prohibited under the \"Amphetamines Control Law\" of 1954.\n*The Netherlands: Methamphetamine is a List I controlled substance.\n*New Zealand: Methamphetamine is a Class A controlled substance.\n*Poland: Methamphetamine is a Group II-P controlled substance.\n*South Korea: Methamphetamine is prohibited in South Korea in compliance with the United Nations Convention on Psychotropic Substances.\n*Sweden: Methamphetamine is classified as a drug by the United Nations and is included in list P II in the 1971 Psychotropic Convention, as well as in list II in Sweden.\n*Switzerland: Methamphetamine is a controlled substance specifically named under Verzeichnis A.\n*United Kingdom: Methamphetamine is a Class A drug as of 18 January 2007.\n*United States: Methamphetamine is a Schedule II controlled substance in the United States.\n\nSee also\n\n*Responsible use\n*Psychoactive substance index\n*Stimulant\n*Phenethylamine\n*Substituted amphetamine\n*Amphetamine\n\nExternal links\n\n*Methamphetamine (Wikipedia)\n*Methamphetamine (Erowid Vault)\n*Methamphetamine (Isomer Design)\n*Methamphetamine (DrugBank)\n*Methamphetamine (Drugs.com)\n*Methamphetamine (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Amphetamine",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Methamphetamine}}\n\n'''N-Methylamphetamine''' (also known as '''Methamphetamine''', '''Ma''', '''Meth''', '''Glass''', '''Ice''', '''Shard''', '''Crank''', '''Tina''', '''T''', '''Tweak''', '''Yaba''', '''Shabu''', and '''Crystal'''<ref name=\"erowid\">{{Citation | title=Erowid Methamphetamine (Speed, Crank) Vault | url=https://erowid.org/chemicals/meth/meth.shtml}}</ref>) is a classical [[psychoactive class::stimulant]] substance of the [[chemical class::amphetamine]] class. It is structurally related to [[amphetamine]], however it crosses the blood-brain barrier more rapidly, due to its relatively high lipid solubility.<ref name=\"Barr2006\">{{cite journal | vauthors=((Barr, A. M.)), ((Panenka, W. J.)), ((MacEwan, G. W.)), ((Thornton, A. E.)), ((Lang, D. J.)), ((Honer, W. G.)), ((Lecomte, T.)) | journal=Journal of Psychiatry and Neuroscience | title=The need for speed: an update on methamphetamine addiction | volume=31 | issue=5 | pages=301–313 | date= September 2006 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1557685/ | issn=1180-4882}}</ref> It produces its effects by increasing levels of the [[neurotransmitters]] [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain.\n\nMethamphetamine was first synthesized from [[ephedrine]] in 1893 by Japanese chemist Nagayoshi Nagai.<ref>Nagai N (1893) Studies on the components of Ephedraceaein herb medicine. Yakugaku Zasshi 139 :901-933</ref> Along with [[heroin]] and [[cocaine]], it has a notorious reputation as a dangerous and highly addictive \"street drug\".<ref>{{cite journal | vauthors=((Galbraith, N.)) | journal=BJPsych Bulletin | title=The methamphetamine problem | volume=39 | issue=5 | pages=218–220 | date= October 2015 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4706185/ | issn=2056-4694 | doi=10.1192/pb.bp.115.050930}}</ref>\n\n[[Subjective effects]] include [[motivation enhancement]], [[stamina enhancement]], [[appetite suppression]], [[increased libido]], and [[euphoria]]. Chronic high-dose use can induce states of [[anxiety]] & [[paranoia]], [[delusions]], [[thought disorganization]], [[psychosis]], and violent behavior. It is associated with [[compulsive redosing]], especially when it is [[vaporized]] (\"smoked\") or [[injected]], due to the overwhelming [[euphoric]] rush it produces in the user upon initial administration.  \n\nMethamphetamine has been shown to have extremely high abuse and addiction potential; it is widely considered to be one of the most addictive substances due to the intense euphoria it produces.{{citation needed}} Additionally, unlike [[amphetamine]] at therapeutic doses, methamphetamine at moderate to heavy [[recreational drug use|recreational doses]] is considered to be directly [[Neurotoxicity|neurotoxic]] to humans, damaging both [[dopamine]] and [[serotonin]] [[neurons]] within the central nervous system. In nonhuman mammals, degeneration of monaminergic terminals and neuronal apoptosis (cell death) has been known to occur.<ref>{{cite journal | vauthors=((Jayanthi, S.)), ((Daiwile, A. P.)), ((Cadet, J. L.)) | journal=Experimental Neurology | title=Neurotoxicity of methamphetamine: Main effects and mechanisms | volume=344 | pages=113795 | date= October 2021 | url=https://linkinghub.elsevier.com/retrieve/pii/S001448862100203X | issn=00144886 | doi=10.1016/j.expneurol.2021.113795}}</ref> In humans the effects are also [[Neurotoxicity|neurotoxic]].<ref>{{cite journal | vauthors=((Khoshsirat, S.)), ((Khoramgah, M. S.)), ((Mahmoudiasl, G.-R.)), ((Rezaei-Tavirani, M.)), ((Abdollahifar, M.-A.)), ((Tahmasebinia, F.)), ((Darabi, S.)), ((Niknazar, S.)), ((Abbaszadeh, H. A.)) | journal=Journal of Chemical Neuroanatomy | title=LC3 and ATG5 overexpression and neuronal cell death in the prefrontal cortex of postmortem chronic methamphetamine users | volume=107 | pages=101802 | date= September 2020 | url=https://linkinghub.elsevier.com/retrieve/pii/S0891061820300715 | issn=08910618 | doi=10.1016/j.jchemneu.2020.101802}}</ref> It also displays cardiotoxicity, including [[increased blood pressure]] and elevated risk of stroke and heart attack. \n\nIt is highly advised to use [[responsible drug use|harm reduction practices]] if using this substance.\n\n[[File:Crystal Meth.jpg|250px|thumbnail|right|Pure \"shards\" of Methamphetamine Hydrochloride, commonly known as \"crystal meth\".]]\n\n==History and culture==\nAmphetamine was first synthesized in 1887 in Germany by Romanian chemist Lazăr Edeleanu who named it phenylisopropylamine.<ref>{{cite journal | vauthors=((Edeleano, L.)) | journal=Berichte der deutschen chemischen Gesellschaft | title=Ueber einige Derivate der Phenylmethacrylsäure und der Phenylisobuttersäure | volume=20 | issue=1 | pages=616–622 | date= January 1887 | url=https://onlinelibrary.wiley.com/doi/10.1002/cber.188702001142 | issn=0365-9496 | doi=10.1002/cber.188702001142}}</ref> Shortly after, methamphetamine was synthesized from ephedrine in 1893 by Japanese chemist Nagai Nagayoshi.<ref>{{cite journal | vauthors=((Grobler, S. R.)), ((Chikte, U.)), ((Westraat, J.)) | journal=ISRN Dentistry | title=The pH Levels of Different Methamphetamine Drug Samples on the Street Market in Cape Town | volume=2011 | pages=1–4 | date=26 June 2011 | url=https://www.hindawi.com/journals/isrn/2011/974768/ | issn=2090-4371 | doi=10.5402/2011/974768}}</ref> Neither drug had a pharmacological use until 1934, when Smith, Kline, and French began selling amphetamine as an inhaler under the trade name Benzedrine as a decongestant.<ref>{{cite journal | vauthors=((Rasmussen, N.)) | journal=Journal of the History of Medicine and Allied Sciences | title=Making the First Anti-Depressant: Amphetamine in American Medicine, 1929-1950 | volume=61 | issue=3 | pages=288–323 | date=21 February 2006 | url=https://academic.oup.com/jhmas/article-lookup/doi/10.1093/jhmas/jrj039 | issn=0022-5045 | doi=10.1093/jhmas/jrj039}}</ref> During World War II, amphetamine and methamphetamine were used extensively by both the Allied and Axis forces for their stimulant and performance-enhancing effects.<ref name=\":0\">{{cite journal | vauthors=((Rasmussen, N.)) | journal=The Journal of Interdisciplinary History | title=Medical Science and the Military: The Allies’ Use of Amphetamine during World War II | volume=42 | issue=2 | pages=205–233 | date= September 2011 | url=https://direct.mit.edu/jinh/article/42/2/205-233/50354 | issn=0022-1953 | doi=10.1162/JINH_a_00212}}</ref><ref>{{cite journal | vauthors=((Defalque, R. J.)), ((Wright, A. J.)) | journal=Bulletin of Anesthesia History | title=Methamphetamine for Hitler’s Germany: 1937 to 1945 | volume=29 | issue=2 | pages=21–32 | date= April 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S1522864911500162 | issn=15228649 | doi=10.1016/S1522-8649(11)50016-2}}</ref> \n\nEventually, as the addictive properties of the drugs became known, governments began to place strict controls on the sale of the drugs.<ref>\"Historical overview of methamphetamine\". Vermont Department of Health. Government of Vermont. Retrieved 29 January 2012.</ref> For example, in 1970 in the United States, the two drugs methamphetamine and amphetamine became schedule II controlled substances under the Controlled Substances Act.<ref>\"Controlled Substances Act\". United States Food and Drug Administration. 11 June 2009. Retrieved 4 November 2013.</ref>\n\nDespite strict government controls, both amphetamine and methamphetamine have still been used legally or illicitly by individuals from a variety of backgrounds for different purposes.<ref>Gyenis A. \"Forty Years of On the Road 1957–1997\". wordsareimportant.com. DHARMA beat. Archived from the original on 14 February 2008. Retrieved 18 March 2008.</ref><ref>{{Citation | vauthors=((Wilson, A.)) | year=2009 | title=Mixing the Medicine: The Unintended Consequence of Amphetamine Control on the Northern Soul Scene | publisher=Social Science Research Network | url=https://papers.ssrn.com/abstract=1339332}}</ref><ref>{{Citation | vauthors=((Hill, J.)) | year=2004 | title=Paul Erdős – Mathematical Genius, Human (In That Order) | access-date=2 November 2013}}</ref><ref>{{cite journal | vauthors=((Liddle, D. G.)), ((Connor, D. J.)) | journal=Primary Care: Clinics in Office Practice | title=Nutritional Supplements and Ergogenic Aids | volume=40 | issue=2 | pages=487–505 | date= June 2013 | url=https://linkinghub.elsevier.com/retrieve/pii/S0095454313000249 | issn=00954543 | doi=10.1016/j.pop.2013.02.009}}</ref> Due to the large underground market for these drugs, they are frequently illegally synthesized by clandestine chemists, trafficked, and sold on the black market.<ref>Chawla S, Le Pichon T (2006). \"World Drug Report 2006\" (PDF). United Nations Office on Drugs and Crime. pp. 128–135. Retrieved 2 November 2013.</ref> Based upon drug and drug precursor seizures, illicit amphetamine production and trafficking is much less prevalent than that of methamphetamine.{{citation needed}}\n\nMethamphetamine hydrochloride is approved by the United States Food and Drug Administration (USFDA) under the trade name \"Desoxyn\".<ref>Desoxyn Label (FDA) | http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/005378s028lbl.pdf</ref> However, it is rarely prescribed due to its abuse potential, typically being reserved for cases of severe obesity or ADHD in which all other treatment options have been exhausted. \n\n==Chemistry==\nMethamphetamine, or N-methylamphetamine, is a synthetic molecule of the [[amphetamine]] family.  Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. Amphetamines are alpha-methylated phenethylamines. Methamphetamine contains an additional methyl substitution at R<sub>N</sub>, a substitution which is shared with [[MDMA]], [[methcathinone]], and [[mephedrone]]. \n\n===Stereoisomers===\nMethamphetamine exists as two [[enantiomers]]: dextrorotary and levorotary. Dextrorotatory or dextromethamphetamine (also known as d-methamphetamine) is a stronger central nervous system (CNS) stimulant than levomethamphetamine; however, both are considered to be dependence-forming and addictive when misused and capable of producing similar toxicity symptoms at heavy recreational doses.{{citation needed}}\n\n==Pharmacology==\nMethamphetamine primarily affects the central nervous system (CNS) by acting as a [[releasing agent]] for [[neurotransmitters]] such as [[dopamine]], [[norepinephrine]], and [[serotonin]].<ref>{{cite journal | vauthors=((Kish, S. J.)) | journal=CMAJ : Canadian Medical Association Journal | title=Pharmacologic mechanisms of crystal meth | volume=178 | issue=13 | pages=1679–1682 | date=17 June 2008 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2413312/ | issn=0820-3946 | doi=10.1503/cmaj.071675}}</ref>  It also acts as a [[reuptake inhibitor]] for some transporter neurons, thereby holding neurotransmitters like norepinephrine in the synapse.<ref>{{cite journal | vauthors=((Haughey, H. M.)), ((Brown, J. M.)), ((Wilkins, D. G.)), ((Hanson, G. R.)), ((Fleckenstein, A. E.)) | journal=Brain Research | title=Differential effects of methamphetamine on Na(+)/Cl(-)-dependent transporters | volume=863 | issue=1–2 | pages=59–65 | date=28 April 2000 | issn=0006-8993 | doi=10.1016/s0006-8993(00)02094-1}}</ref> Meth also acts as reverse transporter for some transporter neurons, increasing levels of monoamines by forcing the neurotransmitters out of their storage vesicles and expelling them into the synaptic gap by making the dopamine transporters work in reverse.<ref>{{cite journal | vauthors=((Lin, M.)), ((Sambo, D.)), ((Khoshbouei, H.)) | journal=The Journal of Neuroscience: The Official Journal of the Society for Neuroscience | title=Methamphetamine Regulation of Firing Activity of Dopamine Neurons | volume=36 | issue=40 | pages=10376–10391 | date=5 October 2016 | issn=1529-2401 | doi=10.1523/JNEUROSCI.1392-16.2016}}</ref><ref>{{Citation | title=How Drugs Affect Neurotransmitters | publisher=Canadian Institutes of Health Research | url=https://thebrain.mcgill.ca/flash/i/i_03/i_03_m/i_03_m_par/i_03_m_par_cocaine.html | access-date= January 1, 2007}}</ref>  Other mechanisms by which methamphetamine are known to increase monoamine levels are by:\n\n*Decreasing the expression of dopamine transporters at the cell surface, which has the same effect as listed above.\n*Increasing cytosolic levels of monoamines by inhibiting the activity of [[MAOI|monoamine oxidase]] (MAO)\n*Increasing the activity and expression of the [[dopamine]]-synthesizing enzyme tyrosine hydroxylase (TH)\n\nIn addition to releasing potent amounts of monoamines, Methamphetamine has a high lipid solubility which leads to a relatively fast transfer of the drug across the blood-brain barrier and a quick onset in comparison to other [[stimulant]]s.<ref name=\"Barr2006\" /> All of this results in feelings of reward, euphoria, and stimulation as well as an unpleasant offset.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, methamphetamine is usually considered to be extremely energetic and stimulating in a fashion that is identical to that of [[amphetamine]], but stronger than that of [[modafinil]], [[caffeine]], and [[MDMA]]. It is similar yet distinct from the stimulation experienced on [[MDMA]], encouraging physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which methamphetamine presents can be described as forced. This means that at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control. \n**'''[[Effect::Physical euphoria]]''' - As a potent stimulant, [[methamphetamine]] is capable producing states of intense physical euphoria, especially when it is [[vaporized]] or [[injected]]. However, the initial rush of euphoria can wear off well before the substance has run its course which can promote compulsive redosing, which can have extremely damaging cumulative effects.\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Body odor alteration]]''' - Methamphetamine can potentially leave a very distinct odor within one's urine, sweat and general bodily secretions. Most people would consider it as unpleasant, but few people do enjoy it and find it a very pleasant odor.\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Neurotoxicity]]''' -- from long-term use.\n*'''[[Effect::Stamina enhancement]]''' - This effect is more prominent than with any other commonly used [[stimulant]]. \n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Tactile hallucination]]''' - High doses and/or prolonged usage of certain stimulants like methamphetamine and [[cocaine]] can lead to hallucinatory sensations of bugs crawling on the surface of or underneath one’s skin. This is typically referred to as ''delusional parasitosis'' or more informally as “meth mites”. \n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Vibrating vision]]''' - At high doses or certain routes of administration, a person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing the vision to become blurry and temporarily out of focus. This is a condition known as [http://en.wikipedia.org/wiki/Nystagmus nystagmus].\n*'''[[Effect::Seizure]]''' - This is an uncommon effect but can happen in those predisposed to them, especially while in physically taxing conditions such as being dehydrated, fatigued or undernourished, or if miusing the substance for extended periods of time.\n\n}}\n{{effects/visual|\n\nThe visual effects of methamphetamine are usually less consistent and are only mildly noticeable at higher dosages. They are somewhat comparable to the visuals produced by [[deliriants]] and are more frequent in darker areas. Scenarios consisting of severe sleep deprivation caused by [[wakefulness]] can lead to more intense visual effects and even [[External hallucinations|hallucinations]]. \n\n====Suppressions====\n*'''[[Effect::Double vision]]'''\n\n====Distortions====\n*'''[[Effect::Visual drifting]]''' - This effect is usually subtle or barely noticeable and only occurs at higher dosages or when combined with [[cannabis]]. It is most prominent when smoked or taken intravenously and is usually [[Deliriants|delirious]] in nature. Commonly this, high dosages or prolonged use can cause level 1-2 visual drifting.\n*'''[[Effect::Brightness alteration]]'''\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]''' - This effect occurs very rarely, and typically only when the user has taken high doses, is coming down, or has been awake for unusually long periods. They are usually very mild when they do happen to occur.\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of methamphetamine can be broken down into several components which progressively intensify proportional to dosage. The general head space of methamphetamine is described by many as one of extreme mental [[stimulation]], [[Focus enhancement|increased focus]], [[ego inflation]] and powerful euphoria. It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate dosages, they become increasingly likely to manifest themselves with higher amounts or widespread usage. This particularly holds true during the offset of the experience. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This effect is often very intense when compared to other dopaminergic stimulants such as [[Amphetamine]] or even [[Cocaine]]\n*'''[[Effect::Empathy, affection and sociability enhancement]]''' - This effect is mild to moderate and usually disappears within the first few uses or after any form of tolerance has developed.\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Time distortion|Time compression]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Sleep paralysis]]''' - Some users note sleep paralysis after consuming methamphetamine.\n*'''[[Effect::Suicidal ideation]]''' \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Psychosis]]''' \n*'''[[Effect::Wakefulness]]''' - This particular after effect is more pronounced than it is with any other commonly used [[stimulant]].\n\n}}\n}}\n===Experience reports===\n{{Experience reports|Methamphetamine|https://www.erowid.org/experiences/subs/exp_Methamphetamine.shtml}}\n\n==Toxicity and harm potential==\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 ISCD study ranking various drugs (legal and illegal) based on statements by drug-harm experts. Methamphetamine was found to be the fourth overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n\n===Neurotoxicity===\nThere is evidence that methamphetamine causes brain damage from long-term use in humans; this damage includes adverse changes in brain structure and function, such as reductions in gray matter volume in several brain regions and adverse changes in markers of metabolic integrity.<ref>{{cite journal | vauthors=((Nie, L.)), ((Zhao, Z.)), ((Wen, X.)), ((Luo, W.)), ((Ju, T.)), ((Ren, A.)), ((Wu, B.)), ((Li, J.)) | journal=BMC psychiatry | title=Gray-matter structure in long-term abstinent methamphetamine users | volume=20 | issue=1 | pages=158 | date=10 April 2020 | issn=1471-244X | doi=10.1186/s12888-020-02567-3}}</ref>\n\nUnlike [[amphetamine]], methamphetamine is directly neurotoxic to [[dopamine]] neurons.<ref name=\"Nestler2009\">{{cite book | vauthors=((Nestler, E. J.)), ((Hyman, S. E.)), ((Malenka, R. C.)) | date= 2009 | title=Molecular neuropharmacology: a foundation for clinical neuroscience | publisher=McGraw-Hill Medical | edition=2nd ed | isbn=9780071481274}}</ref> Moreover, methamphetamine abuse is associated with an increased risk of Parkinson's disease due to excessive pre-synaptic dopamine autoxidation, a mechanism of neurotoxicity.<ref name=\"Cruickshank2009\">{{cite journal | vauthors=((Cruickshank, C. C.)), ((Dyer, K. R.)) | journal=Addiction (Abingdon, England) | title=A review of the clinical pharmacology of methamphetamine | volume=104 | issue=7 | pages=1085–1099 | date= July 2009 | issn=1360-0443 | doi=10.1111/j.1360-0443.2009.02564.x}}</ref><ref>{{cite journal | vauthors=((Thrash, B.)), ((Thiruchelvan, K.)), ((Ahuja, M.)), ((Suppiramaniam, V.)), ((Dhanasekaran, M.)) | journal=Pharmacological Reports | title=Methamphetamine-induced neurotoxicity: the road to Parkinson’s disease | volume=61 | issue=6 | pages=966–977 | date= November 2009 | url=https://linkinghub.elsevier.com/retrieve/pii/S1734114009701586 | issn=17341140 | doi=10.1016/S1734-1140(09)70158-6}}</ref><ref>{{cite journal | vauthors=((Sulzer, D.)), ((Zecca, L.)) | journal=Neurotoxicity Research | title=Intraneuronal dopamine-quinone synthesis: a review | volume=1 | issue=3 | pages=181–195 | date= February 2000 | issn=1029-8428 | doi=10.1007/BF03033289}}</ref><ref>{{cite journal | vauthors=((Miyazaki, I.)), ((Asanuma, M.)) | journal=Acta Medica Okayama | title=Dopaminergic neuron-specific oxidative stress caused by dopamine itself | volume=62 | issue=3 | pages=141–150 | date= June 2008 | issn=0386-300X | doi=10.18926/AMO/30942}}</ref> Similar to the neurotoxic effects on the dopamine system, methamphetamine can also result in neurotoxicity to [[serotonin]] [[neurons]].<ref name=\"Krasnova2009\">{{cite journal | vauthors=((Krasnova, I. N.)), ((Cadet, J. L.)) | journal=Brain Research Reviews | title=Methamphetamine toxicity and messengers of death | volume=60 | issue=2 | pages=379–407 | date= May 2009 | issn=0165-0173 | doi=10.1016/j.brainresrev.2009.03.002}}</ref> It has been demonstrated that a high core temperature is correlated with an increase in the neurotoxic effects of methamphetamine.<ref>{{cite journal | vauthors=((Yuan, J.)), ((Hatzidimitriou, G.)), ((Suthar, P.)), ((Mueller, M.)), ((McCann, U.)), ((Ricaurte, G.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Relationship between temperature, dopaminergic neurotoxicity, and plasma drug concentrations in methamphetamine-treated squirrel monkeys | volume=316 | issue=3 | pages=1210–1218 | date= March 2006 | issn=0022-3565 | doi=10.1124/jpet.105.096503}}</ref> As a result of methamphetamine-induced neurotoxicity to dopamine neurons, chronic use may also lead to post acute withdrawals which persist beyond the withdrawal period for months, and even up to a year.<ref name=\"Cruickshank2009\" />\n\n===Dependence and abuse potential===\n\nAs with other [[stimulant]]s, the chronic use of methamphetamine can be considered [[Addiction potential::extremely addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to the effects of methamphetamine [[Time to full tolerance::rapidly develops with prolonged and repeated use]].<ref>{{cite journal | vauthors=((Pérez-Mañá, C.)), ((Castells, X.)), ((Torrens, M.)), ((Capellà, D.)), ((Farre, M.)) | journal=The Cochrane Database of Systematic Reviews | title=Efficacy of psychostimulant drugs for amphetamine abuse or dependence | issue=9 | pages=CD009695 | date=2 September 2013 | issn=1469-493X | doi=10.1002/14651858.CD009695.pub2}}</ref><ref>http://www.merckmanuals.com/home/special_subjects/drug_use_and_abuse/amphetamines.html</ref> This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Methamphetamine presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulants]]]], meaning that after the consumption of methamphetamine all [[stimulants]] will have a reduced effect.\n\nThe evidence on effective treatments for [[amphetamine]] and methamphetamine dependence and abuse is limited.<ref>{{cite journal | vauthors=((Srisurapanont, M.)), ((Jarusuraisin, N.)), ((Kittirattanapaiboon, P.)) | journal=The Cochrane Database of Systematic Reviews | title=Treatment for amphetamine dependence and abuse | issue=4 | pages=CD003022 | date= 2001 | issn=1469-493X | doi=10.1002/14651858.CD003022}}</ref> In light of this, [[fluoxetine]] and [[imipramine]] appear to have some limited benefits in treating abuse and addiction, \"no treatment has been demonstrated to be effective for the treatment of methamphetamine dependence and abuse\". \n\nIn highly dependent [[amphetamine]] and methamphetamine abusers, \"when chronic heavy users abruptly discontinue methamphetamine use, many report a time-limited withdrawal syndrome that occurs within 24 hours of their last dose\".<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Heinzerling, K.)), ((Ling, W.)) | journal=The Cochrane Database of Systematic Reviews | title=Treatment for amphetamine withdrawal | issue=2 | pages=CD003021 | date=15 April 2009 | issn=1469-493X | doi=10.1002/14651858.CD003021.pub2}}</ref> Withdrawal symptoms in chronic, high-dose users are frequent, occurring in up to 87.6% of cases, and persist for three to four weeks with a marked \"crash\" phase occurring during the first week.<ref name=\"Shoptaw2009\" /> Methamphetamine withdrawal symptoms can include anxiety, drug craving, dysphoric mood, fatigue, increased appetite, increased movement or decreased movement, lack of motivation, sleeplessness or sleepiness, and vivid or lucid dreams.<ref name=\"Shoptaw2009\" /> Withdrawal symptoms are associated with the degree of dependence (i.e., the extent of abuse).<ref name=\"Shoptaw2009\" /> The mental depression associated with methamphetamine withdrawal lasts longer and is more severe than that of [[cocaine]] withdrawal.<ref>{{cite journal | vauthors=((Winslow, B. T.)), ((Voorhees, K. I.)), ((Pehl, K. A.)) | journal=American Family Physician | title=Methamphetamine abuse | volume=76 | issue=8 | pages=1169–1174 | date=15 October 2007 | issn=0002-838X}}</ref>\n\nAlthough it is clear that vaporised methamphetamine is more addictive than oral or insufflated amphetamine, there is debate as to whether the drug itself is inherently more addictive, and if so, how important the difference is. Besides the duration of action, the main difference between the two drugs is that methamphetamine is proportionally more centrally and less peripherally active. One reason is because the increased lipid solubility of the methyl group causes faster central absorption. Another cause is the fact that methamphetamine releases proportionally more dopamine at an equivalent dose. D-methamphetamine releases a dopamine:norepinephrine ratio of ~1:1.3 from synapses versus ~1:2 for d-amphetamine.<ref>https://en.wikipedia.org/wiki/Monoamine_releasing_agent#Activity_profiles</ref> Their effect on the norepinephrine (NET) and dopamine (DAT) transporters are more alike but there is a slight difference. D-methamphetamine favours NET by a factor of about 4 vs 5 for d-amphetamine. D-methamphetamine is also slightly more serotonergic. This may be a negligible difference, as the ratio of serotonin:norepinephrine release is only 1:60 for d-methamphetamine and 1:80 for d-amphetamine. Neither drug has any appreciable affinity for the serotonin transporter (SERT). \n\nThis increased central vs peripheral effect of methamphetamine agrees with the common subjective feeling among stimulant users that the methamphetamine high has less of an inherently 'jittery' quality to it. The downside is that this aversive effect may be helpful as it discourages harmful levels of use. It is unclear what real world impact this difference has. A double-blind but small study of 13 methamphetamine users revealed only a minor preference towards methamphetamine, and this may be explained by the users having a greater familiarity with the drug.<ref>{{cite journal | vauthors=((Kirkpatrick, M. G.)), ((Gunderson, E. W.)), ((Johanson, C.-E.)), ((Levin, F. R.)), ((Foltin, R. W.)), ((Hart, C. L.)) | journal=Addiction (Abingdon, England) | title=Comparison of intranasal methamphetamine and d-amphetamine self-administration by humans | volume=107 | issue=4 | pages=783–791 | date= April 2012 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3475187/ | issn=0965-2140 | doi=10.1111/j.1360-0443.2011.03706.x}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of methamphetamine can result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], [[delusions]]).<ref name=\"Shoptaw2009\" /> A review on treatment for [[amphetamine]], [[dextroamphetamine]], and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\" /> Psychosis very rarely arises from therapeutic use.<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf</ref>\n\n===Overdose===\nA methamphetamine overdose may result in a wide range of symptoms and is potentially fatal at heavy dosages.<ref>\"Desoxyn Prescribing Information\" | http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/005378s028lbl.pdf</ref> A moderate overdose of methamphetamine may induce symptoms such as abnormal heart rhythm, confusion, dysuria, high or low blood pressure, hyperthermia, hyperreflexia, myalgia, severe agitation, tachypnea, tremor, urinary hesitancy, and urinary retention.<ref>{{cite book | veditors=((Goodman, L. S.)), ((Brunton, L. L.)), ((Chabner, B.)), ((Knollmann, B. C.)) | date= 2011 | title=Goodman & Gilman’s pharmacological basis of therapeutics | publisher=McGraw-Hill | edition=12th ed | isbn=9780071624428}}</ref> An extremely large overdose may produce symptoms such as adrenergic storm, methamphetamine psychosis, anuria, cardiogenic shock, cerebral hemorrhage, circulatory collapse, hyperpyrexia, pulmonary hypertension, renal failure, rhabdomyolysis, [[serotonin syndrome]], and a form of stereotypy (\"tweaking\"). A methamphetamine overdose will likely also result in mild brain damage due to dopaminergic and serotonergic neurotoxicity.<ref name=\"Nestler2009\" /><ref name=\"Krasnova2009\" /> Death from fatal methamphetamine poisoning is typically preceded by convulsions and coma.<ref>\"Desoxyn Prescribing Information\" | http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/005378s028lbl.pdf</ref>\n\n====Emergency treatment====\nAcute methamphetamine overdose is largely managed by treating the symptoms, and administration of [[benzodiazepine]]s relieves symptoms such as agitation, hypertension, tachycardia, and seizure.<ref>{{cite journal|journal=Clinical Toxicology|title=The clinical toxicology of metamfetamine|vauthors=((Robin, S.)), ((Michael, B.))|url=https://www.tandfonline.com/doi/full/10.3109/15563650.2010.516752|doi=10.3109/15563650.2010.516752|volume=48|year=2010|issue=7|page=676}}</ref>\n\n===Harm reduction===\nStudies have shown that [[N-acetylcysteine]] (NAC) can block the harmful neurotoxic effects of methamphetamine while preventing neurotransmitter depletion in rats<ref>{{cite journal | vauthors=((Fukami, G.)), ((Hashimoto, K.)), ((Koike, K.)), ((Okamura, N.)), ((Shimizu, E.)), ((Iyo, M.)) | journal=Brain Research | title=Effect of antioxidant N-acetyl-l-cysteine on behavioral changes and neurotoxicity in rats after administration of methamphetamine | volume=1016 | issue=1 | pages=90–95 | date= July 2004 | url=https://linkinghub.elsevier.com/retrieve/pii/S0006899304007164 | issn=00068993 | doi=10.1016/j.brainres.2004.04.072}}</ref> and clinical trials in humans to treat methamphetamine dependence are currently underway. NAC may be effective for reducing the cravings and psychological dependence as well.<ref>{{cite journal | vauthors=((Mousavi, S. G.)), ((Sharbafchi, M. R.)), ((Salehi, M.)), ((Peykanpour, M.)), ((Karimian Sichani, N.)), ((Maracy, M.)) | journal=Archives of Iranian Medicine | title=The efficacy of N-acetylcysteine in the treatment of methamphetamine dependence: a double-blind controlled, crossover study | volume=18 | issue=1 | pages=28–33 | date= January 2015 | issn=1735-3947 | doi=10.1016/j.brainres.2004.04.072}}</ref> NAC has a short half life and a sustained release formulation may be preferred for harm reduction purposes. Selenium has also been shown to protect the brain against meth induced neurotoxicity.<ref>{{cite journal | vauthors=((Imam, S. Z.)), ((Newport, G. D.)), ((Islam, F.)), ((Slikker, W.)), ((Ali, S. F.)) | journal=Brain Research | title=Selenium, an antioxidant, protects against methamphetamine-induced dopaminergic neurotoxicity | volume=818 | issue=2 | pages=575–578 | date=13 February 1999 | url=https://www.sciencedirect.com/science/article/pii/S0006899398013110 | issn=0006-8993 | doi=10.1016/S0006-8993(98)01311-0}}</ref> However, it is worth noting that this data is preliminary and may not be applicable to humans. \n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\nThe production, distribution, sale, and possession of methamphetamine is restricted or illegal in many jurisdictions.<ref>http://www.unodc.org/pdf/youthnet/ATS.pdf</ref><ref>http://web.archive.org/web/20051205125434/http://www.incb.org/pdf/e/list/green.pdf</ref> Methamphetamine has been placed in Schedule II of the United Nations Convention on Psychotropic Substances treaty.<ref>http://web.archive.org/web/20051205125434/http://www.incb.org/pdf/e/list/green.pdf</ref>\n\n*'''Australia''': Methamphetamine is placed under Schedule 8, meaning that it is available for medical use, but possession, production or supply of it is illegal without authority.<ref>{{Citation | vauthors=Health | title=Poisons Standard February 2019 | url=https://www.legislation.gov.au/Details/F2019L00032/Html/Text#_Toc532805057}}</ref> Personal quantities under 1.5 grams are decriminalized in the Australian Capital Territory (ACT) as of 28 October 2023.<ref>https://www.health.act.gov.au/about-our-health-system/population-health/drug-law-reform</ref>\n*'''Austria''': Methamphetamine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).<ref>{{cite web|url=https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053|title=Suchtgiftverordnung|publisher=Government of Austria|access-date= February 18, 2022}}</ref>\n*'''Brazil''': Methamphetamine is a Class F2 prohibited psychoactive substance.<ref>https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-804-de-24-de-julho-de-2023-498447451</ref>\n*'''Canada''': Methamphetamine is listed on the CDSA as a schedule I substance.<ref>{{cite web|url=https://www.laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html#docCont|title=Controlled Drugs and Substances Act - SCHEDULE I|publisher=Government of Canada|access-date=December 19, 2019}}</ref>\n*'''Czech Republic''': Methamphetamine is a Schedule II controlled substance.<ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n*'''France''': Methamphetamine is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': Methamphetamine was added to the Opiumgesetz (''Opium Act'') on July 1, 1941.<ref>{{cite web|url=https://www.spiegel.de/international/the-nazi-death-machine-hitler-s-drugged-soldiers-a-354606.html|title=The Nazi Death Machine: Hitler's Drugged Soldiers|publisher=Spiegel Online|date=May 6, 2005|access-date=December 23, 2019}}</ref> It is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref> as of March 1, 2008. Before that, it could be prescribed on a narcotic prescription form because it was in Anlage III (''Schedule III'').<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=//*%5B@attr_id=%27bgbl108s0246.pdf%27%5D|title=Einundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 23, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref>\n*'''Japan''': Methamphetamine is prohibited under the \"Amphetamines Control Law\" of 1954.<ref>{{Citation | title=UNODC - Bulletin on Narcotics - 1957 Issue 3 - 002 | url=//www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1957-01-01_3_page003.html}}</ref>\n*'''The Netherlands''': Methamphetamine is a List I controlled substance.<ref>{{cite web|url=https://wetten.overheid.nl/BWBR0001941/2009-07-01|title=Opiumwet|publisher=Ministerie van Binnenlandse Zaken en Koninkrijksrelaties|access-date=December 19, 2019|language=nl}}</ref>\n*'''New Zealand''': Methamphetamine is a Class A controlled substance.<ref>{{cite web|url=https://www.legislation.govt.nz/act/public/1975/0116/latest/DLM436576.html|title=Schedule 1 - Class A controlled drugs|publisher=Parliamentary Counsel Office}}</ref>\n*'''Poland''': Methamphetamine is a Group II-P controlled substance.<ref>{{Citation | title=Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw (Dz.U. z 2015 r. poz. 875).\n  | url=https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000875}}</ref>\n*'''South Korea''': Methamphetamine is prohibited in South Korea in compliance with the United Nations Convention on Psychotropic Substances.<ref>https://web.archive.org/web/20160331074842/https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=VI-16&chapter=6&lang=en</ref>\n*'''Sweden''': Methamphetamine is classified as a drug by the United Nations and is included in list P II in the 1971 Psychotropic Convention, as well as in list II in Sweden.<ref>https://www.lakemedelsverket.se/sv/lagar-och-regler/foreskrifter/2011-10-konsoliderad</ref>\n*'''Switzerland''': Methamphetamine is a controlled substance specifically named under Verzeichnis A.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Methamphetamine is a Class A drug as of 18 January 2007.<ref>{{cite web|url=https://www.gov.uk/government/publications/controlled-drugs|title=Corporate report - Controlled Drugs|publisher=Government Digital Service|access-date=December 19, 2019}}</ref>\n*'''United States''': Methamphetamine is a Schedule II controlled substance in the United States.<ref>Controlled Drugs and Substances Act | http://www.fda.gov/regulatoryinformation/legislation/ucm148726.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Psychoactive substance index]]\n*[[Stimulant]]\n*[[Phenethylamine]]\n*[[Substituted amphetamine]]\n*[[Amphetamine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Methamphetamine Methamphetamine (Wikipedia)]\n*[http://www.erowid.org/chemicals/meth/meth.shtml Methamphetamine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2002 Methamphetamine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01577 Methamphetamine (DrugBank)]\n*[https://www.drugs.com/methamphetamine.html Methamphetamine (Drugs.com)]\n*[https://drugs-forum.com/wiki/Methamphetamine Methamphetamine (Drugs-Forum)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Amphetamine]]\n\n{{#set:Featured=true}}"
+}

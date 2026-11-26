@@ -1,0 +1,450 @@
+{
+ "id": "psychonautwiki:10438",
+ "type": "substance",
+ "title": "Bromantane",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Bromantane",
+  "pageid": 10438,
+  "last_edited": "2025-03-21T18:55:35Z"
+ },
+ "categories": [
+  "Actoprotector",
+  "Adamantane",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Russian-language sources (ru)",
+  "Cycloalkylamine",
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Bromantane",
+ "substance_box": {
+  "names": {
+   "common": "Bromantane, Bromantan, Ladasten",
+   "substitutive": "Bromantane",
+   "systematic": "N-(4-Bromophenyl)adamantan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Nootropic",
+   "chemical": "Adamantane"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "NOTE: Bromantane is absorbed more quickly in females than in males. Thus, females will experience a shorter duration of effects. Bearing this in mind, always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity.",
+    "collapsed": "false",
+    "bioavailability": "42%",
+    "threshold": "< 10 mg",
+    "light": "10 - 50 mg",
+    "common": "50 - 100 mg",
+    "strong": "100 - 200 mg",
+    "heavy": "200 mg +",
+    "duration": "6 - 10 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 7 hours",
+    "onset": "15 - 45 minutes",
+    "peak": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Bromantane",
+    "Bromantan",
+    "Ladasten"
+   ],
+   "Psychoactive class": [
+    "Stimulant",
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Adamantane"
+   ],
+   "Oral min bioavailability": [
+    ""
+   ],
+   "Oral max bioavailability": [
+    "42"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "50"
+   ],
+   "Oral min common dose": [
+    "50"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "200"
+   ],
+   "Oral heavy dose": [
+    "200"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "10"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "20"
+   ],
+   "Insufflated max common dose": [
+    "40"
+   ],
+   "Insufflated min strong dose": [
+    "40"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "7"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "15"
+   ],
+   "Insufflated max onset time": [
+    "45"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Bromantane",
+   "clean": "Molecular structure of Bromantane"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Bromantane.svg",
+   "clean": "File:Bromantane.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Bromantane]], [[common name::Bromantan]], [[common name::Ladasten]]",
+   "clean": "Bromantane, Bromantan, Ladasten"
+  },
+  "NameSubstitution": {
+   "raw": "Bromantane",
+   "clean": "Bromantane"
+  },
+  "NameSystematic": {
+   "raw": "N-(4-Bromophenyl)adamantan-2-amine",
+   "clean": "N-(4-Bromophenyl)adamantan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]] / [[Psychoactive class::Nootropic]]",
+   "clean": "Stimulant / Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Adamantane]]",
+   "clean": "Adamantane"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''NOTE:''' '''Bromantane is absorbed more quickly in females than in males. Thus, females will experience a shorter duration of effects.'''<ref name=\"smart\">Smarter Nootropics | http://www.smarternootropics.com/bromantane/</ref> Bearing this in mind, always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity.",
+   "clean": "NOTE: Bromantane is absorbed more quickly in females than in males. Thus, females will experience a shorter duration of effects. Bearing this in mind, always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::]]  [[Oral max bioavailability::42]]%<ref>{{cite journal | vauthors=((Oliynyk, S.)), ((Oh, S.)) | journal=Biomolecules & Therapeutics | title=The Pharmacology of Actoprotectors: Practical Application for Improvement of Mental and Physical Performance | volume=20 | issue=5 | pages=446–456 | date= September 2012 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762282/ | issn=1976-9148 | doi=10.4062/biomolther.2012.20.5.446}}</ref>",
+   "clean": "42%"
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "< 10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::50]] mg",
+   "clean": "10 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::200]] mg +",
+   "clean": "200 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::10]] [[Insufflated dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::20]] - [[Insufflated max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::40]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::7]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 7 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::15]] - [[Insufflated max onset time::45]] [[Insufflated onset time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  }
+ },
+ "plain_text": "Bromantane (trade name Ladasten / Ладастен) is a Russian pharmaceutical substance developed in the late 1980s that possesses both stimulant and anxiolytic properties. Although it is a commonly used medication in Russia and surrounding countries, it has not gained widespread recognition or pharmaceutical use in other countries. During the 1996 Olympic Games in Atlanta, 5 different Russian athletes tested positive for bromantane use. \n\nA study conducted on human subjects displayed bromantane's ability to improve endurance and work capacity during stressful and intense conditions. This is because bromantane works as an actoprotector, a substance that makes the body more stable under physical duress without increasing oxygen consumption. \n\nChemistry\n\n100px|thumb|left|Adamantane moleculeBromantane is a chemical derivative of adamantane, a polyhedral organic compound containing four fused cyclohexane rings. Bromantane's structure consists of adamantane bound at R2 to a nitrogenous group which is in turn bonded to a phenyl ring substituted at R4 with a bromine group.\n\nPharmacology\n\nBromantane is atypical among stimulants in the sense that it inhibits serotonin reuptake in addition to inhibiting dopamine reuptake. It also increases levels of norepinephrine, but its means of doing so are unclear. Bromantane's anxiolytic properties are due to its strengthening of GABA-ergic mediation.\n\nUnlike typical stimulants such as amphetamine, bromantane's effects come primarily through the upregulation of tyrosine hydroxylase and aromatic L-amino acid decarboxylase (L-DOPA decarboxylase). Rodent studies have shown a 2-2.5x increase in these enzymes following administration of bromantane, and their upregulation causes a downstream increase in levels of dopamine, serotonin and epinephrine. \n\nAlthough not relevant at clinical dosages, bromantane has been found to produce anticholinergic effects, including both antimuscarinic and antinicotinic actions, at very high doses in animals.\n\nSubjective effects\n\nToxicity and harm potential\n\nLethal dosage\n\nThe LD50 of bromantane in mice has been established at 8100 mg/kg.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nUnlike other stimulants, bromantane does not seem to produce tolerance, addiction, or withdrawal symptoms upon discontinuation. Due to its irregular mechanism of action, it does not exhibit cross-tolerance with other typical stimulants, and anecdotal reports have claimed it can be used to reduce stimulant tolerance, which is caused in part by downregulation of tyrosine hydroxylase which bromantane can increase.\n\nLong term effects\n\nBromantane has been shown to uniquely cause long-term changes to gene expression involved in dopamine metabolism in rats. It is unclear if this effect is relevant to humans.\n\nThere are multiple anecdotal reports of long-term increases in energy levels, likely from elevated dopamine, from use of bromantane for periods of several months. These effects are claimed to persist even after stopping use of the drug, although have been noted to diminish over time, on a scale of weeks to a month. In a study investigating bromantane in the treatment of neurasthenia, a persistent reduction in fatigue was noted for a month following withdrawal of the drug. \n\nDangerous Interractions\n\nDue to its mechanism of action, bromantane can cause an unexpectedly strong reaction when mixed with other stimulants such as amphetamine, cocaine and/or methylphenidate. It is advised to avoid the use of stimulants with bromantane due to the potential for much stronger reactions than one would expect. \n\nLegal status\n\n*Germany: Bromantane is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act). According to §2 AMG (Medicines Act) it would fall under the definition of a medicine because it induces pharmacological effect. By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law. Bromantane can be considered legal.\n*Russia: In Russia Bromantane has been discontinued in 2017 and will not be available in the nearest future.\n*Switzerland: Bromantane   is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United States: Bromantane is uncontrolled in the United States and has not been approved by the FDA for human use. However, this has led nootropic vendor websites to sell bromantane under the label of \"not for human consumption.\"\n\nSee also\n\n*Responsible use\n*Tianeptine\n*Memantine\n*Noopept\n*Nootropics\n\nExternal links\n\n*Bromantane (Wikipedia)\n*Bromantane (Isomer Design)\n\nLiterature\n\n*Reichlin, S. (1969). Handbook of Experimental Pharmacology. The American Journal of The Medical Sciences (Vol. 258). https://doi.org/10.1097/00000441-196911000-00008\n*Krapivin, S. V, Sergeeva, S. A., & Morozov, I. S. (1993). [A quantitative pharmaco-electroencephalographic analysis of the action of bromantane]. Biulleten’ Eksperimental’noi Biologii I Meditsiny, 116(11), 515–8. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/8312546\n*Burnat, P., Payen, A., Brumant-Payen, C. Le, Hugon, M., & Ceppa, F. (1997). Bromontan, a new doping agent. The Lancet, 350(9082), 963–964. https://doi.org/10.1016/S0140-6736(05)63310-7\n*Viatleva, O. A., Barchukov, V. G., Morozov, I. S., Salenko, I. A., & Zhirnov, E. N. (2000). [The neuro- and psychophysiological effects of bromantane]. Voenno-Meditsinskii Zhurnal, 321(8), 61–5, 96. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/10998997\n*Iezhitsa, I. N., Spasov, A. A., & Bugaeva, L. I. (2001). Effects of bromantan on offspring maturation and development of reflexes. Neurotoxicology and Teratology, 23(2), 213–222. https://doi.org/10.1016/S0892-0362(01)00119-2\n*Iezhitsa, I. N., Spasov, A. A., Bugaeva, L. I., & Morozov, I. S. (2002). Toxic effect of single treatment with bromantane on neurological status of experimental animals. Bulletin of Experimental Biology and Medicine, 133(4), 380–383. https://doi.org/10.1023/A:1016206306875\n*Oliynyk, S., & Oh, S. (2012). The pharmacology of actoprotectors: Practical application for improvement of mental and physical performance. Biomolecules and Therapeutics, 20(5), 446–456. https://doi.org/10.4062/biomolther.2012.20.5.446\n*Morozov, I. S., Klimova, N. V, Karpova, T. D., & Shestopalov, S. S. (n.d.). [The characteristics of the neuropsychotropic activity of bromantane in laboratory animals]. Eksperimental’naia I Klinicheskaia Farmakologiia, 62(2), 3–6. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/10340117\n*Kudrin, V. S., Sergeeva, S. A., Krasnykh, L. M., Miroshnichenko, I. I., Grekhova, T. V, & Gaĭnetdinov, R. R. (n.d.). [The effect of bromantane on the dopamin- and serotoninergic systems of the rat brain]. Eksperimental’naia I Klinicheskaia Farmakologiia, 58(4), 8–11. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/7580761\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Cycloalkylamine\nCategory:Stimulant\nCategory:Nootropic\nCategory:Adamantane\nCategory:Actoprotector",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Bromantane}}\n\n'''Bromantane''' (trade name '''Ladasten / Ладастен''') is a Russian pharmaceutical substance developed in the late 1980s that possesses both [[stimulant]] and [[anxiety suppression|anxiolytic]] properties.<ref>{{cite journal | vauthors=((Krapivin, S. V.)), ((Sergeeva, S. A.)), ((Morozov, I. S.)) | journal=Biulleten’ Eksperimental’noi Biologii I Meditsiny | title=[A quantitative pharmaco-electroencephalographic analysis of the action of bromantane] | volume=116 | issue=11 | pages=515–518 | date= November 1993 | issn=0365-9615}}</ref> Although it is a commonly used medication in Russia and surrounding countries, it has not gained widespread recognition or pharmaceutical use in other countries. During the 1996 Olympic Games in Atlanta, 5 different Russian athletes tested positive for bromantane use.<ref>{{cite journal | vauthors=((Burnat, P.)), ((Payen, A.)), ((Brumant-Payen, C. L.)), ((Hugon, M.)), ((Ceppa, F.)) | journal=The Lancet | title=Bromontan, a new doping agent | volume=350 | issue=9082 | pages=963–964 | date= September 1997 | url=https://linkinghub.elsevier.com/retrieve/pii/S0140673605633107 | issn=01406736 | doi=10.1016/S0140-6736(05)63310-7}}</ref> \n\nA study conducted on human subjects displayed bromantane's ability to improve endurance and work capacity during stressful and intense conditions.<ref>{{cite journal | vauthors=((Viatleva, O. A.)), ((Barchukov, V. G.)), ((Morozov, I. S.)), ((Salenko, I. A.)), ((Zhirnov, E. N.)) | journal=Voenno-Meditsinskii Zhurnal | title=[The neuro- and psychophysiological effects of bromantane] | volume=321 | issue=8 | pages=61–65, 96 | date= August 2000 | issn=0026-9050}}</ref> This is because bromantane works as an actoprotector, a substance that makes the body more stable under physical duress without increasing oxygen consumption.<ref name=\"Oliynyk2012\">{{cite journal | vauthors=((Oliynyk, S.)), ((Oh, S.-K.)) | journal=Biomolecules and Therapeutics | title=The Pharmacology of Actoprotectors: Practical Application for Improvement of Mental and Physical Performance | volume=20 | issue=5 | pages=446–456 | date=30 September 2012 | url=http://koreascience.or.kr/journal/view.jsp?kj=OOOMB4&py=2012&vnc=v20n5&sp=446 | issn=1976-9148 | doi=10.4062/biomolther.2012.20.5.446}}</ref> \n\n==Chemistry==\n[[File:Adamantane.png|100px|thumb|left|Adamantane molecule]]Bromantane is a chemical derivative of [[adamantane]], a polyhedral organic compound containing four fused cyclohexane rings. Bromantane's structure consists of adamantane bound at R<sub>2</sub> to a nitrogenous group which is in turn bonded to a phenyl ring substituted at R<sub>4</sub> with a bromine group.\n\n==Pharmacology==\nBromantane is atypical among [[stimulant]]s in the sense that it inhibits [[serotonin]] reuptake in addition to inhibiting [[dopamine]] reuptake. It also increases levels of [[noradrenaline|norepinephrine]], but its means of doing so are unclear.<ref>{{cite journal | vauthors=((Kudrin, V. S.)), ((Sergeeva, S. A.)), ((Krasnykh, L. M.)), ((Miroshnichenko, I. I.)), ((Grekhova, T. V.)), ((Gaĭnetdinov, R. R.)) | journal=Eksperimental’naia I Klinicheskaia Farmakologiia | title=[The effect of bromantane on the dopamin- and serotoninergic systems of the rat brain] | volume=58 | issue=4 | pages=8–11 | date= August 1995 | issn=0869-2092}}</ref> Bromantane's [[Anxiety suppression|anxiolytic]] properties are due to its strengthening of GABA-ergic mediation.<ref name=\"Oliynyk2012\" />\n\nUnlike typical stimulants such as [[amphetamine]], bromantane's effects come primarily through the upregulation of tyrosine hydroxylase and aromatic L-amino acid decarboxylase (L-DOPA decarboxylase).<ref>Mikhaylova, M; Vakhitova, J; Yamidanov, R; Salimgareeva, M; Seredenin, S; Behnisch, T (2007). \"The effects of ladasten on dopaminergic neurotransmission and hippocampal synaptic plasticity in rats\". Neuropharmacology. 53 (5): 601–608. <nowiki>https://doi.org/10.1016%2Fj.neuropharm.2007.07.001</nowiki> </ref> Rodent studies have shown a 2-2.5x increase in these enzymes following administration of bromantane, and their upregulation causes a downstream increase in levels of dopamine, serotonin and epinephrine. \n\nAlthough not relevant at clinical dosages, bromantane has been found to produce [[Deliriant|anticholinergic]] effects, including both antimuscarinic and antinicotinic actions, at very high doses in animals.<ref>{{cite journal | vauthors=((Morozov, I. S.)), ((Pukhova, G. S.)), ((Avdulov, N. A.)), ((Sergeeva, S. A.)), ((Spasov, A. A.)), ((Iezhitsa, I. N.)) | journal=Eksperimental’naia I Klinicheskaia Farmakologiia | title=[The mechanisms of the neurotropic action of bromantan] | volume=62 | issue=1 | pages=11–14 | date= February 1999 | issn=0869-2092}}</ref><ref>{{cite journal | vauthors=((Iezhitsa, I. N.)), ((Spasov, A. A.)), ((Bugaeva, L. I.)), ((Morozov, I. S.)) | journal=Bulletin of Experimental Biology and Medicine | title=Toxic effect of single treatment with bromantane on neurological status of experimental animals | volume=133 | issue=4 | pages=380–383 | date= April 2002 | issn=0007-4888 | doi=10.1023/a:1016206306875}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - It is generally not described as forced and is mild comparing to that produced by typical stimulants like amphetamine.\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Dehydration]]''' {{citation needed}}\n*'''[[Effect::Vasoconstriction]]''' {{citation needed}}\n*'''[[Effect::Increased blood pressure]]''' {{citation needed}}\n*'''[[Effect::Muscle relaxation]]''' {{citation needed}}\n*'''[[Effect::Tactile enhancement]]''' - Bromantane can cause warm pleasurable skin feeling simillar to that produced by empathogens like MDMA but the effect is far less pronounced. {{citation needed}}\n*'''[[Effect::Teeth grinding]]''' - Although bromantane has muscle relaxing properties it can cause jaw clenching especially when mixed with caffeine. {{citation needed}}\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - Bromantane produces anxiety supression which is unusual comparing to typical stimulants like amphetamine which can actually cause feelings of anxiety.\n*'''[[Effect::Focus enhancement]]''' \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Increased music appreciation]]''' - It appears less consistently and the effect is less pronounced comparing to typical stimulants like amphetamine. \n}}\n}}\n\n==Toxicity and harm potential==\n{{Toxicity}}\n===Lethal dosage===\nThe LD<sub>50</sub> of bromantane in mice has been established at 8100 mg/kg.<ref>{{cite journal | vauthors=((Morozov, I. S.)), ((Klimova, N. V.)), ((Karpova, T. D.)), ((Shestopalov, S. S.)) | journal=Eksperimental’naia I Klinicheskaia Farmakologiia | title=[The characteristics of the neuropsychotropic activity of bromantane in laboratory animals] | volume=62 | issue=2 | pages=3–6 | date= April 1999 | issn=0869-2092}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nUnlike other [[Stimulant|stimulants]], bromantane does not seem to produce tolerance, addiction, or withdrawal symptoms upon discontinuation.<ref name=\"pmid11109517\">{{cite journal | vauthors = Iëzhitsa IN, Bugaeva LI, Spasov AA, Morozov IS | title = [Effect of bromantane on the rat neurologic status in two month course] | language = Russian | journal = Eksp Klin Farmakol | volume = 63 | issue = 5 | pages = 13–7 | year = 2000 | pmid = 11109517 | url = https://pubmed.ncbi.nlm.nih.gov/11109517/}}</ref> Due to its irregular mechanism of action, it does not exhibit cross-tolerance with other typical stimulants, and anecdotal reports have claimed it can be used to reduce stimulant tolerance, which is caused in part by downregulation of tyrosine hydroxylase which bromantane can increase.\n\n====Long term effects====\nBromantane has been shown to uniquely cause long-term changes to gene expression involved in dopamine metabolism in rats.<ref>{{cite journal | vauthors=((Vakhitova, I. V.)), ((Iamidanov, R. S.)), ((Vakhitov, V. A.)), ((Seredenin, S. B.)) | journal=Molekuliarnaia Biologiia | title=[DNA macroarray analysis of gene expression changes in rat brain after single administration of 2-aminoadamantane compound] | volume=39 | issue=2 | pages=276–285 | date= April 2005 | issn=0026-8984}}</ref> It is unclear if this effect is relevant to humans.\n\nThere are multiple anecdotal reports of long-term increases in energy levels, likely from elevated dopamine, from use of bromantane for periods of several months. These effects are claimed to persist even after stopping use of the drug, although have been noted to diminish over time, on a scale of weeks to a month. In a study investigating bromantane in the treatment of neurasthenia, a persistent reduction in fatigue was noted for a month following withdrawal of the drug.<ref>https://pubmed.ncbi.nlm.nih.gov/21322821/</ref> \n\n===Dangerous Interractions===\nDue to its mechanism of action, bromantane can cause an unexpectedly strong reaction when mixed with other stimulants such as [[amphetamine]], [[cocaine]] and/or [[methylphenidate]]. It is advised to avoid the use of stimulants with bromantane due to the potential for much stronger reactions than one would expect. \n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Bromantane is not a controlled substance under the BtMG (''Narcotics Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html|title=Gesetz über den Verkehr mit Betäubungsmitteln (Betäubungsmittelgesetz - BtMG)|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> or the NpSG (''New Psychoactive Substances Act'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/BJNR261510016.html|title=Neue-psychoaktive-Stoffe-Gesetz (NpSG)|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> According to §2 AMG (''Medicines Act'') it would fall under the definition of a medicine because it induces pharmacological effect.<ref>{{cite web|url=https://www.gesetze-im-internet.de/amg_1976/__2.html|title=§ 2 AMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law.<ref>{{cite news|url=https://www.lto.de/recht/hintergruende/h/eugh-urteil-c35813-c18114-legal-highs-kein-arzneimittel-strafbar-amg-btmg/|title= Cannabinoide Kräutermischungen vor dem EuGH: Legal Highs bleiben legal|publisher=LTO|author=Prof. Dr. Helmut Pollähne|trans-title=Cannabinoid herbal mixtures at the ECJ: Legal highs stay legal|date=July 11, 2014|access-date=December 28, 2019|language=de}}</ref> Bromantane can be considered legal.\n*'''Russia''': In Russia Bromantane has been discontinued in 2017 and will not be available in the nearest future.{{citation needed}}\n*'''Switzerland''': Bromantane   is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States''': Bromantane is uncontrolled in the United States and has not been approved by the FDA for human use. However, this has led [[nootropic]] vendor websites to sell bromantane under the label of \"not for human consumption.\"{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Tianeptine]]\n*[[Memantine]]\n*[[Noopept]]\n*[[Nootropics]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Bromantane Bromantane (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=744 Bromantane (Isomer Design)]\n\n==Literature==\n\n*Reichlin, S. (1969). Handbook of Experimental Pharmacology. The American Journal of The Medical Sciences (Vol. 258). https://doi.org/10.1097/00000441-196911000-00008\n*Krapivin, S. V, Sergeeva, S. A., & Morozov, I. S. (1993). [A quantitative pharmaco-electroencephalographic analysis of the action of bromantane]. Biulleten’ Eksperimental’noi Biologii I Meditsiny, 116(11), 515–8. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/8312546\n*Burnat, P., Payen, A., Brumant-Payen, C. Le, Hugon, M., & Ceppa, F. (1997). Bromontan, a new doping agent. The Lancet, 350(9082), 963–964. https://doi.org/10.1016/S0140-6736(05)63310-7\n*Viatleva, O. A., Barchukov, V. G., Morozov, I. S., Salenko, I. A., & Zhirnov, E. N. (2000). [The neuro- and psychophysiological effects of bromantane]. Voenno-Meditsinskii Zhurnal, 321(8), 61–5, 96. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/10998997\n*Iezhitsa, I. N., Spasov, A. A., & Bugaeva, L. I. (2001). Effects of bromantan on offspring maturation and development of reflexes. Neurotoxicology and Teratology, 23(2), 213–222. https://doi.org/10.1016/S0892-0362(01)00119-2\n*Iezhitsa, I. N., Spasov, A. A., Bugaeva, L. I., & Morozov, I. S. (2002). Toxic effect of single treatment with bromantane on neurological status of experimental animals. Bulletin of Experimental Biology and Medicine, 133(4), 380–383. https://doi.org/10.1023/A:1016206306875\n*Oliynyk, S., & Oh, S. (2012). The pharmacology of actoprotectors: Practical application for improvement of mental and physical performance. Biomolecules and Therapeutics, 20(5), 446–456. https://doi.org/10.4062/biomolther.2012.20.5.446\n*Morozov, I. S., Klimova, N. V, Karpova, T. D., & Shestopalov, S. S. (n.d.). [The characteristics of the neuropsychotropic activity of bromantane in laboratory animals]. Eksperimental’naia I Klinicheskaia Farmakologiia, 62(2), 3–6. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/10340117\n*Kudrin, V. S., Sergeeva, S. A., Krasnykh, L. M., Miroshnichenko, I. I., Grekhova, T. V, & Gaĭnetdinov, R. R. (n.d.). [The effect of bromantane on the dopamin- and serotoninergic systems of the rat brain]. Eksperimental’naia I Klinicheskaia Farmakologiia, 58(4), 8–11. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/7580761\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Cycloalkylamine]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Adamantane]]\n[[Category:Actoprotector]]\n\n{{#set:Featured=true}}"
+}

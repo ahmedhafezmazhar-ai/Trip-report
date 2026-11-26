@@ -1,0 +1,288 @@
+{
+ "id": "psychonautwiki:304",
+ "type": "substance",
+ "title": "Ayahuasca brew",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca_brew",
+  "pageid": 304,
+  "last_edited": "2022-11-30T05:33:06Z"
+ },
+ "categories": [
+  "Ayahuasca recipes"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "This recipe will make enough brew for one person. To make enough for more people, simply multiply the amount of root bark and syrian rue. When preparing the brew, the root bark for each person can be prepared in one batch and then poured into separate glasses.\n\nEquipment\n\n*Stainless steel pot\n*Coffee grinder/blender\n*Empty gel capsules\n*A sieve\n\nIngredients\n\n*5-10g Mimosa hostilis / acacia root bark\n*2-5g Powdered Syrian rue seeds\n*Distilled white vinegar\n*1-2 eggs\n\nMethod\n\n#The mimosa hostilis root bark is pulverized and shredded into a stringy or powdery consistency; the finer the root bark the better. This is done by either using a coffee grinder or using a blender. Simply twisting and shredding by hand works as well. If you are brewing for multiple people, it is not necessary to brew the root bark across individual pots. Throw it all into one pot and pour out the liquid at the end into separate containers accordingly.\n#The stainless steel pot is next filled with roughly about 400ml of water and 4 tablespoons of vinegar. The root bark should be submerged into the water and brought to a slow simmer. It should not be boiled and the lowest setting on the cooker should be used for this as excessive heat will destroy alkaloids.\n#Once most of the water in the pot has evaporated, more water can be added 2 or more times to continue the brewing process as the longer it brews the more potent the ayahuasca will be This is optional, but recommended. If there is no time to do this, at least twice the amount of root bark will need to be added to achieve a similar dosage.\n#Before the water has simmered down to about ¾ of the way down, the root bark should be taken out of the water and left to cool. Once the root bark has cooled down enough, the liquid should be squeezed out of the root bark back into the pot and the root bark should be discarded of. The water is then further evaporated and what should be left is a small amount of a purple and/or brown colored liquid which is enough to fill a shot glass with.\n# Before pouring the liquid out of the pot, egg whites should be added to help eradicate the purge. They will soak up the tannins but not the DMT. The egg whites should then be sieved out of the water once they have hardened and solidified. This step will reduce nausea in leaps and bounds and will change the ayahuasca from the consistency of a foul sludge to the consistency of milk.   \n#Syrian rue seed matter can be prepared in the same way as the root bark if preferred, but the easiest way to prepare Syrian rue is to simply stuff it into empty gel capsules. If the gel capsule technique is used, only 1 gram of Syrian rue is needed and not 2 grams. If you do not have gel capsules, the seeds can simply be washed down with some fruit juice and swallowed.\n#The Syrian rue needs to be taken 15 minutes before the root bark if swallowed in liquid form. If the Syrian rue is consumed in gel cap form (the easier route of administration) then it needs to be taken roughly 20-30 minutes before the root bark.\n\nSee also\n\n*Ayahuasca\n*Preparation\n*Ayahuasca recipes\n*Ayahuasca experience reports\n\nCategory:Ayahuasca recipes",
+ "wikitext": "{{SubstanceBox/Ayahuasca}}\n{{Disclaimer}}\nThis recipe will make enough brew for one person. To make enough for more people, simply multiply the amount of root bark and syrian rue. When preparing the brew, the root bark for each person can be prepared in one batch and then poured into separate glasses.\n\n==Equipment==\n*Stainless steel pot\n*Coffee grinder/blender\n*Empty gel capsules\n*A sieve\n\n==Ingredients==\n*5-10g Mimosa hostilis / acacia root bark\n*2-5g Powdered Syrian rue seeds\n*Distilled white vinegar\n*1-2 eggs\n\n==Method==\n#The mimosa hostilis root bark is pulverized and shredded into a stringy or powdery consistency; the finer the root bark the better. This is done by either using a coffee grinder or using a blender. Simply twisting and shredding by hand works as well. If you are brewing for multiple people, it is not necessary to brew the root bark across individual pots. Throw it all into one pot and pour out the liquid at the end into separate containers accordingly.\n#The stainless steel pot is next filled with roughly about 400ml of water and 4 tablespoons of vinegar. The root bark should be submerged into the water and brought to a slow simmer. It should not be boiled and the lowest setting on the cooker should be used for this as excessive heat will destroy alkaloids.\n#Once most of the water in the pot has evaporated, more water can be added 2 or more times to continue the brewing process as the longer it brews the more potent the ayahuasca will be This is optional, but recommended. If there is no time to do this, at least twice the amount of root bark will need to be added to achieve a similar dosage.\n#Before the water has simmered down to about ¾ of the way down, the root bark should be taken out of the water and left to cool. Once the root bark has cooled down enough, the liquid should be squeezed out of the root bark back into the pot and the root bark should be discarded of. The water is then further evaporated and what should be left is a small amount of a purple and/or brown colored liquid which is enough to fill a shot glass with.\n# Before pouring the liquid out of the pot, egg whites should be added to help eradicate the purge. They will soak up the tannins but not the DMT. The egg whites should then be sieved out of the water once they have hardened and solidified. This step will reduce nausea in leaps and bounds and will change the ayahuasca from the consistency of a foul sludge to the consistency of milk.   \n#Syrian rue seed matter can be prepared in the same way as the root bark if preferred, but the easiest way to prepare Syrian rue is to simply stuff it into empty gel capsules. If the gel capsule technique is used, only 1 gram of Syrian rue is needed and not 2 grams. If you do not have gel capsules, the seeds can simply be washed down with some fruit juice and swallowed.\n#The Syrian rue needs to be taken 15 minutes before the root bark if swallowed in liquid form. If the Syrian rue is consumed in gel cap form (the easier route of administration) then it needs to be taken roughly 20-30 minutes before the root bark.\n\n==See also==\n*[[Ayahuasca]]\n*[[Preparation]]\n*[[:category:Ayahuasca Recipe|Ayahuasca recipes]]\n*[[Experience index#Ayahuasca|Ayahuasca experience reports]]\n\n[[Category:Ayahuasca recipes]]"
+}

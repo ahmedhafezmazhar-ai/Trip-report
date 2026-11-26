@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10889",
+ "type": "substance-summary",
+ "title": "STS-135/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/STS-135/Summary",
+  "pageid": 10889,
+  "last_edited": "2015-11-13T06:29:57Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "STS-135",
+ "plain_text": "",
+ "wikitext": "{{Summary|STS-135}}"
+}

@@ -1,0 +1,415 @@
+{
+ "id": "psychonautwiki:13097",
+ "type": "substance",
+ "title": "Theacrine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Theacrine",
+  "pageid": 13097,
+  "last_edited": "2024-04-30T19:38:17Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Stimulant",
+  "Xanthine"
+ ],
+ "substance_box_template": "SubstanceBox/Theacrine",
+ "substance_box": {
+  "names": {
+   "common": "Theacrine, Temurin, Temorine",
+   "substitutive": "1,3,7,9-Tetramethyluric acid",
+   "systematic": "1,3,7,9-Tetramethylpurine-2,6,8-trione"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Xanthine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from Erowid",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 150 mg",
+    "strong": "150 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "6 - 10 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "",
+    "common": "25 - 100 mg",
+    "strong": "",
+    "heavy": "",
+    "duration": "1 - 3 hours",
+    "onset": "5 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Theacrine",
+    "Temurin",
+    "Temorine"
+   ],
+   "Psychoactive class": [
+    "Stimulant"
+   ],
+   "Chemical class": [
+    "Xanthine"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Insufflated threshold dose": [
+    "25"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min common dose": [
+    "25"
+   ],
+   "Insufflated max common dose": [
+    "100"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "3"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Theacrine.",
+   "clean": "Molecular structure of Theacrine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Theacrine.svg",
+   "clean": "File:Theacrine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Theacrine]], [[common name::Temurin]], [[common name::Temorine]]",
+   "clean": "Theacrine, Temurin, Temorine"
+  },
+  "NameSubstitution": {
+   "raw": "1,3,7,9-Tetramethyluric acid",
+   "clean": "1,3,7,9-Tetramethyluric acid"
+  },
+  "NameSystematic": {
+   "raw": "1,3,7,9-Tetramethylpurine-2,6,8-trione",
+   "clean": "1,3,7,9-Tetramethylpurine-2,6,8-trione"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Xanthine]]",
+   "clean": "Xanthine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [https://www.erowid.org/chemicals/caffeine/caffeine_dose.shtml Erowid]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from Erowid"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::300]] mg",
+   "clean": "150 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::25]] [[Insufflated dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::25]] - [[Insufflated max common dose::100]] mg",
+   "clean": "25 - 100 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::3]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Theacrine (also known as Teacrine) is a nootropic stimulant and a structural analog of caffeine, appearing to be synthesized from caffeine in some plants. It is a bitter, white crystalline purine alkaloid that increases activity in the brain and induces temporary improvements including enhanced alertness, wakefulness, and stimulation. Relative to caffeine, it displays about 2/3rds the potency in terms of the stimulation it produces.\n\nThe mechanisms of theacrine largely parallel those of caffeine in that while it seems to have a stimulatory effect in rodents, this only occurs at a higher dose (and the exact oral dose where it peaks with theacrine is not known). Similar to caffeine, it produces a sedative effect at relatively low doses, but where this sedative effect with caffeine is at an impractically low dose with theacrine it is the dose normally consumed by tea; this may underlie why Kucha tea tends to be recommended for relaxation more than stimulation.\n\nChemistry\n\nTheacrine's chemical structure is structurally similar to that of caffeine. It is a synthetic alkaloid with a substituted xanthine core. Xanthine is a substituted purine, which contains two fused rings, a pyrimidine and imidazole. Pryimidine is a 6 membered ring with nitrogen constituents at R1 and R3; imidazole is a 5 membered ring with nitrogen substituents at R1 and R3. Xanthine contains oxygen groups double-bonded to R2 and R6. Like caffeine, it contains additional methyl substitutions at R1, R3, and R7 of its structure, bound to the open nitrogen groups of the xanthine skeleton. It is an achiral aromatic compound.\n\nTheacrine's chemical name is 1,3,7,9-tetramethyluric acid; in comparison, the chemical name of caffeine is 1,3,7-trimethylxanthine, with the only difference in structure being an additional methyl group on the 9-carbon and an additional ketone group, which changes caffeine's xanthine into a uric acid moiety.\n\nPharmacology\n\nTheacrine acts through several mechanisms; however, like caffeine, its most important effect is to counteract a substance called adenosine that naturally circulates at high levels throughout the body (especially in the nervous system). In the brain, adenosine plays a generally protective role, part of which is to reduce neural activity levels. The theacrine molecule is structurally similar to both caffeine and adenosine, and is thus capable of binding to adenosine receptors on the surface of cells without activating them, thereby acting as a competitive inhibitor.\n\nAlongside of this, theacrine is believed to have similar effects on most of the other major neurotransmitters, including dopamine, acetylcholine, serotonin, and, in high doses, norepinephrine, and to a small extent epinephrine, glutamate, and cortisol.\n\nSubjective effects\n\nThe effects listed below are based upon the subjective effects index and personal experiences of PsychonautWiki contributors. The listed effects will rarely (if ever) occur all at once, but heavier dosages will increase the chances and are more likely to induce a full range of effects. \n\nToxicity and harm potential\n\nTheacrine is not known to cause brain damage, and has an extremely low toxicity relative to dose. There are relatively few physical side effects associated with theacrine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with caffeine, theacrine produces dependence with chronic use and has a low abuse potential. When dependence has developed, cravings and withdrawal effects will occur if one suddenly stops its use.\n\nTolerance to many of the effects of theacrine develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). It should be noted, however, that tolerance buildup does not occur as rapidly as with that of caffeine. Theacrine presents cross-tolerance with antagonists adenosine receptors, meaning that after the consumption of theacrine certain stimulants such as caffeine and theobromine will have a reduced effect.\n\nLegal status\n\n*United Kingdom: It may be illegal to produce, supply, or import this substance under the Psychoactive Substance Act 2016, which blanketly applies the aforementioned restrictions on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products.\"\n\nSee also\n\n*Responsible use\n*Stimulants\n*Nootropics\n\nExternal links\n\n*Theacrine (Wikipedia)\n*Theacrine (Isomer Design)\n*Theacrine (Examine.com)\n*Theacrine (WebMD)\n\nReferences\n\nCategory:Alkaloid\nCategory:Xanthine\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Theacrine}}\n\n'''Theacrine''' (also known as '''Teacrine''') is a [[psychoactive class::nootropic]] [[psychoactive class::stimulant]] and a structural analog of [[caffeine]], appearing to be synthesized from caffeine in some plants. It is a bitter, white crystalline [[chemical class::purine alkaloid]] that increases activity in the brain and induces temporary improvements including enhanced alertness, [[wakefulness]], and [[stimulation]].{{citation needed}} Relative to caffeine, it displays about 2/3rds the potency in terms of the stimulation it produces.{{citation needed}}\n\nThe mechanisms of theacrine largely parallel those of caffeine in that while it seems to have a stimulatory effect in rodents, this only occurs at a higher dose (and the exact oral dose where it peaks with theacrine is not known).<ref name=\"Feduccia2012\">{{cite journal | vauthors=((Feduccia, A. A.)), ((Wang, Y.)), ((Simms, J. A.)), ((Yi, H. Y.)), ((Li, R.)), ((Bjeldanes, L.)), ((Ye, C.)), ((Bartlett, S. E.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Locomotor activation by theacrine, a purine alkaloid structurally similar to caffeine: involvement of adenosine and dopamine receptors | volume=102 | issue=2 | pages=241–248 | date= August 2012 | issn=1873-5177 | doi=10.1016/j.pbb.2012.04.014}}</ref> Similar to caffeine, it produces a sedative effect at relatively low doses, but where this sedative effect with caffeine is at an impractically low dose with theacrine it is the dose normally consumed by tea; this may underlie why Kucha tea tends to be recommended for relaxation more than stimulation.\n\n==Chemistry==\nTheacrine's chemical structure is structurally similar to that of [[caffeine]]. It is a synthetic [[alkaloid]] with a [[substituted xanthine]] core. Xanthine is a substituted purine, which contains two fused rings, a pyrimidine and imidazole. Pryimidine is a 6 membered ring with nitrogen constituents at R<sub>1</sub> and R<sub>3</sub>; imidazole is a 5 membered ring with nitrogen substituents at R<sub>1</sub> and R<sub>3</sub>. Xanthine contains oxygen groups double-bonded to R<sub>2</sub> and R<sub>6</sub>. Like caffeine, it contains additional methyl substitutions at R<sub>1</sub>, R<sub>3</sub>, and R<sub>7</sub> of its structure, bound to the open nitrogen groups of the xanthine skeleton. It is an achiral aromatic compound.\n\nTheacrine's chemical name is 1,3,7,9-tetramethyluric acid; in comparison, the chemical name of caffeine is 1,3,7-trimethylxanthine, with the only difference in structure being an additional methyl group on the 9-carbon and an additional ketone group, which changes caffeine's xanthine into a uric acid moiety.<ref>{{cite journal | vauthors=((Frank, K.)), ((Patel, K.)), ((Lopez, G.)), ((Willis, B.)) | title=Theacrine Research Analysis | date=14 June 2018 | url=https://examine.com/supplements/theacrine/}}</ref>\n\n==Pharmacology==\nTheacrine acts through several mechanisms; however, like [[caffeine]], its most important effect is to counteract a substance called [https://en.wikipedia.org/wiki/adenosine adenosine] that naturally circulates at high levels throughout the body (especially in the nervous system). In the brain, adenosine plays a generally protective role, part of which is to reduce neural activity levels. The theacrine molecule is structurally similar to both caffeine and adenosine, and is thus capable of binding to adenosine receptors on the surface of cells without activating them, thereby acting as a competitive inhibitor.<ref>{{cite journal | vauthors=((Fisone, G.)), ((Borgkvist, A.)), ((Usiello, A.)) | journal=Cellular and Molecular Life Sciences CMLS | title=Caffeine as a psychomotor stimulant: mechanism of action | volume=61 | issue=7 | pages=857–872 | date=1 April 2004 | url=https://doi.org/10.1007/s00018-003-3269-3 | issn=1420-9071 | doi=10.1007/s00018-003-3269-3}}</ref>\n\nAlongside of this, theacrine is believed to have similar effects on most of the other major neurotransmitters, including [[dopamine]], [[acetylcholine]], [[serotonin]], and, in high doses, [[norepinephrine]],<ref>{{Citation | title=Caffeine & Neurotransmitters – WORLD OF CAFFINE | url=https://worldofcaffeine.com/caffeine-and-neurotransmitters/}}</ref> and to a small extent [[epinephrine]], [[glutamate]], and [[cortisol]].\n\n==Subjective effects==\nThe effects listed below are based upon the [[subjective effects index]] and personal experiences of [[PsychonautWiki]] [[Special:TopUsers|contributors]]. The listed effects will rarely (if ever) occur all at once, but heavier dosages will increase the chances and are more likely to induce a full range of effects. \n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, theacrine is usually considered to be mildly to moderately energetic and stimulating in a fashion that is considerably weaker in comparison to that of traditional recreational stimulants such as [[amphetamine]], [[MDMA]] or [[cocaine]]. This encourages physical activities such as performing chores and repetitive tasks which would otherwise be boring and strenuous physical activities. The particular style of stimulation which theacrine presents can be described as forced. This means that at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control. \n*'''[[Effect::Pain relief]]''' - Theacrine has pain reducing properties related to its anti-inflammatory effects. This is believed to be about that of ibuprofen.<ref>{{cite journal | vauthors=((Wang, Y.)), ((Yang, X.)), ((Zheng, X.)), ((Li, J.)), ((Ye, C.)), ((Song, X.)) | journal=Fitoterapia | title=Theacrine, a purine alkaloid with anti-inflammatory and analgesic activities | volume=81 | issue=6 | pages=627–631 | date= September 2010 | issn=1873-6971 | doi=10.1016/j.fitote.2010.03.008}}</ref>\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Nausea]]''' - This mostly occurs at high doses.\n*'''[[Effect::Bruxism]]''' - This effect does not occur as consistently as it does on other [[stimulants]] such as [[MDMA]].\n\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of theacrine can be broken down into several components which progressively intensify proportional to dosage. It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate dosages, they become increasingly likely to manifest themselves with higher amounts or extended usage. This particularly holds true during the offset of the experience. \n\nIn comparison to [[caffeine]], theacrine's effects tend to confer more benefits to focus than stimulation at equivalent dosages.<ref>{{cite journal | vauthors=((Kuhman, D. J.)), ((Joyner, K. J.)), ((Bloomer, R. J.)) | journal=Nutrients | title=Cognitive Performance and Mood Following Ingestion of a Theacrine-Containing Dietary Supplement, Caffeine, or Placebo by Young Men and Women | volume=7 | issue=11 | pages=9618–9632 | date=19 November 2015 | issn=2072-6643 | doi=10.3390/nu7115484}}</ref>\n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Compulsive redosing]]''' - This effect is less persistent than it is with [[caffeine]], as it tends to have a longer duration. \n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - This effect is generally mild.\n*'''[[Effect::Increased music appreciation]]''' \n*'''[[Effect::Focus enhancement]]''' - Compared to caffeine, this effect tends to be more prominent.\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n\n}}\n\n==Toxicity and harm potential==\nTheacrine is not known to cause brain damage, and has an extremely low toxicity relative to dose. There are relatively few physical side effects associated with theacrine exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort.{{citation needed}}\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with [[caffeine]], theacrine [[Addiction potential::produces dependence with chronic use and has a low abuse potential]]. When dependence has developed, cravings and [[withdrawal effects]] will occur if one suddenly stops its use.\n\nTolerance to many of the effects of theacrine [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). It should be noted, however, that tolerance buildup does not occur as rapidly as with that of [[caffeine]].<ref name=\"Feduccia2012\"/> Theacrine presents cross-tolerance with [[Cross-tolerance::antagonists adenosine receptors]], meaning that after the consumption of theacrine certain [[stimulants]] such as [[caffeine]] and [[theobromine]] will have a reduced effect.\n\n==Legal status==\n{{LegalStub}}\n\n*'''United Kingdom''': It may be illegal to produce, supply, or import this substance under the Psychoactive Substance Act 2016, which blanketly applies the aforementioned restrictions on all \"psychoactive substances\" with exemptions for alcohol, nicotine and \"medicinal products.\"<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Nootropics]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Theacrine Theacrine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=13905 Theacrine (Isomer Design)]\n*[https://examine.com/supplements/theacrine/ Theacrine (Examine.com)]\n*[http://www.webmd.com/vitamins-supplements/ingredientmono-1280-theacrine.aspx?activeingredientid=1280& Theacrine (WebMD)]\n\n==References==\n<references />\n\n[[Category:Alkaloid]]\n[[Category:Xanthine]]\n[[Category:Stimulant]]\n\n{{#set:Featured=true}}"
+}

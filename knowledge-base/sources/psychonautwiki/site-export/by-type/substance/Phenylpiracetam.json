@@ -1,0 +1,391 @@
+{
+ "id": "psychonautwiki:14588",
+ "type": "substance",
+ "title": "Phenylpiracetam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenylpiracetam",
+  "pageid": 14588,
+  "last_edited": "2025-01-31T00:37:11Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Nootropic",
+  "Phenethylamine",
+  "Psychoactive substance",
+  "Racetam",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Phenylpiracetam",
+ "substance_box": {
+  "names": {
+   "common": "Phenylpiracetam, Phenotropil, Carphedon",
+   "substitutive": "4-Phenylpiracetam",
+   "systematic": "(R,S)-2-(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide"
+  },
+  "classes": {
+   "psychoactive": "Nootropic / Stimulant",
+   "chemical": "Racetam"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "afterglow": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 50 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 200 mg",
+    "strong": "200 - 400 mg",
+    "heavy": "400 mg +",
+    "duration": "2 - 3 hours (some users have reported effects lasting an entire day)",
+    "onset": "30 - 60 minutes",
+    "peak": "1 hour",
+    "offset": "",
+    "afterglow": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Phenylpiracetam",
+    "Phenotropil",
+    "Carphedon"
+   ],
+   "psychoactive class": [
+    "Nootropic",
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Racetam"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "200"
+   ],
+   "Oral min strong dose": [
+    "200"
+   ],
+   "Oral max strong dose": [
+    "400"
+   ],
+   "Oral heavy dose": [
+    "400"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "3"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral peak time units": [
+    "hour"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Phenylpiracetam",
+   "clean": "Molecular structure of Phenylpiracetam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Phenylpiracetam.svg",
+   "clean": "File:Phenylpiracetam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Phenylpiracetam]], [[common name::Phenotropil]], [[common name::Carphedon]]",
+   "clean": "Phenylpiracetam, Phenotropil, Carphedon"
+  },
+  "NameSubstitution": {
+   "raw": "4-Phenylpiracetam",
+   "clean": "4-Phenylpiracetam"
+  },
+  "NameSystematic": {
+   "raw": "(R,S)-2-(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide",
+   "clean": "(R,S)-2-(2-Oxo-4-phenylpyrrolidin-1-yl)acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]] / [[psychoactive class::Stimulant]]",
+   "clean": "Nootropic / Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Racetam]]",
+   "clean": "Racetam"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Afterglow": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "< 50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::200]] - [[Oral max strong dose::400]] mg",
+   "clean": "200 - 400 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::400]] mg +",
+   "clean": "400 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::3]] [[Oral total time units::hours]] (some users have reported effects lasting an entire day)<ref>{{Citation | title=My experience with phenylpiracetam - Brain Health | url=https://www.longecity.org/forum/topic/15449-my-experience-with-phenylpiracetam/}}</ref>",
+   "clean": "2 - 3 hours (some users have reported effects lasting an entire day)"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "1 [[Oral peak time units::hour]]",
+   "clean": "1 hour"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Afterglow": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Phenylpiracetam (also known as Phenotropil and Carphedon) is a central nervous system stimulant and nootropic agent belonging to the racetam family of drugs. Although it is one of the first derivatives of piracetam to be synthesized and documented, research into its properties and efficacy in humans is limited.\n\nPhenylpiracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are commonly reported to be around nearly twelve times those of noopept, making it less potent while offering comparable benefit.\n\nSupplementation of phenylpiracetam tends to be in the dosage range of 100 - 300 mg taken over the course of a day, either in two to three evenly spread dosing periods (such as three doses of 100mg or 200mg).\n\nPhenylpiracetam has protected against scopolamine-induced amnesia both in rat populations, suggesting it can aid recovery from deliriant intoxication and other typically cognitively impaired states by preserving adequate levels of acetylcholine as a primary mechanism.\n\nMany people report that phenylpiracetam effects (especially stimulation) are more pronounced than other racetams. That may be due phenypiracetam's action as a dopamine reuptake inhibitor and noradrenaline reuptake inhibitor.\n\nChemistry\n\nPhenylpiracetam is based on the piracetam molecular skeleton with an additional phenyl group attached to the pyrrolidone nucleus, albeit at a different steric location than the substituted phenyl groups observed on aniracetam or nefiracetam. Due to the chiral center at the fourth position of the pyrrolidinone ring, it can exist in an S or R-isomer; the clinically used form is the racemic mixture.\n\nPharmacology\n\nPhenylpiracetam is thought to increase acetylcholine release within hippocampal cells. As acetycholine is involved in the function of memory, this could potentially account for its reported nootropic effects.\n\nPhenylpiracetam appears to have a series of trials conducted on it showing improvement in cognition in persons with cognitive decline from organic causes, with one study noting a minor improvement in cognition in those with youth epilepsy.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, this compound can be described as focusing primarily on cognitive focus over that of cognitive stimulation.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Phenylpiracetam\n\nToxicity and harm potential\n\nSeveral studies suggest that this substance is safe even when high doses are consumed for a long period of time although it is worth noting that the exact toxic dosage is unknown. Anecdotal evidence from those within the community who have tried phenylpiracetam suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nLethal dosage\n\nThe median lethal dosage (LD50) of phenylpiracetam has not been officially published as it has low abuse potential, but is not known to be harmful when exceeding the recommended dosage range.\n\nTolerance and addiction potential\n\nThe chronic use of phenylpiracetam can be considered as non-addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among users, although this fact has not been corroborated by clinical studies. \nTolerance to many of the effects of phenylpiracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Phenylpiracetam may presents cross-tolerance with all racetam [[nootropics]], meaning that after the consumption of phenylpiracetam certain nootropics such as aniracetam and piracetam may have a reduced effect.\n\nLegal status\n\nPhenylpiracetam, being a member of the racetam family, currently is legally available to buy and sell in most countries, but may still vary by region.\n\n*United Kingdom - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Pramiracetam\n*Oxiracetam\n*Nootropic\n*Stimulant\n*Piracetam\n*Racetam\n\nExternal links\n\n*Phenylpiracetam (Wikipedia)\n*Phenylpiracetam (Isomer Design)\n*Phenylpiracetam (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Nootropic\nCategory:Phenethylamine\nCategory:Racetam",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Phenylpiracetam}}\n\n'''Phenylpiracetam''' (also known as '''Phenotropil''' and '''Carphedon''') is a central nervous system [[psychoactive class::stimulant]] and [[psychoactive class::nootropic]] agent belonging to the [[chemical class::racetam]] family of drugs.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref><ref>{{cite journal | vauthors=((Valzelli, L.)), ((Baiguerra, G.)), ((Giraud, O.)) | journal=Methods and Findings in Experimental and Clinical Pharmacology | title=Difference in learning and retention by Albino Swiss mice. Part III. Effect of some brain stimulants | volume=8 | issue=6 | pages=337–341 | date= June 1986 | issn=0379-0355}}</ref> Although it is one of the first derivatives of [[piracetam]] to be synthesized and documented, research into its properties and efficacy in humans is limited.\n\nPhenylpiracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are commonly reported to be around nearly twelve times those of [[noopept]], making it less potent while offering comparable benefit.\n\nSupplementation of phenylpiracetam tends to be in the dosage range of 100 - 300 mg taken over the course of a day,<ref>Phenylpiracetam (Phenotropil): The Definitive Resource & Reviews | http://www.nootropicsjournal.com/phenylpiracetam/</ref> either in two to three evenly spread dosing periods (such as three doses of 100mg or 200mg).\n\nPhenylpiracetam has protected against [[Datura|scopolamine]]-induced amnesia both in rat populations, suggesting it can aid recovery from [[deliriant]] intoxication and other typically cognitively impaired states by preserving adequate levels of [[acetylcholine]] as a primary mechanism.<ref name=\"Firstova2011\">{{cite journal | vauthors=((Firstova, Yu. Yu.)), ((Abaimov, D. A.)), ((Kapitsa, I. G.)), ((Voronina, T. A.)), ((Kovalev, G. I.)) | journal=Neurochemical Journal | title=The effects of scopolamine and the nootropic drug phenotropil on rat brain neurotransmitter receptors during testing of the conditioned passive avoidance task | volume=5 | issue=2 | pages=115–125 | date=1 June 2011 | url=https://doi.org/10.1134/S1819712411020048 | issn=1819-7132 | doi=10.1134/S1819712411020048}}</ref>\n\nMany people report that phenylpiracetam effects (especially stimulation) are more pronounced than other racetams. That may be due phenypiracetam's action as a dopamine reuptake inhibitor and noradrenaline reuptake inhibitor.<ref>{{Citation | title=Use of (r)-phenylpiracetam for the treatment of sleep disorders | url=https://patents.google.com/patent/EP2891491A1/en}}</ref><ref name=\"Firstova2011\"/>\n\n\n==Chemistry==\nPhenylpiracetam is based on the [[piracetam]] molecular skeleton with an additional phenyl group attached to the pyrrolidone nucleus, albeit at a different steric location than the substituted phenyl groups observed on [[aniracetam]] or [[nefiracetam]]. Due to the chiral center at the fourth position of the pyrrolidinone ring, it can exist in an S or R-isomer; the clinically used form is the racemic mixture.<ref>{{cite journal | vauthors=((Zvejniece, L.)), ((Svalbe, B.)), ((Veinberg, G.)), ((Grinberga, S.)), ((Vorona, M.)), ((Kalvinsh, I.)), ((Dambrova, M.)) | journal=Basic & Clinical Pharmacology & Toxicology | title=Investigation into stereoselective pharmacological activity of phenotropil | volume=109 | issue=5 | pages=407–412 | date= November 2011 | issn=1742-7843 | doi=10.1111/j.1742-7843.2011.00742.x}}</ref>\n\n==Pharmacology==\n{{pharmacology}}\nPhenylpiracetam is thought to increase [[acetylcholine]] release within hippocampal cells.<ref name=\"Savchenko2005\">{{cite journal | vauthors=((Savchenko, A. I.)), ((Zakharova, N. S.)), ((Stepanov, I. N.)) | journal=Zhurnal Nevrologii I Psikhiatrii Imeni S.S. Korsakova | title=[The phenotropil treatment of the consequences of brain organic lesions] | volume=105 | issue=12 | pages=22–26 | date= 2005 | issn=1997-7298}}</ref> As acetycholine is involved in the function of memory, this could potentially account for its reported [[nootropic]] effects.\n\nPhenylpiracetam appears to have a series of trials conducted on it<ref>{{cite journal | vauthors=((Gustov, A. A.)), ((Smirnov, A. A.)), ((Korshunova, I. A.)), ((Andrianova, E. V.)) | journal=Zhurnal Nevrologii I Psikhiatrii Imeni S.S. Korsakova | title=[Phenotropil in the treatment of vascular encephalopathy] | volume=106 | issue=3 | pages=52–53 | date= 2006 | issn=1997-7298}}</ref><ref name=\"Savchenko2005\"/> showing improvement in cognition in persons with cognitive decline from organic causes, with one study noting a minor improvement in cognition in those with youth epilepsy.<ref>{{cite journal | vauthors=((Lybzikova, G. N.)), ((Iaglova, Z. S.)), ((Kharlamova, I. S.)) | journal=Zhurnal Nevrologii I Psikhiatrii Imeni S.S. Korsakova | title=[The efficacy of phenotropil in the complex treatment of epilepsy] | volume=108 | issue=2 | pages=69–70 | date= 2008 | issn=1997-7298}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\nIn comparison to the effects of other nootropics such as [[noopept]], this compound can be described as focusing primarily on cognitive focus over that of cognitive stimulation.\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which phenylpiracetam presents in common doses can be considered as primarily subtle, comparable to that of [[caffeine]], although in heavy doses it can be uncomfortably overstimulating.\n*'''[[Effect::Increased heart rate]]''' - This may be a result of the dopamine and noradrenaline reuptake inhibition.\n*'''[[Effect::Stamina enhancement]]''' - This effect is relatively mild compared to other [[stimulants]] such as [[amphetamine]].\n*'''[[Effect::Headaches]]''' - This is more prominent at higher doses. It can be promoted by redosing multiple times.\n*'''[[Effect::Appetite suppression]]'''{{citation needed}}\n}}\n{{effects/sensory|\nAlthough these effects are not universal, certain people may experience sensory enhancements under the influence of this compound.\n*'''[[Effect::Acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Tactile enhancement]]'''\n}}\n|{{effects/cognitive|\nIn terms of its cognitive effects, this compound can be described as a stimulating.\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Anxiety suppression]]''' \n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Cognitive dysphoria]]''' - This effect typically only occurs at extremely high dosages.\n}}\n{{effects/aftereffects|\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Insomnia]]'''\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Phenylpiracetam]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Phenylpiracetam.shtml Erowid Experience Vaults: Phenylpiracetam]\n\n==Toxicity and harm potential==\nSeveral studies suggest that this substance is [[Toxicity::safe even when high doses are consumed for a long period of time]]<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and Piracetam-Like Drugs | volume=70 | issue=3 | pages=287–312 | date=1 February 2010 | url=https://doi.org/10.2165/11319230-000000000-00000 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref> although it is worth noting that the [[Toxicity::exact toxic dosage is unknown]]. Anecdotal evidence from those within the community who have tried phenylpiracetam suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Lethal dosage===\nThe median lethal dosage ([[LD50|LD<sub>50</sub>]]) of phenylpiracetam has not been officially published as it has low abuse potential, but is not known to be harmful when exceeding the recommended dosage range.\n\n===Tolerance and addiction potential===\nThe chronic use of phenylpiracetam can be considered as [[Addiction potential::non-addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among users, although this fact has not been corroborated by clinical studies. \nTolerance to many of the effects of phenylpiracetam [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Phenylpiracetam may presents cross-tolerance with [[Cross-tolerance::all [[racetam]] [[nootropic]]s]], meaning that after the consumption of phenylpiracetam certain nootropics such as [[aniracetam]] and [[piracetam]] may have a reduced effect.\n\n==Legal status==\n{{legalStub}}\nPhenylpiracetam, being a member of the [[racetam]] family, currently is legally available to buy and sell in most countries, but may still vary by region.\n\n*'''United Kingdom''' - It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Pramiracetam]]\n*[[Oxiracetam]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Piracetam]]\n*[[Racetam]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/phenylpiracetam Phenylpiracetam (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=10856 Phenylpiracetam (Isomer Design)]\n*[https://examine.com/supplements/phenylpiracetam/ Phenylpiracetam (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Phenethylamine]]\n[[Category:Racetam]]\n{{#set:Featured=true}}"
+}

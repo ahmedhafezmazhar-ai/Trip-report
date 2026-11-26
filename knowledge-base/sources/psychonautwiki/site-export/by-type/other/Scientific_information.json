@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:31",
+ "type": "other",
+ "title": "Scientific information",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Scientific_information",
+  "pageid": 31,
+  "last_edited": "2025-07-13T18:16:09Z"
+ },
+ "categories": [
+  "Scientific information"
+ ],
+ "plain_text": "__NOTOC__\nThis section of PsychonautWiki is dedicated to providing the information necessary to understand the basic neuroscience and pharmacology involved in psychonautics and psychoactive substance usage in general. Please see our community guidelines before contributing or editing the content listed within this portal.\n\nSee also\n\n*Responsible use\n*Substance index\n*Subjective effects index\n\n*",
+ "wikitext": "<noinclude>__NOTOC__</noinclude>\nThis section of [[PsychonautWiki]] is dedicated to providing the information necessary to understand the basic neuroscience and pharmacology involved in [[psychonautics]] and [[psychoactive substance]] usage in general. Please see our [[Project:Guidelines#Scientific_information|community guidelines]] before contributing or editing the content listed within this portal.\n<onlyinclude>\n{{:List/science}}\n</onlyinclude>\n==See also==\n*[[Responsible use]]\n*[[Substance index]]\n*[[Subjective effects index]]\n\n[[Category:Scientific information|*]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:23358",
+ "type": "substance-summary",
+ "title": "2C-EF/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2C-EF/Summary",
+  "pageid": 23358,
+  "last_edited": "2024-12-10T09:53:16Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2C-EF",
+ "plain_text": "",
+ "wikitext": "{{Summary|2C-EF}}"
+}

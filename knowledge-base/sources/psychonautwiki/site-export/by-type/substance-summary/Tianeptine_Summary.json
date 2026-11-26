@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10948",
+ "type": "substance-summary",
+ "title": "Tianeptine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tianeptine/Summary",
+  "pageid": 10948,
+  "last_edited": "2015-11-13T10:50:25Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Tianeptine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Tianeptine}}"
+}

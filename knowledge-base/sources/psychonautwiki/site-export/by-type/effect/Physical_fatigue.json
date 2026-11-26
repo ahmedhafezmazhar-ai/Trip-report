@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:10334",
+ "type": "effect",
+ "title": "Physical fatigue",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Physical_fatigue",
+  "pageid": 10334,
+  "last_edited": "2020-02-06T13:33:49Z"
+ },
+ "categories": [
+  "Bodily",
+  "Effect",
+  "Physical",
+  "Uncomfortable"
+ ],
+ "plain_text": "Physical fatigue can be described as a general feeling of bodily exhaustion. The intensity and duration of this effect typically depends on the substance consumed and its dosage. It can also be further exacerbated by various factors such as a lack of sleep or food. These feelings of exhaustion involve a wide variety of symptoms which generally include some or all of the following effects:\n\n*Sedation\n*Perception of bodily heaviness\n*Decreased libido\n*Motor control loss\n*Sleepiness\n\nPeople who are fatigued may find it difficult to complete physical actions and may not be capable of getting out of bed or performing everyday household tasks. It can generally be treated with a period of rest or sleep. \n\nPhysical fatigue is often accompanied by other coinciding effects such as cognitive fatigue. It is most commonly induced under the influence of moderate dosages of antipsychotic compounds, such as quetiapine, haloperidol, and risperidone. However, it can also occur during the withdrawal symptoms of many depressants, and during the offset of many stimulants.\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nExperience reports\n\nAnnectdotal reports which describe this effect with our experience index include:\n\nSee also\n\n*Responsible use\n*Fatigue (Wikipedia)\n*Cognitive fatigue\n*Subjective effects index\n*Psychedelics - Subjective effects\n*Dissociatives - Subjective effects\n*Deliriants - Subjective effects\n\nExternal links\n\n* Muscle fatigue (Wikipedia)\nCategory:PhysicalCategory:UncomfortableCategory:BodilyCategory:Effect",
+ "wikitext": "<onlyinclude>\n'''Physical fatigue''' can be described as a general feeling of bodily exhaustion. The intensity and duration of this effect typically depends on the substance consumed and its dosage. It can also be further exacerbated by various factors such as a lack of sleep or food. These feelings of exhaustion involve a wide variety of symptoms which generally include some or all of the following effects:\n\n*'''[[Sedation]]'''\n*'''[[Perception of bodily heaviness]]'''\n*'''[[Decreased libido]]'''\n*'''[[Motor control loss]]'''\n*'''[[Sleepiness]]'''\n\nPeople who are fatigued may find it difficult to complete physical actions and may not be capable of getting out of bed or performing everyday household tasks. It can generally be treated with a period of rest or sleep. \n\nPhysical fatigue is often accompanied by other coinciding effects such as [[cognitive fatigue]]. It is most commonly induced under the influence of [[dosage#common|moderate]] [[dosage|dosages]] of [[antipsychotic]] compounds, such as [[quetiapine]], [[haloperidol]], and [[risperidone]]. However, it can also occur during the [[withdrawal]] symptoms of many [[depressant|depressants]], and during the [[duration#offset|offset]] of many [[stimulant|stimulants]].\n</onlyinclude>\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Physical fatigue]]|format=ul|Columns=1}}\n===Experience reports===\nAnnectdotal reports which describe this effect with our [[experience index]] include:\n{{#ask:[[Category:Experience]][[Effect::Physical fatigue]]|format=ul|Columns=2}}\n===See also===\n*[[Responsible use]]\n*[https://en.wikipedia.org/wiki/Fatigue_%28medical%29 Fatigue (Wikipedia)]\n*[[Cognitive fatigue]]\n*[[Subjective effects index]]\n*[[Psychedelics#Subjective_effects|Psychedelics - Subjective effects]]\n*[[Dissociatives#Subjective_effects|Dissociatives - Subjective effects]]\n*[[Deliriants#Subjective_effects|Deliriants - Subjective effects]]\n===External links===\n* [https://en.wikipedia.org/wiki/Muscle_fatigue Muscle fatigue (Wikipedia)]\n[[Category:Physical]][[Category:Uncomfortable]][[Category:Bodily]][[Category:Effect]]"
+}

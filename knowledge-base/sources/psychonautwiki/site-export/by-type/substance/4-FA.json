@@ -1,0 +1,353 @@
+{
+ "id": "psychonautwiki:9221",
+ "type": "substance",
+ "title": "4-FA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-FA",
+  "pageid": 9221,
+  "last_edited": "2024-12-09T21:18:01Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Entactogen",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/4-FA",
+ "substance_box": {
+  "names": {
+   "common": "4-FA, 4-FMP, PAL-303, Flux",
+   "substitutive": "4-Fluoroamphetamine, para-Fluoroamphetamine",
+   "systematic": "(RS)-1-(4-Fluorophenyl)-N-propan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "40 mg",
+    "light": "40 - 100 mg",
+    "common": "100 - 130 mg",
+    "strong": "130 - 150 mg",
+    "heavy": "150 mg +",
+    "duration": "5 - 8 hours",
+    "onset": "45 - 75 minutes",
+    "comeup": "30 - 75 minutes",
+    "peak": "2.5 - 3.5 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "4-FA",
+    "4-FMP",
+    "PAL-303",
+    "Flux"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "40"
+   ],
+   "Oral dose units": [
+    "mg",
+    "mg",
+    "mg",
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "130"
+   ],
+   "Oral min strong dose": [
+    "130"
+   ],
+   "Oral max strong dose": [
+    "150"
+   ],
+   "Oral heavy dose": [
+    "150"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "45"
+   ],
+   "Oral max onset time": [
+    "75"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "75"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2.5"
+   ],
+   "Oral max peak time": [
+    "3.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 4-FA",
+   "clean": "Molecular structure of 4-FA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:4-FA.svg",
+   "clean": "File:4-FA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::4-FA]], [[common name::4-FMP]], [[common name::PAL-303]], [[common name::Flux]]",
+   "clean": "4-FA, 4-FMP, PAL-303, Flux"
+  },
+  "NameSubstitution": {
+   "raw": "4-Fluoroamphetamine, para-Fluoroamphetamine",
+   "clean": "4-Fluoroamphetamine, para-Fluoroamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-1-(4-Fluorophenyl)-N-propan-2-amine",
+   "clean": "(RS)-1-(4-Fluorophenyl)-N-propan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::40]] [[Oral dose units::mg]]",
+   "clean": "40 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::100]] [[Oral dose units::mg]]",
+   "clean": "40 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::130]] [[Oral dose units::mg]]",
+   "clean": "100 - 130 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::130]] - [[Oral max strong dose::150]] [[Oral dose units::mg]]",
+   "clean": "130 - 150 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::150]] mg +",
+   "clean": "150 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::45]] - [[Oral max onset time::75]] [[Oral onset time units::minutes]]",
+   "clean": "45 - 75 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::75]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 75 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2.5]] - [[Oral max peak time::3.5]] [[Oral peak time units::hours]]",
+   "clean": "2.5 - 3.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "4-Fluoroamphetamine (also known as 4-FA, 4-FMP, para-Fluoroamphetamine, PAL-303 and colloquially as Flux) is a novel synthetic Substituted amphetamine compound that produces a unique progressive mixture of entactogen and stimulant effects when administered. It is part of a series of fluorinated amphetamine analog that initially included such compounds as 2-FA, 2-FMA, and 3-FA. \n\nAnecdotal reports have described the subjective effects of 4-FA as having a moderate MDMA-like entactogenic onset for the initial few hours of the experience that then gradually transitions into traditional amphetamine-type stimulation (for a total duration of around 6 to 8 hours) with residual effects that can last a few hours afterward.  \n\n4-FA is rarely found on the streets but was commonly sold as a grey area research chemical by online vendors along with related compounds such as 2-FMA and 3-FA. Very little data exists about the pharmacological properties, metabolism, and toxicity of 4-FA, and it has only a brief history of human usage. Due to its strong psychostimulant effects, likely habit-forming properties as well as poorly understood toxicity profile, it is strongly recommended that one use proper harm reduction practices if choosing to use this substance.\n\nChemistry\n\n4-Fluoroamphetamine (4-FA) is a synthetic molecule of the amphetamine family.  Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. Amphetamines are alpha-methylated phenethylamines. 4-fluoroamphetamine contains a fluorine atom at R4 of its phenyl ring and is a fluorinated analogue of amphetamine.\nthumb|right|240px|thumb|right||Substitutive structure of an amphetamine molecule\n\nPharmacology\n\n4-Fluoroamphetamine acts as a releasing agent and reuptake inhibitor of dopamine, serotonin, and norepinephrine producing stimulating amphetamine-like effects at lower doses and euphoric, entactogenic effects similar to MDMA at dosages above 100mg.  The mechanism of action of 4-FA effectively boosts the levels of the norepinephrine, dopamine, and serotonin neurotransmitters in higher doses in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine, norepinephrine, and serotonin to accumulate within the brain, resulting in stimulating, euphoric and entactogenic effects.\n\nSubjective effects\n\nIt is commonly reported that the first three to four hours of 4-FA present distinct entactogenic effects that have been reported as feeling somewhat similar to MDMA although not quite as powerful. This is thought to correlate with the duration in which it is promoting the release of serotonin (in addition to dopamine and norepinephrine). After this first phase of the experience, the effect then shifts towards something which feels like classic amphetamine stimulation which can persist for an extended period.\n\nDo not use 4-FA if you have a history of heart-related issues or experience a severe headache after its use. We have been made aware of a report released by Trimbos-instituut and Nationaal Vergiftigingen Informatie Centrum (NVIC), describing incidents of strokes after an increased use of 4-FA. In addition to the common amphetamine-like effects (agitation, anxiety, tachycardia, hypertension, chest pain et al.), serious cardio- and cerebrovascular complications have been reported, including rhythm (sinus arrhythmia, ventricular extrasystoles (bigeminy), conduction disturbances) and acute cardiac failure. Although a causal relationship has not been confirmed, when presented with a severe headache and lateralization after 4-FA usage, a medical evaluation at an emergency department should be conducted immediately. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: 4-FA\n\nToxicity and harm potential\n\nThe toxicity and long-term effects of recreational 4-FA use have only scarcely been studied because 4-FA has very little history of human usage. Anecdotal evidence, as well as several case reports, suggest there is a small to moderate individual health risk associated with the use of 4-FA. Among these, it appears there is an especially a high risk for acute cardiovascular toxicity. Some people in the Netherlands, only using a moderate dose, have died due to cardiac arrest or suffered severe brain damage due to a stroke. The mechanism of this acute toxicity is not yet known, but it seems as though the stroke starts off as an intense headache or even a migraine attack, that slowly worsens.\n\nThe LD50 (mouse; i.p.) of 4-FA is 46 mg/kg. 4-FA does not cause long-lasting depletion of brain serotonin unlike MDMA or 4-FA's analogs 4-CA and 4-BA. \n\nIt is also worth noting that 4-FA is particularly caustic in comparison to other compounds and can, therefore, cause chemical burns within the nasal passage and throat if it is insufflated. This method of administration is discouraged.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of 4-FA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-FA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). This is how long it takes to reduce the tolerance for the stimulating effects. Tolerance for the entactogenic effects may take a longer period to reduce. 4-FA presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 4-FA all stimulants will have a reduced effect.\n\nPsychosis\n\n4-FA, like other stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\nLegal status\n\n*Austria: 4-FA is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Brazil: 4-FA is illegal to possess, produce and sell as it is listed on Portaria SVS/MS nº 344.\n*Canada: 4-FA would fall under Schedule I as it is considered an analog of amphetamine.\n*France: 4-FA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*Germany: 4-FA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of July 26, 2012. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Hungary: In January 2012, 4-FA became controlled in Hungary.\n*Israel: In December 2007, 4-FA was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess.\n*The Netherlands: 4-FA is a Schedule 1 drug in the Netherlands as of May 25th 2017. \n*New Zealand: 4-FA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.\n*Poland: 4-FA is controlled in Poland.\n*Slovak Republic: Beginning March 1, 2011, 4-Fluoroamphetamine is controlled in the Slovak Republic.\n*Switzerland: 4-FA is a controlled substance specifically named under Verzeichnis D.\n*Turkey: 4-FA is a classed as drug and is illegal to possess, produce, supply, or import. \n*United Kingdom: 4-FA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.\n*United States: 4-FA is not scheduled on a federal level in the United States.\n**Arizona: 4-FA was added to the \"Dangerous Drug\" list in April 2014.\n**Louisiana: 4-FA is currently listed as a Schedule I drug as of June 2013.\n**Virginia: 4-FA is classified as a Schedule I drug.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Entactogen\n*Stimulants\n*Amphetamine\n*MDMA\n*3-FEA\n\nExternal links\n\n*4-FA (Wikipedia)\n*4-FA (Erowid Vault)\n*4-FA (Isomer Design)\n\nDiscussion\n\n*Big n Dandy 4-FA (4-fluoroamphetamine) thread v.1.0 (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Entactogen\nCategory:Amphetamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/4-FA}}\n\n'''4-Fluoroamphetamine''' (also known as '''4-FA''', '''4-FMP''', '''para-Fluoroamphetamine''', '''PAL-303''' and colloquially as '''Flux''') is a novel synthetic [[chemical class::Substituted amphetamine|amphetamine]] compound that produces a unique progressive mixture of [[psychoactive class::entactogen|entactogenic]] and [[psychoactive class::stimulant]] effects when [[Routes of administration|administered]]. It is part of a series of fluorinated amphetamine analog that initially included such compounds as [[2-FA]], [[2-FMA]], and [[3-FA]].<ref name=\"Rosner2005\">{{cite journal | vauthors=((Rösner, P.)), ((Quednow, B.)), ((Girreser, U.)), ((Junge, T.)) | journal=Forensic Science International | title=Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs) | volume=148 | issue=2–3 | pages=143–156 | date= March 2005 | url=https://linkinghub.elsevier.com/retrieve/pii/S0379073804003251 | issn=03790738 | doi=10.1016/j.forsciint.2004.05.003}}</ref> \n\nAnecdotal reports have described the subjective effects of [[4-FA]] as having a moderate [[MDMA|MDMA-like]] [[entactogenic]] onset for the initial few hours of the experience that then gradually transitions into traditional [[amphetamine|amphetamine-type]] [[stimulation]] (for a total duration of around 6 to 8 hours) with residual effects that can last a few hours afterward.{{citation needed}}  \n\n4-FA is rarely found on the streets but was commonly sold as a grey area [[research chemical]] by online vendors along with related compounds such as [[2-FMA]] and [[3-FA]].<ref name=\"Nagai2007\">{{cite journal | vauthors=((Nagai, F.)), ((Nonaka, R.)), ((Satoh Hisashi Kamimura, K.)) | journal=European Journal of Pharmacology | title=The effects of non-medically used psychoactive drugs on monoamine neurotransmission in rat brain | volume=559 | issue=2–3 | pages=132–137 | date=22 March 2007 | issn=0014-2999 | doi=10.1016/j.ejphar.2006.11.075}}\n</ref><ref name=\"Rosner2005\"/> Very little data exists about the pharmacological properties, metabolism, and toxicity of 4-FA, and it has only a brief history of human usage. Due to its strong psychostimulant effects, likely habit-forming properties as well as poorly understood toxicity profile, it is strongly recommended that one use proper [[harm reduction]] practices if choosing to use this substance.\n\n==Chemistry==\n4-Fluoroamphetamine (4-FA) is a synthetic molecule of the [[Substituted amphetamine|amphetamine]] family.  Molecules of the amphetamine class contain a [[phenethylamine]] core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. Amphetamines are alpha-methylated phenethylamines. 4-fluoroamphetamine contains a fluorine atom at R<sub>4</sub> of its phenyl ring and is a fluorinated analogue of amphetamine.\n[[File:samphetamine.png|thumb|right|240px|thumb|right||Substitutive structure of an amphetamine molecule]]\n\n==Pharmacology==\n4-Fluoroamphetamine acts as a releasing agent and reuptake inhibitor of dopamine, serotonin, and norepinephrine producing stimulating amphetamine-like effects at lower doses and euphoric, entactogenic effects similar to MDMA at dosages above 100mg.  The mechanism of action of 4-FA effectively boosts the levels of the norepinephrine, dopamine, and serotonin [[neurotransmitters]] in higher doses in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine, norepinephrine, and serotonin to accumulate within the brain, resulting in stimulating, euphoric and [[entactogen]]ic effects.<ref>{{cite journal | vauthors=((Fuller, R. W.)), ((Baker, J. C.)), ((Perry, K. W.)), ((Molloy, B. B.)) | journal=Neuropharmacology | title=Comparison of 4-chloro-, 4-bromo- and 4-fluoroamphetamine in rats: Drug levels in brain and effects on brain serotonin metabolism | volume=14 | issue=10 | pages=739–746 | date=1 October 1975 | url=https://www.sciencedirect.com/science/article/pii/0028390875900994 | issn=0028-3908 | doi=10.1016/0028-3908(75)90099-4}}</ref><ref name=\"Nagai2007\"/>\n\n==Subjective effects==\nIt is commonly reported that the first three to four hours of 4-FA present distinct [[entactogenic]] effects that have been reported as feeling somewhat similar to MDMA although not quite as powerful. This is thought to correlate with the duration in which it is promoting the release of [[serotonin]] (in addition to [[dopamine]] and [[norepinephrine]]). After this first phase of the experience, the effect then shifts towards something which feels like classic [[amphetamine]] stimulation which can persist for an extended period.{{citation needed}}\n\n'''Do not use 4-FA if you have a history of heart-related issues or experience a severe headache after its use.''' We have been made aware of a report released by Trimbos-instituut<ref>{{Citation | title=Voor mentale gezondheid | url=https://www.trimbos.nl/}}</ref> and Nationaal Vergiftigingen Informatie Centrum<ref>{{Citation | title=Vergiftigingen.info - Home | url=https://www.vergiftigingen.info}}</ref> (NVIC), describing incidents of strokes after an increased use of 4-FA. In addition to the common amphetamine-like effects (agitation, anxiety, tachycardia, hypertension, chest pain et al.), serious cardio- and cerebrovascular complications have been reported, including rhythm (sinus arrhythmia, ventricular extrasystoles (bigeminy), conduction disturbances) and acute cardiac failure. Although a causal relationship has not been confirmed, when presented with a severe headache and lateralization after 4-FA usage, a medical evaluation at an emergency department should be conducted immediately. <ref>https://psychonautwiki.org/wiki/File:Behandeling-4-fa-intoxicatie.pdf</ref>\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - The first few hours of the 4-FA experience are commonly reported to have overtones of the type of sedation that is associated with the serotonin-releasing properties of [[entactogens]] like [[MDMA]]. After these entactogenic effects fade and the stimulating effects become predominant. The stimulation which 4-FA produces throughout the entirety of the experience be described as being slightly weaker in intensity to [[amphetamine]] and less forceful than traditional [[dopaminergic]] stimulants such as [[cocaine]].\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of 4-FA can be characterized as a moderate to extreme euphoric tingling sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n**'''[[Effect::Physical euphoria]]''' - This effect is extremely intense when compared to its physical stimulation.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Temperature regulation suppression]]''' \n**'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Vibrating vision]]''' - At high doses, a person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing the vision to become blurry and temporarily out of focus. This is a condition known as [http://en.wikipedia.org/wiki/Nystagmus nystagmus] and is considered to be harmless in most cases.\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Seizure]]''' - This is a rare effect but is thought to be able to occur in those predisposed to them, especially when taking heavier-than-recommended doses or redosing while in physically taxing conditions such as being dehydrated, fatigued, undernourished, or overheated.{{citation needed}}\n\n}}\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - In comparison to other substances, this effect can be described as identical to the effects produced by [[MDMA]], but with less intensity. Like '''[[Effect::Cognitive euphoria|euphoria]]''', it is most present at dosages above 100mg.\n*'''[[Effect::Cognitive euphoria]]''' - This effect can be described in its manifestation as a series of euphoric waves that recede and reappear randomly throughout the experience. It is most present at dosages above 100mg.\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Delirium]]''' & '''[[Effect::Confusion]]''' - This effect typically only occurs with overly high doses, and is associated with temperature dysregulation and overheating, particularly when 4-FA is taken in crowded, physically strenuous environments that leaves the user unable to cool off, rest, or rehydrate adequately.\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Unity and interconnectedness]]''' - Experiences of unity, oneness, and interconnectedness are sometimes reported with 4-FA. This component most consistently manifests itself at higher doses during the empathogenic phase, within large crowds at raves and musical events in the form of \"becoming one with the crowd.\" Music is said to intensify this effect as well consistently.\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Brain zaps]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Sleep paralysis]]''' - Some users report a higher incidence of experiencing sleep paralysis after consuming 4-FA, usually only at higher doses.\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Suicidal ideation]]''' - This effect is typically only reported when 4-FA is misused by either taking it too frequently, with excessive doses, and/or compulsively.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:4-FA]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_4Fluoroamphetamine.shtml Erowid Experience Vaults: 4-FA]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term effects of recreational 4-FA use have only scarcely been studied because 4-FA has very little history of human usage. Anecdotal evidence, as well as several case reports, suggest there is a small to moderate individual health risk associated with the use of 4-FA. Among these, it appears there is an especially a high risk for acute cardiovascular toxicity. Some people in the Netherlands, only using a moderate dose, have died due to cardiac arrest or suffered severe brain damage due to a stroke. The mechanism of this acute toxicity is not yet known, but it seems as though the stroke starts off as an intense headache or even a migraine attack, that slowly worsens.<ref>https://psychonautwiki.org/wiki/File:4-FA%20risicobeoordeling%20(2016).pdf</ref>\n\nThe [[LD50|LD<sub>50</sub>]] (mouse; i.p.) of 4-FA is 46 mg/kg.<ref>{{cite journal | vauthors=((Costa, E.)), ((Garattini, S.)) | veditors=((Domino, E. F.)) | journal=Electroencephalography and Clinical Neurophysiology | title=Amphetamines and related compounds | volume=30 | issue=6 | pages=579 | date= June 1971 | url=https://linkinghub.elsevier.com/retrieve/pii/001346947190160X | issn=00134694 | doi=10.1016/0013-4694(71)90160-X}}</ref> 4-FA does not cause long-lasting depletion of brain [[serotonin]] unlike [[MDMA]] or [[4-FA]]'s analogs [https://en.wikipedia.org/wiki/Para-Chloroamphetamine 4-CA] and [https://en.wikipedia.org/wiki/Para-Bromoamphetamine 4-BA]. \n\nIt is also worth noting that 4-FA is particularly caustic in comparison to other compounds and can, therefore, cause chemical burns within the nasal passage and throat if it is [[insufflated]]. This method of administration is discouraged.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulants]], the chronic use of 4-FA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-FA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). This is how long it takes to reduce the tolerance for the stimulating effects. Tolerance for the [[Empathy, love, and sociability enhancement|entactogenic effects]] may take a longer period to reduce. 4-FA presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulants]]]], meaning that after the consumption of 4-FA all [[stimulants]] will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\n4-FA, like other stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[paranoia]], [[External hallucinations|hallucinations]], or [[delusions]]).<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"amppsychosis\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\n*'''Austria''': 4-FA is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Brazil''': 4-FA is illegal to possess, produce and sell as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Canada''': 4-FA would fall under Schedule I as it is considered an analog of amphetamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''France''': 4-FA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 4-FA is controlled under Anlage I BtMG (''Narcotics Act, Schedule I'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> as of July 26, 2012.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl112s1639.pdf%27%5D|title=Sechsundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 18, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref>\n*'''Hungary''': In January 2012, 4-FA became controlled in Hungary.{{citation needed}}\n*'''Israel''': In December 2007, 4-FA was added to Israel's list of controlled substances, making it illegal to buy, sell, or possess.{{citation needed}}\n*'''The Netherlands''': 4-FA is a Schedule 1 drug in the Netherlands as of May 25th 2017. <ref>https://www.rijksoverheid.nl/actueel/nieuws/2017/05/24/verbod-op-drug-4-fluoramfetamine-gaat-vrijdag-25-mei-in</ref>\n*'''New Zealand''': 4-FA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html}}</ref>\n*'''Poland''': 4-FA is controlled in Poland.{{citation needed}}\n*'''Slovak Republic''': Beginning March 1, 2011, 4-Fluoroamphetamine is controlled in the Slovak Republic.{{citation needed}}\n*'''Switzerland''': 4-FA is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' 4-FA is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''United Kingdom''': 4-FA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.<ref>{{Citation | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I}}</ref>\n*'''United States''': 4-FA is not scheduled on a federal level in the United States.{{citation needed}}\n**'''Arizona''': 4-FA was added to the \"Dangerous Drug\" list in April 2014.{{citation needed}}\n**'''Louisiana''': 4-FA is currently listed as a Schedule I drug as of June 2013.{{citation needed}}\n**'''Virginia''': 4-FA is classified as a Schedule I drug.{{citation needed}}\n\n==See also==\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Entactogen]]\n*[[Stimulants]]\n*[[Amphetamine]]\n*[[MDMA]]\n*[[3-FEA]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/4-Fluoroamphetamine 4-FA (Wikipedia)]\n*[https://erowid.org/chemicals/4_fluoroamphetamine/4_fluoroamphetamine.shtml 4-FA (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2008 4-FA (Isomer Design)]\n\n===Discussion===\n*[http://www.bluelight.org/vb/threads/498590-Big-n-Dandy-4-FA-(4-fluoroamphetamine)-thread-v-1-0 Big n Dandy 4-FA (4-fluoroamphetamine) thread v.1.0 (Bluelight)]\n\n==References==\n{{Reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Entactogen]]\n[[Category:Amphetamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

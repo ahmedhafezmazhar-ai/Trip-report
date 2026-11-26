@@ -1,0 +1,170 @@
+{
+ "id": "psychonautwiki:13226",
+ "type": "substance",
+ "title": "8-Chlorotheophylline",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
+  "pageid": 13226,
+  "last_edited": "2024-06-16T08:32:25Z"
+ },
+ "categories": [
+  "Psychoactive substance",
+  "Stimulant",
+  "Stub",
+  "Substance",
+  "Xanthine"
+ ],
+ "substance_box_template": "SubstanceBox/8-Chlorotheophylline",
+ "substance_box": {
+  "names": {
+   "common": "8-CTP",
+   "substitutive": "1,3-dimethyl-8-chloroxanthine",
+   "systematic": "8-chloro-1,3-dimethyl-7H-purine-2,6-dione"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Xanthine"
+  },
+  "routes_of_administration": {},
+  "semantic_properties": {
+   "Psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Xanthine"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:8-Chlorotheophylline.svg",
+   "clean": "File:8-Chlorotheophylline.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "8-CTP",
+   "clean": "8-CTP"
+  },
+  "NameSubstitution": {
+   "raw": "1,3-dimethyl-8-chloroxanthine",
+   "clean": "1,3-dimethyl-8-chloroxanthine"
+  },
+  "NameSystematic": {
+   "raw": "8-chloro-1,3-dimethyl-7H-purine-2,6-dione",
+   "clean": "8-chloro-1,3-dimethyl-7H-purine-2,6-dione"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Xanthine]]",
+   "clean": "Xanthine"
+  }
+ },
+ "plain_text": "8-Chlorotheophylline (1,3-dimethyl-8-chloroxanthine or 8-CTP) is a stimulant drug of the xanthine class that is closely related to caffeine in both its chemical structure and effects. It is mainly used as a wakefulness-promoting agent found within dimenhydrinate, where it counteracts the drowsiness effects present with diphenhydramine. 8-Chlorotheophylline can cause heart problems in people who take large doses of dimenhydrinate as both of the active ingredients in the drug, Diphenhydramine, and 8-Chlorotheophylline together can cause severe tachycardia.\n\nSee also\n\n*Responsible use\n*Xanthine\n*Caffeine\n*Diphenhydramine\n\nExternal links\n\n*8-Chlorotheophylline (Wikipedia)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Xanthine",
+ "wikitext": "{{stub}}\n{{SummarySheet}}\n{{SubstanceBox/8-Chlorotheophylline}}\n\n'''8-Chlorotheophylline''' ('''1,3-dimethyl-8-chloroxanthine''' or '''8-CTP''') is a stimulant drug of the [[xanthine]] class that is closely related to [[caffeine]] in both its chemical structure and effects. It is mainly used as a [[wakefulness]]-promoting agent found within [[dimenhydrinate]], where it counteracts the [[sleepiness|drowsiness]] effects present with [[diphenhydramine]]. '''8-Chlorotheophylline''' can cause heart problems in people who take large doses of dimenhydrinate as both of the active ingredients in the drug, Diphenhydramine, and '''8-Chlorotheophylline''' together can cause severe tachycardia.\n\n<br />\n\n==See also==\n\n*[[Responsible use]]\n*[[Xanthine]]\n*[[Caffeine]]\n*[[Diphenhydramine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/8-Chlorotheophylline 8-Chlorotheophylline (Wikipedia)]\n\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Xanthine]]\n\n{{#set:Featured=true}}"
+}

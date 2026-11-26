@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10952",
+ "type": "substance-summary",
+ "title": "Pregabalin/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pregabalin/Summary",
+  "pageid": 10952,
+  "last_edited": "2015-11-13T11:35:48Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Pregabalin",
+ "plain_text": "",
+ "wikitext": "{{Summary|Pregabalin}}"
+}

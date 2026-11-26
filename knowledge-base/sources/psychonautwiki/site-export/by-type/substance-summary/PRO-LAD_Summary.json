@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10827",
+ "type": "substance-summary",
+ "title": "PRO-LAD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PRO-LAD/Summary",
+  "pageid": 10827,
+  "last_edited": "2015-11-11T07:30:01Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "PRO-LAD",
+ "plain_text": "",
+ "wikitext": "{{Summary|PRO-LAD}}"
+}

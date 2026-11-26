@@ -1,0 +1,288 @@
+{
+ "id": "psychonautwiki:130",
+ "type": "substance",
+ "title": "Ayahuasca smoothie",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca_smoothie",
+  "pageid": 130,
+  "last_edited": "2022-11-30T05:32:10Z"
+ },
+ "categories": [
+  "Ayahuasca recipes"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "This alternative simple Ayahuasca recipe is designed to create a preparation that replicates the effects of ayahuasca in a ready-to-drink smoothie. Compared to a traditional Ayahuasca brew, it has the advantages of being considerably simpler and quicker to prepare, while reducing the foul taste and nauseating effects it can produce by a significant margin. \n\nMaterials\n\nEquipment\n\n*Blender\n*Pestle and mortar\n*Sieve\n*Scales\n*Measuring cup\n\nIngredients\n\n*Calculated dosage of Syrian rue (2 - 5g)\n*Calculated dosage of Mimosa hostilis / Acacia confusa rootbark (2 - 6g)\n*1 - 2 large chopped bananas\n*250mL of milk\n*2 - 3 teaspoons of sugar\n*2 tablespoons of honey or syrup\n\nRecipe\n\n#Grind the Syrian rue into a fine powder with a blender or pestle and mortar.\n#Blend the root bark until it becomes a fine stringy consistency. Set it aside and clean the blender.\n#Run the root bark through a sieve to remove any powdered dust and ensure that only stringy rootbark remains. This is done because rootbark of a stringy consistency is relatively easy to drink down with milk while powdered dusty root bark has a consistency similar to that of drinking sand. \n#Blend the chopped banana. Add the milk, sugar and honey. Blend until it becomes a foamy thick consistency.\n#Blend the remaining smoothie with the root bark, This suspends the fibers and allows it to be blended more effectively.\n#Pour the mixture into a glass while making sure to scrape all remaining smoothie from your blender. Note: A by-product of blending the root bark into the smoothie will be an increased viscosity, You can counteract this by stirring extra milk into the glass until it becomes easily drinkable.\n#You should now have a large cup of psychedelic ayahuasca smoothie! Be sure to pre-load with the intended dose of Syrian rue 15 - 60 minutes to give it time to produce its MAO inhibiting effects before proceeding to consume. This can be done by packing it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n\nSee also\n\n*Tutorial index\n*Simple Ayahuasca recipes\n*Traditional Ayahuasca brew\n*Ayahuasca experience reports\n*Ayahuasca\n*DMT\n\nCategory:Ayahuasca recipes",
+ "wikitext": "{{headerpanel|{{disclaimer}}}}\n{{SubstanceBox/Ayahuasca}}\n<onlyinclude>\nThis alternative [[:category:Simple Ayahuasca recipes|simple Ayahuasca recipe]] is designed to create a preparation that replicates the effects of [[ayahuasca]] in a ready-to-drink smoothie. Compared to a [[traditional Ayahuasca brew]], it has the advantages of being considerably simpler and quicker to prepare, while reducing the foul taste and nauseating effects it can produce by a significant margin. \n\n===Materials===\n====Equipment====\n*Blender\n*Pestle and mortar\n*Sieve\n*Scales\n*Measuring cup\n\n====Ingredients====\n*Calculated dosage of [[Syrian rue]] (2 - 5g)\n*Calculated dosage of ''Mimosa hostilis'' / ''Acacia confusa'' rootbark (2 - 6g)\n*1 - 2 large chopped bananas\n*250mL of milk\n*2 - 3 teaspoons of sugar\n*2 tablespoons of honey or syrup\n\n===Recipe===\n#Grind the Syrian rue into a fine powder with a blender or pestle and mortar.\n#Blend the root bark until it becomes a fine stringy consistency. Set it aside and clean the blender.\n#Run the root bark through a sieve to remove any powdered dust and ensure that only stringy rootbark remains. This is done because rootbark of a stringy consistency is relatively easy to drink down with milk while powdered dusty root bark has a consistency similar to that of drinking sand. \n#Blend the chopped banana. Add the milk, sugar and honey. Blend until it becomes a foamy thick consistency.\n#Blend the remaining smoothie with the root bark, This suspends the fibers and allows it to be blended more effectively.\n#Pour the mixture into a glass while making sure to scrape all remaining smoothie from your blender. '''Note:''' A by-product of blending the root bark into the smoothie will be an increased viscosity, You can counteract this by stirring extra milk into the glass until it becomes easily drinkable.\n#You should now have a large cup of [[psychedelic]] ayahuasca smoothie! Be sure to pre-load with the intended dose of [[Syrian rue]] 15 - 60 minutes to give it time to produce its [[MAO]] inhibiting effects before proceeding to consume. This can be done by packing it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n</onlyinclude>\n==See also==\n*[[Tutorial index]]\n*[[:category:Simple Ayahuasca recipes|Simple Ayahuasca recipes]]\n*[[Traditional Ayahuasca brew]]\n*[[Experience index#Ayahuasca|Ayahuasca experience reports]]\n*[[Ayahuasca]]\n*[[DMT]]\n\n[[Category:Ayahuasca recipes]]"
+}

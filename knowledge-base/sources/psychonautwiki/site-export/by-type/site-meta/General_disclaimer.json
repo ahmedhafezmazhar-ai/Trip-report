@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:212",
+ "type": "site-meta",
+ "title": "General disclaimer",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/General_disclaimer",
+  "pageid": 212,
+  "last_edited": "2017-05-16T20:16:17Z"
+ },
+ "categories": [],
+ "plain_text": "",
+ "wikitext": "<onlyinclude>\n{{decree|type=protection|message=Any litigation against the PsychonautWiki (\"The Project\"), its owners, operators (\"The Affiliates\") and contributors (including their contributions and fictional \"experience reports\") is subject to German laws. By using The Project you agree to indemnify and hold harmless from all losses, liabilities, damages and expenses (including reasonable attorneys’ fees and costs) resulting from actions of The Affiliates or contributors, or any actions by third-parties caused by information, guides and fictional \"experience reports\" (texts depicting the context of a fictional real-life situation) published on this platform. To the extent permitted by applicable law, you agree to indemnify and hold harmless, and upon request from The Affiliates of The Project, defend, The Affiliates, The Project, and its contributors.}}\n</onlyinclude>"
+}

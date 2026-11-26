@@ -1,0 +1,394 @@
+{
+ "id": "psychonautwiki:9230",
+ "type": "substance",
+ "title": "Hot water extraction from dried Salvia Divinorum leaves",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Hot_water_extraction_from_dried_Salvia_Divinorum_leaves",
+  "pageid": 9230,
+  "last_edited": "2020-02-07T03:30:08Z"
+ },
+ "categories": [
+  "Extraction",
+  "Salvia extraction"
+ ],
+ "substance_box_template": "SubstanceBox/Salvia",
+ "substance_box": {
+  "names": {
+   "common": "Salvia, Salvia divinorum, Diviner's Sage, Ska María Pastora, Seer's Sage, Sally",
+   "substitutive": "Salvinorin A",
+   "systematic": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate"
+  },
+  "classes": {
+   "psychoactive": "Hallucinogen",
+   "chemical": "Salvinorin"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "15 - 90 minutes",
+    "onset": "15 - 60 seconds",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "15 - 60 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "30 - 90 minutes",
+    "onset": "10 - 20 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "30 - 120 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Salvia",
+    "Salvia divinorum",
+    "Diviner's Sage",
+    "Ska María Pastora",
+    "Seer's Sage",
+    "Sally"
+   ],
+   "psychoactive class": [
+    "Hallucinogen"
+   ],
+   "chemical class": [
+    "Salvinorin"
+   ],
+   "Smoked min total time": [
+    "15"
+   ],
+   "Smoked max total time": [
+    "90"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "15"
+   ],
+   "Smoked max onset time": [
+    "60"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min afterglow time": [
+    "15"
+   ],
+   "Smoked max afterglow time": [
+    "60"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Sublingual min total time": [
+    "30"
+   ],
+   "Sublingual max total time": [
+    "90"
+   ],
+   "Sublingual total time units": [
+    "minutes"
+   ],
+   "Sublingual min onset time": [
+    "10"
+   ],
+   "Sublingual max onset time": [
+    "20"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min afterglow time": [
+    "30"
+   ],
+   "Sublingual max afterglow time": [
+    "120"
+   ],
+   "Sublingual afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of salvinorin A",
+   "clean": "Molecular structure of salvinorin A"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Salvinorin A.svg",
+   "clean": "File:Salvinorin A.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Salvia]], [[common name::Salvia divinorum]], [[common name::Diviner's Sage]], [[common name::Ska María Pastora]], [[common name::Seer's Sage]], [[common name::Sally]]",
+   "clean": "Salvia, Salvia divinorum, Diviner's Sage, Ska María Pastora, Seer's Sage, Sally"
+  },
+  "NameSubstitution": {
+   "raw": "Salvinorin A",
+   "clean": "Salvinorin A"
+  },
+  "NameSystematic": {
+   "raw": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate",
+   "clean": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-benzo[f]isochromene-7-carboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Hallucinogen]]",
+   "clean": "Hallucinogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Salvinorin]]",
+   "clean": "Salvinorin"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''''The dosages for this substance differs between its [[Salvinorin_A#Forms_of_salvia_divinorum|varying forms]]. Do your research and adjust accordingly.'''''",
+   "clean": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::15]] - [[Smoked max total time::90]] [[Smoked total time units::minutes]]",
+   "clean": "15 - 90 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::15]] - [[Smoked max onset time::60]] [[Smoked onset time units::seconds]]",
+   "clean": "15 - 60 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::15]] - [[Smoked max afterglow time::60]] [[Smoked afterglow time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "'''''The dosages for this substance differs between its [[Salvinorin_A#Forms_of_salvia_divinorum|varying forms]]. Do your research and adjust accordingly.'''''",
+   "clean": "The dosages for this substance differs between its varying forms. Do your research and adjust accordingly."
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::30]] - [[Sublingual max total time::90]] [[Sublingual total time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::10]] - [[Sublingual max onset time::20]] [[Sublingual onset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::30]] - [[Sublingual max afterglow time::120]] [[Sublingual afterglow time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  }
+ },
+ "plain_text": "Items needed\n\n*4 grams dried Salvia Divinorum leaves\n*300ml tap water\n*5-8 teaspoons of sugar or honey\n*One small pan\n*One glass\n\nProcedure\n\n#The pan with the water should be put into the fire until it boils.\n#While boiling, the Salvia leaves should be added and then stirred. The water must continue boiling.\n#The boiling and stirring should continue for at least five minutes without interruption.\n#After that, the infusion should be left to simmer for any time longer than 15 minutes.\n#The leaves should now be strained out and the extraction poured into the glass.\n#If done properly, after adding the sugar the extraction is ready for consumption.\n\nConsumption\n\n*Salvinorin A is not active orally, so it must be absorbed by the oral mucosa to be effective.\n*The extraction must be sipped.\n*Each sip must stay in the mouth (specifically in the sublingual area) for 15 - 20 seconds.\n*If properly consumed, the first effects come in around 2 - 3 minutes.\n\nSee also\n\n*Responsible use\n*Salvinorin A\n*Salvia Divinorum\n\nCategory:Extraction\nCategory:Salvia extraction",
+ "wikitext": "{{SubstanceBox/Salvia}}\n{{Disclaimer}}\n===Items needed===\n\n*4 grams dried [[Salvia]] Divinorum leaves\n*300ml tap water\n*5-8 teaspoons of sugar or honey\n*One small pan\n*One glass\n\n===Procedure===\n#The pan with the water should be put into the fire until it boils.\n#While boiling, the Salvia leaves should be added and then stirred. The water must continue boiling.\n#The boiling and stirring should continue for at least five minutes without interruption.\n#After that, the infusion should be left to simmer for any time longer than 15 minutes.\n#The leaves should now be strained out and the extraction poured into the glass.\n#If done properly, after adding the sugar the extraction is ready for consumption.\n\n==Consumption==\n*Salvinorin A is not active orally, so it must be absorbed by the oral mucosa to be effective.\n*The extraction must be sipped.\n*Each sip must stay in the mouth (specifically in the sublingual area) for 15 - 20 seconds.\n*If properly consumed, the first effects come in around 2 - 3 minutes.\n\n==See also==\n*[[Responsible use]]\n*[[Salvinorin A]]\n*[[Salvia Divinorum]]\n\n[[Category:Extraction]]\n[[Category:Salvia extraction]]"
+}

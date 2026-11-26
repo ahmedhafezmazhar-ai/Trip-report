@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11981",
+ "type": "substance-summary",
+ "title": "Armodafinil/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Armodafinil/Summary",
+  "pageid": 11981,
+  "last_edited": "2016-05-26T19:47:15Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Armodafinil",
+ "plain_text": "",
+ "wikitext": "{{Summary|Armodafinil}}"
+}

@@ -1,0 +1,294 @@
+{
+ "id": "psychonautwiki:34",
+ "type": "substance",
+ "title": "Ayahuasca",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca",
+  "pageid": 34,
+  "last_edited": "2025-05-19T00:46:20Z"
+ },
+ "categories": [
+  "CS1 English-language sources (en)",
+  "CS1 maint: Extra text",
+  "Entheogen",
+  "Hallucinogen",
+  "MAOI",
+  "Preparation",
+  "Psychedelic"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "Ayahuasca (pronounced /eye-uh-WAHS-kuh/ and also known as Yagé) is an umbrella term that refers to a wide variety of traditional and modern brews and infusions of natural plant sources that produce powerful psychoactive or hallucinogenic effects. Of these, it most commonly consists of a DMT-containing plant source in combination with one that contains an MAOI or RIMA (typically sources like B. caapi vine or syrian rue) to produce uniquely potent, sometimes medicinal, psychedelic effects. \n\nThe co-consumption of an MAOI agent is necessary for the combination to work, as the DMT molecule (which is a monoamine closely related to serotonin) is rendered almost entirely inactive when digested by itself due to the presence of  monoamine oxidase enzymes in the stomach, which rapidly degrades it.\n\nAyahuasca is used as a traditional spiritual medicine in ceremonies among the Indigenous peoples of Amazonian Peru, many of whom say that they received the instructions in its use directly from the plants and plant spirits themselves. Ayahuasca was first described outside of Indigenous communities in the early 1950s by Harvard ethnobotanist Richard Evans Schultes, who became aware of the Native communities who use it for divinatory and healing purposes.\n\nAs is the case with psychedelics in general, ayahuasca is not considered to be dependence-forming or addictive by the research and medical community. Nevertheless, unpredictable adverse reactions such as anxiety, paranoia, delusions and psychotic breaks can still always occur, particularly among those predisposed to psychiatric disorders. While these negative reactions or \"bad trips\" can often be attributed to factors like the user's inexperience or improper preparation of their set and setting, they have been known to happen spontaneously among even the most experienced of users as well. This is why despite its scientifically-backed reputation for possessing both negligible-to-no physical and neurotoxicity, it is still highly advised to approach this powerful and unpredictable hallucinogenic substance with the proper amount of precaution, and harm reduction practices if one chooses to use it.\n\nHistory and culture\n\nA 1000-year-old collection of drug paraphernalia found in a rock shelter in Bolivia features traces of five psychoactive chemicals, including cocaine and components of ayahuasca.\n\nAyahuasca ceremonies\n\nThere have been several documented cases of avoidable deaths caused by frauds pretending to be shamans during \"traditional\" ayahuasca ceremonies. The ingredient known to cause problems is known specifically as brugmansia, which can cause issues when co-administered with an MAOI. An effective ayahuasca brew does not have to be more complicated than a suitable source of DMT (such as mimosa or acacia) and a reversible inhibitor of monoamine oxidase A (RIMA or MAOI). Using other ingredients along with the ayahuasca can potentially be dangerous; any potential interactions should be carefully researched before ingestion.\n\nAnother concern of ayahuasca ceremonies is the culture of mysticism and pseudoscience produced from centuries of mythological ritual, leading to a bias following the delusion of a single cultural narrative. There is an irrational belief that ayahuasca should only to be used in the Amazon rainforest in the presence of a shaman. This belief leads many to shun the idea of taking ayahuasca outside of this potentially toxic environment for no logical reason.\n\nPharmacology\n\nAyahuasca's psychedelic effects have been confirmed to come from its efficacy at the 5-HT2A receptor as a partial agonist. However, the role of these interactions and how they result in the psychedelic experience continues to remain an object of scientific eludication.\n\nHarmala alkaloids are classed as MAO-inhibiting beta-carbolines. The three most studied harmala alkaloids in the B. caapi vine are harmine, harmaline and tetrahydroharmine. Harmine and harmaline are selective and reversible inhibitors of monoamine oxidase A (MAO-A), while tetrahydroharmine is a weak serotonin reuptake inhibitor (SRI).\n\nThis inhibition of MAO-A allows DMT to diffuse unmetabolized past the membranes in the stomach and small intestine, eventually crossing the blood–brain barrier (which, by itself, requires no MAO-A inhibition) to activate receptor sites in the brain. Without RIMAs or MAOIs of MAO-A, DMT would be oxidized (and thus rendered biologically inactive) by monoamine oxidase enzymes in the digestive tract.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Ayahuasca\n\nNatural plant sources\n\n*Mimosa hostilis root bark\n*Acacia confusa root bark\n*Syrian rue seeds\n*Banisteriopsis caapi vine\n\nOther\n\n*Psychotria viridis leaves\n*Diplopterys cabrerana leaves\n\nPreparation\n\nTraditional ayahuasca is made by brewing the MAOI-containing Banisteriopsis caapi vine with a DMT-containing plant, such as Psychotria viridis. Pharmahuasca refers to a similar combination that uses a pharmaceutical MAOI instead of a plant. There are two types of MAOIs, reversible and irreversible. It is important to note that irreversible MAOIs remain active for two weeks rather than a matter of hours. This is particularly noteworthy because in addition to drug interactions, there is co-interaction with tyramine-rich foods and potential to cause a hypertensive crisis. For this reason, it is strongly advised to use a reversible inhibitor of monoamine oxidase A, or RIMA, rather than an irreversible MAOI. In addition, reversible MAOIs are pharmacologically closer to the Harmala alkaloid used in traditional ayahuasca.\n\nChanga\n\nChanga (pronounced /tʃɑːngɑː/) is a DMT-infused smoking blend. Typically, extracts from DMT-containing plants are combined with a blend of different herbs and ayahuasca vine and/or leaf to create a mix that is 20–50% DMT, akin to a smokeable ayahuasca.\n\nPharmahuasca\n\nFor pharmahuasca, 50&nbsp;mg N,N-DMT and 100&nbsp;mg harmaline is usually the recommended dosage per person. However, combinations of 50&nbsp;mg harmaline, 50&nbsp;mg harmine, and 50&nbsp;mg, N,N-DMT have been tested with success. As a rule, the fewer the β-carbolines, the less nausea there is; the more DMT, the more spectacular the visions. The constituents are put into separate gelatin capsules. The capsules with harmaline/harmine are swallowed first and then the capsule containing the DMT is taken 15 to 20 minutes later. The purely synthetic MAO inhibitor isocarboxazid (Marplan) is suitable in place of harmaline and harmine, although caution should be taken as this is an irreversible MAOI, marking several drug-drug and drug-food interactions.\n\nRecipes and preparation methods\n\n*Ayahuasca brew\n\nPotential therapeutic applications\n\nPotential antidepressant effects\n\nA 2015 preliminary report has found a significant reduction of up to 82% in depressive scores following ayahuasca administration. The report concludes that \"these results suggest that [ayahuasca] has fast-acting anxiolytic and antidepressant effects in patients with a depressive disorder.\" Its acute and fast-acting effects show promise for the treatment of depression as common antidepressants, such as fluoxetine (Prozac), take weeks to show significant effects and are simply ineffective for many users.\n\nA 2016 placebo randomized controlled trial evaluated the rapid antidepressant effects of the psychedelic ayahuasca in treatment-resistant depression with positive outcome.\n\nThe mechanism by which ayahuasca produces antidepressant effects is not well known, but studies have hypothesized that the MAO-inhibitor and weak serotonin reuptake inhibitor effects of ayahuasca alkaloids may be of relevance. Research on the antidepressant potential of psilocin suggests that the subjective effects of 5-HT2A agonism also contribute to antidepressant effects, but further research is required to understand the effects of psychedelic drugs on depressive disorders.\n\nToxicity and harm potential\n\nAyahuasca is non-addictive, is not known to cause brain damage, and has extremely low toxicity relative to dose. Similar to other psychedelic drugs, there are relatively few physical side effects associated with ayahuasca. Various studies have shown that it presents no negative cognitive, psychiatric or toxic physical consequences of any sort when taken in reasonable doses and a careful context.\n\nLethal dosage\n\nThe only available study that tried to estimate the lethal dose (LD50) of ayahuasca in rats failed to do so due to the enormous amount of brew necessary for the procedure. The authors estimated, however, that ayahuasca's LD50 is around 50 times a regular dose. This speaks for the physical safety of ayahuasca usage.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAyahuasca is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nSimilar to DMT, tolerance to the effects of ayahuasca does not build up with repeated usage, and this compound can, therefore, be used repeatedly to any extent. Ayahuasca does not present a cross-tolerance with other psychedelics, meaning that after the consumption of ayahuasca psychedelics will not have a reduced effect.\n\nDangerous interactions\n\nAs a result of its MAOI effects, ayahuasca is more likely to induce serotonin syndrome or general neurotransmitter overload (especially at high dosages) than other serotonergic psychedelics. This makes it dangerous to combine it with other MAOIs, stimulants and certain substances which releases neurotransmitters such as serotonin or dopamine. These substances include but are not limited to:\n{|\n|-\n|\n*5-MeO-MiPT\n*2C-T-7\n*AMT\n*Harmala alkaloids\n*2-AI\n*2-FMA\n*3-FPM\n*4-FA\n*A-PVP\n*Amphetamine\n*Cocaine\n*Ethylphenidate\n||\n*N-Methylbisfluoromodafinil\n*Isopropylphenidate\n*MDAI\n*MDMA\n*Mephedrone\n*Methamphetamine\n*Methiopropamine\n*Methylone\n*Methylphenidate\n*Modafinil\n*Nicotine\n*NM-2-AI\n*Noopept\n|}\n\nLegal status\n\nInternationally, DMT is a Schedule I drug under the Convention on Psychotropic Substances. The Commentary on the Convention on Psychotropic Substances notes, however, that the plants containing it are not subject to international control:\n\n\"The cultivation of plants from which psychotropic substances are obtained is not controlled by the Vienna Convention. . . . Neither the crown (fruit, mescal button) of the Peyote cactus nor the roots of the plant Mimosa hostilis nor Psilocybe mushrooms themselves are included in Schedule 1, but only their respective principals, mescaline, DMT, and psilocin.\"\n\n\"No plants (natural materials) containing DMT are at present controlled under the 1971 Convention on Psychotropic Substances. Consequently, preparations (e.g. decoctions) made of these plants, including ayahuasca are not under international control and, therefore, not subject to any of the articles of the 1971 Convention. -- International Narcotics Control Board (INCB), United Nations\"\n\nBy country\n\n*Brazil: The religious (but not therapeutic or recreational) use of ayahuasca is legal.\n*Peru: The traditional use of ayahuasca for therapeutic purposes (\"vegetalismo\") is legal.\n*United States:\n**Louisiana: Except for ornamental purposes, growing, selling or possessing of these ayahuasca plants are prohibited by Louisiana State Act 159:\n***Anadenanthera colubrina\n***Banisteriopsis spp.\n***Mimosa hostilis\n***Peganum harmala\n***Tetrapteris methystica\n\nSee also\n\n*Responsible use\n*“Guide to Safe Ayahuasca Curanderismo” by David Hedlund\n*Ayahuasca recipes\n*Entheogens\n*Psychedelics\n*Harmala alkaloids\n*DMT\n*Psilocybin\n\nExternal links\n\n*Ayahuasca (Wikipedia)\n*Ayahuasca (Erowid)\n*Ayahusaca (Drugs-Forum)\n\nLiterature\n\n* (gratis HTML version)\n\nDiscussion\n\n*The Big & Dandy Oral DMT thread (Ayahuasca/Pharmahuasca) (Bluelight)\n\nReferences\n\nCategory:Preparation\nCategory:Entheogen\nCategory:Hallucinogen\nCategory:Psychedelic\nCategory:MAOI",
+ "wikitext": "{{SubstanceBox/Ayahuasca}}\n{{SummarySheet}}\n'''Ayahuasca''' (pronounced /eye-uh-WAHS-kuh/ and also known as '''Yagé''') is an umbrella term that refers to a wide variety of traditional and modern brews and infusions of natural plant sources that produce powerful psychoactive or [[hallucinogenic]] effects. Of these, it most commonly consists of a [[DMT]]-containing plant source in combination with one that contains an [[MAOI]] or [[RIMA]] (typically sources like [[Harmala_alkaloids#Banisteriopsis_caapi|B. caapi vine]] or [[Harmala_alkaloids#Peganum_harmala_.28Syrian_Rue.29|syrian rue]]) to produce uniquely potent, sometimes medicinal, [[psychoactive class::psychedelic]] effects. \n\nThe co-consumption of an MAOI agent is necessary for the combination to work, as the DMT molecule (which is a [[monoamine]] closely related to [[serotonin]]) is rendered almost entirely inactive when digested by itself due to the presence of  [[monoamine]] oxidase enzymes in the stomach, which rapidly degrades it.<ref>{{cite journal | vauthors=((Mhaske, S. B.)), ((Argade, N. P.)) | journal=Tetrahedron | title=The chemistry of recently isolated naturally occurring quinazolinone alkaloids | volume=62 | issue=42 | pages=9787–9826 | date=16 October 2006 | url=https://www.sciencedirect.com/science/article/pii/S0040402006012373 | issn=0040-4020 | doi=10.1016/j.tet.2006.07.098}}</ref>\n\nAyahuasca is used as a traditional spiritual medicine in ceremonies among the Indigenous peoples of Amazonian Peru, many of whom say that they received the instructions in its use directly from the plants and plant spirits themselves. Ayahuasca was first described outside of Indigenous communities in the early 1950s by Harvard ethnobotanist Richard Evans Schultes, who became aware of the Native communities who use it for divinatory and healing purposes.\n\nAs is the case with psychedelics in general, ayahuasca is not considered to be dependence-forming or addictive by the research and medical community.<ref>{{cite journal | vauthors=((Lüscher, C.)), ((Ungless, M. A.)) | journal=PLoS Medicine | title=The Mechanistic Classification of Addictive Drugs | volume=3 | issue=11 | pages=e437 | date=14 November 2006 | url=https://dx.plos.org/10.1371/journal.pmed.0030437 | issn=1549-1676 | doi=10.1371/journal.pmed.0030437}}</ref> Nevertheless, unpredictable adverse reactions such as [[anxiety]], [[paranoia]], [[delusions]] and [[psychosis|psychotic break]]s can still always occur, particularly among those predisposed to psychiatric disorders.<ref>{{cite journal | vauthors=((Strassman, R. J.)) | journal=The Journal of Nervous and Mental Disease | title=ADVERSE REACTIONS TO PSYCHEDELIC DRUGS. A REVIEW OF THE LITERATURE: | volume=172 | issue=10 | pages=577–595 | date= October 1984 | url=http://journals.lww.com/00005053-198410000-00001 | issn=0022-3018 | doi=10.1097/00005053-198410000-00001}}</ref> While these negative reactions or [[bad trip|\"bad trips\"]] can often be attributed to factors like the user's inexperience or improper preparation of their [[set and setting]], they have been known to happen spontaneously among even the most experienced of users as well. This is why despite its scientifically-backed reputation for possessing both negligible-to-no physical and neurotoxicity,<ref>{{cite journal | vauthors=((Nichols, D. E.)) | veditors=((Barker, E. L.)) | journal=Pharmacological Reviews | title=Psychedelics | volume=68 | issue=2 | pages=264–355 | date= April 2016 | url=http://pharmrev.aspetjournals.org/lookup/doi/10.1124/pr.115.011478 | issn=0031-6997 | doi=10.1124/pr.115.011478}}</ref> it is still highly advised to approach this powerful and unpredictable [[hallucinogenic]] substance with the proper amount of precaution, and [[Harm reduction#Hallucinogens|harm reduction practices]] if one chooses to use it.\n\n==History and culture==\n{{HistoryStub}}\nA 1000-year-old collection of drug paraphernalia found in a rock shelter in Bolivia features traces of five psychoactive chemicals, including [[cocaine]] and components of [[ayahuasca]].<ref>{{cite journal | vauthors=((Miller, M. J.)), ((Albarracin-Jordan, J.)), ((Moore, C.)), ((Capriles, J. M.)) | journal=Proceedings of the National Academy of Sciences | title=Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America | volume=116 | issue=23 | pages=11207–11212 | date=4 June 2019 | url=https://pnas.org/doi/full/10.1073/pnas.1902174116 | issn=0027-8424 | doi=10.1073/pnas.1902174116}}</ref>\n\n===Ayahuasca ceremonies===\nThere have been several documented cases of avoidable deaths caused by frauds pretending to be shamans during \"traditional\" ayahuasca ceremonies.<ref>{{Citation | vauthors=((McVeigh, T.)) | year=2014 | title=British backpacker dies after taking hallucinogenic brew in Colombia | url=https://www.theguardian.com/uk-news/2014/apr/27/british-backpacker-dies-hallucinogenic-drug-colombia}}</ref><ref>{{Citation | title=Kiwi traveller dies after Amazon drug ritual | url=https://www.nzherald.co.nz/nz/kiwi-traveller-in-peru-dies-after-amazon-drug-ritual/ZSFQL7B7OPI5VZBRY6TCRAHG7I/}}</ref> The ingredient known to cause problems is known specifically as brugmansia, which can cause issues when co-administered with an MAOI. An effective ayahuasca brew does not have to be more complicated than a suitable source of [[DMT]] (such as mimosa or acacia) and a reversible inhibitor of monoamine oxidase A ([[RIMA]] or [[MAOI]]). Using other ingredients along with the ayahuasca can potentially be dangerous; any potential interactions should be carefully researched before ingestion.\n\nAnother concern of ayahuasca ceremonies is the culture of mysticism and pseudoscience produced from centuries of mythological ritual, leading to a bias following the delusion of a single cultural narrative. There is an irrational belief that ayahuasca should only to be used in the Amazon rainforest in the presence of a shaman. This belief leads many to shun the idea of taking ayahuasca outside of this potentially toxic environment for no logical reason.<ref>{{Citation | vauthors=((Frontier, P.)) | year=2014 | title=Are Entities and Plant Spirits Real? | url=http://psychedelicfrontier.com/entities-plant-spirits-skeptics-guide-tripping/}}</ref>\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nAyahuasca's [[psychedelic]] effects have been confirmed to come from its efficacy at the [[Serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] as a [[Agonist#Agonists|partial agonist]].<ref>{{Citation | year=2016 | title=The Visual Effects of Ayahuasca in Humans: The First Study to Employ a Ketanserin Blockade | url=https://www.beckleyfoundation.org/2016/03/30/the-visual-effects-of-ayahuasca-in-humans-the-first-study-to-employ-a-ketanserin-blockade/}}</ref> However, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain an object of scientific eludication.\n\n[[Harmala alkaloids]] are classed as MAO-inhibiting [[beta-Carbolines|''beta''-carboline]]s. The three most studied harmala alkaloids in the ''B. caapi'' vine are [[harmine]], [[harmaline]] and [[tetrahydroharmine]]. [[Harmine]] and [[harmaline]] are [[MAOI|selective]] and [[RIMA|reversible]] inhibitors of monoamine oxidase A (MAO-A), while [[tetrahydroharmine]] is a weak [[serotonin]] [[reuptake inhibitor]] (SRI).<ref>{{cite journal | vauthors=((Callaway, J. C.)), ((McKenna, D. J.)), ((Grob, C. S.)), ((Brito, G. S.)), ((Raymon, L. P.)), ((Poland, R. E.)), ((Andrade, E. N.)), ((Andrade, E. O.)), ((Mash, D. C.)) | journal=Journal of Ethnopharmacology | title=Pharmacokinetics of Hoasca alkaloids in healthy humans | volume=65 | issue=3 | pages=243–256 | date=1 June 1999 | url=https://www.sciencedirect.com/science/article/pii/S0378874198001688 | issn=0378-8741 | doi=10.1016/S0378-8741(98)00168-8}}</ref>\n\nThis inhibition of MAO-A allows [[DMT]] to diffuse unmetabolized past the membranes in the stomach and small intestine, eventually crossing the blood–brain barrier (which, by itself, requires no MAO-A inhibition) to activate receptor sites in the brain. Without RIMAs or MAOIs of MAO-A, DMT would be oxidized (and thus rendered biologically inactive) by monoamine oxidase enzymes in the digestive tract.<ref>{{cite journal | vauthors=((Riba, J.)) | title=Human pharmacology of ayahuasca | date= 2003 | url=https://ddd.uab.cat/pub/tesis/2003/tdx-0701104-165104/jr1de6.pdf}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' or '''[[Effect::Sedation]]''' - In terms of its effects on the physical energy levels of the user, ayahuasca is entirely setting dependent. For example, when taken in social settings with fast-paced music or during physically demanding situations (such as running, walking, climbing or dancing) it becomes stimulating and energetic. In contrast, however, when taken in peaceful environments (such as darkened rooms with comfortable seating) it can become relaxing, peaceful and sedating.\n**'''[[Effect::Perception of bodily heaviness]]'''\n** '''[[Effect::Perception of bodily lightness]]''' \n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of ayahuasca can be described as a pleasurable, warm, soft and all-encompassing glow. For some, it is manifested spontaneously at different, unpredictable points throughout the trip, but for others, it maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n**'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Nausea]]''' - In its traditional form, ayahuasca is famous for its purgative properties which can include nausea, vomiting, diarrhea and cold flashes. This effect is known as \"la purga\" or \"the purge\" and its presence is completely avoidable and dependent on the specific form or [[Preparation|recipe]] of ayahuasca being used. The intense vomiting and occasional [[Effect::Diarrhea|diarrhea]] it induces is often considered by many [[shamans]] and experienced users of ayahuasca to be an essential part of the experience as it represents a speculative healing process and the release of negative emotions built up over the course of one's life.<ref>{{cite book | vauthors=((Campos, D. J.)), ((Roman, A.)), ((Overton, G.)) | date= 2011 | title=The shaman & ayahuasca: journeys to sacred realms | publisher=Divine Arts | isbn=9781611250039}}}}</ref> Studies have demonstrated a certain truth behind this speculation and shown that the purging process can clear the body of worms and other tropical parasites.<ref>{{cite journal | vauthors=((Andritzky, W.)) | journal=Journal of Psychoactive Drugs | title=Sociopsychotherapeutic Functions of Ayahuasca Healing in Amazonia | volume=21 | issue=1 | pages=77–89 | date=1 January 1989 | url=https://doi.org/10.1080/02791072.1989.10472145 | issn=0279-1072 | doi=10.1080/02791072.1989.10472145}}</ref> [[Harmala alkaloids]] themselves have been shown to expel parasitic worms from the body by either stunning or killing them.<ref>{{cite journal | vauthors=((Hassan, I.)) | journal=Economic Botany | title=Some folk uses ofPeganum harmala in India and Pakistan | volume=21 | issue=3 | pages=284–284 | date=1 July 1967 | url=https://doi.org/10.1007/BF02860378 | issn=1874-9364 | doi=10.1007/BF02860378}}</ref> Thus, this action is twofold; a direct action on the parasites by these [[harmala alkaloids]] (particularly [[harmine]] in ayahuasca) works to kill the parasites and the parasites are expelled through the increased intestinal motility that is caused by these alkaloids. It is worth noting that the overall cognitive positivity or negativity of an ayahuasca trip in psychologically balanced individuals depends greatly on how nauseating or purgative the chosen method of preparation is. For example, [[paranoia]], [[anxiety]], [[delirium]] and a difficulty stringing thoughts together often immediately manifest themselves during uncomfortable states of nausea for the inexperienced, but remain absent when purge-free methods of preparation are used.\n*'''[[Effect::Changes in felt bodily form]]'''\n*'''[[Effect::Muscle relaxation]]''' or '''[[Effect::Muscle tension]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Sudden loss of consciousness when walking]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Diarrhea]]'''\n*'''[[Effect::Pupil dilation]]'''\n\n}}\n{{effects/visual|\n====[[Visual effects - Psychedelics#Visual Enhancements|Enhancements]]====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Magnification]]'''\n\n====[[Visual effects - Psychedelics#Visual Distortions and Alterations|Distortions]]====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Flowing|flowing]], [[Drifting#Breathing|breathing]] and [[Drifting#morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion and static in appearance. \n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Colour tinting]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry that is present throughout this trip can be described as more similar in appearance to that of [[psilocybin mushrooms]] than [[LSD]] or [[mescaline]]. It can be comprehensively described through its [[Geometry#Variations|variations]] as intricate in complexity, abstract in form, organic in feel, structured in organization, multicoloured in scheme, glossy in shading, equal in sharp and blurred edges, large in size, fast in speed, smooth in motion, equal in rounded and angular corners, non-immersive in-depth and progressive in intensity. At higher doses, it is significantly more likely to result in states of [[Effect::8B Geometry|level 8B]] visual geometry over [[8A Geometry|level 8A]].\n\n====Hallucinatory states====\nAyahuasca and other forms of [[DMT]] produce a full range of high-level hallucinatory states in a fashion that is more consistent and reproducible than that of any other commonly used psychedelic. These effects include:\n\n*'''[[Effect::Machinescapes]]''' - Although common, this component is generally less consistent and reproducible when compared to [[DMT]], [[psilocybin]] and [[Salvia Divinorum]]. \n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - This effect is very consistent in dark environments at appropriately high dosages. They can be comprehensively described through their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, autonomous in controllability, [[Geometry|geometry]]-based in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical, or transcendental nature in their overall theme.\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - These are more common within dark environments and can be comprehensively described through their [[External_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, autonomous in controllability, geometry-based in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of ayahuasca are described by many as extremely sober and clear-headed in style when compared to other commonly used psychedelics such as [[LSD]] or [[psilocin]]. This is despite the fact that it contains a large number of psychedelic typical and unique cognitive effects. \n\nThe most prominent of these typical effects include:\n\n*'''[[Effect::Mindfulness]]''' - This is an effect which is unique to ayahuasca due to how consistently it is manifested and the way in which it can sustain itself for days, weeks or even months after a single high dose experience. This is an extremely beneficial and therapeutic effect for personal psychological health. In contrast, other more commonly used psychedelics such as [[LSD]] and [[mescaline]] tend to only induce this effect in an exclusive, spontaneous and temporary form.\n*'''[[Effect::Addiction suppression]]'''\n*'''[[Effect::Language suppression]]''' - This effect can be described as a perceived inability or general unwillingness to talk aloud despite feeling perfectly capable of formulating coherent thoughts within one's internal narrative. It is much more common among inexperienced users.\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Catharsis]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Autonomous voice communication]]'''\n*'''[[Effect::Ego replacement]]''' \n*'''[[Effect::Personality regression]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This effect differs from MDMA and other [[entactogens]] in that it isn't as central to the experience, feels more natural and less forced, and is experienced at a less consistent rate. The sociability enhancement in particular only occurs sometimes in certain settings.\n*'''[[Effect::Euthymia]]''' - This effect manifests itself acutely for all classical psychedelics when one to three doses are combined with a psychotherapy treatment program. When comparing meta analyses, psychedelic psychotherapy greatly outperforms \"gold standard\" treatments for several mental health problems.\n*'''[[Effect::Perceived exposure to inner mechanics of consciousness]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Enhancement and suppression cycles]]'''\n*'''[[Effect::Personal meaning enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Multiple thought streams]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought organization]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/multisensory|\n*'''[[Effect::Synaesthesia]]'''\n*'''[[Effect::Dosage independent intensity]]'''\n\n}}\n{{effects/transpersonal|\n\nAnecdotally, these components are generally considered to be most consistent with the [[Naturally occurring sources|naturally-occurring]] [[entheogen|entheogenic]] [[tryptamine|tryptamines]] such as ayahuasca, [[ibogaine]] and [[psilocybin]]. They are listed below as follows:\n\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Feelings of self-design]]'''\n*'''[[Effect::Feelings of eternalism]]'''\n*'''[[Effect::Feelings of interdependent opposites]]'''\n*'''[[Effect::Unity and interconnectedness]]''' - This is an effect which is unique within ayahuasca due to how consistently it is manifested as an accompanying effect alongside of [[memory suppression|ego suppression and ego death]]. In contrast, other more commonly used psychedelics such as [[LSD]] and [[psilocin]] tend to induce this effect unreliably by comparison.\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Ayahuasca]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Ayahuasca.shtml Erowid Experience Vaults: Ayahuasca]\n\n==Natural plant sources==\n\n*[[DMT#Mimosa hostilis root bark|''Mimosa hostilis'' root bark]]\n*[[DMT#Acacia confusa root bark|''Acacia confusa'' root bark]]\n*[[Harmala alkaloids#Peganum harmala (Syrian Rue)|''Syrian rue'' seeds]]\n*[[Harmala alkaloids#Banisteriopsis caapi|''Banisteriopsis caapi'' vine]]\n\n===Other===\n\n*[[Psychotria viridis (botany)|''Psychotria viridis'' leaves]]\n*[[Diplopterys cabrerana (botany)|''Diplopterys cabrerana'' leaves]]\n\n==Preparation==\nTraditional ayahuasca is made by brewing the MAOI-containing ''Banisteriopsis caapi'' vine with a DMT-containing plant, such as ''Psychotria viridis''. Pharmahuasca refers to a similar combination that uses a pharmaceutical MAOI instead of a plant. There are two types of MAOIs, reversible and irreversible. It is important to note that irreversible MAOIs remain active for two weeks rather than a matter of hours. This is particularly noteworthy because in addition to drug interactions, there is co-interaction with tyramine-rich foods and potential to cause a hypertensive crisis. For this reason, it is strongly advised to use a reversible inhibitor of monoamine oxidase A, or [[RIMA]], rather than an irreversible [[MAOI]]. In addition, reversible MAOIs are pharmacologically closer to the [[Harmala alkaloid]] used in traditional ayahuasca.\n\n===Changa===\n{{main|Changa}}\n\nChanga (pronounced /tʃɑːngɑː/) is a DMT-infused smoking blend. Typically, extracts from DMT-containing plants are combined with a blend of different herbs and ayahuasca vine and/or leaf to create a mix that is 20–50% DMT, akin to a smokeable ayahuasca.\n\n===Pharmahuasca===\nFor pharmahuasca, 50&nbsp;mg N,N-DMT and 100&nbsp;mg harmaline is usually the recommended dosage per person. However, combinations of 50&nbsp;mg harmaline, 50&nbsp;mg harmine, and 50&nbsp;mg, N,N-DMT have been tested with success. As a rule, the fewer the β-carbolines, the less nausea there is; the more DMT, the more spectacular the visions. The constituents are put into separate gelatin capsules. The capsules with harmaline/harmine are swallowed first and then the capsule containing the DMT is taken 15 to 20 minutes later. The purely synthetic MAO inhibitor [[isocarboxazid]] (Marplan) is suitable in place of harmaline and harmine, although caution should be taken as this is an irreversible [[MAOI]], marking several drug-drug and drug-food interactions.<ref>{{cite book | vauthors=((Ott, J.)) | date= 1994 | title=Ayahuasca analogues: Pangæan entheogens | publisher=Natural Products Co | edition=1st ed. | isbn=9780961423445}}</ref>\n\n===Recipes and preparation methods===\n\n*[[Ayahuasca brew]]\n\n==Potential therapeutic applications==\n===Potential antidepressant effects===\nA 2015 preliminary report has found a significant reduction of up to 82% in depressive scores following ayahuasca administration.<ref>{{cite journal | vauthors=((Osório, F. de L.)), ((Sanches, R. F.)), ((Macedo, L. R.)), ((Santos, R. G. dos)), ((Maia-de-Oliveira, J. P.)), ((Wichert-Ana, L.)), ((Araujo, D. B. de)), ((Riba, J.)), ((Crippa, J. A.)), ((Hallak, J. E.)) | journal=Brazilian Journal of Psychiatry | title=Antidepressant effects of a single dose of ayahuasca in patients with recurrent depression: a preliminary report | volume=37 | pages=13–20 | date= March 2015 | url=http://www.scielo.br/j/rbp/a/ghG6Q7cLTgSRF6JxJjj6LMS/?lang=en | issn=1516-4446 | doi=10.1590/1516-4446-2014-1496}}</ref> The report concludes that \"these results suggest that [ayahuasca] has fast-acting anxiolytic and antidepressant effects in patients with a depressive disorder.\" Its acute and fast-acting effects show promise for the treatment of depression as common antidepressants, such as fluoxetine (Prozac), take weeks to show significant effects and are simply ineffective for many users.\n\nA 2016 placebo randomized controlled trial evaluated the rapid antidepressant effects of the psychedelic ayahuasca in treatment-resistant depression with positive outcome.<ref>{{cite journal |last1=Palhano-Fontes |first1=F |last2=Barreto |first2=D |last3=Onias |first3=H |last4=Andrade |first4=KC |last5=Novaes |first5=MM |last6=Pessoa |first6=JA |last7=Mota-Rolim |first7=SA |last8=Osório |first8=FL |last9=Sanches |first9=R |last10=Dos Santos |first10=RG |last11=Tófoli |first11=LF |last12=de Oliveira Silveira |first12=G |last13=Yonamine |first13=M |last14=Riba |first14=J |last15=Santos |first15=FR |last16=Silva-Junior |first16=AA |last17=Alchieri |first17=JC |last18=Galvão-Coelho |first18=NL |last19=Lobão-Soares |first19=B |last20=Hallak |first20=JEC |last21=Arcoverde |first21=E |last22=Maia-de-Oliveira |first22=JP |last23=Araújo |first23=DB |title=Rapid antidepressant effects of the psychedelic ayahuasca in treatment-resistant depression: a randomized placebo-controlled trial. |journal=Psychological medicine |date=March 2019 |volume=49 |issue=4 |pages=655-663 |doi=10.1017/S0033291718001356 |pmid=29903051}}</ref><ref>{{cite web |title=Antidepressant Effects of Ayahuasca: a Randomized Placebo Controlled Trial in Treatment Resistant Depression - Full Text View - ClinicalTrials.gov |url=https://clinicaltrials.gov/ct2/show/NCT02914769 |website=clinicaltrials.gov |language=en}}</ref>\n\nThe mechanism by which ayahuasca produces antidepressant effects is not well known, but studies have hypothesized that the MAO-inhibitor and weak [[serotonin]] [[reuptake inhibitor]] effects of ayahuasca alkaloids may be of relevance. Research on the antidepressant potential of [[psilocin]] suggests that the subjective effects of 5-HT<sub>2A</sub> agonism also contribute to antidepressant effects, but further research is required to understand the effects of psychedelic drugs on depressive disorders.\n\n==Toxicity and harm potential==\n{{Further|Responsible use#Hallucinogens}}\nAyahuasca is non-addictive, is not known to cause brain damage, and has extremely low toxicity relative to dose. Similar to other [[psychedelic]] drugs, there are relatively few physical side effects associated with ayahuasca. Various studies have shown that it presents no negative cognitive, psychiatric or toxic physical consequences of any sort when taken in reasonable doses and a careful context.<ref>{{cite journal | vauthors=((Santos, R. G. dos)) | journal=Journal of Psychoactive Drugs | title=Safety and side effects of ayahuasca in humans--an overview focusing on developmental toxicology | volume=45 | issue=1 | pages=68–78 | date= March 2013 | issn=0279-1072 | doi=10.1080/02791072.2013.763564}}</ref><ref>{{cite journal | vauthors=((Barbosa, P. C. R.)), ((Mizumoto, S.)), ((Bogenschutz, M. P.)), ((Strassman, R. J.)) | journal=Drug Testing and Analysis | title=Health status of ayahuasca users | volume=4 | issue=7–8 | pages=601–609 | date= August 2012 | issn=1942-7611 | doi=10.1002/dta.1383}}</ref>\n\n===Lethal dosage===\nThe only available study that tried to estimate the lethal dose ([[LD50|LD<sub>50</sub>]]) of ayahuasca in rats failed to do so due to the enormous amount of brew necessary for the procedure. The authors estimated, however, that ayahuasca's [[Toxicity::LD50 is around 50 times a regular dose]]. This speaks for the physical safety of ayahuasca usage.<ref>{{cite journal | vauthors=((Pic-Taylor, A.)), ((Motta, L. G. da)), ((Morais, J. A. de)), ((Junior, W. M.)), ((Santos, A. de F. A.)), ((Campos, L. A.)), ((Mortari, M. R.)), ((Zuben, M. V. von)), ((Caldas, E. D.)) | journal=Behavioural Processes | title=Behavioural and neurotoxic effects of ayahuasca infusion (Banisteriopsis caapi and Psychotria viridis) in female Wistar rat | volume=118 | pages=102–110 | date= September 2015 | issn=1872-8308 | doi=10.1016/j.beproc.2015.05.004}}\n</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAyahuasca is [[Addiction potential::not habit-forming]], and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nSimilar to DMT, tolerance to the effects of ayahuasca does not build up with repeated usage, and this compound can, therefore, be used repeatedly to any extent. Ayahuasca does not present a cross-tolerance with other psychedelics, meaning that after the consumption of ayahuasca psychedelics will not have a reduced effect.\n\n===Dangerous interactions===\nAs a result of its [[MAOI]] effects, ayahuasca is more likely to induce [[serotonin syndrome]] or general [[neurotransmitter]] overload (especially at high dosages) than other [[serotonergic psychedelic]]s. This makes it dangerous to combine it with other [[MAOI]]s, [[stimulant]]s and certain substances which releases neurotransmitters such as [[serotonin]] or [[dopamine]]. These substances include but are not limited to:\n{|\n|-\n|\n*'''[[5-MeO-MiPT]]'''\n*'''[[2C-T-7]]'''\n*'''[[AMT]]'''\n*'''[[Harmala alkaloids]]'''\n*'''[[2-AI]]'''\n*'''[[2-FMA]]'''\n*'''[[3-FPM]]'''\n*'''[[4-FA]]'''\n*'''[[A-PVP]]'''\n*'''[[Amphetamine]]'''\n*'''[[Cocaine]]'''\n*'''[[Ethylphenidate]]'''\n||\n*'''[[N-Methylbisfluoromodafinil]]'''\n*'''[[Isopropylphenidate]]'''\n*'''[[MDAI]]'''\n*'''[[MDMA]]'''\n*'''[[Mephedrone]]'''\n*'''[[Methamphetamine]]'''\n*'''[[Methiopropamine]]'''\n*'''[[Methylone]]'''\n*'''[[Methylphenidate]]'''\n*'''[[Modafinil]]'''\n*'''[[Nicotine]]'''\n*'''[[NM-2-AI]]'''\n*'''[[Noopept]]'''\n|}\n\n==Legal status==\n{{see also|Mimosa tenuiflora#Legal status|DMT#Legal status}}\n\nInternationally, DMT is a Schedule I drug under the Convention on Psychotropic Substances. The Commentary on the Convention on Psychotropic Substances notes, however, that the plants containing it are not subject to international control:<ref>{{citation|url=http://www.maps.org/pipermail/maps_forum/2001-March/003376.html |title=DMT – UN report |publisher=MAPS |date=2001-03-31 |accessdate=2012-01-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20120121083150/http://www.maps.org/pipermail/maps_forum/2001-March/003376.html |archivedate=January 21, 2012 }}</ref>\n<blockquote>\n''\"The cultivation of plants from which psychotropic substances are obtained is not controlled by the Vienna Convention. . . . Neither the crown (fruit, mescal button) of the [[Peyote]] cactus nor the roots of the plant [[Mimosa hostilis]] nor [[Psilocybin mushrooms|''Psilocybe'' mushrooms]] themselves are included in Schedule 1, but only their respective principals, [[mescaline]], [[N,N-Dimethyltryptamine|DMT]], and [[psilocin]].\"''\n</blockquote>\n\n<blockquote>\n''\"No plants (natural materials) containing DMT are at present controlled under the 1971 Convention on Psychotropic Substances. Consequently, preparations (e.g. decoctions) made of these plants, including ayahuasca are not under international control and, therefore, not subject to any of the articles of the 1971 Convention. -- International Narcotics Control Board (INCB), United Nations\"''<ref>{{cite book | veditors=((Labate, B. C.)), ((Jungaberle, H.)) | date= 2011 | title=The internationalization of ayahuasca | publisher=Lit | series=Performanzen, interkulturelle Studien zu Ritual, Speil and Theater ; Performances, intercultural studies on ritual, play and theatre | isbn=9783643901484}}</ref>\n</blockquote>\n\n===By country===\n\n*'''Brazil:''' The religious (but not therapeutic or recreational) use of ayahuasca is legal.<ref>{{Citation | title=Erowid Ayahuasca Vault : Notes on Brazilian Ayahuasca Law | url=https://erowid.org/chemicals/ayahuasca/ayahuasca_law6.shtml}}</ref>\n*'''Peru:''' The traditional use of ayahuasca for therapeutic purposes (\"vegetalismo\") is legal.<ref>Hill, D. (2016, June 7). [https://www.theguardian.com/travel/2016/jun/07/peru-ayahuasca-drink-boom-amazon-spirituality-healing Peru’s ayahuasca industry booms as westerners search for alternative healing], \"According to the Ayahuasca Defense Fund, hosted by ICEERS, it is legal in Peru\". The Guardian.</ref>\n*'''United States:'''\n**Louisiana: Except for ornamental purposes, growing, selling or possessing of these ayahuasca plants are prohibited by Louisiana State Act 159:<ref>{{Citation | title=Louisiana Laws - Louisiana State Legislature | url=http://legis.la.gov/Legis/Law.aspx?d=321523}}</ref>\n***''Anadenanthera colubrina''\n***''Banisteriopsis spp.''\n***''[[Mimosa hostilis]]''\n***''[[Peganum harmala]]''\n***''Tetrapteris methystica''\n\n==See also==\n\n*[[Responsible use]]\n*[[UserWiki:David Hedlund/Ayahuasca|“''Guide to Safe Ayahuasca Curanderismo''”]] by [[User:David Hedlund|David Hedlund]]\n*[[Preparation#Ayahuasca|Ayahuasca recipes]]\n*[[Entheogens]]\n*[[Psychedelics]]\n*[[Harmala alkaloids]]\n*[[DMT]]\n*[[Psilocybin]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Ayahuasca Ayahuasca (Wikipedia)]\n*[https://www.erowid.org/chemicals/ayahuasca/ayahuasca.shtml Ayahuasca (Erowid)]\n*[https://drugs-forum.com/wiki/Ayahuasca Ayahusaca (Drugs-Forum)]\n\n==Literature==\n\n*{{cite book |last1=Ott |first1=Jonathan |title=Ayahuasca analogues : Pangæan entheogens |date=1994 |publisher=Natural Products Co |location=Kennewick, WA |isbn=0961423455 |edition=[1st]}} ([https://www.serendipity.li/dmt/hoasca.html gratis HTML version])\n\n===Discussion===\n\n*[https://www.bluelight.org/xf/threads/208983 The Big & Dandy Oral DMT thread (Ayahuasca/Pharmahuasca) (Bluelight)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n\n[[Category:Preparation]]\n[[Category:Entheogen]]\n[[Category:Hallucinogen]]\n[[Category:Psychedelic]]\n[[Category:MAOI]]"
+}

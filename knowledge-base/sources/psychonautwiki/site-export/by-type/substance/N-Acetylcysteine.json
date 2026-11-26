@@ -1,0 +1,301 @@
+{
+ "id": "psychonautwiki:11603",
+ "type": "substance",
+ "title": "N-Acetylcysteine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/N-Acetylcysteine",
+  "pageid": 11603,
+  "last_edited": "2024-11-22T03:29:31Z"
+ },
+ "categories": [
+  "Antioxidant",
+  "CS1 English-language sources (en)",
+  "Nootropic",
+  "Psychoactive substance",
+  "Supplement"
+ ],
+ "substance_box_template": "SubstanceBox/N-Acetylcysteine",
+ "substance_box": {
+  "names": {
+   "common": "N-Acetylcysteine",
+   "substitutive": "(2R)-2-acetamido-3-sulfanylpropanoic acid",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Cysteine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "4%",
+    "threshold": "100 mg",
+    "light": "400 - 600 mg",
+    "common": "600 - 1000 mg",
+    "strong": "1000 - 1500 mg",
+    "heavy": "1500 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "N-Acetylcysteine"
+   ],
+   "Psychoactive class": [
+    "Nootropic"
+   ],
+   "Chemical class": [
+    "Cysteine"
+   ],
+   "Oral threshold dose": [
+    "100"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "400"
+   ],
+   "Oral max light dose": [
+    "600"
+   ],
+   "Oral min common dose": [
+    "600"
+   ],
+   "Oral max common dose": [
+    "1000"
+   ],
+   "Oral min strong dose": [
+    "1000"
+   ],
+   "Oral max strong dose": [
+    "1500"
+   ],
+   "Oral heavy dose": [
+    "1500"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N-Acetylcysteine",
+   "clean": "Molecular structure of N-Acetylcysteine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:N-Acetylcysteine.svg",
+   "clean": "File:N-Acetylcysteine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::N-Acetylcysteine]]",
+   "clean": "N-Acetylcysteine"
+  },
+  "NameSubstitution": {
+   "raw": "(2R)-2-acetamido-3-sulfanylpropanoic acid",
+   "clean": "(2R)-2-acetamido-3-sulfanylpropanoic acid"
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Cysteine]]",
+   "clean": "Cysteine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "4%<ref name=\"OlssonJohansson1988\">{{cite journal|last1=Olsson|first1=B.|last2=Johansson|first2=M.|last3=Gabrielsson|first3=J.|last4=Bolme|first4=P.|title=Pharmacokinetics and bioavailability of reduced and oxidized N-acetylcysteine|journal=European Journal of Clinical Pharmacology|volume=34|issue=1|year=1988|pages=77–82|issn=0031-6970|doi=10.1007/BF01061422}}</ref>",
+   "clean": "4%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::100]] [[Oral dose units::mg]]",
+   "clean": "100 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::400]] - [[Oral max light dose::600]] mg",
+   "clean": "400 - 600 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::600]] - [[Oral max common dose::1000]] mg",
+   "clean": "600 - 1000 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1000]] - [[Oral max strong dose::1500]] mg",
+   "clean": "1000 - 1500 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::1500]] mg +",
+   "clean": "1500 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Acetylcysteine (NAC), also known as Acetylcysteine, is a medication that is used to treat paracetamol (acetaminophen) overdose, and to loosen thick mucus in individuals with chronic bronchopulmonary disorders like pneumonia, bronchitis and cystic fibrosis. It has been used to treat lactobezoar in infants. It can be taken intravenously, by mouth, or inhaled as a mist. Some people use it as a dietary supplement.\n\nN-Acetylcysteine (NAC) is emerging as a useful agent in the treatment of psychiatric disorders. It is currently being explored in its effect and relief of a wide variety of cognitive disorders including, but not limited to addiction, autism, obsessive compulsive disorder, grooming disorders, schizophrenia, and bipolar disorder. Acetylcysteine has shown promising results in populations with these disorders and others whom treatment efficacy has previously been limited.\n\nThe safe oral dosage of Acetylcysteine appears to range between 300mg and 3000mg daily depending of specific individuals and their underlying condition.\n\nChemistry\n\nAcetylcysteine is the N-acetyl derivative of the amino acid L-cysteine, and is a precursor in the formation of the antioxidant glutathione in the body. The thiol (sulfhydryl) group confers antioxidant effects and is able to reduce free radicals.\n\nN-acetyl-L-cysteine is soluble in water and alcohol, and practically insoluble in chloroform and ether.\n\nIt is a white to white with light yellow cast powder, and has a pKa of 9.5 at 30&nbsp;°C.\n\nPharmacology\n\nPharmacodynamics\n\nAcetylcysteine serves as a prodrug to L-cysteine, a precursor to the biologic antioxidant glutathione. Hence administration of acetylcysteine replenishes glutathione stores.\n* Glutathione, along with oxidized glutathione (GSSG) and S-nitrosoglutathione (GSNO), have been found to bind to the glutamate recognition site of the NMDA and AMPA receptors (via their γ-glutamyl moieties), and may be endogenous neuromodulators. At millimolar concentrations, they may also modulate the redox state of the NMDA receptor complex. In addition, glutathione has been found to bind to and activate ionotropic receptors that are different from any other excitatory amino acid receptor, and which may constitute glutathione receptors, potentially making it a neurotransmitter. As such, since N-acetylcysteine is a prodrug of glutathione, it may modulate all of the aforementioned receptors as well.\n* Glutathione also modulates the NMDA receptor by acting at the redox site.\n\nL-cysteine also serves as a precursor to cystine, which in turn serves as a substrate for the SLC7A11|cystine-glutamate antiporter on astrocytes; hence there is increasing glutamate release into the extracellular space. This glutamate in turn acts on mGluR2/3 receptors, and at higher doses of acetylcysteine, mGluR5.\n\nAcetylcysteine also possesses some anti-inflammatory effects possibly via inhibiting NF-κB and modulating cytokine synthesis.\n\nPharmacokinetics\n\nAcetylcysteine is extensively liver metabolized, CYP450 minimal, urine excretion is 22-30% with a half-life of 5.6 hours in adults and 11 hours in neonates.\n\nSubjective effects\n\nToxicity and harm potential\n\nThe most commonly reported adverse effects for IV formulations of acetylcysteine are rash, urticaria, and pruritus(itchiness). Up to 18% of patients have been reported to experience anaphylaxis reaction, which are defined as rash, hypotension, wheezing, and/or shortness of breath.  Lower rates of anaphylactoid reactions have been reported with slower rates of infusion.\n\nAdverse effects for inhalational formulations of acetylcysteine include nausea, vomiting, stomatitis, fever, rhinorrhea, drowsiness, clamminess, chest tightness, and bronchoconstriction. Although infrequent, bronchospasm has been reported to occur unpredictably in some patients.\n\nAdverse effects for oral formulations of acetylcysteine have been reported to include nausea, vomiting, rash, and fever.\n\nLarge doses in a mouse model showed that acetylcysteine could potentially cause damage to the heart and lungs. They found that acetylcysteine was metabolized to S-nitroso-N-acetylcysteine (SNOAC), which increased blood pressure in the lungs and right ventricle of the heart (pulmonary artery hypertension) in mice treated with acetylcysteine. The effect was similar to that observed following a 3-week exposure to an oxygen-deprived environment (chronic hypoxia). The authors also found that SNOAC induced a hypoxia-like response in the gene expression of several important genes both in vitro and in vivo.\n\nThe implications of these findings for long-term treatment with acetylcysteine have not yet been investigated. The dose used by Palmer and colleagues was dramatically higher than that used in humans, the equivalent of about 20 grams per day. Nonetheless, positive effects on age-diminished control of respiration (the control of hypoxic ventilatory response) have been observed previously in human subjects at more moderate doses.\n\nAlthough N-acetylcysteine prevented liver damage when taken before alcohol, when taken four hours after alcohol it made liver damage worse in a dose-dependent fashion.\n\nAddiction and tolerance potential\n\nThe chronic use of Acetylcysteine does not seem to cause addiction or psychological dependence. N-Acetylcysteine's positive effects seem to be cumulative overtime.\n\nLegal status\n\nIn most countries, N-Acetylcysteine is widely available in pharmacies, supplements and nootropics stores without prescription.\n\nSee also\n\n*Responsible use\n*Anxiety suppression\n*Addiction suppression\n*Nootropics\n\nExternal links\n\n*Acetylcysteine (Wikipedia)\n*Acetylcysteine (DrugBank)\n*Acetylcysteine (Examine.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Supplement\nCategory:Nootropic\nCategory:Antioxidant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/N-Acetylcysteine}}\n\n'''N-Acetylcysteine''' ('''NAC'''), also known as '''Acetylcysteine''', is a medication that is used to treat paracetamol (acetaminophen) overdose, and to loosen thick mucus in individuals with chronic bronchopulmonary disorders like pneumonia, bronchitis and cystic fibrosis.<ref name=AHFS2015>{{cite web|title=Acetylcysteine|url=https://www.drugs.com/monograph/acetylcysteine.html|publisher=The American Society of Health-System Pharmacists|access-date=22 Aug 2015|archive-url=https://web.archive.org/web/20150923231013/http://www.drugs.com/monograph/acetylcysteine.html|archive-date=23 September 2015|df=dmy-all}}</ref> It has been used to treat lactobezoar in infants. It can be taken [[intravenous]]ly, by mouth, or inhaled as a mist.<ref name=AHFS2015/> Some people use it as a dietary supplement.<ref>{{cite book|last1=Talbott|first1=Shawn M.|title=A Guide to Understanding Dietary Supplements|date=2012|publisher=Routledge|isbn=9781136805707|page=469|url=https://books.google.com/books?id=9ZZrW_j9XrcC&pg=PA469|language=en|archive-url=https://web.archive.org/web/20170908143219/https://books.google.com/books?id=9ZZrW_j9XrcC&pg=PA469|archive-date=8 September 2017|df=dmy-all}}</ref><ref>{{cite web|title=Cysteine|url=https://web.archive.org/web/20170701184417/http://www.umm.edu/health/medical/altmed/supplement/cysteine|website=University of Maryland Medical Center|access-date=23 June 2017|language=en|archive-url=https://web.archive.org/web/20170701184417/http://www.umm.edu/health/medical/altmed/supplement/cysteine|archive-date=1 July 2017|df=dmy-all}}</ref>\n\nN-Acetylcysteine ('''NAC''') is emerging as a useful agent in the treatment of psychiatric disorders.<ref>{{cite journal | vauthors=((Dean, O.)), ((Giorlando, F.)), ((Berk, M.)) | journal=Journal of Psychiatry & Neuroscience : JPN | title=N-acetylcysteine in psychiatry: current therapeutic evidence and potential mechanisms of action | volume=36 | issue=2 | pages=78–86 | date= March 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3044191/ | issn=1180-4882 | doi=10.1503/jpn.100057}}</ref> It is currently being explored in its effect and relief of a wide variety of cognitive disorders including, but not limited to addiction, autism, obsessive compulsive disorder, grooming disorders, schizophrenia, and bipolar disorder.<ref>{{cite journal | vauthors=((Lee, M.-Y.)), ((Chiang, C.-C.)), ((Chiu, H.-Y.)), ((Chan, M.-H.)), ((Chen, H.-H.)) | journal=Neuropharmacology | title=N-acetylcysteine modulates hallucinogenic 5-HT(2A) receptor agonist-mediated responses: behavioral, molecular, and electrophysiological studies | volume=81 | pages=215–223 | date= June 2014 | issn=1873-7064 | doi=10.1016/j.neuropharm.2014.02.006}}</ref> Acetylcysteine has shown promising results in populations with these disorders and others whom treatment efficacy has previously been limited.\n\nThe safe oral dosage of Acetylcysteine appears to range between 300mg and 3000mg daily depending of specific individuals and their underlying condition.\n\n==Chemistry==\n\nAcetylcysteine is the ''N''-acetyl derivative of the amino acid L-cysteine, and is a precursor in the formation of the antioxidant glutathione in the body. The thiol (sulfhydryl) group confers antioxidant effects and is able to reduce free radicals.\n\n''N''-acetyl-L-cysteine is soluble in water and alcohol, and practically insoluble in chloroform and ether.<ref>{{cite web|title=N-Acetyl-L-cysteine &#124; C5H9NO3S - PubChem|url=https://pubchem.ncbi.nlm.nih.gov/compound/N-Acetyl-L-cysteine#section=Chemical-and-Physical-Properties|access-date=22 July 2016|archive-url=https://web.archive.org/web/20160816171151/https://pubchem.ncbi.nlm.nih.gov/compound/N-Acetyl-L-cysteine#section=Chemical-and-Physical-Properties|archive-date=16 August 2016|df=dmy-all}}</ref>\n\nIt is a white to white with light yellow cast powder, and has a pKa of 9.5 at 30&nbsp;°C.<ref name=sial>{{cite web|title=N-ACETYL-L-CYSTEINE Product Information |url=https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma-Aldrich/Product_Information_Sheet/a7250pis.pdf |website=Sigma |publisher=Sigma-aldrich |access-date=9 November 2014|archive-url=https://web.archive.org/web/20140611120709/http://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma-Aldrich/Product_Information_Sheet/a7250pis.pdf |archive-date=11 June 2014 }}</ref>\n\n==Pharmacology==\n\n===Pharmacodynamics===\n\nAcetylcysteine serves as a [[prodrug]] to L-cysteine, a precursor to the biologic antioxidant glutathione. Hence administration of acetylcysteine replenishes glutathione stores.<ref name=TGA>{{cite web|title=PRODUCT INFORMATION ACETADOTE® CONCENTRATED INJECTION|work=TGA eBusiness Services|publisher=Phebra Pty Ltd|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-03960-3|format=PDF|date=16 January 2013|access-date=8 November 2013|archive-url=https://web.archive.org/web/20170908143219/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-03960-3|archive-date=8 September 2017|df=dmy-all}}</ref>\n* Glutathione, along with oxidized glutathione (GSSG) and ''S''-nitrosoglutathione (GSNO), have been found to bind to the [[glutamate]] recognition site of the [[NMDA receptor|NMDA]] and [[AMPA receptor]]s (via their γ-glutamyl moieties), and may be endogenous [[neuromodulator]]s.<ref name=\"SteulletNeijt2006\">{{cite journal|last1=Steullet|first1=P.|last2=Neijt|first2=H.C.|last3=Cuénod|first3=M.|last4=Do|first4=K.Q.|title=Synaptic plasticity impairment and hypofunction of NMDA receptors induced by glutathione deficit: Relevance to schizophrenia|journal=Neuroscience|volume=137|issue=3|year=2006|pages=807–819|issn=0306-4522|doi=10.1016/j.neuroscience.2005.10.014|pmid=16330153}}</ref><ref name=\"VargaJenei1997\">{{cite journal|last1=Varga|first1=V.|last2=Jenei|first2=Zs.|last3=Janáky|first3=R.|last4=Saransaari|first4=P.|last5=Oja|first5=S. S.|journal=Neurochemical Research|title=Glutathione Is an Endogenous Ligand of Rat Brain N-Methyl-D-Aspartate (NMDA) and 2-Amino-3-Hydroxy-5-Methyl-4-Isoxazolepropionate (AMPA) Receptors|volume=22|issue=9|year=1997|pages=1165–1171|issn=0364-3190|doi=10.1023/A:1027377605054|pmid=9251108}}</ref> At millimolar concentrations, they may also modulate the redox state of the NMDA receptor complex.<ref name=\"VargaJenei1997\" /> In addition, glutathione has been found to bind to and activate [[ionotropic receptor]]s that are different from any other excitatory amino acid receptor, and which may constitute ''glutathione receptors'', potentially making it a [[neurotransmitter]].<ref name=\"Oja2000\">{{cite journal|last1=Oja|first1=S|title=Modulation of glutamate receptor functions by glutathione|journal=Neurochemistry International|volume=37|issue=2–3|year=2000|pages=299–306|issn=0197-0186|doi=10.1016/S0197-0186(00)00031-0|pmid=10812215}}</ref> As such, since ''N''-acetylcysteine is a prodrug of glutathione, it may modulate all of the aforementioned receptors as well.\n* Glutathione also modulates the [[NMDA receptor]] by acting at the redox site.<ref name=\"DOI2008\">{{cite journal | vauthors = Lavoie S, Murray MM, Deppen P, Knyazeva MG, Berk M, Boulat O, Bovet P, Bush AI, Conus P, Copolov D, Fornari E, Meuli R, Solida A, Vianin P, Cuénod M, Buclin T, Do KQ | title = Glutathione precursor, N-acetyl-cysteine, improves mismatch negativity in schizophrenia patients | journal = Neuropsychopharmacology | volume = 33 | issue = 9 | pages = 2187–99 | date = Aug 2008 | pmid = 18004285 | doi = 10.1038/sj.npp.1301624 | doi-access = free }}</ref>\n\nL-cysteine also serves as a precursor to cystine, which in turn serves as a substrate for the SLC7A11|cystine-glutamate antiporter on astrocytes; hence there is increasing glutamate release into the extracellular space. This glutamate in turn acts on [[metabotropic glutamate receptor|mGluR<sub>2/3</sub>]] receptors, and at higher doses of acetylcysteine, [[metabotropic glutamate receptor 5|mGluR<sub>5</sub>]].<ref name=\"BM2008\">{{cite journal | vauthors = Dodd S, Dean O, Copolov DL, Malhi GS, Berk M | title = N-acetylcysteine for antioxidant therapy: pharmacology and clinical utility | journal = Expert Opinion on Biological Therapy | volume = 8 | issue = 12 | pages = 1955–62 | date = Dec 2008 | pmid = 18990082 | doi = 10.1517/14728220802517901}}</ref><ref name=\"NAc2012\">{{cite journal | vauthors = Kupchik YM, Moussawi K, Tang XC, Wang X, Kalivas BC, Kolokithas R, Ogburn KB, Kalivas PW | title = The effect of N-acetylcysteine in the nucleus accumbens on neurotransmission and relapse to cocaine | journal = Biological Psychiatry | volume = 71 | issue = 11 | pages = 978–86 | date = Jun 2012 | pmid = 22137594 | pmc = 3340445 | doi = 10.1016/j.biopsych.2011.10.024 }}</ref>\n\nAcetylcysteine also possesses some anti-inflammatory effects possibly via inhibiting [[NF-κB]] and modulating cytokine synthesis.\n\n===Pharmacokinetics===\n\nAcetylcysteine is extensively liver metabolized, CYP450 minimal, urine excretion is 22-30% with a half-life of 5.6 hours in adults and 11 hours in neonates.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n<br />\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Nose bleeds]]''' - A certain subset of people may experience minor nose bleeds which is likely due to this compound's mechanism as a blood thinner.<ref>{{Citation | title=Acetylcysteine and Bleeding from the nose, a phase IV clinical study of FDA data - eHealthMe | url=https://www.ehealthme.com/ds/acetylcysteine/bleeding-from-the-nose/}}</ref>\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Addiction suppression]]''' - Acetylcysteine's action on [[glutamate|glutaminergic]] and [[dopamine|dopaminergic]] pathways is thought to reverse brain functions which have been disturbed by drug abuse and addiction.<ref>{{cite journal | vauthors=((Moran, M. M.)), ((McFarland, K.)), ((Melendez, R. I.)), ((Kalivas, P. W.)), ((Seamans, J. K.)) | journal=The Journal of Neuroscience: The Official Journal of the Society for Neuroscience | title=Cystine/glutamate exchange regulates metabotropic glutamate receptor presynaptic inhibition of excitatory transmission and vulnerability to cocaine seeking | volume=25 | issue=27 | pages=6389–6393 | date=6 July 2005 | issn=1529-2401 | doi=10.1523/JNEUROSCI.1007-05.2005}}</ref> This mechanism has been shown to provide relief for those who struggle with [[compulsive redosing]], reward behaviors and psychological cravings, and has been shown to positively reverse [[nicotine]] addiction<ref>{{cite journal | vauthors=((Knackstedt, L. A.)), ((LaRowe, S.)), ((Mardikian, P.)), ((Malcolm, R.)), ((Upadhyaya, H.)), ((Hedden, S.)), ((Markou, A.)), ((Kalivas, P. W.)) | journal=Biological psychiatry | title=The Role of Cystine-Glutamate Exchange in Nicotine Dependence in Rats and Humans | volume=65 | issue=10 | pages=841–845 | date=15 May 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2756612/ | issn=0006-3223 | doi=10.1016/j.biopsych.2008.10.040}}</ref>, [[cocaine]] addiction<ref>{{cite journal | vauthors=((LaRowe, S. D.)), ((Mardikian, P.)), ((Malcolm, R.)), ((Myrick, H.)), ((Kalivas, P.)), ((McFarland, K.)), ((Saladin, M.)), ((McRae, A.)), ((Brady, K.)) | journal=The American journal on addictions / American Academy of Psychiatrists in Alcoholism and Addictions | title=Safety and Tolerability of N-Acetylcysteine in Cocaine-Dependent Individuals | volume=15 | issue=1 | pages=105–110 | date= 2006 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1513138/ | issn=1055-0496 | doi=10.1080/10550490500419169}}</ref>, [[marijuana]] dependence.<ref>{{cite journal | vauthors=((Gray, K. M.)), ((Watson, N. L.)), ((Carpenter, M. J.)), ((Larowe, S. D.)) | journal=The American Journal on Addictions | title=N-acetylcysteine (NAC) in young marijuana users: an open-label pilot study | volume=19 | issue=2 | pages=187–189 | date= April 2010 | issn=1521-0391 | doi=10.1111/j.1521-0391.2009.00027.x}}</ref>, and many other compulsive behaviors.<ref>{{cite journal | vauthors=((Kalivas, P. W.)), ((Lalumiere, R. T.)), ((Knackstedt, L.)), ((Shen, H.)) | journal=Neuropharmacology | title=Glutamate transmission in addiction | volume=56 Suppl 1 | pages=169–173 | date= 2009 | issn=0028-3908 | doi=10.1016/j.neuropharm.2008.07.011}}</ref> Anecdotal reports suggest that one can take this compound over their addictive drug of choice for the purpose of quickly suppressing their cravings.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Anxiety suppression]]''' \n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Mindfulness]]'''\n\n}}\n\n}}\n\n==Toxicity and harm potential==\n\nThe most commonly reported adverse effects for IV formulations of acetylcysteine are rash, urticaria, and pruritus(itchiness). Up to 18% of patients have been reported to experience anaphylaxis reaction, which are defined as rash, hypotension, wheezing, and/or shortness of breath.  Lower rates of anaphylactoid reactions have been reported with slower rates of infusion.\n\nAdverse effects for inhalational formulations of acetylcysteine include nausea, vomiting, stomatitis, fever, rhinorrhea, drowsiness, clamminess, chest tightness, and bronchoconstriction. Although infrequent, bronchospasm has been reported to occur unpredictably in some patients.<ref name=\"Mucomyst Package Insert\">{{cite web|title=Mucomyst Package Insert|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2dc24f3-3ad7-4c6c-8e9f-7202d9a146f7|access-date=20 April 2014|archive-url=https://web.archive.org/web/20140421050640/http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2dc24f3-3ad7-4c6c-8e9f-7202d9a146f7|archive-date=21 April 2014|df=dmy-all}}</ref>\n\nAdverse effects for oral formulations of acetylcysteine have been reported to include nausea, vomiting, rash, and fever.<ref name=\"Mucomyst Package Insert\"/>\n\nLarge doses in a mouse model showed that acetylcysteine could potentially cause damage to the heart and lungs.<ref name=\"Palmer_2007\">{{cite journal | vauthors = Palmer LA, Doctor A, Chhabra P, Sheram ML, Laubach VE, Karlinsey MZ, Forbes MS, Macdonald T, Gaston B | title = S-nitrosothiols signal hypoxia-mimetic vascular pathology | journal = The Journal of Clinical Investigation | volume = 117 | issue = 9 | pages = 2592–601 | date = Sep 2007 | pmid = 17786245 | pmc = 1952618 | doi = 10.1172/JCI29444 }}</ref> They found that acetylcysteine was metabolized to ''S''-nitroso-''N''-acetylcysteine (SNOAC), which increased blood pressure in the lungs and right ventricle of the heart (pulmonary artery hypertension) in mice treated with acetylcysteine. The effect was similar to that observed following a 3-week exposure to an oxygen-deprived environment (chronic [[hypoxia (medical)|hypoxia]]). The authors also found that SNOAC induced a hypoxia-like response in the gene expression of several important genes both ''in vitro'' and ''in vivo''.\n\nThe implications of these findings for long-term treatment with acetylcysteine have not yet been investigated. The dose used by Palmer and colleagues was dramatically higher than that used in humans, the equivalent of about 20 grams per day.<ref name=\"Palmer_2007\"/> Nonetheless, positive effects on age-diminished control of respiration (the control of hypoxic ventilatory response) have been observed previously in human subjects at more moderate doses.<ref name=\"pmid11861267\">{{cite journal | vauthors = Hildebrandt W, Alexander S, Bärtsch P, Dröge W | title = Effect of N-acetyl-cysteine on the hypoxic ventilatory response and erythropoietin production: linkage between plasma thiol redox state and O(2) chemosensitivity | journal = Blood | volume = 99 | issue = 5 | pages = 1552–5 | date = Mar 2002 | pmid = 11861267 | doi = 10.1182/blood.V99.5.1552 | doi-access = free }}</ref>\n\nAlthough ''N''-acetylcysteine prevented liver damage when taken before alcohol, when taken four hours after alcohol it made liver damage worse in a dose-dependent fashion.<ref name=\"Wang_2006\">{{cite journal | vauthors = Wang AL, Wang JP, Wang H, Chen YH, Zhao L, Wang LS, Wei W, Xu DX | title = A dual effect of N-acetylcysteine on acute ethanol-induced liver damage in mice | journal = Hepatology Research | volume = 34 | issue = 3 | pages = 199–206 | date = Mar 2006 | pmid = 16439183 | doi = 10.1016/j.hepres.2005.12.005 }}</ref>\n\n===Addiction and tolerance potential===\n\nThe chronic use of Acetylcysteine does not seem to cause addiction or psychological dependence. N-Acetylcysteine's positive effects seem to be cumulative overtime.\n\n==Legal status==\n\nIn most countries, N-Acetylcysteine is widely available in pharmacies, supplements and nootropics stores without prescription.\n\n==See also==\n\n*[[Responsible use]]\n*[[Anxiety suppression]]\n*[[Addiction suppression]]\n*[[Nootropics]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Acetylcysteine Acetylcysteine (Wikipedia)]\n*[https://go.drugbank.com/drugs/DB06151 Acetylcysteine (DrugBank)]\n*[https://examine.com/supplements/n-acetylcysteine Acetylcysteine (Examine.com)]\n\n==References==\n\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Supplement]]\n[[Category:Nootropic]]\n[[Category:Antioxidant]]\n{{#set:Featured=true}}"
+}

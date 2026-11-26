@@ -1,0 +1,491 @@
+{
+ "id": "psychonautwiki:4403",
+ "type": "substance",
+ "title": "Etizolam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Etizolam",
+  "pageid": 4403,
+  "last_edited": "2024-04-16T14:22:02Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Articles with unsourced statements from November 2020",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "CS1 Polish-language sources (pl)",
+  "CS1 Portuguese-language sources (pt)",
+  "Depressant",
+  "Psychoactive substance",
+  "Substance",
+  "Thienodiazepine"
+ ],
+ "substance_box_template": "SubstanceBox/Etizolam",
+ "substance_box": {
+  "names": {
+   "common": "Etizolam, Etilaam, Etizest, Depas",
+   "substitutive": "Etizolam",
+   "systematic": "4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Thienodiazepine / Thienotriazolodiazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "93%",
+    "threshold": "0.2 mg",
+    "light": "0.5 - 1 mg",
+    "common": "1 - 2 mg",
+    "strong": "2 - 5 mg",
+    "heavy": "5 mg +",
+    "duration": "5 - 7 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1.5 - 2.5 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": false,
+    "caption": "Warning: Smoking or vaporizing thienodiazepines can increase its addictiveness signficantly compared to oral or sublingual administration.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "2 - 3 mg",
+    "light": "3 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "45 - 90 minutes",
+    "onset": "2.5 - 10 minutes",
+    "peak": "30 - 45 minutes",
+    "offset": "20 - 30 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Etizolam",
+    "Etilaam",
+    "Etizest",
+    "Depas"
+   ],
+   "Oral threshold dose": [
+    "0.2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1"
+   ],
+   "Oral min common dose": [
+    "1"
+   ],
+   "Oral max common dose": [
+    "2"
+   ],
+   "Oral min strong dose": [
+    "2"
+   ],
+   "Oral max strong dose": [
+    "5"
+   ],
+   "Oral heavy dose": [
+    "5"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1.5"
+   ],
+   "Oral max offset time": [
+    "2.5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "2"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "3"
+   ],
+   "Smoked max light dose": [
+    "5"
+   ],
+   "Smoked min common dose": [
+    "5"
+   ],
+   "Smoked max common dose": [
+    "10"
+   ],
+   "Smoked min strong dose": [
+    "10"
+   ],
+   "Smoked max strong dose": [
+    "20"
+   ],
+   "Smoked heavy dose": [
+    "20"
+   ],
+   "Smoked min total time": [
+    "45"
+   ],
+   "Smoked max total time": [
+    "90"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "2.5"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "30"
+   ],
+   "Smoked max peak time": [
+    "45"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "20"
+   ],
+   "Smoked max offset time": [
+    "30"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Etizolam.",
+   "clean": "Molecular structure of Etizolam."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Etizolam.svg",
+   "clean": "File:Etizolam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Etizolam]], [[common name::Etilaam]], [[common name::Etizest]], [[common name::Depas]]",
+   "clean": "Etizolam, Etilaam, Etizest, Depas"
+  },
+  "NameSubstitution": {
+   "raw": "Etizolam",
+   "clean": "Etizolam"
+  },
+  "NameSystematic": {
+   "raw": "4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+   "clean": "4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Thienodiazepine]] / Thienotriazolodiazepine",
+   "clean": "Thienodiazepine / Thienotriazolodiazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "93%{{citation needed}}",
+   "clean": "93%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.2]] [[Oral dose units::mg]]",
+   "clean": "0.2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1]] - [[Oral max common dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2]] - [[Oral max strong dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::5]] mg +",
+   "clean": "5 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "5 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1.5]] - [[Oral max offset time::2.5]] [[Oral offset time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''Warning:''' Smoking or vaporizing [[thienodiazepines]] can increase its addictiveness signficantly compared to [[oral]] or [[sublingual]] administration.",
+   "clean": "Warning: Smoking or vaporizing thienodiazepines can increase its addictiveness signficantly compared to oral or sublingual administration."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2]] - 3 [[Smoked dose units::mg]]",
+   "clean": "2 - 3 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::3]] - [[Smoked max light dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::5]] - [[Smoked max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::10]] - [[Smoked max strong dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::45]] - [[Smoked max total time::90]] [[Smoked total time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::2.5]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "2.5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::30]] - [[Smoked max peak time::45]] [[Smoked peak time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::20]] - [[Smoked max offset time::30]] [[Smoked offset time units::minutes]]",
+   "clean": "20 - 30 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Etizolam (also known as Etilaam, Etizest, Depas, and many others) is a novel depressant substance of the thienodiazepine class. Etizolam is chemically related to benzodiazepines and acts by binding to GABA receptors in the brain.\n\nEtizolam is not commonly prescribed. It has been sold as a research chemical online and is commonly used as a substitute for pharmaceutical benzodiazepines like alprazolam (Xanax) or diazepam (Valium). Etizolam is commonly found in pellet or pill form, laid on blotter paper, dissolved in propylene glycol or as a pure powder.\n\nSubjective effects include anxiety suppression, disinhibition, muscle relaxation, sedation, and euphoria. Etizolam is commonly administered orally and sublingually due to the high bioavailability of these routes. \n\nAs with benzodiazepines, the sudden discontinuation of thienodiazepines can be dangerous or even life-threatening for long-term or heavy users. As a result, individuals who are physically dependent on this substance are advised to taper their dose by gradually lowering the amount taken each day over a prolonged period of time instead of stopping use abruptly.\n\nDue to its high abuse and addiction potential, it is highly advised to use proper harm reduction practices if using this substance.\n\nHistory and culture\n\nEtizolam first appeared on the online research chemical market in 2011. Since then its popularity has steadily increased. This likely owes itself to both its low cost and its abundance, and the highly dependence-forming and addictive nature that it shares with recreationally-used benzodiazepines.\n\nEtizolam differs from most other research chemicals in that it is approved and actively prescribed as a medical treatment for anxiety in many countries around the world, commonly under brand names like Etilaam and Etizest. Its origins as a medical drug are unclear, although medical papers citing its use in the treatment of anxiety have been documented as early as the 1990s.\n\nChemistry\n\nEtizolam is a structural relative of benzodiazepines, whereby the benzene ring has been replaced by a thiophene ring, classifying it as a thienodiazepine. Thiophene is a five membered aromatic ring with one sulfur atom. Etizolam contains a thiophene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. This forms the thienodiazepine core of etizolam. An ethyl chain is bound to this bicyclic structure at R7. Additionally, a R2' chlorine-substituted phenyl ring is bound to this structure at R5. \n\nEtizolam also contains a methylated triazole ring fused to and incorporating R1 and R2 of its diazepine ring. Etizolam shares this fused triazole ring substitution with certain benzodiazepine drugs, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nPharmacology\n\nThienodiazepines produce a variety of effects by binding to the benzodiazepine binding site (formerly referred to as the BZD receptor) at the GABA-A receptor complex, magnifying the efficicacy and effects of the neurotransmitter gamma aminobutyric acid (GABA) by increasing its ability to bind more readily to its own receptors. This is known as positive allosteric modulation. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of etizolam on the nervous system.\n\nSubjective effects\n\nAnecdotal reports suggest that in terms of its relative potency, 1&nbsp;mg of etizolam is approximately equivalent to 0.5&nbsp;mg of alprazolam (Xanax), 0.5&nbsp;mg of clonazepam (Klonopin), or 10&nbsp;mg of diazepam (Valium). It is often compared to a less potent and sedating version of alprazolam in terms of the speed of its onset, total duration, and recreational effect. \n\nExperience reports\n\nThere are currently anecdotal reports which describe the effects of this compound within our experience index.\n. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Etizolam\n\nToxicity and harm potential\n\n[[File:Blepharospasm.png|thumb|250px|Blepharospasms (twitching eyelid) can occur with long-term use. Rarely, erythema annulare centrifugum skin lesions have also been reported.]]\n\nEtizolam likely has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nIt is strongly recommended that one use harm reduction practices such as volumetric dosing when using this substance. \n\nTolerance and addiction potential\n\nLike most benzodiazepines, etizolam is considered to be highly addictive with a high potential for abuse. \n\nIn one study in which multiple doses of either etizolam or lorazepam were administered to rat neurons, tolerance to the anticonvulsant effects of lorazepam but not to etizolam was observed. Etizolam therefore has a reduced liability to induce tolerance, and dependence when compared with classic benzodiazepines.\n\nTolerance will, however, develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nThienodiazepine discontinuation is notoriously difficult and potentially life-threatening for heavy or long-term users.  There is an increased risk of seizure following discontinuation of thienodiazepines. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from thienodiazepines in a controlled manner, please see this guide. Substances which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nEtizolam presents cross-tolerance with all benzodiazepines and [[thienodiazepines]], meaning that after its consumption all benzo and thienodiazepines will have a reduced effect.\n\nOverdose\n\nThienodiazepine overdose may occur when taken in extremely heavy quantities or concurrently with other depressants. \nThis is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. \nThienodiazepine increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. \nThienodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a thienodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. \nThienodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. \nThienodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist. However, care is primarily supportive in nature.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine thienzodiazepines with stimulants due to the risk of excessive intoxication. Stimulants mask the sedative effect of thienzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of thienzodiazepines will be significantly increased, leading to intensified disinhibition. If combined, one should strictly limit themselves to only dose a certain amount of thienzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\nInternationally, etizolam was added to the UN Convention on Psychotropic Substances as a Schedule IV controlled substance in March 2020.\n\n*Australia: Schedule 4 issued by the Office of Drug Control, in accordance with Regulation 5 of the Customs (Prohibited Imports) Regulations 1956. Does not state it is Schedule 4 in Poison Standard October 2020, but it may fall under the analog act for deschloroetizolam. License and permit are required for import/export.\n*Austria: Etizolam is illegal to possess, produce, supply, or import since 2012 under the NPSG (Neue Psychoaktive Substanzen Gesetz). However, offenders with no intent to distribute will likely not have to face a charge.\n*Brazil:  Since March 23, 2021, due to ANVISA's Resolution RDC nº 473, possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*Canada: Etizolam appears to be captured under section 18 of the CDSA's Schedule VI as \"Benzodiazepines, salts thereof and their derivatives\"\n*Germany: Etizolam is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of July 17, 2013. It can only be prescribed on a narcotic prescription form.\n*Japan: Etizolam is controlled by Japan by the Narcotics and Psychotropics Control Law, which makes it illegal to possess, sell, or manufacture it without a prescription.\n*Poland: Etizolam is a NPS class drug in Poland, making it illegal to possess or distribute.\n*Russia: In Russia, since 2017, etizolam is a Schedule III controlled substance.\n*Switzerland: Etizolam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*Turkey: Etizolam is a classed as drug and is illegal to possess, produce, supply, or import. \n*The Netherlands: Etizolam is a List 2 substance of the Opium Law, making it illegal.\n*United Kingdom: As of May 31st, 2017, etizolam is a Class C substance in the United Kingdom, making it illegal to possess, produce, or supply.\n*United States: Etizolam was temporarily scheduled on January 23rd, 2023 by the DEA, making Etizolam a Schedule I controlled substance . Prior to its temporary scheduling, some state legislatures have passed laws prohibiting it in their jurisdictions. As of July 2019, etizolam is a controlled substance in the following states: Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, Texas, South Carolina and Virginia, Indiana, and Ohio.\n\n:*Arizona: In 2018, The State Of Arizona Legislature has listed Etizolam as a controlled substance under House Bill 2033\n:*Arkansas: In August 2014, the state of Arkansas listed etizolam as a Schedule I substance under its substance scheduling guidelines.\n:*North Carolina: On March 22, 2017, the General Assembly of North Carolina enacted an addendum to the North Carolina Controlled Substances Act including etizolam as a Schedule I substance.\n:*Texas: On Jun 9, 2017, the state of Texas listed etizolam as a Penalty Group 3 substance with HB 2671. Contrary to some online reports and conflicting information with the overall Texas controlled substance list website, etizolam became a penalty group 3 substance with the passage of this bill.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Depressants\n*Benzodiazepines\n*Diclazepam\n*Alprazolam\n*Alcohol\n\nExternal links\n\n*Etizolam (Wikipedia)\n*Etizolam (Erowid Vault)\n*Etizolam (Isomer Design)\n*Etizolam (Drugs-Forum)\n\nLiterature\n\n*Sanna, E., Pau, D., Tuveri, F., Massa, F., Maciocco, E., Acquas, C., ... & Biggio, G. (1999). Molecular and neurochemical evaluation of the effects of etizolam on GABAA receptors under normal and stress conditions. Arzneimittelforschung, 49(02), 88-95. https://doi.org/10.1055/s-0031-1300366\n*Altamura, A. C., Moliterno, D., Paletta, S., Maffini, M., Mauri, M. C., & Bareggi, S. (2013). Understanding the pharmacokinetics of anxiolytic drugs. Expert Opinion on Drug Metabolism & Toxicology, 9(4), 423-440. https://doi.org/10.1517/17425255.2013.759209\n*Fracasso, C., Confalonieri, S., Garattini, S., & Caccia, S. (1991). Single and multiple dose pharmacokinetics of etizolam in healthy subjects. European Journal of Clinical Pharmacology, 40(2), 181-185. https://doi.org/10.1007/BF00280074\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Thienodiazepine",
+ "wikitext": "{{headerpanel|{{DepressantOD|thienodiazepines}}}}\n{{SummarySheet}}\n{{SubstanceBox/Etizolam}}\n\n'''Etizolam''' (also known as '''Etilaam''', '''Etizest''', '''Depas''', and many others) is a novel [[psychoactive class::depressant]] substance of the [[chemical class::thienodiazepine]] class. Etizolam is chemically related to [[benzodiazepines]] and acts by binding to [[GABA]] receptors in the brain.\n\nEtizolam is not commonly prescribed. It has been sold as a [[research chemical]] online and is commonly used as a substitute for pharmaceutical benzodiazepines like [[alprazolam]] ('''Xanax''') or [[diazepam]] ('''Valium'''). Etizolam is commonly found in pellet or pill form, laid on blotter paper, dissolved in propylene glycol or as a pure powder.\n\n[[Subjective effects]] include [[anxiety suppression]], [[disinhibition]], [[muscle relaxation]], [[sedation]], and [[euphoria]]. Etizolam is commonly administered [[oral|orally]] and [[sublingual|sublingually]] due to the high bioavailability of these routes. \n\nAs with [[benzodiazepines]], [[Thienodiazepine#Discontinuation|the sudden discontinuation of thienodiazepines]] can be dangerous or even life-threatening for long-term or heavy users. As a result, individuals who are physically dependent on this substance are advised to [[taper]] their dose by gradually lowering the amount taken each day over a prolonged period of time instead of stopping use abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\nDue to its high abuse and addiction potential, it is highly advised to use proper [[harm reduction practices]] if using this substance.{{citation needed|reason=Personal experience and anecdotal reports suggest the contrary. Are there any references on specifically etizolam causing strong addiction as benzodiazepines?|date=November 2020}}\n\n==History and culture==\n{{HistoryStub}}\nEtizolam first appeared on the online [[research chemical]] market in 2011. Since then its popularity has steadily increased. This likely owes itself to both its low cost and its abundance, and the highly dependence-forming and addictive nature that it shares with recreationally-used benzodiazepines.<ref>{{Citation | title=Etizolam - TripSit wiki | url=https://wiki.tripsit.me/wiki/Etizolam | access-date=11 May 2017}}</ref>\n\nEtizolam differs from most other research chemicals in that it is approved and actively prescribed as a medical treatment for anxiety in many countries around the world, commonly under brand names like ''Etilaam'' and ''Etizest''. Its origins as a medical drug are unclear, although medical papers citing its use in the treatment of anxiety have been documented as early as the 1990s.<ref name=\"Sanna2011\">{{cite journal | vauthors=((Sanna, E.)), ((Pau, D.)), ((Tuveri, F.)), ((Massa, F.)), ((Maciocco, E.)), ((Acquas, C.)), ((Floris, C.)), ((Fontana, S.)), ((Maira, G.)), ((Biggio, G.)) | journal=Arzneimittelforschung | title=Molecular and Neurochemical Evaluation of the Effects of Etizolam on GABAA Receptors under Normal and Stress Conditions | volume=49 | issue=02 | pages=88–95 | date=28 December 2011 | url=http://www.thieme-connect.de/DOI/DOI?10.1055/s-0031-1300366 | issn=0004-4172 | doi=10.1055/s-0031-1300366}}</ref>\n\n==Chemistry==\nEtizolam is a structural relative of [[benzodiazepines]], whereby the benzene ring has been replaced by a thiophene ring, classifying it as a [[thienodiazepine]]. Thiophene is a five membered aromatic ring with one sulfur atom. Etizolam contains a thiophene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. This forms the thienodiazepine core of etizolam. An ethyl chain is bound to this bicyclic structure at R<sub>7</sub>. Additionally, a R<sub>2</sub>' chlorine-substituted phenyl ring is bound to this structure at R<sub>5</sub>. \n\nEtizolam also contains a methylated triazole ring fused to and incorporating R<sub>1</sub> and R<sub>2</sub> of its diazepine ring. Etizolam shares this fused triazole ring substitution with certain [[benzodiazepine]] drugs, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\n==Pharmacology==\nThienodiazepines produce a variety of effects by binding to the benzodiazepine binding site (formerly referred to as the BZD receptor) at the GABA-A receptor complex, magnifying the efficicacy and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by increasing its ability to bind more readily to its own [[receptor]]s.<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> This is known as positive allosteric modulation.<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3684331/#s2title</ref> As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of etizolam on the nervous system.\n\n==Subjective effects==\nAnecdotal reports suggest that in terms of its relative potency, 1&nbsp;mg of etizolam is approximately equivalent to 0.5&nbsp;mg of [[alprazolam]] ('''Xanax'''), 0.5&nbsp;mg of [[clonazepam]] ('''Klonopin'''), or 10&nbsp;mg of [[diazepam]] ('''Valium'''). It is often compared to a less potent and [[sedation|sedating]] version of [[alprazolam]] in terms of the speed of its onset, total duration, and recreational effect. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' - Etizolam is sedating in a rapid-acting fashion. At higher doses, this can lead users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Muscle relaxation]]''' This effect can be described as similar to [[diazepam]], albeit mild-moderately less prominent depending on the dose. Low doses around 0.5-1mg typically cause an effect comparable to [[alprazolam]].\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Seizure suppression]]'''{{citation needed}}\n*'''[[Effect::Appetite enhancement]]''' - This effect is not particularly prominent, but is reported to occur in some people. It can have a synergistic effect when combined with [[cannabis]].\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n\n}}\n{{effects/paradoxical|\n\nParadoxical reactions to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref> These paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref> Although not formally studied, thienodiazepines are assumed to share this risk. \n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Cognitive euphoria]]''' - This effect is generally produced only at high doses, and is thought to arise largely from the release of pre-existing [[anxiety]] in the user. Many users report not feeling any pleasurable or euphoric sensations from [[benzodiazepines]] or [[thienodiazepines]] like etizolam at all.\n*'''[[Effect::Compulsive redosing]]''' - Compulsive redosing likely occurs due to the rapid way in which the substance produces its anxiety-relieving, relaxing and sometimes euphoric effects before quickly dropping off. It can be made worse due to the [[memory suppression]] it produces which can lead the user forgetting they have taken any at all, which can lead to a cycle that leads to a dangerous [[amnesia|amnesic]] blackout state.\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Delusions#Delusions of sobriety|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at high to heavy dosages.\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Emotion suppression]]''' - Although this compound primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotic|antipsychotics]].\n*'''[[Effect::Sleepiness]]'''\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]] and [[etizolam]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]''' or '''[[Effect::Dream suppression]]'''\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While etizolam can be used as an effective [[hypnotic|sleep-inducing]] aid, its effects may persist into the morning afterwards, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n\n}}\n}}\n===Experience reports===\nThere are currently anecdotal reports which describe the effects of this compound within our [[experience index]].\n{{#ask: [[Category:Etizolam]][[Category:Experience]]|format=ul|Columns=1}}. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Etizolam.shtml Erowid Experience Vaults: Etizolam]\n\n==Toxicity and harm potential==\n[[File:Blepharospasm.png|thumb|250px|[http://en.wikipedia.org/wiki/Blepharospasm Blepharospasms] (twitching eyelid) can occur with long-term use.<ref>{{cite journal | vauthors=((Wakakura, M.)), ((Tsubouchi, T.)), ((Inouye, J.)) | journal=Journal of Neurology, Neurosurgery, and Psychiatry | title=Etizolam and benzodiazepine induced blepharospasm | volume=75 | issue=3 | pages=506–507 | date= March 2004 | issn=0022-3050 | doi=10.1136/jnnp.2003.019869}}</ref> Rarely, [http://en.wikipedia.org/wiki/Erythema_annulare_centrifugum erythema annulare centrifugum] skin lesions have also been reported.<ref>{{cite journal | vauthors=((Kuroda, K.)), ((Yabunami, H.)), ((Hisanaga, Y.)) | journal=Clinical and Experimental Dermatology | title=Etizolam-induced superficial erythema annulare centrifugum | volume=27 | issue=1 | pages=34–36 | date= January 2002 | issn=0307-6938 | doi=10.1046/j.0307-6938.2001.00943.x}}\n</ref>]]\n{{Further|Research chemicals#Toxicity and harm potential}}\nEtizolam likely has a [[Toxicity::low toxicity]] relative to dose.<ref>{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine metabolism: an analytical perspective | volume=9 | issue=8 | pages=827–844 | date= October 2008 | issn=1389-2002 | doi=10.2174/138920008786049258}}\n</ref>  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] such as [[volumetric dosing]] when using this substance. \n\n===Tolerance and addiction potential===\nLike most benzodiazepines, etizolam is considered to be [[Addiction potential::highly addictive with a high potential for abuse]]. \n\nIn one study in which multiple doses of either etizolam or lorazepam were administered to rat neurons, tolerance to the anticonvulsant effects of lorazepam but not to etizolam was observed.<ref name=\"thirteen\">{{cite journal | vauthors=((Sanna, E.)), ((Busonero, F.)), ((Talani, G.)), ((Mostallino, M. C.)), ((Mura, M. L.)), ((Pisu, M. G.)), ((Maciocco, E.)), ((Serra, M.)), ((Biggio, G.)) | journal=European Journal of Pharmacology | title=Low tolerance and dependence liabilities of etizolam: molecular, functional, and pharmacological correlates | volume=519 | issue=1–2 | pages=31–42 | date=5 September 2005 | issn=0014-2999 | doi=10.1016/j.ejphar.2005.06.047}}</ref> Etizolam therefore has a reduced liability to induce tolerance, and dependence when compared with classic benzodiazepines.<ref name=\"thirteen\" />\n\nTolerance will, however, develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\n[[Benzodiazepine#Discontinuation|Thienodiazepine discontinuation]] is notoriously difficult and potentially life-threatening for heavy or long-term users.  There is an increased risk of seizure following discontinuation of thienodiazepines. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from thienodiazepines in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide]. Substances which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\nEtizolam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepine]]s and [[thienodiazepine]]s]], meaning that after its consumption all benzo and thienodiazepines will have a reduced effect.\n\n===Overdose===\nThienodiazepine overdose may occur when taken in extremely heavy quantities or concurrently with other depressants. \nThis is particularly dangerous with other GABAergic depressants such as [[barbiturate |barbiturates]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. \nThienodiazepine increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. \nThienodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a thienodiazepine overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death. \nThienodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. \nThienodiazepine overdoses are sometimes treated with [[flumazenil]], a GABA<sub>A</sub> antagonist<ref>{{cite journal | vauthors=((Hoffman, E. J.)), ((Warren, E. W.)) | journal=Clinical Pharmacy | title=Flumazenil: a benzodiazepine antagonist | volume=12 | issue=9 | pages=641–656; quiz 699–701 | date= September 1993 | issn=0278-2677}}\n</ref>. However, care is primarily supportive in nature.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  It is dangerous to combine thienzodiazepines with [[stimulant]]s due to the risk of excessive intoxication. Stimulants mask the [[sedation|sedative]] effect of thienzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of thienzodiazepines will be significantly increased, leading to intensified [[disinhibition]]. If combined, one should strictly limit themselves to only dose a certain amount of thienzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\nInternationally, etizolam was added to the UN Convention on Psychotropic Substances as a Schedule IV controlled substance in March 2020.<ref>{{cite web|url=https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3|date=December 2019|title=WHO: World Health Organization recommends 12 NPS for scheduling|access-date=October 16, 2020}}</ref><ref>{{cite web|url=https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d|title=CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting|date=March 18, 2020|publisher=World Health Organization (WHO)|access-date=October 16, 2020}}</ref>\n\n*'''Australia''': Schedule 4 issued by the Office of Drug Control, in accordance with Regulation 5 of the Customs (Prohibited Imports) Regulations 1956. Does not state it is Schedule 4 in Poison Standard October 2020<ref>{{Citation | vauthors=Health | title=Poisons Standard October 2020 | url=http://www.legislation.gov.au/Details/F2020L01255/Html/Text}}</ref>, but it may fall under the analog act for deschloroetizolam. License and permit are required for import/export.\n*'''Austria''': Etizolam is illegal to possess, produce, supply, or import since 2012<ref>{{cite web|url=https://www.oesterreich.gv.at/themen/gesundheit_und_notfaelle/sucht/2/1/Seite.1520660.html|title=Neue Psychoaktive Substanzen|publisher=Bundeskriminalamt Österreich|access-date=February 17, 2022|language=de}}</ref> under the NPSG (''Neue Psychoaktive Substanzen Gesetz''). However, offenders with no intent to distribute will likely not have to face a charge.<ref>{{cite web|url=https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007605|title=NPSG |publisher=Bundeskriminalamt Österreich|access-date=February 17, 2022|language=de}}</ref>\n*'''Brazil''':  Since March 23, 2021, due to ANVISA's Resolution RDC nº 473<ref>{{cite web|url=http://antigo.anvisa.gov.br/documents/10181/6236630/%282%29RDC_473_2021_.pdf/7a65445f-52a1-4533-97c7-6d96eff3b8e1|title=Resolução de diretoria colegiada - RDC Nº 473|access-date=May 20, 2021|language=pt-br}}</ref>, possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344<ref>{{cite web|url=https://web.archive.org/web/20210520204528/https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/lista-substancias|title=Portaria SVS/MS nº 344 - Lista de substâncias sujeitas a controle especial no Brasil|access-date=May 20, 2021|language=pt-br}}</ref>.\n*'''Canada''': Etizolam appears to be captured under section 18 of the CDSA's Schedule VI as \"Benzodiazepines, salts thereof and their derivatives\"\n*'''Germany''': Etizolam is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of July 17, 2013.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav#__bgbl__//*%5B@attr_id=%27bgbl113s2274.pdf%27%5D|title=Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmvv_1998/__8.html|title=§ 8 BtMVV|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''Japan''': Etizolam is controlled by Japan by the Narcotics and Psychotropics Control Law, which makes it illegal to possess, sell, or manufacture it without a prescription.<ref>{{cite web|title=新たに３物質を向精神薬に指定します|language=ja|url=https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/oshirase/20160914-1.html|publisher=厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]|access-date=March 28, 2021}}</ref>\n*'''Poland''': Etizolam is a NPS class drug in Poland, making it illegal to possess or distribute.<ref>{{cite web|title=Rozporządzenie Ministra zdrowia z dnia 21 sierpnia 2019 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych|url=http://prawo.sejm.gov.pl/isap.nsf/download.xsp/WDU20190001745/O/D20191745.pdf|language=pl}}</ref>\n*'''Russia''': In Russia, since 2017, etizolam is a Schedule III controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 12.07.2017 N 827 “О внесении изменений в некоторые акты Правительства Российской Федерации в связи с совершенствованием контроля за оборотом наркотических средств и психотропных веществ” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=220067&dst=1000000001&date=02.12.2019}}</ref>\n*'''Switzerland''': Etizolam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Etizolam is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''The Netherlands''': Etizolam is a List 2 substance of the Opium Law, making it illegal.<ref>{{Citation|title=Opiumwet, Lijst II (Dutch) | year=2023|url=https://wetten.overheid.nl/BWBR0001941/2023-09-12#BijlageII}}</ref>\n*'''United Kingdom''': As of May 31st, 2017, etizolam is a Class C substance in the United Kingdom, making it illegal to possess, produce, or supply.<ref>The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2017 | http://www.tihs.org.uk/timeline/resources/2017-631.pdf</ref>\n*'''United States''': Etizolam was temporarily scheduled on January 23rd, 2023 by the DEA, making Etizolam a Schedule I controlled substance <ref>Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I | https://www.federalregister.gov/documents/2022/12/23/2022-27278/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam</ref>. Prior to its temporary scheduling, some state legislatures have passed laws prohibiting it in their jurisdictions. As of July 2019, etizolam is a controlled substance in the following states: Alabama<ref>{{Citation | title=Alabama Code Title 20. Food, Drugs, and Cosmetics § 20-2-23 | url=https://codes.findlaw.com/al/title-20-food-drugs-and-cosmetics/al-code-sect-20-2-23.html}}</ref>, Arkansas<ref>http://www.healthy.arkansas.gov/aboutadh/rulesregs/controlled_substances_list.pdf</ref>, Florida<ref>{{Citation | title=Statutes & Constitution :View Statutes : Online Sunshine | url=http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/Sections/0893.03.html}}</ref>, Georgia<ref>http://www.namsdl.org/library/946E60B2-ABB3-24A6-F087859B3EA48EC1/</ref>, Louisiana, Mississippi<ref>{{Citation | title=HB1231 (As Sent to Governor) - 2014 Regular Session | url=http://billstatus.ls.state.ms.us/documents/2014/html/HB/1200-1299/HB1231SG.htm}}</ref>, Texas,{{citation needed}} South Carolina<ref>{{Citation | title=Controlled Substance Schedule, SCDHEC | url=https://scdhec.gov/healthcare-quality/drug-control-register-verify/controlled-substance-schedule}}</ref> and Virginia<ref>{{Citation | title=18VAC110-20-322. Placement of chemicals in Schedule I. | url=https://law.lis.virginia.gov/admincode/title18/agency110/chapter20/section322/}}</ref>, Indiana<ref>{{Citation | title=Ellington’s bill banning two deadly drugs could soon be law, State of Indiana House of Representatives | url=https://www.indianahouserepublicans.com/news/press-releases/ellington-s-bill-banning-two-deadly-drugs-could-soon-be-law/}}</ref>, and Ohio{{citation needed}}.\n\n:*'''Arizona:''' In 2018, The State Of Arizona Legislature has listed Etizolam as a controlled substance under House Bill 2033<ref>{{Citation | title=HB2033 - 531R - H Ver | url=https://www.azleg.gov/legtext/53leg/1r/bills/hb2033h.htm}}</ref>\n:*'''Arkansas:''' In August 2014, the state of Arkansas listed etizolam as a Schedule I substance under its substance scheduling guidelines.<ref>http://www.healthy.arkansas.gov/aboutADH/RulesRegs/ControlledSubstanceListSummary.pdf</ref>\n:*'''North Carolina:''' On March 22, 2017, the General Assembly of North Carolina enacted an addendum to the North Carolina Controlled Substances Act including etizolam as a Schedule I substance.\n:*'''Texas:''' On Jun 9, 2017, the state of Texas listed etizolam as a Penalty Group 3 substance with HB 2671.<ref>https://capitol.texas.gov/tlodocs/85R/billtext/pdf/HB02671S.pdf</ref> Contrary to some online reports and conflicting information with the overall Texas controlled substance list website, etizolam became a penalty group 3 substance with the passage of this bill.\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n*[[Diclazepam]]\n*[[Alprazolam]]\n*[[Alcohol]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Etizolam Etizolam (Wikipedia)]\n*[http://www.erowid.org/pharms/etizolam Etizolam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3039 Etizolam (Isomer Design)]\n*[https://drugs-forum.com/wiki/Etizolam Etizolam (Drugs-Forum)]\n\n==Literature==\n\n*Sanna, E., Pau, D., Tuveri, F., Massa, F., Maciocco, E., Acquas, C., ... & Biggio, G. (1999). Molecular and neurochemical evaluation of the effects of etizolam on GABAA receptors under normal and stress conditions. Arzneimittelforschung, 49(02), 88-95. https://doi.org/10.1055/s-0031-1300366\n*Altamura, A. C., Moliterno, D., Paletta, S., Maffini, M., Mauri, M. C., & Bareggi, S. (2013). Understanding the pharmacokinetics of anxiolytic drugs. Expert Opinion on Drug Metabolism & Toxicology, 9(4), 423-440. https://doi.org/10.1517/17425255.2013.759209\n*Fracasso, C., Confalonieri, S., Garattini, S., & Caccia, S. (1991). Single and multiple dose pharmacokinetics of etizolam in healthy subjects. European Journal of Clinical Pharmacology, 40(2), 181-185. https://doi.org/10.1007/BF00280074\n\n==References==\n{{reflist|2}}\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Thienodiazepine]]\n\n{{#set:Featured=true}}"
+}

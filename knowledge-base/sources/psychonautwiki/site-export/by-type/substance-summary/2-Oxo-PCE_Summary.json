@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11333",
+ "type": "substance-summary",
+ "title": "2-Oxo-PCE/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-Oxo-PCE/Summary",
+  "pageid": 11333,
+  "last_edited": "2016-02-04T13:09:16Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2-Oxo-PCE",
+ "plain_text": "",
+ "wikitext": "{{Summary|2-Oxo-PCE}}"
+}

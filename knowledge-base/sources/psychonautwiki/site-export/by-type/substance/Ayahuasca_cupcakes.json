@@ -1,0 +1,288 @@
+{
+ "id": "psychonautwiki:127",
+ "type": "substance",
+ "title": "Ayahuasca cupcakes",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca_cupcakes",
+  "pageid": 127,
+  "last_edited": "2022-11-30T05:31:50Z"
+ },
+ "categories": [
+  "Ayahuasca recipes"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "This alternative simple Ayahuasca recipe is designed to create a preparation that replicates the effects of Ayahuasca while also masking the texture of DMT-containing root bark for the purposes of direct ingestion (following the prior ingestion of a MAOI-containing substance like Syrian rue). It is advised to try to minimize the ingredients used to enable easy ingestion of the plant matter. It should be noted that with this recipe, larger doses means more chocolate will also be consumed, which can add to the amount of nausea typically produced. However, the cake itself is completely edible and has the advantage of producing significantly less nausea overall than a traditional Ayahuasca brew.\n\n300px|thumb|right|6g of Mimosa hostilis root bark (MHRB), in chocolate shredded wheat cupcakes.\n\nMaterials\n\nEquipment\n\n*Blender\n*Mortar and pestle\n*Sieve\n*Glass mixing bowl\n*Saucepan\n*Stirring spoon\n*Cupcake cases\n\nIngredients\n\n*Calculated dosage of Syrian rue (2 - 5g)\n*Calculated dosage of Mimosa hostilis / Acacia confusa root bark (2 - 6g per cupcake)\n*Chocolate of your choosing\n*Shredded wheat\n\nRatios\n\nDepending on how much root bark one is going to consume (and the quality of the root bark itself) the amount of required ingredients will vary. The general ratios are listed as such: \n\n1g Root bark : 17g Chocolate : 7g Shredded wheat\n\nRecipe\n\n#The chocolate is first melted to save some time, this can be done either by filling a saucepan 1/2 the way up with water and left to boil, with the chocolate broken up in the glass bowl on top, or it can be done by using a microwave using 15-second bursts and stirring in between. Grind the Syrian rue into a fine powder with a blender or pestle and mortar.\n#While waiting for the chocolate to melt, the root bark should be blended until it has acquired a stringy consistency. \n#The blended root bark is then placed in a sieve until the powdered root bark has been separated, and put aside as it can be later used for a DMT extraction using sodium hydroxide and naphtha.\n#Crunch up the shredded wheat pillows into a finer consistency. \n#Mix together the shredded wheat and the shredded root bark, the root bark may need to be broken apart with a pair of hands, more shredded wheat can be added if it appears to be not enough to mask the root bark.\n#The chocolate should be melted by this point. The shredded wheat and root bark mix can then be added and stirred into the chocolate. \n#Once mixed together, the mix can then be placed into cupcake cases and placed into the fridge. It should take roughly 20 minutes for the chocolate to solidify. Note: The cakes should last roughly a week or so if sealed with foil or in a plastic container.\n#You should now have a set of psychedelic ayahuasca cupcakes! Be sure to pre-load with the intended dose of Syrian rue 15 - 60 minutes to give it time to produce its MAOI effects before proceeding to consume. This can be done by packaging it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n\nSee also\n\n*Tutorial index\n*Simple Ayahuasca recipes\n*Traditional Ayahuasca brew\n*Ayahuasca experience reports\n*Ayahuasca\n*DMT\n\nCategory:Ayahuasca recipes",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/Ayahuasca}}\n<onlyinclude>\nThis alternative [[:category:Simple Ayahuasca recipes|simple Ayahuasca recipe]] is designed to create a preparation that replicates the effects of [[Ayahuasca]] while also masking the texture of [[DMT]]-containing root bark for the purposes of direct ingestion (following the prior ingestion of a [[MAOI]]-containing substance like [[Syrian rue]]). It is advised to try to minimize the ingredients used to enable easy ingestion of the plant matter. It should be noted that with this recipe, larger doses means more chocolate will also be consumed, which can add to the amount of nausea typically produced. However, the cake itself is completely edible and has the advantage of producing significantly less nausea overall than a [[traditional Ayahuasca brew]].\n\n[[File:IMAG0184.jpg|300px|thumb|right|6g of ''Mimosa hostilis'' root bark ('''MHRB'''), in chocolate shredded wheat cupcakes.]]\n\n===Materials===\n====Equipment====\n*Blender\n*Mortar and pestle\n*Sieve\n*Glass mixing bowl\n*Saucepan\n*Stirring spoon\n*Cupcake cases\n\n====Ingredients====\n*Calculated dosage of ''Syrian rue'' (2 - 5g)\n*Calculated dosage of ''Mimosa hostilis'' / ''Acacia confusa'' root bark (2 - 6g per cupcake)\n*Chocolate of your choosing\n*Shredded wheat\n\n===Ratios===\nDepending on how much root bark one is going to consume (and the quality of the root bark itself) the amount of required ingredients will vary. The general ratios are listed as such: \n\n'''1g Root bark : 17g Chocolate : 7g Shredded wheat'''\n\n===Recipe===\n#The chocolate is first melted to save some time, this can be done either by filling a saucepan 1/2 the way up with water and left to boil, with the chocolate broken up in the glass bowl on top, or it can be done by using a microwave using 15-second bursts and stirring in between. Grind the Syrian rue into a fine powder with a blender or pestle and mortar.\n#While waiting for the chocolate to melt, the root bark should be blended until it has acquired a stringy consistency. \n#The blended root bark is then placed in a sieve until the powdered root bark has been separated, and put aside as it can be later used for a [[DMT extraction using sodium hydroxide and naphtha]].\n#Crunch up the shredded wheat pillows into a finer consistency. \n#Mix together the shredded wheat and the shredded root bark, the root bark may need to be broken apart with a pair of hands, more shredded wheat can be added if it appears to be not enough to mask the root bark.\n#The chocolate should be melted by this point. The shredded wheat and root bark mix can then be added and stirred into the chocolate. \n#Once mixed together, the mix can then be placed into cupcake cases and placed into the fridge. It should take roughly 20 minutes for the chocolate to solidify. '''Note''': The cakes should last roughly a week or so if sealed with foil or in a plastic container.\n#You should now have a set of [[psychedelic]] ayahuasca cupcakes! Be sure to pre-load with the intended dose of [[Syrian rue]] 15 - 60 minutes to give it time to produce its [[MAOI]] effects before proceeding to consume. This can be done by packaging it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n</onlyinclude>\n==See also==\n*[[Tutorial index]]\n*[[:category:Simple Ayahuasca recipes|Simple Ayahuasca recipes]]\n*[[Traditional Ayahuasca brew]]\n*[[Experience index#Ayahuasca|Ayahuasca experience reports]]\n*[[Ayahuasca]]\n*[[DMT]]\n\n[[Category:Ayahuasca recipes]]"
+}

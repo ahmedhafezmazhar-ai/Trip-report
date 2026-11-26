@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10886",
+ "type": "substance-summary",
+ "title": "Dextromethorphan/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Dextromethorphan/Summary",
+  "pageid": 10886,
+  "last_edited": "2015-11-13T05:54:07Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Dextromethorphan",
+ "plain_text": "",
+ "wikitext": "{{Summary|Dextromethorphan}}"
+}

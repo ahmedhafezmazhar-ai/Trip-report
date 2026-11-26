@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22242",
+ "type": "substance-summary",
+ "title": "Aripiprazole/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Aripiprazole/Summary",
+  "pageid": 22242,
+  "last_edited": "2024-06-04T12:15:46Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Aripiprazole",
+ "plain_text": "",
+ "wikitext": "{{Summary|Aripiprazole}}"
+}

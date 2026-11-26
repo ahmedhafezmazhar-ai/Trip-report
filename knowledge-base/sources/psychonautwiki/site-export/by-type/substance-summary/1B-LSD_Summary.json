@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17323",
+ "type": "substance-summary",
+ "title": "1B-LSD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1B-LSD/Summary",
+  "pageid": 17323,
+  "last_edited": "2019-03-08T01:27:19Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1B-LSD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1B-LSD}}"
+}

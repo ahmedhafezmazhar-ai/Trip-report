@@ -1,0 +1,406 @@
+{
+ "id": "psychonautwiki:6819",
+ "type": "substance",
+ "title": "JWH-073",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/JWH-073",
+  "pageid": 6819,
+  "last_edited": "2023-10-28T23:04:59Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Cannabinoid",
+  "Naphthoylindole",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/JWH-073",
+ "substance_box": {
+  "names": {
+   "common": "JWH-073, Spice",
+   "substitutive": "",
+   "systematic": "naphthalen-1-yl-(1-butylindol-3-yl)methanone"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Naphthoylindole"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 3 mg",
+    "light": "3 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 15 mg",
+    "heavy": "15 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "5 - 10 minutes",
+    "peak": "60 - 90 minutes",
+    "offset": "5 - 10 minutes",
+    "aftereffects": "60 - 90 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "JWH-073",
+    "Spice"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Naphthoylindole"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "3"
+   ],
+   "Smoked max light dose": [
+    "5"
+   ],
+   "Smoked min common dose": [
+    "5"
+   ],
+   "Smoked max common dose": [
+    "10"
+   ],
+   "Smoked min strong dose": [
+    "10"
+   ],
+   "Smoked max strong dose": [
+    "15"
+   ],
+   "Smoked min total time": [
+    "1"
+   ],
+   "Smoked max total time": [
+    "2"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "5"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "60"
+   ],
+   "Smoked max peak time": [
+    "90"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "5"
+   ],
+   "Smoked max offset time": [
+    "10"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "60"
+   ],
+   "Smoked max afterglow time": [
+    "90"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of JWH-073.",
+   "clean": "Molecular structure of JWH-073."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:JWH-073.svg",
+   "clean": "File:JWH-073.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::JWH-073]], [[common name::Spice]]",
+   "clean": "JWH-073, Spice"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "naphthalen-1-yl-(1-butylindol-3-yl)methanone",
+   "clean": "naphthalen-1-yl-(1-butylindol-3-yl)methanone"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Naphthoylindole]]",
+   "clean": "Naphthoylindole"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< 3 [[Smoked dose units::mg]]",
+   "clean": "< 3 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::3]] - [[Smoked max light dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::5]] - [[Smoked max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::10]] - [[Smoked max strong dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "15 mg +",
+   "clean": "15 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1]] - [[Smoked max total time::2]] [[Smoked total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::5]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::60]] - [[Smoked max peak time::90]] [[Smoked peak time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::5]] - [[Smoked max offset time::10]] [[Smoked offset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::60]] - [[Smoked max afterglow time::90]] [[Smoked afterglow time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "OralROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "OralROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "JWH-073 is an analgesic chemical from the naphthoylindole family that acts as a full agonist at both the CB1 and CB2 cannabinoid receptors. It is somewhat selective for the CB1 subtype, with affinity at this subtype approximately 5x the affinity at CB2. The abbreviation JWH stands for John W. Huffman, one of the inventors of the compound.\n\nJWH-073 gained popularity in April 2009, when it was claimed by chemists at the University of Freiburg to have been found in a \"fertilizer\" product called \"Forest Humus\", along with another synthetic cannabinoid, CP 47,497. It was subsequently found as a chemical within the popular synthetic cannabis blend Spice, which had been sold in numerous countries around the world since 2002.\n\nCannabinoids are commonly smoked or vaporized to achieve a quick onset of effects and rapid offset. JWH-073 is orally active when dissolved in a lipid, which can increase the duration significantly. Like other cannabinoids, it is insoluble in water but dissolves in ethanol and lipids.\n\nUnlike cannabis, the chronic abuse of synthetic cannabinoids has been associated with multiple deaths and more dangerous side effects and toxicity in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses.\n\nChemistry\n\nJWH-073, or Naphthalen-1-yl-(1-butylindol-3-yl)methanone, is a synthetic cannabinoid containing a substituted indole structure. This indole core is shared with other cannabinoid substances including PB-22, 5F-PB-22, JWH-018, and AM2201. JWH-018 is substituted at R1 with a butyl chain. Additionally, the indole core is substituted at R3 with a carbonyl group which is also bonded to a napthalene moeity. \n\nNapthalene is a bicyclic structure of two fused benzene rings. This carbonyl bridge of JWH-073 classifies it as a ketone. JWH-073 is an analog of THJ-073 in which the core indazole structure is substituted with an indole base.\n\nPharmacology\n\nUnlike most synthetic cannabinoids (including JWH-018) JWH-073 is a full agonist of both the CB1 and CB2 cannabinoid receptors; however, unlike JWH-018, JWH-073 has not been researched well in context to its interactions with humans. However, studies on animals have shown a higher binding profile than THC.\n\nSubjective effects\n\nCombinational effects\n\n*Psychedelics - When used in combination with psychedelics, cannabinoids are capable of intensifying and extending the duration of both the visual and cognitive effects with extreme efficiency. This should be used with caution if one is not experienced with psychedelics.\n*Dissociatives - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced.\n*Alcohol - When used in combination with alcohol, cannabinoids can cause feelings of extreme nausea, dizziness and changes in gravity. It is recommended that one smoke before drinking and not the other way around unless they are extremely cautious.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: JWH-073\n\nToxicity and harm potential\n\nJWH-073, like other cannabinoids, has also been known to exacerbate pre-existing psychological disorders causing intense paranoia, anxiety and agitation; however, Δ9-THC itself has been known to do this as well.\n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase one's current state of mind and emotions. Also, like THC, prolonged usage of synthetic cannabinoids may increase one's disposition to mental illness and psychosis, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to use proper precautions when dosing to avoid a negative experience.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other synthetic cannibanoids, the chronic use of JWH-073 can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of JWH-073 develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). JWH-073 presents cross-tolerance with all cannabinoids, meaning that after the consumption of JWH-073 all cannabinoids will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*Australia: On July 8th, 2011 the AUS government banned the sale of JWH-073. JWH-073 is considered a Schedule 9 prohibited substance in Australia under the Poisons Standard (October 2015). A Schedule 9 substance is a substance which may be abused or misused, the manufacture, possession, sale or use of which should be prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.\n*Austria: JWH-073 is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*Germany: JWH-073 is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of January 22, 2010. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license. A quantity over 6&nbsp;grams is regarded as a 'non-small amount' by decision of the BGH (Federal Supreme Court). In these cases, the range of sentences is increased.\n*Lithuania: JWH-073 is a controlled substance as of May 27, 2009.\n*New Zealand: On May 8th, 2014 the New Zealand government banned the sale of JWH-073.\n*Sweden: A bill to ban JWH-073 under the law 1992:1554 was accepted on July 30, 2009 and entered into force on September 15, 2009.\n*Switzerland: JWH-073 is a controlled substance specifically named under Verzeichnis D. It is a controlled substance as of December 1, 2010.\n*United Kingdom: It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26, 2016.\n*United States: The U.S. DEA temporarily declared JWH-073 a Schedule I controlled substance on March 1, 2011 through 76 FR 11075, and permanently instated the same schedule on July 9, 2012 in the Section 1152 of the Food and Drug Administration Safety and Innovation Act.\n\nSee also\n\n*Responsible use\n*JWH-018\n*THJ-018\n*Synthetic cannabinoid\n*Cannabis\n\nExternal links\n\n*JWH-073 (Wikipedia)\n*JWH-073 (Isomer Design)\n\nReferences\n\nCategory:Research chemical\nCategory:Naphthoylindole\nCategory:Cannabinoid",
+ "wikitext": "{{#setlogo:SmallStonedStare.gif}}\n{{SummarySheet}}\n{{SubstanceBox/JWH-073}}\n\n'''JWH-073''' is an analgesic chemical from the naphthoylindole family that acts as a full agonist at both the [[CB1]] and [[CB2]] [[psychoactive class::cannabinoid]] [[receptor]]s. It is somewhat selective for the CB1 subtype, with affinity at this subtype approximately 5x the affinity at CB2.<ref>{{cite journal | vauthors=((Aung, M. M.)), ((Griffin, G.)), ((Huffman, J. W.)), ((Wu, M.)), ((Keel, C.)), ((Yang, B.)), ((Showalter, V. M.)), ((Abood, M. E.)), ((Martin, B. R.)) | journal=Drug and Alcohol Dependence | title=Influence of the N-1 alkyl chain length of cannabimimetic indoles upon CB(1) and CB(2) receptor binding | volume=60 | issue=2 | pages=133–140 | date=1 August 2000 | issn=0376-8716 | doi=10.1016/s0376-8716(99)00152-0}}</ref> The abbreviation JWH stands for [http://en.wikipedia.org/wiki/John_W._Huffman John W. Huffman], one of the inventors of the compound.\n\nJWH-073 gained popularity in April 2009, when it was claimed by chemists at the University of Freiburg to have been found in a \"fertilizer\" product called \"Forest Humus\", along with another synthetic cannabinoid, CP 47,497.<ref>{{Citation |title=forest-humus-enthalt-synthetische-cannabinoide | url=http://www.pierre-markuse.de/2009/04/20/forest-humus-enthalt-synthetische-cannabinoide}}</ref> It was subsequently found as a chemical within the popular synthetic cannabis blend Spice, which had been sold in numerous countries around the world since 2002.<ref>http://www.fr-online.de/frankfurt_und_hessen/nachrichten/frankfurt/1646010_Gefaehrlicher-Kick-mit-Spice.html</ref><ref>http://www.haz.de/newsroom/wissen/zentral/wissen/art680,757107#</ref><ref>{{Citation | vauthors=((Zeitung, B.)) | title=Spice enthält chemischen Wirkstoff - Panorama - Badische Zeitung | url=https://www.badische-zeitung.de/spice-enthaelt-chemischen-wirkstoff}}</ref>\n\nCannabinoids are commonly smoked or vaporized to achieve a quick [[onset]] of effects and rapid [[offset]]. JWH-073 is [[oral]]ly active when dissolved in a lipid, which can increase the duration significantly. Like other [[cannabinoid]]s, it is insoluble in water but dissolves in [[ethanol]] and lipids.\n\nUnlike [[cannabis]], the chronic abuse of [[synthetic cannabinoids]] has been [[Synthetic_cannabinoid#Deaths|associated with multiple deaths]] and [[Synthetic cannabinoid#Harm potential|more dangerous side effects and toxicity]] in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses.\n==Chemistry==\nJWH-073, or Naphthalen-1-yl-(1-butylindol-3-yl)methanone, is a [[synthetic cannabinoid]] containing a substituted indole structure. This indole core is shared with other cannabinoid substances including [[PB-22]], [[5F-PB-22]], JWH-018, and AM2201. JWH-018 is substituted at R<sub>1</sub> with a butyl chain. Additionally, the indole core is substituted at R<sub>3</sub> with a carbonyl group which is also bonded to a napthalene moeity. \n\nNapthalene is a bicyclic structure of two fused benzene rings. This carbonyl bridge of JWH-073 classifies it as a ketone. JWH-073 is an analog of [[THJ-073]] in which the core indazole structure is substituted with an indole base.\n\n==Pharmacology==\nUnlike most [[synthetic cannabinoids]] (including JWH-018) JWH-073 is a full [[agonist]] of both the [[CB1]] and [[CB2]] [[cannabinoid]] [[receptors]]; however, unlike JWH-018, JWH-073 has not been researched well in context to its interactions with humans. However, studies on animals have shown a higher binding profile than [[THC]].<ref>{{cite journal | vauthors=((Rajasekaran, M.)), ((Brents, L. K.)), ((Franks, L. N.)), ((Moran, J. H.)), ((Prather, P. L.)) | journal=Toxicology and Applied Pharmacology | title=Human metabolites of synthetic cannabinoids JWH-018 and JWH-073 bind with high affinity and act as potent agonists at cannabinoid type-2 receptors | volume=269 | issue=2 | pages=100–108 | date=1 June 2013 | url=https://www.sciencedirect.com/science/article/pii/S0041008X13001087 | issn=0041-008X | doi=10.1016/j.taap.2013.03.012}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous tactile sensations]]''' - The \"body high\" of JWH-073 can be described as a warm and soft pleasurable, all-encompassing tingling sensation that spreads over the body in a prior to initial ingestion. It maintains a consistent presence that quickly rises with the onset and hits its limit once the peak has been reached before immediately dissipating. It can be described as less intense in proportion to cognitive effects when compared to [[JWH-018]] \n*'''[[Effect::Sedation]]''' - Generally, the effects on the user's energy levels are sedating. This encourages one to relax, lie down, and at higher doses, fall asleep. It produces moderate sedative effects that can be described as less powerful than [[JWH-018]], [[5F-AKB48]], and [[5F-PB-22]] but more sedating when compared to [[THC]],[[THJ-018]], [[AM-2201]], or [[5F-UR-144]].\n*'''[[Effect::Motor control loss]]''' - This substance causes a partial to moderate suppression of motor control which intensifies proportional to dosage but rarely results in a complete inability to walk and perform basic movements.\n*'''[[Effect::Appetite enhancement]]''' - As with many other cannabinoids, JWH-073 causes an increase in appetite<ref>{{cite book | veditors=((Mechoulam, R.)) | date= 1986 | title=Cannabinoids as therapeutic agents | publisher=CRC Press | isbn=9780849357725}}</ref>, known colloquially as \"the munchies\" in popular American and United Kingdom culture. Clinical studies and survey data have found that cannabis increases food enjoyment and interest in food.<ref name=\"HMW\">{{Citation | year=2001 | title=How Marijuana Works | url=https://science.howstuffworks.com/marijuana.htm}}</ref> This is thought to be due to the way in which endocannabinoids in the hypothalamus activate cannabinoid receptors that are responsible for maintaining food intake.<ref name=\"HMW\"></ref>\n*'''[[Effect::Dehydration]]'''- This is known colloquially as \"cotton mouth\" in popular American and United Kingdom culture.\n*'''[[Effect::Vasodilation]]''' - Cannabinoids appear to decrease blood pressure by dilating the blood vessels and increasing blood flow throughout the body. The arteries in the eyeball expand from the decreased blood pressure and the heart rate increases to compensate for the reduction in pressure. \n*'''[[Effect::Pain relief]]''' - Cannabinoids have been clinically demonstrated to provide pain relief via agonism of cannabinoid receptors CB<sub>1</sub> and CB<sub>2</sub>, which extends to [[synthetic cannabinoid]] receptor agonists.<ref>{{cite journal | vauthors=((Martín-Sánchez, E.)), ((Furukawa, T. A.)), ((Taylor, J.)), ((Martin, J. L. R.)) | journal=Pain Medicine | title=Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain | volume=10 | issue=8 | pages=1353–1368 | date= November 2009 | url=https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x | issn=1526-2375 | doi=10.1111/j.1526-4637.2009.00703.x}}</ref><ref>{{cite journal | vauthors=((Lynch, M. E.)), ((Campbell, F.)) | journal=British Journal of Clinical Pharmacology | title=Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain | volume=72 | issue=5 | pages=735–744 | date= November 2011 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x | issn=03065251 | doi=10.1111/j.1365-2125.2011.03970.x}}</ref>\n*'''[[Effect::Perception of bodily heaviness]]''' ''or'' '''[[Perception of bodily lightness]]'''\n*'''[[Effect::Changes in gravity]]''' - JWH-073, like other cannabinoids, is capable of causing vertigo with which the environment appears to be spinning or oscillating. At moderate doses, it can spontaneously induce the sensation of falling, which can be overwhelming and uncomfortable. The propensity of this is greatly reduced and eliminated in proportion to tolerance.\n\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Emotion enhancement]]''' - The most prominent cognitive component of cannabinoids is the way in which they enhances the emotions one is already feeling proportional to dosage. This can result in euphoria, extreme laughter, or increased immersion within tasks and activities or it can result in anxiety or paranoia depending on the user's current state of mind.\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - This can be considered very prominent in comparison to [[JWH-018]], [[THJ-018]], [[AM-2201]], and [[5F-UR-144]].\n*'''[[Effect::Thought connectivity]]''' - This can attribute to fluid, more abstract thinking in comparison to linear thought.\n*'''[[Effect::Anxiety]]''' - Subjectively, JWH-073 is less anxiogenic and stimulating than [[Δ9-THC]], [[JWH-018]], [[THJ-018]], [[AM-2201]], or [[5F-UR-144]].\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Dream suppression]]'''\n*'''[[Effect::analysis suppression]]'''\n*'''[[Effect::Paranoia]]''' - All cannabinoids are capable of inducing paranoia at high doses, or with chronic administration, but the intensity of which can be considered much less when compared to [[Δ9-THC]], [[JWH-018]], [[5F-AKB48]] and [[5F-UR-144]].\n*'''[[Effect::Psychosis]]''' - The prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to psychosis<ref name=\"Arseneault2004\">{{cite journal | vauthors=((Arseneault, L.)), ((Cannon, M.)), ((Witton, J.)), ((Murray, R. M.)) | journal=The British Journal of Psychiatry | title=Causal association between cannabis and psychosis: examination of the evidence | volume=184 | issue=2 | pages=110–117 | date= February 2004 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4 | issn=0007-1250 | doi=10.1192/bjp.184.2.110}}</ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\">{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Drug and Alcohol Dependence | title=Synthetic cannabinoid JWH-018 and psychosis: An explorative study | volume=117 | issue=2–3 | pages=152–157 | date= September 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639 | issn=03768716 | doi=10.1016/j.drugalcdep.2011.01.012}}</ref><ref name=\"Osterhoudt2010\">{{cite journal | vauthors=((Vearrier, D.)), ((Osterhoudt, K. C.)) | journal=Pediatric Emergency Care | title=A Teenager With Agitation: Higher Than She Should Have Climbed | volume=26 | issue=6 | pages=462–465 | date= June 2010 | url=http://journals.lww.com/00006565-201006000-00016 | issn=0749-5161 | doi=10.1097/PEC.0b013e3181e4f416}}</ref>\n*'''[[Effect::Thought deceleration]]'''\n}}\n{{effects/visual|\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Geometry]]''' - As reported with other cannabinoids, JWH-073 can produce closed eye visuals at moderate doses, which can escalate into visual distortions such as a ripples in the field of vision upon continuous administration. Within users who also regularly use psychedelics, it is capable of inducing these consistently in a visual style which seems to be an averaged out depiction of all the psychedelics one has used within the past. These rarely extend beyond level 4 and are considered to be mild, fine, small and zoomed out but brighter and better defined than the geometry experienced with cannabis. \n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n}}\n}}\n\n\n\n\n===Combinational effects===\n\n*'''[[Psychedelics]]''' - When used in combination with psychedelics, cannabinoids are capable of intensifying and extending the duration of both the visual and cognitive effects with extreme efficiency. This should be used with caution if one is not experienced with psychedelics.\n*'''[[Dissociatives]]''' - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced.\n*'''[[Alcohol]]''' - When used in combination with alcohol, cannabinoids can cause feelings of extreme nausea, dizziness and changes in gravity. It is recommended that one smoke before drinking and not the other way around unless they are extremely cautious.\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_JWH073.shtml Erowid Experience Vaults: JWH-073]\n\n==Toxicity and harm potential==\n{{further|Synthetic cannabinoid#Toxicity and harm potential|Research chemicals#Toxicity and harm potential}}\nJWH-073, like other cannabinoids, has also been known to exacerbate pre-existing psychological disorders causing intense paranoia, anxiety and agitation; however, [[Δ9-THC]] itself has been known to do this as well.<ref>{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Addiction | title=WARNING: LEGAL SYNTHETIC CANNABINOID-RECEPTOR AGONISTS SUCH AS JWH-018 MAY PRECIPITATE PSYCHOSIS IN VULNERABLE INDIVIDUALS: Letters to the Editor | volume=105 | issue=10 | pages=1859–1860 | date= October 2010 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.2010.03119.x | issn=09652140 | doi=10.1111/j.1360-0443.2010.03119.x}}</ref>\n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase [[emotion enhancement|one's current state of mind and emotions]]. Also, like [[THC]], prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to mental illness and psychosis<ref name=\"Arseneault2004\"></ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\" /><ref name=\"Osterhoudt2010\" />\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to [[Dosage|use proper precautions when dosing]] to avoid a negative experience.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other synthetic cannibanoids, the chronic use of JWH-073 can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of JWH-073 [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). JWH-073 presents cross-tolerance with [[Cross-tolerance::all [[cannabinoids]]]], meaning that after the consumption of JWH-073 all cannabinoids will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Cannabis}}\n\n==Legal status==\n\n*'''Australia''': On July 8th, 2011 the AUS government banned the sale of JWH-073.<ref>http://www.tga.gov.au/pdf/scheduling/scheduling-decisions-1107-final.pdf</ref> JWH-073 is considered a Schedule 9 prohibited substance in Australia under the Poisons Standard (October 2015).<ref name=\"PoisonStandard2015\">{{Citation | vauthors=Health | title=Poisons Standard October 2015 | url=https://www.legislation.gov.au/Details/F2015L01534}}</ref> A Schedule 9 substance is a substance which may be abused or misused, the manufacture, possession, sale or use of which should be prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of Commonwealth and/or State or Territory Health Authorities.<ref name=\"PoisonStandard2015\" />\n*'''Austria''': JWH-073 is illegal to possess, produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Germany''': JWH-073 is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 30, 2019|language=de}}</ref> as of January 22, 2010.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl109s3944.pdf|title=Vierundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2009 Teil I Nr. 80|publication-date=December 23, 2009|pages=3944-3945|access-date=December 30, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> A quantity over 6&nbsp;grams is regarded as a 'non-small amount' by decision of the BGH (''Federal Supreme Court'').<ref>{{cite news|url=http://www.juris.de/jportal/portal/page/homerl.psml?nid=jnachr-JUNA150100068&cmsuri=%2Fjuris%2Fde%2Fnachrichten%2Fzeigenachricht.jsp|title=&quot;Legal Highs&quot;: Grenzwerte für synthetische Cannabinoide festgesetzt|archive-url=https://web.archive.org/web/20150321172924/http://www.juris.de/jportal/portal/page/homerl.psml?nid=jnachr-JUNA150100068&cmsuri=%2Fjuris%2Fde%2Fnachrichten%2Fzeigenachricht.jsp|archive-date=March 21, 2015|publisher=juris|access-date=December 30, 2019|language=de}}</ref> In these cases, the range of sentences is increased.\n*'''Lithuania''': JWH-073 is a controlled substance as of May 27, 2009.<ref name=\"EMCDDA\">{{cite web|url=http://www.emcdda.europa.eu/attachements.cfm/att_80086_EN_Spice%20Thematic%20paper%20%E2%80%94%20final%20version.pdf|title=THEMATIC PAPERS: Understanding the 'Spice' phenomenon|publisher=European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)|access-date=December 30, 2019|issn=1725-5767|doi=10.2810/27063|isbn=978-92-9168-411-3|year=2009}}</ref>\n*'''New Zealand''': On May 8th, 2014 the New Zealand government banned the sale of JWH-073.<ref>https://www.drugfoundation.org.nz/synthetic-cannabinoids/what-they-are</ref>\n*'''Sweden''': A bill to ban JWH-073 under the law 1992:1554 was accepted on July 30, 2009 and entered into force on September 15, 2009.<ref name=\"EMCDDA\"></ref>\n*'''Switzerland''': JWH-073 is a controlled substance specifically named under Verzeichnis D. It is a controlled substance as of December 1, 2010.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States''': The U.S. DEA temporarily declared JWH-073 a Schedule I controlled substance on March 1, 2011 through 76 FR 11075, and permanently instated the same schedule on July 9, 2012 in the Section 1152 of the Food and Drug Administration Safety and Innovation Act.<ref>Schedules of Controlled Substances: Temporary Placement of Four Synthetic Cannabinoids Into Schedule I | http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0110_10.htm</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[JWH-018]]\n*[[THJ-018]]\n*[[Synthetic cannabinoid]]\n*[[Cannabis]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/JWH-073 JWH-073 (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=4008 JWH-073 (Isomer Design)]\n\n==References==\n<references />\n[[Category:Research chemical]]\n[[Category:Naphthoylindole]]\n[[Category:Cannabinoid]]\n{{#set:Featured=true}}"
+}

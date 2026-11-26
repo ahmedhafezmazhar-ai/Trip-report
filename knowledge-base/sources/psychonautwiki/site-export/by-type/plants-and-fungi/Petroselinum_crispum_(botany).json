@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11425",
+ "type": "plants-and-fungi",
+ "title": "Petroselinum crispum (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Petroselinum_crispum_%28botany%29",
+  "pageid": 11425,
+  "last_edited": "2025-11-29T04:16:40Z"
+ },
+ "categories": [
+  "Apiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n*Parsley (Wikipedia)\n\nCategory:Apiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Petroselinum crispum}}\n==External links==\n*[[wikipedia:Parsley|''Parsley'' (Wikipedia)]]\n\n[[Category:Apiaceae (family)]]"
+}

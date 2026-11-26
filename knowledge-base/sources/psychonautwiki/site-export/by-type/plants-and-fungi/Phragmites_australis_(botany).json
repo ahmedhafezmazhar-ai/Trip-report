@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:11382",
+ "type": "plants-and-fungi",
+ "title": "Phragmites australis (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phragmites_australis_%28botany%29",
+  "pageid": 11382,
+  "last_edited": "2025-11-29T04:22:07Z"
+ },
+ "categories": [
+  "DMT-containing plants",
+  "Poaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "Category:Poaceae (family)\ncategory:DMT-containing plants",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Phragmites_australis}}\n\n[[Category:Poaceae (family)]]\n[[category:DMT-containing plants]]"
+}

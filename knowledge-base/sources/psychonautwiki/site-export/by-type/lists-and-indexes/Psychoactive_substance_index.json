@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:4744",
+ "type": "lists-and-indexes",
+ "title": "Psychoactive substance index",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Psychoactive_substance_index",
+  "pageid": 4744,
+  "last_edited": "2025-07-13T17:18:31Z"
+ },
+ "categories": [],
+ "plain_text": "__NOTOC__\n\n__NOTOC__",
+ "wikitext": "<noinclude>__NOTOC__</noinclude>\n{{SubmissionPanel/Substance}}\n{{Substances/Content}}<noinclude>__NOTOC__</noinclude><onlyinclude>\n{{:List/substances}}\n</onlyinclude>\n{{Effects/SeeAlso}}\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,645 @@
+{
+ "id": "psychonautwiki:7723",
+ "type": "substance",
+ "title": "Cannabis butter",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabis_butter",
+  "pageid": 7723,
+  "last_edited": "2023-03-15T14:17:48Z"
+ },
+ "categories": [
+  "Cannabis recipes",
+  "Chemical conversion"
+ ],
+ "substance_box_template": "SubstanceBox/Cannabis",
+ "substance_box": {
+  "names": {
+   "common": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang.",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Cannabinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Depends on potency, tolerance and route of administration.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg THC",
+    "light": "2.5 - 5 mg THC",
+    "common": "5 - 10 mg THC",
+    "strong": "10 - 25 mg THC",
+    "heavy": "25 mg THC +",
+    "duration": "4 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "4 - 6 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "*Depends on potency, tolerance and route of administration.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.4 mg THC",
+    "light": "0.4 - 2 mg THC",
+    "common": "2 - 4 mg THC",
+    "strong": "4 - 10 mg THC",
+    "heavy": "10 mg THC +",
+    "duration": "2.5 - 5 hours",
+    "onset": "0.1 - 10 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "15 - 45 minutes",
+    "offset": "3 - 4 hours",
+    "aftereffects": "45 - 180 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "3 - 7 hours",
+    "onset": "1 - 10 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "4 - 6 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cannabis",
+    "THC",
+    "Marijuana",
+    "Weed",
+    "Pot",
+    "Mary Jane",
+    "Grass",
+    "Herb",
+    "Green",
+    "Bud",
+    "Tree"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Cannabinoid"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "0.4"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.4"
+   ],
+   "Smoked max light dose": [
+    "2"
+   ],
+   "Smoked min common dose": [
+    "2"
+   ],
+   "Smoked max common dose": [
+    "4"
+   ],
+   "Smoked min strong dose": [
+    "4"
+   ],
+   "Smoked max strong dose": [
+    "10"
+   ],
+   "Smoked heavy dose": [
+    "10"
+   ],
+   "Smoked min total time": [
+    "2.5"
+   ],
+   "Smoked max total time": [
+    "5"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "0.1"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min comeup time": [
+    "5"
+   ],
+   "Smoked max comeup time": [
+    "10"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "15"
+   ],
+   "Smoked max peak time": [
+    "45"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "3"
+   ],
+   "Smoked max offset time": [
+    "4"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "45"
+   ],
+   "Smoked max afterglow time": [
+    "180"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Sublingual min total time": [
+    "3"
+   ],
+   "Sublingual max total time": [
+    "7"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "1"
+   ],
+   "Sublingual max onset time": [
+    "10"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "15"
+   ],
+   "Sublingual max comeup time": [
+    "30"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "30"
+   ],
+   "Sublingual max peak time": [
+    "60"
+   ],
+   "Sublingual peak time units": [
+    "minutes"
+   ],
+   "Sublingual min offset time": [
+    "4"
+   ],
+   "Sublingual max offset time": [
+    "6"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Cannabis (Botany).png",
+   "clean": "File:Cannabis (Botany).png"
+  },
+  "PhotoImageWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Drawing of Cannabis sativa",
+   "clean": "Drawing of Cannabis sativa"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "A flowering cannabis plant.",
+   "clean": "A flowering cannabis plant."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Cannabis Plant.jpg",
+   "clean": "File:Cannabis Plant.jpg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "230px",
+   "clean": "230px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cannabis]], [[common name:: THC]], [[common name::Marijuana]], [[common name::Weed]], [[common name::Pot]], [[common name::Mary Jane]], [[common name::Grass]], [[common name::Herb]], [[common name::Green]], [[common name::Bud]], [[common name::Tree]]. [https://en.wikipedia.org/wiki/List_of_names_for_cannabis More names], and [https://en.wikipedia.org/wiki/List_of_slang_names_for_cannabis slang].",
+   "clean": "Cannabis,  THC, Marijuana, Weed, Pot, Mary Jane, Grass, Herb, Green, Bud, Tree. More names, and slang."
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "Depends on potency, tolerance and route of administration."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]] THC",
+   "clean": "1 mg THC"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg THC",
+   "clean": "2.5 - 5 mg THC"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] mg THC",
+   "clean": "5 - 10 mg THC"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::25]] mg THC",
+   "clean": "10 - 25 mg THC"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]] mg THC +",
+   "clean": "25 mg THC +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "*Depends on potency, tolerance and [[Routes of administration|route of administration]].",
+   "clean": "*Depends on potency, tolerance and route of administration."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::0.4]] [[Smoked dose units::mg]] THC",
+   "clean": "0.4 mg THC"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.4]] - [[Smoked max light dose::2]] mg THC",
+   "clean": "0.4 - 2 mg THC"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::2]] - [[Smoked max common dose::4]] mg THC",
+   "clean": "2 - 4 mg THC"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::4]] - [[Smoked max strong dose::10]] mg THC",
+   "clean": "4 - 10 mg THC"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::10]] mg THC +",
+   "clean": "10 mg THC +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::2.5]] - [[Smoked max total time::5]] [[Smoked total time units::hours]]",
+   "clean": "2.5 - 5 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0.1]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "0.1 - 10 minutes"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::5]] - [[Smoked max comeup time::10]] [[Smoked comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::15]] - [[Smoked max peak time::45]] [[Smoked peak time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::3]] - [[Smoked max offset time::4]] [[Smoked offset time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::45]] - [[Smoked max afterglow time::180]] [[Smoked afterglow time units::minutes]]",
+   "clean": "45 - 180 minutes"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::3]] - [[Sublingual max total time::7]] [[Sublingual total time units::hours]]",
+   "clean": "3 - 7 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::1]] - [[Sublingual max onset time::10]] [[Sublingual onset time units::minutes]]",
+   "clean": "1 - 10 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::15]] - [[Sublingual max comeup time::30]] [[Sublingual comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::30]] - [[Sublingual max peak time::60]] [[Sublingual peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::4]] - [[Sublingual max offset time::6]] [[Sublingual offset time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "The primary psychoactive components of cannabis are fat-soluble, meaning the molecules that produce their psychoactive effects bind onto any sort of lipid, including whole milk, butter, cream or coconut, olive, or vegetable oil. \n\nIn these “fatty” forms, THC and other cannabinoids can most easily absorb into the bloodstream, thus providing the strongest possible psychoactive effect. A person should never simply add cannabis directly to brownie mix. Without binding the THC to a fat molecule in a compound like cannabutter, most of the effect will be lost.\n\nThis preparation will cover two methods of preparation: standard and long simmer preparation.\n\nMaterials\n\nIngredients\n\n* 1/2 cup (113 g) or one stick of butter or margarine\n* 1 ounce (28 g) of cannabis buds (finely ground)\n\nEquipment\n\n* IR-thermometer\n* Sauce pan\n* Grinder\n* Wooden ladle\n* Spoon\n* Metal strainer/cheese cloth\n* Container with sealed lid\n* Oven thermometer (optional)\n* Cake pan\n* Tin foil\n\nVariants of decarboxylation\n\nIt is important to note that one should not bring cannabis or cannabudder to heat at or in excess of 350° degrees Fahrenheit (176 °C). This includes the decarboxylation process and/or cooking your cannabutter into baked goods. When a recipe calls for excess heat, simply lower the heat and cook the product for longer.\n\nDecarboxylation is a chemical reaction that releases carbon dioxide (CO2). This means that a chemical reaction takes place in which carboxylic acids lose a carbon atom from a carbon chain. Cannabis contains THCa which is not psychoactive as well as THCa and CBDa which are \"decarbed\" when introduced to heat and changed to THC and CBD. Smoking will usually handle this process, however, in this case, one must to do it without destroying the active compounds or plant material.\n\nThere are debates about whether or not this process is necessary if a person is going to use the cannabudder in a baked good, as the baking process is said to decarb the THC. More research needs to be done on this question. I would suggest decarbing anyway.\n\nDecarboxylation of dry buds\n\nSet the oven to a temperature of around 240° - 250° Fahrenheit (115 °C - 120 °C). This should produce results without losing any medicinal potency. This is a good temperature for baked goods too, although it will cause the recipe to take longer. Grind up the plant material.\n\nThis process assumes the cannabis flower is being used, as opposed to kief, hash, or cannabis oil.\n\n1) Preheat the oven. Use an oven thermometer to check the temperature (as classic ovens can be unreliable) and grind up the weed while waiting.\n\n2) Sprinkle your cannabis in a cake pan and then cover it well with silver foil by crimping the foil along the edge of the pan. This will keep any cannabinoid/terpene vapor from escaping.\n\n3) Place this in the oven for 50 to 60 minutes. Less time is needed for older and drier material while more time is needed for fresher material.\n\n4) After the required time has passed, turn the oven off and remove the cannabis. Let it cool down slowly and completely before you unseal the container to allow any cannabinoid/terpene vapor to reabsorb into the cannabis.\n\nInfusions\n\nSimple cannabudder\n\n1) Melt the butter on low heat in a sauce pan. \n\n2) Add the ground buds and simmer on low heat for 45 minutes, stirring frequently. \n\n3) Strain the butter into a glass dish with the strainer or cheese cloth with a tight-fitting lid. Push the back of a spoon against the plant matter and smash it against the strainer to squeeze out every drop of butter available. \n\n4) Discard the plant matter. Use cannabudder immediately or refrigerate/freeze it until it is time to use. Left over plant matter can cause the budder to get moldy if stored in the fridge for too long. If the infusion recipe is scaled up then one pound of butter (4 sticks) can absorb a whole ounce of cannabis; you may want to simmer for up to 60 minutes for this.\n\nLong-simmered cannabudder\n\nInfusion:\n\n1) Use a large pot and fill it halfway with water. You want enough water so that the marijuana will float without touching the bottom of the pot.\n\n2) Add the cannabis and bring the pot to a boil. Reduce the heat and simmer for an hour. \n\n3) Add butter and return the pot to a simmer, stirring occasionally. Simmer for another hour.  \n\n4) Cover the pot. Remove it from heat and allow it to cool. To increase potency, repeat this process twice more, simmering for an hour and then cooling again.\n\n5) After you have completed the third simmering session, prepare for straining while the mixture is still hot. Position the metal strainer over the second stock pot and carefully pour the water, butter, and marijuana mixture through the strainer or cheese cloth. This is easiest to do in the sink. The strainer will catch all the plant matter, so use the back of a large spoon to push the marijuana against the mesh and squeeze out all the butter. Compost or discard the plant matter.\n\nChilling process:\n \nThis will separate the cannabudder from the water. Use a large glass bowl or pot that will fit in the refrigerator. \n\n1) Pour the cannabudder/water mixture inside the pot and cool for 24 hours. The cannabudder will rise to the top and solidify.\n\n2) The next day, return to separate the cannabudder. Cut a chunk out of the top layer and remove it from the cold water. Repeat until you have all the budder drying on paper towels. Scrape off any budder that seems too mushy and save it for a recipe where the excess water isn't a problem, like gooey brownies.\n\n3) Melt the chunks of cannabudder over low heat in a large sauce pan. Once the budder is liquid, pour it into the storage container(s).\n\nHopefully, it'll look like this:\n400px\n\nNotes\n\nAs a general rule, 1 pound (453 g) of butter (4 sticks) can absorb 1 ounce (28 g) of cannabis. For medical patients, using 2 ounces of cannabis for each pound of butter (effectively doubling the strength of the cannabutter) is recommended. The recipe shown calls for a smaller amount, but can easily be scaled up or down.\n\nCannabudder can be used over freshly cooked pasta or popcorn, spread on toast or a bagel, or reserved as batches in the fridge or freezer for use in recipes such as  space cake or cannacookies.\n\nSee also\n\n*Responsible use\n*Cannabis\n*Preparation\n\nExternal links\n\n*High Times\n*The Stoner's Cookbook\n*Marijuana Grower's HQ\n\nCategory:Chemical conversion\nCategory:Cannabis recipes‎",
+ "wikitext": "{{Information/Cannabis butter}}\n{{SubstanceBox/Cannabis}}\n{{Disclaimer}}\nThe primary psychoactive components of [[cannabis]] are fat-soluble, meaning the molecules that produce their psychoactive effects bind onto any sort of lipid, including whole milk, butter, cream or coconut, olive, or vegetable oil. \n\nIn these “fatty” forms, THC and other cannabinoids can most easily absorb into the bloodstream, thus providing the strongest possible psychoactive effect. A person should never simply add cannabis directly to brownie mix. Without binding the THC to a fat molecule in a compound like cannabutter, most of the effect will be lost.\n\nThis [[preparation]] will cover two methods of preparation: standard and long simmer preparation.\n\n===Materials===\n====Ingredients====\n* 1/2 cup (113 g) or one stick of butter or margarine\n* 1 ounce (28 g) of cannabis buds (finely ground)\n\n====Equipment====\n* IR-thermometer\n* Sauce pan\n* Grinder\n* Wooden ladle\n* Spoon\n* Metal strainer/cheese cloth\n* Container with sealed lid\n* Oven thermometer (optional)\n* Cake pan\n* Tin foil\n\n===Variants of decarboxylation===\nIt is important to note that one should not bring cannabis or cannabudder to heat at or in excess of 350° degrees Fahrenheit (176 °C). This includes the decarboxylation process and/or cooking your cannabutter into baked goods. When a recipe calls for excess heat, simply lower the heat and cook the product for longer.\n\nDecarboxylation is a chemical reaction that releases carbon dioxide (CO2). This means that a chemical reaction takes place in which carboxylic acids lose a carbon atom from a carbon chain. Cannabis contains [[THCa]] which is not psychoactive as well as [[THCa]] and [[CBDa]] which are \"decarbed\" when introduced to heat and changed to [[THC]] and [[CBD]]. Smoking will usually handle this process, however, in this case, one must to do it without destroying the active compounds or plant material.\n\nThere are debates about whether or not this process is necessary if a person is going to use the cannabudder in a baked good, as the baking process is said to decarb the [[THC]]. More research needs to be done on this question. I would suggest decarbing anyway.\n\n====Decarboxylation of dry buds====\nSet the oven to a temperature of around 240° - 250° Fahrenheit (115 °C - 120 °C). This should produce results without losing any medicinal potency. This is a good temperature for baked goods too, although it will cause the recipe to take longer. Grind up the plant material.\n\nThis process assumes the cannabis flower is being used, as opposed to kief, hash, or cannabis oil.\n\n1) Preheat the oven. Use an oven thermometer to check the temperature (as classic ovens can be unreliable) and grind up the weed while waiting.\n\n2) Sprinkle your cannabis in a cake pan and then cover it well with silver foil by crimping the foil along the edge of the pan. This will keep any cannabinoid/terpene vapor from escaping.\n\n3) Place this in the oven for 50 to 60 minutes. Less time is needed for older and drier material while more time is needed for fresher material.\n\n4) After the required time has passed, turn the oven off and remove the cannabis. Let it cool down '''slowly and completely''' before you unseal the container to allow any cannabinoid/terpene vapor to reabsorb into the cannabis.\n\n====Infusions====\n\n=====Simple cannabudder=====\n1) Melt the butter on low heat in a sauce pan. \n\n2) Add the ground buds and simmer on low heat for 45 minutes, stirring frequently. \n\n3) Strain the butter into a glass dish with the strainer or cheese cloth with a tight-fitting lid. Push the back of a spoon against the plant matter and smash it against the strainer to squeeze out every drop of butter available. \n\n4) Discard the plant matter. Use cannabudder immediately or refrigerate/freeze it until it is time to use. Left over plant matter can cause the budder to get moldy if stored in the fridge for too long. If the infusion recipe is scaled up then one pound of butter (4 sticks) can absorb a whole ounce of cannabis; you may want to simmer for up to 60 minutes for this.\n\n=====Long-simmered cannabudder=====\n\n'''Infusion:'''<br />\n\n1) Use a large pot and fill it halfway with water. You want enough water so that the marijuana will float without touching the bottom of the pot.\n\n2) Add the cannabis and bring the pot to a boil. Reduce the heat and simmer for an hour. \n\n3) Add butter and return the pot to a simmer, stirring occasionally. Simmer for another hour.  \n\n4) Cover the pot. Remove it from heat and allow it to cool. To increase potency, repeat this process twice more, simmering for an hour and then cooling again.\n\n5) After you have completed the third simmering session, prepare for straining while the mixture is still hot. Position the metal strainer over the second stock pot and carefully pour the water, butter, and marijuana mixture through the strainer or cheese cloth. This is easiest to do in the sink. The strainer will catch all the plant matter, so use the back of a large spoon to push the marijuana against the mesh and squeeze out all the butter. Compost or discard the plant matter.\n\n'''Chilling process:'''\n \nThis will separate the cannabudder from the water. Use a large glass bowl or pot that will fit in the refrigerator. \n\n1) Pour the cannabudder/water mixture inside the pot and cool for 24 hours. The cannabudder will rise to the top and solidify.\n\n2) The next day, return to separate the cannabudder. Cut a chunk out of the top layer and remove it from the cold water. Repeat until you have all the budder drying on paper towels. Scrape off any budder that seems too mushy and save it for a recipe where the excess water isn't a problem, like gooey brownies.\n\n3) Melt the chunks of cannabudder over low heat in a large sauce pan. Once the budder is liquid, pour it into the storage container(s).\n\nHopefully, it'll look like this:<br>\n[[File:tumblr_mgjmkkeQyo1qjx1qho1_1280.jpg|400px]]\n\n===Notes===\nAs a general rule, 1 pound (453 g) of butter (4 sticks) can absorb 1 ounce (28 g) of cannabis. For medical patients, using 2 ounces of cannabis for each pound of butter (effectively doubling the strength of the cannabutter) is recommended. The recipe shown calls for a smaller amount, but can easily be scaled up or down.\n\nCannabudder can be used over freshly cooked pasta or popcorn, spread on toast or a bagel, or reserved as batches in the fridge or freezer for use in recipes such as  [[Space Cake|space cake]] or [[Cannacookies|cannacookies]].\n\n===See also===\n*[[Responsible use]]\n*[[Cannabis]]\n*[[Preparation]]\n\n===External links===\n\n*[http://www.hightimes.com High Times]\n*[http://www.thestonerscookbook.com The Stoner's Cookbook]\n*[http://www.marijuanagrowershq.com Marijuana Grower's HQ]\n\n[[Category:Chemical conversion]]\n[[Category:Cannabis recipes‎]]"
+}

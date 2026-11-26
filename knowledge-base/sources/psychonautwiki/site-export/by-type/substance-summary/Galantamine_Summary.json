@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14266",
+ "type": "substance-summary",
+ "title": "Galantamine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Galantamine/Summary",
+  "pageid": 14266,
+  "last_edited": "2017-04-13T17:15:17Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Galantamine",
+ "plain_text": "",
+ "wikitext": "{{summary|Galantamine}}"
+}

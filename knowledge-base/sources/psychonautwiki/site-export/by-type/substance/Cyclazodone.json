@@ -1,0 +1,305 @@
+{
+ "id": "psychonautwiki:16169",
+ "type": "substance",
+ "title": "Cyclazodone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cyclazodone",
+  "pageid": 16169,
+  "last_edited": "2024-03-31T16:54:49Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Aminorex",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Cyclazodone",
+ "substance_box": {
+  "names": {
+   "common": "Cyclazodone",
+   "substitutive": "N-Cyclopropylpemoline",
+   "systematic": "2-(Cyclopropylamino)-5-phenyl-1,3-oxazol-4-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted aminorexes"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 25 mg",
+    "strong": "25 - 60 mg",
+    "heavy": "60 mg + Liver damage may result from heavy or sustained usage.",
+    "duration": "5 - 7 hours",
+    "onset": "20 - 45 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Cyclazodone"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted aminorexes"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of cyclazodone",
+   "clean": "Molecular structure of cyclazodone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Cyclazodone.svg",
+   "clean": "File:Cyclazodone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Cyclazodone]]",
+   "clean": "Cyclazodone"
+  },
+  "NameSubstitution": {
+   "raw": "N-Cyclopropylpemoline",
+   "clean": "N-Cyclopropylpemoline"
+  },
+  "NameSystematic": {
+   "raw": "2-(Cyclopropylamino)-5-phenyl-1,3-oxazol-4-one",
+   "clean": "2-(Cyclopropylamino)-5-phenyl-1,3-oxazol-4-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted aminorexes|Aminorex]]",
+   "clean": "Substituted aminorexes"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::60]] mg",
+   "clean": "25 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg + <span style=\"color:red\">'''Liver damage may result from heavy or sustained usage.'''</span>",
+   "clean": "60 mg + Liver damage may result from heavy or sustained usage."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "5 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Cyclopropylpemoline (also known as Cyclazodone) is a novel stimulant substance of the 4-oxazolidinone class. It is structurally related to pemoline and 4-methylaminorex. The mechanism of action involves promoting the release of dopamine and norepinephrine in the brain.\n\nCyclazodone was developed in the 1960s by the American Cyanamid Company. Its non-clinical use has only found recent attention as a research chemical study aid. It should be noted that the lack of pharmacological data and extremely limited history of human usage pose considerable concern regarding its long-term use as a substitute for prescription stimulants.\n\nSubjective effects include stimulation, focus enhancement, stamina enhancement, increased blood pressure, and mild euphoria. Some anecdotal reports suggest that cyclazodone and its parent compound pemoline may have nootropic properties similar to central nervous system stimulants such as methylphenidate and amphetamine.\n\nCyclazodone had no documented history of recreational human usage prior to its appearance on the online research chemical market in 2017. Considering similar compounds, it is speculated that it may possess hepatotoxic and other yet-to-be-discovered toxic properties. \n\nIt is strongly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nCyclazodone is a phenyl 4-oxazolidinone that differs from the parent pemoline by an N-cyclopropyl group. Compounds like cyclazodone of the 4-oxazolidinone class can be considered as 4-oxy derivatives of the 2-amino-5-aryloxazoline class including aminorex, fluminorex, and 4-methylaminorex, conformationally restricted analogues of phenethylamines and amphetamines.\n\nCyclazodone is structurally most closely related, not to pemoline, but rather to two N-substituted derivatives of pemoline — fenozolone (N-ethyl pemoline) and thozalinone (N,N-dimethyl pemoline).\n\nPharmacology\n\nCyclazodone is an approximately 3x - 5x more potent N-cyclopropyl derivative of pemoline. Pemoline is considered to be dopaminergic, but its precise method of action has not been fully determined. Pemoline has minimal affinity for noradrenaline receptors and thus has minimal sympathomimetic side effects compared with typical dopaminergic central nervous system stimulants such as methylphenidate and dextro-amphetamine.\n\nAccording to patents filed by the inventors, cyclazodone exhibited central nervous system stimulating properties and anorexigenic properties more potent than that of pemoline and various other N-lower-alkyl-substituted pemoline derivatives. At the time cyclazodone also offered a much more favorable therapeutic index and margin of safety than pemoline and other N-lower-alkyl-substituted pemoline derivatives.\n\nIn animal models, cyclazodone exhibits central nervous system stimulant and antidepressant efficacy and potency at least equal to that of dextro-amphetamine. The duration of maximum activity spanned 180 minutes, and the total duration of excitation was in excess of 6 hours. Furthermore, according to the inventor's patents, cyclazodone also possessed anorexic efficacy and potency at least equal to that of dextro-amphetamine in animal models, yet the toxicity of cyclazodone was found to be low in comparison with the activity thereof.\n\nPharmacodynamics\n\nCyclazodone is likely an amphetamine-like agonist of the Trace Amine Associated Receptor 1 (TAAR1), which is a key regulator of common and trace brain monoamines such as dopamine, serotonin and noradrenaline. The agonism of this set of receptors results in the release of increased concentrations of dopamine, serotonin and noradrenaline in the synaptic cleft. This leads to cognitive and physical stimulation within the user.\n\nSubjective effects\n\nThe stimulant effects of cyclazodone have been compared to those of amphetamine, but with the addition of a low to moderate affinity for serotonin release comparable to that of methamphetamine and 3-FMA. Additionally, it is noticeably less euphoric than amphetamine and appears to have less sympathomimetic activation.\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational cyclazodone use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because cyclazodone has a very limited history of human usage.\n\nAnother compound related in structure, 4-methylaminorex, is associated with pulmonary hypertension; though, it is reported to induce far stronger stimulation than that of cyclazodone.\n\nThe structurally related compound pemoline was removed from the market after it was found to cause liver damage in children.\n\nIn rodents and primates, sufficiently high doses of monoamine releasing agents cause dopaminergic neurotoxicity, or damage to dopamine neurons, which is characterized by reduced transporter and receptor function. There is no evidence that releasing agents are directly neurotoxic in humans. However, large doses of releasing agents may cause indirect neurotoxicity as a result of increased oxidative stress from reactive oxygen species and autoxidation of dopamine.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAddiction is a serious risk with heavy recreational stimulant use but is unlikely to arise from typical long-term medical use at therapeutic doses. Notably, the structurally related compound pemoline fails to demonstrate a potential for self-administration in primates and is considered to have reduced risk of dependence relative to those more typical dopaminergic stimulants. Caution is nonetheless advised, as with other monoamine releasing agents.\n\nTolerance to many of the effects of cyclazodone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Cyclazodone presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of cyclazodone all stimulants will have a reduced effect.\n\nPsychosis\n\nBased on its pharmacological similarity to other stimulants, it is likely that misuse of this compound can result in state of psychosis marked by a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on the treatment for amphetamine and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use. The combination of the prolonged use of high doses combined with sleep deprivation significantly increases the risk of stimulant psychosis.\n\nDangerous interactions\n\nLegal status\n\nCyclazodone is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume. It is a banned stimulant under the World Anti-Doping Agency prohibited list.\n\n*Germany: Cyclazodone is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act). According to §2 AMG (Medicines Act) it would fall under the definition of a medicine because it induces pharmacological effect. By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law. Cyclazodone can be considered legal.\n*Switzerland: Cyclazodone is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United States: Cyclazodone being an analogue of pemoline, a Schedule IV controlled substance in the US, may fall under Federal Analogue Act, 21 U.S.C. § 813 when intended for human consumption.\n\nSee also\n\n*Responsible use\n*Research chemicals\n*Stimulants\n*Releasing agent\n*Amphetamine\n*4-Methylaminorex\n\nExternal links\n\n*Cyclazodone (Wikipedia)\n*Cyclazodone (Isomer Design)\n\nLiterature\n\n*Segal, D. S., Cox Jr, R. H., Stern, W. C., & Maickel, R. P. (1967). Stimulatory effects of pemoline and cyclopropylpemoline on continuous avoidance behavior: similarity to effects of D-amphetamine. Life Sciences, 6(23), 2567-2572. https://doi.org/10.1016/0024-3205(67)90322-0\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Aminorex\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Cyclazodone}}\n'''N-Cyclopropylpemoline''' (also known as '''Cyclazodone''') is a novel [[psychoactive class::stimulant]] substance of the [[chemical class::4-oxazolidinone]] class. It is structurally related to [[pemoline]] and [[4-methylaminorex]]. The mechanism of action involves promoting the release of [[dopamine]] and [[norepinephrine]] in the brain.\n\nCyclazodone was developed in the 1960s by the American Cyanamid Company. Its non-clinical use has only found recent attention as a [[research chemical]] study aid. It should be noted that the lack of pharmacological data and extremely limited history of human usage pose considerable concern regarding its long-term use as a substitute for prescription stimulants.\n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement]], [[stamina enhancement]], [[increased blood pressure]], and mild [[euphoria]]. Some anecdotal reports suggest that [[cyclazodone]] and its parent compound [[pemoline]] may have nootropic properties similar to central nervous system stimulants such as [[methylphenidate]] and [[amphetamine]].\n\nCyclazodone had no documented history of recreational human usage prior to its appearance on the online research chemical market in 2017. Considering similar compounds, it is speculated that it may possess hepatotoxic and other yet-to-be-discovered toxic properties. \n\nIt is strongly advised to use [[responsible drug use|harm reduction practices]] if using this substance.\n\n==Chemistry==\nCyclazodone is a phenyl 4-oxazolidinone that differs from the parent [[pemoline]] by an N-cyclopropyl group. Compounds like cyclazodone of the 4-oxazolidinone class can be considered as 4-oxy derivatives of the 2-amino-5-aryloxazoline class including [[aminorex]], [[fluminorex]], and [[4-methylaminorex]], conformationally restricted analogues of [[phenethylamines]] and [[amphetamines]].\n\nCyclazodone is structurally most closely related, not to pemoline, but rather to two N-substituted derivatives of pemoline — [[fenozolone]] (N-ethyl pemoline) and [[thozalinone]] (N,N-dimethyl pemoline).\n\n==Pharmacology==\nCyclazodone is an approximately 3x - 5x more potent N-cyclopropyl derivative of [[pemoline]]. Pemoline is considered to be [[dopamine|dopaminergic]], but its precise method of action has not been fully determined.<ref>\"Cylert (Pemoline)\" (PDF). FDA. December 2002.</ref> Pemoline has minimal affinity for [[noradrenaline]] receptors and thus has minimal sympathomimetic side effects compared with typical dopaminergic central nervous system stimulants such as methylphenidate and [[Isomer|dextro]]-amphetamine.\n\nAccording to patents filed by the inventors, cyclazodone exhibited central nervous system stimulating properties and anorexigenic properties more potent than that of pemoline and various other N-lower-alkyl-substituted pemoline derivatives. At the time cyclazodone also offered a much more favorable therapeutic index and margin of safety than pemoline and other N-lower-alkyl-substituted pemoline derivatives.<ref name=\"GuidicelliPatent\">{{Citation | vauthors=((Guidicelli, D. P. R. L.)), ((Najer, H.)) | title=5-phenyl-2-cyclopropylamino-4-oxazolinone, and process for making the same | url=https://patents.google.com/patent/US3609159A/en}}</ref>\n\nIn animal models, cyclazodone exhibits central nervous system stimulant and antidepressant efficacy and potency at least equal to that of [[Isomer|dextro]]-amphetamine. The duration of maximum activity spanned 180 minutes, and the total duration of excitation was in excess of 6 hours.<ref name=\"GuidicelliPatent\" /> Furthermore, according to the inventor's patents, cyclazodone also possessed anorexic efficacy and potency at least equal to that of [[Isomer|dextro]]-amphetamine in animal models, yet the toxicity of cyclazodone was found to be low in comparison with the activity thereof.<ref name=\"GuidicelliPatent\" />\n\n===Pharmacodynamics===\nCyclazodone is likely an [[amphetamine]]-like [[agonist]] of the Trace Amine Associated Receptor 1 (TAAR1), which is a key regulator of common and trace brain monoamines such as [[dopamine]], [[serotonin]] and [[noradrenaline]].<ref>{{cite journal | vauthors=((Miller, G. M.)) | journal=Journal of neurochemistry | title=The Emerging Role of Trace Amine Associated Receptor 1 in the Functional Regulation of Monoamine Transporters and Dopaminergic Activity | volume=116 | issue=2 | pages=164–176 | date= January 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005101/ | issn=0022-3042 | doi=10.1111/j.1471-4159.2010.07109.x}}</ref><ref>{{Citation | title=Amphetamine | url=https://go.drugbank.com/drugs#targets}}</ref><ref>TA1 receptor | http://www.iuphar-db.org/DATABASE/ObjectDisplayForward?objectId=364</ref> The agonism of this set of receptors results in the release of increased concentrations of [[dopamine]], [[serotonin]] and [[noradrenaline]] in the [[synaptic cleft]]. This leads to [[Thought acceleration|cognitive]] and [[Stimulation|physical stimulation]] within the user.\n\n==Subjective effects==\nThe stimulant effects of cyclazodone have been compared to those of [[amphetamine]], but with the addition of a low to moderate affinity for [[serotonin]] release comparable to that of [[methamphetamine]] and [[3-FMA]]. Additionally, it is noticeably less euphoric than amphetamine and appears to have less sympathomimetic activation.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - Cyclazodone is reported to be somewhat stimulating though soft in a fashion that is slightly weaker to that of [[methamphetamine]], but stronger than that of [[modafinil]], [[caffeine]], and [[methylphenidate]]. \n*'''[[Effect::Physical euphoria]]''' - This effect is dose dependent and tends only to be present at higher doses. Cyclazodone is reported to lack the body glow associated with [[amphetamine]] at typical doses. \n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}} - Cyclazodone is reported to elevate heart rate to a greater degree than [[amphetamine]].\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' - Typically a result of dosing for prolonged periods of time and dehydration.\n*'''[[Effect::Pain relief]]''' \n*'''[[Effect::Pupil dilation]]''' - This effect is typically experienced only at higher dosages and is more prominent on the comedown.\n*'''[[Effect::Teeth grinding]]''' - This component is reported to be less intense compared to[[MDMA]], and only prominent when dosing for prolonged periods of time.\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''{{citation needed}}\n*'''[[Effect::Restless legs]]'''\n*'''[[Effect::Muscle cramps]]'''\n\n}}\n{{effects/visual|\nThe visual effects of cyclazodone are usually less consistent and only mildly noticeable at higher dosages. They may manifest as a brightening of colors and areas of light appearing brighter than that of their surrounding.\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Breathing|breathing]] and [[Visual drifting#Morphing|morphing]])'' - This effect is usually subtle and barely noticeable and only occurs at higher dosages or when combined with [[cannabis]].\n*'''[[Effect::Brightness alteration]]''' - Cyclazodone can make spaces seem brighter as a result of its pupil dilating effects.\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]''' - This effect occurs very rarely, and typically only when the user has taken high doses, is coming down, or has been awake for unusually long periods. It is usually very mild when it does occur.\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect is dose dependent and typically occurs with overly high doses or after redosing and staying awake for extended periods of time.\n*'''[[Effect::Anxiety suppression]]''' - Common to moderately high doses, when used infrequently, will tend to result in a complete loss of all anxiety symptoms.\n*'''[[Effect::Cognitive euphoria]]''' - This effect is dose dependent; a low dose will tend to produce only that of a slight mood lift and moderate to high doses are typically reported to be on par with that of [[amphetamine]] though less than that of [[methamphetamine]], [[3-FMA]], and [[4-methylaminorex]]. It is the strongest when used infrequently at moderate doses, and binges often result in a loss of this effect.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - Cyclazodone has been reported to produce moderately strong prosocial and entactogenic effects which, although much weaker than that of traditional entactogens such as [[MDMA]], surpass that of [[amphetamine]]. As with most amphetamine-like stimulants, this effect rapidly fades with prolonged use.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]''' - Cyclazodone, at moderate doses, has been reported to substantially increase confidence and self-esteem. Higher doses, however, can result in complete self-absorption and ego mania.\n*'''[[Effect::Emotion suppression]]\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Psychosis]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Tactile hallucinations]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently {{#ask:[[Category:Cyclazodone]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:Cyclazodone]][[Category:Experience]]|format=ul|Columns=1}}\n\n==Toxicity and harm potential==\n\nThe toxicity and long-term health effects of recreational cyclazodone use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because cyclazodone has a very limited history of human usage.\n\nAnother compound related in structure, [[4-methylaminorex]], is associated with pulmonary hypertension<ref>{{cite journal | vauthors=((Gaine, S. P.)), ((Rubin, L. J.)), ((Kmetzo, J. J.)), ((Palevsky, H. I.)), ((Traill, T. A.)) | journal=Chest | title=Recreational use of aminorex and pulmonary hypertension | volume=118 | issue=5 | pages=1496–1497 | date= November 2000 | issn=0012-3692 | doi=10.1378/chest.118.5.1496}}</ref>; though, it is reported to induce far stronger stimulation than that of cyclazodone.\n\nThe structurally related compound pemoline was removed from the market after it was found to cause liver damage in children.<ref>{{cite journal | vauthors=((Marotta, P. J.)), ((Roberts, E. A.)) | journal=The Journal of Pediatrics | title=Pemoline hepatotoxicity in children | volume=132 | issue=5 | pages=894–897 | date= May 1998 | url=https://linkinghub.elsevier.com/retrieve/pii/S0022347698703294 | issn=00223476 | doi=10.1016/S0022-3476(98)70329-4}}</ref>\n\nIn rodents and primates, sufficiently high doses of monoamine [[releasing agent|releasing agents]] cause dopaminergic neurotoxicity, or damage to dopamine neurons, which is characterized by reduced transporter and receptor function. There is no evidence that [[releasing agent]]s are directly neurotoxic in humans. However, large doses of [[releasing agent]]s may cause indirect neurotoxicity as a result of increased oxidative stress from reactive oxygen species and autoxidation of dopamine.{{citation needed}}\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAddiction is a serious risk with heavy recreational stimulant use but is unlikely to arise from typical long-term medical use at therapeutic doses. Notably, the structurally related compound pemoline fails to demonstrate a potential for self-administration in primates and is considered to have reduced risk of dependence relative to those more typical dopaminergic stimulants. Caution is nonetheless advised, as with other monoamine [[releasing agent]]s.\n\nTolerance to many of the effects of cyclazodone [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Cyclazodone presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of cyclazodone all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nBased on its pharmacological similarity to other stimulants, it is likely that misuse of this compound can result in state of psychosis marked by a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref>{{Citation | vauthors=((National Institute on Drug Abuse)) | title=Emerging Trends | url=https://nida.nih.gov/research-topics/emerging-trends-alerts}}</ref><ref name=\"amppsychosis\">{{cite book | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W. W.)) | veditors=((The Cochrane Collaboration)) | date=8 October 2008 | chapter=The Cochrane Database of Systematic Reviews (Complete Reviews) | title=Treatment for amphetamine psychosis | publisher=John Wiley & Sons, Ltd | pages=CD003026.pub2 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub2 | doi=10.1002/14651858.CD003026.pub2}}</ref> A review on the treatment for [[amphetamine]] and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" /> Psychosis very rarely arises from therapeutic use. The combination of the prolonged use of high doses combined with sleep deprivation significantly increases the risk of stimulant psychosis.{{citation needed}}\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants}}\n\n==Legal status==\nCyclazodone is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (''\"scheduled\"'') within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume. It is a banned stimulant under the World Anti-Doping Agency prohibited list.\n\n*'''Germany''': Cyclazodone is not a controlled substance under the BtMG (''Narcotics Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html|title=Gesetz über den Verkehr mit Betäubungsmitteln (Betäubungsmittelgesetz - BtMG)|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> or the NpSG (''New Psychoactive Substances Act'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/BJNR261510016.html|title=Neue-psychoaktive-Stoffe-Gesetz (NpSG)|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> According to §2 AMG (''Medicines Act'') it would fall under the definition of a medicine because it induces pharmacological effect.<ref>{{cite web|url=https://www.gesetze-im-internet.de/amg_1976/__2.html|title=§ 2 AMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref> By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law.<ref>{{cite news|url=https://www.lto.de/recht/hintergruende/h/eugh-urteil-c35813-c18114-legal-highs-kein-arzneimittel-strafbar-amg-btmg/|title= Cannabinoide Kräutermischungen vor dem EuGH: Legal Highs bleiben legal|publisher=LTO|author=Prof. Dr. Helmut Pollähne|trans-title=Cannabinoid herbal mixtures at the ECJ: Legal highs stay legal|date=July 11, 2014|access-date=December 28, 2019|language=de}}</ref> Cyclazodone can be considered legal.\n*'''Switzerland''': Cyclazodone is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States''': Cyclazodone being an analogue of [[pemoline]], a Schedule IV controlled substance in the US, may fall under Federal Analogue Act, 21 U.S.C. § 813<ref>{{Citation | title=21 U.S. Code § 813 - Treatment of controlled substance analogues | url=https://www.law.cornell.edu/uscode/text/21/813}}</ref> when intended for human consumption.\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemicals]]\n*[[Stimulants]]\n*[[Releasing agent]]\n*[[Amphetamine]]\n*[[4-Methylaminorex]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Cyclazodone Cyclazodone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1434 Cyclazodone (Isomer Design)]\n\n==Literature==\n\n*Segal, D. S., Cox Jr, R. H., Stern, W. C., & Maickel, R. P. (1967). Stimulatory effects of pemoline and cyclopropylpemoline on continuous avoidance behavior: similarity to effects of D-amphetamine. Life Sciences, 6(23), 2567-2572. https://doi.org/10.1016/0024-3205(67)90322-0\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Aminorex]]\n[[Category:Research chemical]]"
+}

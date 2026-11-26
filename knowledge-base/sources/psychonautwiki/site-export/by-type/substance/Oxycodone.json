@@ -1,0 +1,761 @@
+{
+ "id": "psychonautwiki:1431",
+ "type": "substance",
+ "title": "Oxycodone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Oxycodone",
+  "pageid": 1431,
+  "last_edited": "2025-09-10T18:08:31Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Morphinan",
+  "Opioid",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Oxycodone",
+ "substance_box": {
+  "names": {
+   "common": "OxyContin, Oxy, Roxicodone, Oxecta, OxyIR, Endone, Oxynor, Codilek, Oxydor, Redocam, Oxygesic, Percodan,  Percocet",
+   "substitutive": "Oxycodone",
+   "systematic": "(5R,9R,13S,14S)-4,5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "~85-90% (estimated, not accurate, needs confirmation)",
+    "threshold": "1 mg",
+    "light": "1.5 - 8mg",
+    "common": "8 - 20mg",
+    "strong": "20 - 35mg",
+    "heavy": "30 mg +",
+    "duration": "1 - 3 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "60-70%",
+    "threshold": "1 mg",
+    "light": "2.5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "60 - 120 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "0 - 2 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "~77%",
+    "threshold": "1 mg",
+    "light": "2.5 - 7.5 mg",
+    "common": "7.5 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25 mg +",
+    "duration": "3 - 5 hours",
+    "onset": "2 - 7 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "1.5 - 4 hours",
+    "offset": "45 - 120 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "100%",
+    "threshold": "1 mg",
+    "light": "2.5 - 5 mg",
+    "common": "7.5 - 10 mg",
+    "strong": "12.5 - 15 mg",
+    "heavy": "15 mg +",
+    "duration": "3 - 5 hours",
+    "onset": "0 - 1 minutes",
+    "comeup": "",
+    "peak": "3 - 5 hours",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "OxyContin",
+    "Oxy",
+    "Roxicodone",
+    "Oxecta",
+    "OxyIR",
+    "Endone",
+    "Oxynor",
+    "Codilek",
+    "Oxydor",
+    "Redocam",
+    "Oxygesic",
+    "Percodan",
+    "Percocet"
+   ],
+   "Psychoactive class": [
+    "Opioid"
+   ],
+   "Chemical class": [
+    "Morphinan"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "1.5"
+   ],
+   "Smoked max light dose": [
+    "8"
+   ],
+   "Smoked min common dose": [
+    "8"
+   ],
+   "Smoked max common dose": [
+    "20"
+   ],
+   "Smoked min strong dose": [
+    "20"
+   ],
+   "Smoked max strong dose": [
+    "35"
+   ],
+   "Smoked heavy dose": [
+    "30"
+   ],
+   "Smoked min total time": [
+    "1"
+   ],
+   "Smoked max total time": [
+    "3"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "60"
+   ],
+   "Oral max comeup time": [
+    "120"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "0"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2.5"
+   ],
+   "Insufflated max light dose": [
+    "7.5"
+   ],
+   "Insufflated min common dose": [
+    "7.5"
+   ],
+   "Insufflated max common dose": [
+    "15"
+   ],
+   "Insufflated min strong dose": [
+    "15"
+   ],
+   "Insufflated max strong dose": [
+    "25"
+   ],
+   "Insufflated heavy dose": [
+    "25"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "5"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "2"
+   ],
+   "Insufflated max onset time": [
+    "7"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "20"
+   ],
+   "Insufflated max comeup time": [
+    "40"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1.5"
+   ],
+   "Insufflated max peak time": [
+    "4"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "45"
+   ],
+   "Insufflated max offset time": [
+    "120"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Intravenous threshold dose": [
+    "1"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "2.5"
+   ],
+   "Intravenous max light dose": [
+    "5"
+   ],
+   "Intravenous min common dose": [
+    "7.5"
+   ],
+   "Intravenous max common dose": [
+    "10"
+   ],
+   "Intravenous min strong dose": [
+    "12.5"
+   ],
+   "Intravenous max strong dose": [
+    "15"
+   ],
+   "Intravenous heavy dose": [
+    "15"
+   ],
+   "Intravenous min total time": [
+    "3"
+   ],
+   "Intravenous max total time": [
+    "5"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "0"
+   ],
+   "Intravenous max onset time": [
+    "1"
+   ],
+   "Intravenous onset time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "3"
+   ],
+   "Intravenous max peak time": [
+    "5"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of oxycodone",
+   "clean": "Molecular structure of oxycodone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Oxycodone.svg",
+   "clean": "File:Oxycodone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::OxyContin]], [[common name::Oxy]], [[common name::Roxicodone]], [[common name::Oxecta]], [[common name::OxyIR]], [[common name::Endone]], [[common name::Oxynor]], [[common name::Codilek]], [[common name::Oxydor]], [[common name::Redocam]], [[common name::Oxygesic]], [[common name::Percodan]], [[common name:: Percocet]]",
+   "clean": "OxyContin, Oxy, Roxicodone, Oxecta, OxyIR, Endone, Oxynor, Codilek, Oxydor, Redocam, Oxygesic, Percodan,  Percocet"
+  },
+  "NameSubstitution": {
+   "raw": "Oxycodone",
+   "clean": "Oxycodone"
+  },
+  "NameSystematic": {
+   "raw": "(5R,9R,13S,14S)-4,5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one",
+   "clean": "(5R,9R,13S,14S)-4,5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/oxycodone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "~85-90% (estimated, not accurate, needs confirmation)",
+   "clean": "~85-90% (estimated, not accurate, needs confirmation)"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::1.5]] - [[Smoked max light dose::8]]mg",
+   "clean": "1.5 - 8mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::8]] - [[Smoked max common dose::20]]mg",
+   "clean": "8 - 20mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::20]] - [[Smoked max strong dose::35]]mg",
+   "clean": "20 - 35mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::30]] mg +",
+   "clean": "30 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1]] - [[Smoked max total time::3]] [[Smoked total time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/oxycodone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "60-70%<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6602093/</ref>",
+   "clean": "60-70%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::10]] mg",
+   "clean": "2.5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::60]] - [[Oral max comeup time::120]] [[Oral comeup time units::minutes]]",
+   "clean": "60 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::0]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "0 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/oxycodone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "~77%<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4006196/#S9</ref>",
+   "clean": "~77%"
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2.5]] - [[Insufflated max light dose::7.5]] mg",
+   "clean": "2.5 - 7.5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::7.5]] - [[Insufflated max common dose::15]] mg",
+   "clean": "7.5 - 15 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::15]] - [[Insufflated max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::25]] mg +",
+   "clean": "25 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::5]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::2]] - [[Insufflated max onset time::7]] [[Insufflated onset time units::minutes]]",
+   "clean": "2 - 7 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::20]] - [[Insufflated max comeup time::40]] [[Insufflated comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1.5]] - [[Insufflated max peak time::4]] [[Insufflated peak time units::hours]]",
+   "clean": "1.5 - 4 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::45]] - [[Insufflated max offset time::120]] [[Insufflated offset time units::minutes]]",
+   "clean": "45 - 120 minutes"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/oxycodone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "100%",
+   "clean": "100%"
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::1]] [[Intravenous dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::2.5]] - [[Intravenous max light dose::5]] mg",
+   "clean": "2.5 - 5 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::7.5]] - [[Intravenous max common dose::10]] mg",
+   "clean": "7.5 - 10 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::12.5]] - [[Intravenous max strong dose::15]] mg",
+   "clean": "12.5 - 15 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::15]] mg +",
+   "clean": "15 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::3]] - [[Intravenous max total time::5]] [[Intravenous total time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::0]] - [[Intravenous max onset time::1]] [[Intravenous onset time units::minutes]]",
+   "clean": "0 - 1 minutes"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::3]] - [[Intravenous max peak time::5]] [[Intravenous peak time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Oxycodone (also known under brand names including Roxicodone, OxyContin, Percocet, Oxecta, OxyIR, Endone, Oxynorm, Faroxy and OxyNEO) is a semi-synthetic opioid synthesized from poppy-derived thebaine. It is a narcotic analgesic within the morphinan chemical class and is generally indicated for relief of moderate to severe pain. It was developed in 1916 in Germany as one of several new semi-synthetic opioids in an attempt to improve on the existing opioids.\n\nOxycodone is available as single-ingredient medication in immediate release and controlled release. Combination products, such as Percocet, formulated with non-narcotic ingredients such as NSAIDs and paracetamol (acetaminophen) are also available.\n\nChemistry\n\nOxycodone, or dihydro hydroxy codeinone, is an opioid of the morphinan class. Oxycodone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called a phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R9 and R13, with the nitrogen member looking at R17 of the combined structure. This structure is called morphinan. \n\nOxycodone, along with other morphinans, contains an ether bridge between two of its rings, connecting R4 and R5 through an oxygen group. It contains a carbonyl group bound at R6 and a methyl group located on the nitrogen atom at R17. The carbon-oxygen double bond of the carbonyl saturates the benzene ring it is bonded with. Thus oxycodone lacks the double bond on that ring found in codeine. Oxycodone also shares the 3-methoxy substitution found in codeine; however, it contains an additional hydroxy group at R14. Oxycodone is analogous to the other morphinans including dihydrocodeine, heroin, ethylmorphine, and codeine.\n\nPharmacology\n\nOxycodone produces effects that are typical of μ-opioid agonists, suggesting a pharmacological similarity to more traditional opioids, such as codeine and morphine. These compounds exert their effects by binding to and activating the μ-opioid receptor. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their euphoria, pain relief and anxiolytic effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\nIn 2006, research by a Japanese group suggested the effect of oxycodone is mediated by different receptors in different situations. Specifically in diabetic mice, the κ-opioid receptor appears to be involved in the direct pain relief caused by oxycodone, while in nondiabetic mice, the μ1-opioid receptor seems to be primarily responsible for these effects.\n\nMetabolism\n\nOxycodone has 3 metabolites: noroxycodone (CYP3A4/5), oxymorphone (CYP2D6), and 6α-/6β-oxycodol (6-Ketoreduction). Of these, oxymorphone is the active one. Anywhere from 5-19% of oxycodone is metabolized to oxymorphone, the rest being mostly noroxycodone (45-70%) and 6-oxycodols (~2-14%). Grapefruit juice inhibits CYP3A4 activity, allowing more oxycodone to be metabolized into oxymorphone which potentiates oxycodone.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Oxycodone\n\nToxicity and harm potential\n\nOxycodone has a low toxicity relative to dose. As with all opioids, long-term effects can vary but can include diminished libido, apathy, and memory loss. It is also potentially respiratory depression when mixed with [[depressants like alcohol or benzodiazepines]].\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other opioids, the chronic use of oxycodone can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of oxycodone develops with prolonged and repeated use. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Oxycodone presents cross-tolerance with all other opioids, meaning that after the consumption of oxycodone all opioids will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.\n\nDangerous interactions\n\nLegal issues\n\nOxycodone is subject to international conventions on narcotic drugs. In addition, oxycodone is subject to national laws that differ by country. The 1931 Convention for Limiting the Manufacture and Regulating the Distribution of Narcotic Drugs of the League of Nations included oxycodone. The 1961 Single Convention on Narcotic Drugs of the United Nations, which replaced the 1931 convention, categorized oxycodone in Schedule I.\n\n*Australia: Oxycodone is in Schedule I (derived from the Single Convention on Narcotic Drugs) of the Commonwealth's Narcotic Drugs Act 1967. In addition, it is in Schedule 8 of the Australian Standard for the Uniform Scheduling of Drugs and Poisons (\"Poisons Standard\"), meaning it is a \"controlled drug... which should be available for use but require[s] restriction of manufacture, supply, distribution, possession and use to reduce abuse, misuse and physical or psychological dependence\".\n*Austria: Oxycodone is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Oxycodone is a controlled substance under Schedule I of the Controlled Drugs and Substances Act (CDSA).\n*Germany: The drug is in Appendix III of the Narcotics Act (Betäubungsmittelgesetz or BtMG). The law allows only physicians, dentists, and veterinarians (Ärzte, Zahnärzte und Tierärzte) to prescribe oxycodone and the federal government to regulate the prescriptions (e.g., by requiring reporting).\n*Hong Kong: Oxycodone is regulated under Part I of Schedule 1 of Hong Kong's Chapter 134 Dangerous Drugs Ordinance.\n*Russia: Oxycodone is a Schedule II controlled substance.\n*Singapore: Oxycodone is listed as a Class A drug in the Misuse of Drugs Act of Singapore, which means offences in relation to the drug attract the most severe level of punishment. A conviction for unauthorized manufacture of the drug attracts a minimum sentence of 10 years of imprisonment and corporal punishment of five strokes of the cane, and a maximum sentence of life imprisonment or 30 years of imprisonment and 15 strokes of the cane. The minimum and maximum penalties for unauthorized trafficking in the drug are respectively five years of imprisonment and five strokes of the cane, and 20 years of imprisonment and 15 strokes of the cane.\n*Switzerland: Oxycodone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*Turkey: Oxycodone is a 'red prescription' only substance and illegal when sold or possessed without a prescription.\n*UK: Oxycodone is a Class A drug under the Misuse of Drugs Act.\n*USA: Oxycodone is a Schedule II controlled substance.\n\nSee also\n\n*Responsible use\n*Extraction of opioids from painkiller products\n*Depressants\n*Codeine\n*Naloxone\n\nExternal links\n\n*Oxycodone (Wikipedia)\n*Oxycodone (Erowid Vault)\n*Oxycodone (TiHKAL / Isomer Design)\n*Oxycodone (DrugBank)\n*Oxycodone (Drugs-Forum)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Opioid\nCategory:Morphinan",
+ "wikitext": "{{DepressantOD|opiates}}\n{{SummarySheet}}\n{{SubstanceBox/Oxycodone}}\n\n'''Oxycodone''' (also known under brand names including '''Roxicodone''', '''OxyContin''', '''Percocet''', '''Oxecta''', '''OxyIR''', '''Endone''', '''Oxynorm''', '''Faroxy''' and '''OxyNEO''') is a semi-synthetic [[psychoactive class::opioid]] synthesized from poppy-derived thebaine. It is a narcotic analgesic within the [[chemical class::morphinan]] chemical class and is generally indicated for relief of moderate to severe pain. It was developed in 1916 in Germany<ref>{{Citation | title=Publication of DE296916C | url=https://patents.google.com/patent/DE296916C/en}}</ref><ref>{{cite book | vauthors=((Sneader, W.)) | date= 2005 | title=Drug discovery: a history | publisher=Wiley | isbn=9780471899792}}</ref> as one of several new semi-synthetic opioids in an attempt to improve on the existing opioids.<ref>{{cite journal | vauthors=((Kalso, E.)) | journal=Journal of Pain and Symptom Management | title=Oxycodone | volume=29 | issue=5 Suppl | pages=S47-56 | date= May 2005 | issn=0885-3924 | doi=10.1016/j.jpainsymman.2005.01.010}}</ref>\n\nOxycodone is available as single-ingredient medication in immediate release and controlled release. Combination products, such as '''Percocet''', formulated with non-narcotic ingredients such as NSAIDs and paracetamol (acetaminophen) are also available.\n\n==Chemistry==\nOxycodone, or dihydro hydroxy codeinone, is an opioid of the morphinan class. Oxycodone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called a phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub>, with the nitrogen member looking at R<sub>17</sub> of the combined structure. This structure is called morphinan. \n\nOxycodone, along with other morphinans, contains an ether bridge between two of its rings, connecting R<sub>4</sub> and R<sub>5</sub> through an oxygen group. It contains a carbonyl group bound at R<sub>6</sub> and a methyl group located on the nitrogen atom at R<sub>17</sub>. The carbon-oxygen double bond of the carbonyl saturates the benzene ring it is bonded with. Thus oxycodone lacks the double bond on that ring found in [[codeine]]. Oxycodone also shares the 3-methoxy substitution found in codeine; however, it contains an additional hydroxy group at R<sub>14</sub>. Oxycodone is analogous to the other morphinans including [[dihydrocodeine]], [[heroin]], [[ethylmorphine]], and [[codeine]].\n\n==Pharmacology==\nOxycodone produces effects that are typical of μ-opioid agonists, suggesting a pharmacological similarity to more traditional [[opioids]], such as [[codeine]] and [[morphine]]. These compounds exert their effects by binding to and activating the [[Opioid#Mu_.28.CE.BC.29|μ-opioid]] [[receptor]]. This occurs because opioids structurally mimic endogenous endorphins which are naturally found within the body and also work upon the μ-opioid receptor set. The way in which opioids structurally mimic these natural endorphins results in their [[physical euphoria|euphoria]], [[pain relief]] and [[anxiolytic]] effects. This is because endorphins are responsible for reducing pain, causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or general excitement.\n\nIn 2006, research by a Japanese group suggested the effect of oxycodone is mediated by different receptors in different situations. Specifically in diabetic mice, the [[Opioid#Receptor_types|κ-opioid]] receptor appears to be involved in the direct pain relief caused by oxycodone,<ref>{{cite journal | vauthors=((Nozaki, C.)), ((Saitoh, A.)), ((Kamei, J.)) | journal=European Journal of Pharmacology | title=Characterization of the antinociceptive effects of oxycodone in diabetic mice | volume=535 | issue=1 | pages=145–151 | date=27 March 2006 | url=https://www.sciencedirect.com/science/article/pii/S0014299906001282 | issn=0014-2999 | doi=10.1016/j.ejphar.2006.02.002}}</ref> while in nondiabetic mice, the μ1-opioid receptor seems to be primarily responsible for these effects.<ref>{{cite journal | vauthors=((Nozaki, C.)), ((Kamei, J.)) | journal=European Journal of Pharmacology | title=Involvement of μ1-opioid receptor on oxycodone-induced antinociception in diabetic mice | volume=560 | issue=2 | pages=160–162 | date=10 April 2007 | url=https://www.sciencedirect.com/science/article/pii/S0014299907000386 | issn=0014-2999 | doi=10.1016/j.ejphar.2007.01.021}}</ref>\n\n===Metabolism===\nOxycodone has 3 metabolites: noroxycodone (CYP3A4/5), oxymorphone (CYP2D6), and 6α-/6β-oxycodol (6-Ketoreduction). Of these, oxymorphone is the active one. Anywhere from 5-19% of oxycodone is metabolized to oxymorphone, the rest being mostly noroxycodone (45-70%) and 6-oxycodols (~2-14%). Grapefruit juice inhibits CYP3A4 activity, allowing more oxycodone to be metabolized into oxymorphone which potentiates oxycodone.<ref>Nieminen, Tuija H., et al. “Grapefruit juice enhances the exposure to oral oxycodone.” ''Basic & Clinical Pharmacology & Toxicology'', vol. 107, no. 4, 2010, pp. 782–788, https://doi.org/10.1111/j.1742-7843.2010.00582.x.</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Physical euphoria|Euphoria]]''' - In comparison to other [[opioids]], this particular substance can be considered similar in its physical euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) and more intense when compared to [[kratom]] and [[hydrocodone]]. The sensation itself can be described as extreme feelings of intense physical comfort, warmth, love and bliss.\n*'''[[Effect::Respiratory depression]]''' - At low to moderate doses, this effect results in the sensation that the breath is slowed down mildly to moderately, but does not cause noticeable impairment. At high doses and overdoses, opioid-induced respiratory depression can result in a shortness of breath, abnormal breathing patterns, semi-consciousness, or unconsciousness. Severe overdoses can result in a coma or death without immediate medical attention. \n*'''[[Effect::Sedation]]''' - Oxycodone is considerably less sedating than [[codeine]] but more sedating than [[kratom]].\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Nausea]]''' - This effect is more pronounced at higher doses.\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Skin flushing]]'''\n\n}}\n\n\n\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - This seems to be caused by both µ-opioid receptor agonism and downstream dopamine reinforcement. In comparison to other [[opioids]], this particular substance can be considered similar in its cognitive euphoria when compared with that of [[morphine]] or [[diacetylmorphine]] (heroin) and more intense when compared to [[kratom]] and [[hydrocodone]]. The sensation itself can be described as powerful and overwhelming feelings of emotional bliss, contentment, and happiness.\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Anxiety suppression|Anxiety suppression]]'''\n*'''[[Effect::Irritability]]''' - While opioids are well known for their ability to improve mood, they can also have the paradoxical effect of increasing the user's sensitivity to irritable stimuli. This can manifest as aloofness and sudden outbursts of anger and aggression (colloquially known as \"opiate rage\"). It appears to occur more frequently during the comedown of the experience and/or with heavy use. \n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Increased music appreciation]]'''\n}}\n{{effects/visual|\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and hypnagogia during heavy dosage nodding which results in dream-like states and up to level 3 [[Lucid_dreaming#Internally_sourced_sensory_input|imagery]] and mild [[geometry]].\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Oxycodone]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Oxycodone.shtml Erowid Experience Vaults: Oxycodone]\n\n==Toxicity and harm potential==\nOxycodone has a [[Toxicity::low toxicity]] relative to dose. As with all opioids, long-term effects can vary but can include diminished libido, apathy, and memory loss. It is also [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[benzodiazepines]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with other [[opioids]], the chronic use of oxycodone can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of oxycodone [[Time to full tolerance::develops with prolonged and repeated use]]. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Oxycodone presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of oxycodone all [[opioid]]s will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and [[relapse]], largely because of reduced tolerance.<ref>Why Heroin Relapse Often Ends In Death - Lauren F Friedman (Business Insider) | http://www.businessinsider.com.au/philip-seymour-hoffman-overdose-2014-2</ref> To account for this lack of tolerance, it is safer to only dose a fraction of one's usual [[dosage]] if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.<ref>{{cite journal | vauthors=((Siegel, S.)), ((Hinson, R. E.)), ((Krank, M. D.)), ((McCully, J.)) | journal=Science | title=Heroin “Overdose” Death: Contribution of Drug-Associated Environmental Cues | volume=216 | issue=4544 | pages=436–437 | date=23 April 1982 | url=https://www.science.org/doi/10.1126/science.7200260 | issn=0036-8075 | doi=10.1126/science.7200260}}</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Opioids}}\n\n==Legal issues==\nOxycodone is subject to international conventions on narcotic drugs. In addition, oxycodone is subject to national laws that differ by country. The 1931 Convention for Limiting the Manufacture and Regulating the Distribution of Narcotic Drugs of the League of Nations included oxycodone.<ref>VI.8a Convention for limiting the Manufacture and regulating\nthe Distribution of Narcotic Drugs.\nGeneva, 13 July 1931 | https://treaties.un.org/doc/Treaties/1931/07/19310713%2006-44%20AM/Ch_VI_8_ap.pdf</ref> The 1961 Single Convention on Narcotic Drugs of the United Nations, which replaced the 1931 convention, categorized oxycodone in Schedule I.<ref>\"United Nations conference for the adoption of a single convention on narcotic drugs. Final act | https://treaties.un.org/doc/Treaties/1964/12/19641213%2002-14%20AM/Ch_VI_15p.pdf</ref>\n\n*'''Australia:''' Oxycodone is in Schedule I (derived from the Single Convention on Narcotic Drugs) of the Commonwealth's Narcotic Drugs Act 1967.<ref>{{Citation | title=Narcotic Drugs Act 1967 | url=http://www6.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/nda1967160/sch1.html}}</ref> In addition, it is in Schedule 8 of the Australian Standard for the Uniform Scheduling of Drugs and Poisons (\"Poisons Standard\"), meaning it is a \"controlled drug... which should be available for use but require[s] restriction of manufacture, supply, distribution, possession and use to reduce abuse, misuse and physical or psychological dependence\".<ref>http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrument1.nsf/0/3BBB39C4645284BCCA2574A6001C711F/$file/PoisonsStandard2008.pdf</ref>\n*'''Austria:''' Oxycodone is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada:''' Oxycodone is a controlled substance under Schedule I of the Controlled Drugs and Substances Act (CDSA).<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/fulltext.html}}</ref>\n*'''Germany:''' The drug is in Appendix III of the Narcotics Act (Betäubungsmittelgesetz or BtMG).<ref name=\"BJNR106810981\">{{Citation | title=BtMG - Gesetz über den Verkehr mit Betäubungsmitteln | url=http://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html}}</ref> The law allows only physicians, dentists, and veterinarians (Ärzte, Zahnärzte und Tierärzte) to prescribe oxycodone and the federal government to regulate the prescriptions (e.g., by requiring reporting).<ref name=\"BJNR106810981\" />\n*'''Hong Kong:''' Oxycodone is regulated under Part I of Schedule 1 of Hong Kong's Chapter 134 Dangerous Drugs Ordinance.<ref>{{Citation | title=CAP 134 DANGEROUS DRUGS ORDINANCE Schedule 1 (Replaced 62 of 1994 s. 9) | url=https://www.hklii.hk/cgi-bin/sinodisp/eng/hk/legis/ord/134/sch1-19970630.html?stem=&synonyms=&query=oxycodone}}</ref>\n*'''Russia:''' Oxycodone is a Schedule II controlled substance.<ref>{{Citation | title= Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=100441&date=02.12.2019}}</ref>\n*'''Singapore:''' Oxycodone is listed as a Class A drug in the Misuse of Drugs Act of Singapore, which means offences in relation to the drug attract the most severe level of punishment. A conviction for unauthorized manufacture of the drug attracts a minimum sentence of 10 years of imprisonment and corporal punishment of five strokes of the cane, and a maximum sentence of life imprisonment or 30 years of imprisonment and 15 strokes of the cane.<ref>http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3Ac13adadb-7d1b-45f8-a3bb-92175f83f4f5%20Depth%3A0%20Status%3Ainforce;rec=0</ref> The minimum and maximum penalties for unauthorized trafficking in the drug are respectively five years of imprisonment and five strokes of the cane, and 20 years of imprisonment and 15 strokes of the cane.<ref>Misuse of Drugs Act (Singapore), section 5(1).</ref>\n*'''Switzerland''': Oxycodone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Oxycodone is a 'red prescription' only substance<ref>KIRMIZI REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/K%C4%B1rm%C4%B1z%C4%B1%20Re%C3%A7eteye%20Tabi%20%C4%B0la%C3%A7lar%2005072019_ebcc7e92-6661-4983-870a-fe8983a9c2b7.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''UK:''' Oxycodone is a Class A drug under the Misuse of Drugs Act.<ref>{{Citation | title=Drugs licensing | url=https://www.gov.uk/government/collections/drugs-licensing}}</ref>\n*'''USA:''' Oxycodone is a Schedule II controlled substance.<ref>http://www.deadiversion.usdoj.gov/schedules/</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Extraction of opioids from painkiller products]]\n*[[Depressants]]\n*[[Codeine]]\n*[[Naloxone]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Oxycodone Oxycodone (Wikipedia)]\n*[https://www.erowid.org/pharms/oxycodone/oxycodone.shtml Oxycodone (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3891 Oxycodone (TiHKAL / Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00497 Oxycodone (DrugBank)]\n*[https://drugs-forum.com/wiki/Oxycodone Oxycodone (Drugs-Forum)]\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Opioid]]\n[[Category:Morphinan]]\n\n{{#set:Featured=true}}"
+}

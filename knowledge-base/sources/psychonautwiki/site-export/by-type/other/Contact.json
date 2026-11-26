@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:11482",
+ "type": "other",
+ "title": "Contact",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Contact",
+  "pageid": 11482,
+  "last_edited": "2024-06-02T20:26:43Z"
+ },
+ "categories": [],
+ "plain_text": "__NOTOC__\n\n{|\n|-\n| style=\"width: 99%; vertical-align: top;\" | \nContact us \n20px|right\n\nGeneral: [mailto:team@psy.is team@psy.is]\nPR, Press and Technical: [mailto:team@psy.is kenan@psy.is]\nCommunity and Content: [mailto:team@psy.is chris@psy.is]\n\nGeneral chat via Telegram: https://t.me/+TNUQrVOs4_9gd8Np - If you don't have any pressing questions but you'd like to join likeminded individuals to chat with. Be a decent human, strictly non-commercial and no spam. You may be removed at any time if your behaviour isn't conducive to the desired environment.\nSocial media: You can message us on our Facebook page.\nGPG SIGNED STATEMENT\n\n|}",
+ "wikitext": "__NOTOC__\n{{#pwcontact:}}\n{|\n|-\n| style=\"width: 99%; vertical-align: top;\" | <div class=\"panel radius\">\n<h3 class=\"panel-header\">Contact us \n[[File:Envelope-o.svg|20px|right]]\n</h3>\n<p class=\"panel-body\">\n'''General''': [mailto:team@psy.is team@psy.is]<br/>\n'''PR, Press and Technical''': [mailto:team@psy.is kenan@psy.is]</br>\n'''Community and Content''': [mailto:team@psy.is chris@psy.is]\n</p>\n<p class=\"panel-body\">'''General chat via Telegram:''' https://t.me/+TNUQrVOs4_9gd8Np - If you don't have any pressing questions but you'd like to join likeminded individuals to chat with. Be a decent human, strictly non-commercial and no spam. You may be removed at any time if your behaviour isn't conducive to the desired environment.</p>\n<p class=\"panel-body\">'''Social media:''' You can message us on [https://www.facebook.com/psychonautwiki our Facebook page].</p>\n<p class=\"panel-footer\">'''[https://psychonautwiki.org/team/properties.asc.txt GPG SIGNED STATEMENT]'''</p>\n</div>\n{{:General disclaimer}}\n|}"
+}

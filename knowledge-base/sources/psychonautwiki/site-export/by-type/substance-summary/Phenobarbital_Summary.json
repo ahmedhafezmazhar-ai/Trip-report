@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13129",
+ "type": "substance-summary",
+ "title": "Phenobarbital/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenobarbital/Summary",
+  "pageid": 13129,
+  "last_edited": "2016-11-02T20:29:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Phenobarbital",
+ "plain_text": "",
+ "wikitext": "{{Summary|Phenobarbital}}"
+}

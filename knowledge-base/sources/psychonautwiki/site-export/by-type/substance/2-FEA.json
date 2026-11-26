@@ -1,0 +1,462 @@
+{
+ "id": "psychonautwiki:16627",
+ "type": "substance",
+ "title": "2-FEA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-FEA",
+  "pageid": 16627,
+  "last_edited": "2025-07-21T21:04:18Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/2-FEA",
+ "substance_box": {
+  "names": {
+   "common": "2-FEA",
+   "substitutive": "2-Fluorethamphetamine",
+   "systematic": "N-Ethyl-1-(2-fluorophenyl)propan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen / Stimulant",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 30 mg",
+    "common": "30 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +???",
+    "duration": "",
+    "onset": "",
+    "comeup": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "20 - 30 mg",
+    "common": "30 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "1 - 2.5 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "2-FEA"
+   ],
+   "systematic name": [
+    "N-Ethyl-1-(2-fluorophenyl)propan-2-amine"
+   ],
+   "psychoactive class": [
+    "Entactogen",
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "30"
+   ],
+   "Oral min common dose": [
+    "30"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Insufflated threshold dose": [
+    "15"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "20"
+   ],
+   "Insufflated max light dose": [
+    "30"
+   ],
+   "Insufflated min common dose": [
+    "30"
+   ],
+   "Insufflated max common dose": [
+    "40"
+   ],
+   "Insufflated min strong dose": [
+    "40"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "2.5"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "15"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "10"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "60"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "60"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "3"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 2-FEA",
+   "clean": "Molecular structure of 2-FEA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:2-FEA.svg",
+   "clean": "File:2-FEA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::2-FEA]]",
+   "clean": "2-FEA"
+  },
+  "NameSubstitution": {
+   "raw": "2-Fluorethamphetamine",
+   "clean": "2-Fluorethamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::N-Ethyl-1-(2-fluorophenyl)propan-2-amine]]",
+   "clean": "N-Ethyl-1-(2-fluorophenyl)propan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Entactogen]] / [[psychoactive class::Stimulant]]",
+   "clean": "Entactogen / Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::30]] - [[Oral max common dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +???",
+   "clean": "60 mg +???"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::15]] [[Insufflated dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::20]] - [[Insufflated max light dose::30]] mg",
+   "clean": "20 - 30 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::30]] - [[Insufflated max common dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::40]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::2.5]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 2.5 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::15]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::10]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::60]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::60]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::3]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 3 hours"
+  }
+ },
+ "plain_text": "2-Fluoroethamphetamine (2-FEA) is a novel stimulant substance of the Substituted amphetamine class that produces classical stimulant effects such as stimulation, enhanced focus and euphoria when administered.\n\nThe exact effects of 2-FEA are not well known by its users with anecdotal reports suggesting only minimal activity and possible serotonergic qualities.\n\n2-FEA is sold on the online research chemical market. It is strongly advised to use harm reduction practices if using this substance.\n\nChemistry\n\n2-Fluoroethamphetamine (2-FEA) is a synthetic molecule of the substituted amphetamine class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα (i.e., amphetamines are alpha-methylated phenethylamines). 2-FEA contains an ethyl group bound to the terminal amine RN of the amphetamine core.\n\n2-FEA is the N-ethylated homolog of 2-FA (2-fluoroamphetamine).\n\nPharmacology\n\n2-FEA has not yet been formally studied to the same extent as traditional amphetamines. Currently, it is assumed that it most likely acts primarily as a triple reuptake inhibitor, and that it releases the neurotransmitters: serotonin, dopamine, and norepinephrine. 2-FEA likely creates it effects by acting as a releasing agent of said neurotransmitters and/or by binding to- and partially blocking the transporter proteins that normally clear substances from the synaptic cleft, after they have fulfilled their function of conducting a neural impulse.\n\nSubjective effects\n\nThe effects of 2-FEA appear to be very subtle and difficult to characterize. Some reports suggest it is relatively mild and free of side effects in a similar fashion to 2-FA, while others note an increase in physical side effects or serotonergic activity reminiscent of 3-FEA.\n\nExperience reports\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 2-FEA use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 2-FEA has a very limited history of human usage. \n\nAnecdotal reports from those who have tried 2-FEA suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of 2-FEA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 2-FEA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 2-FEA presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 2-FEA all stimulants will have a reduced effect.\n\nDangerous interactions\n\n*Stimulants - 2-FEA can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with amphetamines.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\n2-FEA is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\n*Canada: 2-FEA would be considered Schedule I as it is an analogue of Amphetamine.\n*France: As of december 2024, 2-FEA is not explicitly scheduled. It is thus legal to possess, although in a grey area.\n*Germany: 2-FEA is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*New Zealand: 2-FEA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.\n*The Netherlands: 2-FEA is a controlled substance as of July 1, 2025. \n*Switzerland: 2-FEA can be considered a controlled substance as a defined derivative of a-methylphenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.\n*United Kingdom: 2-FEA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Substituted amphetamine\n*3-FEA\n\nExternal links\n\n*3-FEA (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Amphetamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/2-FEA}}\n\n'''2-Fluoroethamphetamine''' ('''2-FEA''') is a novel [[psychoactive class::stimulant]] substance of the [[chemical class::Substituted amphetamine|amphetamine]] class that produces classical stimulant effects such as [[stimulation]], [[focus enhancement|enhanced focus]] and [[euphoria]] when [[route of administration|administered]].\n\nThe exact effects of 2-FEA are not well known by its users with anecdotal reports suggesting only minimal activity and possible serotonergic qualities.\n\n2-FEA is sold on the online [[research chemical]] market. It is strongly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n2-Fluoroethamphetamine (2-FEA) is a synthetic molecule of the [[substituted amphetamine]] class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub> (i.e., amphetamines are alpha-methylated phenethylamines). 2-FEA contains an ethyl group bound to the terminal amine R<sub>N</sub> of the amphetamine core.\n\n2-FEA is the N-ethylated homolog of [[2-FA]] (2-fluoroamphetamine).\n\n==Pharmacology==\n2-FEA has not yet been formally studied to the same extent as traditional [[amphetamines]]. Currently, it is assumed that it most likely acts primarily as a triple [[Reuptake inhibitor|reuptake inhibitor]], and that it releases the neurotransmitters: [[serotonin]], [[dopamine]], and [[norepinephrine]]. 2-FEA likely creates it effects by acting as a releasing agent of said neurotransmitters and/or by binding to- and partially blocking the transporter proteins that normally clear substances from the [[Synaptic cleft|synaptic cleft,]] after they have fulfilled their function of conducting a neural impulse.<ref>{{cite journal | vauthors=((Tessel, R. E.)), ((Woods, J. H.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Substituted N-ethylamphetamine self injection responding in the rhesus monkey: structure-activity relationships | volume=205 | issue=2 | pages=274–281 | date= May 1978 | issn=0022-3565}}</ref>\n\n==Subjective effects==\nThe effects of 2-FEA appear to be very subtle and difficult to characterize. Some reports suggest it is relatively mild and free of side effects in a similar fashion to [[2-FA]], while others note an increase in physical side effects or serotonergic activity reminiscent of [[3-FEA]].\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' and '''[[Effect::Sedation]]''' - 2-FEA is reported to produce a paradoxical combination of sedating and stimulating effects. The sedating aspects are perhaps attributable to serotonin release. The stimulating effects are typically more prominent at dosages in and above the strong dosage range and tend to become prominent after the peak effects have subsided.\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bronchodilation]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' \n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Restless legs]]'''\n\n}}\n{{effects/visual|\nThe visual effects of 2-FEA are usually less consistent and only mildly noticeable at higher dosages. They are somewhat comparable to [[deliriants]] and occur more readily in darker areas.\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Breathing|breathing]] and [[Visual drifting#Morphing|morphing]])'' - This effect is usually subtle and barely noticeable and only occurs at higher dosages or when combined with [[cannabis]].\n*'''[[Effect::Brightness alteration]]''' - 2-FEA can make spaces seem brighter as a result of its pupil dilating effects.\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]''' - This effect occurs very rarely, and typically only when the user has taken high doses, is coming down, or has been awake for unusually long periods. It is usually very mild when it does occur.\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of 2-FEA are generally very subtle and consist of mild to moderate stimulation.\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect typically occurs with overly high doses or after redosing and staying awake for extended periods of time.\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Emotion suppression]]\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Psychosis]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=2-Fluoroethamphetamine}}\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational 2-FEA use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 2-FEA has a very limited history of human usage. \n\nAnecdotal reports from those who have tried 2-FEA suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself or using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of 2-FEA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 2-FEA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 2-FEA presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of 2-FEA all [[stimulant]]s will have a reduced effect.\n<!-- ===Psychosis===\n{{Main|Stimulant psychosis}}\nThe use of compounds in the amphetamine class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref>http://www.drugabuse.gov/drugs-abuse/emerging-trends</ref><ref name=\"amppsychosis\">Shoptaw, S. J., Kao, U., & Ling, W. (2009). Treatment for amphetamine psychosis. The Cochrane Library.</ref> A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"amppsychosis\" /><ref>Hofmann FG (1983). A Handbook on Drug and Alcohol Abuse: The Biomedical Aspects (2nd ed.). New York: Oxford University Press. p. 329. ISBN 9780195030570.</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"amppsychosis\" /> -->\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[DangerousInteraction::Stimulants]]''' - 2-FEA can be potentially dangerous in combination with other [[stimulant]]s as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[DangerousInteraction::MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with [[amphetamine]]s.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[DangerousInteraction::Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\n{{legalStub}}\n2-FEA is currently a gray area compound within all parts of the world, meaning its regulation lies in a legal gray area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, people may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\n*'''Canada''': 2-FEA would be considered Schedule I as it is an analogue of Amphetamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''France''': As of december 2024, 2-FEA is not explicitly scheduled. It is thus legal to possess, although in a grey area.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 2-FEA is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''New Zealand''': 2-FEA is an amphetamine analogue, so is a Schedule 3 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html}}</ref>\n*'''The Netherlands:''' 2-FEA is a controlled substance as of July 1, 2025. <ref>{{Citation|title= Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden. | year=2025|url=https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs}}</ref>\n*'''Switzerland''': 2-FEA can be considered a controlled substance as a defined derivative of a-methylphenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': 2-FEA is considered a Class A drug as a result of the amphetamine analogue clause of the Misuse of Drugs Act 1971.<ref>{{Citation | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Substituted amphetamine]]\n*[[3-FEA]]\n\n==External links==\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2299 3-FEA (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Amphetamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

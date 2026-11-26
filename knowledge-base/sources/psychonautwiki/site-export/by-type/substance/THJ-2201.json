@@ -1,0 +1,409 @@
+{
+ "id": "psychonautwiki:9254",
+ "type": "substance",
+ "title": "THJ-2201",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/THJ-2201",
+  "pageid": 9254,
+  "last_edited": "2022-07-23T01:51:21Z"
+ },
+ "categories": [
+  "CS1 German-language sources (de)",
+  "Cannabinoid",
+  "Naphthoylindazole",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/THJ-2201",
+ "substance_box": {
+  "names": {
+   "common": "THJ-2201",
+   "substitutive": "",
+   "systematic": "1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Naphthoylindazole"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 0.5 mg",
+    "light": "0.5 - 1 mg",
+    "common": "1 - 2 mg",
+    "strong": "2 - 5 mg",
+    "heavy": "5 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "5 - 10 minutes",
+    "peak": "30 - 45 minutes",
+    "offset": "0 - 0 minutes (Abrupt)",
+    "aftereffects": "60 - 90 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "THJ-2201"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Naphthoylindazole"
+   ],
+   "Smoked threshold dose": [
+    "0.5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.5"
+   ],
+   "Smoked max light dose": [
+    "1"
+   ],
+   "Smoked min common dose": [
+    "1"
+   ],
+   "Smoked max common dose": [
+    "2"
+   ],
+   "Smoked min strong dose": [
+    "2"
+   ],
+   "Smoked max strong dose": [
+    "5"
+   ],
+   "Smoked heavy dose": [
+    "5"
+   ],
+   "Smoked min total time": [
+    "1"
+   ],
+   "Smoked max total time": [
+    "2"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "5"
+   ],
+   "Smoked max onset time": [
+    "10"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "30"
+   ],
+   "Smoked max peak time": [
+    "45"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "0"
+   ],
+   "Smoked max offset time": [
+    "0"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "60"
+   ],
+   "Smoked max afterglow time": [
+    "90"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of THJ-2201.",
+   "clean": "Molecular structure of THJ-2201."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:THJ-2201.svg",
+   "clean": "File:THJ-2201.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::THJ-2201]]",
+   "clean": "THJ-2201"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone",
+   "clean": "1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Naphthoylindazole]]",
+   "clean": "Naphthoylindazole"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< [[Smoked threshold dose::0.5]] [[Smoked dose units::mg]]",
+   "clean": "< 0.5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.5]] - [[Smoked max light dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::1]] - [[Smoked max common dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::2]] - [[Smoked max strong dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::5]] mg +",
+   "clean": "5 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1]] - [[Smoked max total time::2]] [[Smoked total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::5]] - [[Smoked max onset time::10]] [[Smoked onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::30]] - [[Smoked max peak time::45]] [[Smoked peak time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::0]] - [[Smoked max offset time::0]] [[Smoked offset time units::minutes]] (Abrupt)",
+   "clean": "0 - 0 minutes (Abrupt)"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::60]] - [[Smoked max afterglow time::90]] [[Smoked afterglow time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "OralROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "OralROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "THJ-2201 (1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone) is a synthetic cannabinoid and analog of AM-2201. It has been marketed by many research chemical vendors as a legal alternative to the popular AM-2201, which had been banned in 2011.\n\nCannabinoids are commonly smoked or vaporized to achieve a quick onset of effects and rapid offset. THJ-2201 is orally active when dissolved in a lipid, which can increase the duration significantly. Like other cannabinoids, it is insoluble in water but dissolves in ethanol and lipids.\n\nUnlike cannabis, the chronic abuse of synthetic cannabinoids has been associated with multiple deaths and more dangerous side effects and toxicity in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses.\n\nChemistry\n\nTHJ-2201, or 1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone, is a synthetic cannabinoid drug containing a substituted indazole group. This indazole moeity is substituted at R1 with a fluoropentyl chain, a substitution shared with 5F-PB-22 and 5F-AKB48. Additionally, the indazole core is substituted at R3 with a carbonyl group which is also bonded to a napthalene moeity. Napthalene is a bicyclic structure of two fused benzene rings, and is also found in THJ-018. The carbonyl bridge of THJ-2201 classifies it as a ketone. THJ-2201 is an analog of AM-2201 in which the core indole structure is substituted with an indazole base.\n\nPharmacology\n\nAlthough this substance has not been formally studied, from analysis of the structure, it is presumed that THJ-2201 has a similar binding profile to that of AM-2201 and matches many of the in vivo properties of Δ9-THC. As with AM-2201, this compound is believed to act as a potent full agonist to the central CB1 and peripheral CB2 receptors with Ki values of 1.0 and 2.6nM respectively. However, the role of these interactions and how they result in the cannabinoid high experience continues to remain elusive.\n\nSubjective effects\n\nCombinational effects\n\n*Psychedelics - When used in combination with psychedelics, cannabinoids are capable of intensifying and extending the duration of both the visual and cognitive effects with extreme efficiency. This should be used with caution if one is not experienced with psychedelics.\n*Dissociatives - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced.\n*Alcohol - When used in combination with alcohol, cannabinoids can cause feelings of extreme nausea, dizziness and changes in gravity. It is recommended that people smoke before drinking and not the other way around unless they are extremely cautious.\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational THJ-2201 use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because THJ-2201 has very little history of human usage. Anecdotal evidence from people who have tried THJ-2201 within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nInformal experiments have shown that overdose will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer moderate to severe anxiety or fall asleep. \n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase one's current state of mind and emotions. Also, like THC, prolonged usage of synthetic cannabinoids may increase one's disposition to mental illness and psychosis, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to use proper precautions when dosing to avoid a negative experience.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other synthetic cannibanoids, the chronic use of THJ-2201 can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of THJ-2201 develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). THJ-2201 presents cross-tolerance with all cannabinoids, meaning that after the consumption of THJ-2201 all cannabinoids will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\nTHJ-2201 was developed to bypass drug prohibition laws which have banned the possession and sale of many synthetic cannabinoids. As such, it remains legal in most of the world.\n\n*Denmark: As of August 25, 2015, THJ-2201 is listed on the list of controlled drugs in Denmark.\n*Germany: THJ-2201 is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Latvia: THJ-2201 is a Schedule I controlled substance.\n*Sweden: THJ-2201 is a controlled substance in Sweden.\n*Switzerland: THJ-018 is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: THJ-2201 is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import.\n*United States: THJ-2201 is a Schedule I controlled substance.\n\nSee also\n\n*Responsible use\n*Cannabis\n*Cannabinoid\n*THJ-018\n*JWH-018\n*AB-FUBINACA\n\nExternal links\n\n*THJ-2201 (Wikipedia)\n*THJ-2201 (Isomer Design)\n\nReferences\n\nCategory:Research chemical\nCategory:Naphthoylindazole\nCategory:Cannabinoid",
+ "wikitext": "{{#setlogo:SmallStonedStare.gif}}\n{{SummarySheet}}\n{{SubstanceBox/THJ-2201}}\n\n'''THJ-2201''' ('''1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone''') is a synthetic [[psychoactive class::cannabinoid]] and analog of [[AM-2201]]. It has been marketed by many [[research chemical]] vendors as a legal alternative to the popular [[AM-2201]], which had been banned in 2011.\n\nCannabinoids are commonly smoked or vaporized to achieve a quick [[onset]] of effects and rapid [[offset]]. THJ-2201 is orally active when dissolved in a lipid, which can increase the duration significantly. Like other [[cannabinoid]]s, it is insoluble in water but dissolves in [[ethanol]] and lipids.\n\nUnlike [[cannabis]], the chronic abuse of [[synthetic cannabinoids]] has been [[Synthetic_cannabinoid#Deaths|associated with multiple deaths]] and [[Synthetic cannabinoid#Harm potential|more dangerous side effects and toxicity]] in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses.\n==Chemistry==\nTHJ-2201, or 1-​[(5-​fluoropentyl)-​1H-​indazol-​3-​yl](naphthalen-​1-​yl)methanone, is a synthetic [[cannabinoid]] drug containing a substituted indazole group. This indazole moeity is substituted at R<sub>1</sub> with a fluoropentyl chain, a substitution shared with [[5F-PB-22]] and [[5F-AKB48]]. Additionally, the indazole core is substituted at R<sub>3</sub> with a carbonyl group which is also bonded to a napthalene moeity. Napthalene is a bicyclic structure of two fused benzene rings, and is also found in [[THJ-018]]. The carbonyl bridge of THJ-2201 classifies it as a ketone. THJ-2201 is an analog of [[AM-2201]] in which the core indole structure is substituted with an indazole base.\n\n==Pharmacology==\nAlthough this substance has not been formally studied, from analysis of the structure, it is presumed that THJ-2201 has a similar binding profile to that of [[AM-2201]] and matches many of the in vivo properties of [[Δ9-THC]]. As with [[AM-2201]], this compound is believed to act as a potent full agonist to the central CB1 and peripheral CB2 receptors with Ki values of 1.0 and 2.6nM respectively. However, the role of these interactions and how they result in the cannabinoid high experience continues to remain elusive.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous tactile sensations]]''' - The \"body high\" of THJ-2201 can be described as a warm, soft, pleasurable, all-encompassing tingling sensation that spreads over the body after initial ingestion. It maintains a consistent presence that quickly rises with the onset and hits its limit once the peak has been reached before immediately dissipating.\n*'''[[Effect::Sedation]]''' - Generally, the effects on the user's energy levels are primarily sedating. This encourages one to relax, and (at higher doses) fall asleep. This can, however, be suppressed by simply forcing oneself to engage in physical activities.\n*'''[[Effect::Motor control loss]]''' - This substance causes a partial to moderate suppression of motor control which intensifies proportional to dose but rarely results in a complete inability to walk and perform basic movements.\n*'''[[Effect::Appetite enhancement]]''' - As with many other cannabinoids, THJ-2201 causes an increase in appetite<ref>{{cite book | veditors=((Mechoulam, R.)) | date= 1986 | title=Cannabinoids as therapeutic agents | publisher=CRC Press | isbn=9780849357725}}</ref>, known colloquially as \"the munchies\" in popular American and United Kingdom culture. Clinical studies and survey data have found that cannabis increases food enjoyment and interest in food.<ref name=\"HMW\">{{Citation | year=2001 | title=How Marijuana Works | url=https://science.howstuffworks.com/marijuana.htm}}</ref> This is thought to be due to the way in which endocannabinoids in the hypothalamus activate cannabinoid receptors that are responsible for maintaining food intake.<ref name=\"HMW\"></ref>\n*'''[[Effect::Vasodilation]]''' - Cannabinoids appear to decrease blood pressure by dilating the blood vessels, increasing blood flow throughout the body. The arteries in the eyeball expand from the decreased blood pressure, and the heart rate increases to compensate for the reduction in pressure. \n*'''[[Effect::Pain relief]]''' - Cannabinoids have been clinically demonstrated to provide pain relief via agonism of cannabinoid receptors CB<sub>1</sub> and CB<sub>2</sub>, which extends to [[synthetic cannabinoid]] receptor agonists.<ref>{{cite journal | vauthors=((Martín-Sánchez, E.)), ((Furukawa, T. A.)), ((Taylor, J.)), ((Martin, J. L. R.)) | journal=Pain Medicine | title=Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain | volume=10 | issue=8 | pages=1353–1368 | date= November 2009 | url=https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x | issn=1526-2375 | doi=10.1111/j.1526-4637.2009.00703.x}}</ref><ref>{{cite journal | vauthors=((Lynch, M. E.)), ((Campbell, F.)) | journal=British Journal of Clinical Pharmacology | title=Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain | volume=72 | issue=5 | pages=735–744 | date= November 2011 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x | issn=03065251 | doi=10.1111/j.1365-2125.2011.03970.x}}</ref>\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Changes in gravity]]''' - THJ-2201 can cause vertigo with which the environment appears to be spinning or oscillating. At moderate to high doses, it can spontaneously induce the sensation of falling, which can be overwhelming and uncomfortable.\n*'''[[Effect::Nausea]]''' - THJ-2201 can induce feelings of nausea at strong to heavy doses, which can potentially lead to vomiting.\n*'''[[Effect::Abnormal heartbeat]]''' - This compound, like all cannabinoids, has commonly been reported to induce tachycardia in some individuals.\n*'''[[Effect::Dehydration]]'''- This is known colloquially as \"cotton mouth\" in popular American and United Kingdom culture.\n\n}}\n\n{{effects/visual|\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Visual acuity suppression|Acuity suppression]]'''\n*'''[[Effect::Geometry]]''' - As reported with other cannabinoids, THJ-2201 can produce closed eye visuals at moderate doses, which can escalate into visual distortions such as a ripples in the field of vision upon continuous administration. Within users who also regularly use psychedelics, it is capable of inducing these consistently in a visual style which seems to be an averaged out depiction of all the psychedelics one has used within the past. These rarely extend beyond level 4 and are considered to be mild, fine, small and zoomed out but brighter and better defined than the geometry experienced with cannabis.\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Emotion enhancement]]''' - The most prominent cognitive component of cannabinoids is the way in which they enhance the emotions one is already feeling proportional to dose. This can result in euphoria, extreme laughter, and increased immersion within tasks and activities, or it can result in anxiety and paranoia depending on the user's current state of mind.\n*'''[[Effect::Anxiety]]''' - Subjectively, THJ-2201 is more anxiogenic than [[Δ9-THC]] and [[THJ-018]].\n*'''[[Effect::Paranoia]]''' - All cannabinoids are capable of inducing paranoia at high doses or with chronic administration.\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::analysis suppression]]'''\n*'''[[Effect::Dream suppression]]'''\n*'''[[Effect::Psychosis]]''' - The prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to psychosis<ref name=\"Arseneault2004\">{{cite journal | vauthors=((Arseneault, L.)), ((Cannon, M.)), ((Witton, J.)), ((Murray, R. M.)) | journal=The British Journal of Psychiatry | title=Causal association between cannabis and psychosis: examination of the evidence | volume=184 | issue=2 | pages=110–117 | date= February 2004 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4 | issn=0007-1250 | doi=10.1192/bjp.184.2.110}}</ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\">{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Drug and Alcohol Dependence | title=Synthetic cannabinoid JWH-018 and psychosis: An explorative study | volume=117 | issue=2–3 | pages=152–157 | date= September 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639 | issn=03768716 | doi=10.1016/j.drugalcdep.2011.01.012}}</ref><ref name=\"Schneir2011\">{{cite journal | vauthors=((Schneir, A. B.)), ((Cullen, J.)), ((Ly, B. T.)) | journal=The Journal of Emergency Medicine | title=“Spice” Girls: Synthetic Cannabinoid Intoxication | volume=40 | issue=3 | pages=296–299 | date=1 March 2011 | url=https://www.sciencedirect.com/science/article/pii/S0736467910008802 | issn=0736-4679 | doi=10.1016/j.jemermed.2010.10.014}}</ref><ref name=\"Vearrier2010\">{{cite journal | vauthors=((Vearrier, D.)), ((Osterhoudt, K. C.)) | journal=Pediatric Emergency Care | title=A Teenager With Agitation: Higher Than She Should Have Climbed | volume=26 | issue=6 | pages=462–465 | date= June 2010 | url=http://journals.lww.com/00006565-201006000-00016 | issn=0749-5161 | doi=10.1097/PEC.0b013e3181e4f416}}</ref>\n*'''[[Effect::Increased music appreciation]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Tinnitus]]''' - Studies have implied that cannabinoids can exacerbate the condition of tinnitus in some individuals.<ref>{{cite journal | vauthors=((Zheng, Y.)), ((Stiles, L.)), ((Hamilton, E.)), ((Smith, P. F.)), ((Darlington, C. L.)) | journal=Hearing Research | title=The effects of the synthetic cannabinoid receptor agonists, WIN55,212-2 and CP55,940, on salicylate-induced tinnitus in rats | volume=268 | issue=1 | pages=145–150 | date=1 September 2010 | url=https://www.sciencedirect.com/science/article/pii/S0378595510002807 | issn=0378-5955 | doi=10.1016/j.heares.2010.05.015}}</ref> Subjectively, this particular compound is more likely to induce this at strong to heavy doses.\n}}\n\n}}\n\n===Combinational effects===\n\n*'''[[Psychedelics]]''' - When used in combination with psychedelics, cannabinoids are capable of intensifying and extending the duration of both the visual and cognitive effects with extreme efficiency. This should be used with caution if one is not experienced with psychedelics.\n*'''[[Dissociatives]]''' - When used in combination with dissociatives, the geometry, euphoria, dissociation and hallucinatory effects are often greatly enhanced.\n*'''[[Alcohol]]''' - When used in combination with alcohol, cannabinoids can cause feelings of extreme nausea, dizziness and changes in gravity. It is recommended that people smoke before drinking and not the other way around unless they are extremely cautious.\n\n==Toxicity and harm potential==\n{{further|Synthetic cannabinoid#Toxicity and harm potential|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational THJ-2201 use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because THJ-2201 has very little history of human usage. Anecdotal evidence from people who have tried THJ-2201 within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nInformal experiments have shown that overdose will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer moderate to severe [[anxiety]] or fall asleep. \n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase [[emotion enhancement|one's current state of mind and emotions]]. Also, like [[THC]], prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to mental illness and psychosis<ref name=\"Arseneault2004\"></ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\"/><ref name=\"Schneir2011\"/><ref name=\"Vearrier2010\"/>\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to [[Dosage|use proper precautions when dosing]] to avoid a negative experience.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other synthetic cannibanoids, the chronic use of THJ-2201 can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of THJ-2201 [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). THJ-2201 presents cross-tolerance with [[Cross-tolerance::all [[cannabinoids]]]], meaning that after the consumption of THJ-2201 all cannabinoids will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Cannabis}}\n\n==Legal status==\nTHJ-2201 was developed to bypass drug prohibition laws which have banned the possession and sale of many synthetic [[cannabinoid]]s. As such, it remains legal in most of the world.\n\n*'''Denmark''': As of August 25, 2015, THJ-2201 is listed on the list of controlled drugs in Denmark.<ref>{{Citation | title=Bekendtgørelse om euforiserende stoffer - ni nye stoffer tilføjet | url=https://laegemiddelstyrelsen.dk/da/nyheder/2015/bekendtgoerelse-om-euforiserende-stoffer-ni-nye-stoffer-tilfoejet/}}</ref>\n*'''Germany''': THJ-2201 is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 30, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57|publication-date=December 12, 2014|pages=1999-2002|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''Latvia''': THJ-2201 is a Schedule I controlled substance.<ref>{{Citation | title=Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | url=https://likumi.lv/doc.php?id=121086}}</ref>\n*'''Sweden''': THJ-2201 is a controlled substance in Sweden.<ref>http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2014/november/cannabinoider-foreslas-bli-klassade-som-halsofarlig-vara/</ref>\n*'''Switzerland''': THJ-018 is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': THJ-2201 is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2016 | url=https://www.legislation.gov.uk/uksi/2016/1109/made}}</ref>\n*'''United States''': THJ-2201 is a Schedule I controlled substance.<ref>{{cite journal|url=http://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf|archive-url=https://web.archive.org/web/20150712011208/http://www.gpo.gov/fdsys/pkg/FR-2015-01-30/pdf/2015-01776.pdf|archive-date=July 12, 2015|title=Schedules of controlled substances: temporary placement of three synthetic cannabinoids into schedule I. Final order.|work=Federal Register|volume=80|issue=20|pages=5042–5047|publisher= Office of the Federal Register|access-date=January 1, 2020|publication-date=January 30, 2015|pmid=25730924}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Cannabis]]\n*[[Cannabinoid]]\n*[[THJ-018]]\n*[[JWH-018]]\n*[[AB-FUBINACA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/THJ-2201 THJ-2201 (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=8117 THJ-2201 (Isomer Design)]\n\n==References==\n<references />\n[[Category:Research chemical]]\n[[Category:Naphthoylindazole]]\n[[Category:Cannabinoid]]\n{{#set:Featured=true}}"
+}

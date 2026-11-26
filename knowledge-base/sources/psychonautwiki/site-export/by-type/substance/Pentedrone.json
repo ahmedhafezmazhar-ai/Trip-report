@@ -1,0 +1,488 @@
+{
+ "id": "psychonautwiki:14088",
+ "type": "substance",
+ "title": "Pentedrone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pentedrone",
+  "pageid": 14088,
+  "last_edited": "2024-05-06T00:26:43Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 Chinese-language sources (zh)",
+  "CS1 Czech-language sources (cs)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Cathinone",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Pentedrone",
+ "substance_box": {
+  "names": {
+   "common": "Pentedrone, Drone",
+   "substitutive": "Alpha-methylamino-valerophenone",
+   "systematic": "2-(Methylamino)-1-phenylpentan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25 mg +",
+    "duration": "2 - 6 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 10 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "1 - 4 hours",
+    "onset": "5 - 10 minutes",
+    "peak": "30 - 90 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Pentedrone",
+    "Drone"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "Chemical class": [
+    "Cathinone"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "15"
+   ],
+   "Oral min strong dose": [
+    "15"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "10"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2"
+   ],
+   "Insufflated max light dose": [
+    "5"
+   ],
+   "Insufflated min common dose": [
+    "5"
+   ],
+   "Insufflated max common dose": [
+    "10"
+   ],
+   "Insufflated min strong dose": [
+    "10"
+   ],
+   "Insufflated max strong dose": [
+    "20"
+   ],
+   "Insufflated heavy dose": [
+    "20"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "10"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "90"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "8"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Pentedrone",
+   "clean": "Molecular structure of Pentedrone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Pentedrone.svg",
+   "clean": "File:Pentedrone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Pentedrone]], [[common name::Drone]]",
+   "clean": "Pentedrone, Drone"
+  },
+  "NameSubstitution": {
+   "raw": "Alpha-methylamino-valerophenone",
+   "clean": "Alpha-methylamino-valerophenone"
+  },
+  "NameSystematic": {
+   "raw": "2-(Methylamino)-1-phenylpentan-1-one",
+   "clean": "2-(Methylamino)-1-phenylpentan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Cathinone]]",
+   "clean": "Cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::15]] - [[Oral max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]] mg +",
+   "clean": "25 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::10]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 10 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2]] - [[Insufflated max light dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::5]] - [[Insufflated max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::10]] - [[Insufflated max strong dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::10]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::90]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::8]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "Pentedrone (also known as drone) is a lesser-known novel stimulant substance of the cathinone class. Pentedrone belongs to a group of compounds known as substituted cathinones. Pentedrone acts as a norepinephrine-dopamine reuptake inhibitor (NDRI).\n\nPentedrone was first detected being sold online in 2010. It is an example of a contemporary designer drug specifically chosen to mimic and/or replace the effects of street drugs like cocaine, MDMA, or methamphetamine. Pentedrone and similar compounds are sometimes referred to as \"bath salts\".\n\nPentedrone is known to come in the form of either a white powder or crystallized shards which users can ingest to produce a powerful, fast-acting but short-lived euphoric stimulant effects which are comparable to those of crack-cocaine, N-ethylpentedrone and a-PVP-type compounds, particularly when they are insufflated, vaporized or injected. Starting with the advent of MDPV, research chemical stimulants like pentedrone have gained notoriety for its tendency to induce compulsive redosing and addictive behaviors in a seemingly significant percentage of its users as well the ability to readily induce paranoid, delusional states and stimulant psychosis when abused.\n\nLittle data exists about the toxicity and abuse potential of pentedrone in humans. Due to its novelty and brief history of human usage, all information related to this compound should be treated with extreme caution. It is strongly recommended that one use harm reduction practices if using this substance.\n\nChemistry\n\nPentedrone is a molecule of the substituted cathinone chemical class. Substituted cathinones refer to a class of molecules which are principally constituted of a phenethylamine core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. They are also known as the beta-ketone (double-bonded oxygen to the β-carbon) analogs of amphetamines. Pentedrone is the a-pentyl beta-keto analog of methamphetamine.\n\nOf general note, the cathinone backbone can be modified in three different places to create hundreds of possible compounds, which include substituents on the aromatic ring, the alpha carbon, and the amine group.\n\nPharmacology\n\nDue to the lack of research regarding the substance, all proceeding discussion regarding the pharmacology of this compound derives from speculation based upon its structure and subjective effect similarities to other cathinones and related molecules, such as prolintane, a-PVP, a-PHP and analogs like N-ethyl-(nor)-pentedrone (i.e. NEP). \n\nUnlike many other substituted cathinones, which display both reuptake-inhibition and releasing agent properties, pentedrone has been shown to act as a pure reuptake inhibitor for the major catecholamine neurotransmitters dopamine and norepinephrine, with very modest activity on serotonin. This renders its pharmacological activity similar to that of methylphenidate, cocaine or MDPV (although the latter two possess heavy additional serotonergic activity. These pure uptake inhibitors likely do not enter the intracellular space of the synapse via the transporter, which may be associated with less intracellular pharmacological effects and toxicity compared with substrate-type releasersThis enables the endogenous neurotransmitters dopamine and norepinephrine to accumulate within various synaptic regions in the brain, resulting in stimulating and euphoric effects.\n\nNotably, the addition of an ethyl group to the terminal amine (-NH2) group of the pentedrone molecule seems to increase its potency significantly, as is observed with its successor analog N-ethyl-(nor)-pentedrone (i.e. NEP) which is viewed as having preferential recreational properties.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: Pentedrone\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational pentedrone use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because pentedrone has a very short history of human usage. Early anecdotal evidence from people who have tried pentedrone within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it in a sparing and controlled fashion (but nothing can be completely guaranteed).\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of pentedrone can be considered moderately addictive with a high potential for abuse and seems to be readily liable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of pentedrone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the total absence of further consumption). Pentedrone presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of pentedrone all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for (dextro)amphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\n*Stimulants - Pentedrone can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA are generally believed to be increased when combined with amphetamine and other stimulants.\n\n*Cocaine - This combination may increase strain on the heart to dangerous levels.\n\nLegal status\n\n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*China: As of October 2015, pentedrone is a controlled substance in China.\n*Czech Republic: Pentedrone is banned in the Czech Republic.\n*Germany: Pentedrone is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of July 17, 2013. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Switzerland: Pentedrone is a controlled substance specifically named under Verzeichnis D.\n*Turkey: Pentedrone is a classed as drug and is illegal to possess, produce, supply, or import.\n*The Netherlands: Pentedrone is currently legal, but it is part of a substance group that may be banned soon as part of a recently passed law on New Psychoactive Substances (NPS).  \n*United Kingdom: Pentedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: On January 28, 2014, the DEA listed it, along with 9 other synthetic cathinones, on the Schedule 1 with a temporary ban, effective February 27, 2014.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Psychoactive substance index\n*Stimulant\n*Substituted cathinone\n*N-Ethylpentedrone (NEP)\n*Hexedrone\n*MDPV\n\nExternal links\n\n*Pentedrone (Wikipedia)\n*Pentedrone (Isomer Design)\n*Pentedrone (Forum)\n\nLiterature\n\n* Simmler, L. D., Rickli, A., Hoener, M. C., & Liechti, M. E. (2014). Neuropharmacology Monoamine transporter and receptor interaction profiles of a new series of designer cathinones. Neuropharmacology, 79, 152–160. https://doi.org/10.1016/j.neuropharm.2013.11.008\n* Hwang, J., Kim, J., Oh, J., Hong, S., Ma, S., Jung, Y., … Jang, C. (2014). The new stimulant designer compound pentedrone exhibits rewarding properties and affects dopaminergic activity, 117–128. https://doi.org/10.1111/adb.12299\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Cathinone\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Pentedrone}}\n\n'''Pentedrone''' (also known as '''drone''') is a lesser-known novel [[psychoactive class::stimulant]] substance of the [[cathinone]] class. Pentedrone belongs to a group of compounds known as [[substituted cathinones]]. Pentedrone acts as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI).<ref name=\"cathinones\">{{cite journal | vauthors=((Simmler, L. D.)), ((Rickli, A.)), ((Hoener, M. C.)), ((Liechti, M. E.)) | journal=Neuropharmacology | title=Monoamine transporter and receptor interaction profiles of a new series of designer cathinones | volume=79 | pages=152–160 | date= April 2014 | url=https://linkinghub.elsevier.com/retrieve/pii/S0028390813005327 | issn=00283908 | doi=10.1016/j.neuropharm.2013.11.008}}</ref>\n\nPentedrone was first detected being sold online in 2010. It is an example of a contemporary [[designer drug]] specifically chosen to mimic and/or replace the effects of street drugs like [[cocaine]], [[MDMA]], or [[methamphetamine]]. Pentedrone and similar compounds are sometimes referred to as \"bath salts\".<ref>{{Citation | title=2010 Annual report on the state of the drugs problem in Europe | url=https://www.emcdda.europa.eu/publications/annual-report/2010}}</ref>\n\nPentedrone is known to come in the form of either a white powder or crystallized shards{{citation needed}} which users can ingest to produce a powerful, fast-acting but short-lived euphoric stimulant effects which are comparable to those of [[crack-cocaine]], [[N-ethylpentedrone]] and [[a-PVP]]-type compounds, particularly when they are [[routes of administration#Insufflated|insufflated]], [[routes of administration#Vaporized|vaporized]] or [[routes of administration#Injection|injected]].{{citation needed}} Starting with the advent of [[MDPV]], research chemical stimulants like pentedrone have gained notoriety for its tendency to induce [[compulsive redosing]] and addictive behaviors in a seemingly significant percentage of its users as well the ability to readily induce [[paranoia|paranoid]], [[delusions|delusional states]] and [[stimulant psychosis]] when abused.{{citation needed}}\n\nLittle data exists about the toxicity and abuse potential of pentedrone in humans. Due to its novelty and brief history of human usage, all information related to this compound should be treated with extreme caution. It is strongly recommended that one use [[responsible drug use|harm reduction practices]] if using this substance.\n\n==Chemistry==\nPentedrone is a molecule of the [[substituted cathinone]] chemical class. Substituted cathinones refer to a class of molecules which are principally constituted of a [[phenethylamine]] core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. They are also known as the beta-ketone (double-bonded oxygen to the β-carbon) analogs of [[amphetamines]]. Pentedrone is the a-pentyl beta-keto analog of [[methamphetamine]].\n\nOf general note, the cathinone backbone can be modified in three different places to create hundreds of possible compounds, which include substituents on the aromatic ring, the alpha carbon, and the amine group.<ref>{{cite journal | vauthors=((Liu, C.)), ((Jia, W.)), ((Li, T.)), ((Hua, Z.)), ((Qian, Z.)) | journal=Drug Testing and Analysis | title=Identification and analytical characterization of nine synthetic cathinone derivatives N -ethylhexedrone, 4-Cl-pentedrone, 4-Cl- α -EAPP, propylone, N -ethylnorpentylone, 6-MeO-bk-MDMA, α -PiHP, 4-Cl- α -PHP, and 4-F- α -PHP: Identification of nine synthetic cathinones | volume=9 | issue=8 | pages=1162–1171 | date= August 2017 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.2136 | issn=19427603 | doi=10.1002/dta.2136}}</ref>\n\n==Pharmacology==\nDue to the lack of research regarding the substance, all proceeding discussion regarding the pharmacology of this compound derives from speculation based upon its structure and subjective effect similarities to other [[Substituted cathinone|cathinone]]s and related molecules, such as [[prolintane]], [[a-PVP]], [[a-PHP]] and analogs like [[N-ethyl-(nor)-pentedrone]] (i.e. '''NEP'''). \n\nUnlike many other substituted cathinones, which display both [[reuptake inhibitor|reuptake-inhibition]] and [[releasing agent]] properties, pentedrone has been shown to act as a pure [[reuptake inhibitor]] for the major [[catecholamine]] neurotransmitters [[dopamine]] and [[norepinephrine]], with very modest activity on [[serotonin]]. This renders its pharmacological activity similar to that of [[methylphenidate]], [[cocaine]] or [[MDPV]] (although the latter two possess heavy additional [[serotonin|serotonergic]] activity. These pure uptake inhibitors likely do not enter the intracellular space of the synapse via the transporter, which may be associated with less intracellular pharmacological effects and toxicity compared with substrate-type releasers<ref name=\"cathinones\" />This enables the endogenous neurotransmitters dopamine and norepinephrine to accumulate within various synaptic regions in the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects.{{citation needed}}\n\nNotably, the addition of an ethyl group to the terminal amine (-NH2) group of the pentedrone molecule seems to increase its potency significantly, as is observed with its successor analog [[N-ethyl-(nor)-pentedrone]] (i.e. ''NEP'') which is viewed as having preferential recreational properties.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, pentedrone can be considered to be very stimulating and energetic. \n*'''[[Effect::Spontaneous physical sensations]]''' - Much like related cathninones, it is commonly reported that medium to high doses of pentedrone can result in a pleasurable body high characterized by a pleasant tingling sensation, which persists for a short period after administration before quickly falling off, which can lead users to redose more than they initially intended.  \n**'''[[Effect::Physical euphoria]]''' - This effect usually occurs at the peak of the experience, which can be short-lived compared to its total duration. \n*'''[[Effect::Dehydration]]''' - Dry mouth and increased sweating can occur after consuming pentedrone. \n*'''[[Effect::Vasoconstriction]]''' - A number of reports indicate that pentedrone can produce slight vasoconstriction, though this has yet to be scientifically validated.{{citation needed}}\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Teeth grinding]]''' - At common doses, this component has been reported considerably to less intense when compared with that of [[MDMA]] or other [[cathinones]] like [[a-PHP]] or [[NEP]].\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Cognitive euphoria]]''' \n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Analysis enhancement]]''' - This effect is mostly present in lower doses and is considered weak compared to other stimulant compounds. At high doses, it becomes overshadowed by euphoric stimulation.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Pentedrone]][[Category:Experience]]|format=ul|Columns}}\nAdditional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Pentedrone.shtml Erowid Experience Vaults: Pentedrone]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational pentedrone use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because pentedrone has a very short history of human usage. Early anecdotal evidence from people who have tried pentedrone within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it in a sparing and controlled fashion (but nothing can be completely guaranteed).\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulants]], the chronic use of pentedrone can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and seems to be readily liable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of pentedrone [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the total absence of further consumption). Pentedrone presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of pentedrone all [[stimulants]] will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for (dextro)[[amphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\"/><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\"/>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n*'''[[Stimulants]]''' - Pentedrone can be potentially dangerous in combination with other [[stimulant]]s as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA are generally believed to be increased when combined with [[amphetamine]] and other stimulants.\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart to dangerous levels.\n\n==Legal status==\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''China''': As of October 2015, pentedrone is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>\n*'''Czech Republic''': Pentedrone is banned in the Czech Republic.<ref>{{cite web | url=http://www.mzcr.cz/Admin/_upload/files/3/Nov%C3%A9%20PL.pdf | title=Látky, o které byl doplněn seznam č. 4 psychotropních látek (příloha č. 4 k nařízení  vlády č. 463/2013 Sb.) | publisher=Ministerstvo zdravotnictví | language=Czech}}</ref>\n*'''Germany''': Pentedrone is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> as of July 17, 2013.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl113s2274.pdf|title=Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 18, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref>\n*'''Switzerland''': Pentedrone is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Pentedrone is a classed as drug and is illegal to possess, produce, supply, or import.<ref>Bakanlar Kurulu Kararı Karar Sayısı : 2013/4827 | https://free-ankara.org/wp-content/uploads/2017/09/BKK_2013_4827_28688.pdf</ref>\n*'''The Netherlands:''' Pentedrone is currently legal, but it is part of a substance group that may be banned soon as part of a recently passed law on New Psychoactive Substances (NPS). <ref>{{Citation|title= Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch) | year=2024|url=https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159}}</ref> \n*'''United Kingdom''': Pentedrone is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}e</ref>\n*'''United States''': On January 28, 2014, the DEA listed it, along with 9 other synthetic cathinones, on the Schedule 1 with a temporary ban, effective February 27, 2014.<ref name=\"temp schedule notice\">{{cite web|url=http://www.deadiversion.usdoj.gov/fed_regs/rules/2014/fr0128.htm|date=28 January 2014|title=Temporary Placement of 10 Synthetic Cathinones into Schedule I}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Psychoactive substance index]]\n*[[Stimulant]]\n*[[Substituted cathinone]]\n*[[N-Ethylpentedrone]] (''NEP'')\n*[[Hexedrone]]\n*[[MDPV]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Pentedrone Pentedrone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2434 Pentedrone (Isomer Design)]\n*[http://www.bluelight.org/vb/threads/588475-Pentedrone Pentedrone (Forum)]\n\n==Literature==\n* Simmler, L. D., Rickli, A., Hoener, M. C., & Liechti, M. E. (2014). Neuropharmacology Monoamine transporter and receptor interaction profiles of a new series of designer cathinones. Neuropharmacology, 79, 152–160. https://doi.org/10.1016/j.neuropharm.2013.11.008\n* Hwang, J., Kim, J., Oh, J., Hong, S., Ma, S., Jung, Y., … Jang, C. (2014). The new stimulant designer compound pentedrone exhibits rewarding properties and affects dopaminergic activity, 117–128. https://doi.org/10.1111/adb.12299\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Cathinone]]\n[[Category:Research chemical]]"
+}

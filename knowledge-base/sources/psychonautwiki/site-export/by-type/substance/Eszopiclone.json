@@ -1,0 +1,412 @@
+{
+ "id": "psychonautwiki:17009",
+ "type": "substance",
+ "title": "Eszopiclone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Eszopiclone",
+  "pageid": 17009,
+  "last_edited": "2025-01-12T03:45:20Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Cyclopyrrolone",
+  "Depressant",
+  "GABAergic hallucinogens",
+  "Psychoactive substance",
+  "Stub"
+ ],
+ "substance_box_template": "SubstanceBox/Eszopiclone",
+ "substance_box": {
+  "names": {
+   "common": "Lunesta, Eszop",
+   "substitutive": "Eszopiclone",
+   "systematic": "(S)-6-(5-Chloro-2-pyridinyl)- 7-oxo- 6,7-dihydro- 5H-pyrrolo[3,4-b]pyrazin-5-yl- 4-methyl- 1-piperazinecarboxylate"
+  },
+  "classes": {
+   "psychoactive": "Depressant / Hallucinogen",
+   "chemical": "Cyclopyrrolone"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "3 - 7 mg",
+    "strong": "",
+    "heavy": "",
+    "duration": "6 - 9 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "52 - 80%",
+    "threshold": ".5 mg",
+    "light": "1 - 1.5 mg",
+    "common": "2 - 3 mg",
+    "strong": "4 - 5 mg",
+    "heavy": "6 mg +",
+    "duration": "6 - 8 hours",
+    "onset": "10 - 20 minutes",
+    "peak": "30 - 90 minutes",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Lunesta",
+    "Eszop"
+   ],
+   "psychoactive class": [
+    "Depressant",
+    "Hallucinogen"
+   ],
+   "chemical class": [
+    "Cyclopyrrolone"
+   ],
+   "Smoked min common dose": [
+    "3"
+   ],
+   "Smoked max common dose": [
+    "7"
+   ],
+   "Smoked min total time": [
+    "6"
+   ],
+   "Smoked max total time": [
+    "9"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    ".5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "1"
+   ],
+   "Oral max light dose": [
+    "1.5"
+   ],
+   "Oral min common dose": [
+    "2"
+   ],
+   "Oral max common dose": [
+    "3"
+   ],
+   "Oral min strong dose": [
+    "4"
+   ],
+   "Oral max strong dose": [
+    "5"
+   ],
+   "Oral heavy dose": [
+    "6"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "20"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "30"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "oral peak time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Eszopiclone",
+   "clean": "Molecular structure of Eszopiclone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Eszopiclone.svg",
+   "clean": "File:Eszopiclone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Lunesta]], [[common name::Eszop]]",
+   "clean": "Lunesta, Eszop"
+  },
+  "NameSubstitution": {
+   "raw": "Eszopiclone",
+   "clean": "Eszopiclone"
+  },
+  "NameSystematic": {
+   "raw": "(S)-6-(5-Chloro-2-pyridinyl)- 7-oxo- 6,7-dihydro- 5H-pyrrolo[3,4-b]pyrazin-5-yl- 4-methyl- 1-piperazinecarboxylate",
+   "clean": "(S)-6-(5-Chloro-2-pyridinyl)- 7-oxo- 6,7-dihydro- 5H-pyrrolo[3,4-b]pyrazin-5-yl- 4-methyl- 1-piperazinecarboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]] / [[psychoactive class::Hallucinogen]]",
+   "clean": "Depressant / Hallucinogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Cyclopyrrolone]]",
+   "clean": "Cyclopyrrolone"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::3]] - [[Smoked max common dose::7]] mg",
+   "clean": "3 - 7 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::6]] - [[Smoked max total time::9]] [[Smoked total time units::hours]]",
+   "clean": "6 - 9 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "52 - 80%{{citation needed}}",
+   "clean": "52 - 80%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::.5]] [[Oral dose units::mg]]",
+   "clean": ".5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1]] - [[Oral max light dose::1.5]] mg",
+   "clean": "1 - 1.5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::2]] - [[Oral max common dose::3]] mg",
+   "clean": "2 - 3 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::4]] - [[Oral max strong dose::5]] mg",
+   "clean": "4 - 5 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::6]] mg +",
+   "clean": "6 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::20]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::30]] - [[Oral max peak time::90]] [[oral peak time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Eszopiclone (also known by the trade names Lunesta) is a non-benzodiazepine hypnotic substance of the cyclopyrrolone class that is primarily used in the treatment of insomnia. Eszopiclone is known to belong to a family of drugs colloquially known as \"Z-drugs\". Other Z-drugs include Zopiclone (Imovane) zaleplon (Sonata) and zolpidem (Ambien and AmbienCR).\n\nEszopiclone is thought to increase the normal neurotransmission of the neurotransmitter GABA in the central nervous system in a similar yet distinct way to the activity of benzodiazepines. As Eszopiclone displays heavy sedating effects, it is has been approved for and is commonly sold as a sleeping pill.\n\nWhile \"Z-drugs\" were initially thought to have less misuse potential than benzodiazepines, this appraisal has shifted somewhat in the last few years as a number of cases of addiction and habituation have been observed. Eszopiclone, like all \"Z-drugs\", is recommended to be taken on a short-term basis -- usually a week or less. Daily or continuous use of the drug is usually not advised.\n\nChemistry\n\nEszopiclone is a hypnotic nonbenzodiazepine drug of the cyclopyrrolone class. Eszopiclone is the dextrorotatory S-stereoisomer of zopiclone (Imovane). Eszopiclone and zopiclone are the most popular and available cyclopyrrolone drugs. This class of drugs is named for having a pyrrolone core, a five-membered ring with a nitrogen constituent (pyrrole) and a ketone group (-one).\n\nPharmacology\n\nEszopiclone, although structurally different from benzodiazepines, shares an almost identical pharmacological profile to them. Its mechanism of action works by binding to the same site as benzodiazepines and acts as a full agonist, which in turn positively modulates benzodiazepine-sensitive GABAA receptors and enhances GABA binding at the GABAA receptors to produce Eszopiclone's subjective effects. Since GABA functions as the brain's predominant inhibitory neurotransmitter, this activation of receptors results in the sedative and anxiolytic effects of Eszopiclone.\n\nSubjective effects\n\nIn comparison to other substances of a similar nature such as benzodiazepines, Eszopiclone is commonly reported to present significantly more amnesic and disinhibiting effects in a manner similar to alcohol.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Eszopiclone\n\nToxicity and harm potential\n\nBy itself, Eszopiclone likely has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like benzodiazepines, alcohol or opioids]]. When combined with one or several of these drugs the already existing chance of a having a \"black-out\" is significantly increased, leaving the user with very little to no memory of the events that occurred whilst under the influence of Eszopiclone alone or combined with most other CNS depressants. Users have reported taking Eszopiclone in combination with alcohol in an attempt to treat hangovers with varying degrees of success.\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nEszopiclone is extremely physically and psychologically addictive. This compound may have an even greater addictive potential than benzodiazepines.\nTolerance will develop to the sedative-hypnotic effects within a couple of weeks of daily use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. \nEszopiclone presents cross-tolerance with all benzodiazepines, meaning that after its consumption benzodiazepines and most other GABAgenic depressants will have a reduced effect.Eszopiclone and triazolam in insomnia associated with generalized anxiety disorder.\nIf Eszopiclone has been taken for more than a few weeks, then the medication should be gradually reduced or preferably crossed over to an equivalent dose of diazepam (Valium) which has a much longer half-life, making withdrawal easier. One should then gradually taper the dose over a period of several months to avoid extremely severe and unpleasant withdrawal symptoms which can last up to two years after withdrawal if the withdrawal is done too abruptly.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n\nLegal status\n\n*United States: On Dec 15, 2004,  the United States released Eszopiclone as a treatment for insomnia. It is currently a Schedule 4 controlled substance, because it has abuse potential, just as benzodiazepines do. Possession without a prescription can lead to drug charges.\n\nSee also\n\n*Responsible use\n*Depressants\n*Z-drugs\n*Benzodiazepines\n\nExternal links\n\n*Eszopiclone (Wikipedia)\n*Zopiclone/Eszopiclone (Erowid Vault)\n*Eszopiclone (Tripsit)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:GABAergic hallucinogens\nCategory:Cyclopyrrolone\nCategory:Approval",
+ "wikitext": "{{headerpanel|{{Approval}}{{stub}}{{DepressantOD|GABAergics}}}}\n{{SummarySheet}}\n{{SubstanceBox/Eszopiclone}}\n\n'''Eszopiclone''' (also known by the trade names '''Lunesta''') is a non-[[benzodiazepine]] [[psychoactive class::hypnotic]] substance of the [[chemical class::cyclopyrrolone]] class that is primarily used in the treatment of [[insomnia]]. Eszopiclone is known to belong to a family of drugs colloquially known as \"Z-drugs\". Other Z-drugs include [[Zopiclone]] (''Imovane'') [[zaleplon]] (''Sonata'') and [[zolpidem]] (''Ambien'' and ''AmbienCR'').\n\nEszopiclone is thought to increase the normal neurotransmission of the [[neurotransmitter]] [[GABA]] in the central nervous system in a similar yet distinct way to the activity of [[benzodiazepines]]. As Eszopiclone displays heavy [[sedation|sedating]] effects, it is has been approved for and is commonly sold as a sleeping pill.{{citation needed}}\n\nWhile \"Z-drugs\" were initially thought to have less misuse potential than benzodiazepines, this appraisal has shifted somewhat in the last few years as a number of cases of addiction and habituation have been observed. Eszopiclone, like all \"Z-drugs\", is recommended to be taken on a short-term basis -- usually a week or less.<ref>http://www.nice.org.uk/nicemedia/pdf/TA077publicinfoenglish.pdf</ref> Daily or continuous use of the drug is usually not advised.<ref>{{cite journal | vauthors=((Kleijn, E. van der)) | journal=European Journal of Clinical Pharmacology | title=Effects of zopiclone and temazepam on sleep, behaviour and mood during the day | volume=36 | issue=3 | pages=247–251 | date= 1989 | issn=0031-6970 | doi=10.1007/BF00558155}}</ref>\n\n==Chemistry==\nEszopiclone is a hypnotic nonbenzodiazepine drug of the cyclopyrrolone class. Eszopiclone is the dextrorotatory S-stereoisomer of [[zopiclone]] (''Imovane''). Eszopiclone and zopiclone are the most popular and available cyclopyrrolone drugs. This class of drugs is named for having a pyrrolone core, a five-membered ring with a nitrogen constituent (pyrrole) and a ketone group (-one).\n\n==Pharmacology==\nEszopiclone, although structurally different from [[benzodiazepines]], shares an almost identical pharmacological profile to them. Its mechanism of action works by binding to the same site as benzodiazepines and acts as a full agonist, which in turn positively modulates benzodiazepine-sensitive [[GABA|GABA<sub>A</sub>]] [[receptor]]s and enhances GABA binding at the [[GABA|GABA<sub>A</sub>]] receptors to produce Eszopiclone's subjective effects.{{citation needed}} Since GABA functions as the brain's predominant inhibitory [[neurotransmitter]], this activation of receptors results in the [[Sedation|sedative]] and [[anxiety suppression|anxiolytic]] effects of Eszopiclone.{{citation needed}}\n\n==Subjective effects==\nIn comparison to other substances of a similar nature such as [[benzodiazepines]], Eszopiclone is commonly reported to present significantly more [[amnesia|amnesic]] and [[disinhibition|disinhibiting]] effects in a manner similar to [[alcohol]].\n\n{{effects/base|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Eszopiclone is extremely sedating and can put the user into an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit or lay down and feel as if they are constantly on the verge of passing out. This sense of sleep deprivation increases proportional to dosage and can eventually become powerful enough to force a person into complete unconsciousness regardless of where they are or what they are doing at that moment.\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Motor control loss]]''' - This effect is pronounced and comparable to the motor control loss experienced on a heavy dose of alcohol. This typically results in users stumbling and an inability to walk in a straight line. As this may easily result in injury, one should avoid walking and using stairs while on Eszopiclone.\n*'''[[Effect::Gustatory hallucination]]''' - Eszopiclone is commonly reported to leave a strong, unpleasant metallic taste in one's mouth. \n*'''[[Effect::Euphoria]]''' -  Some users report [[euphoria]] from Eszopiclone, although this is short lived and usually exclusive to the onset of the experience and often followed by [[emotion suppression]].\n*'''[[Effect::Emotion suppression]]''' -  While Eszopiclone primarily suppresses [[anxiety]], it also suppresses other emotions in a similar but less intense fashion to [[antipsychotics]].\n*'''[[Effect::Time distortion|Time compression]]''' - This effect is mostly noticeable while under the influence of a high dose.\n*'''[[Effect::Irritability]]''' - Combined with the strong disinhibiting effects of Eszopiclone, this effect can cause people under the influence of Eszopiclone to have violent behavior towards others and sometimes themselves. \n*'''[[Effect::Compulsive redosing]]'''\n}}\n{{effects/visual|\n*'''[[Effect::Shadow people]]'''\n*'''[[Effect::Acuity suppression]]'''\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Breathing|breathing]], [[Visual drifting#Morphing|morphing]] and [[Visual drifting#Flowing|flowing]])'' - Visual drifting effects are the most prominent visual effects of this substance. They typically occur at strong doses, or when the user resists the urge to sleep.. They are similar to the distortions produced [[zolpidem]] and are usually less pronounced than those of [[deliriants]]. Like deliriant visuals, they are most prominent in low lighting. Depending on dose and lighting, they can be described as slow or fast in speed, static in permanence, smooth in motion, realistic in appearance, and simplistic or intricate.\n*'''[[effect::External hallucinations]]''' - At very high doses, Eszopiclone can produce [[external hallucinations]] that are similar to, but less pronounced than those of [[deliriants]].\n*'''[[Effect::Tracers]]''' - This effect is mild and typically only experienced at high doses.\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of Eszopiclone can be broken down into several components which progressively intensify proportional to dosage. The general head space of Eszopiclone is described by many as one of intense sedation, decreased inhibition and severe amnesia. It produces a large number of cognitive effects typical of most GABA-ergic [[psychoactive class::depressant|depressants]].\n\n*'''[[Effect::Amnesia]]''' -  Compared to [[benzodiazepines]], Eszopiclone can produce [[amnesia]] at much lower doses. One may potentially not remember exactly what happened while under the influence of a common dose. This is usually less intense than the amnesia produced by [[zolpidem]].\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Delirium]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Euphoria]]''' -  Some users report [[euphoria]] from Eszopiclone, although this is short lived and usually exclusive to the onset of the experience and often followed by [[emotion suppression]].\n*'''[[Effect::Emotion suppression]]''' -  While Eszopiclone primarily suppresses [[anxiety]], it also suppresses other emotions in a similar but less intense fashion to [[antipsychotics]].\n*'''[[Effect::Time distortion|Time compression]]''' - This effect is mostly noticeable while under the influence of a high dose.\n*'''[[Effect::Irritability]]''' - Combined with the strong disinhibiting effects of Eszopiclone, this effect can cause people under the influence of Eszopiclone to have violent behavior towards others and sometimes themselves. \n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Compulsive redosing]]'''\n}}\n\n{{effects/auditory|\n\n*'''[[Effect::Auditory hallucinations]]''' - The auditory hallucinations of Eszopiclone are mostly voices, and appear at higher doses. Sleep deprivation magnifies this effect.\n\n}}}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Pharms_Zopiclone.shtml Erowid Experience Vaults: Eszopiclone]\n\n==Toxicity and harm potential==\nBy itself, Eszopiclone likely has a [[Toxicity::low toxicity]] relative to dose. However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[benzodiazepines]], [[alcohol]] or [[opioids]]]]. When combined with one or several of these drugs the already existing chance of a having a \"black-out\" is significantly increased, leaving the user with very little to no memory of the events that occurred whilst under the influence of Eszopiclone alone or combined with most other CNS depressants. Users have reported taking Eszopiclone in combination with alcohol in an attempt to treat hangovers with varying degrees of success.\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nEszopiclone is [[Addiction potential::extremely physically and psychologically addictive]]. This compound may have an even greater addictive potential than benzodiazepines.\nTolerance will develop to the [[sedative]]-[[hypnotic]] effects [[Time to full tolerance::within a couple of weeks of daily use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. \nEszopiclone presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption benzodiazepines and most other [[GABA]]genic depressants will have a reduced effect.<nowiki>Eszopiclone and triazolam in insomnia associated with generalized anxiety disorder.</nowiki>\nIf Eszopiclone has been taken for more than a few weeks, then the medication should be gradually reduced or preferably crossed over to an equivalent dose of [[diazepam]] (Valium) which has a much longer half-life, making withdrawal easier. One should then gradually [[taper]] the dose over a period of several months to avoid extremely severe and unpleasant withdrawal symptoms which can last up to two years after withdrawal if the withdrawal is done too abruptly.<ref>http://www.benzo.org.uk/manual/</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n\n==Legal status==\n{{legalStub}}\n*'''United States:''' On Dec 15, 2004,  the United States released Eszopiclone as a treatment for insomnia. It is currently a Schedule 4 controlled substance, because it has abuse potential, just as benzodiazepines do. Possession without a prescription can lead to drug charges.\n\n==See also==\n*[[Responsible use]]\n*[[Depressants]]\n*[[Z-drugs]]\n*[[Benzodiazepines]]\n\n==External links==\n*[http://en.wikipedia.org/wiki/eszopiclone Eszopiclone (Wikipedia)]\n*[https://www.erowid.org/pharms/zopiclone/zopiclone.shtml Zopiclone/Eszopiclone (Erowid Vault)]\n*[https://drugs.tripsit.me/eszopiclone Eszopiclone (Tripsit)]\n\n==References==\n<references />\n\n{{#set:Featured=true}}\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:GABAergic hallucinogens]]\n[[Category:Cyclopyrrolone]]\n[[Category:Approval]]"
+}
