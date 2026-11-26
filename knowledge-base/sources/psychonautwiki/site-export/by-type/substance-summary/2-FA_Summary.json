@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12885",
+ "type": "substance-summary",
+ "title": "2-FA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2-FA/Summary",
+  "pageid": 12885,
+  "last_edited": "2016-10-19T03:17:16Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2-FA",
+ "plain_text": "",
+ "wikitext": "{{Summary|2-FA}}"
+}

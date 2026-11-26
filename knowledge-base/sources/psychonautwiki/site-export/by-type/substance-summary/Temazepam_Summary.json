@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13077",
+ "type": "substance-summary",
+ "title": "Temazepam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Temazepam/Summary",
+  "pageid": 13077,
+  "last_edited": "2016-10-29T02:47:59Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Temazepam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Temazepam}}"
+}

@@ -1,0 +1,431 @@
+{
+ "id": "psychonautwiki:11753",
+ "type": "substance",
+ "title": "5-APB",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-APB",
+  "pageid": 11753,
+  "last_edited": "2025-06-26T13:56:38Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 French-language sources (fr)",
+  "CS1 German-language sources (de)",
+  "Entactogen",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/5-APB",
+ "substance_box": {
+  "names": {
+   "common": "5-APB",
+   "substitutive": "5-(2-Aminopropyl)benzofuran",
+   "systematic": "1-(Benzofuran-5-yl)-propan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen / Stimulant",
+   "chemical": "Substituted amphetamine / Benzofuran"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 mg",
+    "light": "40 - 60 mg",
+    "common": "60 - 80 mg",
+    "strong": "80 - 100 mg",
+    "heavy": "100 mg +",
+    "duration": "5 - 8 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "45 - 90 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "1.5 - 3 hours",
+    "aftereffects": "6 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "5-APB"
+   ],
+   "psychoactive class": [
+    "Entactogen",
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine",
+    "Benzofuran"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "60"
+   ],
+   "Oral min common dose": [
+    "60"
+   ],
+   "Oral max common dose": [
+    "80"
+   ],
+   "Oral min strong dose": [
+    "80"
+   ],
+   "Oral max strong dose": [
+    "100"
+   ],
+   "Oral heavy dose": [
+    "100"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "45"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1.5"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 5-APB",
+   "clean": "Molecular structure of 5-APB"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:5-APB.svg",
+   "clean": "File:5-APB.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::5-APB]]",
+   "clean": "5-APB"
+  },
+  "NameSubstitution": {
+   "raw": "5-(2-Aminopropyl)benzofuran",
+   "clean": "5-(2-Aminopropyl)benzofuran"
+  },
+  "NameSystematic": {
+   "raw": "1-(Benzofuran-5-yl)-propan-2-amine",
+   "clean": "1-(Benzofuran-5-yl)-propan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Entactogen]] / [[psychoactive class::Stimulant]]",
+   "clean": "Entactogen / Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]] / [[chemical class::Benzofuran]]",
+   "clean": "Substituted amphetamine / Benzofuran"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] [[Oral dose units::mg]]",
+   "clean": "20 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::60]] - [[Oral max common dose::80]] mg",
+   "clean": "60 - 80 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::80]] - [[Oral max strong dose::100]] mg",
+   "clean": "80 - 100 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::100]] mg +",
+   "clean": "100 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::45]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1.5]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 48 hours"
+  }
+ },
+ "plain_text": "5-(2-Aminopropyl)benzofuran (commonly known as 5-APB) is a lesser-known novel entactogen of the benzofuran class that produces MDA-like entactogenic and stimulating effects when administered. It is structurally related to entactogens like 5-MAPB, 6-APB, and MDA. \n\n5-APB was first synthesized in 1993 by psychedelic chemist and researcher David E. Nichols as a potential non-neurotoxic alternative to MDMA. However, it did not come into popular recreational use until over a decade later, where it briefly entered the rave scene and global research chemicals market. It was sold along with other novel benzofuran entactogens under the name \"Benzofury\" before its sale and import were subsequently banned. \n\nCompared to other members of its family such as 6-APB and 5-MAPB, this compound in particular is known for its stimulating and euphoric effects which has resulted in its rise in popularity as a product which is easily accessible through the use of online research chemical vendors. It has been commercially distributed as a designer drug alternative to MDMA since 2010.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 5-APB in humans, and it has only a brief history of human usage. It is highly advised that one take proper precautions, conduct independent research, and use proper harm reduction practices if choosing to use with this substance.\n\nHistory and culture\n\nThe synthesis of 5-APB was first reported by a team led by the medicinal chemist and psychedelic researcher David E. Nichols at Purdue University. They were examining the role of the MDA dioxle ring structure in  interacting with serotonergic neurons. It was also partly an effort to find an alternative to MDMA, which was gaining recognition as a potentially useful adjunct in psychotherapy, but was also being linked to neurotoxic effects.\n\nHuman usage was not documented until 2010, when it emerged for sale on the research chemical market. It was particularly prominent in the UK \"legal highs\" market, where it was sold under the name \"Benzofury\".\n\nOn June 10, 2013 5-APB and a number of analogues were classified as Temporary Class Drugs in the UK following an ACMD recommendation. On November 28, 2013 the ACMD recommended that 5-APB and related benzofurans should become Class B, Schedule 1 substances. On March 5, 2014 the UK Home Office announced that 6-APB would be made a class B drug on 10 June 2014 alongside every other benzofuran entactogen and many structurally related drugs.\n\nChemistry\n\n5-(2-aminopropyl)benzofuran, also known as 5-APB, is a benzofuran and phenethylamine, meaning it has an ethylamine chain and a furan ring attached to the core benzene ring. It can also be classified as an amphetamine derivative because the ethylamine chain is alpha methylated. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. The oxygen in the furan ring is placed at the 5 position, which generally constitutes more stimulating effects than when the oxygen is placed at the 6 position, which is usually described as being more psychedelic in effects. 5-APB is commonly found as the succinate and hydrochloride salt. The hydrochloride salt is 10% more potent by mass so doses should be adjusted accordingly.\n\nPharmacology\n\n5-APB is a triple reuptake inhibitor for norepinephrine, dopamine and serotonin as well as being an agonist for the 5-HT2A and 5-HT2B receptors. It has also been speculated that 5-APB acts as a releasing agent for the previously mentioned neurotransmitters.\n\nThis means it effectively boosts the levels of the serotonin, norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 5-APB\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 5-APB use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 5-APB has very little history of human usage. \n\nAnecdotal evidence from people who have tried 5-APB within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\n5-APB's high affinity for the 5-HT2b receptor makes it likely that 5-APB would be cardiotoxic with long-term use, as seen in other 5-HT2B agonists such as fenfluramine and MDMA.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of 5-APB can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 5-APB develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 5-APB presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of 5-APB all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use.\n\nDangerous interactions\n\nSerotonin syndrome risk\n\nLegal status\n\n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*France: 5-APB is classified as a narcotic since May 9, 2018, alongside other substances derived from benzofuran.\n*Germany: 5-APB is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of July 17, 2013. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Japan: 5-APB is a controlled substance in Japan effective September 16th, 2015.\n*The Netherlands: 5-APB is currently legal, but it is part of a substance group that may be banned soon as part of a recently passed law on New Psychoactive Substances (NPS).  \n*Switzerland: 5-APB is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: 5-APB is a Class B drug.\n*United States: 5-APB could be considered an analogue of MDA and therefore would be covered under the Federal Analogue Act if intended for human consumption.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Entactogen\n*Stimulant\n*5-MAPB\n*6-APB\n*MDA\n\nExternal links\n\n*5-APB (Wikipedia)\n*5-APB (Isomer Design)\n\nCommunity\n\n*The Big and Dandy 5-APB Thread (Bluelight)\n\nLiterature\n\n*Greene, S. L. (2013). Benzofurans and benzodifurans. In Novel Psychoactive Substances (pp. 383-392). https://doi.org/10.1016/B978-0-12-415816-0.00016-X\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Research chemical\nCategory:Entactogen\nCategory:Stimulant\nCategory:Benzofuran\nCategory:Amphetamine",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/5-APB}}\n\n'''5-(2-Aminopropyl)benzofuran''' (commonly known as '''5-APB''') is a lesser-known novel [[Psychoactive class::entactogen]] of the [[chemical class::benzofuran]] class that produces [[MDA]]-like [[entactogenic]] and [[stimulant|stimulating]] effects when [[Routes of administration|administered]]. It is structurally related to entactogens like [[5-MAPB]], [[6-APB]], and [[MDA]]. \n\n5-APB was first synthesized in 1993 by psychedelic chemist and researcher [[David E. Nichols]] as a potential non-neurotoxic alternative to [[MDMA]].<ref name=\"Nichols\">{{cite journal | vauthors=((Monte, A. P.)), ((Marona-Lewicka, D.)), ((Cozzi, N. V.)), ((Nichols, D. E.)) | journal=Journal of Medicinal Chemistry | title=Synthesis and pharmacological examination of benzofuran, indan, and tetralin analogs of 3,4-(methylenedioxy)amphetamine | volume=36 | issue=23 | pages=3700–3706 | date= November 1993 | url=https://pubs.acs.org/doi/abs/10.1021/jm00075a027 | issn=0022-2623 | doi=10.1021/jm00075a027}}</ref> However, it did not come into popular recreational use until over a decade later, where it briefly entered the rave scene and global research chemicals market. It was sold along with other novel benzofuran entactogens under the name \"Benzofury\" before its sale and import were subsequently banned.{{citation needed}} \n\nCompared to other members of its family such as [[6-APB]] and [[5-MAPB]], this compound in particular is known for its [[stimulating]] and [[euphoria|euphoric]] effects which has resulted in its rise in popularity as a product which is easily accessible through the use of online [[research chemical]] vendors. It has been commercially distributed as a [[designer drug]] alternative to [[MDMA]] since 2010.<ref>{{Citation | title=EMCDDA–Europol 2010 Annual Report on the implementation of Council Decision 2005/387/JHA | url=https://www.emcdda.europa.eu/publications/implementation-reports/2010}}</ref>\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 5-APB in humans, and it has only a brief history of human usage. It is highly advised that one take proper precautions, conduct [https://www.google.com independent research], and use proper [[harm reduction practices]] if choosing to use with this substance.\n\n==History and culture==\n{{historyStub}}\nThe synthesis of 5-APB was first reported by a team led by the medicinal chemist and psychedelic researcher [[David E. Nichols]] at Purdue University. They were examining the role of the MDA dioxle ring structure in  interacting with serotonergic neurons. It was also partly an effort to find an alternative to [[MDMA]], which was gaining recognition as a potentially useful adjunct in psychotherapy, but was also being linked to neurotoxic effects.<ref name=\"Nichols\" />\n\nHuman usage was not documented until 2010, when it emerged for sale on the [[research chemical]] market. It was particularly prominent in the UK \"legal highs\" market, where it was sold under the name \"Benzofury\".{{citation needed}}\n\nOn June 10, 2013 5-APB and a number of analogues were classified as Temporary Class Drugs in the UK following an ACMD recommendation.<ref>Advisory Council on the Misuse of Drugs, Jeremy Browne (4 June 2013). \"Temporary class drug order on benzofury and NBOMe compounds - letter from ACMD\". GOV.UK.</ref> On November 28, 2013 the ACMD recommended that 5-APB and related benzofurans should become Class B, Schedule 1 substances. On March 5, 2014 the UK Home Office announced that 6-APB would be made a class B drug on 10 June 2014 alongside every other benzofuran entactogen and many structurally related drugs.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014 | url=https://www.legislation.gov.uk/uksi/2014/1106/made}}</ref>\n\n==Chemistry==\n{{chemistry}}\n5-(2-aminopropyl)benzofuran, also known as 5-APB, is a [[benzofuran]] and [[phenethylamine]], meaning it has an ethylamine chain and a furan ring attached to the core benzene ring. It can also be classified as an amphetamine derivative because the ethylamine chain is alpha methylated. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. The oxygen in the furan ring is placed at the 5 position, which generally constitutes more stimulating effects than when the oxygen is placed at the 6 position, which is usually described as being more [[psychedelic]] in effects. 5-APB is commonly found as the succinate and hydrochloride salt.{{citation needed}} The hydrochloride salt is 10% more potent by mass so doses should be adjusted accordingly.\n\n==Pharmacology==\n{{pharmacology}}\n5-APB is a triple [[reuptake inhibitor]] for [[norepinephrine]], [[dopamine]] and [[serotonin]] as well as being an [[agonist]] for the [[Serotonin#The_5-HT_system|5-HT<sub>2A</sub>]] and [[Serotonin#The_5-HT_system|5-HT<sub>2B</sub>]] [[receptor]]s.<ref>{{cite journal | vauthors=((Dawson, P.)), ((Opacka-Juffry, J.)), ((Moffatt, J. D.)), ((Daniju, Y.)), ((Dutta, N.)), ((Ramsey, J.)), ((Davidson, C.)) | journal=Progress in Neuro-Psychopharmacology & Biological Psychiatry | title=The effects of benzofury (5-APB) on the dopamine transporter and 5-HT2-dependent vasoconstriction in the rat | volume=48 | pages=57–63 | date=3 January 2014 | issn=1878-4216 | doi=10.1016/j.pnpbp.2013.08.013}}</ref><ref>{{cite journal | vauthors=((Iversen, L.)), ((Gibbons, S.)), ((Treble, R.)), ((Setola, V.)), ((Huang, X.-P.)), ((Roth, B. L.)) | journal=European Journal of Pharmacology | title=Neurochemical profiles of some novel psychoactive substances | volume=700 | issue=1 | pages=147–151 | date=30 January 2013 | url=https://www.sciencedirect.com/science/article/pii/S0014299912010114 | issn=0014-2999 | doi=10.1016/j.ejphar.2012.12.006}}</ref> It has also been speculated that 5-APB acts as a [[releasing agent]] for the previously mentioned [[neurotransmitters]].\n\nThis means it effectively boosts the levels of the serotonin, norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects.\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}                                                                             \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Nausea]]''' \n*'''[[Effect::Temporary erectile dysfunction]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n|{{effects/cognitive|\n*'''[[Effect::Empathy, affection, and sociability enhancement]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Focus enhancement]]''' \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:5-APB]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_5APB.shtml Erowid Experience Vaults: 5-APB]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational 5-APB use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 5-APB has very little history of human usage. \n\nAnecdotal evidence from people who have tried 5-APB within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\n5-APB's high affinity for the 5-HT2b receptor makes it likely that 5-APB would be cardiotoxic with long-term use, as seen in other 5-HT2B agonists such as [[fenfluramine]] and [[MDMA]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of 5-APB can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 5-APB [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 5-APB presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of 5-APB all [[stimulant]]s will have a reduced effect.\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]). A review on treatment for amphetamine, [[amphetamine|dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=5-APB}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''France''': 5-APB is classified as a narcotic since May 9, 2018, alongside other substances derived from benzofuran.<ref>{{cite web|url=https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043529751|title=Article Annexe IV - Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants|publisher=Légifrance|access-date=September 23, 2022|language=fr}}</ref>\n*'''Germany''': 5-APB is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> as of July 17, 2013.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl113s2274.pdf%27%5D|title=Siebenundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 18, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref>\n*'''Japan''': 5-APB is a controlled substance in Japan effective September 16th, 2015.<ref>[https://www.mhlw.go.jp/stf/houdou/0000097658.html \"危険ドラッグの成分４物質を新たに指定薬物に指定\"] (in Japanese). 厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]. Retrieved May 2, 2022.</ref>\n*'''The Netherlands:''' 5-APB is currently legal, but it is part of a substance group that may be banned soon as part of a recently passed law on New Psychoactive Substances (NPS). <ref>{{Citation|title= Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen (Dutch) | year=2024|url=https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2022Z14042&dossier=36159}}</ref> \n*'''Switzerland''': 5-APB is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': 5-APB is a Class B drug.{{citation needed}}\n*'''United States''': 5-APB could be considered an analogue of [[MDA]] and therefore would be covered under the Federal Analogue Act if intended for human consumption.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Entactogen]]\n*[[Stimulant]]\n*[[5-MAPB]]\n*[[6-APB]]\n*[[MDA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/5-APB 5-APB (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2359 5-APB (Isomer Design)]\n\n===Community===\n\n*[http://www.bluelight.org/vb/threads/548570-The-Big-amp-Dandy-5-APB-Thread The Big and Dandy 5-APB Thread (Bluelight)]\n\n==Literature==\n\n*Greene, S. L. (2013). Benzofurans and benzodifurans. In Novel Psychoactive Substances (pp. 383-392). https://doi.org/10.1016/B978-0-12-415816-0.00016-X\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Research chemical]]\n[[Category:Entactogen]]\n[[Category:Stimulant]]\n[[Category:Benzofuran]]\n[[Category:Amphetamine]]\n\n{{#set:Featured=true}}"
+}

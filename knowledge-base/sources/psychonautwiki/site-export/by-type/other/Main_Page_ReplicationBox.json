@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:14412",
+ "type": "other",
+ "title": "Main Page/ReplicationBox",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Main_Page/ReplicationBox",
+  "pageid": 14412,
+  "last_edited": "2017-05-08T23:38:25Z"
+ },
+ "categories": [],
+ "plain_text": "Featured replications x20px|right|link=\n                \n                View gallery",
+ "wikitext": "<div class=\"panel radius\">\n                <h3 class=\"panel-header\">[[Replication index|Featured replications]] [[File:Image.svg|x20px|right|link=]]</h3>\n                <center><table align=\"center\"><tr><td>{{#ask:[[Category:Replication]][[Featured::True]]|?Description|?Effect|format=gallery|link=all|delay=15|order=random|headers=show|widget=slideshow|navigation=auto|widths=350|heights=350|autocaptios=no|overlay=no|captionproperty=Description|redirects=Effect|class=randomreplication|timeout=5000}}</td></tr></table></center>\n                <p class=\"panel-footer\">[[Replication index|View gallery]]</p>\n            </div>"
+}

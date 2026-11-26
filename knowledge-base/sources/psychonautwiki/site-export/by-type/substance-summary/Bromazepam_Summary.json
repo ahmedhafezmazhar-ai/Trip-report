@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21920",
+ "type": "substance-summary",
+ "title": "Bromazepam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Bromazepam/Summary",
+  "pageid": 21920,
+  "last_edited": "2024-04-16T14:48:29Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Bromazepam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Bromazepam}}"
+}

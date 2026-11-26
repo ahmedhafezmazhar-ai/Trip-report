@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14530",
+ "type": "substance-summary",
+ "title": "LSM-775/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/LSM-775/Summary",
+  "pageid": 14530,
+  "last_edited": "2017-05-28T02:54:55Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "LSM-775",
+ "plain_text": "",
+ "wikitext": "{{Summary|LSM-775}}"
+}

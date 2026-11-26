@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11578",
+ "type": "plants-and-fungi",
+ "title": "Echinacea (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Echinacea_%28botany%29",
+  "pageid": 11578,
+  "last_edited": "2025-11-29T04:22:07Z"
+ },
+ "categories": [
+  "Plant",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Echinacea (Wikipedia)\n* Echinacea (Erowid Vault)\n\nCategory:Plant",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Echinacea}}\n==External links==\n* [[wikipedia:Echinacea|''Echinacea'' (Wikipedia)]]\n* [https://www.erowid.org/herbs/echinacea/ ''Echinacea'' (Erowid Vault)]\n\n[[Category:Plant]]"
+}

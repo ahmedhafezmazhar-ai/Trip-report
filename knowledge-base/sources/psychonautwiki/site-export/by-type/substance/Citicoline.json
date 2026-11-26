@@ -1,0 +1,426 @@
+{
+ "id": "psychonautwiki:12167",
+ "type": "substance",
+ "title": "Citicoline",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Citicoline",
+  "pageid": 12167,
+  "last_edited": "2024-04-30T18:30:30Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Cholinergic",
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Citicoline",
+ "substance_box": {
+  "names": {
+   "common": "Citicoline",
+   "substitutive": "Cytidine diphosphate choline",
+   "systematic": "(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-ylmethoxy-hydroxyphosphoryl 2-(trimethylazaniumyl)ethyl phosphate"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Ammonium salt"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "98%",
+    "threshold": "50 mg",
+    "light": "100 - 250 mg",
+    "common": "250 - 1000 mg",
+    "strong": "1000 - 2000 mg",
+    "heavy": "2000 mg +",
+    "duration": "58 - 74 hours",
+    "onset": "1 - 2 hours",
+    "comeup": "2 - 3 hours",
+    "peak": "2.5 - 3.5 hours",
+    "offset": "30 - 40 hours",
+    "aftereffects": "40 - 60 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Citicoline"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "Chemical class": [
+    "Ammonium salt"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "250"
+   ],
+   "Oral min common dose": [
+    "250"
+   ],
+   "Oral max common dose": [
+    "1000"
+   ],
+   "Oral min strong dose": [
+    "1000"
+   ],
+   "Oral max strong dose": [
+    "2000"
+   ],
+   "Oral heavy dose": [
+    "2000"
+   ],
+   "Oral min total time": [
+    "58"
+   ],
+   "Oral max total time": [
+    "74"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "1"
+   ],
+   "Oral max onset time": [
+    "2"
+   ],
+   "Oral onset time units": [
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "2"
+   ],
+   "Oral max comeup time": [
+    "3"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2.5"
+   ],
+   "Oral max peak time": [
+    "3.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "30"
+   ],
+   "Oral max offset time": [
+    "40"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "40"
+   ],
+   "Oral max afterglow time": [
+    "60"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of citicline",
+   "clean": "Molecular structure of citicline"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Citicoline.svg",
+   "clean": "File:Citicoline.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Citicoline]]",
+   "clean": "Citicoline"
+  },
+  "NameSubstitution": {
+   "raw": "Cytidine diphosphate choline",
+   "clean": "Cytidine diphosphate choline"
+  },
+  "NameSystematic": {
+   "raw": "(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-ylmethoxy-hydroxyphosphoryl 2-(trimethylazaniumyl)ethyl phosphate",
+   "clean": "(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-ylmethoxy-hydroxyphosphoryl 2-(trimethylazaniumyl)ethyl phosphate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Ammonium salt]]",
+   "clean": "Ammonium salt"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "98%",
+   "clean": "98%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::250]] mg",
+   "clean": "100 - 250 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::250]] - [[Oral max common dose::1000]] mg",
+   "clean": "250 - 1000 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1000]] - [[Oral max strong dose::2000]] mg",
+   "clean": "1000 - 2000 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2000]] mg +",
+   "clean": "2000 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::58]] - [[Oral max total time::74]] [[Oral total time units::hours]]",
+   "clean": "58 - 74 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::1]] - [[Oral max onset time::2]] [[Oral onset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::2]] - [[Oral max comeup time::3]] [[Oral comeup time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2.5]] - [[Oral max peak time::3.5]] [[Oral peak time units::hours]]",
+   "clean": "2.5 - 3.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::30]] - [[Oral max offset time::40]] [[Oral offset time units::hours]]",
+   "clean": "30 - 40 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::40]] - [[Oral max afterglow time::60]] [[Oral afterglow time units::hours]]",
+   "clean": "40 - 60 hours"
+  }
+ },
+ "plain_text": "Citicoline (CDP-choline, cytidine 5'-diphosphocholine) is a water soluble nutrient which serves as a precursor to both choline and cytidine  within the brain  (which later converts to uridine). To humans, choline is an essential nutrient as its role in reducing the risk of neural tube defects, fatty liver disease, and other pathologies have been documented. CDP-choline is one of the three choline-containing phospholipids that can be orally supplemented (the other two being alpha-GPC and phosphatidylcholine).\n\nThis supplement is catered towards preventing or treating memory impairments associated with aging because both of the molecules it confers are neuroprotective and potentially enhance learning. This effect may also benefit younger populations as well. It appears to be more efficient than phosphatidylcholine (PC) itself in this role, in part due to also increasing PC synthesis in the brain. \n\nCiticoline has also been implicated in the treatments of cognitive impairments, caused by stroke, vascular dementia, Alzheimer’s disease, Parkinson’s disease, and more. \n\nThe potency of this compound is somewhat comparable to that of alpha-GPC. One study has noted an increase in attention with low dose CDP-choline (which needs to be replicated), and CDP-choline may have roles as an anti-addictive compound against both cocaine and (preliminary evidence suggests) food as well.\n\nWhen taken as a supplement, this compound has nootropic effects. It is readily available and commonly sold for this purpose through the use of online supplement vendors.\n\nChemistry\n\nCiticoline, or cytidine diphosphate-choline, is a naturally occurring substance found in human cell tissue and synthesized as a sodium salt as a supplement. Its chemical structure is comprised of a cytidine nucleoside attached to a choline group through a diphosphate bridge. Citicoline is a chemical intermediary in the biosynthesis of phosphatidylcholine, a major phospholipid in cell membranes. \n\nThe choline subcomponent of citicoline is comprised of a trimethyl ammonium salt with an additional ethanol group attached. In citicoline, the terminal alcohol group is incorporated into the phosphate bridge connecting the choline sub-group to cytidine. Cytidine is a nucleoside made of cytosine bonded to a ribose ring.\n\nPharmacology\n\nCDP-choline breaks down into two key components, choline and cytidine. Choline and its metabolites are needed for three main physiological purposes: structural integrity and signaling roles for cell membranes as well as cholinergic neurotransmission (acetylcholine synthesis). This process essentially allows acetylcholine to accumulate at higher levels than that which it otherwise would. As acetylcholine is involved in the function of memory, this could potentially account for its nootropic effects.\n\nCytidine is the second metabolite which is a critical step in the synthesis of uridine, which increases the efficiency of phosphatidylcholine. Uridine supplementation also appears to enhance dopamine output from activated neurons without significantly affecting basal levels of dopamine. This could account for its improvements in spatial short-term memory, recognition, recall, attention, and executive functions after prolonged supplementation.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Citicoline\n\nToxicity and harm potential\n\nCiticoline is non-addictive, is not known to cause brain damage, and has an extremely low toxicity relative to dose. Similar to many other nootropics substances, there are relatively few physical side effects associated with acute citicoline exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nCiticoline is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nCiticoline does not seem to build up an immediate tolerance and becomes stronger with prolonged use due to its long half-life. It is not recommended to take citicoline for extended periods longer than two weeks.\n\nDangerous interactions\n\nCiticoline is a suspected monoaminergic substance. Citicoline and MAOIs are a potentially dangerous combination. It is likely that MAOIs could increase the effects of Alpha-GPC unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n\nLegal status\n\nLiterature\n\n*Mcglade, E., Locatelli, A., Hardy, J., Kamiya, T., Morita, M., Morishita, K., … Yurgelun-Todd, D. (2012). Improved Attentional Performance Following Citicoline Administration in Healthy Adult Women. Food and Nutrition Sciences, 336103(June), 769–773. https://doi.org/10.4236/fns.2012.36103\n*Parisi, V., Coppola, G., Centofanti, M., Oddone, F., Maria Angrisani, A., Ziccardi, L., … Manni, G. (2008). Evidence of the neuroprotective role of citicoline in glaucoma patients. Progress in Brain Research, 173(8), 541–554. https://doi.org/10.1016/S0079-6123(08)01137-0\n*Bagdas, D., Sonat, F. A., Hamurtekin, E., Sonal, S., & Gurun, M. S. (2011). The antihyperalgesic effect of cytidine-5’-diphosphate-choline in neuropathic and inflammatory pain models. Behavioural Pharmacology, 22(5–6), 589–598. https://doi.org/10.1097/FBP.0b013e32834a1efb\n*Hamurtekin, E., & Sibel Gurun, M. (2006). The antinociceptive effects of centrally administered CDP-choline on acute pain models in rats: The involvement of cholinergic system. Brain Research, 1117(1), 92–100. https://doi.org/10.1016/j.brainres.2006.07.118\n*Killgore, W. D. S., Ross, A. J., Kamiya, T., Kawada, Y., Renshaw, P. F., & Yurgelun-Todd, D. A. (2010). Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods. International Journal of Eating Disorders, 43(1), 6–13. https://doi.org/10.1002/eat.20658\n*Renshaw, P. F., Daniels, S., Lundahl, L. H., Rogers, V., & Lukas, S. E. (1999). Short-term treatment with citicoline (CDP-choline) attenuates some measures of craving in cocaine-dependent subjects: A preliminary report. Psychopharmacology, 142(2), 132–138. https://doi.org/10.1007/s002130050871\n\nSee also\n\n*Responsible use\n*Alpha-GPC\n*Choline\n*Nootropic\n\nExternal links\n\n*Citocholine (Wikipedia)\n*Citocholine (Isomer Design)\n*Citocholine (Examine)\n\nReferences\n\nCategory:Cholinergic\nCategory:Psychoactive substance\nCategory:Substance\nCategory:Stimulant\nCategory:Nootropic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Citicoline}}\n\n'''Citicoline''' ('''CDP-choline''', '''cytidine 5'-diphosphocholine''') is a water soluble nutrient which serves as a precursor to both [[choline]] and cytidine  within the brain  (which later converts to [[uridine]]). To humans, choline is an essential nutrient as its role in reducing the risk of neural tube defects, fatty liver disease, and other pathologies have been documented.<ref>{{cite journal | vauthors=((Zeisel, S. H.)), ((Costa, K.-A. da)) | journal=Nutrition Reviews | title=Choline: an essential nutrient for public health | volume=67 | issue=11 | pages=615–623 | date= November 2009 | url=https://academic.oup.com/nutritionreviews/article-lookup/doi/10.1111/j.1753-4887.2009.00246.x | issn=00296643 | doi=10.1111/j.1753-4887.2009.00246.x}}</ref> CDP-choline is one of the three choline-containing phospholipids that can be orally supplemented (the other two being [[alpha-GPC]] and phosphatidylcholine).\n\nThis supplement is catered towards preventing or treating memory impairments associated with aging because both of the molecules it confers are neuroprotective and potentially enhance learning. This effect may also benefit younger populations as well. It appears to be more efficient than phosphatidylcholine (PC) itself in this role, in part due to also increasing PC synthesis in the brain. \n\nCiticoline has also been implicated in the treatments of cognitive impairments, caused by stroke, vascular dementia, Alzheimer’s disease, Parkinson’s disease, and more.<ref>{{cite journal|title=Citicoline (Cognizin) in the treatment of cognitive impairment|first1=M.|last1=Fioravanti|first2=A. E.|last2=Buckley|journal=Clinical Interventions in Aging|year=2006|volume=1|pages=247-251|pmc=2695184|pmid=18046877|doi=10.2147/ciia.2006.1.3.247|issn=1176-9092|eissn=1178-1998|oclc=317918656}}</ref> \n\nThe potency of this compound is somewhat comparable to that of [[alpha-GPC]]. One study has noted an increase in attention with low dose CDP-choline (which needs to be replicated), and CDP-choline may have roles as an anti-addictive compound against both cocaine and (preliminary evidence suggests) food as well.<ref>{{cite journal | vauthors=((Jiang, N.)), ((Huang, J.)), ((Edwards, L. J.)), ((Liu, B.)), ((Zhang, Y.)), ((Beal, C. D.)), ((Evavold, B. D.)), ((Zhu, C.)) | journal=Immunity | title=Two-Stage Cooperative T Cell Receptor-Peptide Major Histocompatibility Complex-CD8 Trimolecular Interactions Amplify Antigen Discrimination | volume=34 | issue=1 | pages=13–23 | date= January 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S1074761310004966 | issn=10747613 | doi=10.1016/j.immuni.2010.12.017}}</ref><ref name=\"s002130050871\">{{cite journal | vauthors=((Renshaw, P. F.)), ((Daniels, S.)), ((Lundahl, L. H.)), ((Rogers, V.)), ((Lukas, S. E.)) | journal=Psychopharmacology | title=Short-term treatment with citicoline (CDP-choline) attenuates some measures of craving in cocaine-dependent subjects: a preliminary report | volume=142 | issue=2 | pages=132–138 | date=18 February 1999 | url=http://link.springer.com/10.1007/s002130050871 | issn=0033-3158 | doi=10.1007/s002130050871}}</ref>\n\nWhen taken as a supplement, this compound has [[psychoactive class::nootropic]] effects. It is readily available and commonly sold for this purpose through the use of online supplement vendors.\n==Chemistry==\nCiticoline, or cytidine diphosphate-choline, is a naturally occurring substance found in human cell tissue and synthesized as a sodium salt as a supplement. Its chemical structure is comprised of a cytidine nucleoside attached to a choline group through a diphosphate bridge. Citicoline is a chemical intermediary in the biosynthesis of phosphatidylcholine, a major phospholipid in cell membranes. \n\nThe choline subcomponent of citicoline is comprised of a trimethyl ammonium salt with an additional ethanol group attached. In citicoline, the terminal alcohol group is incorporated into the phosphate bridge connecting the choline sub-group to cytidine. Cytidine is a nucleoside made of cytosine bonded to a ribose ring.\n\n==Pharmacology==\nCDP-choline breaks down into two key components, [[choline]] and cytidine. Choline and its metabolites are needed for three main physiological purposes: structural integrity and signaling roles for cell membranes as well as cholinergic neurotransmission ([[acetylcholine]] synthesis).<ref>{{cite journal | vauthors=((Glier, M. B.)), ((Green, T. J.)), ((Devlin, A. M.)) | journal=Molecular Nutrition & Food Research | title=Methyl nutrients, DNA methylation, and cardiovascular disease | volume=58 | issue=1 | pages=172–182 | date= January 2014 | url=https://onlinelibrary.wiley.com/doi/10.1002/mnfr.201200636 | issn=16134125 | doi=10.1002/mnfr.201200636}}</ref> This process essentially allows acetylcholine to accumulate at higher levels than that which it otherwise would. As acetylcholine is involved in the function of memory, this could potentially account for its [[nootropic]] effects.\n\nCytidine is the second metabolite which is a critical step in the synthesis of [[uridine]], which increases the efficiency of phosphatidylcholine. Uridine supplementation also appears to enhance [[dopamine]] output from activated [[neuron]]s without significantly affecting basal levels of dopamine.{{citation needed}} This could account for its improvements in spatial short-term memory, recognition, recall, attention, and executive functions after prolonged supplementation.{{citation needed}}\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Appetite suppression]]'''<ref>{{cite journal | vauthors=((Killgore, W. D. S.)), ((Ross, A. J.)), ((Kamiya, T.)), ((Kawada, Y.)), ((Renshaw, P. F.)), ((Yurgelun-Todd, D. A.)) | journal=International Journal of Eating Disorders | title=Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods | pages=NA-NA | date= 2009 | url=https://onlinelibrary.wiley.com/doi/10.1002/eat.20658 | issn=02763478 | doi=10.1002/eat.20658}}</ref>\n*'''[[Effect::Stimulation]]''' - The stimulation which citicoline presents can be considered as primarily subtle and less than that of [[caffeine]].\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Pain relief]]''' - CDP-choline appears to have painkilling effects via the nicotinic acetylcholine receptors in a dosage-dependent manner.<ref>{{cite journal | vauthors=((Hamurtekin, E.)), ((Sibel Gurun, M.)) | journal=Brain Research | title=The antinociceptive effects of centrally administered CDP-choline on acute pain models in rats: The involvement of cholinergic system | volume=1117 | issue=1 | pages=92–100 | date= October 2006 | url=https://linkinghub.elsevier.com/retrieve/pii/S0006899306023481 | issn=00068993 | doi=10.1016/j.brainres.2006.07.118}}</ref><ref>{{cite journal | vauthors=((Bagdas, D.)), ((Sonat, F. A.)), ((Hamurtekin, E.)), ((Sonal, S.)), ((Gurun, M. S.)) | journal=Behavioural Pharmacology | title=The antihyperalgesic effect of cytidine-5′-diphosphate-choline in neuropathic and inflammatory pain models | volume=22 | issue=5 and 6 | pages=589–598 | date= September 2011 | url=https://journals.lww.com/00008877-201109000-00026 | issn=0955-8810 | doi=10.1097/FBP.0b013e32834a1efb}}</ref>\n*'''[[Effect::Body odor alteration]]''' - This may occur in some populations, especially those suffering from trimethylaminuria. [[Choline]] (a byproduct of CDP-choline) is a precursor to trimethylamine, which some people are not able to break down easily, often resulting in a fishy smell.<ref>{{cite journal | vauthors=((Kashyap, A. S.)) | journal=Postgraduate Medical Journal | title=Fish odour syndrome | volume=76 | issue=895 | pages=318a–3318 | date=1 May 2000 | url=https://pmj.bmj.com/lookup/doi/10.1136/pmj.76.895.318a | issn=00325473 | doi=10.1136/pmj.76.895.318a}}</ref>\n*'''[[Effect::Acuity enhancement]]''' - Citicoline may prevent and treat eye damage related to glaucoma.<ref>{{cite book | vauthors=((Parisi, V.)), ((Coppola, G.)), ((Centofanti, M.)), ((Oddone, F.)), ((Maria Angrisani, A.)), ((Ziccardi, L.)), ((Ricci, B.)), ((Quaranta, L.)), ((Manni, G.)) | date= 2008 | chapter=Progress in Brain Research | title=Evidence of the neuroprotective role of citicoline in glaucoma patients | publisher=Elsevier | volume=173 | pages=541–554 | url=https://linkinghub.elsevier.com/retrieve/pii/S0079612308011370 | doi=10.1016/S0079-6123(08)01137-0 | isbn=9780444532565}}</ref>\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Wakefulness]]''' - In comparison to [[Alpha-GPC]], Citicoline manifests itself primarily in a mentally stimulating manner over a physical stimulation.\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Focus enhancement]]'''<ref>{{cite journal | vauthors=((McGlade, E.)), ((Locatelli, A.)), ((Hardy, J.)), ((Kamiya, T.)), ((Morita, M.)), ((Morishita, K.)), ((Sugimura, Y.)), ((Yurgelun-Todd, D.)) | journal=Food and Nutrition Sciences | title=Improved Attentional Performance Following Citicoline Administration in Healthy Adult Women | volume=03 | issue=06 | pages=769–773 | date= 2012 | url=http://www.scirp.org/journal/doi.aspx?DOI=10.4236/fns.2012.36103 | issn=2157-944X | doi=10.4236/fns.2012.36103}}</ref>\n*'''[[Effect::Addiction suppression]]''' - Citicoline has been shown to reduce psychological cravings in cocaine-dependent populations who actively seek substance abuse treatment.<ref name=\"s002130050871\" />\n*'''[[Effect::Mindfulness]]''' \n*'''[[Effect::Memory enhancement]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Citicoline.shtml Erowid Experience Vaults: Citicoline]\n\n==Toxicity and harm potential==\nCiticoline is non-addictive, is not known to cause brain damage, and has an [[Toxicity::extremely low toxicity]] relative to dose. Similar to many other [[nootropics]] substances, there are relatively few physical side effects associated with acute citicoline exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nCiticoline is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nCiticoline does not seem to build up an immediate tolerance and becomes stronger with prolonged use due to its long half-life. It is not recommended to take citicoline for extended periods longer than two weeks.\n\n===Dangerous interactions===\nCiticoline is a suspected monoaminergic substance.<ref>{{cite journal | vauthors=((Tayebati, S. K.)), ((Tomassoni, D.)), ((Nwankwo, I. E.)), ((Di Stefano, A.)), ((Sozio, P.)), ((Cerasa, L. S.)), ((Amenta, F.)) | journal=CNS & neurological disorders drug targets | title=Modulation of monoaminergic transporters by choline-containing phospholipids in rat brain | volume=12 | issue=1 | pages=94–103 | date=1 February 2013 | issn=1996-3181 | doi=10.2174/1871527311312010015}}</ref><ref>{{cite journal | vauthors=((Trabucchi, M.)), ((Govoni, S.)), ((Battaini, F.)) | journal=Il Farmaco; Edizione Scientifica | title=Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug | volume=41 | issue=4 | pages=325–334 | date= April 1986 | issn=0430-0920}}</ref> Citicoline and [[MAOIs]] are a potentially dangerous combination. It is likely that MAOIs could increase the effects of Alpha-GPC unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n\n==Legal status==\n{{legalStub}}\n\n==Literature==\n\n*Mcglade, E., Locatelli, A., Hardy, J., Kamiya, T., Morita, M., Morishita, K., … Yurgelun-Todd, D. (2012). Improved Attentional Performance Following Citicoline Administration in Healthy Adult Women. Food and Nutrition Sciences, 336103(June), 769–773. https://doi.org/10.4236/fns.2012.36103\n*Parisi, V., Coppola, G., Centofanti, M., Oddone, F., Maria Angrisani, A., Ziccardi, L., … Manni, G. (2008). Evidence of the neuroprotective role of citicoline in glaucoma patients. Progress in Brain Research, 173(8), 541–554. https://doi.org/10.1016/S0079-6123(08)01137-0\n*Bagdas, D., Sonat, F. A., Hamurtekin, E., Sonal, S., & Gurun, M. S. (2011). The antihyperalgesic effect of cytidine-5’-diphosphate-choline in neuropathic and inflammatory pain models. Behavioural Pharmacology, 22(5–6), 589–598. https://doi.org/10.1097/FBP.0b013e32834a1efb\n*Hamurtekin, E., & Sibel Gurun, M. (2006). The antinociceptive effects of centrally administered CDP-choline on acute pain models in rats: The involvement of cholinergic system. Brain Research, 1117(1), 92–100. https://doi.org/10.1016/j.brainres.2006.07.118\n*Killgore, W. D. S., Ross, A. J., Kamiya, T., Kawada, Y., Renshaw, P. F., & Yurgelun-Todd, D. A. (2010). Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods. International Journal of Eating Disorders, 43(1), 6–13. https://doi.org/10.1002/eat.20658\n*Renshaw, P. F., Daniels, S., Lundahl, L. H., Rogers, V., & Lukas, S. E. (1999). Short-term treatment with citicoline (CDP-choline) attenuates some measures of craving in cocaine-dependent subjects: A preliminary report. Psychopharmacology, 142(2), 132–138. https://doi.org/10.1007/s002130050871\n\n==See also==\n\n*[[Responsible use]]\n*[[Alpha-GPC]]\n*[[Choline]]\n*[[Nootropic]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Citicoline Citocholine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=11372 Citocholine (Isomer Design)]\n*[https://examine.com/supplements/cdp-choline/ Citocholine (Examine)]\n\n==References==\n<references />\n[[Category:Cholinergic]]\n[[Category:Psychoactive substance]]\n[[Category:Substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n\n{{#set:Featured=true}}"
+}

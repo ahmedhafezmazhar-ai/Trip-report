@@ -1,0 +1,1234 @@
+{
+ "id": "psychonautwiki:195",
+ "type": "substance",
+ "title": "D-Limonene and vinegar \"full spectrum\" DMT extraction",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/D-Limonene_and_vinegar_%22full_spectrum%22_DMT_extraction",
+  "pageid": 195,
+  "last_edited": "2020-02-06T19:43:09Z"
+ },
+ "categories": [
+  "DMT extraction",
+  "Extraction"
+ ],
+ "substance_box_template": "SubstanceBox/DMT",
+ "substance_box": {
+  "names": {
+   "common": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule",
+   "substitutive": "N,N-Dimethyltryptamine",
+   "systematic": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60+ mg",
+    "duration": "5 - 20 minutes",
+    "onset": "20 - 40 seconds",
+    "comeup": "1 - 3 minutes",
+    "peak": "2 - 8 minutes",
+    "offset": "1 - 6 minutes",
+    "aftereffects": "10 - 60 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "30 - 60 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "10 - 20 minutes",
+    "offset": "20 - 40 minutes",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "15 - 30 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "2 - 5 minutes",
+    "offset": "10 - 20 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "DMT",
+    "N,N-DMT",
+    "Dmitry",
+    "The Glory",
+    "The Spirit Molecule"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Tryptamine"
+   ],
+   "Smoked threshold dose": [
+    "2"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "10"
+   ],
+   "Smoked max light dose": [
+    "20"
+   ],
+   "Smoked min common dose": [
+    "20"
+   ],
+   "Smoked max common dose": [
+    "40"
+   ],
+   "Smoked min strong dose": [
+    "40"
+   ],
+   "Smoked max strong dose": [
+    "60"
+   ],
+   "Smoked heavy dose": [
+    "60"
+   ],
+   "Smoked min total time": [
+    "5"
+   ],
+   "Smoked max total time": [
+    "20"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "20"
+   ],
+   "Smoked max onset time": [
+    "40"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "1"
+   ],
+   "Smoked max comeup time": [
+    "3"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "8"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "6"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "10"
+   ],
+   "Smoked max afterglow time": [
+    "60"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Intramuscular threshold dose": [
+    "4"
+   ],
+   "Intramuscular dose units": [
+    "mg"
+   ],
+   "Intramuscular min light dose": [
+    "4"
+   ],
+   "Intramuscular max light dose": [
+    "10"
+   ],
+   "Intramuscular min common dose": [
+    "10"
+   ],
+   "Intramuscular max common dose": [
+    "15"
+   ],
+   "Intramuscular min strong dose": [
+    "15"
+   ],
+   "Intramuscular max strong dose": [
+    "20"
+   ],
+   "Intramuscular heavy dose": [
+    "20"
+   ],
+   "Intramuscular min total time": [
+    "30"
+   ],
+   "Intramuscular max total time": [
+    "60"
+   ],
+   "Intramuscular total time units": [
+    "minutes"
+   ],
+   "Intramuscular min onset time": [
+    "2"
+   ],
+   "Intramuscular max onset time": [
+    "10"
+   ],
+   "Intramuscular onset time units": [
+    "seconds"
+   ],
+   "Intramuscular min comeup time": [
+    "70"
+   ],
+   "Intramuscular max comeup time": [
+    "100"
+   ],
+   "Intramuscular comeup time units": [
+    "seconds"
+   ],
+   "Intramuscular min peak time": [
+    "10"
+   ],
+   "Intramuscular max peak time": [
+    "20"
+   ],
+   "Intramuscular peak time units": [
+    "minutes"
+   ],
+   "Intramuscular min offset time": [
+    "20"
+   ],
+   "Intramuscular max offset time": [
+    "40"
+   ],
+   "Intramuscular offset time units": [
+    "minutes"
+   ],
+   "Intravenous threshold dose": [
+    "4"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "4"
+   ],
+   "Intravenous max light dose": [
+    "10"
+   ],
+   "Intravenous min common dose": [
+    "10"
+   ],
+   "Intravenous max common dose": [
+    "15"
+   ],
+   "Intravenous min strong dose": [
+    "15"
+   ],
+   "Intravenous max strong dose": [
+    "20"
+   ],
+   "Intravenous heavy dose": [
+    "20"
+   ],
+   "Intravenous min total time": [
+    "15"
+   ],
+   "Intravenous max total time": [
+    "30"
+   ],
+   "Intravenous total time units": [
+    "minutes"
+   ],
+   "Intravenous min onset time": [
+    "2"
+   ],
+   "Intravenous max onset time": [
+    "10"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "70"
+   ],
+   "Intravenous max comeup time": [
+    "100"
+   ],
+   "Intravenous comeup time units": [
+    "seconds"
+   ],
+   "Intravenous min peak time": [
+    "2"
+   ],
+   "Intravenous max peak time": [
+    "5"
+   ],
+   "Intravenous peak time units": [
+    "minutes"
+   ],
+   "Intravenous min offset time": [
+    "10"
+   ],
+   "Intravenous max offset time": [
+    "20"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N,N-Dimethyltryptamine.",
+   "clean": "Molecular structure of N,N-Dimethyltryptamine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:DMT.svg",
+   "clean": "File:DMT.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::DMT]], [[common name::N,N-DMT]], [[common name::Dmitry]], [[common name::The Glory]], [[common name::The Spirit Molecule]]",
+   "clean": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule"
+  },
+  "NameSubstitution": {
+   "raw": "N,N-Dimethyltryptamine",
+   "clean": "N,N-Dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine",
+   "clean": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2]] [[Smoked dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::10]] - [[Smoked max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::20]] - [[Smoked max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::40]] - [[Smoked max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::60]]+ mg",
+   "clean": "60+ mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::5]] - [[Smoked max total time::20]] [[Smoked total time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::20]] - [[Smoked max onset time::40]] [[Smoked onset time units::seconds]]",
+   "clean": "20 - 40 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::1]] - [[Smoked max comeup time::3]] [[Smoked comeup time units::minutes]]",
+   "clean": "1 - 3 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::8]] [[Smoked peak time units::minutes]]",
+   "clean": "2 - 8 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::6]] [[Smoked offset time units::minutes]]",
+   "clean": "1 - 6 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::10]] - [[Smoked max afterglow time::60]] [[Smoked afterglow time units::minutes]]",
+   "clean": "10 - 60 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "[[Intramuscular threshold dose::4]] [[Intramuscular dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Intramuscular min light dose::4]] - [[Intramuscular max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Intramuscular min common dose::10]] - [[Intramuscular max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Intramuscular min strong dose::15]] - [[Intramuscular max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Intramuscular heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Intramuscular min total time::30]] - [[Intramuscular max total time::60]] [[Intramuscular total time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Intramuscular min onset time::2]] - [[Intramuscular max onset time::10]] [[Intramuscular onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Intramuscular min comeup time::70]] - [[Intramuscular max comeup time::100]] [[Intramuscular comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Intramuscular min peak time::10]] - [[Intramuscular max peak time::20]] [[Intramuscular peak time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Intramuscular min offset time::20]] - [[Intramuscular max offset time::40]] [[Intramuscular offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::4]] [[Intravenous dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::4]] - [[Intravenous max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::10]] - [[Intravenous max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::15]] - [[Intravenous max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::15]] - [[Intravenous max total time::30]] [[Intravenous total time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::2]] - [[Intravenous max onset time::10]] [[Intravenous onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::70]] - [[Intravenous max comeup time::100]] [[Intravenous comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::2]] - [[Intravenous max peak time::5]] [[Intravenous peak time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::10]] - [[Intravenous max offset time::20]] [[Intravenous offset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "__NOTOC__\n\nItems needed\n\n*Two Large 900ml jars\n*Small jar roughly 200ml\n*100g Mimosa Hostilis or Acacia Confusa per batch\n*150ml D-Limonene per batch\n*100g Sodium Carbonate\n*50ml vinegar\n*Turkey baster\n*Razor blade or Card\n\nProcedure\n\nStep 1\n\nGrind the rootbark as fine as possible and mix it into equal amounts of Sodium Carbonate or pickling/brewing lime.\nSodium Carbonate can be obtained by baking household baking soda at 200 degrees for 30 min; this results in sodium carbonate from sodium bicarbonate, or you can just buy \"washing soda\" at the store which is just pure sodium carbonate, a stronger base than baking soda.\n\nStep 2\n\nAfter being thoroughly mixed, the root bark should then be added to the jar and then the d-Limonene should also be included in the pot, the lid is then placed back on, and the jar needs to be shaken. The jar then needs to be left alone for another 24 hours in a warm heated location. Remember to shake the jar every so often throughout the 24 hours.\n\nDuring this step the d-Limonene slowly absorbs the DMT from the root bark.\n\nStep 3\n\nIf this has been successful, a clear and separate layer of d-Limonene should be visible at the top of the jars liquid content. A turkey baster is then used to collect the d-Limonene and put into the 200ml jar. The d-Limonene should be quite orange in color, as d-Limonene is a full range extraction.\n\nNo brown liquid should be tolerated as this affects the DMT.\n\nIf the d-Limonene has a tint of brown orange, leave the d-Limonene to sit in the separate jar overnight, the brown liquid should then separate and should be removed before moving on to the next step.\n\nStep 4\n\n50ml of Vinegar should then be poured into the jar of d-Limonene and shaken vigorously until a deep orange color \naccumulates within the vinegar, the vinegar will separate and collect in the bottom as it converts the DMT from salt and into an acetate.\n\nStep 5\n\nOnce the vinegar has sufficiently absorbed the DMT, pour off the d-Limonene and repeat step 4 until the vinegar stays clear. You should then pour all the collective vinegar into a large dish and allow it to evaporate.\nPlacing the dish in front of a fan will speed things up considerably.\n\nOnce the DMT is then dried, it should be a sticky resin, this is a full spectrum extraction.\nIt can either be dissolved with a solvent such as ethanol and combined with Banisteriopsis caapi leaf or it can simply be scraped with a clean razor blade or card and vaporized or smoked with the herb of your choosing.\n\nSee also\n\n*Responsible use\n*DMT\n*Tryptamines\n*Psychedelics\n*Experience index\n*Ayahuasca\n\nCategory:Extraction\nCategory:DMT extraction",
+ "wikitext": "{{SubstanceBox/DMT}}\n{{Disclaimer}}\n__NOTOC__\n===='''Items needed'''====\n*Two Large 900ml jars\n*Small jar roughly 200ml\n*100g [[Harmala_alkaloids#Banisteriopsis_caapi|Mimosa Hostilis]] or [[DMT#Acacia_confusa_root_bark|Acacia Confusa]] per batch\n*150ml D-Limonene per batch\n*100g Sodium Carbonate\n*50ml vinegar\n*Turkey baster\n*Razor blade or Card\n\n=='''Procedure'''==\n===Step 1===\nGrind the rootbark as fine as possible and mix it into equal amounts of Sodium Carbonate or pickling/brewing lime.\nSodium Carbonate can be obtained by baking household baking soda at 200 degrees for 30 min; this results in sodium carbonate from sodium bicarbonate, or you can just buy \"washing soda\" at the store which is just pure sodium carbonate, a stronger base than baking soda.\n\n===Step 2===\nAfter being thoroughly mixed, the root bark should then be added to the jar and then the d-Limonene should also be included in the pot, the lid is then placed back on, and the jar needs to be shaken. The jar then needs to be left alone for another 24 hours in a warm heated location. Remember to shake the jar every so often throughout the 24 hours.\n\nDuring this step the d-Limonene slowly absorbs the [[DMT]] from the root bark.\n\n===Step 3===\nIf this has been successful, a clear and separate layer of d-Limonene should be visible at the top of the jars liquid content. A turkey baster is then used to collect the d-Limonene and put into the 200ml jar. The d-Limonene should be quite orange in color, as d-Limonene is a full range extraction.\n\nNo brown liquid should be tolerated as this affects the DMT.\n\nIf the d-Limonene has a tint of brown orange, leave the d-Limonene to sit in the separate jar overnight, the brown liquid should then separate and should be removed before moving on to the next step.\n\n===Step 4===\n50ml of Vinegar should then be poured into the jar of d-Limonene and shaken vigorously until a deep orange color \naccumulates within the vinegar, the vinegar will separate and collect in the bottom as it converts the DMT from salt and into an acetate.\n\n===Step 5===\nOnce the vinegar has sufficiently absorbed the DMT, pour off the d-Limonene and repeat step 4 until the vinegar stays clear. You should then pour all the collective vinegar into a large dish and allow it to evaporate.\nPlacing the dish in front of a fan will speed things up considerably.\n\nOnce the DMT is then dried, it should be a sticky resin, this is a full spectrum extraction.\nIt can either be dissolved with a solvent such as [[alcohol|ethanol]] and combined with [[Harmala_alkaloids#Banisteriopsis_caapi|Banisteriopsis caapi]] leaf or it can simply be scraped with a clean razor blade or card and vaporized or smoked with the herb of your choosing.\n\n==See also==\n*[[Responsible use]]\n*[[DMT]]\n*[[Tryptamines]]\n*[[Psychedelics]]\n*[[Experience index]]\n*[[Ayahuasca]]\n\n[[Category:Extraction]]\n[[Category:DMT extraction]]"
+}

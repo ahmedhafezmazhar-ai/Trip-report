@@ -1,0 +1,412 @@
+{
+ "id": "psychonautwiki:19527",
+ "type": "substance",
+ "title": "Flualprazolam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Flualprazolam",
+  "pageid": 19527,
+  "last_edited": "2025-01-30T23:05:42Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Polish-language sources (pl)",
+  "CS1 Turkish-language sources (tr)",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/Flualprazolam",
+ "substance_box": {
+  "names": {
+   "common": "Flualprazolam",
+   "substitutive": "Flualprazolam",
+   "systematic": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f] [1,2,4]triazolo[4,3-a] [1,4]diazepine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.05 mg",
+    "light": "0.1 - 0.3 mg",
+    "common": "0.3 - 0.5 mg",
+    "strong": "0.5 - 1 mg",
+    "heavy": "1 mg+",
+    "duration": "5 - 8 hours",
+    "onset": "20 - 40 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "2 - 6 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Flualprazolam"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Benzodiazepine"
+   ],
+   "Oral threshold dose": [
+    "0.05"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.1"
+   ],
+   "Oral max light dose": [
+    "0.3"
+   ],
+   "Oral min common dose": [
+    "0.3"
+   ],
+   "Oral max common dose": [
+    "0.5"
+   ],
+   "Oral min strong dose": [
+    "0.5"
+   ],
+   "Oral max strong dose": [
+    "1"
+   ],
+   "Oral heavy dose": [
+    "1"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "Flualprazolam",
+   "clean": "Flualprazolam"
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Flualprazolam.",
+   "clean": "Molecular structure of Flualprazolam."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Flualprazolam.png",
+   "clean": "File:Flualprazolam.png"
+  },
+  "SkeletalImageWidth": {
+   "raw": "400px",
+   "clean": "400px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Flualprazolam]]",
+   "clean": "Flualprazolam"
+  },
+  "NameSubstitution": {
+   "raw": "Flualprazolam",
+   "clean": "Flualprazolam"
+  },
+  "NameSystematic": {
+   "raw": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f] [1,2,4]triazolo[4,3-a] [1,4]diazepine",
+   "clean": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f] [1,2,4]triazolo[4,3-a] [1,4]diazepine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/alprazolam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/alprazolam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.05]] [[Oral dose units::mg]]",
+   "clean": "0.05 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.1]] - [[Oral max light dose::0.3]] mg",
+   "clean": "0.1 - 0.3 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::0.3]] - [[Oral max common dose::0.5]] mg",
+   "clean": "0.3 - 0.5 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::0.5]] - [[Oral max strong dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::1]] mg+",
+   "clean": "1 mg+"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  }
+ },
+ "plain_text": "Flualprazolam is a novel depressant substance of the benzodiazepine class. It is a structural analog of alprazolam (Xanax), a widely used prescription benzodiazepine with high recreational potential. The mechanism is unknown, but it likely acts as a GABA receptor agonist.\n\nFlualprazolam appears to have first become available for sale in 2017 on the online research chemical market. The origins of its development is not clear. It has been marketed or deceptively sold as a replacement for alprazolam despite differing in substantive ways, according to some reports.\n\nSubjective effects include sedation, muscle relaxation, disinhibition, anxiety suppression, memory suppression, and euphoria. Its effects are somewhat similar to alprazolam; however, it is reported to be more hypnotic and sedating than anxiolytic, and not as recreational. It appears to be more potent-by-weight than alprazolam.\n\nLimited data exists on the pharmacological properties, metabolism, and toxicology of this compound. It likely possesses high abuse potential due to its similarity to alprazolam. The health risks of forming physical dependence to this compound are not known, and may possess additional risks relative to traditional benzodiazepines.\n\nAdditionally, it should be noted that the sudden discontinuation of benzodiazepines can be dangerous or even life-threatening for individuals for heavy or long-term users. As a result, individuals who are physically dependent on this substance are advised to taper their dose by gradually lowering the amount taken each day over a prolonged period instead of stopping use abruptly.\n\nFlualprazolam has been reported by users to dramatically and rapidly increase benzodiazepine cross-tolerance. It is strongly advised to only use Flualprazolam for short periods of time, and if used as an emergency substitute to avoid benzodiazepine withdrawal, to avoid compulsive redosing and minimize the administered dose as much as possible.\n\nThe potency of Flualprazolam compared to Alprazolam has been reported to vary dramatically by users (ranging anywhere between 1.5x and 5x stronger than Alprazolam). \n\nIt is strongly advised to use harm reduction practices if using this substance. \n\nHistory and culture\n\nFlualprazolam first appeared on the research chemical market around 2017\n\nChemistry\n\nFlualprazolam belongs to a class of synthetic organic compounds called benzodiazepines. Benzodiazepines contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. \n\nThe benzyl ring of flualprazolam is substituted at R8 with a chlorine group. Further, the diazepine ring is bonded at R5 to a phenyl ring. The only difference to alprazolam is a fluorine group located at R2'. \n\nFlualprazolam also contains a 1-methylated triazole ring fused to and incorporating R1 and R2 of its diazepine ring. Flualprazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nIt can be described as the 2'-fluoro derivative of alprazolam, which it might share some of its effects, though some users report that it subjectively feels different than alprazolam in most aspects.\n\nPharmacology\n\nFlualprazolam can be described as the 2'-fluoro derivative of alprazolam, or the fluoro instead of chloro analogue of triazolam, and has similar sedative and anxiolytic effects.\n\nSubjective effects\n\nFlualprazolam is reported to to be more hypnotic, have a longer duration, and a significantly longer elimination half-life than its parent compound alprazolam.\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Flualprazolam\n\nToxicity and harm potential\n\nFlualprazolam likely has a low toxicity relative to dose. However, it is potentially lethal when mixed with depressants like alcohol or opioids.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nLike most benzodiazepines, Flualprazolam is considered to be highly addictive with a high potential for abuse.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nBenzodiazepine discontinuation is notoriously difficult and potentially life-threatening for heavy or long-term users. There is an increased risk of seizure following discontinuation of benzodiazepines. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. Substances which lower the seizure threshold such as Tramadol should be avoided during withdrawal.\n\nDangerous interactions\n\nLegal status\n\nInternationally, Flualprazolam was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.\n\n*Germany: Flualprazolam is controlled under Anlage II BtMG (Narcotics Act, Schedule II)  as of January 21, 2021.\n*Poland: Flualprazolam is under the IV-P group as of March 11, 2021. It is illegal to own, possess, and sell in Poland.\n*Turkey: Flualprazolam is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: Flualprazolam is controlled under the Psychoactive Substances Act.\n*United States: Flualprazolam is a Schedule I controlled substance as of January 23, 2023.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Alprazolam\n*Flubromazolam\n*Flubromazepam\n\nExternal links\n\n*Flualprazolam (Wikipedia)\n*Flualprazolam (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Research chemical",
+ "wikitext": "{{headerpanel|{{DepressantOD|benzodiazepines}}}}\n{{SubstanceBox/Flualprazolam}}\n\n'''Flualprazolam''' is a novel [[psychoactive class::depressant]] substance of the [[chemical class::benzodiazepine]] class. It is a structural analog of [[alprazolam]] (''Xanax''), a widely used prescription benzodiazepine with high recreational potential. The mechanism is unknown, but it likely acts as a [[GABA]] [[receptor]] [[agonist]].\n\nFlualprazolam appears to have first become available for sale in 2017 on the online [[research chemical]] market.<ref name=\"GoogleTrends\">Flualprazolam - Google Trends | https://trends.google.com/trends/explore?date=all&geo=US&q=Flualprazolam</ref> The origins of its development is not clear. It has been marketed or deceptively sold as a replacement for alprazolam despite differing in substantive ways, according to some reports.\n\n[[Subjective effects]] include [[sedation]], [[muscle relaxation]], [[disinhibition]], [[anxiety suppression]], [[memory suppression]], and [[euphoria]]. Its effects are somewhat similar to alprazolam; however, it is reported to be more hypnotic and sedating than anxiolytic, and not as recreational. It appears to be more potent-by-weight than alprazolam.\n\nLimited data exists on the pharmacological properties, metabolism, and toxicology of this compound. It likely possesses high abuse potential due to its similarity to alprazolam. The health risks of forming physical dependence to this compound are not known, and may possess additional risks relative to traditional benzodiazepines.\n\nAdditionally, it should be noted that the sudden discontinuation of benzodiazepines can be dangerous or even life-threatening for individuals for heavy or long-term users. As a result, individuals who are physically dependent on this substance are advised to [[taper]] their dose by gradually lowering the amount taken each day over a prolonged period instead of stopping use abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\nFlualprazolam has been reported by users to dramatically and rapidly increase benzodiazepine cross-tolerance. It is strongly advised to only use Flualprazolam for short periods of time, and if used as an emergency substitute to avoid benzodiazepine withdrawal, to avoid compulsive redosing and minimize the administered dose as much as possible.\n\nThe potency of Flualprazolam compared to Alprazolam has been reported to vary dramatically by users (ranging anywhere between 1.5x and 5x stronger than Alprazolam). \n\nIt is strongly advised to use [[harm reduction practices]] if using this substance. \n\n==History and culture==\n{{historyStub}}\nFlualprazolam first appeared on the [[research chemical]] market around 2017<ref name=\"GoogleTrends\"></ref>\n==Chemistry==\nFlualprazolam belongs to a class of synthetic organic compounds called benzodiazepines. Benzodiazepines contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. \n\nThe benzyl ring of flualprazolam is substituted at R<sub>8</sub> with a chlorine group. Further, the diazepine ring is bonded at R<sub>5</sub> to a phenyl ring. The only difference to alprazolam is a fluorine group located at R<sub>2'</sub>. \n\nFlualprazolam also contains a 1-methylated triazole ring fused to and incorporating R<sub>1</sub> and R<sub>2</sub> of its diazepine ring. Flualprazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nIt can be described as the 2'-fluoro derivative of [[alprazolam]], which it might share some of its effects<ref name=\"Water2018\">{{cite journal | vauthors=((Waters, L.)), ((Manchester, K. R.)), ((Maskell, P. D.)), ((Haegeman, C.)), ((Haider, S.)) | journal=Science & Justice | title=The use of a quantitative structure-activity relationship (QSAR) model to predict GABA-A receptor binding of newly emerging benzodiazepines | volume=58 | issue=3 | pages=219–225 | date= May 2018 | url=https://linkinghub.elsevier.com/retrieve/pii/S1355030617301545 | issn=13550306 | doi=10.1016/j.scijus.2017.12.004}}</ref>, though some users report that it subjectively feels different than alprazolam in most aspects.\n\n==Pharmacology==\n{{pharmacology}}\nFlualprazolam can be described as the 2'-fluoro derivative of alprazolam, or the fluoro instead of chloro analogue of triazolam, and has similar sedative and anxiolytic effects.<ref name=\"Water2018\" />\n\n==Subjective effects==\n{{EffectStub}}\nFlualprazolam is reported to to be more [[hypnotic]], have a longer duration, and a significantly longer elimination half-life than its parent compound alprazolam.\n\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' - Reported to be stronger than many benzodiazepines. It has been described as a very forceful hypnotic, inducing sleep by force at high doses. This effect is dangerously hard to predict independent of any previous benzodiazepine tolerance. {{citation needed}}<!--gotta find nervewing post -->\n*'''[[Effect::Muscle relaxation]]''' - Reportedly stronger than Alprazolam.\n*'''[[Effect::Physical euphoria]]''' - Short-lasting, encouraging compulsive redosing.\n*'''[[Effect::Motor control loss]]''' - More common at higher doses.\n*'''[[Effect::Respiratory depression]]''', \n*'''[[Effect::Increased libido]]''' - Uncommon but noticeable effect, especially for first-time users.\n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Dizziness]]''' - Strong at higher doses.\n*'''[[Effect::Temporary erectile dysfunction]]''' - Can sometimes be very strong and last for a few hours.\n\n}}\n{{effects/cognitive|\nIf applicable, a brief paragraph summary of the substance's cognitive effects may be included here. \n\nYou may select from a list of cognitive effects to add below [[Subjective effect index#Cognitive effects|here]].\n\n*'''[[Effect::Anxiety suppression]]''' - Somewhat effective, but outweighed by hypnotic & sedative effects.\n*'''[[Effect::Disinhibition]]''' - More prominent at high doses.\n*'''[[Effect::Cognitive euphoria]]''' - Reportedly short lasting (1-2h after dosing), encouraging compulsive redosing while still intoxicated.\n*'''[[Effect::Compulsive redosing]]''' \n*'''[[Effect::Memory suppression]]''' - Quite strong at high doses.\n*'''[[Effect::Delusions of sobriety]]''' - Present but manageable with some of the effect being imperceptible until the following day, depending on the dosage.\n*'''[[Effect::Analysis suppression]]''' \n*'''[[Effect::Ego inflation]]''' \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Emotion suppression]]''' - This effect seems to be more pronounced than other benzodiazepines.\n*'''[[Effect::Sleepiness]]''' - Noticeably more sedating than Alprazolam.\n*'''[[Effect::Irritability]]''' - See paradoxical effects section \n\n}}\n|{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]''' - Like many [[depressants]], flualprazolam may cause blurred or otherwise suppressed visual acuity, especially at high doses.\n\n}}\n{{effects/aftereffects|\n\n*'''Rebound [[Effect::anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]'''<ref>{{cite journal | vauthors=((Goyal, S.)) | journal=Canadian Medical Association Journal | title=Drugs and dreams | volume=102 | issue=5 | pages=524 | date=14 March 1970 | issn=0008-4409}}</ref>\n*'''Residual [[Effect::sleepiness]]''' - While benzodiazepines can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n\n}}\n{{effects/paradoxical|\nParadoxical reactions to benzodiazepines such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%). <p>These paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.[8][9]\n\n}}\n}}\n===Experience reports===\n\nThere are currently {{#ask:[[Category:SUBSTANCE]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:SUBSTANCE]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Flualprazolam.shtml Erowid Experience Vaults: Flualprazolam]<!-- Check the link to see if it exists -->\n\n==Toxicity and harm potential==\n{{toxicity}}\nFlualprazolam likely has a low toxicity relative to dose. However, it is potentially lethal when mixed with depressants like alcohol or opioids.\n\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nLike most benzodiazepines, Flualprazolam is considered to be highly addictive with a high potential for abuse.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nBenzodiazepine discontinuation is notoriously difficult and potentially life-threatening for heavy or long-term users. There is an increased risk of seizure following discontinuation of [[benzodiazepines]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. Substances which lower the seizure threshold such as [[Tramadol]] should be avoided during withdrawal.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\n{{LegalStub}}\nInternationally, Flualprazolam was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.<ref>{{cite web|url=https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3|date=December 2019|title=WHO: World Health Organization recommends 12 NPS for scheduling|access-date=October 16, 2020}}</ref><ref>{{cite web|url=https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d|title=CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting|date=March 18, 2020|publisher=World Health Organization (WHO)|access-date=October 16, 2020}}</ref>\n\n*'''Germany''': Flualprazolam is controlled under Anlage II BtMG (Narcotics Act, Schedule II) <ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=August 30, 2021|language=de}}</ref> as of January 21, 2021.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl121s0070.pdf%27%5D__1630275084900|title=Einundzwanzigste Verordnung zur Änderung von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2021 Teil I Nr. 2|publication-date=January 20, 2021|access-date=August 30, 2021|language=de}}</ref>\n*'''Poland''': Flualprazolam is under the IV-P group as of March 11, 2021.<ref>{{cite web |url=https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518 |title=Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych |language=Polish |work=DZIENNIK USTAW 2021 R. POZ. 518 |date=2021-03-22 |deadurl=no }}</ref> It is illegal to own, possess, and sell in Poland.<ref>{{cite web |url=https://dziennikustaw.gov.pl/D2021000051801.pdf |format=PDF |title=Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych |language=Polish |work=DZIENNIK USTAW 2021 R. POZ. 518 |date=2021-03-22 }}</ref>\n*'''Turkey:''' Flualprazolam is a classed as drug and is illegal to possess, produce, supply, or import.<ref>{{cite web|title=Cumhurbaşkanı Kararı: Karar Sayısı: 1335|url=https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf|publisher=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication]|publication-date=July 20, 2019|date=July 19, 2020|work=Resmî Gazete, Sayı: 30837|language=tr}}</ref>\n*'''United Kingdom''': Flualprazolam is controlled under the Psychoactive Substances Act.{{citation needed}}\n*'''United States''': Flualprazolam is a Schedule I controlled substance as of January 23, 2023.<ref>Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I | https://www.federalregister.gov/documents/2022/12/23/2022-27278/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Alprazolam]]\n*[[Flubromazolam]]\n*[[Flubromazepam]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Flualprazolam Flualprazolam (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3445 Flualprazolam (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Research chemical]]"
+}

@@ -1,0 +1,339 @@
+{
+ "id": "psychonautwiki:19469",
+ "type": "substance",
+ "title": "25E-NBOH",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25E-NBOH",
+  "pageid": 19469,
+  "last_edited": "2026-04-26T16:23:44Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/25E-NBOH",
+ "substance_box": {
+  "names": {
+   "common": "25E-NBOH",
+   "substitutive": "2C-E-NBOH",
+   "systematic": "[[systematic name::2-(4-Ethyl-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 µg",
+    "light": "200 - 600 µg",
+    "common": "600 - 1000 µg",
+    "strong": "1000 - 1200 µg",
+    "heavy": "25E-NBOH may be fatal at heavy doses.",
+    "duration": "5 - 8 hours",
+    "onset": "15 - 60 minutes",
+    "comeup": "30 - 90 minutes",
+    "peak": "2 - 3.5 hours",
+    "offset": "1.5 - 2.5 hours",
+    "aftereffects": "5 - 10 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "25E-NBOH"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Phenethylamine"
+   ],
+   "Sublingual threshold dose": [
+    "50"
+   ],
+   "Sublingual dose units": [
+    "µg"
+   ],
+   "Sublingual min light dose": [
+    "200"
+   ],
+   "Sublingual max light dose": [
+    "600"
+   ],
+   "Sublingual min common dose": [
+    "600"
+   ],
+   "Sublingual max common dose": [
+    "1000"
+   ],
+   "Sublingual min strong dose": [
+    "1000"
+   ],
+   "Sublingual max strong dose": [
+    "1200"
+   ],
+   "Sublingual min total time": [
+    "5"
+   ],
+   "Sublingual max total time": [
+    "8"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "15"
+   ],
+   "Sublingual max onset time": [
+    "60"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "30"
+   ],
+   "Sublingual max comeup time": [
+    "90"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "2"
+   ],
+   "Sublingual max peak time": [
+    "3.5"
+   ],
+   "Sublingual peak time units": [
+    "hours"
+   ],
+   "Sublingual min offset time": [
+    "1.5"
+   ],
+   "Sublingual max offset time": [
+    "2.5"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ],
+   "Sublingual min afterglow time": [
+    "5"
+   ],
+   "Sublingual max afterglow time": [
+    "10"
+   ],
+   "Sublingual afterglow time units": [
+    "days"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 25I-NBOH",
+   "clean": "Molecular structure of 25I-NBOH"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:25E-NBOH.svg",
+   "clean": "File:25E-NBOH.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::25E-NBOH]]",
+   "clean": "25E-NBOH"
+  },
+  "NameSubstitution": {
+   "raw": "2C-E-NBOH",
+   "clean": "2C-E-NBOH"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-(4-Ethyl-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]",
+   "clean": "[[systematic name::2-(4-Ethyl-2,5-dimethoxyphenyl)-N-[(2-hydroxyphenyl)methyl]ethanamine]]"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "[[Sublingual threshold dose::50]] [[Sublingual dose units::µg]]",
+   "clean": "50 µg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::200]] - [[Sublingual max light dose::600]] µg",
+   "clean": "200 - 600 µg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::600]] - [[Sublingual max common dose::1000]] µg",
+   "clean": "600 - 1000 µg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::1000]] - [[Sublingual max strong dose::1200]] µg",
+   "clean": "1000 - 1200 µg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "<span style=\"color:red\">'''25E-NBOH may be fatal at heavy doses.</span>",
+   "clean": "25E-NBOH may be fatal at heavy doses."
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::5]] - [[Sublingual max total time::8]] [[Sublingual total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::15]] - [[Sublingual max onset time::60]] [[Sublingual onset time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::30]] - [[Sublingual max comeup time::90]] [[Sublingual comeup time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::2]] - [[Sublingual max peak time::3.5]] [[Sublingual peak time units::hours]]",
+   "clean": "2 - 3.5 hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::1.5]] - [[Sublingual max offset time::2.5]] [[Sublingual offset time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::5]] - [[Sublingual max afterglow time::10]] [[Sublingual afterglow time units::days]]",
+   "clean": "5 - 10 days"
+  }
+ },
+ "plain_text": "25x-NBOH\n\n4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine (also known as 25E-NBOH and 2C-E-NBOH) is a closely related analog of 25E-NBOMe. 25E-NBOH is a synthetic psychedelic substance of the phenethylamine chemical class and is reported to share most of its properties with the exception of a moderately reduced potency and a shorter duration with 25E-NBOMe. Phenethylamine's produce an array of visually-dominant and stimulating psychedelic effects when administered.\n\n25E-NBOH is a derivative of the hallucinogen 2C-E. It was first developed by Martin Hansen at the University of Copenhagen in 2010 as a brain imaging agent, but has subsequently been sold as a designer drug, first being identified in Brazil in 2018 on seized blotter paper, as well as in several European countries. Although it is unknown exactly how 25E-NBOH exerts its effects it is believed to act by binding to serotonin receptors in the brain. Related substances of the NBOH family include: 25B, 25C, and 25I, all of which were identified in 2016 by the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA).\n\nSimilar to other known psychedelics, compounds of the NBOH family are not orally active and should be administered sublingually by placing and holding it in one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\nSubjective effects include open and closed-eye visuals, time distortion, enhanced introspection, ego loss, stimulation, and euphoria. User reports characterize 25E-NBOH as a clear headed, dose-sensitive psychedelic that is capable of producing strong visual distortions along with a significant \"body load\". 25E's body load manifests itself through vasoconstriction. Users describe the body load as making their muscles very sore and many take supplements to counteract these effects.\n\nLittle to no research has been done on the effects of 25E-NBOH on humans or animals. However, being an analogue of the NBOMe class it is suspected that it may have a similar safety profile. When using this substance it is highly advised to use harm reduction practices.\n\nHistory and culture\n\n25E-NBOH was first introduced to the scientific community in 2010 by Martin Hansen as a brain imaging agent. It wasn't until 2017 that the substance found its way onto seized blotter paper in Brazil. It is likely that the substance has been used prior to 2017, but their is a lack of hard evidence. Today, 25E-NBOH is used as a cost effective alternative to LSD or passed off as LSD.\n\nChemistry\n\nPharmacology\n\n25E-NBOH's psychedelic effects are believed to be mediated by its binding to the 5-HT2A and 5-HT2C receptors as an agonist. Information regarding the pharmacological properties of 25E-NBOH is still scarce, but its action is similar to that of the other serotonergic psychedelics.\n\nSubjective effects\n\nExperience reports\n\n25E-NBOH's use is not widespread and there are currently  experience reports which describe the effects of this substance in our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: 25E-NBOH\n\nToxicity and harm potential\n\n25E-NBOH like other classical psychedelics is not believed to have any long term safety concerns. Anecdotal reports suggest that 25E-NBOH is non-habit forming. It is recommended that a break is taken between use of this or other psychedelics to allow for tolerance to reset and the body to recover.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nThere is no known lethal dosage for 25E-NBOH however, this does not mean it is impossible to die from its ingestion.\n\nTolerance and addiction potential\n\nAlthough no formal studies have been conducted, it is not unreasonable to assume that like psychedelics in general, 25E-NBOH is not habit-forming and that the desire to use it can actually decrease with use.\n\nTolerance to the effects of 25E-NBOH is built almost immediately after ingestion. After that, it takes about 1-2 days for the tolerance to be reduced to half and 2-4 days to be back at baseline (in the absence of further consumption). 25E-NBOH presents cross-tolerance with all psychedelics but not evenly, meaning that after the consumption of 25E-NBOH, some psychedelics will have significant reduced effects while some others will only be slighly affected.\n\nDangerous interactions\n\nDrug interactions\n\n*Lithium - Lithium is commonly prescribed for the treatment of bipolar disorder. There is a large body of anecdotal evidence that suggests taking it with psychedelics significantly increases the risk of psychosis and seizures. As a result, this combination is strictly discouraged.\n*Cannabis - Cannabis may have an unexpectedly strong and unpredictable synergy with the effects of 25E-NBOH. Caution is advised with this combination as it can significantly increase the risk of adverse psychological reactions like anxiety, paranoia, panic attacks, and psychosis. Users are advised to start off with only a fraction of their normal cannabis dose and take long breaks between hits to avoid unintentional overdose.\n*Stimulants - Stimulants like amphetamine, cocaine or methylphenidate affect many parts of the brain and alter dopaminergic function. This combination can increase the risk of anxiety, paranoia, panic attacks, and thought loops. This interaction may also result in an elevated risk of mania and psychosis.[citation needed]\n*Tramadol - Tramadol is well-documented to lower the seizure threshold and psychedelics may act to trigger seizures in susceptible individuals.[citation needed]\n\nCondition interactions\n\n*Bipolar disorder - Those effected by Bipolar disorder are at a greater risk of having an episode or a psychotic break and are strongly advised not to use this substance.\n*Schizoaffective disorder - Those effected by Schizoaffective disorder are at a greater risk of having an episode or a psychotic break and are strongly advised not to use this substance.\n\nLegal status\n\n*United States: 25E-NBOH is not regulated under the Controlled Substances Act of 1970, however it's structurally similar to substances from the NBOMe class. Meaning that 25E-NBOH falls under the the Federal Analogue Act of 1986. This considers it as s Schedule I controlled substance, making illegal to manufacture, buy, possess, process, or distribute without a license from the Drug Enforcement Administration (DEA).\n\nSee also\n\n*Responsible use\n*Psychedelic\n*Phenethylamines\n*25B-NBOH\n*25X-NBOH\n\nExternal links\n\n*25E-NBOH (Wikipedia)\n*25E-NBOH (Isomer Design)\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval\n\nReferences",
+ "wikitext": "[[SubstanceClassAlias::25x-NBOH| ]]\n{{headerpanel|{{Warning/25E-NBOH}}|{{stub}}{{approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/25E-NBOH}}\n\n'''4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine''' (also known as '''25E-NBOH''' and '''2C-E-NBOH''') is a closely related analog of [[25E-NBOMe]]. 25E-NBOH is a synthetic [[Psychoactive class::psychedelic]] substance of the [[chemical class::phenethylamine]] chemical class and is reported to share most of its properties with the exception of a moderately reduced potency and a shorter duration with [[25E-NBOMe]]. Phenethylamine's produce an array of visually-dominant and [[stimulating]] [[psychedelic]] effects when [[Routes of administration|administered]].\n\n25E-NBOH is a derivative of the hallucinogen [[2C-E]]. It was first developed by Martin Hansen at the University of Copenhagen in 2010 as a brain imaging agent,<ref>{{cite journal | vauthors=((Hansen, M.)) | title=Design and Synthesis of Selective Serotonin Receptor Agonists for Positron Emission Tomography Imaging of the Brain | date= 2010 | url=http://rgdoi.net/10.13140/RG.2.2.33671.14245 | doi=10.13140/RG.2.2.33671.14245}}</ref><ref name=\":0\">{{cite journal | vauthors=((Ettrup, A.)), ((Hansen, M.)), ((Santini, M. A.)), ((Paine, J.)), ((Gillings, N.)), ((Palner, M.)), ((Lehel, S.)), ((Herth, M. M.)), ((Madsen, J.)), ((Kristensen, J.)), ((Begtrup, M.)), ((Knudsen, G. M.)) | journal=European Journal of Nuclear Medicine and Molecular Imaging | title=Radiosynthesis and in vivo evaluation of a series of substituted 11C-phenethylamines as 5-HT2A agonist PET tracers | volume=38 | issue=4 | pages=681–693 | date= April 2011 | url=http://link.springer.com/10.1007/s00259-010-1686-8 | issn=1619-7070 | doi=10.1007/s00259-010-1686-8}}</ref> but has subsequently been sold as a designer drug, first being identified in Brazil in 2018 on seized blotter paper, as well as in several European countries.<ref name=\":1\">{{cite journal | vauthors=((Machado, Y.)), ((Coelho Neto, J.)), ((Lordeiro, R. A.)), ((Alves, R. B.)), ((Piccin, E.)) | journal=Forensic Toxicology | title=Identification of new NBOH drugs in seized blotter papers: 25B-NBOH, 25C-NBOH, and 25E-NBOH | volume=38 | issue=1 | pages=203–215 | date= January 2020 | url=http://link.springer.com/10.1007/s11419-019-00509-7 | issn=1860-8965 | doi=10.1007/s11419-019-00509-7}}</ref> Although it is unknown exactly how 25E-NBOH exerts its effects it is believed to act by binding to [[serotonin]] [[Receptor|receptors]] in the brain. Related substances of the NBOH family include: 25B, 25C, and 25I, all of which were identified in 2016 by the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA).<ref>{{cite book | vauthors=((European Monitoring Centre for Drugs and Drug Addiction.)), ((European Union Agency for Law Enforcement Cooperation.)) | date= 2017 | title=EMCDDA–Europol 2016 annual report on the implementation of Council Decision 2005/387/JHA: in accordance with Article 10 of Council Decision 2005/387/JHA on the information exchange, risk assessment and control of new psychoactive substances. | publisher=Publications Office | url=https://data.europa.eu/doi/10.2810/430586}}</ref>\n\nSimilar to other known [[psychedelics]], compounds of the NBOH family are not [[orally]] active and should be administered [[Sublingual|sublingually]] by placing and holding it in one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\n[[Subjective effects]] include [[Geometry|open and closed-eye visuals]], [[Time distortion|time distortion]], [[Introspection|enhanced introspection]], [[Ego loss|ego loss]], [[stimulation]], and [[euphoria]]. User reports characterize 25E-NBOH as a clear headed, dose-sensitive psychedelic that is capable of producing strong visual distortions along with a significant \"body load\". 25E's body load manifests itself through [[vasoconstriction]]. Users describe the body load as making their muscles very sore and many take supplements to counteract these effects.\n\n\nLittle to no research has been done on the effects of 25E-NBOH on humans or animals. However, being an analogue of the NBOMe class it is suspected that it may have a similar safety profile. When using this substance it is highly advised to use [[Harm reduction practices|harm reduction practices]].\n<!-- Please ensure that any new substance articles are first published in the 'Talk' namespace. For example, a new article on substance XYZ should have the title \"Talk: XYZ\" instead of \"XYZ\". Once the submitted article has been reviewed and determined to meet the guidelines and standards, it will be published by a staff member. -->\n\n==History and culture==\n{{historyStub}}25E-NBOH was first introduced to the scientific community in 2010 by Martin Hansen as a brain imaging agent.<ref name=\":0\" /> It wasn't until 2017 that the substance found its way onto seized blotter paper in Brazil.<ref name=\":1\" /> It is likely that the substance has been used prior to 2017, but their is a lack of hard evidence. Today, 25E-NBOH is used as a cost effective alternative to [[LSD]] or passed off as [[LSD]].\n\n==Chemistry==\n{{chemistry}}<br />\n==Pharmacology==\n{{pharmacology}}25E-NBOH's [[Psychedelics|psychedelic]] effects are believed to be mediated by its binding to the [[Serotonin#The%205-HT%20system|5-HT<sub>2A</sub>]] and [[Serotonin#The%205-HT%20system|5-HT<sub>2C</sub>]] [[Receptor|receptors]] as an agonist.<ref>{{cite journal | vauthors=((Hansen, M.)), ((Phonekeo, K.)), ((Paine, J. S.)), ((Leth-Petersen, S.)), ((Begtrup, M.)), ((Bräuner-Osborne, H.)), ((Kristensen, J. L.)) | journal=ACS Chemical Neuroscience | title=Synthesis and Structure–Activity Relationships of N -Benzyl Phenethylamines as 5-HT 2A/2C Agonists | volume=5 | issue=3 | pages=243–249 | date=19 March 2014 | url=https://pubs.acs.org/doi/10.1021/cn400216u | issn=1948-7193 | doi=10.1021/cn400216u}}</ref> Information regarding the pharmacological properties of 25E-NBOH is still scarce, but its action is similar to that of the other [[Serotonergic psychedelic|serotonergic psychedelics]].\n\n==Subjective effects==\n{{EffectStub}}\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|1={{effects/physical|\n*'''[[Effect::Stimulation]]''' - 25E-NBOH is usually considered to be very energetic and stimulating in a fashion that is comparable to that of [[MDMA]], although it is 'encouraged' instead of 'forced'.\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of 25E-NBOH is manifested as one of the most proportionally intense in comparison to almost all of the classical psychedelics. The sensation itself can be described as an intense and slightly uncomfortable energetic pins and needles sensation that constantly encompasses a person's entire body. It is usually felt over the surface of the skin but occasionally manifests itself in the form of a continuously shifting, tingling sensation that travels up and down the body in intermittent waves. Alongside this, many users report uncomfortable body feelings characterized by dysphoric aches and urges to shift the position of one's body and prolonged tensing of unusual combinations of muscle groups.\n**'''[[Effect::Physical euphoria]]''' - Feelings of frequent but unpredictable rushes of warm physical euphoria are extremely common and very pleasurable. These move from the top of the head downwards before enveloping one's whole body.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Temperature regulation suppression]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' -  Mild to extreme nausea is consistently reported when consumed in moderate to high doses and either passes once the user has vomited or gradually fades by itself as the peak sets in.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of entactogenic stimulants like [[MDMA]].\n*'''[[Effect::Seizure]]''' - This is a rarely observed effect but is believed to be a risk in those predisposed to them, especially while in physically taxing conditions such as being dehydrated, fatigued, undernourished, or overheated.{{citation needed}}\n\n}}\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Flowing|flowing]], [[Drifting#Breathing|breathing]] and [[Drifting# morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, static in appearance and unrealistic/cartoon-like in style. \n*'''[[Effect::After images]]'''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Tracers]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry that is produced by this substance can be comprehensively described as structured in their organization, organic in geometric style, intricate in complexity, large in size, fast and smooth in motion, colorful in scheme, glossy in color, sharp in their edges and equally rounded and angular in their corners. It gives off a contradictory natural and synthetic feel that at higher dosages are significantly more likely to result in states of [[Effect::Level 8B]] visual geometry over [[Level 8A]].\n\n====Hallucinatory states====\n25E-NBOH produces a full range of high-level hallucinatory states in a fashion that is more consistent and reproducible than that of many other commonly used psychedelics. This particularly holds true in comparison to other substances within the family of psychedelic phenethylamines. These effects include:\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Machinescapes]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other psychedelics such as [[LSD]], 25E-NBOH is extremely reliable at producing hallucinations embedded within visual [[geometry]]. This particular effect commonly contains hallucinations with scenarios, settings, and concepts. They are more likely to present themselves within dark environments and can be described as internal in their manifestation, lucid in believability, interactive in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n\n}}|2={{effects/cognitive|\nThe head space of 25E-NBOH is described by many as one which is both insightful and relatively unaltered in its thought processes even at moderate to high dosages.\n\n*'''[[Effect::Analysis enhancement]]''' - This component is [[introspection]] dominant and consistently manifested only in the context of a non-social setting in which the user is alone.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This component is consistently manifested only in the context of social settings in which one is within the company of others. These feelings are a little weaker and less sharp than those produced by substances such as [[MDMA]] and [[2C-B]] but still often prove strong enough to provide long-lasting therapeutic effects.\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/multisensory|\n*'''[[Effect::Synaesthesia]]''' - In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states. However, many reports indicate that this substance is relatively reliable at inducing synaesthetic states in those who are predisposed to them.{{citation needed}}\n\n}}\n{{effects/transpersonal|\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}}}\n===Experience reports===\n25E-NBOH's use is not widespread and there are currently {{#ask:[[Category:SUBSTANCE]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_25ENBOH.shtml Erowid Experience Vaults: 25E-NBOH]\n\n==Toxicity and harm potential==\n{{toxicity}}\n25E-NBOH like other [[Classical psychedelics|classical psychedelics]] is not believed to have any long term safety concerns. Anecdotal reports suggest that 25E-NBOH is non-habit forming. It is recommended that a break is taken between use of this or other [[psychedelics]] to allow for tolerance to reset and the body to recover.\n\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n===Lethal dosage===\nThere is no known lethal dosage for 25E-NBOH however, this does not mean it is impossible to die from its ingestion.\n\n===Tolerance and addiction potential===\nAlthough no formal studies have been conducted, it is not unreasonable to assume that like [[psychedelics]] in general, 25E-NBOH is not habit-forming and that the desire to use it can actually decrease with use.\n\nTolerance to the effects of 25E-NBOH is built almost immediately after ingestion. After that, it takes about 1-2 days for the tolerance to be reduced to half and 2-4 days to be back at baseline (in the absence of further consumption). 25E-NBOH presents cross-tolerance with all [[Psychedelic|psychedelics]] but not evenly, meaning that after the consumption of 25E-NBOH, some psychedelics will have significant reduced effects while some others will only be slighly affected.\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n===Drug interactions===\n\n*'''Lithium''' - Lithium is commonly prescribed for the treatment of bipolar disorder. There is a large body of anecdotal evidence that suggests taking it with [[psychedelics]] significantly increases the risk of [[psychosis]] and [[seizures]]. As a result, this combination is strictly discouraged.\n*'''[[Cannabis]]''' - Cannabis may have an unexpectedly strong and unpredictable synergy with the effects of 25E-NBOH. Caution is advised with this combination as it can significantly increase the risk of adverse psychological reactions like [[anxiety]], [[paranoia]], [[Panic attacks|panic attacks]], and [[psychosis]]. Users are advised to start off with only a fraction of their normal cannabis dose and take long breaks between hits to avoid unintentional overdose.\n*'''[[Stimulants]]''' - Stimulants like [[amphetamine]], [[cocaine]] or [[methylphenidate]] affect many parts of the brain and alter [[Dopamine|dopaminergic]] function. This combination can increase the risk of [[anxiety]], [[paranoia]], [[Panic attacks|panic attacks]], and [[Thought loops|thought loops]]. This interaction may also result in an elevated risk of [[mania]] and [[psychosis]].<sup>[''[[Citation needed|citation needed]]'']</sup>\n*'''[[Tramadol]]''' - Tramadol is well-documented to lower the seizure threshold and [[psychedelics]] may act to trigger seizures in susceptible individuals.<sup>[''[[Citation needed|citation needed]]'']</sup>\n\n===Condition interactions===\n\n*'''Bipolar disorder''' - Those effected by Bipolar disorder are at a greater risk of having an episode or a psychotic break and are strongly advised not to use this substance.\n*'''Schizoaffective disorder''' - Those effected by Schizoaffective disorder are at a greater risk of having an episode or a psychotic break and are strongly advised not to use this substance.\n\n==Legal status==\n{{LegalStub}}\n\n*'''United States''': 25E-NBOH is not regulated under the Controlled Substances Act of 1970,<ref>Drug control: Highlights of P.L. 99-570, Anti Drug Abuse Act of 1986: (drug-related provisions only) (1986). bill.</ref> however it's structurally similar to substances from the NBOMe class. Meaning that 25E-NBOH falls under the the Federal Analogue Act of 1986. This considers it as s Schedule I controlled substance, making illegal to manufacture, buy, possess, process, or distribute without a license from the Drug Enforcement Administration (DEA).<ref>\"[https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf#page=1 Controlled Substances: by CSA Schedule]\" (PDF). U.S. Department of Justice. August 21, 2019. p. 1. </ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Psychedelic]]\n*[[Phenethylamines]]\n*[[25B-NBOH]]\n*[[25X-NBOH]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/25E-NBOH 25E-NBOH (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1255 25E-NBOH (Isomer Design)]\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]\n\n==References==\n<references />"
+}

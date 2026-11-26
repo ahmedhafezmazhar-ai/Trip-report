@@ -1,0 +1,296 @@
+{
+ "id": "psychonautwiki:9679",
+ "type": "substance",
+ "title": "N-Methylbisfluoromodafinil",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/N-Methylbisfluoromodafinil",
+  "pageid": 9679,
+  "last_edited": "2022-08-02T19:22:33Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Nootropic",
+  "Psychoactive substance",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/N-Methylbisfluoromodafinil",
+ "substance_box": {
+  "names": {
+   "common": "N-Methylbisfluoromodafinil, Dehydroxyfluorafinil, Modafiendz",
+   "substitutive": "N-Methyl-4,4'-difluoro-modafinil",
+   "systematic": "2-{[Bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Eugeroic",
+   "chemical": "Benzhydryl"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 150 mg",
+    "strong": "150 - 200 mg",
+    "heavy": "200 mg +",
+    "duration": "5 - 8 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "N-Methylbisfluoromodafinil",
+    "Dehydroxyfluorafinil",
+    "Modafiendz"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Eugeroic"
+   ],
+   "chemical class": [
+    "Benzhydryl"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "200"
+   ],
+   "Oral heavy dose": [
+    "200"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N-Methylbisfluoromodafinil",
+   "clean": "Molecular structure of N-Methylbisfluoromodafinil"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:N-methylbisfluoromodafinil.svg",
+   "clean": "File:N-methylbisfluoromodafinil.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::N-Methylbisfluoromodafinil]], [[common name::Dehydroxyfluorafinil]], [[common name::Modafiendz]]",
+   "clean": "N-Methylbisfluoromodafinil, Dehydroxyfluorafinil, Modafiendz"
+  },
+  "NameSubstitution": {
+   "raw": "N-Methyl-4,4'-difluoro-modafinil",
+   "clean": "N-Methyl-4,4'-difluoro-modafinil"
+  },
+  "NameSystematic": {
+   "raw": "2-{[Bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide",
+   "clean": "2-{[Bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Eugeroic]]",
+   "clean": "Stimulant / Eugeroic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzhydryl]]",
+   "clean": "Benzhydryl"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::200]] mg",
+   "clean": "150 - 200 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::200]] mg +",
+   "clean": "200 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "5 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Methyl-4,4'-difluoro-modafinil (also known as N-Methylbisfluoromodafinil, Dehydroxyfluorafinil, and Modafiendz) is an obscure nootropic of the benzhydryl class with no history of research. Although it is closely related on a structural level to adrafinil and modafinil, neither a pharmacological nor a safety-profile similarity should be assumed.\n\nChemistry\n\nN-methyl-4,4-difluoro-modafinil, or 2-{[bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide, is a synthetic molecule of the benzhydryl class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. N-methylbisfluoromodafinil contains a fluorine group bound to each benzene ring at R4. It is classified as a sulphinyl benzhydryl molecule, as it also contains a sulphinyl group, a sulfur molecule double-bonded to an oxygen molecule, attached to the carbon of the benzhydryl group. From this sulfur group at R2, an acetamide group is bound at its free carbon through a carbonyl group to an amine group. This terminal amine group is N-substituted with a methyl chain. N-methylbisfluoromodafinil is structurally similar to other benzhydryl stimulants modafinil and fluorafinil; it is the bis-fluoro-N-methyl analog of modafinil.\n\nN-methylbisfluoromodafinil is the bis-fluoro-N-methyl analogue to modafinil; it contains two fluorine groups bound to each benzene ring at carbon 4 and an OH- (hydroxyl) group bound to the amine of modafinil.\n\nPharmacology\n\nThis compound has not been subject to any research, besides one paper discussing its chemical properties. Even though a pharmacological similarity with modafinil can be assumed, pharmacological similarity to adrafinil and CRL-40,941 seems more likely. This compound should not be assumed safe in any case, until further, though unlikely, research is conducted.\n\nSubjective effects\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational N-methylbisfluoromodafinil use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because N-methylbisfluoromodafinil has very little history of human usage. Anecdotal evidence from people who have tried N-methylbisfluoromodafinil within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nThe chronic use of N-methylbisfluoromodafinil can be considered as mildly addictive with a low potential for abuse and it does not seem to be capable of causing psychological dependence among certain users due to its lack of euphoria or recreational effects. If addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of N-methylbisfluoromodafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). N-methylbisfluoromodafinil presents cross-tolerance with all modafanil [[analogs]], meaning that after the consumption of N-methylbisfluoromodafinil all modafinil analogs will have a reduced effect.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\nN-methylbisfluoromodafinil is currently a gray area compound within most (if not all) parts of the world. This means that it is not known to be specifically illegal within any country, but people may still be charged for its possession under certain circumstances such as under analog laws and with intent to sell or consume.\n*United Kingdom - It is illegal to produce, supply, or import this substance under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Nootropic\n*Stimulant\n*Modafinil\n\nExternal links\n\n*N-Methylbisfluoromodafinil (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Substance\nCategory:Stimulant\nCategory:Nootropic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/N-Methylbisfluoromodafinil}}\n\n'''N-Methyl-4,4'-difluoro-modafinil''' (also known as '''N-Methylbisfluoromodafinil''', '''Dehydroxyfluorafinil''', and '''Modafiendz''')<ref>{{Citation | title=CRL-40,941 - C15H13F2NO3S | publisher=ChemSpider | url=http://www.chemspider.com/Chemical-Structure.29785194.html#synonymsTab}}</ref> is an obscure [[Psychoactive class::nootropic]] of the [[chemical class::benzhydryl]] class with no history of research. Although it is closely related on a structural level to [[adrafinil]] and [[modafinil]], neither a pharmacological nor a safety-profile similarity should be assumed.\n\n==Chemistry==\nN-methyl-4,4-difluoro-modafinil, or 2-{[bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide, is a synthetic molecule of the [[benzhydryl]] class. Benzhydryl compounds are comprised of two benzene rings attached to a single carbon molecule. N-methylbisfluoromodafinil contains a fluorine group bound to each benzene ring at R<sub>4</sub>. It is classified as a sulphinyl benzhydryl molecule, as it also contains a sulphinyl group, a sulfur molecule double-bonded to an oxygen molecule, attached to the carbon of the benzhydryl group. From this sulfur group at R<sub>2</sub>, an acetamide group is bound at its free carbon through a carbonyl group to an amine group. This terminal amine group is N-substituted with a methyl chain. N-methylbisfluoromodafinil is structurally similar to other benzhydryl stimulants modafinil and fluorafinil; it is the bis-fluoro-N-methyl analog of modafinil.\n\nN-methylbisfluoromodafinil is the bis-fluoro-N-methyl analogue to [[modafinil]]; it contains two fluorine groups bound to each benzene ring at carbon 4 and an OH- (hydroxyl) group bound to the amine of modafinil.\n\n==Pharmacology==\n{{pharmacology}}\n\nThis compound has not been subject to any research, besides one paper discussing its chemical properties.<ref name=\"degradation\">{{cite journal | vauthors=((Dowling, G.)), ((Kavanagh, P. V.)), ((Talbot, B.)), ((O’Brien, J.)), ((Hessman, G.)), ((McLaughlin, G.)), ((Twamley, B.)), ((Brandt, S. D.)) | journal=Drug Testing and Analysis | title=Outsmarted by nootropics? An investigation into the thermal degradation of modafinil, modafinic acid, adrafinil, CRL-40,940 and CRL-40,941 in the GC injector: formation of 1,1,2,2-tetraphenylethane and its tetra fluoro analog: Thermal degradation of modafinil, modafinic acid, adrafinil, CRL-40,940 and CRL-40,941 in the GC injector | volume=9 | issue=3 | pages=518–528 | date= March 2017 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.2142 | issn=19427603 | doi=10.1002/dta.2142}}</ref> Even though a pharmacological similarity with [[modafinil]] can be assumed, pharmacological similarity to [[adrafinil]] and [[CRL-40,941]] seems more likely.<ref name=\"degradation\"/> This compound should not be assumed safe in any case, until further, though unlikely, research is conducted.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, N-methylbisfluoromodafinil is commonly considered to be stimulating and energetic, but can be considered as much less stimulating when compared to [[amphetamine]]. This stimulation encourages physical movement and activities such as running, playing sports, socializing, and/or exercising. The particular style of stimulation which N-methylbisfluoromodafinil presents can result in jaw clenching, teeth grinding, or other involuntary movements comparable to that of traditional stimulants at high doses, but are manifested much less consistently and intensely when compared to [[amphetamine]] or [[cocaine]]. {{citation needed}}\n*'''[[Effect::Dehydration]]''' - Dehydration and dry mouth commonly occur due to an increase in motivation to engage in physical activities as well as an increased sense of focus which causes one to forget to drink water. {{citation needed}}\n*'''[[Effect::Headaches]]''' - In terms of physical discomfort, fluorafanil can cause headaches especially if dehydrated, if you have not eaten food or if you have been sitting in an awkward position for an extended period focused intensely on a task. {{citation needed}}\n*'''[[Effect::Appetite suppression]]''' -  The above components are also accompanied by a suppression of appetite which is usually much less intense in strength in comparison to the appetite suppression experienced with [[amphetamine]]. {{citation needed}}\n*'''[[Effect::Diarrhea]]''' - N-methylbisfluoromodafinil has the tendency to increase the frequency of bowel movements in certain individuals.{{citation needed}}\n*'''[[Effect::Increased heart rate]]''' {{citation needed}}\n*'''[[Effect::Dizziness]]''' {{citation needed}}\n*'''[[Effect::Nausea]]''' {{citation needed}}\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Thought acceleration]]\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Anxiety]]'''\n}}\n\n}}\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational N-methylbisfluoromodafinil use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because N-methylbisfluoromodafinil has very little history of human usage. Anecdotal evidence from people who have tried N-methylbisfluoromodafinil within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nThe chronic use of N-methylbisfluoromodafinil can be considered as [[Addiction potential::mildly addictive with a low potential for abuse]] and it does not seem to be capable of causing psychological dependence among certain users due to its lack of euphoria or recreational effects. If addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of N-methylbisfluoromodafinil [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption).{{citation needed}} N-methylbisfluoromodafinil presents cross-tolerance with [[Cross-tolerance::all [[modafanil]] [[analog]]s]], meaning that after the consumption of N-methylbisfluoromodafinil all modafinil analogs will have a reduced effect.{{citation needed}}\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=fluorafinil}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\n{{legalStub}}\n\nN-methylbisfluoromodafinil is currently a gray area compound within most (if not all) parts of the world. This means that it is not known to be specifically illegal within any country, but people may still be charged for its possession under certain circumstances such as under analog laws and with intent to sell or consume.\n*'''United Kingdom''' - It is illegal to produce, supply, or import this substance under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Modafinil]]\n\n==External links==\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2837 N-Methylbisfluoromodafinil (Isomer Design)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n{{#set:Featured=true}}"
+}

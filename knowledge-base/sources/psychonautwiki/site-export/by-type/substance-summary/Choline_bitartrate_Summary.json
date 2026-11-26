@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12203",
+ "type": "substance-summary",
+ "title": "Choline bitartrate/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Choline_bitartrate/Summary",
+  "pageid": 12203,
+  "last_edited": "2016-07-03T14:14:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Choline bitartrate",
+ "plain_text": "",
+ "wikitext": "{{Summary|Choline bitartrate}}"
+}

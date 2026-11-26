@@ -1,0 +1,398 @@
+{
+ "id": "psychonautwiki:13075",
+ "type": "substance",
+ "title": "Temazepam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Temazepam",
+  "pageid": 13075,
+  "last_edited": "2024-05-06T00:09:11Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Benzodiazepine",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Psychoactive substance",
+  "Research chemical",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Temazepam",
+ "substance_box": {
+  "names": {
+   "common": "Temazepam, Restoril, Normison",
+   "substitutive": "Temazepam",
+   "systematic": "7-Chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-1,4-benzodiazepin-2-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "96%",
+    "threshold": "2 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "7 - 8 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "3.5 - 18.4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Temazepam",
+    "Restoril",
+    "Normison"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Benzodiazepine"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "7"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "3.5"
+   ],
+   "Oral max afterglow time": [
+    "18.4"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of temazepam.",
+   "clean": "Molecular structure of temazepam."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Temazepam.svg",
+   "clean": "File:Temazepam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Temazepam]], [[common name::Restoril]], [[common name::Normison]]",
+   "clean": "Temazepam, Restoril, Normison"
+  },
+  "NameSubstitution": {
+   "raw": "Temazepam",
+   "clean": "Temazepam"
+  },
+  "NameSystematic": {
+   "raw": "7-Chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-1,4-benzodiazepin-2-one",
+   "clean": "7-Chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-1,4-benzodiazepin-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "96%<ref name=\"pmid2891534\">{{cite journal  |vauthors=Müller FO, Van Dyk M, Hundt HK, etal |title=Pharmacokinetics of temazepam after day-time and night-time oral administration |journal=Eur. J. Clin. Pharmacol. |volume=33 |issue=2 |pages=211–4 |year=1987 |pmid=2891534 |doi=10.1007/BF00544571}}</ref>",
+   "clean": "96%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::40]] mg",
+   "clean": "30 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +<ref name=\"promonograph\"/>",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::7]] - [[Oral max total time::8]] [[Oral total time units::hours]]<ref name=\"promonograph\"/>",
+   "clean": "7 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]<ref name=\"promonograph\">{{ cite web | author = Collins SR | url = https://books.google.com/books?id=06A_CwAAQBAJ&pg=PA193 | title = Pharmacology and the Nursing Process (2015) | publisher = Elsevier Health Sciences | isbn = 9780323358286 }}</ref>",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3.5]] - [[Oral max afterglow time::18.4]] [[Oral afterglow time units::hours]]<ref name=\"pmid2891534\"/>",
+   "clean": "3.5 - 18.4 hours"
+  }
+ },
+ "plain_text": "Temazepam (trade name Restoril) is a short-acting psychoactive substance of the benzodiazepine class which produces anxiolytic, sedative, hypnotic, muscle relaxant, anticonvulsant, and amnesic effects. Temazepam, like other benzodiazepines, binds to specific sites on the GABAA gamma-amino-butyric acid receptor. \n\nTemazepam is used for the short term treatment of severe and debilitating insomnia and as a preoperative sedative. Oral administration of temazepam in humans resulted in rapid absorption, a fast onset of action and symptomatic relief. Significant blood levels were achieved in 15-30 minutes post-ingestion with peak levels achieved within 30 minutes to 3 three hours. Temazepam is effective for both inducing sleep and for maintaining sleep.\n\nIt's worth noting that the sudden discontinuation of benzodiazepines can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death. It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.\n\nChemistry\n\nTemazepam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. The benzyl ring of temazepam is substituted at R8 with a chlorine group. Further, the diazepine ring is bonded at R5 to a phenyl ring. Temazepam also has a hydroxyl group bonded to the 3-position of the diazepine ring.\n\nTemazepam is a white, crystalline substance, very slightly soluble in water, and sparingly soluble in alcohol.\n\nPharmacology\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter gamma aminobutyric acid (GABA) by acting on its receptors. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of temazepam on the nervous system. When temazepam binds to the GABAA receptor, it causes the Cl- ion pore to open more frequently. The anticonvulsant properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.\n\nIts main pharmacological action is to increase the effect of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABAA receptor. This causes sedation, motor impairment, ataxia, anxiolysis, an anticonvulsant effect, muscle relaxation, and a reinforcing effect. As a medication before surgery, temazepam decreased cortisol in elderly patients. In rats, it triggered the release of vasopressin into paraventricular nucleus of the hypothalamus and decreased the release of ACTH under stress.\n\nIn a single- and multiple-dose absorption, distribution, metabolism, and excretion (ADME) study, using tritium-labelled drug, temazepam was well absorbed and found to have minimal (8%) first-pass drug metabolism. No active metabolites were formed and the only significant metabolite present in blood was the O-conjugate. The unchanged drug was 96% bound to plasma proteins. The blood-level decline of the parent drug was biphasic, with the short half-life ranging from 0.4-0.6 hours and the terminal half-life from 3.5–18.4 hours (mean 8.8 hours), depending on the study population and method of determination.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Temazepam\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.\nTemazepam had the highest rate of drug intoxication, including overdose, among common benzodiazepines in cases with and without combination with alcohol in a 1985 study. Temazepam and nitrazepam were the two benzodiazepines most commonly detected in overdose-related deaths in an Australian study of drug deaths. A 1993 British study found temazepam to have the highest number of deaths per million prescriptions among medications commonly prescribed in the 1980s (11.9, versus 5.9 for benzodiazepines overall, taken with or without alcohol). Temazepam has a fatal toxicity index (FTI) that is higher than some tricyclic antidepressants, and has also caused overdose and death without combining it with other CNS depressants, which is almost unheard of amongst the benzodiazepine class of drugs.\n\nAnother 1995 Australian study of patients admitted to hospital after benzodiazepine overdose corroborated these results, and found temazepam overdose much more likely to lead to coma than other benzodiazepines (odds ratio 1.86). The authors noted several factors, such as differences in potency, receptor affinity, and rate of absorption between benzodiazepines, could explain this higher toxicity.  Although benzodiazepines have a high therapeutic index, temazepam is one of the more dangerous of this class of drugs. The combination of alcohol or opioids and temazepam makes death by alcohol poisoning more likely.\n\nStill, temazepam has a low toxicity relative to dose. However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nIt is strongly recommended that one use harm reduction practices when using this substances. These include volumetric liquid dosing. \n\nDependence and abuse potential\n\nTemazepam is extremely physically and psychologically addictive. Temazepam is considered to be significantly more addictive than other benzodiazepines.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7-14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see this guide.\n\nBenzodiazepine discontinuation is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nTemazepam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect. Temazepam also has cross-tolerance with all barbiturates, meaning that after consumption, all barbiturates will have a diminished effect.\n\nOverdose\n\nBenzodiazepine overdose may occur when a benzodiazepine is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine benzodiazepines with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\nInternationally, Temazepam is included under the United Nations Convention on Psychotropic Substances as a Schedule IV substance.\n\n*Australia: Temazepam is listed in Schedule 4, making it a prescription only medicine.\n*Austria: Temazepam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Temazepam is listed on the CSDA in Schedule IV. It requires a prescription.\n*Germany: Temazepam is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of August 1, 1986. It can only be prescribed on a narcotic prescription form, except preparations which contain up to 20&nbsp;mg temazepam in each dosage form.\n*Hong Kong: Temazepam is listed in Schedule 1.\n*Ireland: Temazepam is listed in Schedule 3 of the Misuse of Drugs Act 1977 as of November 22, 1993.\n*The Netherlands: In the Netherlands, temazepam is a List 2 substance of the Opium Law and is available with a prescription.\n*Portugal: Temazepam is a Schedule IV controlled substance.\n*Russia: Temazepam is a Schedule III controlled substance since 2013.\n*South Africa: Temazepam is a Schedule 5 controlled substance.\n*Sweden: Temazepam is a prescription drug in List IV (Schedule 4) under the Narcotics Drugs Act (1968).\n*Switzerland: Temazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*Thailand: Temazepam is listed in Schedule II of the Psychotropic Substances Act.\n*United Kingdom: Temazepam is a Class C controlled substance under the Misuse of Drugs Act 1971.. Medical professions must follow specific instructions for the prescribing and disposal of temazepam.\n*United States: Temazepam is a prescription medication assigned to Schedule IV of the Controlled Substances Act by the DEA. Many states in the United States require that individuals have specially encoded prescriptions for temazepam.\n\nSee also\n\n*Responsible use\n*Psychoactive substance index\n*Entactogens\n*Alcohol\n*Benzodiazepines\n*Depressants\n\nExternal links\n\n*Temazepam (Wikipedia)\n*Temazepam (Erowid Vault)\n*Temazepam (Isomer Design)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Benzodiazepine\nCategory:Research chemical",
+ "wikitext": "{{headerpanel|{{DepressantOD|benzodiazepines}}}}\n{{SummarySheet}}\n{{SubstanceBox/Temazepam}}\n\n'''Temazepam''' (trade name '''Restoril''') is a short-acting<ref name=\"pmid2891534\">{{cite journal  |vauthors=Müller FO, Van Dyk M, Hundt HK, etal |title=Pharmacokinetics of temazepam after day-time and night-time oral administration |journal=Eur. J. Clin. Pharmacol. |volume=33 |issue=2 |pages=211–4 |year=1987 |pmid=2891534 |doi=10.1007/BF00544571}}</ref> [[psychoactive]] substance of the [[Chemical class::benzodiazepine]] class which produces anxiolytic, sedative, hypnotic, muscle relaxant, [[anticonvulsant]], and amnesic effects.<ref name=\"Mandroili2008\">{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine metabolism: an analytical perspective | volume=9 | issue=8 | pages=827–844 | date= October 2008 | issn=1389-2002 | doi=10.2174/138920008786049258}}</ref> Temazepam, like other [[benzodiazepines]], binds to specific sites on the GABA<sub>A</sub> [[gamma-amino-butyric acid]] receptor. \n\nTemazepam is used for the short term treatment of severe and debilitating insomnia and as a preoperative sedative. Oral administration of temazepam in humans resulted in rapid absorption, a fast onset of action and symptomatic relief. Significant blood levels were achieved in 15-30 minutes post-ingestion with peak levels achieved within 30 minutes to 3 three hours.<ref>{{cite web | url = http://www.rxmed.com/b.main/b2.pharmaceutical/b2.1.monographs/CPS-%20Monographs/CPS-%20(General%20Monographs-%20R)/RESTORIL.html | title = RESTORIL® Novartis Temazepam Hypnotic | work = Pharmaceutical Information | publisher = RxMed }}</ref> Temazepam is effective for both inducing sleep and for maintaining sleep.\n\nIt's worth noting that [[Benzodiazepine#Discontinuation|the sudden discontinuation of benzodiazepines]] can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death.<ref name=\"Lann2009\">{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\n==Chemistry==\nTemazepam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. The benzyl ring of temazepam is substituted at R<sub>8</sub> with a chlorine group. Further, the diazepine ring is bonded at R<sub>5</sub> to a phenyl ring. Temazepam also has a hydroxyl group bonded to the 3-position of the diazepine ring.\n\nTemazepam is a white, crystalline substance, very slightly soluble in water, and sparingly soluble in alcohol.\n\n==Pharmacology==\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by acting on its [[receptor]]s.<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of temazepam on the nervous system. When temazepam binds to the GABA<sub>A</sub> receptor, it causes the Cl<sup>-</sup> ion pore to open more frequently. The [[anticonvulsant]] properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.<ref>{{cite journal | vauthors=((McLean, M. J.)), ((Macdonald, R. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture | volume=244 | issue=2 | pages=789–795 | date= February 1988 | issn=0022-3565}}</ref>\n\nIts main pharmacological action is to increase the effect of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA<sub>A</sub> receptor. This causes sedation, motor impairment, ataxia, anxiolysis, an anticonvulsant effect, muscle relaxation, and a reinforcing effect. As a medication before surgery, temazepam decreased cortisol in elderly patients. In rats, it triggered the release of vasopressin into paraventricular nucleus of the hypothalamus and decreased the release of ACTH under stress.<ref>{{cite journal | vauthors=((Welt, T.)), ((Engelmann, M.)), ((Renner, U.)), ((Erhardt, A.)), ((Müller, M. B.)), ((Landgraf, R.)), ((Holsboer, F.)), ((Keck, M. E.)) | journal=Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology | title=Temazepam triggers the release of vasopressin into the rat hypothalamic paraventricular nucleus: novel insight into benzodiazepine action on hypothalamic-pituitary-adrenocortical system activity during stress | volume=31 | issue=12 | pages=2573–2579 | date= December 2006 | issn=0893-133X | doi=10.1038/sj.npp.1301006}}</ref>\n\nIn a single- and multiple-dose absorption, distribution, metabolism, and excretion (ADME) study, using tritium-labelled drug, temazepam was well absorbed and found to have minimal (8%) first-pass drug metabolism. No active metabolites were formed and the only significant metabolite present in blood was the O-conjugate. The unchanged drug was 96% bound to plasma proteins. The blood-level decline of the parent drug was biphasic, with the short half-life ranging from 0.4-0.6 hours and the terminal half-life from 3.5–18.4 hours (mean 8.8 hours), depending on the study population and method of determination.<ref name=\"pmid2891534\" />\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug has the potential to be extremely sedating and often results in an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Decreased heart rate]]'''\n*'''[[Effect::Perception of bodily heaviness]]''' -  Temazepam is known to cause feelings of heaviness in the body. This effect can range from motor impairment and difficulty moving at lower doses to complete lethargy or inability to stand up or move at high doses.\n*'''[[Effect::Physical euphoria]]''' - The euphoria felt on temazepam is significantly stronger than that felt on other [[benzodiazepine |benzodiazepines]] such as [[alprazolam]].\n\n}}\n{{effects/paradoxical|\n\nParadoxical reactions  to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>http://www.ncbi.nlm.nih.gov/pubmed/18922233 | Saïas T, Gallarda T | Paradoxical aggressive reactions to benzodiazepine use: a review</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref>\n\nThese paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref>\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of temazepam can be broken down into several components which progressively intensify proportional to dosage. The general head space of temazepam is described by many as one of intense sedation, relaxation, anxiety suppression and decreased inhibition. It contains a large number of typical [[Psychoactive class::depressant]] cognitive effects.\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Cognitive euphoria]]''' - The euphoria felt on temazepam is significantly stronger than that felt on other [[benzodiazepine |benzodiazepines]] such as [[alprazolam]].\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Emotion suppression]]''' - Although this compound primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotic]]s.\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n*'''[[Effect::Memory suppression]]''' - Temazepam primarily suppresses short-term memory, resulting in forgetfulness, and/or disorganized behaviors.\n*'''[[Effect::Confusion]]''' - At heavy doses, temazepam can cause confusion. This effect is a result of the drug suppressing basic cognitive functions at heavy doses, such as comprehension, memory, and reasoning skills.\n*'''[[Effect::Motivation suppression]]''' - Due to temazepam's heavy sedation and lethargy, doing any type of activity that requires moving, or high amounts of effort may be difficult to do on this compound, especially at higher doses.\n*'''[[Effect::Language suppression]]''' - Temazepam is known to cause slurred speech and difficulty communicating words in a clear fashion.\n*'''[[Effect::Dream potentiation]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Temazepam.shtml Erowid Experience Vaults: Temazepam]\n\n==Toxicity and harm potential==\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\nTemazepam had the highest rate of drug intoxication, including overdose, among common benzodiazepines in cases with and without combination with alcohol in a 1985 study.<ref name=\"pmid12474705\">{{cite journal |author1=Buckley N. A. |author2=Dawson, A. H. |author3=Whyte, I. M. |author4=O'Connell, D. L. | title = Relative toxicity of benzodiazepines in overdose  | journal = BMJ | year = 1995 | volume = 310 | issue = 6974 | pages = 219–221 | pmid = 7866122 | pmc = 2548618 | doi = 10.1136/bmj.310.6974.219 }}</ref> Temazepam and nitrazepam were the two benzodiazepines most commonly detected in overdose-related deaths in an [[Australia]]n study of drug deaths.<ref>{{cite journal |author=Drummer OH |author2=Ranson DL  |date=December 1996 |title=Sudden death and benzodiazepines |journal=Am J Forensic Med Pathol |volume=17 |issue=4 |pages=336–42 |pmid=8947361 |doi=10.1097/00000433-199612000-00012}}</ref> A 1993 British study found temazepam to have the highest number of deaths per million prescriptions among medications commonly prescribed in the 1980s (11.9, versus 5.9 for benzodiazepines overall, taken with or without alcohol). Temazepam has a fatal toxicity index (FTI) that is higher than some tricyclic antidepressants, and has also caused overdose and death without combining it with other CNS depressants, which is almost unheard of amongst the benzodiazepine class of drugs.<ref>{{cite journal |vauthors=Serfaty M, Masterton G |title=Fatal poisonings attributed to benzodiazepines in Britain during the 1980s |journal=Br J Psychiatry |volume=163 |issue= 3|pages=386–93 |year=1993 |pmid=8104653 |doi=10.1192/bjp.163.3.386 |url=https://semanticscholar.org/paper/7a5c3a2ba1b11880d45c56c1a0ae7b513dddaa32 }}</ref>\n\nAnother 1995 Australian study of patients admitted to hospital after benzodiazepine overdose corroborated these results, and found temazepam overdose much more likely to lead to coma than other benzodiazepines ([[odds ratio]] 1.86). The authors noted several factors, such as differences in potency, [[Affinity (pharmacology)|receptor affinity]], and rate of absorption between benzodiazepines, could explain this higher toxicity.  Although benzodiazepines have a high [[therapeutic index]], temazepam is one of the more dangerous of this [[chemical classification|class]] of [[drugs]]. The combination of alcohol or opioids and temazepam makes death by alcohol poisoning more likely.\n\nStill, temazepam has a [[Toxicity::low toxicity]] relative to dose.<ref name=\"Mandroili2008\" /> However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substances. These include [[volumetric liquid dosing]]. \n\n===Dependence and abuse potential===\n{{toxicity}}\nTemazepam is [[Addiction potential::extremely physically and psychologically addictive]]. Temazepam is considered to be significantly more addictive than other benzodiazepines.\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]].<ref>{{cite book | vauthors=((Janicak, P. G.)), ((Marder, S. R.)), ((Pavuluri, M. N.)) | date=25 October 2010 | title=Principles and Practice of Psychopharmacotherapy | publisher=Lippincott Williams & Wilkins | isbn=9781605475653}}\n</ref> After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7-14 days]]. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.<ref>{{cite journal | vauthors=((Verster, J. C.)), ((Volkerts, E. R.)) | journal=CNS Drug Reviews | title=Clinical Pharmacology, Clinical Efficacy, and Behavioral Toxicity of Alprazolam: A Review of the Literature | volume=10 | issue=1 | pages=45–76 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2004.tb00003.x | issn=1080563X | doi=10.1111/j.1527-3458.2004.tb00003.x}}</ref><ref>{{cite book | vauthors=((Galanter, M.)), ((Kleber, H. D.)) | date= 2008 | title=The American Psychiatric Publishing Textbook of Substance Abuse Treatment | publisher=American Psychiatric Pub. | isbn=9781585622764}}\n</ref> For more information on tapering from benzodiazepines in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide].\n\n[[Benzodiazepine#Discontinuation|Benzodiazepine discontinuation]] is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of [[hypertension]], [[seizures]], and death.<ref name=\"Lann2009\" /> Drugs which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\nTemazepam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption all benzodiazepines will have a reduced effect. Temazepam also has cross-tolerance with all barbiturates, meaning that after consumption, all barbiturates will have a diminished effect.\n\n===Overdose===\nBenzodiazepine overdose may occur when a [[benzodiazepine]] is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as [[barbiturate |barbiturates]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with [[flumazenil]], a GABA<sub>A</sub> antagonist<ref>{{cite journal | vauthors=((Hoffman, E. J.)), ((Warren, E. W.)) | journal=Clinical Pharmacy | title=Flumazenil: a benzodiazepine antagonist | volume=12 | issue=9 | pages=641–656; quiz 699–701 | date= September 1993 | issn=0278-2677}}</ref>, however care is primarily supportive in nature.\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption.\n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  It is dangerous to combine benzodiazepines with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified [[disinhibition]] as well as [[benzodiazepine#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\nInternationally, Temazepam is included under the United Nations Convention on Psychotropic Substances as a Schedule IV substance.<ref>List of Psychotropic Substances under International Control | http://www.incb.org/documents/Psychotropics/green_lists/Green_list_ENG_2014_85222_GHB.pdf</ref>\n\n*'''Australia''': Temazepam is listed in Schedule 4, making it a prescription only medicine.{{citation needed}}\n*'''Austria''': Temazepam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada''': Temazepam is listed on the CSDA in Schedule IV.<ref>{{cite web|url=https://www.laws-lois.justice.gc.ca/eng/acts/C-38.8/page-16.html#h-95661|title=Controlled Drugs and Substances Act - SCHEDULE IV|publisher=Government of Canada|access-date=December 29, 2019}}</ref> It requires a prescription.\n*'''Germany''': Temazepam is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'')<ref name=\"BtMG_AnlageIII\">{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 26, 2019|language=de}}</ref> as of August 1, 1986.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl186s1099.pdf|title=Zweite Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 1986 Teil I Nr. 36|publication-date=July 29, 1986|access-date=December 26, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form, except preparations which contain up to 20&nbsp;mg temazepam in each dosage form.<ref name=\"BtMG_AnlageIII\"></ref>\n*'''Hong Kong''': Temazepam is listed in Schedule 1.{{citation needed}}\n*'''Ireland''': Temazepam is listed in Schedule 3 of the Misuse of Drugs Act 1977 as of November 22, 1993.<ref>{{cite web|url=http://www.irishstatutebook.ie/eli/1993/si/342/made/en/print|title=S.I. No. 342/1993 - Misuse of Drugs (Amendment) Regulations, 1993.|publisher=Government of Ireland|access-date=December 29, 2019}}</ref>\n*'''The Netherlands''': In the Netherlands, temazepam is a List 2 substance of the Opium Law and is available with a prescription.{{citation needed}}\n*'''Portugal''': Temazepam is a Schedule IV controlled substance.<ref>{{cite web|url=http://www.infarmed.pt/portal/page/portal/INFARMED/LEGISLACAO/LEGISLACAO_FARMACEUTICA_COMPILADA/TITULO_III/TITULO_III_CAPITULO_III/068-DL_15_93_VF.pdf|title=Decreto-Lei n.º 15/93, de 22 de Janeiro|publisher=Infarmed|access-date=December 29, 2019 |archive-url=https://web.archive.org/web/20120425062314/http://www.infarmed.pt/portal/page/portal/INFARMED/LEGISLACAO/LEGISLACAO_FARMACEUTICA_COMPILADA/TITULO_III/TITULO_III_CAPITULO_III/068-DL_15_93_VF.pdf|archive-date=April 25, 2010}}</ref>\n*'''Russia''': Temazepam is a Schedule III controlled substance since 2013.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100005&date=02.12.2019}}</ref>\n*'''South Africa''': Temazepam is a Schedule 5 controlled substance.{{citation needed}}\n*'''Sweden''': Temazepam is a prescription drug in List IV (Schedule 4) under the Narcotics Drugs Act (1968).<ref>\"Läkemedelsverkets föreskrifter (LVFS 2011:10) om förteckningar över narkotika\" [Medical Products Agency on the lists of drugs] | http://www.lakemedelsverket.se/upload/lvfs/konsoliderade/LVFS_2011_10_konsoliderad_tom_2012_6.pdf</ref>\n*'''Switzerland''': Temazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Thailand''': Temazepam is listed in Schedule II of the Psychotropic Substances Act.{{citation needed}}\n*'''United Kingdom''': Temazepam is a Class C controlled substance under the Misuse of Drugs Act 1971.<ref>{{Citation | vauthors=((Participation, E.)) | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedules}}</ref>. Medical professions must follow specific instructions for the prescribing and disposal of temazepam.\n*'''United States''': Temazepam is a prescription medication assigned to Schedule IV of the Controlled Substances Act by the DEA.<ref>DEA, Drug Scheduling | http://www.deadiversion.usdoj.gov/schedules/index.html</ref> Many states in the United States require that individuals have specially encoded prescriptions for temazepam.\n\n==See also==\n\n*[[Responsible use]]\n*[[Psychoactive substance index]]\n*[[Entactogens]]\n*[[Alcohol]]\n*[[Benzodiazepines]]\n*[[Depressants]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/temazepam Temazepam (Wikipedia)]\n*[https://www.erowid.org/pharms/temazepam/temazepam.shtml Temazepam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3032 Temazepam (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Benzodiazepine]]\n[[Category:Research chemical]]"
+}

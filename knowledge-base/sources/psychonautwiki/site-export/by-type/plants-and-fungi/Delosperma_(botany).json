@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:11384",
+ "type": "plants-and-fungi",
+ "title": "Delosperma (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Delosperma_%28botany%29",
+  "pageid": 11384,
+  "last_edited": "2025-11-29T04:22:09Z"
+ },
+ "categories": [
+  "DMT-containing plants",
+  "Plant",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Delosperma (Wikipedia)\n\nCategory:Plant\ncategory:DMT-containing plants",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Delosperma}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Delosperma ''Delosperma'' (Wikipedia)]\n\n[[Category:Plant]]\n[[category:DMT-containing plants]]"
+}

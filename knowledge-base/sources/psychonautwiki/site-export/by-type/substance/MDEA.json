@@ -1,0 +1,428 @@
+{
+ "id": "psychonautwiki:13440",
+ "type": "substance",
+ "title": "MDEA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MDEA",
+  "pageid": 13440,
+  "last_edited": "2024-12-09T21:44:05Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Entactogen",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/MDEA",
+ "substance_box": {
+  "names": {
+   "common": "MDEA, MDE, Eve",
+   "substitutive": "3,4-Methylenedioxy-N-ethylamphetamine",
+   "systematic": "(RS)-1-(benzo[d][1,3]dioxol-5-yl)-N-ethylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen",
+   "chemical": "Substituted amphetamine / MDxx"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "40 mg",
+    "light": "70 - 120 mg",
+    "common": "120 - 180 mg",
+    "strong": "180 - 225 mg",
+    "heavy": "225 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "1.5 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "12 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "MDEA",
+    "MDE",
+    "Eve"
+   ],
+   "psychoactive class": [
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Substituted amphetamine",
+    "MDxx"
+   ],
+   "Oral threshold dose": [
+    "40"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "70"
+   ],
+   "Oral max light dose": [
+    "120"
+   ],
+   "Oral min common dose": [
+    "120"
+   ],
+   "Oral max common dose": [
+    "180"
+   ],
+   "Oral min strong dose": [
+    "180"
+   ],
+   "Oral max strong dose": [
+    "225"
+   ],
+   "Oral heavy dose": [
+    "225"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "30"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "12"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of MDEA",
+   "clean": "Molecular structure of MDEA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:MDEA.svg",
+   "clean": "File:MDEA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::MDEA]], [[common name::MDE]], [[common name::Eve]]",
+   "clean": "MDEA, MDE, Eve"
+  },
+  "NameSubstitution": {
+   "raw": "3,4-Methylenedioxy-N-ethylamphetamine",
+   "clean": "3,4-Methylenedioxy-N-ethylamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-1-(benzo[d][1,3]dioxol-5-yl)-N-ethylpropan-2-amine",
+   "clean": "(RS)-1-(benzo[d][1,3]dioxol-5-yl)-N-ethylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Entactogen]]",
+   "clean": "Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]] / [[chemical class::MDxx]]",
+   "clean": "Substituted amphetamine / MDxx"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::40]] [[Oral dose units::mg]]",
+   "clean": "40 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::70]] - [[Oral max light dose::120]] mg",
+   "clean": "70 - 120 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::120]] - [[Oral max common dose::180]] mg",
+   "clean": "120 - 180 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::180]] - [[Oral max strong dose::225]] mg",
+   "clean": "180 - 225 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::225]] mg +",
+   "clean": "225 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::30]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::12]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "12 - 48 hours"
+  }
+ },
+ "plain_text": "3,4-Methylenedioxy-N-ethylamphetamine (also known as MDEA, MDE, and colloquially as Eve) is a lesser-known entactogen substance of the amphetamine class. MDEA is chemically similar to MDMA and MDA. It produces its effects by increasing levels of serotonin, norepinephrine, and dopamine in the brain.\n\nThe first recorded human use of MDEA was in 1976 by Alexander Shulgin, who noted its similarity to MDMA in both effects and potency, though faster to act and shorter in duration. The synthesis and pharmacological evaluation of MDEA and a series of related compounds were published in 1980. MDEA is included in Shulgin's 1991 book \"PiHKAL\" (\"Phenethylamines I Have Known and Loved\").\n\nIn the United States, MDEA was introduced recreationally in 1985 as a legal substitute to the newly banned MDMA before it was made a Schedule I substance two years later. Since then, MDEA has rarely been sold on its own and has largely been used as an occasional additive or substitute ingredient in pills of \"Ecstasy\".\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MDEA,. As a result it is highly advised to approach this potentially habit-forming entactogenic substance with the proper amount of precaution and harm reduction practices if choosing to use it.\n\nHistory and culture\n\nIn the United States, MDEA was introduced recreationally in 1985 as a legal substitute to the newly banned MDMA before it was made a Schedule I substance two years later on August 13, 1987 under the Federal Analogue Act. Since then, MDEA has rarely been sold on its own and has largely been used as an occasional additive or substitute ingredient in pills of \"Ecstasy\" (for instance, studies conducted in the 1990s found MDEA present in approximately four percent of ecstasy tablets).\n\nWhile MDEA shares many of the core entactogenic properties of MDMA, it is slightly less potent and considered to be more \"stoning\", lacking the pro-socializing and energizing \"magic\" most party-goers seek in their MDMA experiences. As a result, it is largely considered by most people to be a less desirable variant of MDMA and is thus rarely produced and sold in the illicit drug market, typically showing up only in small batches synthesized and distributed by hobbyist clandestine chemists.\n\nChemistry\n\nthumb|right|253px|thumb|right||Generic structure of a phenethylamine molecule\nMDEA, also known as 3,4-Methylenedioxy-N-ethylamphetamine, is a synthetic molecule of the substituted amphetamine chemical class.  Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. Additionally, MDEA contains an ethyl substitution on RN, which is a single carbon extension of the methyl group present in MDMA. MDEA also contains substitutions at R3 and R4 of the phenyl ring with oxygen groups that are incorporated into a methylenedioxy ring through a methylene bridge. MDEA shares this methylenedioxy ring with other entactogens like MDMA, MDA and MDAI.\n\nPharmacology\n\nMDEA acts as a releasing agent and reuptake inhibitor of the monoamine neurotransmitters serotonin, dopamine and noradrenaline. These neurotransmitters are responsible for modulating focus, motivation, pleasure, and reward. \n\nThe \"stoning\" effects of MDEA are thought to arise from the higher relative activity MDEA has on releasing serotonin over dopamine compared to MDMA.\n\nMDEA stimulates the release of oxytocin and prolactin, two hormones that are currently being studied for their potential roles in modulating the feeling of trust and love.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: MDEA\n\nToxicity and harm potential\n\nShort-term physical health risks of MDEA consumption include dehydration, insomnia, hyperthermia, and hyponatremia. Continuous activity without sufficient rest or rehydration may cause body temperature to rise to dangerous levels, and loss of fluid via excessive perspiration puts the body at further risk as the stimulatory and euphoric qualities of the drug may render the user oblivious to their energy expenditure for quite some time. Diuretics such as alcohol may exacerbate these risks further.\n\nThe exact toxic dosage is unknown, but considered to be far greater than its active dose.\n\nNeurotoxicity\n\nAs with MDMA, the neurotoxicity of MDEA use has long been the subject of debate. Scientific study has resulted in the general agreement that, although it is physically safe to try in a responsible context, the administration of repeated or high dosages of MDEA is likely to be neurotoxic and cardiotoxic in some form.\n\nLike other powerful serotonin releasing agents, MDEA is thought to cause down-regulation of serotonin reuptake transporters in the brain. The rate at which the brain recovers from serotonergic changes is unclear. One study demonstrated lasting serotonergic changes in some animals exposed to MDMA, which likely applies to MDEA as well. Other studies have suggested that the brain may recover from serotonergic damage.\n\nCardiotoxicity\n\nLike with MDMA, the long-term heavy use of MDEA is likely similarly cardiotoxic, leading to valvulopathy through its actions on the 5-HT2B receptor. In one study, 28% of long-term MDMA users (2-3 doses per week for a mean of 6 years, mean of age 24.3 years) had developed clinically evident valvular heart disease.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of MDEA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MDEA develops with prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 1-1.5 months for the tolerance to be reduced to half and 2-3 months to be back at baseline (in the absence of further consumption). MDEA presents cross-tolerance with all serotonergic stimulants and entactogens]], meaning that after the consumption of MDEA all of these will have a reduced effect.\n\nDangerous interactions\n\n*Stimulants - The neurotoxic effects of MDEA may be increased when combined with other stimulants.\n*Cocaine - This combination may increase strain on the heart.\n\nSerotonin syndrome risk\n\nThere is an increased risk of serotonin syndrome when MDEA is taken with many antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs). Additionally, if MDEA is taken with SSRIs and SNRIs, the MDEA will be significantly less powerful or may have no distinguishable effects at all.\n\nLegal status\n\nInternationally, MDEA is part of the the Convention on Psychotropic Substances of 1971 as a Schedule I substance. (MDE)\n*Austria: MDEA is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Brazil: MDEA is illegal to possess, produce or sell as it is listed on Portaria SVS/MS nº 344 as \"MDE\".\n*Canada: MDEA  is listed on the CSDA in Schedule I.\n*France: MDEA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*Germany: MDEA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of April 15, 1991. It is illegal to manufacture, possess, import, export, buy, sell, procure or to dispense it without a license. (MDE)  \n*Switzerland: MDEA is a controlled substance specifically named under Verzeichnis D.\n*United Kingdom: MDEA is a Class A drug.\n*United States: MDEA is a Schedule I drug.\n\nSee also\n\n*Responsible use\n*Entactogen\n*Stimulant\n*Phenethylamine\n*MDMA\n*MDA\n\nExternal links\n\n*MDEA (Wikipedia)\n*MDEA (Erowid Vault)\n*MDEA (PiHKAL / Isomer Design)\n*MDEA (DrugBank)\n\nLiterature\n\n* Freudenmann RW, Spitzer M (2004). The Neuropsychopharmacology and Toxicology of 3,4-methylenedioxy-N-ethyl-amphetamine (MDEA). CNS Drug Reviews. 10 (2): 89–116. https://doi.org/10.1111/j.1527-3458.2004.tb00007.x. PMID 15179441.\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Amphetamine\nCategory:Entactogen",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/MDEA}}\n\n'''3,4-Methylenedioxy-N-ethylamphetamine''' (also known as '''MDEA''', '''MDE''', and colloquially as '''Eve''') is a lesser-known [[Psychoactive class::entactogen]] substance of the [[Chemical class::amphetamine]] class. MDEA is chemically similar to [[MDMA]] and [[MDA]].<ref name=\"Isomer Design\">{{cite web|title=Read #22 2C-C {{!}} PiHKAL · info|url=http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=22|website=isomerdesign.com}}</ref> It produces its effects by increasing levels of [[serotonin]], [[norepinephrine]], and [[dopamine]] in the brain.<ref name=\"MDEApharm\">{{cite journal | vauthors=((Freudenmann, R. W.)), ((Spitzer, M.)) | journal=CNS drug reviews | title=The Neuropsychopharmacology and Toxicology of 3,4-methylenedioxy-N-ethyl-amphetamine (MDEA) | volume=10 | issue=2 | pages=89–116 | date= 2004 | issn=1080-563X | doi=10.1111/j.1527-3458.2004.tb00007.x}}</ref>\n\nThe first recorded human use of MDEA was in 1976 by [[Alexander Shulgin]], who noted its similarity to [[MDMA]] in both effects and potency, though faster to act and shorter in duration.<ref>Shulgin, Alexander. \"Pharmacology Lab Notes #2\". Lafayette, CA. (1976-1980). p206 (Erowid.org) | https://erowid.org/library/books_online/shulgin_labbooks/shulgin_labbook2_searchable.pdf</ref> The synthesis and pharmacological evaluation of MDEA and a series of related compounds were published in 1980.<ref>{{cite journal | vauthors=((Braun, U.)), ((Shulgin, A. T.)), ((Braun, G.)) | journal=Journal of Pharmaceutical Sciences | title=Centrally active N-substituted analogs of 3,4-methylenedioxyphenylisopropylamine (3,4-methylenedioxyamphetamine) | volume=69 | issue=2 | pages=192–195 | date= February 1980 | issn=0022-3549 | doi=10.1002/jps.2600690220}}</ref> MDEA is included in Shulgin's 1991 book \"[[PiHKAL]]\" (\"[[Phenethylamine]]s I Have Known and Loved\").<ref name=\"Isomer Design\" />\n\nIn the United States, MDEA was introduced recreationally in 1985 as a legal substitute to the newly banned MDMA before it was made a Schedule I substance two years later.<ref name=\"MDEPiHKAL\">{{Citation | title=Read #106 MDE - PiHKAL · info | url=http://isomerdesign.com/PiHKAL/read.php?domain=pk&id=106}}</ref> Since then, MDEA has rarely been sold on its own and has largely been used as an occasional additive or substitute ingredient in pills of \"Ecstasy\".<ref name=\"MDEApharm\" />\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MDEA,. As a result it is highly advised to approach this potentially habit-forming [[entactogenic]] substance with the proper amount of precaution and [[Responsible drug use#Hallucinogens|harm reduction practices]] if choosing to use it.\n\n==History and culture==\n{{historyStub}}\nIn the United States, MDEA was introduced recreationally in 1985 as a legal substitute to the newly banned MDMA before it was made a Schedule I substance two years later on August 13, 1987 under the Federal Analogue Act.<ref name=\"MDEPiHKAL\"/> Since then, MDEA has rarely been sold on its own and has largely been used as an occasional additive or substitute ingredient in pills of \"Ecstasy\" (for instance, studies conducted in the 1990s found MDEA present in approximately four percent of ecstasy tablets).<ref name=\"MDEApharm\" />\n\nWhile MDEA shares many of the core entactogenic properties of MDMA, it is slightly less potent and considered to be more \"stoning\", lacking the pro-socializing and energizing \"magic\" most party-goers seek in their MDMA experiences. As a result, it is largely considered by most people to be a less desirable variant of MDMA and is thus rarely produced and sold in the illicit drug market, typically showing up only in small batches synthesized and distributed by hobbyist clandestine chemists.{{citation needed}}\n\n==Chemistry==\n[[File:Phenethylamine.png|thumb|right|253px|thumb|right||Generic structure of a phenethylamine molecule]]\nMDEA, also known as 3,4-Methylenedioxy-N-ethylamphetamine, is a synthetic molecule of the [[Substituted amphetamine|substituted amphetamine]] chemical class.  Molecules of the amphetamine class contain a [[phenethylamine]] core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. Additionally, MDEA contains an ethyl substitution on R<sub>N</sub>, which is a single carbon extension of the methyl group present in MDMA. MDEA also contains substitutions at R<sub>3</sub> and R<sub>4</sub> of the phenyl ring with oxygen groups that are incorporated into a methylenedioxy ring through a methylene bridge. MDEA shares this methylenedioxy ring with other [[entactogens]] like [[MDMA]], [[MDA]] and [[MDAI]].\n\n==Pharmacology==\nMDEA acts as a [[releasing agent]] and [[reuptake inhibitor]] of the [[monoamine]] [[neurotransmitters]] [[serotonin]], [[dopamine]] and [[noradrenaline]]<ref name=\"MDEApharm\" />. These neurotransmitters are responsible for modulating focus, motivation, pleasure, and reward. \n\nThe \"stoning\" effects of MDEA are thought to arise from the higher relative activity MDEA has on releasing serotonin over dopamine compared to MDMA.\n\nMDEA stimulates the release of oxytocin and prolactin, two hormones that are currently being studied for their potential roles in modulating the feeling of trust and love.<ref>{{cite book | vauthors=((Passie, T.)) | date= 2012 | title=Healing with entactogens: therapist and patient perspectives on MDMA-assisted group psychotherapy | publisher=Multidisciplinary Association for Psychedelic Studies (MAPS) | isbn=9780979862274}}</ref>\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' - In terms of its effects on the user's physical energy levels, MDEA is commonly regarded as significantly less stimulating and energizing than MDMA, while still retaining its core entactogenic effects. Unlike MDMA, which encourages activities such as running, climbing and dancing in a way that makes it a popular choice for musical events such as festivals and raves. The distinct style of stimulation which MDEA presents can be described as mildly to moderately forced, trending more towards sedation and relaxation. This means that at higher doses, it becomes difficult or impossible to keep still as jaw clenching, involuntarily body shakes and vibrations become present, resulting in an extreme unsteadiness of the hands and a general lack of motor control, though to a far lesser degree than with MDMA. \n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of MDEA can be characterized as a moderate to extreme euphoric relaxing sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses to the point of \"flooring\" or immobilizing the user. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached, before steadily dropping off.\n**'''[[Effect::Physical euphoria]]'''\n**'''[[Effect::Perception of bodily heaviness]]''' - This effect, combined with sedation, is possibly the basis for why MDEA is frequently characterized as \"stoning\" relative to other [[entactogens]], which often have more pronounced [[stimulating]] effects.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Vibrating vision]]''' - At high doses, a person's eyeballs may begin to spontaneously wiggle back and forth in a rapid motion, causing the vision to become blurry and temporarily out of focus. This is a condition known as [http://en.wikipedia.org/wiki/Nystagmus nystagmus].\n*'''[[Effect::Temperature regulation suppression]]''' - As MDEA is a serotonin releasing agent, rise in core body temperature tends to be high and consistent throughout the experience. Caution must be taken as too high of a dose results in [[serotonin syndrome]] which can be fatal if left untreated.\n**'''[[Effect::Increased bodily temperature]]''' - As MDEA is a serotonin releasing agent, rise in core body temperature tends to be high and consistent throughout the experience. Caution must be taken as too high of a dose results in [[serotonin syndrome]] which can be fatal if left untreated.\n*'''[[Effect::Dehydration]]''' - Like related entactogenic stimulants, feelings of dry mouth and dehydration are a universal experience with MDEA; this effect is a product of an [[increased heart rate]] and metabolism. While it is important to avoid becoming dehydrated (especially when out dancing in a hot environment) there have been a number of users who have suffered from [https://en.wikipedia.org/wiki/Water_intoxication water intoxication] through over-drinking, so it is advised that users simply sip at the water and never over-drink.\n*'''[[Effect::Difficulty urinating]]''' - Higher doses of MDEA result in an overall difficulty when it comes to urination. This is an effect that is completely temporary and harmless. It is caused by MDEA’s promotion of the release of anti-diuretic hormone (ADH); ADH is responsible for regulating urination. This effect can be lessened by simply relaxing, but can be significantly relieved by placing a hot flannel over the genitals to warm them up and encourage blood flow.\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Brain zaps]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Teeth grinding]]''' - This component is usually only present in the higher dose range, and to a lesser extent than the teeth grinding associated with MDMA. \n*'''[[Effect::Temporary erectile dysfunction]]'''\n\n}}\n\n{{effects/visual|\n\n====Enhancements====\nMDEA presents an array of visual enhancements which are mild in comparison to traditional psychedelics, but still distinctively present. These generally include:\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n====Suppressions====\n*'''[[Effect::Double vision]]'''\n\n====Distortions====\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n\n====Hallucinatory states====\nMDEA is capable of producing a unique range of low and high-level hallucinatory states in a fashion that is significantly less consistent and reproducible than that of many other commonly used [[psychedelics]]. These effects are far more common during the [[Duration#Offset|offset]] of the experience and commonly include:\n*'''[[Effect::Peripheral information misinterpretation]]\n\n}}\n\n|{{effects/cognitive|\nThe cognitive effects of MDEA can be broken down into several components which progressively intensify proportional to dosage. The broad head space of MDEA is described by many as one of moderate mental stimulation, feelings of love, warmth or empathy and powerful relaxing euphoria. It contains a large number of typical [[Psychedelics|psychedelic]], [[Entactogens|entactogenic]] and [[Stimulants|stimulating]] cognitive effects. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This particular effect is present, but not nearly as consistent, pronounced, powerful and therapeutic than one would experience with MDMA With time and repeated use, however, this effect becomes severely diminished as the perspective it instills becomes fully grounded and already in place, making people feel merely stimulated and euphoric with no new found urges to communicate, with others. Some users report that MDEA \"loses its magic\" with as few as 10 experiences, while others have reported hundreds of uses before the empathic qualities disappear. This does not appear to be valid for all users, however, with many users reporting that they have not experienced any decrease in quality of the experience despite dozens or even hundreds of uses.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Strong emotional euphoria and feelings of happiness are present within MDEA and are likely a direct result of serotonin and dopamine release.\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Time distortion]]''' - Strong feelings of time compression are common within MDEA and speed up the experience of time quite noticeably.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate doses of anything higher will usually impair concentration.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n\n}}\n\n{{effects/transpersonal|\n*'''[[Effect::Existential self-realization]]''' \n*'''[[Effect::Unity and interconnectedness]]''' - Experiences of unity, oneness and interconnectedness between level 1 - 2 are common within MDEA.{{citation needed}}\n\n}}\n\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Dream potentiation]]''' & '''[[Effect::Dream suppression]]''' - Some users note extremely strange, vivid and sometimes rather scary dreams for several nights after taking large doses of MDEA.\n*'''[[Sleep paralysis]]''' - Some users note sleep paralysis after consuming MDEA, particularly in high doses or in conjunction with other factors such as lack of sleep or physical fatigue.\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://erowid.org/experiences/subs/exp_MDE.shtml Erowid Experience Vaults: MDEA]\n\n==Toxicity and harm potential==\nShort-term physical health risks of MDEA consumption include [[dehydration]], [[insomnia]], [[hyperthermia]],<ref>{{cite journal | vauthors=((Nimmo, S. M.)), ((Kennedy, B. W.)), ((Tullett, W. M.)), ((Blyth, A. S.)), ((Dougall, J. R.)) | journal=Anaesthesia | title=Drug-induced hyperthermia | volume=48 | issue=10 | pages=892–895 | date= October 1993 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2044.1993.tb07423.x | issn=0003-2409 | doi=10.1111/j.1365-2044.1993.tb07423.x}}</ref><ref>{{cite journal | vauthors=((Malberg, J. E.)), ((Seiden, L. S.)) | journal=The Journal of Neuroscience: The Official Journal of the Society for Neuroscience | title=Small changes in ambient temperature cause large changes in 3,4-methylenedioxymethamphetamine (MDMA)-induced serotonin neurotoxicity and core body temperature in the rat | volume=18 | issue=13 | pages=5086–5094 | date=1 July 1998 | issn=0270-6474}}</ref> and hyponatremia.<ref>{{cite journal | vauthors=((Wolff, K.)), ((Tsapakis, E. M.)), ((Winstock, A. R.)), ((Hartley, D.)), ((Holt, D.)), ((Forsling, M. L.)), ((Aitchison, K. J.)) | journal=Journal of Psychopharmacology | title=Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population | volume=20 | issue=3 | pages=400–410 | date= May 2006 | url=http://journals.sagepub.com/doi/10.1177/0269881106061514 | issn=0269-8811 | doi=10.1177/0269881106061514}}</ref> Continuous activity without sufficient rest or rehydration may cause body temperature to rise to dangerous levels, and loss of fluid via excessive perspiration puts the body at further risk as the stimulatory and euphoric qualities of the drug may render the user oblivious to their energy expenditure for quite some time. Diuretics such as alcohol may exacerbate these risks further.\n\nThe [[Toxicity::exact toxic dosage is unknown]], but considered to be far greater than its active dose.\n\n===Neurotoxicity===\nAs with MDMA, the neurotoxicity of MDEA use has long been the subject of debate. Scientific study has resulted in the general agreement that, although it is physically safe to try in a responsible context, the administration of repeated or high dosages of MDEA is likely to be neurotoxic and cardiotoxic in some form.\n\nLike other powerful serotonin releasing agents, MDEA is thought to cause down-regulation of [[serotonin]] reuptake transporters in the brain. The rate at which the brain recovers from serotonergic changes is unclear. One study demonstrated lasting serotonergic changes in some animals exposed to MDMA, which likely applies to MDEA as well.<ref>{{cite journal | vauthors=((Fischer, C.)), ((Hatzidimitriou, G.)), ((Wlos, J.)), ((Katz, J.)), ((Ricaurte, G.)) | journal=The Journal of Neuroscience: The Official Journal of the Society for Neuroscience | title=Reorganization of ascending 5-HT axon projections in animals previously exposed to the recreational drug (+/-)3,4-methylenedioxymethamphetamine (MDMA, “ecstasy”) | volume=15 | issue=8 | pages=5476–5485 | date= August 1995 | issn=0270-6474}}</ref> Other studies have suggested that the brain may recover from serotonergic damage.<ref>{{cite journal | vauthors=((Scheffel, U.)), ((Szabo, Z.)), ((Mathews, W. B.)), ((Finley, P. A.)), ((Dannals, R. F.)), ((Ravert, H. T.)), ((Szabo, K.)), ((Yuan, J.)), ((Ricaurte, G. A.)) | journal=Synapse (New York, N.Y.) | title=In vivo detection of short- and long-term MDMA neurotoxicity--a positron emission tomography study in the living baboon brain | volume=29 | issue=2 | pages=183–192 | date= June 1998 | issn=0887-4476 | doi=10.1002/(SICI)1098-2396(199806)29:2<183::AID-SYN9>3.0.CO;2-3}}</ref><ref>{{cite journal | vauthors=((Reneman, L.)), ((Lavalaye, J.)), ((Schmand, B.)), ((Wolff, F. A. de)), ((Brink, W. van den)), ((Heeten, G. J. den)), ((Booij, J.)) | journal=Archives of General Psychiatry | title=Cortical Serotonin Transporter Density and Verbal Memory in Individuals Who Stopped Using 3,4-Methylenedioxymethamphetamine (MDMA or “Ecstasy”): Preliminary Findings | volume=58 | issue=10 | pages=901 | date=1 October 2001 | url=http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.58.10.901 | issn=0003-990X | doi=10.1001/archpsyc.58.10.901}}</ref><ref>{{cite journal | vauthors=((Selvaraj, S.)), ((Hoshi, R.)), ((Bhagwagar, Z.)), ((Murthy, N. V.)), ((Hinz, R.)), ((Cowen, P.)), ((Curran, H. V.)), ((Grasby, P.)) | journal=The British Journal of Psychiatry: The Journal of Mental Science | title=Brain serotonin transporter binding in former users of MDMA ('ecstasy’) | volume=194 | issue=4 | pages=355–359 | date= April 2009 | issn=1472-1465 | doi=10.1192/bjp.bp.108.050344}}</ref>\n\n===Cardiotoxicity===\n\nLike with MDMA, the long-term heavy use of MDEA is likely similarly cardiotoxic, leading to valvulopathy through its actions on the 5-HT<sub>2B</sub> receptor.<ref>{{cite journal | vauthors=((Elangbam, C. S.)) | journal=Toxicologic Pathology | title=Drug-induced Valvulopathy: An Update | volume=38 | issue=6 | pages=837–848 | date= October 2010 | url=http://journals.sagepub.com/doi/10.1177/0192623310378027 | issn=0192-6233 | doi=10.1177/0192623310378027}}</ref> In one study, 28% of long-term MDMA users (2-3 doses per week for a mean of 6 years, mean of age 24.3 years) had developed clinically evident valvular heart disease.<ref>{{cite journal | vauthors=((Droogmans, S.)), ((Cosyns, B.)), ((D’haenen, H.)), ((Creeten, E.)), ((Weytjens, C.)), ((Franken, P. R.)), ((Scott, B.)), ((Schoors, D.)), ((Kemdem, A.)), ((Close, L.)), ((Vandenbossche, J.-L.)), ((Bechet, S.)), ((Van Camp, G.)) | journal=The American Journal of Cardiology | title=Possible association between 3,4-methylenedioxymethamphetamine abuse and valvular heart disease | volume=100 | issue=9 | pages=1442–1445 | date=1 November 2007 | issn=0002-9149 | doi=10.1016/j.amjcard.2007.06.045}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of MDEA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MDEA develops [[Time to full tolerance::with prolonged and repeated use]]. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about [[Time to half tolerance::1-1.5 months]] for the tolerance to be reduced to half and [[Time to zero tolerance::2-3 months]] to be back at baseline (in the absence of further consumption). MDEA presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic and [[serotonin|serotonergic]] [[stimulant]]s and entactogens]], meaning that after the consumption of MDEA all of these will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=MDEA}}\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[DangerousInteraction::Stimulants]]''' - The neurotoxic effects of MDEA may be increased when combined with other stimulants.\n*'''[[DangerousInteraction::Cocaine]]''' - This combination may increase strain on the heart.\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}  \nThere is an increased risk of serotonin syndrome when MDEA is taken with many antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs). Additionally, if MDEA is taken with SSRIs and SNRIs, the MDEA will be significantly less powerful or may have no distinguishable effects at all.\n\n==Legal status==\n{{LegalStub}}\nInternationally, MDEA is part of the the Convention on Psychotropic Substances of 1971 as a Schedule I substance.<ref>{{cite web|url=http://www.emcdda.europa.eu/system/files/attachments/10451/convention_1971_en.pdf|title=CONVENTION ON PSYCHOTROPIC SUBSTANCES 1971|publisher=United Nations|access-date=December 16, 2019}}</ref> (''MDE'')\n*'''Austria''': MDEA is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Brazil''': MDEA is illegal to possess, produce or sell as it is listed on Portaria SVS/MS nº 344 as \"MDE\".<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Canada''': MDEA  is listed on the CSDA in Schedule I.<ref>{{cite web|url=https://www.laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html#docCont|title=Controlled Drugs and Substances Act - SCHEDULE I|publisher=Government of Canada|access-date=December 16, 2019}}</ref>\n*'''France''': MDEA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': MDEA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of April 15, 1991.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl191s0712.pdf%27%5D|title=Dritte Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 15, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 15, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or to dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 15, 2019|language=de}}</ref> (''MDE'')  \n*'''Switzerland''': MDEA is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': MDEA is a Class A drug.{{citation needed}}\n*'''United States''': MDEA is a Schedule I drug.{{citation needed}}\n\n==See also==\n*[[Responsible use]]\n*[[Entactogen]]\n*[[Stimulant]]\n*[[Phenethylamine]]\n*[[MDMA]]\n*[[MDA]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/3,4-Methylenedioxy-N-ethylamphetamine MDEA (Wikipedia)]\n*[https://erowid.org/chemicals/mde/mde.shtml MDEA (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=106 MDEA (PiHKAL / Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01566 MDEA (DrugBank)]\n\n==Literature==\n* Freudenmann RW, Spitzer M (2004). The Neuropsychopharmacology and Toxicology of 3,4-methylenedioxy-N-ethyl-amphetamine (MDEA). CNS Drug Reviews. 10 (2): 89–116. https://doi.org/10.1111/j.1527-3458.2004.tb00007.x. PMID 15179441.\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Amphetamine]]\n[[Category:Entactogen]]\n\n{{#set:Featured=true}}"
+}

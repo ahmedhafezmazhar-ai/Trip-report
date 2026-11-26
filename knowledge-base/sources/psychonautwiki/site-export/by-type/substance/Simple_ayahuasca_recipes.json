@@ -1,0 +1,289 @@
+{
+ "id": "psychonautwiki:14656",
+ "type": "substance",
+ "title": "Simple ayahuasca recipes",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Simple_ayahuasca_recipes",
+  "pageid": 14656,
+  "last_edited": "2026-11-01T12:45:51Z"
+ },
+ "categories": [
+  "Ayahuasca recipes",
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "A simple ayahuasca recipe can be defined as any modern recipe which serves as an alternative to more traditional brewing methods. This page lists and summarizes some of the various recipes one can use.\n\nAyahuasca sandwich\n\nAyahuasca cupcakes\n\nAyahuasca smoothie\n\nSee also\n\n*Tutorial index\n**Traditional ayahuasca brew\n*Ayahuasca\n*DMT\n\nCategory:Ayahuasca recipes Category:Preparation",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/Ayahuasca}}\nA '''simple ayahuasca recipe''' can be defined as any modern recipe which serves as an alternative to more [[Ayahuasca_brew|traditional brewing methods]]. This page lists and summarizes some of the various recipes one can use.\n==Ayahuasca sandwich==\n{{Main|Ayahuasca sandwich}}\n{{:Ayahuasca sandwich}}\n==Ayahuasca cupcakes==\n{{Main|Ayahuasca cupcakes}}\n{{:Ayahuasca cupcakes}}\n==Ayahuasca smoothie==\n{{Main|Ayahuasca smoothie}}\n{{:Ayahuasca smoothie}}\n==See also==\n*[[Tutorial index]]\n**[[Traditional ayahuasca brew]]\n*[[Ayahuasca]]\n*[[DMT]]\n\n[[Category:Ayahuasca recipes]] [[Category:Preparation]]\n\n{{#set:Featured=true}}"
+}

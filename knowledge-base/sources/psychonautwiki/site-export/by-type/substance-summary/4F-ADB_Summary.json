@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21276",
+ "type": "substance-summary",
+ "title": "4F-ADB/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4F-ADB/Summary",
+  "pageid": 21276,
+  "last_edited": "2023-10-06T10:46:37Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4F-ADB",
+ "plain_text": "",
+ "wikitext": "{{Summary|4F-ADB}}"
+}

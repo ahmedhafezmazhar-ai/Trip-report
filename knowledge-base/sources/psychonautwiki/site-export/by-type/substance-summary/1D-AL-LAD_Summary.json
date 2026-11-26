@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22294",
+ "type": "substance-summary",
+ "title": "1D-AL-LAD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1D-AL-LAD/Summary",
+  "pageid": 22294,
+  "last_edited": "2024-06-17T17:10:11Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1D-AL-LAD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1D-AL-LAD}}"
+}

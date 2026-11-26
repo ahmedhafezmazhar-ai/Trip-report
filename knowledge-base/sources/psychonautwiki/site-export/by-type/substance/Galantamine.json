@@ -1,0 +1,309 @@
+{
+ "id": "psychonautwiki:12218",
+ "type": "substance",
+ "title": "Galantamine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Galantamine",
+  "pageid": 12218,
+  "last_edited": "2025-03-25T02:17:18Z"
+ },
+ "categories": [
+  "Acetylcholinesterase inhibitor",
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzazepine",
+  "Benzofuran"
+ ],
+ "substance_box_template": "SubstanceBox/Galantamine",
+ "substance_box": {
+  "names": {
+   "common": "Galantamine",
+   "substitutive": "",
+   "systematic": "(4aS,6R,8aS)-5,6,9,10,11,12-Hexahydro-3-methoxy-11-methyl-4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-6-ol"
+  },
+  "classes": {
+   "psychoactive": "Nootropic / Oneirogen",
+   "chemical": "Benzazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "90%",
+    "threshold": "1 mg",
+    "light": "4 - 8 mg",
+    "common": "8 - 16 mg",
+    "strong": "16 - 24 mg",
+    "heavy": "24 mg +",
+    "duration": "6 - 12 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Galantamine"
+   ],
+   "psychoactive class": [
+    "Nootropic",
+    "Oneirogen"
+   ],
+   "chemical class": [
+    "Benzazepine"
+   ],
+   "Oral min bioavailability": [
+    ""
+   ],
+   "Oral max bioavailability": [
+    "90"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "4"
+   ],
+   "Oral max light dose": [
+    "8"
+   ],
+   "Oral min common dose": [
+    "8"
+   ],
+   "Oral max common dose": [
+    "16"
+   ],
+   "Oral min strong dose": [
+    "16"
+   ],
+   "Oral max strong dose": [
+    "24"
+   ],
+   "Oral heavy dose": [
+    "24"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of galantamine",
+   "clean": "Molecular structure of galantamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Galantamine.svg",
+   "clean": "File:Galantamine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Galantamine]]",
+   "clean": "Galantamine"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(4aS,6R,8aS)-5,6,9,10,11,12-Hexahydro-3-methoxy-11-methyl-4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-6-ol",
+   "clean": "(4aS,6R,8aS)-5,6,9,10,11,12-Hexahydro-3-methoxy-11-methyl-4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-6-ol"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]] / [[psychoactive class::Oneirogen]]",
+   "clean": "Nootropic / Oneirogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzazepine]]",
+   "clean": "Benzazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::]]  [[Oral max bioavailability::90]]%<ref>{{cite journal | vauthors=((Farlow, M. R.)) | journal=Clinical Pharmacokinetics | title=Clinical pharmacokinetics of galantamine | volume=42 | issue=15 | pages=1383–1392 | date= 2003 | issn=0312-5963 | doi=10.2165/00003088-200342150-00005}}</ref>",
+   "clean": "90%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::4]] - [[Oral max light dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::8]] - [[Oral max common dose::16]] mg",
+   "clean": "8 - 16 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::16]] - [[Oral max strong dose::24]] mg",
+   "clean": "16 - 24 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::24]] mg +",
+   "clean": "24 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Galantamine (also known as Nivalin, Razadyne, Razadyne ER, Reminyl, and Lycoremine) is a water soluble, reversible, competitive acetylcholinesterase inhibitor that functions as a nootropic, oneirogen, and mild dissociative substance. It is well known and used widely as a dream potentiator. Along with its oneirogenic effects, it has stimulant and nootropic effects in low doses, and has mild dissociative effects in higher doses. It is an alkaloid that is obtained either synthetically, or from the bulbs and flowers of Galanthus caucasicus, Galanthus woronowii and related genera. It is also available in both a prescription form and as an over-the-counter supplement. \n\nStudies of usage in modern medicine began in the Soviet Union in the 1950s by Soviet pharmacologists M. D. Mashkovsky and R. P. Kruglikova–Lvova. The active ingredient was extracted, identified, and studied, particularly in relation to its mechanism of action. Galantamine has been used for decades in Eastern Europe and Russia for the treatment of various conditions such as myasthenia, myopathy, and sensory and motor dysfunction associated with disorders of the central nervous system. In the United States, it is FDA approved for the treatment of Alzheimer's disease.\n\nMore recently, galantamine has been popularized in supplement groups for its ability to improve dream recall and facilitate lucid dreaming. It is commonly recommended to be taken 30 minutes to one hour before bed. \n\nChemistry\n\nGalantamine's chemical structure contains a tertiary amine. It is a complex alkaloid that is found endogenously in certain plants or is synthesized for medical use. It is comprised of a fusion between a methoxy substituted benzene ring to a hydrogenated and methylated azepine ring along with a hydroxylated benzofuran group.\n\nThe alkaloid has been isolated from the bulbs and flowers of Galanthus nivalis (Common snowdrop), Galanthus caucasicus (Caucasian snowdrop), Galanthus woronowii (Voronov's snowdrop), and some other members of the family Amaryllidaceae, such as Narcissus (daffodil), Leucojum aestivum (snowflake), and Lycoris including Lycoris radiata (red spider lily). It can also be produced synthetically.\n\nPharmacology\n\nGalantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase. Is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through inhibiting acetylcholinesterase, a neurochemical responsible for breaking down acetylcholine. Higher concentrations of acetylcholine have also been linked to higher levels of cognition and focus.\n\nGalantamine is a potent allosteric potentiating ligand of human nicotinic acetylcholine receptors (nAChRs) α4β2, α3β4, and α6β4, and chicken/mouse nAChRs α7/5-HT3 in certain areas of the brain. By binding to the allosteric site of the nAChRs, a conformational change occurs which increases the receptors response to acetylcholine. This modulation of the nicotinic cholinergic receptors on cholinergic neurons in turn causes an increase in the amount of acetylcholine released. However, recent studies suggest that Galantamine does not functionally act at human nAChRs α4β2 or α7 as a positive allosteric modulator. Galantamine also provides potentiation of NMDA-receptor antagonists such as Memantine and Ketamine, and may directly antagonize these receptors in high doses, which is responsible for galantamine's mild dissociative effects.\n\nGalantamine also works as a weak competitive and reversible cholinesterase inhibitor in all areas of the body. By inhibiting acetylcholinesterase, it increases the concentration and thereby action of acetylcholine in certain parts of the brain. Galantamine's effects on nAChRs and complementary acetylcholinesterase inhibition make up a dual mechanism of action. It is hypothesized that this action might relieve some of the symptoms of Alzheimer's.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Galantamine\n\nToxicity and harm potential\n\nGalantamine is non-addictive, is not known to cause harm in reasonable doses, and has an extremely low toxicity relative to dose. Various studies have shown that in reasonable doses in a careful context, it presents few negative cognitive, psychiatric or toxic physical consequences, though some exist.\n\nIt is strongly recommended that one be familiar with harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nGalantamine is not known to be not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nGalantamine does not seem to build up an immediate tolerance, and, due to its long half life, becomes stronger with prolonged use. Caution should be heeded when taking galantamine for extended periods longer than two weeks. Galantamine presents cross-tolerance with no other known compounds, meaning that after the consumption of Galantamine all other psychoactive compounds will not have a reduced effect.\n\nLegal status\n\n*Germany: Galantamine is a prescription medicine, according to Anlage 1 AMVV.\n*Switzerland: Galantamine is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.\n\nSee also\n\n*Citicoline\n*Choline\n*Nootropic\n\nExternal links\n\n*Galantamine (Wikipedia)\n*Galantamine (Isomer Design)\n*Galantamine (Drugs.com)\n\nReferences\n\nCategory:Alkaloid\nCategory:Benzazepine\nCategory:Benzofuran\nCategory:Acetylcholinesterase inhibitor",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Galantamine}}\n\n'''Galantamine''' (also known as '''Nivalin''', '''Razadyne''', '''Razadyne ER''', '''Reminyl''', and '''Lycoremine''') is a water soluble, reversible, competitive [[acetylcholine|acetylcholinesterase]] inhibitor that functions as a [[nootropic]], [[oneirogen]], and mild [[Dissociatives|dissociative]] substance. It is well known and used widely as a [[Dream potentiation|dream potentiator]]. Along with its oneirogenic effects, it has [[Stimulants|stimulant]] and [[nootropic]] effects in low doses, and has mild [[Dissociatives|dissociative]] effects in higher doses. It is an [[alkaloid]] that is obtained either synthetically, or from the bulbs and flowers of ''Galanthus caucasicus'', ''Galanthus woronowii'' and related genera.<ref name=\"NNFCC2016\">{{Citation | year=2016 | title=NNFCC Project Factsheet: Sustainable Production of the Natural Product Galanthamine (Defra), NF0612 — NNFCC | url=https://web.archive.org/web/20160308162103/http://www.nnfcc.co.uk/publications/nnfcc-project-factsheet-sustainable-production-of-the-natural-product-galanthamine-defra-nf0612}}</ref> It is also available in both a prescription form and as an over-the-counter supplement. \n\nStudies of usage in modern medicine began in the Soviet Union in the 1950s by Soviet pharmacologists M. D. Mashkovsky and R. P. Kruglikova–Lvova.<ref>{{Citation | year=2016 | title=PJ Online, Christmas 2004 (Snowdrops: the heralds of spring and a modern drug for Alzheimer’s disease), News, Pharmaceutical Journal | url=https://web.archive.org/web/20160716200137/http://www.pharmaceutical-journal.com/pj-online-christmas-2004-snowdrops-the-heralds-of-spring-and-a-modern-drug-for-alzheimer8217s-disease/20013614.article}}</ref> The active ingredient was extracted, identified, and studied, particularly in relation to its mechanism of action. Galantamine has been used for decades in Eastern Europe and Russia for the treatment of various conditions such as myasthenia, myopathy, and sensory and motor dysfunction associated with disorders of the central nervous system. In the United States, it is FDA approved for the treatment of Alzheimer's disease.<ref>{{Citation | title=Galantamine: MedlinePlus Drug Information | url=https://medlineplus.gov/druginfo/meds/a699058.html}}</ref>\n\nMore recently, galantamine has been popularized in supplement groups for its ability to improve dream recall and facilitate [[lucid dreaming]]. It is commonly recommended to be taken 30 minutes to one hour before bed. \n==Chemistry==\nGalantamine's chemical structure contains a tertiary amine. It is a complex [[alkaloid]] that is found endogenously in certain plants or is synthesized for medical use. It is comprised of a fusion between a methoxy substituted benzene ring to a hydrogenated and methylated azepine ring along with a hydroxylated [[benzofuran]] group.\n\nThe alkaloid has been isolated from the bulbs and flowers of ''Galanthus nivalis'' (Common snowdrop), ''Galanthus caucasicus'' (Caucasian snowdrop), ''Galanthus woronowii'' (Voronov's snowdrop), and some other members of the family ''Amaryllidaceae'', such as ''Narcissus'' (daffodil), ''Leucojum aestivum'' (snowflake), and ''Lycoris'' including ''Lycoris radiata'' (red spider lily).<ref name=\"NNFCC2016\"/> It can also be produced synthetically.\n\n==Pharmacology==\nGalantamine, a tertiary [[alkaloid]], is a competitive and reversible inhibitor of acetylcholinesterase. Is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of [[acetylcholine]] through inhibiting acetylcholinesterase, a neurochemical responsible for breaking down acetylcholine. Higher concentrations of acetylcholine have also been linked to higher levels of cognition and focus.\n\nGalantamine is a potent allosteric potentiating ligand of human nicotinic acetylcholine receptors (nAChRs) α<sub>4</sub>β<sub>2</sub>, α<sub>3</sub>β<sub>4</sub>, and α<sub>6</sub>β<sub>4</sub>, and chicken/mouse nAChRs α<sub>7</sub>/5-HT<sub>3</sub> in certain areas of the brain.<ref name=\":0\">\"Galantamine\". Drugs.com. https://www.drugs.com/mtm/galantamine.html</ref> By binding to the allosteric site of the nAChRs, a conformational change occurs which increases the receptors response to acetylcholine.<ref>{{cite journal | vauthors=((Raskind, M. A.)), ((Peskind, E. R.)), ((Wessel, T.)), ((Yuan, W.)), ((the Galantamine USA Study Group)) | journal=Neurology | title=Galantamine in AD: A 6-month randomized, placebo-controlled trial with a 6-month extension | volume=54 | issue=12 | pages=2261–2268 | date=27 June 2000 | url=https://www.neurology.org/lookup/doi/10.1212/WNL.54.12.2261 | issn=0028-3878 | doi=10.1212/WNL.54.12.2261}}</ref> This modulation of the nicotinic cholinergic receptors on cholinergic neurons in turn causes an increase in the amount of acetylcholine released.<ref>{{cite journal | vauthors=((Woodruff-Pak, D. S.)), ((Vogel, R. W.)), ((Wenk, G. L.)) | journal=Proceedings of the National Academy of Sciences | title=Galantamine: Effect on nicotinic receptor binding, acetylcholinesterase inhibition, and learning | volume=98 | issue=4 | pages=2089–2094 | date=13 February 2001 | url=https://pnas.org/doi/full/10.1073/pnas.98.4.2089 | issn=0027-8424 | doi=10.1073/pnas.98.4.2089}}</ref> However, recent studies suggest that Galantamine does not functionally act at human nAChRs α<sub>4</sub>β<sub>2</sub> or α<sub>7</sub> as a positive allosteric modulator.<ref>{{cite journal | vauthors=((Moerke, M. J.)), ((McMahon, L. R.)), ((Wilkerson, J. L.)) | journal=Pharmacological Reviews | title=More than Smoke and Patches: The Quest for Pharmacotherapies to Treat Tobacco Use Disorder | volume=72 | issue=2 | pages=527–557 | date= April 2020 | issn=1521-0081 | doi=10.1124/pr.119.018028}}</ref> Galantamine also provides potentiation of NMDA-receptor antagonists such as [[Memantine]] and [[Ketamine]], and may directly antagonize these receptors in high doses, which is responsible for galantamine's mild dissociative effects.<ref>{{cite journal | vauthors=((Lopes, J. P.)), ((Tarozzo, G.)), ((Reggiani, A.)), ((Piomelli, D.)), ((Cavalli, A.)) | journal=Brain and Behavior | title=Galantamine potentiates the neuroprotective effect of memantine against NMDA-induced excitotoxicity | volume=3 | issue=2 | pages=67–74 | date= March 2013 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3607148/ | issn=2162-3279 | doi=10.1002/brb3.118}}</ref>\n\nGalantamine also works as a weak competitive and reversible cholinesterase inhibitor in all areas of the body.<ref name=\":0\" /> By inhibiting acetylcholinesterase, it increases the concentration and thereby action of acetylcholine in certain parts of the brain. Galantamine's effects on nAChRs and complementary acetylcholinesterase inhibition make up a dual mechanism of action. It is hypothesized that this action might relieve some of the symptoms of Alzheimer's.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}   \n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - Galantamine is primarily stimulating and provides nootropic effects.\n*'''[[Effect::Physical fatigue]]''' \n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Nausea]]''' - When taken by itself on an empty stomach, Galantamine has a wide range of unpleasant side effects related to digestion. These effects are less pronounced when taken [[sublingually]] or with food.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Sleep paralysis]]'''\n\n}}\n\n{{effects/visual|\n*'''[[Effect::Drifting]]'''\n*'''[[Effect::Colour enhancement]]'''\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Dream potentiation]]''' - Galantamine was shown to increase lucid dreaming by 27% at 4 mg and 42% at 8 mg in a 2018 double-blind study lasting three nights.<ref>{{Cite journal|last=LaBerge|date=August 2018|title=Pre-sleep treatment with galantamine stimulates lucid dreaming: A double-blind, placebo-controlled, crossover study|journal=PLOS ONE|volume=13|issue=8|pages=e0201246|doi=10.1371/journal.pone.0201246|pmid=30089135|pmc=6082533|bibcode=2018PLoSO..1301246L|doi-access=free}}</ref>\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Sleepiness]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Galantamine.shtml Erowid Experience Vaults: Galantamine]\n\n==Toxicity and harm potential==\nGalantamine is non-addictive, is not known to cause harm in reasonable doses, and has an [[Toxicity::extremely low toxicity]] relative to dose. Various studies have shown that in reasonable doses in a careful context, it presents few negative cognitive, psychiatric or toxic physical consequences, though some exist.\n\nIt is strongly recommended that one be familiar with [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nGalantamine is not known to be [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nGalantamine does not seem to build up an immediate tolerance, and, due to its long half life, becomes stronger with prolonged use. Caution should be heeded when taking galantamine for extended periods longer than two weeks. Galantamine presents cross-tolerance with [[Cross-tolerance::no other known compounds]], meaning that after the consumption of Galantamine all other psychoactive compounds will not have a reduced effect.\n==Legal status==\n{{legalStub}}\n\n*'''Germany:''' Galantamine is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=Anlage 1 AMVV - Einzelnorm | url=https://www.gesetze-im-internet.de/amvv/anlage_1.html}}</ref>\n*'''Switzerland''': Galantamine is listed as a \"Abgabekategorie B\" pharmaceutical, which generally requires a prescription.{{citation needed}}\n\n==See also==\n\n*[[Citicoline]]\n*[[Choline]]\n*[[Nootropic]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Galantamine Galantamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3676 Galantamine (Isomer Design)]\n*[https://www.drugs.com/cdi/galantamine.html Galantamine (Drugs.com)]\n\n==References==\n<references />\n\n[[Category:Alkaloid]]\n[[Category:Benzazepine]]\n[[Category:Benzofuran]]\n[[Category:Acetylcholinesterase inhibitor]]"
+}

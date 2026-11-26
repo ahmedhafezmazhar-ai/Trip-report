@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19872",
+ "type": "substance-summary",
+ "title": "Triazolam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Triazolam/Summary",
+  "pageid": 19872,
+  "last_edited": "2022-01-07T00:26:30Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Triazolam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Triazolam}}"
+}

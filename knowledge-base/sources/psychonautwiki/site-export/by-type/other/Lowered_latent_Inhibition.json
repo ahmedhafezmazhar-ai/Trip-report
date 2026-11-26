@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:22428",
+ "type": "other",
+ "title": "Lowered latent Inhibition",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Lowered_latent_Inhibition",
+  "pageid": 22428,
+  "last_edited": "2024-07-09T16:24:20Z"
+ },
+ "categories": [],
+ "plain_text": "Latent inhibition (LI) is a technical term in classical conditioning, where a familiar stimulus takes longer to acquire meaning (as a signal or conditioned stimulus) than a new stimulus.",
+ "wikitext": "Latent inhibition (LI) is a technical term in classical conditioning, where a familiar stimulus takes longer to acquire meaning (as a signal or conditioned stimulus) than a new stimulus.[https://en.wikipedia.org/wiki/Latent_inhibition]"
+}

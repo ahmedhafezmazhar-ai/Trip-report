@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10935",
+ "type": "substance-summary",
+ "title": "Nicotine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nicotine/Summary",
+  "pageid": 10935,
+  "last_edited": "2015-11-13T10:08:59Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Nicotine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Nicotine}}"
+}

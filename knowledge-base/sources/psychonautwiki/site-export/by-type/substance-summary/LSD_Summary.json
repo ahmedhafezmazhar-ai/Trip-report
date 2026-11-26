@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:9972",
+ "type": "substance-summary",
+ "title": "LSD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/LSD/Summary",
+  "pageid": 9972,
+  "last_edited": "2015-10-10T04:11:41Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "LSD",
+ "plain_text": "*LSD (TiHKAL)",
+ "wikitext": "{{Summary|LSD}}\n*[http://isomerdesign.com/PiHKAL/read.php?id=26&domain=tk LSD (TiHKAL)]"
+}

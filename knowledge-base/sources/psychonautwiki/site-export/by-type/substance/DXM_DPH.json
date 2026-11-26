@@ -1,0 +1,297 @@
+{
+ "id": "psychonautwiki:19715",
+ "type": "substance",
+ "title": "DXM & DPH",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/DXM_%26_DPH",
+  "pageid": 19715,
+  "last_edited": "2023-07-06T17:16:44Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements"
+ ],
+ "substance_box_template": "SubstanceBox/DXM&DPH",
+ "substance_box": {
+  "names": {
+   "common": "",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Dissociative and Deliriant",
+   "chemical": "Morphinan and Antihistamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 / 50 mg",
+    "light": "100 / 100 mg",
+    "common": "200 / 200 mg",
+    "strong": "300 / 300 mg",
+    "heavy": "350 / 350 mg\n     Heavy doses can produce dangerous side effects and are highly advised against.",
+    "duration": "8 - 22 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "3 - 12 hours",
+    "offset": "4 - 10 hours",
+    "aftereffects": "6 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "Psychoactive class": [
+    "Dissociative",
+    "Deliriant"
+   ],
+   "Chemical class": [
+    "Morphinan",
+    "Antihistamine"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "22"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "12"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "4"
+   ],
+   "Oral max offset time": [
+    "10"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "The molecular structure of [[Dextromethorphan]].",
+   "clean": "The molecular structure of Dextromethorphan."
+  },
+  "CombinationImage1_File": {
+   "raw": "File:DXM.svg",
+   "clean": "File:DXM.svg"
+  },
+  "CombinationImage1_Width": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "CombinationImage2_Caption": {
+   "raw": "The molecular structure of [[Diphenhydramine]].",
+   "clean": "The molecular structure of Diphenhydramine."
+  },
+  "CombinationImage2_File": {
+   "raw": "File: Diphenhydramine.svg",
+   "clean": "File: Diphenhydramine.svg"
+  },
+  "CombinationImage2_Width": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Dissociative]] and [[Psychoactive class::Deliriant]]",
+   "clean": "Dissociative and Deliriant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Morphinan]] and [[Chemical class::Antihistamine]]",
+   "clean": "Morphinan and Antihistamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "50 / 50 mg",
+   "clean": "50 / 50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "100 / 100 mg",
+   "clean": "100 / 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "200 / 200 mg",
+   "clean": "200 / 200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "300 / 300 mg",
+   "clean": "300 / 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "350 / 350 mg\n    <span style=\"color:red\"> '''Heavy doses can produce dangerous side effects and are highly advised against.'''</span>",
+   "clean": "350 / 350 mg\n     Heavy doses can produce dangerous side effects and are highly advised against."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::22]] [[Oral total time units::hours]]",
+   "clean": "8 - 22 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::12]] [[Oral peak time units::hours]]",
+   "clean": "3 - 12 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::4]] - [[Oral max offset time::10]] [[Oral offset time units::hours]]",
+   "clean": "4 - 10 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 48 hours"
+  }
+ },
+ "plain_text": "The Dextromethorphan (DXM) and Diphenhydramine (DPH) combination experience (also known as counterflipping) is a substance combination, that when taken, produces an array of uniquely hallucinogenic, dissociative and powerful deliriant effects when administered.\n\nThis article is something that PsychonautWiki is documenting because although there are a huge variety of drug combinations, most of them simply induce the effects of the two separate drugs alongside each other in a very predictable manner. However, the combination of DXM and DPH does just the opposite of that, producing a very unique synergy when taken together, potentiating the positive aspects of the other substance whilst simultaneously suppressing its perceived negative or uncomfortable side effects; with distinct visual and hallucinatory effects that are sometimes not found in neither substance when taken on their own. Although, despite the unique and positive effects, this combination can readily also produce significantly dangerous physical and psychological effects, sometimes at relatively common dosages.\n\nTypically, dosages for both DXM and DPH are both taken in equal amounts, for example, 300 milligrams of DXM with 300 milligrams of DPH, although some users prefer higher or lower amounts of either substance. This makes the spectrum of the combination very broad and the effects and dangers can vary significantly. It is strongly advised that users without extensive experience do not go over a light to common dose of both DXM and DPH alone when combining the two in recreational doses.\n\nBoth substances strongly amplify each other's effects; while DPH inhibits the metabolism of DXM and increases its concentration, DXM in turn suppresses the perceived dysphoric and anxiogenic effects of DPH and powerfully amplifying its hallucinations and deliriant properties. Even at common doses, some may be subject to extreme states of dissociation and delirium, possibly not being able to effectively perceive or respond to external events. This depends heavily on body chemistry, which is already a unique effect seen with DXM and one might respond completely differently from another person even with the same dosages.\n\nThis combination is very physically taxing, especially since the dangerous effects are suppressed and they can become unnoticed by the user. It is highly advised to use doses below the common range due to the risk of effects such as toxicity, increased heart rate, increased blood pressure, rhabdomyolysis and agitated mental states such as delirium or panic attacks. People with preexisting cardiovascular problems should avoid this combination and further substances should not be taken during the experience. It is strongly advised to use harm reduction practices if using this combination.\n\nChemistry\n\nPharmacology\n\nWhen taken in combination, Diphenhydramine acts as a pharmologically significant CYP2D/CYP2D6 inhibitor and thus inhibits the breakdown of DXM into DXO.\n\nSubjective effects\n\nWhen taken in combination, DXM and DPH both lessen the perceived uncomfortable side effects of the other substance. For example, due to DPH’s nausea suppressing abilities, the nausea associated with DXM is almost entirely absent. In return, DXM’s dissociating and anesthetic-like qualities have an extremely positive effect on the physical dysphoria found within DPH. This completely eliminates the muscle cramps, nausea, dizziness, drowsiness, restless leg syndrome, and extreme dehydration experienced when DPH is used by itself. This allows the unique delirium, hallucinations and visual effects of the DPH experience to become much more accessible to your average person.\n\nToxicity and harm potential\n\nWhen taken in combination, it should be noted that enormous amounts of strain can be put on the circulatory system, as both substances increase one's heart rate and blood pressure. This can become dangerous in high dosages. The toxicity of both substances is also present. States of agitated delirium can pose a significant risk to the person as they are subject to confusion and a general inability to properly assess visual and audio stimuli.\n\nLegal issues\n\nSee also\n\n*Responsible use\n*Harm reduction\n*DXM\n*DPH\n\nExternal links\n\n*Dextromethorphan (Wikipedia)\n*Diphenhydramine (Wikipedia)\n*DXM FAQ (Erowid)\n\nReferences",
+ "wikitext": "{{headerpanel|{{Warning/DXM&DPH}}}}\n<!--{{SummarySheet}}-->\n{{SubstanceBox/DXM&DPH}}\n\nThe '''Dextromethorphan''' (''DXM'') and '''Diphenhydramine''' (''DPH'') combination experience (also known as '''counterflipping''') is a substance combination, that when taken, produces an array of uniquely [[hallucinogenic]], [[dissociative]] and powerful [[deliriant]] effects when [[Routes of Administration|administered]].\n\nThis article is something that [[PsychonautWiki]] is documenting because although there are a huge variety of drug combinations, most of them simply induce the effects of the two separate drugs alongside each other in a very predictable manner. However, the combination of DXM and DPH does just the opposite of that, producing a very unique synergy when taken together, potentiating the positive aspects of the other substance whilst simultaneously suppressing its ''perceived'' negative or uncomfortable side effects; with distinct visual and hallucinatory effects that are sometimes not found in neither substance when taken on their own. Although, despite the unique and positive effects, this combination can readily also produce significantly dangerous physical and psychological effects, sometimes at relatively common dosages.\n\nTypically, dosages for both [[DXM]] and [[DPH]] are both taken in equal amounts, for example, 300 milligrams of DXM with 300 milligrams of DPH, although some users prefer higher or lower amounts of either substance. This makes the spectrum of the combination very broad and the effects and dangers can vary significantly. It is strongly advised that users without extensive experience do not go over a light to common dose of both DXM and DPH alone when combining the two in recreational doses.\n\nBoth substances strongly amplify each other's effects; while DPH inhibits the metabolism of DXM and increases its concentration,{{citation needed}} DXM in turn suppresses the perceived dysphoric and anxiogenic effects of DPH and powerfully amplifying its hallucinations and deliriant properties.{{citation needed}} Even at common doses, some may be subject to extreme states of [[dissociation]] and [[delirium]], possibly not being able to effectively perceive or respond to external events. This depends heavily on body chemistry, which is already a unique effect seen with DXM and one might respond completely differently from another person even with the same dosages.\n\nThis combination is very physically taxing, especially since the dangerous effects are suppressed and they can become unnoticed by the user. It is highly advised to use doses below the common range due to the risk of effects such as toxicity, [[tachycardia|increased heart rate]], [[hypertension|increased blood pressure]], [[rhabdomyolysis]] and agitated mental states such as [[delirium]] or [[panic attack]]s. People with preexisting cardiovascular problems should avoid this combination and further substances should not be taken during the experience. It is strongly advised to use [[harm reduction practices]] if using this combination.\n\n==Chemistry==\n\n''{{Main|Dextromethorphan#Chemistry}}''\n\n''{{Main|Diphenhydramine#Chemistry}}''\n\n==Pharmacology==\n\n''{{Main|Dextromethorphan#Pharmacology}}''\n\n''{{Main|Diphenhydramine#Pharmacology}}''\n\nWhen taken in combination, [[Diphenhydramine]] acts as a pharmologically significant CYP2D/CYP2D6 inhibitor<ref>{{cite journal | vauthors=((Hiroi, T.)), ((Ohishi, N.)), ((Imaoka, S.)), ((Yabusaki, Y.)), ((Fukui, H.)), ((Funae, Y.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Mepyramine, a histamine H1 receptor antagonist, inhibits the metabolic activity of rat and human P450 2D forms | volume=272 | issue=2 | pages=939–944 | date= February 1995 | issn=0022-3565}}</ref> and thus inhibits the breakdown of [[DXM]] into [[DXO]].<ref name=\":0\">{{cite journal | vauthors=((Jacqz-Aigrain, E.)), ((Cresteil, T.)) | journal=Developmental Pharmacology and Therapeutics | title=Cytochrome P450-dependent metabolism of dextromethorphan: fetal and adult studies | volume=18 | issue=3–4 | pages=161–168 | date= 1992 | issn=0379-8305}}</ref>\n\n==Subjective effects==\n\n\nWhen taken in combination, [[DXM]] and [[DPH]] both lessen the perceived uncomfortable side effects of the other substance. For example, due to DPH’s nausea suppressing abilities, the nausea associated with DXM is almost entirely absent. In return, DXM’s dissociating and anesthetic-like qualities have an extremely positive effect on the physical dysphoria found within DPH. This completely eliminates the muscle cramps, nausea, dizziness, drowsiness, restless leg syndrome, and extreme dehydration experienced when DPH is used by itself. This allows the unique delirium, hallucinations and visual effects of the DPH experience to become much more accessible to your average person.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]'''<ref name=\"Reissig\">{{cite journal | vauthors=((Reissig, C. J.)), ((Carter, L. P.)), ((Johnson, M. W.)), ((Mintzer, M. Z.)), ((Klinedinst, M. A.)), ((Griffiths, R. R.)) | journal=Psychopharmacology | title=High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens | volume=223 | issue=1 | pages=1–15 | date= September 2012 | url=http://link.springer.com/10.1007/s00213-012-2680-6 | issn=0033-3158 | doi=10.1007/s00213-012-2680-6}}</ref> & '''[[Effect::Sedation]]'''  - At lower, recreational doses, this combination is predominantly stimulating. However, it can produce waves of tiredness, or the desire to lay down with the eyes closed in a sleep-like state. As higher dosages are approached, the experience generally turns very chaotic, sometimes with states of agitated delirium resulting in stimulation or moments of sedation where the user does not move at all.\n*'''[[Effect::Abnormal heartbeat]]''' - Diphenhydramine is able to prolong the QT interval, potentially leading to torsades de pointes, an abnormal heart rhythm that can cause sudden cardiac death.<ref>{{cite journal | vauthors=((Thakur, A. C.)), ((Aslam, A. K.)), ((Aslam, A. F.)), ((Vasavada, B. C.)), ((Sacchi, T. J.)), ((Khan, I. A.)) | journal=International Journal of Cardiology | title=QT interval prolongation in diphenhydramine toxicity | volume=98 | issue=2 | pages=341–343 | date=15 February 2005 | url=https://www.sciencedirect.com/science/article/pii/S0167527304000786 | issn=0167-5273 | doi=10.1016/j.ijcard.2003.10.051}}</ref> This risk is greatly amplified by both DPH and DXM by increasing heart rate to dangerously high levels.\n*'''[[Effect::Physical autonomy]]''' - At very high dosages some find to awake in strange locations, sometimes while standing or performing actions with no recollection of events or how they got there. When approaching delirium, the experience generally turns stimulating and as a result, one may start to walk long distances.\n*'''[[Effect::Perception of bodily lightness]]''' & '''[[Effect::Perception of bodily heaviness]]''' - This creates the sensation that the body is floating and has become entirely weightless. This effect is stimulating and encourages physical activities by making the body feel light and effortless to move. This effects is amplified when compared with DXM alone. DPH however can also produce bodily heaviness and increase in percieved gravity, especially at the beginning of the experience or if higher dosages of DPH are used than DXM. \n*'''[[Effect::Spontaneous bodily sensations]]''' - The body high is a sharp, pleasurable tingling sensation which is location specific to the hands, feet and head. The second is a warm euphoric glow which emanates outwards from the centre of the body's torso. At lower dosages, it can produce an empowering stimulated sensation, at higher dosages a slight body load or none at all. It should be noted that it can also spontaneously transform into intense physical dysphoria.\n**'''[[Effect::Physical euphoria]]''' - This inconsistently results in feelings of physical euphoria which range between mild pleasure to powerful, all-encompassing bliss.\n*'''[[Effect::Appetite suppression]]''' - Appetite suppression may persist through the next day.\n*'''[[Effect::Changes in felt bodily form]]''' - This becomes quite prominent at moderate or high doses. \n*'''[[Effect::Motor control loss]]'''<ref name=\"Reissig\" /> - A loss of gross and fine motor control alongside balance and coordination is prominent and becomes especially strong at higher dosages. One should be sitting down before the onset to prevent falling over and becoming injured and have a [[trip sitter]] be watching over them.\n*'''[[Effect::Spatial disorientation]]'''<ref name=\"Reissig\" />\n*'''[[Effect::Nausea]]''' & '''[[Effect::Nausea suppression]]'''<ref name=\"Reissig\" /> - This effect is mostly negated by DPH but spontaneous nausea may occur.\n*'''[[Effect::Temperature regulation suppression]]'''\n**'''[[Effect::Increased bodily temperature]]''' - Both substances increase bodily temperature and this can become dangerous at higher dosages.{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''<ref name=\"Reissig\" /> - Both substances increase blood pressure significantly and this can become dangerous at higher dosages.{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''<ref name=\"Reissig\" /> - Both substances increase heart rate significantly and this can become dangerous at higher dosages.{{citation needed}}\n*'''[[Effect::Increased perspiration]]''' - This is the result of a combination of increased bodily temperature and temperature regulation suppression.{{citation needed}} Users should be monitored that they do not overheat.\n*'''[[Muscle cramps]]''' & *'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Dehydration]]'''{{citation needed}} - Both substances can be extremely dehydrating. Users should drink plenty of water before and after an experience to avoid dangerous complications such as seizures.\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Restless leg syndrome]]'''\n*'''[[Effect::Frequent urination]]''' & '''[[Effect::Difficulty urinating]]''' - This effect can become very uncomfortable. Both substances can cause urinary retention.\n*'''[[Effect::Muscle relaxation]]''' - This effect is inconsistent, and may alternate with bouts of [[muscle twitching]].\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Dizziness]]''' - At higher dosages this can result in incapability to willingly stand up.\n*'''[[Effect::Gustatory hallucination]]'''\n*'''[[Effect::Olfactory hallucination]]'''\n*'''[[Effect::Tactile suppression]]''' - This partially to entirely suppresses one's sense of touch, creating feelings of numbness within the extremities.\n*'''[[Effect::Pupil dilation]]'''- Pupil dilation is very noticeable at moderate to high doses.\n*'''[[Effect::Gait alteration]]''' - This is a common effect and is commonly referred to as \"robo walking\".\n*'''[[Effect::Rapid breathing]]'''\n*'''[[Effect::Physical fatigue]]''' - This effect can become very strong during the comedown.\n*'''[[Effect::Tactile enhancement]]''' - This results in increased feelings of touch, pain, warmth and orgasms. It is usually only present at very low dosages.\n*'''[[Effect::Tactile suppression]]''' - This produces feelings of numbness throughout the body. This is attributed to DPH's ability to block sodium channels within the nerves<ref>{{cite journal | vauthors=((Kim, Y. S.)), ((Shin, Y. K.)), ((Lee, C.-S.)), ((Song, J.-H.)) | journal=Brain Research | title=Block of sodium currents in rat dorsal root ganglion neurons by diphenhydramine | volume=881 | issue=2 | pages=190–198 | date=27 October 2000 | url=https://www.sciencedirect.com/science/article/pii/S0006899300028602 | issn=0006-8993 | doi=10.1016/S0006-8993(00)02860-2}}</ref> and DXM's NMDA antagonism. At higher dosages, this can lead to massive amounts of pain relief comparable to anesthesia.\n*'''[[Effect::Tactile hallucination]]''' - This is often a direct result of visual [[external hallucinations|hallucinations]] and they commonly feel and look extremely realistic.\n*'''[[Effect::Skin flushing]]''' - Flushed skin occurs mostly around the eyes, but can also be seen all over the body.\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Seizure]]''' - Both substances are known to significantly lower the seizure theshold and this may be dangerously amplified when taken in combination.\n\n}}\n{{effects/visual|\n\nThis combination does not enhance visual stimuli in the way that psychedelics do; instead they tend to degrade and decrease visual aptitude both increasing hallucination and degrading vision.\n\n====Enhancements====\n*'''[[Effect::Magnification]]''' - This effect is uncommon and typically occurs in conjunction with [[perspective distortion]].\n\n====Suppression====\n*'''[[Effect::Double vision]]''' - This component is prevalent at moderate to heavy dosages and makes reading impossible unless one closes an eye.\n*'''[[Effect::Pattern recognition suppression]]''' - This effect generally occurs at higher dosages and makes one unable to recognize and interpret perceivable visual data. Examples can include an inability to recognize faces or motion.\n*'''[[Effect::Frame rate suppression]]''' - This is the so-called \"flanging\" effect, which at appropriately high doses can affect sight, sound and at higher levels phrases, faces and thinking. \n*'''[[Effect::Nystagmus]]''' - At very high dosages one may be incapable of recognizing things such as movement of objects or human faces.\n*'''[[Effect::Visual acuity suppression]]''' - Vision is reported to be very dream-like, frequently with a hazy or \"static-like\" overlay affecting the visual field. This effect can also result in blurry vision to the point of blindness. It sometimes can last for days after the experience itself.\n\n====Distortions====\nAs for visual distortions and alterations, effects experienced are detailed below:\n\n*'''[[Effect::Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Breathing|breathing]], [[Visual drifting#Morphing|morphing]] and [[Visual drifting#Flowing|flowing]])'' - In comparison to other hallucinogens, this effect can be described as intricate in complexity, jittery, slow and rigid in motion, static in their permanence, blurry in detail, realistic in believability, and interactive in plasticity.\n*'''[[Effect::After images]]'''\n*'''[[Effect::Brightness alteration]]''' - Vision is said to become dark and gloomy.\n*'''[[Effect::Depth perception distortions]]''' \n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Object alteration]]''' - The textures seen are described as transparent whirling lines and swirls which move at changing speeds and jitter uncontrollably. They only appear slightly above surfaces, walls and ceilings and can not be felt.\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Visual haze]]'''\n*'''[[Effect::Visual stretching]]'''\n\n====[[Effect::Geometry]]====\nIn terms of the specific style of geometry present within this combination, they can be described as intricate in complexity, slow in movement, dark in colour scheme and ominous in emotional vibe. They manifest themselves in a traditional psychedelic manner when the eyes are closed but appear as static, unmoving shapes and geometry which the external environment morphs into when the eyes are open and looking at any single point, always resetting once the person double takes. This is an unusual visual effect because both dissociative and psychedelic visuals do not do this, instead preferring to manifest themselves as a fast moving and flat translucent veil across the visual field which cannot be interacted with.\n\n====Hallucinatory states====\nThe effects of this combination are extremely efficient at inducing delirious hallucinations which can be broken into the two categories described below:\n\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other classes of [[hallucinogens]], this effect occurs more frequently than that of any other at moderate to heavy dosages and is the defining feature of the experience. It can be comprehensively described through its variations as delirious in believability, autonomous in controllability and solid in style. The most common themes for these hallucinations include those of both everyday occurrences such as smoking phantom cigarettes, talking to people who are not there, insects and sinister or nightmarish experiences. The person may experience sceneries of people which they know, have frequently been in contact with or play a significant role in one's head. Events may unfold similar to dream-like states where hallucinations are mixed into reality in despiclable or even realistic scenarios. A whole theather of possible imaginations can be experienced/hallucinated all while the user in unaware of what is happening.\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other classes of hallucinogen, this effect occurs briefly and spontaneously at moderate dosages but becomes progressively extended in its occurrence and duration proportional to dosage before eventually becoming all encompassing. It can be comprehensively described through its variations as delirious in believability, interactive in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style.\n*'''[[Effect::Unspeakable horrors]]'''\n*'''[[Effect::Shadow people]]'''\n\n}}\n|{{effects/cognitive|\nThe emotional dysphoria, paranoia, anxiety, depression and feelings of impending doom usually found within DPH do not seem to present when taken in combination with DXM. This could be attributed to DXM's euphoric and calming effects. In total the subjective cognitive effects of DXM and DPH can be broken down into several components all of which progressively intensify proportional to dosage. These components generally include:\n\n*'''[[Effect::Analysis suppression]]''' - At higher dosages, a person could experience a complete halt of external information processing, which can make the user unable to perform simple tasks or make decisions.\n*'''[[Effect::Anxiety suppression]]''' '','' '''[[Effect::Anxiety]]''' ''&'' '''[[Effect::Paranoia]]''' - Although this combination typically suppresses anxiety, it is also able to produce it in certain conditions. Extreme anxiety, paranoia or panic attacks may occur at heavy dosages.\n*'''[[Effect::Confusion]]'''<ref name=\"Reissig\" /> - States of delirium can become extremely confusing and uncomfortable. This can result in a complete inability to understand others' intentions, emotions, humor and even simple sentences.\n*'''[[Effect::Cognitive euphoria]]''' - While states of cognitive euphoria are commonly reported, this effect can unpredictably manifest itself as [[cognitive dysphoria]] for no apparent reason, particularly at higher doses.\n*'''[[Effect::Cognitive fatigue]]'''<ref name=\"Reissig\" />\n*'''[[Effect::Creativity suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Delirium]]''' - The threshold dose for full-blown delirium may be experienced already with common doses, which may necessitate hospitalization as this state can be extremely dangerous for an individual, especially if they are not accompanied by a [[trip sitter]], as they can injure themselves or others. The user may not be able to differentiate percieved visual hallucinations from reality at all, in addition to mental delirium making the user's thoughts delirious and believeable which further contributes to the hallucinations.\n*'''[[Effect::Delusion]]''' - This effect can occur very reliably.\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Disinhibition]]''' - This effect can be quite significant even at moderate dosages and unpredictable at high dosages.\n*'''[[Effect::Dysarthria]]'''{{citation needed}} - Severely slurred speech and speaking with a different voice is common on this combination.\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Emotion enhancement]]''' - This effect isn't as consistent as it is with other commonly used [[hallucinogens]].\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This is commonly reported as being similar to but less prominent than with other commonly used entactogens such as [[MDMA]] or [[MDA]].\n*'''[[Effect::Feelings of impending doom]]'''\n*'''[[Effect::Focus suppression]]'''<ref name=\"Reissig\" />\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased sense of humor]]''' - Mostly present at lower dosage.\n*'''[[Effect::Increased music appreciation]]''' - This effect can be very intense but steadily decreases as higher dosages are approached where sounds may be to chaotic or faint to be enjoyable.\n*'''[[Effect::Memory suppression]]''' - Short-term memory can be severely disrupted and one may not be able to hold on to thoughts for more than a few seconds.\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Amnesia]]''' - This effect is present with higher dosages. It can range from partial to complete memory loss of the experience. Generally, more dull parts of the experience tend to not be remembered at all. Frequent use can also sometimes contribute to this, even for days after the experience.\n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Motivation suppression]]'''<ref name=\"Reissig\" />\n*'''[[Effect::Personal bias suppression]]''' - This effect is not usually as pronounced.\n*'''[[Effect::Psychosis]]''' - This effect is more reliably induced than when either substance is taken alone.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought disorganization]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Time distortion]]''' - Time dilation is extremely present and can be overwhelming if the user is having a difficult trip.\n*'''[[Effect::Sleepiness]]''' ''&'' *'''[[Effect::Wakefulness]]'''\n}}\n\n{{effects/auditory|\nThe auditory effects of this combination are extremely consistent in occurrence in comparison to that of LSD and psilocin and exhibit a range of effects which commonly includes:\n\n*'''[[Effect::Auditory suppression]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n*'''[[Effect::Glossolalia]]'''\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Cognitive disconnection]]'''\n*'''[[Effect::Physical disconnection]]'''\n*'''[[Effect::Visual disconnection]]'''\n\n}}\n{{effects/afterglow|\nThe afterglow is a feeling that can occur in the following day or weeks after the experience. At lower dosages, it can be described regarding its physical sensation as one of [[euphoria]], [[rejuvenation]], relaxation and a light bounciness. <p>Cognitive manifestations include a loss of anxiety, feelings of content, [[increased music appreciation]] and other sensory stimuli that are sometimes accompanied with mild [[derealization]] or [[depersonalization]]. As higher dosages are used, after effects typically consist of strong fatigue and [[sleepiness]].\n\n}}\n}}\n\n==Toxicity and harm potential==\n\n''{{Main|Dextromethorphan#Toxicity}}''\n\n''{{Main|Diphenhydramine#Toxicity}}''\n\nWhen taken in combination, it should be noted that enormous amounts of strain can be put on the circulatory system, as both substances increase one's heart rate and blood pressure. This can become dangerous in high dosages. The toxicity of both substances is also present. States of agitated delirium can pose a significant risk to the person as they are subject to confusion and a general inability to properly assess visual and audio stimuli.\n\n==Legal issues==\n\n''{{Main|Dextromethorphan#Legality}}''\n\n''{{Main|Diphenhydramine#Legality}}''\n\n==See also==\n\n*[[Responsible use]]\n*[[Harm reduction]]\n*[[DXM]]\n*[[DPH]]\n\n==External links==\n\n*[https://wikipedia.org/wiki/Dextromethorphan Dextromethorphan (Wikipedia)]\n*[https://wikipedia.org/wiki/Diphenhydramine Diphenhydramine (Wikipedia)]\n*[https://erowid.org/chemicals/dxm/faq/dxm_faq.shtml DXM FAQ (Erowid)]\n\n==References==\n\n{{reflist|1}}"
+}

@@ -1,0 +1,270 @@
+<meta charset="utf-8">
+<title>Mazhar Knowledge Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: full-height radial specimen map on the left, a field-notes panel on the right (stacks below on phones). */
+:root {
+  --bg: #f3f5f2;
+  --surface: #ffffff;
+  --ink: #17201c;
+  --muted: #5d6b65;
+  --line: #c9d2cd;
+  --accent: #127a64;
+  --f-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --c0: #7a4fd1; --c1: #d0532f; --c2: #1f8a5b; --c3: #c2850c; --c4: #2a73c9;
+  --c5: #b03f86; --c6: #5d8a1d; --c7: #0e8a95; --c8: #7b6f63; --c9: #c0394f;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0e1513; --surface: #151f1c; --ink: #e4ece8; --muted: #93a39c; --line: #2a3833; --accent: #3fc9a7;
+  --c0: #a789ef; --c1: #f0805e; --c2: #4fc48d; --c3: #e8b23e; --c4: #64a6f0;
+  --c5: #e07ab8; --c6: #97c455; --c7: #4cc6d0; --c8: #b5aa9e; --c9: #f06d82; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0e1513; --surface: #151f1c; --ink: #e4ece8; --muted: #93a39c; --line: #2a3833; --accent: #3fc9a7;
+  --c0: #a789ef; --c1: #f0805e; --c2: #4fc48d; --c3: #e8b23e; --c4: #64a6f0;
+  --c5: #e07ab8; --c6: #97c455; --c7: #4cc6d0; --c8: #b5aa9e; --c9: #f06d82; color-scheme: dark }
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); }
+.wrap { display: grid; grid-template-columns: minmax(0, 1fr) 360px; height: 100%; }
+.stage { position: relative; min-width: 0; overflow: hidden; }
+header.top { position: absolute; top: 0; left: 0; right: 0; padding-block: 18px 0; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: 16px; display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: baseline; pointer-events: none; z-index: 2; }
+header.top h1 { font-family: var(--f-display); font-weight: 700; font-size: 1.35rem; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+header.top .meta { font-family: var(--f-mono); font-size: 0.75rem; color: var(--muted); }
+.controls { position: absolute; bottom: 16px; left: max(16px, env(safe-area-inset-left, 0px)); display: flex; flex-wrap: wrap; gap: 8px; z-index: 2; }
+.controls input, .controls button { font: 500 0.85rem var(--f-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 7px 11px; }
+.controls input { width: 210px; max-width: 60vw; }
+.controls button { cursor: pointer; }
+.controls button:hover { border-color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+svg#map { width: 100%; height: 100%; display: block; cursor: grab; }
+svg#map:active { cursor: grabbing; }
+.link { fill: none; stroke-opacity: 0.45; }
+.node circle { stroke: var(--bg); stroke-width: 1.5; cursor: pointer; }
+.node text { font-family: var(--f-body); fill: var(--ink); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+.node.d1 text { font-family: var(--f-display); font-weight: 700; font-size: 14px; stroke-width: 5px; }
+.node.d2 text { font-size: 11px; }
+.node.d3 text, .node.d4 text { font-size: 9.5px; }
+.node.leaf text { fill: var(--muted); }
+.node.hit circle { stroke: var(--ink); stroke-width: 2.5; }
+.count { font-family: var(--f-mono); }
+.root-pulse { fill: none; stroke: var(--accent); stroke-width: 1.5; animation: pulse 3.2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes pulse { from { opacity: .7; transform: scale(1); } to { opacity: 0; transform: scale(2.6); } }
+aside { background: var(--surface); border-left: 1px solid var(--line); overflow-y: auto; padding-block: 22px; padding-left: 20px; padding-right: max(20px, env(safe-area-inset-right, 0px)); display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.crumbs { font-family: var(--f-mono); font-size: 0.72rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; display: flex; flex-wrap: wrap; gap: 4px; }
+.crumbs button { all: unset; cursor: pointer; } .crumbs button:hover { color: var(--accent); }
+aside h2 { font-family: var(--f-display); font-size: 1.6rem; margin: 0; line-height: 1.1; text-wrap: balance; }
+.big { font-family: var(--f-mono); font-size: 0.85rem; color: var(--muted); }
+.bars { display: flex; flex-direction: column; gap: 7px; }
+.bar { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; cursor: pointer; font-size: 0.85rem; background: none; border: 0; padding: 0; color: var(--ink); text-align: left; font-family: var(--f-body); }
+.bar .lbl { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar .n { font-family: var(--f-mono); font-variant-numeric: tabular-nums; color: var(--muted); }
+.bar .track { grid-column: 1 / -1; height: 5px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.bar .fill { height: 100%; border-radius: 3px; transition: width .7s cubic-bezier(.2,.8,.2,1); }
+.bar:hover .lbl { color: var(--accent); }
+.items { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 14px; font-size: 0.82rem; }
+.items li { break-inside: avoid; padding: 2px 0; overflow-wrap: anywhere; }
+.items a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--line); }
+.items .book { display: block; font-family: var(--f-mono); font-size: 0.68rem; color: var(--muted); }
+.items a:hover { color: var(--accent); border-color: var(--accent); }
+.note { font-size: 0.78rem; color: var(--muted); line-height: 1.5; border-top: 1px solid var(--line); padding-top: 12px; }
+.tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 5px 9px; font-size: 0.8rem; z-index: 3; max-width: 260px; }
+.tip[hidden] { display: none !important; }
+@media (max-width: 820px) {
+  .wrap { grid-template-columns: 1fr; grid-template-rows: 62vh auto; height: auto; }
+  .stage { height: 62vh; }
+  aside { border-left: 0; border-top: 1px solid var(--line); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  .items { columns: 1; }
+}
+@media (prefers-reduced-motion: reduce) { .root-pulse { animation: none; } .bar .fill { transition: none; } }
+</style>
+
+<div class="wrap">
+  <div class="stage" id="stage">
+    <header class="top">
+      <h1>Mazhar Knowledge Map</h1>
+      <span class="meta" id="meta">Loading…</span>
+    </header>
+    <svg id="map" role="img" aria-label="Radial tree of knowledge base families, branches and pages"></svg>
+    <div class="controls">
+      <input id="q" type="search" placeholder="Find a substance or topic" aria-label="Search">
+      <button id="replay" type="button">Replay growth</button>
+      <button id="fold" type="button">Fold to families</button>
+    </div>
+    <div class="tip" id="tip" hidden></div>
+  </div>
+  <aside id="panel" aria-live="polite"></aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+(async function () {
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  let data;
+  try { data = await (await fetch("tree.json")).json(); }
+  catch (e) { document.getElementById("meta").textContent = "Could not load the map data (tree.json)."; return; }
+
+  // Build hierarchy: items become leaf nodes
+  const toNode = o => ({ name: o.n, count: o.c, children: o.k ? o.k.map(toNode) : (o.i ? o.i.map(([n, u, b]) => ({ name: n, url: u, books: b, count: 1, leaf: true })) : null) });
+  const root = d3.hierarchy(toNode(data));
+  root.descendants().forEach((d, i) => { d.id = i; d._children = d.children; });
+  root.children.forEach((f, i) => f.descendants().forEach(d => d.fam = i));
+  const all = root.descendants();
+  const findAll = id => all.find(n => n.id === id);
+  const famColor = i => css("--c" + (i % 10));
+  const colorOf = d => d.depth === 0 ? css("--accent") : famColor(d.fam);
+
+  document.getElementById("meta").textContent =
+    `${root.data.count.toLocaleString()} entries · ${root.children.length} families · ${root.descendants().filter(d => d.depth === 2).length} branches · ${data.aliases.toLocaleString()} alternate names`;
+
+  const svg = d3.select("#map");
+  const g = svg.append("g");
+  const gLinks = g.append("g"), gNodes = g.append("g");
+  const zoom = d3.zoom().scaleExtent([0.3, 6]).on("zoom", e => g.attr("transform", e.transform));
+  svg.call(zoom).on("dblclick.zoom", null);
+  const tip = document.getElementById("tip");
+
+  function size() { const r = svg.node().getBoundingClientRect(); return [r.width, r.height]; }
+  function center() { const [w, h] = size(); const k = Math.min(1, Math.min(w, h) / (2 * (radius() + 120))); svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2, h / 2 + 10).scale(k)); }
+
+  // Collapse state: show families and branches, hide items
+  function fold(level) {
+    all.forEach(d => { d.children = (d.depth < level && d._children) ? d._children : null; });
+  }
+  fold(2);
+
+  const radius = () => { const [w, h] = size(); return Math.max(200, Math.min(w, h) / 2 - 90); };
+  const rScale = d3.scaleSqrt().domain([1, root.data.count]).range([2.2, 26]);
+
+  function update(source, stagger) {
+    const R = radius();
+    const visibleLeaves = root.leaves().length;
+    const extra = Math.min(1.7, 1 + Math.max(0, visibleLeaves - 120) / 400);
+    d3.tree().size([2 * Math.PI, R * extra])
+      .separation((a, b) => (a.parent === b.parent ? 1 : 2) / Math.max(1, a.depth))(root);
+    // Give each family its own sector, weighted by what is visible but never tiny
+    const fams = root.children || [];
+    const leafCount = f => f.leaves().length;
+    const total = d3.sum(fams, leafCount);
+    const w = fams.map(f => Math.max(leafCount(f), total / 16));
+    const W = d3.sum(w); let a0 = 0;
+    fams.forEach((f, i) => {
+      const span = 2 * Math.PI * w[i] / W, pad = Math.min(0.06, span * 0.08);
+      const xs = f.descendants().map(d => d.x), lo = d3.min(xs), hi = d3.max(xs);
+      f.descendants().forEach(d => { d.x = a0 + pad + (hi > lo ? (d.x - lo) / (hi - lo) : 0.5) * (span - 2 * pad); });
+      a0 += span;
+    });
+    const ring = [0, 0.3, 0.58, 0.8, 1.0];
+    root.each(d => { d.y = ring[Math.min(d.depth, 4)] * R * (d.depth >= 3 ? extra : 1); });
+    const nodes = root.descendants(), links = root.links();
+    const pt = (a, r) => [r * Math.cos(a - Math.PI / 2), r * Math.sin(a - Math.PI / 2)];
+    const famLabel = d => { const r = rScale(d.data.count) + 8, s = Math.sin(d.x), c = -Math.cos(d.x);
+      return Math.abs(s) < 0.25 ? `translate(0,${c < 0 ? -r - 4 : r + 8})` : `translate(${s > 0 ? r : -r},${c * 6})`; };
+    const sx = source.x0 ?? 0, sy = source.y0 ?? 0;
+    const dur = reduce ? 0 : 650;
+    const delay = d => (stagger && !reduce) ? d.depth * 420 + (d.x / (2 * Math.PI)) * 300 : 0;
+
+    const radial = d3.linkRadial().angle(d => d.x).radius(d => d.y);
+    const L = gLinks.selectAll("path").data(links, d => d.target.id);
+    L.enter().append("path").attr("class", "link")
+      .attr("stroke", d => colorOf(d.target))
+      .attr("stroke-width", d => d.target.depth === 1 ? 2.2 : d.target.depth === 2 ? 1.3 : 0.7)
+      .attr("d", () => { const o = { x: sx, y: sy }; return radial({ source: o, target: o }); })
+      .merge(L).transition().duration(dur).delay(d => delay(d.target)).attr("d", radial);
+    L.exit().transition().duration(dur).attr("d", () => { const o = { x: source.x, y: source.y }; return radial({ source: o, target: o }); }).remove();
+
+    const N = gNodes.selectAll("g.node").data(nodes, d => d.id);
+    const NE = N.enter().append("g").attr("class", d => "node d" + d.depth + (d.data.leaf ? " leaf" : ""))
+      .attr("transform", `translate(${pt(sx, sy)})`).attr("opacity", 0)
+      .on("click", (e, d) => { e.stopPropagation(); click(d); })
+      .on("mousemove", (e, d) => { const r = document.getElementById("stage").getBoundingClientRect(); tip.hidden = false; tip.style.left = (e.clientX - r.left + 14) + "px"; tip.style.top = (e.clientY - r.top + 10) + "px"; tip.innerHTML = `<strong>${esc(d.data.name)}</strong>${d.data.leaf ? "" : ` <span class="count">${d.data.count}</span>`}`; })
+      .on("mouseleave", () => tip.hidden = true);
+    NE.filter(d => d.depth === 0).append("circle").attr("class", "root-pulse").attr("r", 16);
+    NE.append("circle").attr("r", d => d.data.leaf ? 2.4 : rScale(d.data.count)).attr("fill", colorOf)
+      .attr("fill-opacity", d => d._children && !d.children ? 1 : 0.85);
+    NE.append("text").attr("dy", "0.32em");
+    const NU = NE.merge(N);
+    NU.select("circle:not(.root-pulse)").attr("fill-opacity", d => d._children && !d.children ? 1 : 0.8)
+      .attr("stroke", d => d._children && !d.children ? colorOf(d) : null);
+    NU.select("text")
+      .text(d => d.depth === 0 ? "" : d.data.leaf && visibleLeaves > 260 ? "" : d.depth >= 2 ? `${d.data.name}${d.data.leaf ? "" : " · " + d.data.count}` : `${d.data.name}  ${d.data.count}`)
+      .attr("text-anchor", d => d.depth === 1 ? (Math.abs(Math.sin(d.x)) < 0.25 ? "middle" : d.x < Math.PI ? "start" : "end") : (d.x < Math.PI) ? "start" : "end")
+      .attr("transform", d => d.depth === 1 ? famLabel(d) : `rotate(${d.x < Math.PI ? (d.x * 180 / Math.PI - 90) : (d.x * 180 / Math.PI + 90)}) translate(${(d.x < Math.PI ? 1 : -1) * ((d.data.leaf ? 2.4 : rScale(d.data.count)) + 5)},0)`);
+    NU.filter(d => d.depth === 1).raise();
+    NU.transition().duration(dur).delay(delay).attr("opacity", 1).attr("transform", d => `translate(${pt(d.x, d.y)})`);
+    N.exit().transition().duration(dur).attr("opacity", 0).attr("transform", `translate(${pt(source.x, source.y)})`).remove();
+    root.each(d => { d.x0 = d.x; d.y0 = d.y; });
+  }
+
+  function click(d) {
+    if (d.data.leaf) { show(d.parent, d); return; }
+    if (d.depth > 0) {
+      if (d.children && d.depth >= 2) d.children = null;
+      else if (d._children) {
+        // open this node, keep only one open node per level below the families so the map stays readable
+        if (d.depth >= 2) all.forEach(o => { if (o.depth === d.depth && o !== d) o.children = null; });
+        d.children = d._children;
+        d.children.forEach(c => c.children = null);
+      }
+    }
+    update(d);
+    show(d);
+  }
+
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const panel = document.getElementById("panel");
+  function show(d, hit) {
+    const path = d.ancestors().reverse();
+    const kids = d._children || [];
+    const col = colorOf(d);
+    const isItems = kids.length && kids[0].data.leaf;
+    const max = d3.max(kids, k => k.data.count) || 1;
+    panel.innerHTML = `
+      <div class="crumbs">${path.map((p, i) => `<button type="button" data-id="${p.id}">${esc(i === 0 ? "All" : p.data.name)}</button>`).join("<span>›</span>")}</div>
+      <div><h2 style="color:${col}">${esc(d.depth ? d.data.name : "Everything")}</h2>
+      <div class="big">${d.data.count.toLocaleString()} ${d.data.count === 1 ? "entry" : "entries"}${d.depth === 0 ? ` · plus ${data.aliases.toLocaleString()} alternate names` : ""}</div></div>
+      ${isItems ? `<ul class="items">${kids.map(k => `<li${hit === k ? ' style="font-weight:600"' : ""}>${k.data.url ? `<a href="${esc(k.data.url)}" target="_blank" rel="noopener">${esc(k.data.name)}</a>` : `<span>${esc(k.data.name)}</span>`}${k.data.books ? `<span class="book">${esc(k.data.books)}</span>` : ""}</li>`).join("")}</ul>`
+        : `<div class="bars">${kids.map(k => `<button type="button" class="bar" data-id="${k.id}"><span class="lbl">${esc(k.data.name)}</span><span class="n">${k.data.count}</span><span class="track"><span class="fill" style="width:0;background:${colorOf(k)}" data-w="${(100 * k.data.count / max).toFixed(1)}"></span></span></button>`).join("")}</div>`}
+      <p class="note">${d.depth === 0
+        ? "Click a family on the map, or a bar here, to open its branches. Click a branch to fan out its entries. Drag to pan, scroll to zoom. Wiki pages link to PsychonautWiki; substances also covered by the Shulgin books show the book entry under their name."
+        : isItems ? "Linked names open the PsychonautWiki page in a new tab. Book-only compounds have no wiki page, so they are not linked." : "Click a bar to open that branch on the map."}</p>`;
+    requestAnimationFrame(() => panel.querySelectorAll(".fill").forEach(f => f.style.width = f.dataset.w + "%"));
+    panel.querySelectorAll("[data-id]").forEach(b => b.addEventListener("click", () => {
+      const n = root.descendants().find(x => x.id === +b.dataset.id) || findAll(+b.dataset.id);
+      if (n.depth === 0) { fold(2); update(root); show(root); return; }
+      reveal(n); click(n);
+    }));
+  }
+  function reveal(n) { n.ancestors().reverse().forEach(a => { if (a !== n && a._children) a.children = a._children; }); }
+
+  // Search
+  const q = document.getElementById("q");
+  q.addEventListener("keydown", e => {
+    if (e.key !== "Enter") return;
+    const s = q.value.trim().toLowerCase(); if (!s) return;
+    const hit = all.find(n => n.depth && n.data.name.toLowerCase() === s) || all.find(n => n.depth && n.data.name.toLowerCase().includes(s));
+    gNodes.selectAll("g.node").classed("hit", false);
+    if (!hit) { q.setCustomValidity("No match"); q.reportValidity(); setTimeout(() => q.setCustomValidity(""), 1500); return; }
+    all.forEach(o => { if (o.depth >= 2) o.children = null; });
+    reveal(hit); update(hit.parent || root);
+    show(hit.data.leaf ? hit.parent : hit, hit);
+    setTimeout(() => gNodes.selectAll("g.node").filter(d => d === hit).classed("hit", true), reduce ? 0 : 700);
+  });
+
+  document.getElementById("fold").onclick = () => { fold(2); update(root); show(root); center(); };
+  document.getElementById("replay").onclick = () => {
+    gLinks.selectAll("*").remove(); gNodes.selectAll("*").remove();
+    root.each(d => { d.x0 = 0; d.y0 = 0; }); fold(2); update(root, true); show(root);
+  };
+  svg.on("click", () => tip.hidden = true);
+  window.addEventListener("resize", () => { center(); update(root); });
+
+  center();
+  root.x0 = 0; root.y0 = 0;
+  update(root, true);
+  show(root);
+})();
+</script>

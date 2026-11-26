@@ -1,0 +1,640 @@
+{
+ "id": "psychonautwiki:11166",
+ "type": "substance",
+ "title": "Deschloroketamine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Deschloroketamine",
+  "pageid": 11166,
+  "last_edited": "2026-10-31T01:44:24Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Arylcyclohexylamine",
+  "CS1 German-language sources (de)",
+  "Dissociative",
+  "Hallucinogen",
+  "Psychoactive substance",
+  "Research chemical",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Deschloroketamine",
+ "substance_box": {
+  "names": {
+   "common": "Deschloroketamine, DCK, DXE, O-PCM",
+   "substitutive": "Deschloroketamine",
+   "systematic": "2-Phenyl-2-(methylamino)cyclohexanone"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 20 mg",
+    "strong": "20 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "30 - 90 minutes",
+    "onset": "",
+    "comeup": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "3 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "3 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Deschloroketamine",
+    "DCK",
+    "DXE",
+    "O-PCM"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Smoked threshold dose": [
+    "5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "5"
+   ],
+   "Smoked max light dose": [
+    "10"
+   ],
+   "Smoked min common dose": [
+    "10"
+   ],
+   "Smoked max common dose": [
+    "20"
+   ],
+   "Smoked min strong dose": [
+    "20"
+   ],
+   "Smoked max strong dose": [
+    "40"
+   ],
+   "Smoked heavy dose": [
+    "40"
+   ],
+   "Smoked min total time": [
+    "30"
+   ],
+   "Smoked max total time": [
+    "90"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "3"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "15"
+   ],
+   "Insufflated min common dose": [
+    "15"
+   ],
+   "Insufflated max common dose": [
+    "25"
+   ],
+   "Insufflated min strong dose": [
+    "25"
+   ],
+   "Insufflated max strong dose": [
+    "40"
+   ],
+   "Insufflated heavy dose": [
+    "40"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "15"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "30"
+   ],
+   "Insufflated max comeup time": [
+    "60"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1.5"
+   ],
+   "Insufflated max peak time": [
+    "2.5"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "2"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "3"
+   ],
+   "Insufflated max afterglow time": [
+    "24"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Deschloroketamine",
+   "clean": "Molecular structure of Deschloroketamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:DCK.svg",
+   "clean": "File:DCK.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Deschloroketamine]], [[common name::DCK]], [[common name::DXE]], [[common name::O-PCM]]",
+   "clean": "Deschloroketamine, DCK, DXE, O-PCM"
+  },
+  "NameSubstitution": {
+   "raw": "Deschloroketamine",
+   "clean": "Deschloroketamine"
+  },
+  "NameSystematic": {
+   "raw": "2-Phenyl-2-(methylamino)cyclohexanone",
+   "clean": "2-Phenyl-2-(methylamino)cyclohexanone"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::5]] [[Smoked dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::5]] - [[Smoked max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::10]] - [[Smoked max common dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::20]] - [[Smoked max strong dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::30]] - [[Smoked max total time::90]] [[Smoked total time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::30]] mg",
+   "clean": "20 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "3 - 24 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::15]] - [[Insufflated max common dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::25]] - [[Insufflated max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::15]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::30]] - [[Insufflated max comeup time::60]] [[Insufflated comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1.5]] - [[Insufflated max peak time::2.5]] [[Insufflated peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::2]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::3]] - [[Insufflated max afterglow time::24]] [[Insufflated afterglow time units::hours]]",
+   "clean": "3 - 24 hours"
+  }
+ },
+ "plain_text": "2'-Oxo-PCM (also known as deschloroketamine, O-PCM, DXE, and DCK) is a lesser-known novel dissociative substance of the arylcyclohexylamine class that produces dissociative, anesthetic and hallucinogenic effects when administered.\n\nEarly discussion over DCK has revolved around speculation over claims of antibacterial or immunosuppressant properties. If this speculation is valid, it is possible that its prolonged use could potentially pose a serious threat to one's health and immune system, which along with bladder and urinary tract problems is why misuse of this substance is highly discouraged. Ketamine has been found to have similar properties.\n\nDCK has become easily accessible through online research chemical vendors where it is being sold as a designer drug. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of DCK, and it has a very brief history of human usage. It is strongly recommended that one use harm reduction practices if choosing to use this substance.\n\nChemistry\n\nDeschloroketamine, or 2-Phenyl-2-(methylamino)cyclohexanone, is classed as an arylcyclohexylamine drug. Arylcyclohexylamine drugs are named for their structures which include a cyclohexane ring bound to an aromatic ring along with an amine group. Descholoroketamine contains a phenyl ring bonded to a cyclohexane ring substituted with an oxo group (cyclohexanone). An amino methyl chain (-N-CH3) is bound to the adjacent alpha carbon (R2) of the cyclohexanone ring. \n\nDescholoroketamine is a chiral molecule and is often produced as a racemate. Des- is a prefix used in chemistry to denote the absence of a functional group (in this case \"chloro\") hence deschloroketamine is named for lacking a chlorine substitution on its phenyl ring, which is found in ketamine.\n\nPharmacology\n\nDue to the lack of research regarding the substance, all discussion regarding its pharmacology is purely based on its structure and subjective effect similarities to other arylcyclohexylamine dissociatives such as 3-MeO-PCP, PCP and MXE. With this in mind, DCK is thought to act as an NMDA receptor antagonist. NMDA receptors, a type of glutamate receptor, allow for excitatory electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives inactivate the NMDA receptors by blocking them. This disconnection of neurons leads to the general loss of bodily sensation, motor coordination, memory recall and eventually this substance's equivalent of the “k-hole.”\n\nSubjective effects\n\nIn terms of its subjective effects, this compound feels closer to that of ketamine and MXE than more stimulating, non-immobilizing compounds of the same class such as 3-MeO-PCP, O-PCE and PCP. It has therefore come to be considered a more suitable ketamine substitute than many other popular arylcyclohexylamines currently available on the research chemicals market, although users are advised to exercise extreme caution due to the health risks it may pose if it does possess its speculated antibacterial properties.\n\nExperience reports\n\nThere are currently anecdotal reports which describe the effects of this compound within our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Deschloroketamine\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational DCK use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because DCK has very little history of human usage. Anecdotal evidence from people who have tried DCK within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nAs DCK has been speculated to have antibacterial properties, its prolonged use could potentially pose a serious threat to one's health and immune system.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other NMDA receptor antagonists, the chronic use of DCK can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of DCK develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). DCK presents cross-tolerance with all dissociatives, meaning that after the consumption of DCK all dissociatives will have a reduced effect.\n\nUrinary tract effects\n\nIn terms of its long-term health effects when used repeatedly and with excess for extended periods of time, DCK seems to exhibit almost identical bladder and urinary tract problems to those found within ketamine but to a lesser extent. This is suspected to be because DCK is more potent than ketamine, meaning that less of the drug needs to be consumed to produce analogous effects. Symptoms of ketamine-induced cystitis can become extremely serious and include:\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using DCK on a daily or even weekly basis and manually limiting one's usage of the substance.\n\nDangerous interactions\n\nLegal status\n\n*Italy: Deschloroketamine is illegal in Italy.\n*Latvia: Deschloroketamine is illegal in Latvia.\n*Germany: Deschloroketamine is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: Deschloroketamine is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: Deschloroketamine is a class B drug in the UK and is illegal to possess, produce, supply, or import. As an N-alkyl derivative of 2-Amino-2-phenylcyclohexanone, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.\n*Czech Republic: Deschloroketamine is legal in the Czech Republic.\n*Austria: Deschloroketamine is illegal in Austria under the NPSV (Neue-Psychoaktive-Substanzen-Verordnung).\n*Netherlands: Deschloroketamine is legal at least until a plenary hearing scheduled for January 21, 2025.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Dissociative\n*O-PCE\n*Ketamine\n*MXE\n\nExternal links\n\n*Deschloroketamine (Wikipedia)\n*Deschloroketamine (Isomer Design)\n\nDiscussion\n\n*The Big & Dandy Deschloroketamine Thread (Bluelight)\n\nLiterature\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Hallucinogen\nCategory:Dissociative\nCategory:Arylcyclohexylamine\nCategory:Research chemical",
+ "wikitext": "{{Distinguish|2'-Oxo-PCE}}\n{{SummarySheet}}\n{{SubstanceBox/Deschloroketamine}}\n\n'''2'-Oxo-PCM''' (also known as '''deschloroketamine''', '''O-PCM''', '''DXE''', and '''DCK''') is a lesser-known novel [[psychoactive class::dissociative]] substance of the [[chemical class::arylcyclohexylamine]] class that produces [[dissociative]], [[pain relief|anesthetic]] and [[hallucinogenic]] effects when [[Routes of administration|administered]].<ref name=\"name\">{{cite journal | vauthors=((Robins, E. G.)), ((Zhao, Y.)), ((Khan, I.)), ((Wilson, A.)), ((Luthra, S. K.)), ((Rstad, E.)) | journal=Bioorganic & Medicinal Chemistry Letters | title=Synthesis and in vitro evaluation of (18)F-labelled S-fluoroalkyl diarylguanidines: Novel high-affinity NMDA receptor antagonists for imaging with PET | volume=20 | issue=5 | pages=1749–1751 | date=1 March 2010 | issn=1464-3405 | doi=10.1016/j.bmcl.2010.01.052}}</ref><ref name=\"patent\">{{Citation | vauthors=((Stevens, C. L.)) | title=Aminoketones and methods for their production | url=https://patents.google.com/patent/US3254124/en}}</ref>\n\nEarly discussion over DCK has revolved around speculation over claims of antibacterial or immunosuppressant properties. If this speculation is valid, it is possible that its prolonged use could potentially pose a serious threat to one's health and immune system, which along with bladder and urinary tract problems is why misuse of this substance is highly discouraged.<ref name=\"DCKAntibacterial\">{{Citation | vauthors=((Preiss, D.)), ((Tatar, A.)) | title=Use of 2-methylamino-2-phenylcyclohexanone for the treatment of bacterial, fungal, virus or protozoan infections as well as for immunomodulation | url=https://patents.google.com/patent/US5811464/en}}</ref> Ketamine has been found to have similar properties.<ref>{{cite journal | vauthors=((Gocmen, S.)), ((Buyukkocak, U.)), ((Caglayan, O.)) | journal=Upsala Journal of Medical Sciences | title=In vitro investigation of the antibacterial effect of ketamine | volume=113 | issue=1 | pages=39–46 | date= 2008 | issn=2000-1967 | doi=10.3109/2000-1967-211}}</ref>\n\nDCK has become easily accessible through online [[research chemical]] vendors<ref name=\"name\" /> where it is being sold as a [[designer drug]].<ref>{{cite journal | vauthors=((Frison, G.)), ((Zamengo, L.)), ((Zancanaro, F.)), ((Tisato, F.)), ((Traldi, P.)) | journal=Rapid communications in mass spectrometry: RCM | title=Characterization of the designer drug deschloroketamine (2-methylamino-2-phenylcyclohexanone) by gas chromatography/mass spectrometry, liquid chromatography/high-resolution mass spectrometry, multistage mass spectrometry, and nuclear magnetic resonance | volume=30 | issue=1 | pages=151–160 | date=15 January 2016 | issn=1097-0231 | doi=10.1002/rcm.7425}}</ref><ref>Alert: descloroketamina sold as ketamine in Barcelona | http://energycontrol.org/analisis-de-sustancias/resultados/alertas/560-alerta-descloroketamina-vendida-como-ketamina-en-barcelona.html</ref><ref>{{Citation | vauthors=((Villalba, J.)) | year=2015 | title=Los efectos desconocidos de la sequía de ketamina | url=https://www.vice.com/es/article/9b7yvp/los-efectos-desconocidos-de-la-sequia-de-ketamina-719}}</ref> <!-- DCK has been extinct multiple times but has returned and is still for sale. Users repor the quality has significantly degraded after around 2018 (will wword this better)-->\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of DCK, and it has a very brief history of human usage. It is strongly recommended that one use [[responsible drug use|harm reduction practices]] if choosing to use this substance.\n\n==Chemistry==\nDeschloroketamine, or 2-Phenyl-2-(methylamino)cyclohexanone, is classed as an [[arylcyclohexylamine]] drug. Arylcyclohexylamine drugs are named for their structures which include a cyclohexane ring bound to an aromatic ring along with an amine group. Descholoroketamine contains a phenyl ring bonded to a cyclohexane ring substituted with an oxo group (cyclohexanone). An amino methyl chain (-N-CH<sub>3</sub>) is bound to the adjacent alpha carbon (R<sub>2</sub>) of the cyclohexanone ring. \n\nDescholoroketamine is a chiral molecule and is often produced as a racemate. Des- is a prefix used in chemistry to denote the absence of a functional group (in this case \"chloro\") hence deschloroketamine is named for lacking a chlorine substitution on its phenyl ring, which is found in ketamine.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nDue to the lack of research regarding the substance, all discussion regarding its pharmacology is purely based on its structure and subjective effect similarities to other [[arylcyclohexylamine]] [[dissociative]]s such as [[3-MeO-PCP]], [[PCP]] and [[MXE]]. With this in mind, DCK is thought to act as an [[NMDA receptor antagonist]]. NMDA receptors, a type of [[glutamate]] receptor, allow for excitatory electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives inactivate the NMDA receptors by blocking them. This disconnection of neurons leads to the general loss of bodily sensation, motor coordination, memory recall and eventually this substance's equivalent of the “[[Visual_disconnection#Holes.2C_spaces_and_voids|k-hole]].”\n\n==Subjective effects==\n{{EffectStub}}\nIn terms of its subjective effects, this compound feels closer to that of [[ketamine]] and [[MXE]] than more stimulating, non-immobilizing compounds of the same class such as [[3-MeO-PCP]], [[O-PCE]] and [[PCP]]. It has therefore come to be considered a more suitable ketamine substitute than many other popular [[arylcyclohexylamines]] currently available on the research chemicals market, although users are advised to exercise extreme caution due to the health risks it may pose if it does possess its speculated antibacterial properties.\n\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Pain relief]]\n*'''[[Effect::Spontaneous physical sensations]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Increased blood pressure]]''' - Shown to occur at higher doses.\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Physical autonomy]]''' - This is reported to be especially present at low doses and to decrease as the dose increases.{{citation needed}}\n*'''[[Effect::Physical euphoria]]''' - This is reported to be present even at low doses.{{citation needed}}\n*'''[[Effect::Spatial disorientation]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Tactile suppression]]'''\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Decreased libido]]''' - This is not experienced in all environments, as [[Effect::Increased libido]] may also be experienced. \n*'''[[Effect::Orgasm suppression]]''' - Orgasm enhancement can also be present, even at higher doses.\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in DCK's equivalent of the famous \"[https://en.wikipedia.org/wiki/K-hole k-hole]\" or, more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Consciousness disconnection]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory suppression|Suppression]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Synaesthesia]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Cognitive euphoria]]\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Mania]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Thought deceleration]]'''\n\n}}\n{{effects/visual|\n\n====Suppression====\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::Visual acuity suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n}}\n===Experience reports===\nThere are currently anecdotal reports which describe the effects of this compound within our [[experience index]].\n{{#ask: [[Category:Deschloroketamine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Deschloroketamine.shtml Erowid Experience Vaults: Deschloroketamine]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational DCK use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because DCK has very little history of human usage. Anecdotal evidence from people who have tried DCK within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nAs DCK has been speculated to have antibacterial properties,<ref name=\"patent\" /> its prolonged use could potentially pose a serious threat to one's health and immune system.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other NMDA receptor antagonists, the chronic use of DCK can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of DCK [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). DCK presents cross-tolerance with [[Cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of DCK all [[dissociative]]s will have a reduced effect.\n\n===Urinary tract effects===\nIn terms of its long-term health effects when used repeatedly and with excess for extended periods of time, DCK seems to exhibit almost identical bladder and urinary tract problems to those found within [[ketamine]] but to a lesser extent. This is suspected to be because DCK is more potent than ketamine, meaning that less of the drug needs to be consumed to produce analogous effects. Symptoms of ketamine-induced cystitis can become extremely serious and include:\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using DCK on a daily or even weekly basis and manually limiting one's usage of the substance.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Dissos}}\n\n==Legal status==\n{{LegalStub}}\n\n*'''Italy:''' Deschloroketamine is illegal in Italy.<ref>http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf</ref>\n*'''Latvia:''' Deschloroketamine is illegal in Latvia.<ref>Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | http://www.vm.gov.lv/images/userfiles/metodiskas_vadlinijas_080914.doc</ref>\n*'''Germany:''' Deschloroketamine is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Switzerland:''' Deschloroketamine is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom:''' Deschloroketamine is a class B drug in the UK and is illegal to possess, produce, supply, or import. As an N-alkyl derivative of 2-Amino-2-phenylcyclohexanone, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2013 | url=https://www.legislation.gov.uk/uksi/2013/239/introduction/made}}</ref>\n*'''Czech Republic:''' Deschloroketamine is legal in the Czech Republic.<ref>{{Citation | vauthors=((info@aion.cz, A. C.-)) | title=463/2013 Sb. Nařízení vlády o seznamech návykových látek | url=https://www.zakonyprolidi.cz/cs/2013-463}}</ref>\n*'''Austria:''' Deschloroketamine is illegal in Austria under the NPSV (Neue-Psychoaktive-Substanzen-Verordnung).<ref>{{Citation | title=RIS - Neue-Psychoaktive-Substanzen-Verordnung - Bundesrecht konsolidiert, Fassung vom 21.07.2022 | url=https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642}}</ref>\n*'''Netherlands:''' Deschloroketamine is legal at least until a plenary hearing scheduled for January 21, 2025.<ref>{{Citation | title=36.159 Tegengaan productie en handel in nieuwe psychoactieve stoffen | url=https://www.eerstekamer.nl/infodossier/tegengaan_productie_en_handel_in}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Dissociative]]\n*[[O-PCE]]\n*[[Ketamine]]\n*[[MXE]]\n\n=External links=\n\n*[https://en.wikipedia.org/wiki/Deschloroketamine Deschloroketamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=985 Deschloroketamine (Isomer Design)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/766127-The-Small-amp-Handy-Deschloroketamine-Thread The Big & Dandy Deschloroketamine Thread (Bluelight)]\n\n==Literature==\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Hallucinogen]]\n[[Category:Dissociative]]\n[[Category:Arylcyclohexylamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21642",
+ "type": "substance-summary",
+ "title": "Glaucine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Glaucine/Summary",
+  "pageid": 21642,
+  "last_edited": "2024-02-21T16:03:52Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Glaucine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Glaucine}}"
+}

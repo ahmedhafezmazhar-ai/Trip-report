@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10865",
+ "type": "substance-summary",
+ "title": "Escaline/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Escaline/Summary",
+  "pageid": 10865,
+  "last_edited": "2015-11-13T04:36:21Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Escaline",
+ "plain_text": "",
+ "wikitext": "{{Summary|Escaline}}"
+}

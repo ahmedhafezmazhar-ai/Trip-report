@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14089",
+ "type": "substance-summary",
+ "title": "Pentedrone/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pentedrone/Summary",
+  "pageid": 14089,
+  "last_edited": "2017-03-23T23:37:14Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Pentedrone",
+ "plain_text": "",
+ "wikitext": "{{Summary|Pentedrone}}"
+}

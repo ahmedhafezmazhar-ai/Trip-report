@@ -1,0 +1,427 @@
+{
+ "id": "psychonautwiki:11598",
+ "type": "substance",
+ "title": "Coluracetam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Coluracetam",
+  "pageid": 11598,
+  "last_edited": "2025-01-31T00:35:31Z"
+ },
+ "categories": [
+  "Nootropic",
+  "Psychoactive substance",
+  "Racetam",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Coluracetam",
+ "substance_box": {
+  "names": {
+   "common": "Coluracetam",
+   "substitutive": "",
+   "systematic": "N-(2,3-Dimethyl-5,6,7,8-tetrahydrofuro[2,3-b]quinolin-4-yl)-2-(2-oxo-1-pyrrolidinyl)acetamide"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Racetam"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "1 - 5 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "3 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Coluracetam"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Racetam"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2"
+   ],
+   "Insufflated max light dose": [
+    "5"
+   ],
+   "Insufflated min common dose": [
+    "5"
+   ],
+   "Insufflated max common dose": [
+    "10"
+   ],
+   "Insufflated min strong dose": [
+    "10"
+   ],
+   "Insufflated max strong dose": [
+    "20"
+   ],
+   "Insufflated heavy dose": [
+    "20"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "1"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "3"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "20"
+   ],
+   "Oral heavy dose": [
+    "20"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of coluracetam",
+   "clean": "Molecular structure of coluracetam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Coluracetam.svg",
+   "clean": "File:Coluracetam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Coluracetam]]",
+   "clean": "Coluracetam"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "N-(2,3-Dimethyl-5,6,7,8-tetrahydrofuro[2,3-b]quinolin-4-yl)-2-(2-oxo-1-pyrrolidinyl)acetamide",
+   "clean": "N-(2,3-Dimethyl-5,6,7,8-tetrahydrofuro[2,3-b]quinolin-4-yl)-2-(2-oxo-1-pyrrolidinyl)acetamide"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Racetam]]",
+   "clean": "Racetam"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/coluracetam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2]] - [[Insufflated max light dose::5]] mg",
+   "clean": "2 - 5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::5]] - [[Insufflated max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::10]] - [[Insufflated max strong dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::1]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/coluracetam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::3]] - [[Oral max light dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Coluracetam (BCI-540; formerly MKC-231)  is a nootropic belonging to the racetam family of drugs. It was originally developed and tested by the Mitsubishi Tanabe Pharma Corporation for Alzheimer's disease. After the drug had failed to reach the endpoints in its clinical trials, it was in-licensed by BrainCells Inc for investigations into major depressive disorder (MDD), which was preceded by being awarded a \"Qualifying Therapeutic Discovery Program Grant\" by the state of California. Findings from phase IIa clinical trials have suggested that it would be a possible medication for a comorbid major depressive disorder (MDD) with generalized anxiety disorder (GAD).\n\nColouracetam is easily available and sold through online vendors as a dietary supplement in the United States. Dose for dose colouracetam's potency is nearly twice that of noopept, making it require lower amounts while offering many similar effects. Due to its short acting and acute nature, the preferred ROAs are generally insufflation, sublingual, or vaporisation, though it is still active orally.\n\nThe active dose range of this compound is between 5 and 20mg. This is much smaller than comparable doses of the racetam class of drugs (piracetam, oxiracetam, phenylpiracetam, etc.). Dosages higher than 20mg do not seem to offer any additional benefit.\n\nChemistry\n\nColuracetam, or N-(2,3-Dimethyl-5,6,7,8-tetrahydrofuro[2,3-b]quinolin-4-yl)-2-(2-oxo-1-pyrrolidinyl)acetamide, is a synthetic compound of the racetam family. Racetams share a pyrrolidine nucleus, a five-member nitrogenous ring with a ketone bonded oxygen at R2. This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. \n\nColuracetam features an additional three-ring substituted fluoroquinolone component bonded to RN of the acetamide group. The fluoroquinolone group is comprised of a central nitrogenous pyridine ring fused to a benzyl and furan ring on either side. Two methyl groups are bonded to R2 and R3 of the structure on the furan ring.  Coluracetam is structurally analogous to piracetam with an added fluoroquinolone group.\n\nPharmacology\n\nColuracetam enhances high-affinity choline uptake (HACU), which is the rate-limiting step of acetylcholine (ACh) synthesis. This process essentially allows acetylcholine to accumulate at higher levels than normal. As acetylcholine is involved in the function of memory, this could potentially account for its nootropic effects.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, this compound can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Coluracetam\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational coluracetam use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because coluracetam has very little history of human use. Anecdotal evidence from people who have tried coluracetam within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nThe chronic use of Coluracetam can be considered as not addictive with a low potential for abuse. It does not appear to be capable of causing psychological dependence among certain users. \n\nTolerance to many of the effects of Coluracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Coluracetam may presents cross-tolerance with all racetam [[nootropics]], meaning that after the consumption of Coluracetam certain nootropics such as aniracetam and piracetam may have a reduced effect.\n\nDangerous Interactions\n\nLegal status\n\nColuracetam, being a member of the racetam family, currently is legally available to buy and sell in most countries, but may still vary by region.\n*United Kingdom -  Coluracetam and other racetams are prescription-only drugs; however, there is no penalty for possession or importing them.\n\nLiterature\n\n* Murai, S., Saito, H., Abe, E., Masuda, Y., Odashima, J., & Itoh, T. (1994). MKC-231, a choline uptake enhancer, ameliorates working memory deficits and decreased hippocampal acetylcholine induced by ethylcholine aziridinium ion in mice. Journal of Neural Transmission, 98(1), 1–13. https://doi.org/10.1007/BF01277590\n* Akaike, A., Maeda, T., Kaneko, S., & Tamura, Y. (1998). Protective Effect of MKC-231, a Novel High Affinity Choline Uptake Enhancer, on Glutamate Cytotoxicity in Cultured Cortical Neurons. The Japanese Journal of Pharmacology, 76(2), 219–222. https://doi.org/10.1254/jjp.76.219\n* Shirayama, Y., Yamamoto, A., Nishimura, T., Katayama, S., & Kawahara, R. (2007). Subsequent exposure to the choline uptake enhancer MKC-231 antagonizes phencyclidine-induced behavioral deficits and reduction in septal cholinergic neurons in rats. European Neuropsychopharmacology, 17(9), 616–626. https://doi.org/10.1016/j.euroneuro.2007.02.011\n* Bessho, T., Takashina, K., Eguchi, J., Komatsu, T., & Saito, K. I. (2008). MKC-231, a choline-uptake enhancer: (1) Long-lasting cognitive improvement after repeated administration in AF64A-treated rats. Journal of Neural Transmission, 115(7), 1019–1025. https://doi.org/10.1007/s00702-008-0053-4\n* Takashina, K., Bessho, T., Mori, R., Eguchi, J., & Saito, K. I. (2008). MKC-231, a choline uptake enhancer: (2) Effect on synthesis and release of acetylcholine in AF64A-treated rats. Journal of Neural Transmission, 115(7), 1027–1035. https://doi.org/10.1007/s00702-008-0048-1\n* Takashina, K., Bessho, T., Mori, R., Kawai, K., Eguchi, J., & Saito, K. I. (2008). MKC-231, a choline uptake enhancer: (3) Mode of action of MKC-231 in the enhancement of high-affinity choline uptake. Journal of Neural Transmission, 115(7), 1037–1046. https://doi.org/10.1007/s00702-008-0049-0\n* Malykh, A. G., & Sadaie, M. R. (2010). Piracetam and Piracetam-Like Drugs. Drugs, 70(3), 287–312. https://doi.org/10.2165/11319230-000000000-00000\n\nSee also\n\n*Responsible use\n*Noopept\n*Nootropic\n*Stimulant\n*Modafinil\n\nExternal links\n\n*Coluracetam (Wikipedia)\n*Coluracetam (Isomer Design)\n*Coluracetam (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Nootropic\nCategory:Racetam",
+ "wikitext": "{{headerpanel|}}\n{{SummarySheet}}\n{{SubstanceBox/Coluracetam}}\n\n'''Coluracetam''' ('''BCI-540'''; formerly '''MKC-231''')  is a [[psychoactive class::nootropic]] belonging to the [[chemical class::racetam]] family of drugs.<ref>{{cite journal | vauthors=((Bessho, T.)), ((Takashina, K.)), ((Tabata, R.)), ((Ohshima, C.)), ((Chaki, H.)), ((Yamabe, H.)), ((Egawa, M.)), ((Tobe, A.)), ((Saito, K.)) | journal=Arzneimittel-Forschung | title=Effect of the novel high affinity choline uptake enhancer 2-(2-oxopyrrolidin-1-yl)-N-(2,3-dimethyl-5,6,7,8-tetrahydrofuro[2,3-b] quinolin-4-yl)acetoamide on deficits of water maze learning in rats | volume=46 | issue=4 | pages=369–373 | date= April 1996 | issn=0004-4172}}</ref> It was originally developed and tested by the Mitsubishi Tanabe Pharma Corporation for Alzheimer's disease. After the drug had failed to reach the endpoints in its clinical trials, it was in-licensed by BrainCells Inc for investigations into major depressive disorder (MDD), which was preceded by being awarded a \"Qualifying Therapeutic Discovery Program Grant\" by the state of California. Findings from phase IIa clinical trials have suggested that it would be a possible medication for a comorbid major depressive disorder (MDD) with generalized anxiety disorder (GAD).\n\nColouracetam is easily available and sold through online vendors as a dietary supplement in the United States. Dose for dose colouracetam's potency is nearly twice that of [[noopept]], making it require lower amounts while offering many similar effects. Due to its short acting and acute nature, the preferred [[Routes_of_administration|ROAs]] are generally [[insufflation]], [[sublingual]], or [[vaporisation]], though it is still active orally.\n\nThe active dose range of this compound is between 5 and 20mg. This is much smaller than comparable doses of the racetam class of drugs ([[piracetam]], [[oxiracetam]], [[phenylpiracetam]], etc.). Dosages higher than 20mg do not seem to offer any additional benefit.\n\n==Chemistry==\nColuracetam, or N-(2,3-Dimethyl-5,6,7,8-tetrahydrofuro[2,3-b]quinolin-4-yl)-2-(2-oxo-1-pyrrolidinyl)acetamide, is a synthetic compound of the [[racetam]] family. Racetams share a [[pyrrolidine]] nucleus, a five-member nitrogenous ring with a ketone bonded oxygen at R<sub>2</sub>.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and Piracetam-Like Drugs: From Basic Science to Novel Clinical Applications to CNS Disorders | volume=70 | issue=3 | pages=287–312 | date= February 2010 | url=http://link.springer.com/10.2165/11319230-000000000-00000 | issn=0012-6667 | doi=10.2165/11319230-000000000-00000}}</ref> This 2-pyrrolidone ring is bound to the terminal carbon of an acetamide group, an ethyl amide chain with a ketone bond (C=O) at the alpha carbon. \n\nColuracetam features an additional three-ring substituted fluoroquinolone component bonded to R<sub>N</sub> of the acetamide group. The fluoroquinolone group is comprised of a central nitrogenous pyridine ring fused to a benzyl and furan ring on either side. Two methyl groups are bonded to R<sub>2</sub> and R<sub>3</sub> of the structure on the furan ring.  Coluracetam is structurally analogous to [[piracetam]] with an added fluoroquinolone group.\n\n==Pharmacology==\nColuracetam enhances high-affinity [[choline]] uptake (HACU),<ref>{{cite journal | vauthors=((Murai, S.)), ((Saito, H.)), ((Abe, E.)), ((Masuda, Y.)), ((Odashima, J.)), ((Itoh, T.)) | journal=Journal of Neural Transmission | title=MKC-231, a choline uptake enhancer, ameliorates working memory deficits and decreased hippocampal acetylcholine induced by ethylcholine aziridinium ion in mice | volume=98 | issue=1 | pages=1–13 | date= February 1994 | url=http://link.springer.com/10.1007/BF01277590 | issn=0300-9564 | doi=10.1007/BF01277590}}</ref> which is the rate-limiting step of [[acetylcholine]] (ACh) synthesis. This process essentially allows acetylcholine to accumulate at higher levels than normal. As acetylcholine is involved in the function of memory, this could potentially account for its [[nootropic]] effects.\n\n==Subjective effects==\nIn comparison to the effects of other nootropics such as [[noopept]], this compound can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which coluracetam presents can be considered as primarily subtle and short lasting, comparable to that of [[caffeine]].\n}}\n{{effects/sensory|\nA prominent experience amongst coluracetam's effects is its ability to enhance the immediate five senses.\n*'''[[Effect::Acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Tactile enhancement]]'''\n}}\n|{{effects/cognitive|\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Anxiety suppression]]'''<ref> RESULTS FROM EXPLORATORY PHASE 2A TRIAL OF BCI-540 IN DEPRESSION WITH ANXIETY | https://web.archive.org/web/20111121081645/http://www.braincellsinc.com/wp-content/uploads/2010/06/BCI-PR-06142010.pdf</ref>\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Coluracetam.shtml Erowid Experience Vaults: Coluracetam]\n\n==Toxicity and harm potential==\nThe toxicity and long-term health effects of recreational coluracetam use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because coluracetam has very little history of human use. Anecdotal evidence from people who have tried coluracetam within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nThe chronic use of Coluracetam can be considered as [[Addiction potential::not addictive with a low potential for abuse]]. It does not appear to be capable of causing psychological dependence among certain users. \n\nTolerance to many of the effects of Coluracetam [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Coluracetam may presents cross-tolerance with [[Cross-tolerance::all [[racetam]] [[nootropic]]s]], meaning that after the consumption of Coluracetam certain [[nootropics]] such as [[aniracetam]] and [[piracetam]] may have a reduced effect.\n\n===Dangerous Interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\n{{legalStub}}\n\nColuracetam, being a member of the [[racetam]] family, currently is legally available to buy and sell in most countries, but may still vary by region.\n*'''United Kingdom''' -  Coluracetam and other racetams are prescription-only drugs; however, there is no penalty for possession or importing them.\n\n==Literature==\n* Murai, S., Saito, H., Abe, E., Masuda, Y., Odashima, J., & Itoh, T. (1994). MKC-231, a choline uptake enhancer, ameliorates working memory deficits and decreased hippocampal acetylcholine induced by ethylcholine aziridinium ion in mice. Journal of Neural Transmission, 98(1), 1–13. https://doi.org/10.1007/BF01277590\n* Akaike, A., Maeda, T., Kaneko, S., & Tamura, Y. (1998). Protective Effect of MKC-231, a Novel High Affinity Choline Uptake Enhancer, on Glutamate Cytotoxicity in Cultured Cortical Neurons. The Japanese Journal of Pharmacology, 76(2), 219–222. https://doi.org/10.1254/jjp.76.219\n* Shirayama, Y., Yamamoto, A., Nishimura, T., Katayama, S., & Kawahara, R. (2007). Subsequent exposure to the choline uptake enhancer MKC-231 antagonizes phencyclidine-induced behavioral deficits and reduction in septal cholinergic neurons in rats. European Neuropsychopharmacology, 17(9), 616–626. https://doi.org/10.1016/j.euroneuro.2007.02.011\n* Bessho, T., Takashina, K., Eguchi, J., Komatsu, T., & Saito, K. I. (2008). MKC-231, a choline-uptake enhancer: (1) Long-lasting cognitive improvement after repeated administration in AF64A-treated rats. Journal of Neural Transmission, 115(7), 1019–1025. https://doi.org/10.1007/s00702-008-0053-4\n* Takashina, K., Bessho, T., Mori, R., Eguchi, J., & Saito, K. I. (2008). MKC-231, a choline uptake enhancer: (2) Effect on synthesis and release of acetylcholine in AF64A-treated rats. Journal of Neural Transmission, 115(7), 1027–1035. https://doi.org/10.1007/s00702-008-0048-1\n* Takashina, K., Bessho, T., Mori, R., Kawai, K., Eguchi, J., & Saito, K. I. (2008). MKC-231, a choline uptake enhancer: (3) Mode of action of MKC-231 in the enhancement of high-affinity choline uptake. Journal of Neural Transmission, 115(7), 1037–1046. https://doi.org/10.1007/s00702-008-0049-0\n* Malykh, A. G., & Sadaie, M. R. (2010). Piracetam and Piracetam-Like Drugs. Drugs, 70(3), 287–312. https://doi.org/10.2165/11319230-000000000-00000\n\n==See also==\n*[[Responsible use]]\n*[[Noopept]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Modafinil]]\n==External links==\n*[https://en.wikipedia.org/wiki/Coluracetam Coluracetam (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9971 Coluracetam (Isomer Design)]\n*[https://examine.com/supplements/coluracetam/ Coluracetam (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Racetam]]\n{{#set:Featured=true}}"
+}

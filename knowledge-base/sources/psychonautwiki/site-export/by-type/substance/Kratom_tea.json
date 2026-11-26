@@ -1,0 +1,320 @@
+{
+ "id": "psychonautwiki:11670",
+ "type": "substance",
+ "title": "Kratom tea",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Kratom_tea",
+  "pageid": 11670,
+  "last_edited": "2017-09-27T19:59:03Z"
+ },
+ "categories": [
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/Kratom",
+ "substance_box": {
+  "names": {
+   "common": "Mitragyna Speciosa, กระท่อม (Thai), Ketum, Kratom, Kratum",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": "Opioid / Stimulant",
+   "chemical": "Indole alkaloids"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1  g",
+    "light": "2 - 3 g",
+    "common": "3 - 5 g",
+    "strong": "5 - 8 g",
+    "heavy": "8 g +",
+    "duration": "3 - 7 hours",
+    "onset": "20 - 40 minutes",
+    "peak": "1 - 3 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Mitragyna Speciosa",
+    "กระท่อม (Thai)",
+    "Ketum",
+    "Kratom",
+    "Kratum"
+   ],
+   "Psychoactive class": [
+    "Opioid",
+    "Stimulant"
+   ],
+   "Chemical class": [
+    "Indole alkaloids"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "g"
+   ],
+   "Oral min light dose": [
+    "2"
+   ],
+   "Oral max light dose": [
+    "3"
+   ],
+   "Oral min common dose": [
+    "3"
+   ],
+   "Oral max common dose": [
+    "5"
+   ],
+   "Oral min strong dose": [
+    "5"
+   ],
+   "Oral max strong dose": [
+    "8"
+   ],
+   "Oral heavy dose": [
+    "8"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Mitragyna_speciosa.jpg",
+   "clean": "File:Mitragyna_speciosa.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Drawing of M. speciosa",
+   "clean": "Drawing of M. speciosa"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalSImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "File:Kratompowder.jpg",
+   "clean": "File:Kratompowder.jpg"
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Mitragyna Speciosa]], [[common name::กระท่อม (Thai)]], [[common name::Ketum]], [[common name::Kratom]], [[common name::Kratum]]",
+   "clean": "Mitragyna Speciosa, กระท่อม (Thai), Ketum, Kratom, Kratum"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Opioid]] / [[Psychoactive class::Stimulant]]",
+   "clean": "Opioid / Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Indole alkaloids]]",
+   "clean": "Indole alkaloids"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units:: g]]",
+   "clean": "1  g"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2]] - [[Oral max light dose::3]] g",
+   "clean": "2 - 3 g"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::3]] - [[Oral max common dose::5]] g",
+   "clean": "3 - 5 g"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::5]] - [[Oral max strong dose::8]] g",
+   "clean": "5 - 8 g"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::8]] g +",
+   "clean": "8 g +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "3 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Kratom can be made into a tea with other tea leaves to mask the bitterness while still receiving the effects. The alkaloids in kratom are more water-soluble when reacted with an acid, but that will make the tea sour; however, just making the tea with this method has not shown much of a noticeable difference in potency.\n\nMaterials\n\n* Powdered kratom at whatever dose is preferred (3g is sufficient for a single cup)\n* Small pot\n* Tea leaves (mint works very well)\n* Coffee filter\n\nSteps\n\nStep 1: Boiling the water\n\nPut about 0.75 cup for every 2.5g of kratom in the pot and heat until boiling. Reduce heat to medium low (just boiling).\n\nStep 2: Boiling the tea\n\nKratom is put into the water along with tea leaves and stirred until no clumps remain. The tea is stirred every 3-5 minutes to make sure nothing sticks to the bottom of the pot and the tea is boiled on medium low heat for 20 minutes.\n\nStep 3: Filtering the solids\n\nThe pot is removed from the burner and the tea is poured through a coffee filter. The liquid is the tea and the solids are put back in the pot and steps 1-3 are repeated with 0.25 cups of water per 2.5 grams of Kratom. This removes remaining alkaloids from the kratom. This step can be repeated multiple times but 2 times seems to be sufficient.\n\nStep 4: Disposing of the solids\n\nAfter the last filtration, the solids can be disposed of or stored in an air tight container and frozen. After a large collection of depleted kratom is collected, it can be processed again to pull out some remaining alkaloids, but its more effective to just do an extract on it and boil it down to a concentrate.\n\nCategory:Preparation",
+ "wikitext": "{{disclaimer}}\n{{SubstanceBox/Kratom}}\n[[Kratom]] can be made into a tea with other tea leaves to mask the bitterness while still receiving the effects. The alkaloids in [[kratom]] are more water-soluble when reacted with an acid, but that will make the tea sour; however, just making the tea with this method has not shown much of a noticeable difference in potency.\n\n==Materials==\n* Powdered [[kratom]] at whatever dose is preferred (3g is sufficient for a single cup)\n* Small pot\n* Tea leaves (mint works very well)\n* Coffee filter\n\n==Steps==\n===Step 1: Boiling the water===\nPut about 0.75 cup for every 2.5g of [[kratom]] in the pot and heat until boiling. Reduce heat to medium low (just boiling).\n===Step 2: Boiling the tea===\n[[Kratom]] is put into the water along with tea leaves and stirred until no clumps remain. The tea is stirred every 3-5 minutes to make sure nothing sticks to the bottom of the pot and the tea is boiled on medium low heat for 20 minutes.\n===Step 3: Filtering the solids===\nThe pot is removed from the burner and the tea is poured through a coffee filter. The liquid is the tea and the solids are put back in the pot and steps 1-3 are repeated with 0.25 cups of water per 2.5 grams of [[Kratom]]. This removes remaining alkaloids from the [[kratom]]. This step can be repeated multiple times but 2 times seems to be sufficient.\n===Step 4: Disposing of the solids===\nAfter the last filtration, the solids can be disposed of or stored in an air tight container and frozen. After a large collection of depleted [[kratom]] is collected, it can be processed again to pull out some remaining alkaloids, but its more effective to just do an extract on it and boil it down to a concentrate.\n\n[[Category:Preparation]]"
+}

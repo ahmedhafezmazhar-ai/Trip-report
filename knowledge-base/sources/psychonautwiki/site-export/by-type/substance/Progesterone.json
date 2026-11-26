@@ -1,0 +1,549 @@
+{
+ "id": "psychonautwiki:21703",
+ "type": "substance",
+ "title": "Progesterone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Progesterone",
+  "pageid": 21703,
+  "last_edited": "2025-10-04T22:25:54Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with invalid date parameter in template",
+  "Articles with unsourced statements from March 2024",
+  "Hormone",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Progesterone",
+ "substance_box": {
+  "names": {
+   "common": "P4, Pregnenedione",
+   "substitutive": "Pregn-4-ene-3,20-dione",
+   "systematic": "(1S,3aS,3bS,9aR,9bS,11aS)-1-Acetyl-9a,11a-dimethyl-1,2,3,3a,3b,4,5,8,9,9a,9b,10,11,11a-tetradecahydro-7H-cyclopenta[a]phenanthren-7-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Steroid"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "10%",
+    "threshold": "100 mg",
+    "light": "100 - 200 mg",
+    "common": "200 - 400 mg",
+    "strong": "400 - 600 mg",
+    "heavy": "600 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "30 - 60 minutes",
+    "comeup": "50 - 100 minutes",
+    "peak": "20 - 40 minutes",
+    "offset": "20 - 40 minutes",
+    "aftereffects": "4 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "100 mg",
+    "light": "100 - 200 mg",
+    "common": "200 - 400 mg",
+    "strong": "400 - 600 mg",
+    "heavy": "600 mg +",
+    "duration": "8 - 12 hours",
+    "onset": "2 - 3 hours",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Steroid"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "200"
+   ],
+   "Oral min common dose": [
+    "200"
+   ],
+   "Oral max common dose": [
+    "400"
+   ],
+   "Oral min strong dose": [
+    "400"
+   ],
+   "Oral max strong dose": [
+    "600"
+   ],
+   "Oral heavy dose": [
+    "600"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes",
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "50"
+   ],
+   "Oral max comeup time": [
+    "100"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "20"
+   ],
+   "Oral max peak time": [
+    "40"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "20"
+   ],
+   "Oral max offset time": [
+    "40"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "100"
+   ],
+   "Rectal max light dose": [
+    "200"
+   ],
+   "Rectal min common dose": [
+    "200"
+   ],
+   "Rectal max common dose": [
+    "400"
+   ],
+   "Rectal min strong dose": [
+    "400"
+   ],
+   "Rectal max strong dose": [
+    "600"
+   ],
+   "Rectal heavy dose": [
+    "600"
+   ],
+   "Rectal min total time": [
+    "8"
+   ],
+   "Rectal max total time": [
+    "12"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "2"
+   ],
+   "Rectal max onset time": [
+    "3"
+   ],
+   "Rectal min afterglow time": [
+    "6"
+   ],
+   "Rectal max afterglow time": [
+    "12"
+   ],
+   "Rectal afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Progesterone.",
+   "clean": "Progesterone."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Progesterone.svg",
+   "clean": "File:Progesterone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "P4, Pregnenedione",
+   "clean": "P4, Pregnenedione"
+  },
+  "NameSubstitution": {
+   "raw": "Pregn-4-ene-3,20-dione",
+   "clean": "Pregn-4-ene-3,20-dione"
+  },
+  "NameSystematic": {
+   "raw": "(1S,3aS,3bS,9aR,9bS,11aS)-1-Acetyl-9a,11a-dimethyl-1,2,3,3a,3b,4,5,8,9,9a,9b,10,11,11a-tetradecahydro-7H-cyclopenta[a]phenanthren-7-one",
+   "clean": "(1S,3aS,3bS,9aR,9bS,11aS)-1-Acetyl-9a,11a-dimethyl-1,2,3,3a,3b,4,5,8,9,9a,9b,10,11,11a-tetradecahydro-7H-cyclopenta[a]phenanthren-7-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Steroid]]",
+   "clean": "Steroid"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "10%",
+   "clean": "10%"
+  },
+  "OralROA_Threshold": {
+   "raw": "100 [[Oral dose units::mg]]",
+   "clean": "100 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::200]] - [[Oral max common dose::400]] mg",
+   "clean": "200 - 400 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::400]] - [[Oral max strong dose::600]] mg",
+   "clean": "400 - 600 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::600]] mg +",
+   "clean": "600 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::50]] - [[Oral max comeup time::100]] [[Oral comeup time units::minutes]]",
+   "clean": "50 - 100 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::20]] - [[Oral max peak time::40]] [[Oral peak time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::20]] - [[Oral max offset time::40]] [[Oral offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "100 [[Rectal dose units::mg]]",
+   "clean": "100 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::100]] - [[Rectal max light dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::200]] - [[Rectal max common dose::400]] mg",
+   "clean": "200 - 400 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::400]] - [[Rectal max strong dose::600]] mg",
+   "clean": "400 - 600 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::600]] mg +",
+   "clean": "600 mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::8]] - [[Rectal max total time::12]] [[Rectal total time units::hours]]",
+   "clean": "8 - 12 hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::2]] - [[Rectal max onset time::3]] [[Oral onset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "RectalROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::6]] - [[Rectal max afterglow time::12]] [[Rectal afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "Pregn-4-ene-3,20-dione, also known as Progesterone or P4 is a steroid sex hormone of the progestogen class. It occurs naturally and is the bodies major progestogen.\n\nProgesterone can be taken orally, vaginal, rectal and by subcutaneous or intramuscular injection.\n\nProgesterone is commonly used as a part of trans-feminising hormone therapy or post menopausal Hormone replacement therapy.\nthumb|Progesterone Besins 200mg\n\nHistory and culture\n\nProgesterone was first discovered in 1929 by George W. Corner and Willard M. Allen. By 1934 pure crystalline material was achieved by Adolf Butenandt at the Chemisches Institut of Technical University in wikipedia:Gdańsk. Synthesis was accomplished later that year.\n\nIn a 2012 study higher levels of progesterone were linked to lower affinity to competitive behavior in women.\n\nChemistry\n\nProgesterone is a naturally occurring pregnane steroid and is also known as pregn-4-ene-3,20-dione. It has a double bond (4-ene) between the C4 and C5 positions and two ketone groups (3,20-dione), one at the C3 position and the other at the C20 position.\n\nPharmacology\n\nProgesterone on it's own acts as a antagonist on the σ2 receptor and as a negative allosteric modulator on nicotinic acetylcholine receptors. However most of the psychoactive effects of progesterone are induced by it's metabolites.\n\nMetabolism\n\nProgesterone is mainly metabolised in the liver, therefore the route of administration significantly influences the intensity of experienced effects. The most important metabolites are allopregnanolone, pregnanolone, isopregnanolone and epipregnanolone.\nAllopregnanolone and Pregnanolone are documented to have antidepressant, anxiolytic, stress reducing, antiagressive, sedative, sleep aiding, analgesic, amnesic, anesthetic, anticonvulsant & neuroprotective effects.Allopregnanolone and Pregnanolone act as positive allosteric modulators of GABAA whereas isopregnanolone and epipregnanolone selectively counteract GABAA as well as the sedative and anesthetic effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nToxicity and harm potential\n\nWarning: Progesterone is a naturally occuring sex hormone, changing its levels might induce gender dysphoria or premenstrual syndrome.\n\nProgesterone has relatively low toxicity relative to dose.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nThe observed LD50 in mice was 100mg/kg via intravenous, 327mg/kg intraperitoneal and > 200mg/kg orally, anasthetic effects were observed at 16mg/kg intraperitoneal.\n\nTolerance and addiction potential\n\nDependence potential of Progesterone has been sparsely reported by transfeminine people. There is one case report of a women on post menopausal HRT that documents addiction.\n\nTolerance to the offects of Progesterone metabolites on GABA will build within a few years and return to baseline within a few months after cessation.\n\nInteractions\n\nCombining oral progesterone with food leads to a two fold increase in absorptions.  Since oral progesterone is a oil soluable reports of increased effects when combined with fatty foods do seem plausible.\n\nDangerous interactions\n\n*Depressants Taking oral progesterone together with alcohol or barbiturates will increase absorption rates and peak potentially leading to black out intervals or loss of motor control, anesthetic levels in humans are not documented, but might be reachable. Other dangerous depressants are benzodiazepines and opioids since their absorption can be increased, resulting in a higher risk of overdose.\n\nLegal status\n\nProgesterone is widely available as prescription medication or in some cases over the counter and generally not controlled. Taking transgender HRT is not as widely accepted and may be prosecuted. \n\nSee also\n\n*Responsible use\n*Hormone\n*GABA\n*Estradiol\n\nExternal links\n\n*Progesterone(hormone) (Wikipedia)\n*Progesterone(medication) (Wikipedia)\n*Progesterone (DrugBank)\n*Progesterone (Drugs.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Hormone",
+ "wikitext": "{{headerpanel|{{DepressantOD|GABAergics|Opioids}}}}\n{{SubstanceBox/Progesterone}}\n{{SummarySheet}}\n'''Pregn-4-ene-3,20-dione''', also known as '''Progesterone''' or '''P4''' is a [[wikipedia:steroid|steroid]] sex [[hormone]] of the [[wikipedia:progestogen|progestogen]] class. It occurs naturally and is the bodies major progestogen.\n\nProgesterone can be taken [[orally]], [[wikipedia:vaginal|vaginal]], [[rectal]] and by [[subcutaneous]] or [[intramuscular]] [[injection]].\n\nProgesterone is commonly used as a part of [[wikipedia:Transgender_hormone_therapy|trans-feminising hormone therapy]] or [[wikipedia:Menopause|post menopausal]] [[wikipedia:Hormone replacement therapy|Hormone replacement therapy]].\n[[File:Progesterone Blister.jpg|thumb|Progesterone Besins 200mg]]\n\n==History and culture==\nProgesterone was first discovered in 1929 by George W. Corner and Willard M. Allen. By 1934 pure crystalline material was achieved by Adolf Butenandt at the ''[[wikipedia:Gdańsk_University_of_Technology|Chemisches Institut of Technical University]]'' in [[wikipedia:Gdańsk]]. Synthesis was accomplished later that year.\n<ref name=\"Josimovich 2013 p.\">{{cite book | last=Josimovich | first=J.B. | title=Gynecologic Endocrinology | publisher=Springer Science & Business Media |url=https://books.google.com/books?id=9vv2BwAAQBAJ&pg=PA25 |date=11 November 2013 |access-date=1 February 2016 |archive-date=14 January 2023 |archive-url=https://web.archive.org/web/20230114024947/https://books.google.com/books?id=9vv2BwAAQBAJ&pg=PA25| isbn=978-1-4613-2157-6 |pages=9, 25–29 }}</ref>\n\nIn a 2012 study higher levels of progesterone were linked to lower affinity to competitive behavior in women.<ref name=\"Buser 2012 pp. 1–10\">{{cite journal | last=Buser | first=Thomas | title=The impact of the menstrual cycle and hormonal contraceptives on competitiveness|journal=Journal of Economic Behavior & Organization|series=Gender Differences in Risk Aversion and Competition|volume=83|issue=1|pages=1–10|doi=10.1016/j.jebo.2011.06.006|issn=0167-2681|url=https://pure.uva.nl/ws/files/1864146/117489_376503.pdf|access-date=2 February 2024|archive-date=2 February 2024|archive-url=https://web.archive.org/web/20240202143019/https://pure.uva.nl/ws/files/1864146/117489_376503.pdf}}</ref><ref name=\"Piosik 2003 pp. 135–138\">{{cite journal | last=Piosik | first=Romuald | title=Adolf Butenandt und sein Wirken an der Technischen Hochschule Danzig | journal=CHEMKON | volume=10 | issue=3 | date=2003 | issn=0944-5846 | doi=10.1002/ckon.200390038 | pages=135–138}}</ref>\n\n==Chemistry==\nProgesterone is a naturally occurring pregnane steroid and is also known as pregn-4-ene-3,20-dione. It has a double bond (4-ene) between the C4 and C5 positions and two ketone groups (3,20-dione), one at the C3 position and the other at the C20 position.<ref name=\"Pubchem\">{{Cite web|date= 12 March 2024|title= Compound Summary Progesterone| publisher=National Library of Medicine|access-date=12 March 2024|url=https://pubchem.ncbi.nlm.nih.gov/compound/progesterone}}</ref>\n\n==Pharmacology==\nProgesterone on it's own acts as a [[antagonist]] on the [[wikipedia:Sigma-2 receptor|'''σ<sub>2</sub>''' receptor]] and as a [[wikipedia:negative allosteric modulator|negative allosteric modulator]] on [[wikipedia:nicotinic acetylcholine receptors|nicotinic acetylcholine receptors]]. However most of the psychoactive effects of progesterone are induced by it's metabolites.<ref name=\"Gonzalez 2020 p. 1846\">{{cite journal | last=Gonzalez | first=Susana Laura | title=Progesterone for the treatment of central nervous system disorders: the many signaling roads for a single molecule | journal=Neural Regeneration Research | volume=15 | issue=10 | date=2020 | issn=1673-5374 | pmid=32246629 | pmc=7513974 | doi=10.4103/1673-5374.280314 | doi-access=free | page=1846}}</ref>\n\n===Metabolism===\nProgesterone is mainly metabolised in the liver, therefore the route of administration significantly influences the intensity of experienced effects. The most important metabolites are [[wikipedia:allopregnanolone|allopregnanolone]], [[wikipedia:pregnanolone|pregnanolone]], [[wikipedia:isopregnanolone|isopregnanolone]] and [[wikipedia:epipregnanolone|epipregnanolone]].<ref name=\"Kolatorova Vitku Suchopar Hill 2022 p. 7989\">{{cite journal | last=Kolatorova | first=Lucie | last2=Vitku | first2=Jana | last3=Suchopar | first3=Josef | last4=Hill | first4=Martin | last5=Parizek | first5=Antonin | title=Progesterone: A Steroid with Wide Range of Effects in Physiology as Well as Human Medicine | journal=International Journal of Molecular Sciences | volume=23 | issue=14 | date=2022-07-20 | issn=1422-0067 | pmid=35887338 | doi=10.3390/ijms23147989 | doi-access=free | page=7989}}</ref>\nAllopregnanolone and Pregnanolone are documented to have [[antidepressant]], [[anxiolytic]], stress reducing, antiagressive, [[sedative]], sleep aiding, [[analgesic]], [[amnesic]], [[wikipedia:anesthetic|anesthetic]], [[anticonvulsant]] & [[wikipedia:neuroprotective|neuroprotective]] effects.<ref name=\"Diviccaro Cioffi Falvo Giatti 2022 p.\">{{cite journal | last=Diviccaro | first=Silvia | last2=Cioffi | first2=Lucia | last3=Falvo | first3=Eva | last4=Giatti | first4=Silvia | last5=Melcangi | first5=Roberto Cosimo | title=Allopregnanolone: An overview on its synthesis and effects | journal=Journal of Neuroendocrinology | volume=34 | issue=2 | date=2022 | issn=0953-8194 | pmid=34189791 | doi=10.1111/jne.12996 | page=}}</ref><ref name=\"PubChem p788\">{{cite web | title=Brexanolone | website=PubChem | url=https://pubchem.ncbi.nlm.nih.gov/compound/92786 | access-date=2024-03-12}}</ref>Allopregnanolone and Pregnanolone act as positive allosteric modulators of [[GABA]]<sub>A</sub> whereas isopregnanolone and epipregnanolone selectively counteract GABA<sub>A</sub> as well as the sedative and anesthetic effects.<ref name=\"Kolatorova Vitku Suchopar Hill 2022 p. 7989\">{{cite journal | last=Kolatorova | first=Lucie | last2=Vitku | first2=Jana | last3=Suchopar | first3=Josef | last4=Hill | first4=Martin | last5=Parizek | first5=Antonin | title=Progesterone: A Steroid with Wide Range of Effects in Physiology as Well as Human Medicine | journal=International Journal of Molecular Sciences | volume=23 | issue=14 | date=2022-07-20 | issn=1422-0067 | pmid=35887338 | doi=10.3390/ijms23147989 | doi-access=free | page=7989}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\nIf applicable, a brief paragraph summary of the substance's physical effects may be included here.\n\nYou may select physical effects to add below [[Subjective effect index#Physical effects|here]].\n\n*'''[[Effect::Increased bodily temperature]]''' - at high concentration progesterone elevates body temperature for ~1°C\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Motor control loss]]'''\n}}\n<!--{{effects/visual|\nIf applicable, a brief paragraph summary of the substance's visual effects may be included here.\n\nYou may select visual effects to add below [[Subjective effect index#Visual effects|here]].\n\n====Enhancements====\n*'''[[Effect::Visual acuity effect1]]'''\n\n====Distortions====\n*'''[[Effect::Visual distortion effect1]]'''\n\n====[[Effect::Geometry]]====\nIf applicable, a brief paragraph summary describing the visual geometry produced by the substance may be included here.\n====Hallucinatory states====\nIf applicable, a brief summary of the substance's visual effects profile may be written here.\n\n*'''[[Effect::Hallucinatory states1]]'''\n\n}}-->\n\n|{{effects/cognitive|\nIf applicable, a brief paragraph summary of the substance's cognitive effects may be included here.\n\nYou may select from a list of cognitive effects to add below [[Subjective effect index#Cognitive effects|here]].\n\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Sleepiness]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Increased music appreciation]]'''\n}}\n<!--{{effects/auditory|\nIf applicable, a brief paragraph summary of the substance's auditory effects may be included here.\n\nYou may select from a list of auditory effects to add below [[Subjective effect index#Auditory effects|here]].\n\n*'''[[Effect::Auditory effect1]]'''\n*'''[[Effect::Auditory effect2]]'''\n\n}}-->\n<!--{{effects/multisensory|\nIf applicable, a brief paragraph summary of the substance's multisensory effects may be included here.\n\nYou may select from a list of multisensory effects to add below [[Subjective effect index#Multisensory effects|here]].\n\n*'''[[Effect::Multisensory effect1]]'''\n*'''[[Effect::Multisensory effect2]]'''\n\n}}-->\n<!--{{effects/transpersonal|\nIf applicable, a brief paragraph summary of the substance's transpersonal effects may be included here.\n\nYou may select from a list of transpersonal effects to add below [[Subjective effect index#Transpersonal effects|here]].\n\n*'''[[Effect::Transpersonal effect1]]'''\n*'''[[Effect::Transpersonal effect2]]'''\n\n}}-->\n\n{{effects/aftereffects|\n\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Sleepiness]]'''\n\n}}\n}}\n\n===Experience reports===\nThere are currently {{#ask:[[Category:Progesterone]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:Progesterone]][[Category:Experience]]|format=ul|Columns=1}}\n<!-- Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_SUBSTANCE.shtml Erowid Experience Vaults: SUBSTANCE] <!-- Check the link to see if it exists -->\n\n==Toxicity and harm potential==\n'''Warning:''' Progesterone is a naturally occuring sex hormone, changing its levels might induce gender dysphoria or premenstrual syndrome.\n\nProgesterone has relatively low toxicity relative to dose.\n\nIt is strongly recommended that one use [[harm reduction practices]] when using this substance.\n\n===Lethal dosage===\nThe observed LD50 in mice was 100mg/kg via intravenous, 327mg/kg intraperitoneal and > 200mg/kg orally, anasthetic effects were observed at 16mg/kg intraperitoneal.<ref name=\"OEHA2004\">{{cite web | publisher=Office of Environmental Health Hazard Assessment California Environmental Protection Agency | title=EVIDENCE ON THE DEVELOPMENTAL AND REPRODUCTIVE TOXICITY OF Progesterone | url=https://oehha.ca.gov/media/downloads/proposition-65/chemicals/progeshid5.pdf | access-date=2024-03-12}}</ref>\n\n===Tolerance and addiction potential===\nDependence potential of Progesterone has been sparsely reported by transfeminine people. There is one case report of a women on post menopausal HRT that documents addiction.<ref name=\"React Weekly 1996 p. 9\">{{cite journal | author=&Na; | title=Progesterone abuse Adverse effects: case report | journal=Reactions Weekly | volume=&NA; | issue=599 | date=1996 | issn=0114-9954 | doi=10.2165/00128415-199605990-00031 | page=9}}</ref>\n\nTolerance to the offects of Progesterone metabolites on GABA will build within a few years and return to baseline within a few months after cessation.{{Citation needed|date=March 2024|reason=from a pharma perspective this estimate makes sense, but hasn't been medically investigated}}\n\n===Interactions===\nCombining oral progesterone with food leads to a two fold increase in absorptions. <ref name=\"Simon Robinson Andrews Hildebrand 1993 pp. 26–33\">{{cite journal | last=Simon | first=James A. | last2=Robinson | first2=Denise E. | last3=Andrews | first3=Mason C. | last4=Hildebrand | first4=James R. | last5=Rocci | first5=Mario L. | last6=Blake | first6=Richard E. | last7=Hodgen | first7=Gary D. | title=The absorption of oral micronized progesterone: the effect of food, dose proportionality, and comparison with intramuscular progesterone | journal=Fertility and Sterility | volume=60 | issue=1 | date=1993 | doi=10.1016/S0015-0282(16)56031-2 | pages=26–33}}</ref> Since oral progesterone is a oil soluable reports of increased effects when combined with fatty foods do seem plausible.\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n*'''[[Depressants]]''' Taking oral progesterone together with [[alcohol]] or [[barbiturates]] will increase absorption rates and peak potentially leading to black out intervals or loss of motor control, anesthetic levels in humans are not documented, but might be reachable. Other dangerous depressants are [[benzodiazepines]] and [[opioids]] since their absorption can be increased, resulting in a higher risk of overdose.<ref name=\"DrugBank Online 2016 t459\">{{cite web | title=Progesterone: Uses, Interactions, Mechanism of Action | website=DrugBank Online | date=2016-04-13 | url=https://go.drugbank.com/drugs/DB00396 | access-date=2024-03-12}}</ref>\n\n==Legal status==\n{{LegalStub}}\nProgesterone is widely available as prescription medication or in some cases over the counter and generally not controlled. Taking transgender HRT is not as widely accepted and may be prosecuted. <ref name=\"Drugs.com 2024 l855\">{{cite web | title=Progesterone (International database) | website=Drugs.com | date=2024-03-03 | url=https://www.drugs.com/international/progesterone.html | access-date=2024-03-12}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Hormone]]\n*[[GABA]]\n*[[Estradiol]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Progesterone Progesterone(hormone) (Wikipedia)]\n*[https://en.wikipedia.org/wiki/Progesterone_(medication) Progesterone(medication) (Wikipedia)]\n*[https://go.drugbank.com/drugs/DB00396 Progesterone (DrugBank)]\n*[https://www.drugs.com/progesterone.html Progesterone (Drugs.com)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Hormone]]"
+}

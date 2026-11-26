@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10950",
+ "type": "substance-summary",
+ "title": "N-methylbisfluoromodafinil/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/N-methylbisfluoromodafinil/Summary",
+  "pageid": 10950,
+  "last_edited": "2017-08-29T23:20:33Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "N-methylbisfluoromodafinil",
+ "plain_text": "",
+ "wikitext": "{{Summary|Dehydroxyfluorafinil}}"
+}

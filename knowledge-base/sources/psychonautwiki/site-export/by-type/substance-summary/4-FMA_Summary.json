@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13630",
+ "type": "substance-summary",
+ "title": "4-FMA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-FMA/Summary",
+  "pageid": 13630,
+  "last_edited": "2017-01-09T22:00:55Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-FMA",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-FMA}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10351",
+ "type": "substance-summary",
+ "title": "ALD-52/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/ALD-52/Summary",
+  "pageid": 10351,
+  "last_edited": "2015-10-14T20:51:01Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "ALD-52",
+ "plain_text": "",
+ "wikitext": "{{Summary|ALD-52}}"
+}

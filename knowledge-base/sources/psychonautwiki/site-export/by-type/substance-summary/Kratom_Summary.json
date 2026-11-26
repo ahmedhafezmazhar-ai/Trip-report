@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10905",
+ "type": "substance-summary",
+ "title": "Kratom/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Kratom/Summary",
+  "pageid": 10905,
+  "last_edited": "2015-11-13T07:56:38Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Kratom",
+ "plain_text": "",
+ "wikitext": "{{Summary|Kratom}}"
+}

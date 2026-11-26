@@ -1,0 +1,415 @@
+{
+ "id": "psychonautwiki:14151",
+ "type": "substance",
+ "title": "APICA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/APICA",
+  "pageid": 14151,
+  "last_edited": "2025-01-31T19:18:12Z"
+ },
+ "categories": [
+  "Adamantane",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Cannabinoid",
+  "Cycloalkylamine",
+  "Indolecarboxamide",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/APICA",
+ "substance_box": {
+  "names": {
+   "common": "APICA, SDB-001, 2NE1",
+   "substitutive": "APICA",
+   "systematic": "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Indolecarboxamide"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 0.5 mg",
+    "light": "0.5 - 1.5 mg",
+    "common": "1.5 - 2 mg",
+    "strong": "2 - 4 mg",
+    "heavy": "4 mg +",
+    "duration": "30 - 60 minutes",
+    "onset": "0 - 20 seconds",
+    "peak": "10 - 30 minutes",
+    "offset": "5 - 10 minutes",
+    "aftereffects": "15 - 35 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "APICA",
+    "SDB-001",
+    "2NE1"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Indolecarboxamide"
+   ],
+   "Smoked threshold dose": [
+    "0.5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "0.5"
+   ],
+   "Smoked max light dose": [
+    "1.5"
+   ],
+   "Smoked min common dose": [
+    "1.5"
+   ],
+   "Smoked max common dose": [
+    "2"
+   ],
+   "Smoked min strong dose": [
+    "2"
+   ],
+   "Smoked max strong dose": [
+    "4"
+   ],
+   "Smoked heavy dose": [
+    "4"
+   ],
+   "Smoked min total time": [
+    "30"
+   ],
+   "Smoked max total time": [
+    "60"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "0"
+   ],
+   "Smoked max onset time": [
+    "20"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "10"
+   ],
+   "Smoked max peak time": [
+    "30"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "5"
+   ],
+   "Smoked max offset time": [
+    "10"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "15"
+   ],
+   "Smoked max afterglow time": [
+    "35"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of APICA",
+   "clean": "Molecular structure of APICA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:APICA.svg",
+   "clean": "File:APICA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::APICA]], [[common name::SDB-001]], [[common name::2NE1]]",
+   "clean": "APICA, SDB-001, 2NE1"
+  },
+  "NameSubstitution": {
+   "raw": "APICA",
+   "clean": "APICA"
+  },
+  "NameSystematic": {
+   "raw": "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
+   "clean": "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Indolecarboxamide]]",
+   "clean": "Indolecarboxamide"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< [[Smoked threshold dose::0.5]] [[Smoked dose units::mg]]",
+   "clean": "< 0.5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::0.5]] - [[Smoked max light dose::1.5]] mg",
+   "clean": "0.5 - 1.5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::1.5]] - [[Smoked max common dose::2]] mg",
+   "clean": "1.5 - 2 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::2]] - [[Smoked max strong dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::4]] mg +",
+   "clean": "4 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::30]] - [[Smoked max total time::60]] [[Smoked total time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0]] - [[Smoked max onset time::20]] [[Smoked onset time units::seconds]]",
+   "clean": "0 - 20 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::10]] - [[Smoked max peak time::30]] [[Smoked peak time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::5]] - [[Smoked max offset time::10]] [[Smoked offset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::15]] - [[Smoked max afterglow time::35]] [[Smoked afterglow time units::minutes]]",
+   "clean": "15 - 35 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "OralROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "OralROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "APICA (also known as SDB-001, and 2NE1) is a novel synthetic cannabinoid that produces modified cannabis-like effects when administered. It has been shown to act as a potent agonist for the CB1 and CB2 cannabinoid receptors.\n\nThe name \"2NE1\" appears to be a reference to the South Korean all-girl K-Pop group, a naming convention shared by the closely related chemical AKB48. In 2011, the two chemicals were first identified in Japan as a mixture in a product sold under the name \"Fragrance Powder\". APICA has since been available for sale as a grey-area research chemical through online vendors.\n\nSynthetic cannabinoids are commonly smoked or vaporized to achieve a quick onset of effects and rapid offset. There is little information available about the use of APICA via other routes of administration, although as with other synthetic cannabinoids it could be expected to be orally active when dissolved in a lipid, which may significantly extend its duration. It is insoluble in water, but dissolves in ethanol and lipids.\n\nUnlike cannabis, the chronic abuse of synthetic cannabinoids has been associated with multiple deaths and more dangerous side effects and toxicity in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses. Thorough independent research and harm reduction practices are strongly advised if choosing to use this substance.\n\nChemistry\n\nAPICA, or N-(1-adamantyl)-1-pentyl-1H-indole-3-carboxamide, is a synthetic indole cannabinoid. Like many synthetic cannabinoids, it can be considered to be composed of four linked structures: core, bridge, head, and tail. In APICA, the core indole group is substituted at R1 with a pentyl chain tail and at R3 with a carboxamide bridge linking to an adamantyl head. \n\nAPICA can be considered an analog of both AKB48, which features an indazole in place of APICA's indole group, and STS-135, in which the pentyl tail is further substituted with a terminal fluorine. \n\nPharmacology\n\nAPICA acts as a full agonist of the cannabinoid receptors, with similar potency at both CB1 and CB2. In vivo experiments measuring the response of rats to APICA and similar drugs found that APICA had a similar potency to Δ9-THC and around a third the potency of JWH-018. In comparison to these other cannabinoids, APICA appeared to elicit a longer duration of effect. Caution should be exercised in interpreting studies using animals, however, as effects may differ significantly in humans. \n\nPharmacological studies have reported EC50 values of 6.89 ± 0.11nM at CB1 and 7.54 ± 0.11nM at CB2. It is likely that APICA shares many of the in vivo properties of Δ9-THC. However, the role of these interactions and how they result in the cannabinoid high has yet to be scientifically validated.\n\nIn vivo metabolic studies on APICA have shown that the drug is fully metabolized with none of the original compound detectable in urine. The major metabolites were mono- or dihydroxylated on the adamantyl ring system and monohydroxylated on the pentyl chain.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational APICA use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because APICA has very little history of human usage. Anecdotal evidence from people who have tried APICA within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\nIt is advised that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly amplify one's current state of mind and emotions. Also, as with THC and cannabis, prolonged usage of synthetic cannabinoids including APICA may increase one's disposition to mental illness and psychosis, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to use proper precautions when dosing to avoid a negative experience and injury to oneself or others.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other synthetic cannabinoids, the chronic use of APICA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of APICA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). APICA presents cross-tolerance with all cannabinoids, meaning that after the consumption of APICA all cannabinoids will have a reduced effect.\n\nOverdose\n\nIt has been reported that overdose on this substance will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer large amounts of anxiety and paranoia, or to fall asleep.\n\nLegal status\n\n*China: As of October 2015 APICA is a controlled substance in China.\n*Germany: APICA is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Switzerland: APICA is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: APICA is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import. \n\nSee also\n\n*Responsible use\n*Designer drug\n*Synthetic cannabinoids\n*AKB48\n*STS-135\n*JWH-018\n\nExternal links\n\n*APICA (Wikipedia)\n*APICA (Isomer Design)\n*2NE1 (N-adamantyl-1-pentylindole-3-carboxamide) Drug Info (Drugs-Forum)\n\nReferences\n\nCategory:Research chemical\nCategory:Cycloalkylamine\nCategory:Indolecarboxamide\nCategory:Adamantane\nCategory:Cannabinoid",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/APICA}}\n\n'''APICA''' (also known as '''SDB-001''', and '''2NE1''') is a novel synthetic [[psychoactive class::cannabinoid]] that produces modified [[cannabis|cannabis-like]] effects when [[routes of administration|administered]]. It has been shown to act as a potent [[agonist]] for the CB1 and CB2 [[cannabinoid]] [[receptors]].<ref name=\"Banister2015\">{{cite journal | vauthors=((Banister, S. D.)), ((Stuart, J.)), ((Kevin, R. C.)), ((Edington, A.)), ((Longworth, M.)), ((Wilkinson, S. M.)), ((Beinat, C.)), ((Buchanan, A. S.)), ((Hibbs, D. E.)), ((Glass, M.)), ((Connor, M.)), ((McGregor, I. S.)), ((Kassiou, M.)) | journal=ACS chemical neuroscience | title=Effects of bioisosteric fluorine in synthetic cannabinoid designer drugs JWH-018, AM-2201, UR-144, XLR-11, PB-22, 5F-PB-22, APICA, and STS-135 | volume=6 | issue=8 | pages=1445–1458 | date=19 August 2015 | issn=1948-7193 | doi=10.1021/acschemneuro.5b00107}}</ref>\n\nThe name \"2NE1\" appears to be a reference to the South Korean all-girl K-Pop group,<ref>{{Citation | year=2022 | title=2NE1 | url=https://en.wikipedia.org/w/index.php?title=2NE1&oldid=1099525651}}</ref> a naming convention shared by the closely related chemical [[AKB48]]. In 2011, the two chemicals were first identified in Japan as a mixture in a product sold under the name \"Fragrance Powder\".<ref>{{cite journal | vauthors=((Uchiyama, N.)), ((Kawamura, M.)), ((Kikura-Hanajiri, R.)), ((Goda, Y.)) | journal=Forensic Toxicology | title=Identification of two new-type synthetic cannabinoids, N-(1-adamantyl)-1-pentyl-1H-indole-3-carboxamide (APICA) and N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide (APINACA), and detection of five synthetic cannabinoids, AM-1220, AM-2233, AM-1241, CB-13 (CRA-13), and AM-1248, as designer drugs in illegal products | volume=30 | issue=2 | pages=114–125 | date= July 2012 | url=http://link.springer.com/10.1007/s11419-012-0136-7 | issn=1860-8965 | doi=10.1007/s11419-012-0136-7}}</ref> APICA has since been available for sale as a grey-area [[research chemical]] through online vendors.\n\nSynthetic cannabinoids are commonly [[smoked]] or [[vaporized]] to achieve a quick [[onset]] of effects and rapid [[offset]]. There is little information available about the use of APICA via other [[routes of administration]], although as with other synthetic cannabinoids it could be expected to be [[orally]] active when dissolved in a lipid, which may significantly extend its [[duration]]. It is insoluble in water, but dissolves in ethanol and lipids.{{citation needed}}\n\nUnlike [[cannabis]], the chronic abuse of [[synthetic cannabinoids]] has been [[Synthetic_cannabinoid#Deaths|associated with multiple deaths]] and [[Synthetic cannabinoid#Harm potential|more dangerous side effects and toxicity]] in general. Therefore, it is strongly discouraged to take this substance for extended periods of time or in excessive doses. Thorough independent research and [[harm reduction practices]] are strongly advised if choosing to use this substance.\n\n==Chemistry==\nAPICA, or N-(1-adamantyl)-1-pentyl-1H-indole-3-carboxamide, is a synthetic [[Chemical class::indole cannabinoid]]. Like many synthetic cannabinoids, it can be considered to be composed of four linked structures: core, bridge, head, and tail.<ref>{{Citation | title=Synthetic cannabinoids in Europe | url=https://www.emcdda.europa.eu/topics/pods/synthetic-cannabinoids}}</ref> In APICA, the core indole group is substituted at R<sub>1</sub> with a pentyl chain tail and at R<sub>3</sub> with a carboxamide bridge linking to an [[adamantanes|adamantyl]] head. \n\nAPICA can be considered an analog of both [[AKB48]], which features an indazole in place of APICA's indole group, and [[STS-135]], in which the pentyl tail is further substituted with a terminal fluorine. \n\n==Pharmacology==\nAPICA acts as a full agonist of the cannabinoid [[receptors]], with similar potency at both [[CB1]] and [[CB2]]. In vivo experiments measuring the response of rats to APICA and similar drugs found that APICA had a similar potency to Δ9-[[THC]] and around a third the potency of [[JWH-018]]. In comparison to these other cannabinoids, APICA appeared to elicit a longer duration of effect. Caution should be exercised in interpreting studies using animals, however, as effects may differ significantly in humans.<ref>{{cite journal | vauthors=((Banister, S. D.)), ((Wilkinson, S. M.)), ((Longworth, M.)), ((Stuart, J.)), ((Apetz, N.)), ((English, K.)), ((Brooker, L.)), ((Goebel, C.)), ((Hibbs, D. E.)), ((Glass, M.)), ((Connor, M.)), ((McGregor, I. S.)), ((Kassiou, M.)) | journal=ACS Chemical Neuroscience | title=The Synthesis and Pharmacological Evaluation of Adamantane-Derived Indoles: Cannabimimetic Drugs of Abuse | volume=4 | issue=7 | pages=1081–1092 | date=3 April 2013 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715837/ | issn=1948-7193 | doi=10.1021/cn400035r}}</ref> \n\nPharmacological studies have reported EC<sub>50</sub> values of 6.89 ± 0.11nM at CB1 and 7.54 ± 0.11nM at CB2.<ref name=\"Banister2015\"></ref> It is likely that APICA shares many of the in vivo properties of [[Δ9-THC]]. However, the role of these interactions and how they result in the cannabinoid high has yet to be scientifically validated.\n\nIn vivo metabolic studies on APICA have shown that the drug is fully metabolized with none of the original compound detectable in urine. The major metabolites were mono- or dihydroxylated on the adamantyl ring system and monohydroxylated on the pentyl chain.<ref>{{cite journal | vauthors=((Sobolevsky, T.)), ((Prasolov, I.)), ((Rodchenkov, G.)) | journal=Drug Testing and Analysis | title=Study on the phase I metabolism of novel synthetic cannabinoids, APICA and its fluorinated analogue | volume=7 | issue=2 | pages=131–142 | date= February 2015 | issn=1942-7611 | doi=10.1002/dta.1756}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of APICA can be described as a sharp,  uncomfortable, all-encompassing, and electric tingling sensation that spreads over the body after initial ingestion. It maintains a consistent presence that quickly rises with the onset and hits its limit once the peak has been reached before immediately dissipating.\n*'''[[Effect::Motor control loss]]''' - This substance causes a partial to moderate suppression of motor control which intensifies proportional to dose, but rarely results in a complete inability to walk and perform basic movements.\n*'''[[Effect::Appetite enhancement]]''' - As with many other cannabinoids, APICA causes an increase in appetite<ref>{{cite book | veditors=((Mechoulam, R.)) | date= 1986 | title=Cannabinoids as therapeutic agents | publisher=CRC Press | isbn=9780849357725}}</ref>, known colloquially as \"the munchies\" in popular American and United Kingdom culture. Clinical studies and survey data have found that cannabis increases food enjoyment and interest in food.<ref name=\"HMW\">{{Citation | year=2001 | title=How Marijuana Works | url=https://science.howstuffworks.com/marijuana.htm}}</ref> This is thought to be due to the way in which endocannabinoids in the hypothalamus activate cannabinoid receptors that are responsible for maintaining food intake.<ref name=\"HMW\"></ref>\n*'''[[Effect::Pain relief]]''' - Cannabinoids have been clinically demonstrated to provide pain relief via agonism of cannabinoid receptors CB<sub>1</sub> and CB<sub>2</sub>, which extends to [[synthetic cannabinoid]] receptor agonists.<ref>{{cite journal | vauthors=((Martín-Sánchez, E.)), ((Furukawa, T. A.)), ((Taylor, J.)), ((Martin, J. L. R.)) | journal=Pain Medicine | title=Systematic Review and Meta-analysis of Cannabis Treatment for Chronic Pain | volume=10 | issue=8 | pages=1353–1368 | date= November 2009 | url=https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00703.x | issn=1526-2375 | doi=10.1111/j.1526-4637.2009.00703.x}}</ref><ref>{{cite journal | vauthors=((Lynch, M. E.)), ((Campbell, F.)) | journal=British Journal of Clinical Pharmacology | title=Cannabinoids for treatment of chronic non-cancer pain; a systematic review of randomized trials: Cannabinoids for pain | volume=72 | issue=5 | pages=735–744 | date= November 2011 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2011.03970.x | issn=03065251 | doi=10.1111/j.1365-2125.2011.03970.x}}</ref>\n*'''[[Effect::Perception of bodily heaviness]]''' or '''[[Perception of bodily lightness]]'''\n*'''[[Effect::Changes in felt gravity]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]''' - This is known colloquially as \"cotton mouth\" in popular American and United Kingdom culture.\n*'''[[Effect::Vasodilation]]'''{{citation needed}}\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - In comparison to other cannabinoids, this compound is particularly prone to inducing feelings of anxiety and paranoia and it should therefore be avoided by people who are particularly prone to this state of mind.\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::analysis suppression]]'''\n*'''[[Effect::Dream suppression]]'''\n*'''[[Effect::Psychosis]]''' - The prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to psychosis,<ref name=\"Arseneault2004\">{{cite journal | vauthors=((Arseneault, L.)), ((Cannon, M.)), ((Witton, J.)), ((Murray, R. M.)) | journal=The British Journal of Psychiatry | title=Causal association between cannabis and psychosis: examination of the evidence | volume=184 | issue=2 | pages=110–117 | date= February 2004 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4 | issn=0007-1250 | doi=10.1192/bjp.184.2.110}}</ref> particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\">{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Drug and Alcohol Dependence | title=Synthetic cannabinoid JWH-018 and psychosis: An explorative study | volume=117 | issue=2–3 | pages=152–157 | date= September 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639 | issn=03768716 | doi=10.1016/j.drugalcdep.2011.01.012}}</ref><ref name=\"Schneir2011\">{{cite journal | vauthors=((Schneir, A. B.)), ((Cullen, J.)), ((Ly, B. T.)) | journal=The Journal of Emergency Medicine | title=“Spice” Girls: Synthetic Cannabinoid Intoxication | volume=40 | issue=3 | pages=296–299 | date=1 March 2011 | url=https://www.sciencedirect.com/science/article/pii/S0736467910008802 | issn=0736-4679 | doi=10.1016/j.jemermed.2010.10.014}}</ref><ref name=\"Vearrier2010\">{{cite journal | vauthors=((Vearrier, D.)), ((Osterhoudt, K. C.)) | journal=Pediatric Emergency Care | title=A Teenager With Agitation: Higher Than She Should Have Climbed | volume=26 | issue=6 | pages=462–465 | date= June 2010 | url=http://journals.lww.com/00006565-201006000-00016 | issn=0749-5161 | doi=10.1097/PEC.0b013e3181e4f416}}</ref>\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:APICA]][[Category:Experience]]|format=ul|Columns=1}}\n\n==Toxicity and harm potential==\n{{further|Synthetic cannabinoid#Toxicity and harm potential|Research chemicals#Toxicity and harm potential}}\n\nThe toxicity and long-term health effects of recreational APICA use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because APICA has very little history of human usage. Anecdotal evidence from people who have tried APICA within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\nIt is advised that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly amplify [[emotion enhancement|one's current state of mind and emotions]]. Also, as with [[THC]] and [[cannabis]], prolonged usage of synthetic [[cannabinoids]] including APICA may increase one's disposition to mental illness and psychosis,<ref name=\"Arseneault2004\"/> particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer2011\"/><ref name=\"Schneir2011\"/><ref name=\"Vearrier2010\"/>\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a common dose), it is important to [[Dosage|use proper precautions when dosing]] to avoid a negative experience and injury to oneself or others.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other synthetic cannabinoids, the chronic use of APICA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of APICA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). APICA presents cross-tolerance with [[Cross-tolerance::all [[cannabinoids]]]], meaning that after the consumption of APICA all [[Psychoactive class::cannabinoid]]s will have a reduced effect.\n\n===Overdose===\nIt has been reported that overdose on this substance will cause physical discomfort including [[abnormal heartbeat|heart palpitations]], vertigo and [[sedation]] at much lower than dangerous doses, usually causing the user to suffer large amounts of [[anxiety]] and [[paranoia]], or to fall asleep.{{citation needed}}\n\n==Legal status==\n{{legalStub}}\n\n*'''China''': As of October 2015 APICA is a controlled substance in China.<ref>关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Germany''': APICA is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 30, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57|publication-date=December 12, 2014|pages=1999-2002|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''Switzerland''': APICA is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': APICA is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import. <ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2016 | url=https://www.legislation.gov.uk/uksi/2016/1109/made}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Synthetic cannabinoids]]\n*[[AKB48]]\n*[[STS-135]]\n*[[JWH-018]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/APICA_(synthetic_cannabinoid_drug) APICA (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=4705 APICA (Isomer Design)]\n*[https://drugs-forum.com/threads/2ne1-n-adamantyl-1-pentylindole-3-carboxamide-drug-info.190429 2NE1 (N-adamantyl-1-pentylindole-3-carboxamide) Drug Info (Drugs-Forum)]\n\n==References==\n{{reflist|2}}\n[[Category:Research chemical]]\n[[Category:Cycloalkylamine]]\n[[Category:Indolecarboxamide]]\n[[Category:Adamantane]]\n[[Category:Cannabinoid]]\n\n{{#set:Featured=true}}"
+}

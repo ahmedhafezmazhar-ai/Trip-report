@@ -1,0 +1,338 @@
+{
+ "id": "psychonautwiki:22699",
+ "type": "substance",
+ "title": "Mephenaqualone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Mephenaqualone",
+  "pageid": 22699,
+  "last_edited": "2024-08-30T14:57:13Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Depressant",
+  "Psychoactive substance",
+  "Quinazolinone",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Mephenaqualone",
+ "substance_box": {
+  "names": {
+   "common": "Mephenaqualone",
+   "substitutive": "Mephenaqualone",
+   "systematic": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Quinazolinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.5 mg",
+    "light": "0.5 - 1.5 mg",
+    "common": "1.5 - 2.5 mg",
+    "strong": "2.5 - 4 mg",
+    "heavy": "4 mg +",
+    "duration": "15 - 20 hours",
+    "onset": "30 - 40 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "10 - 15 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Mephenaqualone"
+   ],
+   "Oral threshold dose": [
+    "0.5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1.5"
+   ],
+   "Oral min common dose": [
+    "1.5"
+   ],
+   "Oral max common dose": [
+    "2.5"
+   ],
+   "Oral min strong dose": [
+    "2.5"
+   ],
+   "Oral max strong dose": [
+    "4"
+   ],
+   "Oral heavy dose": [
+    "4"
+   ],
+   "Oral min total time": [
+    "15"
+   ],
+   "Oral max total time": [
+    "20"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "5"
+   ],
+   "Oral max comeup time": [
+    "10"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "10"
+   ],
+   "Oral max offset time": [
+    "15"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "Mephenaqualone",
+   "clean": "Mephenaqualone"
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Mephenaqualone.svg",
+   "clean": "File:Mephenaqualone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Mephenaqualone]]",
+   "clean": "Mephenaqualone"
+  },
+  "NameSubstitution": {
+   "raw": "Mephenaqualone",
+   "clean": "Mephenaqualone"
+  },
+  "NameSystematic": {
+   "raw": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone",
+   "clean": "2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Quinazolinone]]",
+   "clean": "Quinazolinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.5]] [[Oral dose units::mg]]",
+   "clean": "0.5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1.5]] mg",
+   "clean": "0.5 - 1.5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1.5]] - [[Oral max common dose::2.5]] mg",
+   "clean": "1.5 - 2.5 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2.5]] - [[Oral max strong dose::4]] mg",
+   "clean": "2.5 - 4 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::4]] mg +",
+   "clean": "4 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::15]] - [[Oral max total time::20]] [[Oral total time units::hours]]",
+   "clean": "15 - 20 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::5]] - [[Oral max comeup time::10]] [[Oral comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::10]] - [[Oral max offset time::15]] [[Oral offset time units::hours]]",
+   "clean": "10 - 15 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "Mephenaqualone is a central nervous system (CNS) depressant of the quinazolinone class that acts as a sedative and hypnotic. It is an analogue of methaqualone, sharing a similar chemical structure and pharmacological effects.\n\nChemistry\n\nMephenaqualone, or 3-(2-bromophenyl)-2-methyl-4(3H)-quinazolinone, is a compound of the quinazolinone class. Quinazolinone is a bicyclic structure containing a phenyl ring bound to another six-membered ring with two nitrogen members and a ketone group bound to R4. In mephenaqualone, this structure is substituted at R2 with a methyl group and at R3 with a 2-bromophenyl group, which differentiates it from methaqualone.\n\nPharmacology\n\nMephenaqualone acts as a positive allosteric modulator of the GABA receptor sites, similar to methaqualone. It increases the activity of the GABA receptors in the brain and nervous system, leading to sedative and muscle relaxant effects. This interaction is responsible for the compound's sedative-hypnotic effects, which can lead to feelings of relaxation and drowsiness.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports may be available on forums and websites dedicated to substance experiences.\n\nToxicity and harm potential\n\nThe toxicity profile of mephenaqualone is not well-documented, but it is assumed to be similar to that of methaqualone. Overdosing on mephenaqualone can lead to severe sedation, respiratory depression, and potentially life-threatening symptoms. As with all CNS depressants, combining mephenaqualone with other depressants like alcohol or benzodiazepines significantly increases the risk of overdose and fatal respiratory depression.\n\nTolerance and addiction potential\n\nMephenaqualone is highly addictive. Tolerance to its effects develops rapidly with repeated use, leading users to consume higher doses to achieve the same effects. Tolerance to the sedative-hypnotic effects develops within a few days of repeated administration. It presents cross-tolerance with all GABA [[depressants]], meaning that after the consumption of mephenaqualone, all compounds of the same class will have a reduced effect.\n\nAbrupt discontinuation of mephenaqualone after prolonged use can lead to withdrawal symptoms such as increased anxiety, insomnia, and potential seizures, similar to withdrawal from other GABAergic substances.\n\nLegal status\n\n*Germany: Mephenaqualone is currently legal, as it is classified as a designer drug and not specifically controlled under the BtMG (Narcotics Act). However, its legal status could be subject to change as more is learned about the substance and its effects.\n*Other countries: The legal status of mephenaqualone in other countries is largely unknown. It is not widely documented and may vary significantly depending on local laws regarding designer drugs and analogs of controlled substances.\n\nSee also\n\n*Responsible use\n*Depressants\n*Methaqualone\n*GHB\n\nExternal links\n\n*(eve-rave)\n*(Reddit German)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:quinazolinone\nCategory:Depressant",
+ "wikitext": "{{Approval}}\n{{DepressantOD|GABAergics}}\n{{SummarySheet}}\n{{SubstanceBox/Mephenaqualone}}\n\n'''Mephenaqualone''' is a central nervous system (CNS) [[psychoactive class::depressant]] of the [[chemical class::quinazolinone]] class that acts as a [[sedative]] and [[hypnotic]]. It is an analogue of methaqualone, sharing a similar chemical structure and pharmacological effects.\n\n==Chemistry==\nMephenaqualone, or 3-(2-bromophenyl)-2-methyl-4(3H)-quinazolinone, is a compound of the quinazolinone class. Quinazolinone is a bicyclic structure containing a phenyl ring bound to another six-membered ring with two nitrogen members and a ketone group bound to R<sub>4</sub>. In mephenaqualone, this structure is substituted at R<sub>2</sub> with a methyl group and at R<sub>3</sub> with a 2-bromophenyl group, which differentiates it from methaqualone.\n\n==Pharmacology==\nMephenaqualone acts as a positive allosteric modulator of the [[GABA]] [[receptor]] sites, similar to methaqualone. It increases the activity of the GABA receptors in the brain and nervous system, leading to sedative and muscle relaxant effects. This interaction is responsible for the compound's sedative-hypnotic effects, which can lead to feelings of relaxation and drowsiness.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Mephenaqualone induces a strong sense of sedation and relaxation, making users feel lethargic and often leading to sleepiness or even unconsciousness at higher doses.\n*'''[[Effect::Physical euphoria]]''' - Users may experience a mild to moderate physical euphoria, characterized by pleasant bodily sensations.\n*'''[[Effect::Muscle relaxation]]''' - Muscle relaxation is a prominent effect, contributing to its use as a sedative.\n*'''[[Effect::Motor control loss]]''' - Higher doses may result in a noticeable loss of motor control and coordination.\n}}\n|{{effects/visual|\n*'''[[Effect::Visual acuity suppression]]''' - Users may notice a decrease in the sharpness of their vision.\n*'''[[Effect::Double vision]]''' - At higher doses, mephenaqualone can cause double vision or a blurred visual field.\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' - The drug has significant anxiety-reducing properties, making users feel calm and unconcerned.\n*'''[[Effect::Thought deceleration]]''' - Thoughts may become slower and less complex under the influence of mephenaqualone.\n*'''[[Effect::Disinhibition]]''' - Like other CNS depressants, it can reduce social inhibitions and make users more talkative or outgoing.\n*'''[[Effect::Dream potentiation]]''' - Some users report enhanced vividness and recall of dreams.\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports may be available on forums and websites dedicated to substance experiences.\n\n==Toxicity and harm potential==\nThe toxicity profile of mephenaqualone is not well-documented, but it is assumed to be similar to that of methaqualone. Overdosing on mephenaqualone can lead to severe sedation, respiratory depression, and potentially life-threatening symptoms. As with all CNS depressants, combining mephenaqualone with other depressants like alcohol or benzodiazepines significantly increases the risk of overdose and fatal respiratory depression.\n\n==Tolerance and addiction potential==\nMephenaqualone is [[Addiction potential::highly addictive]]. Tolerance to its effects develops rapidly with repeated use, leading users to consume higher doses to achieve the same effects. Tolerance to the sedative-hypnotic effects develops [[Time to full tolerance::within a few days of repeated administration]]. It presents cross-tolerance with [[Cross-tolerance::all [[GABA|gabaergic]] [[depressants]]]], meaning that after the consumption of mephenaqualone, all compounds of the same class will have a reduced effect.\n\nAbrupt discontinuation of mephenaqualone after prolonged use can lead to withdrawal symptoms such as increased anxiety, insomnia, and potential seizures, similar to withdrawal from other GABAergic substances.\n\n==Legal status==\n\n*'''Germany:''' Mephenaqualone is currently legal, as it is classified as a designer drug and not specifically controlled under the BtMG (Narcotics Act). However, its legal status could be subject to change as more is learned about the substance and its effects.{{citation needed}}\n*'''Other countries:''' The legal status of mephenaqualone in other countries is largely unknown. It is not widely documented and may vary significantly depending on local laws regarding designer drugs and analogs of controlled substances.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Methaqualone]]\n*[[GHB]]\n\n==External links==\n\n*[https://eve-rave.ch/Forum/viewtopic.php?t=79958 (eve-rave)]\n*[https://www.reddit.com/r/drogen/comments/1d5wiof/meine_dritte_erfahrung_mit_mephenaqualone/ (Reddit German)]\n\n==References==\n<references />\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:quinazolinone]]\n[[Category:Depressant]]\n\n{{#set:Featured=true}}"
+}

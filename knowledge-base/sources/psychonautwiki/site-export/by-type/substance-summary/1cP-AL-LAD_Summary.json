@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19488",
+ "type": "substance-summary",
+ "title": "1cP-AL-LAD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1cP-AL-LAD/Summary",
+  "pageid": 19488,
+  "last_edited": "2021-08-15T19:03:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1cP-AL-LAD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1cP-AL-LAD}}"
+}

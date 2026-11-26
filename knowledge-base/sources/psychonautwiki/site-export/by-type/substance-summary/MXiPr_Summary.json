@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19291",
+ "type": "substance-summary",
+ "title": "MXiPr/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MXiPr/Summary",
+  "pageid": 19291,
+  "last_edited": "2021-04-13T01:37:50Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "MXiPr",
+ "plain_text": "",
+ "wikitext": "{{Summary|MXiPr}}"
+}

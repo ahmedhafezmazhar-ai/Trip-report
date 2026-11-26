@@ -1,0 +1,420 @@
+{
+ "id": "psychonautwiki:9231",
+ "type": "substance",
+ "title": "Mushroom tea",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Mushroom_tea",
+  "pageid": 9231,
+  "last_edited": "2025-03-16T21:53:38Z"
+ },
+ "categories": [
+  "Extraction",
+  "Mycology",
+  "Preparation"
+ ],
+ "substance_box_template": "SubstanceBox/Psilocybin mushrooms",
+ "substance_box": {
+  "names": {
+   "common": "Psilocybin, Psilocybin mushrooms, Magic Mushrooms, Shrooms, 4-PO-DMT",
+   "substitutive": "4-Phosphoryloxy-N,N-dimethyltryptamine",
+   "systematic": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": ">",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "The dosage below assumes that one is using dried psilocybin mushrooms of the Psilocybe cubensis variety. If you are using fresh mushrooms, it is generally advised to multiply weight by ten.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2.5 mg Psilocybin",
+    "light": "2.5 - 10 mg Psilocybin",
+    "common": "10 - 25 mg Psilocybin",
+    "strong": "25 - 50 mg Psilocybin",
+    "heavy": "50 mg Psilocybin +",
+    "duration": "6 - 8 hours",
+    "onset": "20 - 45 minutes",
+    "comeup": "1 - 1.5 hours",
+    "peak": "2 - 2.5 hours",
+    "offset": "2.5 - 3.5 hours",
+    "aftereffects": "4 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Psilocybin",
+    "Psilocybin mushrooms",
+    "Magic Mushrooms",
+    "Shrooms",
+    "4-PO-DMT"
+   ],
+   "Oral threshold dose": [
+    "2.5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "1.5"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2.5"
+   ],
+   "Oral max offset time": [
+    "3.5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of psilocybin.",
+   "clean": "Molecular structure of psilocybin."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Psilocybin.svg",
+   "clean": "File:Psilocybin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "File:shrooms.png",
+   "clean": "File:shrooms.png"
+  },
+  "3DImageWidth": {
+   "raw": "175px",
+   "clean": "175px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Psilocybin]], [[common name::Psilocybin mushrooms]], [[common name::Magic Mushrooms]], [[common name::Shrooms]], [[common name::4-PO-DMT]]",
+   "clean": "Psilocybin, Psilocybin mushrooms, Magic Mushrooms, Shrooms, 4-PO-DMT"
+  },
+  "NameSubstitution": {
+   "raw": "4-Phosphoryloxy-N,N-dimethyltryptamine",
+   "clean": "4-Phosphoryloxy-N,N-dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol",
+   "clean": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol"
+  },
+  "EffectClass": {
+   "raw": "[[Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": ">",
+   "clean": ">"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''The dosage below assumes that one is using dried [[psilocybin mushrooms]] of the [[Psilocybe cubensis]] variety. If you are using fresh mushrooms, it is generally advised to multiply weight by ten.'''",
+   "clean": "The dosage below assumes that one is using dried psilocybin mushrooms of the Psilocybe cubensis variety. If you are using fresh mushrooms, it is generally advised to multiply weight by ten."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2.5]] [[Oral dose units::mg]] Psilocybin",
+   "clean": "2.5 mg Psilocybin"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::10]] mg Psilocybin",
+   "clean": "2.5 - 10 mg Psilocybin"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg Psilocybin",
+   "clean": "10 - 25 mg Psilocybin"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::50]] mg Psilocybin",
+   "clean": "25 - 50 mg Psilocybin"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg Psilocybin +",
+   "clean": "50 mg Psilocybin +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 45 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::1.5]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]] <ref>{{cite journal | vauthors=((Pablo Mallaroni)), ((Natasha L. Mason )), ((Johannes T. Reckweg)), ((Riccardo Paci)), ((Sabrina Ritscher)), ((Stefan W. Toennes)), ((Eef L. Theunissen)), ((Kim P.C. Kuypers)), ((Johannes G. Ramaekers)) | journal=Clinical Pharmacology and Therapeutics | title=Assessment of the acute effects of 2C-B vs psilocybin on subjective experience, mood and cognition | date= May 2023 | url=https://doi.org/10.1002/cpt.2958 | doi=10.1002/cpt.2958}}</ref>",
+   "clean": "2 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2.5]] - [[Oral max offset time::3.5]] [[Oral offset time units::hours]]",
+   "clean": "2.5 - 3.5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 24 hours"
+  }
+ },
+ "plain_text": "Precautions\n\nAs psilocybin mushrooms are capable of being harvested in nature, there is a major risk in misidentifying mushroom species and accidentally consuming poisonous, if not lethal varieties. This can be avoided by educating oneself in advance on how to properly identify the correct species of mushroom and the potential look-alike mushrooms found within one's local area. It is recommended to not learn to do this by oneself, but instead, have someone experienced in mushroom-picking as a mentor.\n\nMaterials\n\n*Dose of psilocybin mushrooms\n*250ml tap water\n*One tea bag of any kind of tea (not only limited to tea, e.g., peppermint works pretty well)\n*Sweetener (sugar, honey, etc)\n*One small pan or a microwave\n*One glass\n\nProcedure\n\n#The chosen tea of the tea bag should be brewed as usual or by following the producer's instructions.\n#The sweetener should be added to the tea.\n#The mushrooms must be minced and placed into the void glass of water.\n#One or two minutes after the tea stops boiling, it should be poured over the minced mushrooms into the glass.\n#The person should wait for five to ten minutes and then enjoy their tea. The onset is faster than simply eating the mushrooms.\n\nDosage\n\nWhen using Psilocybe cubensis for oral consumption dosages are generally considered to be:\n\n*Threshold:   0.25 grams \n*Light: 0.25 - 1.5 grams\n*Common: 1.5 - 3 grams\n*Strong: 3 - 5 grams\n*Heavy: 5 grams +\n\nIt should be noted that other species of mushroom can have significantly different dosages.\n\nVariations\n\nMushroom tea can be brewed without the addition of tea and sweetener, or added to other food recipes, particularly for the purposes of masking the mushrooms' flavor. For example, the liquid can be added to soup, or included in a gelatin-based dessert. \n\nSee also\n\n*Responsible use\n*Psilocybin\n*Mushroom chocolates\n*Preparation\n\nExternal links\n\n*Mushroom tea (Wikipedia)\n\nCategory:Extraction\nCategory:Preparation\nCategory:Mycology",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/Psilocybin mushrooms}}\n\n===Precautions===\nAs psilocybin mushrooms are capable of being harvested in nature, <span style=\"color:red\">'''there is a major risk in misidentifying mushroom species and accidentally consuming poisonous, if not lethal varieties.'''</span> This can be avoided by educating oneself in advance on how to properly identify the correct species of mushroom and the potential look-alike mushrooms found within one's local area. It is recommended to not learn to do this by oneself, but instead, have someone experienced in mushroom-picking as a mentor.\n\n===Materials===\n\n*Dose of psilocybin mushrooms\n*250ml tap water\n*One tea bag of any kind of tea (not only limited to tea, e.g., peppermint works pretty well)\n*Sweetener (sugar, honey, etc)\n*One small pan or a microwave\n*One glass\n\n===Procedure===\n\n#The chosen tea of the tea bag should be brewed as usual or by following the producer's instructions.\n#The sweetener should be added to the tea.\n#The mushrooms must be minced and placed into the void glass of water.\n#One or two minutes after the tea stops boiling, it should be poured over the minced mushrooms into the glass.\n#The person should wait for five to ten minutes and then enjoy their tea. The onset is faster than simply eating the mushrooms.\n\n===Dosage===\nWhen using ''Psilocybe cubensis'' for oral consumption dosages are generally considered to be:\n\n*'''Threshold:'''   ''[[Oral threshold dose::0.25]] [[Oral dose units::grams]] ''\n*'''Light:''' ''[[Oral min light dose::0.25]] - [[Oral max light dose::1.5]] grams''\n*'''Common:''' ''[[Oral min common dose::1.5]] - [[Oral max common dose::3]] grams''\n*'''Strong:''' ''[[Oral min strong dose::3]] - [[Oral max strong dose::5]] grams''\n*'''Heavy:''' ''[[Oral heavy dose::5]] grams +''\n\nIt should be noted that other species of mushroom can have significantly different dosages.\n\n===Variations===\nMushroom tea can be brewed without the addition of tea and sweetener, or added to other food recipes, particularly for the purposes of masking the mushrooms' flavor. For example, the liquid can be added to soup, or included in a gelatin-based dessert. \n\n==See also==\n\n*[[Responsible use]]\n*[[Psilocybin]]\n*[[Mushroom chocolates]]\n*[[Preparation]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Mushroom_tea Mushroom tea (Wikipedia)]\n\n[[Category:Extraction]]\n[[Category:Preparation]]\n[[Category:Mycology]]\n\n{{#set:Featured=true}}\n<references />"
+}

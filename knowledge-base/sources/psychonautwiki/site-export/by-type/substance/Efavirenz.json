@@ -1,0 +1,294 @@
+{
+ "id": "psychonautwiki:13210",
+ "type": "substance",
+ "title": "Efavirenz",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Efavirenz",
+  "pageid": 13210,
+  "last_edited": "2024-04-21T23:39:59Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzoxazine",
+  "CS1 German-language sources (de)",
+  "Carbamate",
+  "Psychedelic"
+ ],
+ "substance_box_template": "SubstanceBox/Efavirenz",
+ "substance_box": {
+  "names": {
+   "common": "Efavirenz, Sustiva",
+   "substitutive": "",
+   "systematic": "(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-2,4-dihydro-1H-3,1-benzoxazin-2-one"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Benzoxazine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. The psychoactivity and effects profile of efavirenz is not well characterized, it is highly recommended that individuals start at lower doses.",
+    "collapsed": "false",
+    "bioavailability": "50%",
+    "threshold": "",
+    "light": "",
+    "common": "600 - 1800 mg",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "1 - 5 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Efavirenz",
+    "Sustiva"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Benzoxazine"
+   ],
+   "Smoked min common dose": [
+    "600"
+   ],
+   "Smoked max common dose": [
+    "1800"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min onset time": [
+    "1"
+   ],
+   "Smoked max onset time": [
+    "5"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "1"
+   ],
+   "Smoked max peak time": [
+    "2"
+   ],
+   "Smoked peak time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "6"
+   ],
+   "Smoked max afterglow time": [
+    "12"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Efavirenz.svg",
+   "clean": "File:Efavirenz.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Efavirenz]], [[common name::Sustiva]]",
+   "clean": "Efavirenz, Sustiva"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-2,4-dihydro-1H-3,1-benzoxazin-2-one",
+   "clean": "(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-2,4-dihydro-1H-3,1-benzoxazin-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Benzoxazine]]",
+   "clean": "Benzoxazine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br> <span style=\"color:black\">'''The psychoactivity and effects profile of efavirenz is not well characterized, it is highly recommended that individuals start at lower doses.'''</span>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. The psychoactivity and effects profile of efavirenz is not well characterized, it is highly recommended that individuals start at lower doses."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "50%<ref>{{cite journal | vauthors=((Apostolova, N.)), ((Funes, H. A.)), ((Blas-Garcia, A.)), ((Galindo, M. J.)), ((Alvarez, A.)), ((Esplugues, J. V.)) | journal=The Journal of Antimicrobial Chemotherapy | title=Efavirenz and the CNS: what we already know and questions that need to be answered | volume=70 | issue=10 | pages=2693–2708 | date= October 2015 | issn=1460-2091 | doi=10.1093/jac/dkv183}}</ref>",
+   "clean": "50%"
+  },
+  "SmokedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::600]] - [[Smoked max common dose::1800]] [[Smoked dose units::mg]]",
+   "clean": "600 - 1800 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::1]] - [[Smoked max onset time::5]] [[Smoked onset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::1]] - [[Smoked max peak time::2]] [[Smoked peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::6]] - [[Smoked max afterglow time::12]] [[Smoked afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  }
+ },
+ "plain_text": "Efavirenz (sold by the brand name Sustiva) is an antiretroviral medication used in the treatment and prevention of HIV/AIDS. It is notable for being able to produce psychedelic and hallucinogenic effects despite possessing an extremely novel pharmacological profile and chemical structure not shared with any other psychedelic substance.\n\nEfavirenz was approved for medical use in the United States in 1998. It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.\n\nRecreational use of efavirenz for its hallucinogenic and dissociative effects has been reported in South Africa. The tablets are reportedly crushed and smoked in a mixture known as \"whoonga\" , \"nyaope\" , and \"wonga\". A form of black tar heroin. Although current analyses of whoonga samples have yet to confirm the presence efavirenz in the mixture.   \n\nChemistry\n\nUnlike most psychedelics, efavirenz is not a tryptamine, phenethylamine or lysergamide. Efavirenz is classified as a benzoxazine and has several different moieties which give it a unique pharmacological profile. On the two position of the benzoxazine ring, efavirenz has a ketone attached. Efavirenz also has a trifluoromethyl group as well as a cyclopropane ring.\n\nEfavirenz is a white to slightly pink crystalline powder with a molecular mass of 315.68 g/mol. It is practically insoluble in water (<10 µg/mL).. Efavirenz is chemically described as (S)-6-chloro-(cyclopropylethynyl)-1,4-dihydro-4-(trifluoromethyl)-2H-3,1-benzoxazin-2-one. Its empirical formula is C14H9ClF3NO2.\n\nPharmacology\n\nPharmacologically, efavirenz is primarily classified as a non-nucleotide reverse transcriptase inhibitor, or NNRTI. Reverse transcriptase is an enzyme found in several viral species that is a type of DNA polymerase and nuclease that allows viruses like hepatitis and human immunodeficiency virus to transcribe viral RNA into DNA. Efavirenz is considered a non-nucleotide reverse transcriptase inhibitor because it does not have a structure based off of a nucleotide.\n\nUnlike most non-nucleotide reverse transcriptase inhibitors, efavirenz is also a 5-HT2A partial agonist, similar to LSD. Additionally, efavirenz is a serotonin and dopamine reuptake inhibitor and a vesicular monoamine transporter 2 inhibitor. Efavirenz also acts as a GABAA positive allosteric modulator, similar to benzodiazepines and barbiturates. Efavirenz has a bioavailability of about 40-45% when it is taken on an empty stomach.\n\nEfavirenz is known to cause a false-positive for cannabis on some urine tests.\n\nSubjective effects\n\nToxicity and harm potential\n\nEfavirenz has a low toxicity relative to dose. Like many HIV medications, efavirenz may cause liver toxicity at high doses or after chronic use.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nEfavirenz is not known to be habit-forming. While developing a tolerance to efavirenz is extremely rare, abusing efavirenz may cause HIV to become resistant to the drug and increase the viral load in patients with HIV.\n\nDangerous interactions\n\nAs efavirenz may cause hepatoxicity at high doses or after chronic use, it is not recommended to take this substance concurrently with other substances that may cause hepatoxicity. Efavirenz is an inducer of the CYP2B6 and CYP3A4 enzymes of the cytochrome P450 system, and as a result may change the metabolism of drugs metabolized by them. Consuming garlic may decrease serum levels of efavirenz.\n\nSerotonin syndrome risk\n\nEfavirenz is a weak serotonin reuptake inhibitor, so it is possible that combining heavy doses of efavirenz and the substances listed below may result in serotonin syndrome.\n\nLegal status\n\nEfavirenz is not known to be illegal in any jurisdictions, and is considered a prescription only medication.\n\n*Germany: Efavirenz is a prescription only medicine, according to Anlage 1 AMVV.\n*Switzerland: Efavirenz is listed as a \"Abgabekategorie A\" pharmaceutical, which requires a prescription.\n\nSee also\n\n*Responsible use\n*Hallucinogen\n*Psychedelics\n\nExternal links\n\n*Efavirenz (Wikipedia)\n*Efavirenz (Isomer Design)\n*Getting High On HIV Medication (Hammilton Morris / YouTube)\n\nReferences\n\nCategory:Psychedelic\nCategory:Benzoxazine\nCategory:Carbamate",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Efavirenz}}\n\n'''Efavirenz''' (sold by the brand name '''Sustiva''') is an antiretroviral medication used in the treatment and prevention of HIV/AIDS.<ref>\nNew item…\n{{cite journal | vauthors=((Vrouenraets, S. M.)), ((Wit, F. W.)), ((Tongeren, J. van)), ((Lange, J. M.)) | journal=Expert Opinion on Pharmacotherapy | title=Efavirenz: a review | volume=8 | issue=6 | pages=851–871 | date= April 2007 | url=http://www.tandfonline.com/doi/full/10.1517/14656566.8.6.851 | issn=1465-6566 | doi=10.1517/14656566.8.6.851}}</ref> It is notable for being able to produce [[psychedelic]] and [[hallucinogenic]] effects despite possessing an extremely novel pharmacological profile and chemical structure not shared with any other psychedelic substance.\n\nEfavirenz was approved for medical use in the United States in 1998.{{citation needed}} It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.<ref>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref>\n\nRecreational use of efavirenz for its hallucinogenic and dissociative effects has been reported in South Africa. The tablets are reportedly crushed and smoked in a mixture known as \"whoonga\" , \"nyaope\" , and \"wonga\". A form of black tar heroin. Although current analyses of whoonga samples have yet to confirm the presence efavirenz in the mixture.   <ref>{{Citation | year=2008 | title=Getting high on HIV drugs in S Africa | url=http://news.bbc.co.uk/2/hi/africa/7768059.stm}}</ref><ref>{{Citation | vauthors=((News, A. B. C.)) | title=“No Turning Back”: Teens Abuse HIV Drugs | url=https://abcnews.go.com/Health/MindMoodNews/story?id=7227982&page=1}}</ref><ref>{{Citation | vauthors=((Vice)) | year=2014 | title=Getting High On HIV Medication - Part 1/2 | url=https://www.youtube.com/watch?v=W7BCi5ax7jk}}</ref>\n\n==Chemistry==\nUnlike most psychedelics, efavirenz is not a [[tryptamine]], [[phenethylamine]] or [[lysergamide]]. Efavirenz is classified as a benzoxazine and has several different moieties which give it a unique pharmacological profile. On the two position of the benzoxazine ring, efavirenz has a ketone attached. Efavirenz also has a trifluoromethyl group as well as a cyclopropane ring.\n\nEfavirenz is a white to slightly pink crystalline powder with a molecular mass of 315.68 g/mol. It is practically insoluble in water (<10 µg/mL).. Efavirenz is chemically described as (''S'')-6-chloro-(cyclopropylethynyl)-1,4-dihydro-4-(trifluoromethyl)-2''H''-3,1-benzoxazin-2-one. Its empirical formula is C<sub>14</sub>H<sub>9</sub>ClF<sub>3</sub>NO<sub>2</sub>.\n\n==Pharmacology==\nPharmacologically, efavirenz is primarily classified as a non-nucleotide reverse transcriptase inhibitor, or NNRTI. Reverse transcriptase is an enzyme found in several viral species that is a type of DNA polymerase and nuclease that allows viruses like hepatitis and human immunodeficiency virus to transcribe viral RNA into DNA. Efavirenz is considered a non-nucleotide reverse transcriptase inhibitor because it does not have a structure based off of a nucleotide.\n\nUnlike most non-nucleotide reverse transcriptase inhibitors, efavirenz is also a 5-HT<sub>2A</sub> partial agonist, similar to [[LSD]]. Additionally, efavirenz is a [[serotonin]] and [[dopamine]] [[reuptake inhibitor]] and a vesicular monoamine transporter 2 inhibitor. Efavirenz also acts as a [[GABA]]<sub>A</sub> positive allosteric modulator, similar to [[benzodiazepines]] and [[barbiturates]].<ref>{{cite journal | vauthors=((Gatch, M. B.)), ((Kozlenkov, A.)), ((Huang, R.-Q.)), ((Yang, W.)), ((Nguyen, J. D.)), ((González-Maeso, J.)), ((Rice, K. C.)), ((France, C. P.)), ((Dillon, G. H.)), ((Forster, M. J.)), ((Schetz, J. A.)) | journal=Neuropsychopharmacology | title=The HIV Antiretroviral Drug Efavirenz has LSD-Like Properties | volume=38 | issue=12 | pages=2373–2384 | date= November 2013 | url=https://www.nature.com/articles/npp2013135 | issn=1740-634X | doi=10.1038/npp.2013.135}}</ref> Efavirenz has a bioavailability of about 40-45% when it is taken on an empty stomach.\n\nEfavirenz is known to cause a false-positive for [[cannabis]] on some urine tests.<ref>{{cite journal | vauthors=((Rossi, S.)), ((Yaksh, T.)), ((Bentley, H.)), ((Brande, G. van den)), ((Grant, I.)), ((Ellis, R.)) | journal=Clinical Chemistry | title=Characterization of Interference with 6 Commercial Δ9-Tetrahydrocannabinol Immunoassays by Efavirenz (Glucuronide) in Urine | volume=52 | issue=5 | pages=896–897 | date=1 May 2006 | url=https://academic.oup.com/clinchem/article/52/5/896/5626853 | issn=0009-9147 | doi=10.1373/clinchem.2006.067058}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Physical euphoria]]''' - This effect is generally quite mild.\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Spontaneous physical sensations]]'''\n*'''[[Effect::Stimulation]]''' ''or'' '''[[Effect::Sedation]]'''\n*'''[[Effect::Appetite suppression]]'''\n\n}}\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])'' \n*'''[[Effect::After images]]'''\n*'''[[Effect::Colour replacement]]'''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Recursion]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Tracers]]''' - This is considered the most common visual effect of efavirenz.\n\n====[[Effect::Geometry]]====\nThe geometry found within efavirenz is generally extremely mild, and for many users, it may not happen at all.\n\n====Hallucinatory states====\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' ''or'' '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Psychosis]]''' - At very high doses, efavirenz may cause a psychotic state.\n*'''[[Effect::Unity and interconnectedness]]''' - This effect is generally quite mild.\n*'''[[Effect::Confusion]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Dream potentiation]]''' - At non-recreational doses, efavirenz often induces strange dreams.\n*'''[[Effect::Disinhibition]]'''\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n}}\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nEfavirenz has a [[Toxicity::low toxicity]] relative to dose. Like many HIV medications, efavirenz [[Toxicity::may cause liver toxicity at high doses or after chronic use]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nEfavirenz is [[Addiction potential::not known to be habit-forming]]. While developing a tolerance to efavirenz is extremely rare, abusing efavirenz may cause HIV to become resistant to the drug and increase the viral load in patients with HIV.\n\n===Dangerous interactions===\nAs efavirenz may cause hepatoxicity at high doses or after chronic use, it is not recommended to take this substance concurrently with other substances that may cause hepatoxicity. Efavirenz is an inducer of the CYP2B6 and CYP3A4 enzymes of the cytochrome P450 system, and as a result may change the metabolism of drugs metabolized by them. Consuming garlic may decrease serum levels of efavirenz.\n\n====[[Serotonin syndrome]] risk====\nEfavirenz is a weak serotonin reuptake inhibitor, so it is possible that combining heavy doses of efavirenz and the substances listed below may result in serotonin syndrome.\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n{{legalStub}}\nEfavirenz is not known to be illegal in any jurisdictions, and is considered a prescription only medication.\n\n*'''Germany''': Efavirenz is a prescription only medicine, according to Anlage 1 AMVV.<ref>{{cite web|url=https://www.gesetze-im-internet.de/amvv/anlage_1.html|title=Anlage 1 AMVV|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref>\n*'''Switzerland''': Efavirenz is listed as a \"Abgabekategorie A\" pharmaceutical, which requires a prescription.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Hallucinogen]]\n*[[Psychedelics]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Efavirenz Efavirenz (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2802 Efavirenz (Isomer Design)]\n*[https://www.youtube.com/watch?v=wyuFBmlQS_s Getting High On HIV Medication (Hammilton Morris / YouTube)]\n\n==References==\n<references />\n\n[[Category:Psychedelic]]\n[[Category:Benzoxazine]]\n[[Category:Carbamate]]\n\n{{#set:Featured=true}}"
+}

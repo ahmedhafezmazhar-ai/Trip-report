@@ -1,0 +1,301 @@
+{
+ "id": "psychonautwiki:9749",
+ "type": "substance",
+ "title": "NM-2-AI",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/NM-2-AI",
+  "pageid": 9749,
+  "last_edited": "2024-04-21T23:46:20Z"
+ },
+ "categories": [
+  "Aminoindane",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/NM-2-AI",
+ "substance_box": {
+  "names": {
+   "common": "NM-2-AI",
+   "substitutive": "N-methyl-2-AI",
+   "systematic": "N-methyl-2,3-dihydro-1H-inden-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Amphetamine / Aminoindane"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 150 mg",
+    "strong": "150 - 200 mg",
+    "heavy": "200 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Amphetamine",
+    "Aminoindane"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "200"
+   ],
+   "Oral heavy dose": [
+    "200"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of NM-2-AI",
+   "clean": "Molecular structure of NM-2-AI"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:N-methyl-2-AI.svg",
+   "clean": "File:N-methyl-2-AI.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "NM-2-AI",
+   "clean": "NM-2-AI"
+  },
+  "NameSubstitution": {
+   "raw": "N-methyl-2-AI",
+   "clean": "N-methyl-2-AI"
+  },
+  "NameSystematic": {
+   "raw": "N-methyl-2,3-dihydro-1H-inden-2-amine",
+   "clean": "N-methyl-2,3-dihydro-1H-inden-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Amphetamine]] / [[chemical class::Aminoindane]]",
+   "clean": "Amphetamine / Aminoindane"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::200]] mg",
+   "clean": "150 - 200 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::200]] mg +",
+   "clean": "200 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "NM-2-AI (N-methyl-2-aminoindane) is a lesser-known novel stimulant substance of the aminoindane class. It is structurally related to 2-AI and MDAI. \n\nIn comparison to 2-AI, this compound has a lower potency, a longer duration and very similar effects. It has recently become easily accessible  through online research chemical vendors where it is sold as a designer drug.\n\nVery little data exists for the effects, pharmacology, and toxicity of NM-2-AI. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nNM-2-AI, or N-methyl-2-AI, is the N-methylated derivative of 2-Aminoindane and is analogous to amphetamine. It features the R3 terminal carbon of the propane chain of amphetamine bound to the benzene ring. This creates an indane, a bicycle containing a benzene ring fused to a pentane ring. The amino group 2-AI shares with amphetamine is bound to R2 of the indane group. N-methyl-2-AI contains a methyl group bound to the amino group RN (for which it is named).\n\nPharmacology\n\nDue to the lack of research regarding the substance, all discussion regarding the pharmacology of it is speculation purely based upon its structure and subjective effect similarities to other stimulants such as amphetamine, methamphetamine and 2-FMA. It is speculated that NM-2-AI most likely acts as both a dopamine and norepinephrine releasing agent. This means it effectively boosts the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational NM-2-AI use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because NM-2-AI has very little history of human usage. Anecdotal evidence from people who have tried NM-2-AI within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of NM-2-AI can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of NM-2-AI develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). NM-2-AI presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of NM-2-AI all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\n*Stimulants - NM-2-AI can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with amphetamine and other stimulants.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\nNM-2-AI is currently believed to be a grey area compound within most parts of the world. This means that it is not known to be specifically illegal within any country but people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume.\n\n*Germany: NM-2-AI is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: NM-2-AI is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*2-AI\n*Stimulants\n*Amphetamine\n*Methamphetamine\n\nExternal links\n\n*NM-2-AI (Wikipedia)\n*NM-2-AI (Isomer Design)\n\nReferences\n\nCategory:Substance\nCategory:Stimulant\nCategory:Psychoactive substance\nCategory:Aminoindane\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/NM-2-AI}}\n\n'''NM-2-AI''' ('''N-methyl-2-aminoindane''') is a lesser-known novel [[psychoactive class::stimulant]] substance of the [[Chemical class::aminoindane]] class. It is structurally related to [[2-AI]] and [[MDAI]]. \n\nIn comparison to [[2-AI]], this compound has a lower potency, a longer duration and very similar effects. It has recently become easily accessible  through online [[research chemical]] vendors where it is sold as a [[designer drug]].\n\nVery little data exists for the effects, pharmacology, and toxicity of NM-2-AI. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nNM-2-AI, or N-methyl-2-AI, is the N-methylated derivative of [[2-Aminoindane]] and is analogous to [[amphetamine]]. It features the R<sub>3</sub> terminal carbon of the propane chain of amphetamine bound to the benzene ring. This creates an indane, a bicycle containing a benzene ring fused to a pentane ring. The amino group 2-AI shares with amphetamine is bound to R<sub>2</sub> of the indane group. N-methyl-2-AI contains a methyl group bound to the amino group R<sub>N</sub> (for which it is named).\n\n==Pharmacology==\nDue to the lack of research regarding the substance, all discussion regarding the pharmacology of it is speculation purely based upon its structure and subjective effect similarities to other [[stimulant]]s such as [[amphetamine]], [[methamphetamine]] and [[2-FMA]]. It is speculated that NM-2-AI most likely acts as both a [[dopamine]] and [[norepinephrine]] [[releasing agent]]. This means it effectively boosts the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, NM-2-AI is usually considered to be energetic and stimulating in a fashion that is similar to that of [[amphetamine]] but stronger than that of [[modafinil]] or [[caffeine]]. It is similar yet distinct from the stimulation experienced on [[MDMA]], encouraging physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which NM-2-AI presents can be described as forced. This means that at higher doses, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control. \n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Nausea]]''' \n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n|{{effects/cognitive|\nThe cognitive effects of NM-2-AI can be broken down into several components which progressively intensify proportional to dosage. The general head space of NM-2-AI is described by many as one of mental stimulation, increased focus, and euphoria. It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate doses, they become increasingly likely to manifest themselves with higher amounts or extended usage. This particularly holds true during the [[offset]] of the experience. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate doses as anything higher will usually impair concentration.\n*'''[[Effect::Motivation enhancement]]''' - This compound can be considered as slightly more functional than that of [[2-AI]] and therefore more effective for performing tasks whilst under its influence.\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - This compound can be considered as considerably less euphoric than that of [[2-AI]] and therefore less effective for recreational purposes.\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Increased music appreciation]]'''\n\n}}\n\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:NM-2-AI]][[Category:Experience]]|format=ul|Columns=1}}\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational NM-2-AI use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because NM-2-AI has very little history of human usage. Anecdotal evidence from people who have tried NM-2-AI within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of NM-2-AI can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of NM-2-AI [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). NM-2-AI presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of NM-2-AI all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\"></ref><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\"></ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Stimulants]]''' - NM-2-AI can be potentially dangerous in combination with other [[stimulant]]s as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with [[amphetamine]] and other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\n{{legalStub}}\nNM-2-AI is currently believed to be a grey area compound within most parts of the world. This means that it is not known to be specifically illegal within any country but people may still be charged for its possession under certain circumstances such as under analogue laws and with intent to sell or consume.\n\n*'''Germany''': NM-2-AI is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 23, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 23, 2019|language=de}}</ref>\n*'''Switzerland''': NM-2-AI is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': It is illegal to produce, supply, or import this drug under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[2-AI]]\n*[[Stimulants]]\n*[[Amphetamine]]\n*[[Methamphetamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/NM-2-AI NM-2-AI (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=1327 NM-2-AI (Isomer Design)]\n\n==References==\n<references />\n[[Category:Substance]]\n[[Category:Stimulant]]\n[[Category:Psychoactive substance]]\n[[Category:Aminoindane]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

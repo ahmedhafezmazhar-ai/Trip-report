@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13692",
+ "type": "substance-summary",
+ "title": "5-MAPB/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-MAPB/Summary",
+  "pageid": 13692,
+  "last_edited": "2017-01-16T05:49:20Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-MAPB",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-MAPB}}"
+}

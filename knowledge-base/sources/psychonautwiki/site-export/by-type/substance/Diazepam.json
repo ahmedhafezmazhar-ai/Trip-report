@@ -1,0 +1,406 @@
+{
+ "id": "psychonautwiki:8916",
+ "type": "substance",
+ "title": "Diazepam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Diazepam",
+  "pageid": 8916,
+  "last_edited": "2025-07-11T14:47:10Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Benzodiazepine",
+  "CS1 German-language sources (de)",
+  "Depressant"
+ ],
+ "substance_box_template": "SubstanceBox/Diazepam",
+ "substance_box": {
+  "names": {
+   "common": "Valium, Diastat, Mother's Little Helper, Apaurin",
+   "substitutive": "Diazepam",
+   "systematic": "7-Chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2.5 - 5 mg",
+    "common": "5 - 15 mg",
+    "strong": "15 - 30 mg",
+    "heavy": "30 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "20 - 40 minutes",
+    "peak": "60 - 90 minutes",
+    "offset": "",
+    "aftereffects": "12 - 36 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Valium",
+    "Diastat",
+    "Mother's Little Helper",
+    "Apaurin"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Benzodiazepine"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "2.5"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "15"
+   ],
+   "Oral min strong dose": [
+    "15"
+   ],
+   "Oral max strong dose": [
+    "30"
+   ],
+   "Oral heavy dose": [
+    "30"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "60"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "12"
+   ],
+   "Oral max afterglow time": [
+    "36"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of diazepam",
+   "clean": "Molecular structure of diazepam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Diazepam.svg",
+   "clean": "File:Diazepam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "220px",
+   "clean": "220px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Valium]], [[common name::Diastat]], [[common name::Mother's Little Helper]], [[common name::Apaurin]]",
+   "clean": "Valium, Diastat, Mother's Little Helper, Apaurin"
+  },
+  "NameSubstitution": {
+   "raw": "Diazepam",
+   "clean": "Diazepam"
+  },
+  "NameSystematic": {
+   "raw": "7-Chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one",
+   "clean": "7-Chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::2.5]] - [[Oral max light dose::5]] mg",
+   "clean": "2.5 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::15]] - [[Oral max strong dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::30]] mg +",
+   "clean": "30 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::60]] - [[Oral max peak time::90]] [[Oral peak time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::12]] - [[Oral max afterglow time::36]] [[Oral afterglow time units::hours]]",
+   "clean": "12 - 36 hours"
+  }
+ },
+ "plain_text": "' (also known as Valium) is a depressant substance of the benzodiazepine class. Its mechanism of action is to increase the effects of the inhibitory neurotransmitter GABA.\n\nDiazepam was patented in 1955 by the pharmaceutical company Hoffman-La Roche. It has been one of the most frequently prescribed medications in the world since its launch in 1963. It is commonly used to treat a wide range of conditions including anxiety, panic attacks, insomnia, seizures, muscle spasms, and restless legs syndrome. Diazepam is a core medicine in the World Health Organization's Essential Drugs List, the minimum medical needs for a basic health-care system. \n\nSubjective effects include anxiety suppression, sedation, and muscle relaxation. Diazepam has a rapid onset of action compared to other benzodiazepines. However, it is generally considered to have lesser recreational effects compared to benzodiazepines like clonazepam (Klonopin) and alprazolam (Xanax).\n\nDiazepam is considered to have low toxicity relative to dose. However, it has moderate abuse potential and produces physical and psychological dependence with extended use. Additionally, it can contribute to death by respiratory depression if combined with alcohol, opiates, and other depressants. It is highly advised to use harm reduction practices if using this substance.\n\nIt should be noted that the sudden discontinuation of benzodiazepines can be potentially dangerous or life-threatening for individuals using them regularly for extended periods of time, sometimes resulting in seizures or death. It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.\n\nWhile diazepam itself does not naturally occur in plants or animals, recent research has indicated that low concentrations of its major metabolite, desmethyldiazepam (DD), can be found in various biological systems, including those of animals and certain plants. This raises intriguing questions about the potential for these compounds to enter the food chain and their possible natural origins. However, the clinical significance and biological roles of these findings are still being explored.\n\nHistory and culture\n\nFollowing chlordiazepoxide (Librium), which was approved for use in 1960, diazepam was the second benzodiazepine invented by Leo Sternbach of pharmaceutical company Hoffman-La Roche. Released in 1963 as an improved version of Librium, diazepam became incredibly popular and quickly surpassed it in sales, helping Roche to become a pharmaceutical industry giant. After this initial success, other pharmaceutical companies began to introduce other benzodiazepine derivatives.\n\nThe benzodiazepines gained popularity among medical professionals as an improvement over barbiturates, which have a comparatively narrow therapeutic index, and are far more sedative at therapeutic doses. The benzodiazepines are also far less dangerous; death rarely results from diazepam overdose, except in cases where it is consumed with large amounts of other depressants (such as alcohol or opioids). Benzodiazepine drugs such as diazepam initially had widespread public support, but with time the view changed to one of growing criticism and calls for restrictions on their prescription.\n\nMarketed by Roche using an advertising campaign conceived by the William Douglas McAdams Agency under the leadership of Arthur Sackler, Diazepam was the top-selling pharmaceutical in the United States from 1969 to 1982, with peak annual sales in 1978 of 2.3 billion Valium tablets.  While psychiatrists continue to prescribe diazepam for the short-term relief of anxiety, neurology has taken the lead in prescribing diazepam for the palliative treatment of certain types of epilepsy and spastic activity.\n\nChemistry\n\nDiazepam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven-membered ring with the two nitrogen constituents located at R1 and R4. At R1, diazepam is substituted with methyl group.  Further, the benzodiazepine ring is bonded at R5 to an aromatic phenyl ring. The benzyl ring of the bicyclic core is substituted at R7 with a chlorine group. Diazepam also contains an oxygen group double-bonded to R2 of its diazepine ring to form a ketone. This oxygen substitution at R2 is shared with other benzodiazepine drugs with the suffix -azepam.\n\nDiazepam is a 1,4-benzodiazepine. Diazepam occurs as solid white or yellow crystals with a melting point of 131.5 to 134.5 °C. It is odorless, and has a slightly bitter taste. The pH of diazepam is neutral (i.e., pH = 7). Due to additives such as benzoic acid/benzoate in the injectable form. Diazepam can absorb into plastics, so liquid preparations should not be kept in plastic bottles or syringes, etc. As such, it can leach into the plastic bags and tubing used for intravenous infusions. Absorption appears to depend on several factors, such as temperature, concentration, flow rates, and tube length. Diazepam should not be administered if a precipitate has formed and does not dissolve.\n\nPharmacology\n\nDiazepam is a long-acting \"classical\" benzodiazepine. Benzodiazepines act via micromolar benzodiazepine binding sites as calcium channel blockers and significantly inhibit depolarization-sensitive calcium uptake in rat nerve cell preparations. Diazepam inhibits acetylcholine release in mouse hippocampal synaptosomes. This has been found by measuring sodium-dependent high-affinity choline uptake in mouse brain cells in vitro, after pretreatment of the mice with diazepam in vivo. This may play a role in explaining diazepam's anticonvulsant properties.\n\nBenzodiazepines are positive allosteric modulators of the GABA type A receptors (GABAA). The GABAA receptors are ligand-gated chloride-selective ion channels that are activated by GABA, the major inhibitory neurotransmitter in the brain. Binding of benzodiazepines to this receptor complex promotes the binding of GABA, which in turn increases the total conduction of chloride ions across the neuronal cell membrane. This increased chloride ion influx hyperpolarizes the neuron's membrane potential. As a result, the difference between resting potential and threshold potential is increased, and firing is less likely. As a result, the arousal of the cortical and limbic systems in the central nervous system is reduced.\n\nThe GABAA receptor is a heteromer composed of five subunits, the most common ones being two αs, two βs, and one γ (α2β2γ). For each subunit, many subtypes exist (α1–6, β1–3, and γ1–3). GABAA receptors containing the α1 subunit mediate the sedative, the anterograde amnesic, and partly the anticonvulsive effects of diazepam. GABAA receptors containing α2 mediate the anxiolytic actions and, to a large degree, the myorelaxant effects. GABAA receptors containing α3 and α5 also contribute to benzodiazepines myorelaxant actions, whereas GABAA receptors comprising the α5 subunit were shown to modulate the temporal and spatial memory effects of benzodiazepines.\n\nDiazepam is not the only drug to target these GABAA receptors. Drugs such as flumazenil also bind to GABAA to induce their effects. Diazepam appears to act on areas of the limbic system, thalamus, and hypothalamus, inducing anxiolytic effects. Benzodiazepine drugs, including diazepam increase the inhibitory processes in the cerebral cortex.\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter gamma aminobutyric acid (GABA) by acting on its receptors. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of diazepam on the nervous system. The anticonvulsant properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors. \n\nSubjective effects\n\nReports in our experience index:\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nhashish+(has+to+do+with+my+benzo+tollerance.+T:+4:10+11.40:+Effects+are+gradually+declining,+I%27m+feeling+more+sober+after+having+eaten+a+full+pita+with+chease+and+ham.+T:+4:50+00.20:+I%27m+coming+down,+the+sensation+is+decreasing+in+its+intensity+and+I%27m+slowly+but+steadily+going+back+to+baseline.+T:+5:10+00.40:+effects+have+vanished+complitely,+now+I+Just\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Diazepam\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.\nDiazepam has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nIt is strongly recommended that one use harm reduction practices, such as volumetric dosing, when using this substance to ensure the administration of the intended dose. \n\nLethal dosage\n\nThe oral LD50 (lethal dose in 50% of the population) of diazepam is 720 mg/kg in mice and 1240 mg/kg in rats. D. J. Greenblatt and colleagues reported in 1978 on two patients who had taken 500 and 2000 mg of diazepam, went into moderately deep comas, and were discharged within 48 hours without having experienced any important complications in spite of having high concentrations of diazepam and its metabolites esmethyldiazepam, oxazepam, and temazepam (according to samples taken in the hospital and as follow-up).\n\nAlthough not usually fatal when taken alone, a diazepam overdose is considered a medical emergency and generally requires the immediate attention of medical personnel. The antidote for an overdose of diazepam (or any other benzodiazepine) is flumazenil (Anexate). This drug is only used in cases with severe respiratory depression or cardiovascular complications. Because flumazenil is a short-acting drug and the effects of diazepam can last for days, several doses of flumazenil may be necessary. Artificial respiration and stabilization of cardiovascular functions may also be necessary.\n\nTolerance and addiction potential\n\nDiazepam is extremely physically and psychologically addictive.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7-14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see this guide.\n\nBenzodiazepine discontinuation is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nDiazepam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect.\n\nOverdose\n\nBenzodiazepine overdose may occur when a benzodiazepine is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine benzodiazepines with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\nInternationally, diazepam is a Schedule IV controlled drug under the Convention on Psychotropic Substances. Diazepam is regulated in most countries as a prescription drug.\n\n*Australia: Diazepam is a Schedule 4 substance under the Poisons Standard, making it a prescription only medicine.\n*Austria: Diazepam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Diazepam is listed under Schedule IV of the Controlled Drugs and Substances Act\n*Czech Republic: Diazepam is a Schedule IV  (List 7) substance. Sold exclusively with a prescription \"without a blue stripe\" (§ 1, g), 1. of Nařízení vlády č. 463/2013 Sb.) \n*Germany: Diazepam is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of August 1, 1986. It can only be prescribed on a narcotic prescription form, except preparations which contain up to 10&nbsp;mg diazepam in each dosage form and solutions that contain up to 1% and under 250&nbsp;mg diazepam in total per packaging unit.\n*Russia: Diazepam is a Schedule III controlled substance since 2013.\n*Switzerland: Diazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*United Kingdom: Diazepam is classified as a controlled drug and listed under Schedule IV, Part I (CD Benz POM) of the Misuse of Drugs Regulations 2001, allowing possession with a valid prescription. The Misuse of Drugs Act 1971 makes it illegal to possess the substance without a prescription, and, for such purposes, it is classified as a Class C drug.\n\nSee also\n\n*Responsible use\n**Volumetric liquid dosing\n*Depressants\n*Benzodiazepines\n*Diclazepam\n\nExternal links\n\n*Diazepam (Wikipedia)\n*Diazepam (Erowid Vault)\n*Diazepam (Isomer Design)\n*Diazepam (DrugBank)\n*Diazepam (Drugs.com)\n*Diazepam (Drugs-Forum)\n\nLiterature\n\n*Calcaterra, N. E., & Barrow, J. C. (2014). Classics in Chemical Neuroscience: Diazepam (Valium). ACS Chemical Neuroscience, 5(4), 253-260. PMID: 24552479 https://doi.org/10.1021/cn5000056\n\nReferences\n\nCategory:Alkaloid\nCategory:Benzodiazepine\nCategory:Depressant\nCategory:Anxiolytics",
+ "wikitext": "{{DepressantOD|benzodiazepines}}\n{{Distinguish|Diclazepam}}\n{{SummarySheet}}\n{{SubstanceBox/Diazepam}}\n'''[https://www.google.com/search?q=A+mild+but+pleasant+feeling+Total+dose%3A+45%2C4+mg+of+diazepam+Background%3A+I%27ve+been+using+diazepam+for+restless+leg+syndrome+for+the+last+15+days%2C+with+doses+ranging+between+1%2C4+and+50+mg+a+day.+Here%27s+the+report+from+today%27s+experience+with+this+substance%3A+T%3A+0%3A00+7.30+P.M.+%3A+I+ingested+15+mg+of+diazepam+(75+drops+of+oral+solution)+with+30+ml+of+water+(empty+stomach).+T%3A+0%3A15+7%3A45+P.M.+I+ingest+another+5+mg+of+diazepam+with+oral+drops+T%3A+0%3A30+8%3A00+P.M.+%3A+i+take+5+mg+of+diazepam+keeping+the+drops+under+the+toungue+T%3A+1%3A30%3A+9%3A00+P.M.%3A+I+smoke+a+small+joint+of+hashish+(0.2+g)+T%3A2%3A10+9%3A40+P.M.+%3A+I+assumed+12%2C2+mg+of+diazepam+orally+(61+gocce)+T%3A+2%3A20+9.50+P.M.+%3A+Wow%2C+onlu+10+minutes+have+passed+but+I%27m+feeling+a+relaxed+sensation+of+euphoria+washing+over+me%2C+concentrated+in+the+stomach+zone.+I+wasn%27t+expenting+a+so+fast+onset+from+this+compound%2C+interesting.+I%27ll+keep+you+updated+on+the+effects.+T%3A+2%3A30+10.00+P.M.+%3A+Effects+are+slightly+rising%2C+with+sedation+becoming+more+appaerent+T%3A+2%3A45+10.15+P.M.+%3A+Effects+seem+to+not+increase+more%2C+they%27re+kinda+platoing.+I%27m+going+to+take+5+more+mg+in+10+minutes+if+effects+don%27t+increase+further.+T%3A+2%3A55+10.25+P.M.+%3A+I+ingested+the+8.2+mg+(41+drops)+with+a+little+bit+of+water%2C+as+always.+Now+we+wait+for+Effects+to+show+T%3A+3%3A00+22.30+P.M.+%3A+Effects+of+the+second+booster+dose+are+coming+up+faster+than+the+ones+of+the+prior+dose+taken%2C+I%27m+feeling+warm%2C+fuzzy+and+my+muscles+are+relaxed.+T%3A+3%3A30+23%3A00%3A+The+intensity+of+the+feeling+has+not+increased%2C+It+seems+like+it%27s+platouing.+I%27ll+keep+you+updated%2C+but+I+don%27t+expect+anyting+interesting+from+this+experience+anymore.+The+effects+of+this+substance+last+30+minutes+to+an+hour+and+then+fades+away%2C+I+think+this+has+to+do+with+my+benzo+tollerance.+T%3A+4%3A10+11.40%3A+Effects+are+gradually+declining%2C+I%27m+feeling+more+sober+after+having+eaten+a+full+pita+with+chease+and+ham.+T%3A+4%3A50+00.20%3A+I%27m+coming+down%2C+the+sensation+is+decreasing+in+its+intensity+and+I%27m+slowly+but+steadily+going+back+to+baseline.+T%3A+5%3A10+00.40%3A+effects+have+vanished+complitely%2C+now+I+Just+feel+normal+tiredness+(it%27s+00.40%2C+so+It%27s+pretty+late)+I+conclude+this+experience+report+by+saying+that+I+enjoyed+the+effects%2C+but+they+were+way+more+single+than+i+would+have+expected.&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&ie=UTF-8&chrome_dse_attribution=1]''' (also known as '''Valium''') is a [[psychoactive class::depressant]] substance of the [[chemical class::benzodiazepine]] class. Its mechanism of action is to increase the effects of the inhibitory [[neurotransmitter]] [[GABA]].\n\nDiazepam was patented in 1955 by the pharmaceutical company Hoffman-La Roche.<ref name=\"Wick\">{{cite journal | vauthors=((Wick, J. Y.)) | journal=The Consultant Pharmacist | title=The History of Benzodiazepines | volume=28 | issue=9 | pages=538–548 | date=1 September 2013 | url=http://www.ingentaconnect.com/content/ascp/tcp/2013/00000028/00000009/art00001 | issn=0888-5109 | doi=10.4140/TCP.n.2013.538}}</ref> It has been one of the most frequently prescribed medications in the world since its launch in 1963.<ref>{{cite journal | vauthors=((Calcaterra, N. E.)), ((Barrow, J. C.)) | journal=ACS Chemical Neuroscience | title=Classics in Chemical Neuroscience: Diazepam (Valium) | volume=5 | issue=4 | pages=253–260 | date=16 April 2014 | url=https://pubs.acs.org/doi/10.1021/cn5000056 | issn=1948-7193 | doi=10.1021/cn5000056}}</ref> It is commonly used to treat a wide range of conditions including [[anxiety]], [[panic attacks]], [[insomnia]], [[seizures]], [[muscle spasms]], and [[restless legs syndrome]]. Diazepam is a core medicine in the World Health Organization's Essential Drugs List, the minimum medical needs for a basic health-care system.<ref>WHO Model List (2005) | http://whqlibdoc.who.int/hq/2005/a87017_eng.pdf</ref> \n\n[[Subjective effects]] include [[anxiety suppression]], [[sedation]], and [[muscle relaxation]].<ref name=\"Mandrioli2008\">{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine metabolism: an analytical perspective | volume=9 | issue=8 | pages=827–844 | date= October 2008 | issn=1389-2002 | doi=10.2174/138920008786049258}}</ref> Diazepam has a rapid onset of action compared to other benzodiazepines. However, it is generally considered to have lesser recreational effects compared to benzodiazepines like [[clonazepam]] (Klonopin) and [[alprazolam]] (Xanax).\n\nDiazepam is considered to have low toxicity relative to dose.{{citation needed}} However, it has moderate abuse potential and produces physical and psychological dependence with extended use. Additionally, it can contribute to death by [[respiratory depression]] if combined with [[alcohol]], [[opiates]], and other [[depressants]]. It is highly advised to use [[harm reduction practices]] if using this substance.\n\nIt should be noted that [[Benzodiazepine#Discontinuation|the sudden discontinuation of benzodiazepines]] can be potentially dangerous or life-threatening for individuals using them regularly for extended periods of time, sometimes resulting in seizures or death.<ref name=\"Lann2009\">{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> It is highly recommended to [[taper]] one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain.  Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\nWhile diazepam itself does not naturally occur in plants or animals, recent research has indicated that low concentrations of its major metabolite, desmethyldiazepam (DD), can be found in various biological systems, including those of animals and certain plants. This raises intriguing questions about the potential for these compounds to enter the food chain and their possible natural origins. However, the clinical significance and biological roles of these findings are still being explored.<ref>{{cite journal|last1=Unseld|first1=E.|last2=Krishna|first2=D. R.|last3=Fischer|first3=C.|last4=Klotz|first4=U.|title=Detection of desmethyldiazepam and diazepam in brain of different species and plants|year=1989|journal=Biochemical Pharmacology|volume=38|issue=15|pages=2473-2478|doi=10.1016/0006-2952(89)90091-9|issn=0006-2952|eissn=1873-2968|oclc=01536391|pmid=2502983}}</ref><ref>[https://pubmed.ncbi.nlm.nih.gov/2502983/]</ref>\n\n==History and culture==\nFollowing chlordiazepoxide (Librium), which was approved for use in 1960, diazepam was the second benzodiazepine invented by Leo Sternbach of pharmaceutical company Hoffman-La Roche. Released in 1963 as an improved version of Librium, diazepam became incredibly popular and quickly surpassed it in sales, helping Roche to become a pharmaceutical industry giant. After this initial success, other pharmaceutical companies began to introduce other benzodiazepine derivatives.<ref name=\"Sample\">{{Citation | vauthors=((Sample, I.)) | year=2005 | title=Leo Sternbach | url=https://www.theguardian.com/society/2005/oct/03/health.guardianobituaries | access-date=8 July 2019}}</ref>\n\nThe benzodiazepines gained popularity among medical professionals as an improvement over barbiturates, which have a comparatively narrow therapeutic index, and are far more sedative at therapeutic doses. The benzodiazepines are also far less dangerous; death rarely results from diazepam overdose, except in cases where it is consumed with large amounts of other depressants (such as alcohol or opioids).<ref name=\"Barondes2003\">{{cite book | vauthors=((Barondes, S. H.)) | date= 2003 | title=Better than Prozac: creating the next generation of psychiatric drugs | publisher=Oxford University Press | isbn=9780195151305}}</ref> Benzodiazepine drugs such as diazepam initially had widespread public support, but with time the view changed to one of growing criticism and calls for restrictions on their prescription.<ref>{{cite journal | vauthors=((Marshall, K. P.)), ((Georgievskava, Z.)), ((Georgievsky, I.)) | journal=Research in Social and Administrative Pharmacy | title=Social reactions to Valium and Prozac: A cultural lag perspective of drug diffusion and adoption | volume=5 | issue=2 | pages=94–107 | date= June 2009 | url=https://linkinghub.elsevier.com/retrieve/pii/S1551741108000582 | issn=15517411 | doi=10.1016/j.sapharm.2008.06.005}}</ref>\n\nMarketed by Roche using an advertising campaign conceived by the William Douglas McAdams Agency under the leadership of Arthur Sackler,<ref>{{Citation | vauthors=((Mariani, M.)) | year=2015 | title=Poison Pill - How the American opiate epidemic was started by one pharmaceutical company. | url=https://psmag.com/social-justice/how-the-american-opiate-epidemic-was-started-by-one-pharmaceutical-company | access-date=10 January 2018}}</ref> Diazepam was the top-selling pharmaceutical in the United States from 1969 to 1982, with peak annual sales in 1978 of 2.3 billion Valium tablets.<ref name=\"Sample\" />  While psychiatrists continue to prescribe diazepam for the short-term relief of anxiety, neurology has taken the lead in prescribing diazepam for the palliative treatment of certain types of epilepsy and spastic activity.{{citation needed}}\n\n==Chemistry==\nDiazepam is a drug of the [[benzodiazepine]] class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven-membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. At R<sub>1</sub>, diazepam is substituted with methyl group.  Further, the benzodiazepine ring is bonded at R<sub>5</sub> to an aromatic phenyl ring. The benzyl ring of the bicyclic core is substituted at R<sub>7</sub> with a chlorine group. Diazepam also contains an oxygen group double-bonded to R<sub>2</sub> of its diazepine ring to form a ketone. This oxygen substitution at R<sub>2</sub> is shared with other benzodiazepine drugs with the suffix -azepam.\n\nDiazepam is a 1,4-benzodiazepine. Diazepam occurs as solid white or yellow crystals with a melting point of 131.5 to 134.5 °C. It is odorless, and has a slightly bitter taste. The pH of diazepam is neutral (i.e., pH = 7). Due to additives such as benzoic acid/benzoate in the injectable form. Diazepam can absorb into plastics, so liquid preparations should not be kept in plastic bottles or syringes, etc. As such, it can leach into the plastic bags and tubing used for intravenous infusions. Absorption appears to depend on several factors, such as temperature, concentration, flow rates, and tube length. Diazepam should not be administered if a precipitate has formed and does not dissolve.<ref>Mikota SK, Plumb DC (2005). \"Diazepam\". ''The Elephant Formulary''. Elephant Care International. Archived from the original on 8 September 2005.</ref>\n\n==Pharmacology==\nDiazepam is a long-acting \"classical\" benzodiazepine. Benzodiazepines act via micromolar benzodiazepine binding sites as calcium channel blockers and significantly inhibit depolarization-sensitive calcium uptake in rat nerve cell preparations.<ref>{{cite journal | vauthors=((Taft, W. C.)), ((DeLorenzo, R. J.)) | journal=Proceedings of the National Academy of Sciences | title=Micromolar-affinity benzodiazepine receptors regulate voltage-sensitive calcium channels in nerve terminal preparations. | volume=81 | issue=10 | pages=3118–3122 | date= May 1984 | url=https://pnas.org/doi/full/10.1073/pnas.81.10.3118 | issn=0027-8424 | doi=10.1073/pnas.81.10.3118}}</ref> Diazepam inhibits acetylcholine release in mouse hippocampal synaptosomes. This has been found by measuring sodium-dependent high-affinity choline uptake in mouse brain cells ''in vitro'', after pretreatment of the mice with diazepam ''in vivo''. This may play a role in explaining diazepam's anticonvulsant properties.<ref>{{cite journal | journal=British Journal of Pharmacology | title=COMMUNICATIONS | volume=84 | issue=1 | pages=1P-77P | date= January 1985 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.1985.tb17368.x | issn=00071188 | doi=10.1111/j.1476-5381.1985.tb17368.x}}</ref>\n\nBenzodiazepines are positive allosteric modulators of the GABA type A receptors (GABA<sub>A</sub>). The GABA<sub>A</sub> receptors are ligand-gated chloride-selective ion channels that are activated by GABA, the major inhibitory neurotransmitter in the brain. Binding of benzodiazepines to this receptor complex promotes the binding of GABA, which in turn increases the total conduction of chloride ions across the neuronal cell membrane. This increased chloride ion influx hyperpolarizes the neuron's membrane potential. As a result, the difference between resting potential and threshold potential is increased, and firing is less likely. As a result, the arousal of the cortical and limbic systems in the central nervous system is reduced.<ref>\"National Highway Traffic Safety Administration Drugs and Human Performance Fact Sheet- Diazepam\". Archived from the original on 27 March 2017.</ref>\n\nThe GABA<sub>A</sub> receptor is a heteromer composed of five subunits, the most common ones being two αs, two βs, and one γ (α2β2γ). For each subunit, many subtypes exist (α1–6, β1–3, and γ1–3). GABA<sub>A</sub> receptors containing the α1 subunit mediate the sedative, the anterograde amnesic, and partly the anticonvulsive effects of diazepam. GABA<sub>A</sub> receptors containing α2 mediate the anxiolytic actions and, to a large degree, the myorelaxant effects. GABA<sub>A</sub> receptors containing α3 and α5 also contribute to benzodiazepines myorelaxant actions, whereas GABA<sub>A</sub> receptors comprising the α5 subunit were shown to modulate the temporal and spatial memory effects of benzodiazepines.<ref>{{cite journal | vauthors=((Tan, K. R.)), ((Rudolph, U.)), ((Lüscher, C.)) | journal=Trends in Neurosciences | title=Hooked on benzodiazepines: GABAA receptor subtypes and addiction | volume=34 | issue=4 | pages=188–197 | date= April 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0166223611000051 | issn=01662236 | doi=10.1016/j.tins.2011.01.004}}</ref>\n\nDiazepam is not the only drug to target these GABA<sub>A</sub> receptors. Drugs such as flumazenil also bind to GABA<sub>A</sub> to induce their effects.<ref>{{cite journal | vauthors=((Whirl-Carrillo, M.)), ((McDonagh, E. M.)), ((Hebert, J. M.)), ((Gong, L.)), ((Sangkuhl, K.)), ((Thorn, C. F.)), ((Altman, R. B.)), ((Klein, T. E.)) | journal=Clinical Pharmacology & Therapeutics | title=Pharmacogenomics Knowledge for Personalized Medicine | volume=92 | issue=4 | pages=414–417 | date= October 2012 | url=https://onlinelibrary.wiley.com/doi/10.1038/clpt.2012.96 | issn=0009-9236 | doi=10.1038/clpt.2012.96}}</ref> Diazepam appears to act on areas of the limbic system, thalamus, and hypothalamus, inducing anxiolytic effects. Benzodiazepine drugs, including diazepam increase the inhibitory processes in the cerebral cortex.<ref>{{cite journal | vauthors=((Zakusov, V. V.)), ((Ostrovskaya, R. U.)), ((Kozhechkin, S. N.)), ((Markovich, V. V.)), ((Molodavkin, G. M.)), ((Voronina, T. A.)) | journal=Archives Internationales De Pharmacodynamie Et De Therapie | title=Further evidence for GABA-ergic mechanisms in the action of benzodiazepines | volume=229 | issue=2 | pages=313–326 | date= October 1977 | issn=0003-9780}}</ref>\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by acting on its [[receptor]]s.<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of diazepam on the nervous system. The [[anticonvulsant]] properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.<ref>{{cite journal | vauthors=((McLean, M. J.)), ((Macdonald, R. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture | volume=244 | issue=2 | pages=789–795 | date= February 1988 | issn=0022-3565}}</ref> \n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug is sedating and often results in an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Muscle relaxation]]''' - In comparison to [[alprazolam]] (Xanax), diazepam has greater amounts of muscle relaxation.\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Physical euphoria]]''' - Diazepam is similar to other benzodiazepines, where despite suppressing emotion, people report moderate-strong feelings of relaxation, pleasure and comfort in the body. This seems to present itself more often in those with pre-existing anxiety. However, this isn't consistent with everyone, with some users reporting no euphoric qualities at all. It should also be noted that if this effect is experienced, it is typically more subtle in nature in comparison to more potent & faster acting benzodiazepines, such as [[alprazolam]] (Xanax.)\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]''' - Like many [[depressants]], diazepam is known to cause blurred or otherwise suppressed visual acuity. This is less likely to occur than other benzodiazepines, however it can still present itself at higher doses, or if the user has a low tolerance.\n\n}}\n{{effects/paradoxical|\n\nParadoxical reactions to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref><p></p>\nThese paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref>\n\n}}\n|{{effects/cognitive|\n\nThe general head space of diazepam is described by many as one of intense sedation and decreased inhibition.\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Memory suppression]]''' - Diazepam primarily suppresses short-term memory, resulting in forgetfulness, and/or disorganized behaviors.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Emotion suppression]]''' - Although this compound primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotic]]s.\n*'''[[Effect::Motivation suppression]]''' - Due to diazepam's moderate sedation and lethargy, doing any type of activity that requires moving, or high amounts of effort may be difficult to do on this compound, especially at higher doses.\n*'''[[Effect::Language suppression]]''' - Diazepam & most benzodiazepines are known to cause slurred speech and difficulty communicating words in a clear fashion.\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]'''<ref>{{cite journal | vauthors=((Goyal, S.)) | journal=Canadian Medical Association Journal | title=Drugs and dreams | volume=102 | issue=5 | pages=524 | date=14 March 1970 | issn=0008-4409}}</ref> or '''[[Effect::Dream suppression]]'''\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While benzodiazepines can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n\n}}\n}}\n\n\nReports in our experience index:\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\n===hashish+(has+to+do+with+my+benzo+tollerance.+T:+4:10+11.40:+Effects+are+gradually+declining,+I%27m+feeling+more+sober+after+having+eaten+a+full+pita+with+chease+and+ham.+T:+4:50+00.20:+I%27m+coming+down,+the+sensation+is+decreasing+in+its+intensity+and+I%27m+slowly+but+steadily+going+back+to+baseline.+T:+5:10+00.40:+effects+have+vanished+complitely,+now+I+Just===\n\n\n{{#ask: [[Category:Diazepam]][[Category:Experience]]|format=ul|Columns=1}} \nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Diazepam.shtml Erowid Experience Vaults: Diazepam]\n\n==Toxicity and harm potential==\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\nDiazepam has a [[Toxicity::low toxicity]] relative to dose.<ref name=\"Mandrioli2008\" />  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]], such as [[volumetric dosing]], when using this substance to ensure the administration of the intended dose. \n\n===Lethal dosage===\nThe oral [[LD50|LD<sub>50</sub>]] (lethal dose in 50% of the population) of diazepam is 720 mg/kg in mice and 1240 mg/kg in rats.<ref>http://www.drugs.com/diazepam.html</ref> D. J. Greenblatt and colleagues reported in 1978 on two patients who had taken 500 and 2000 mg of diazepam, went into moderately deep comas, and were discharged within 48 hours without having experienced any important complications in spite of having high concentrations of diazepam and its metabolites esmethyldiazepam, oxazepam, and temazepam (according to samples taken in the hospital and as follow-up).<ref>{{cite journal | vauthors=((Greenblatt, D. J.)), ((Woo, E.)), ((Allen, M. D.)), ((Orsulak, P. J.)), ((Shader, R. I.)) | journal=JAMA | title=Rapid recovery from massive diazepam overdose | volume=240 | issue=17 | pages=1872–1874 | date=20 October 1978 | issn=0098-7484}}</ref>\n\nAlthough not usually fatal when taken alone, a diazepam overdose is considered a medical emergency and generally requires the immediate attention of medical personnel. The antidote for an overdose of diazepam (or any other benzodiazepine) is flumazenil (Anexate). This drug is only used in cases with severe [[respiratory depression]] or cardiovascular complications. Because flumazenil is a short-acting drug and the effects of diazepam can last for days, several doses of flumazenil may be necessary. Artificial respiration and stabilization of cardiovascular functions may also be necessary.<ref>{{Citation | title=Diazepam (PIM 181) | url=https://inchem.org/documents/pims/pharm/pim181.htm}}</ref><ref>http://www.drugs.com/diazepam.html</ref><ref>{{Citation | title=Diazepam (Diazepam Injection): Uses, Dosage, Side Effects, Interactions, Warning | url=https://www.rxlist.com/diazepam-injection-drug.htm}}</ref><ref name=\"Barondes2003\" />\n===Tolerance and addiction potential===\nDiazepam is [[Addiction potential::extremely physically and psychologically addictive]].\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]].<ref>{{cite book | vauthors=((Janicak, P. G.)), ((Marder, S. R.)), ((Pavuluri, M. N.)) | date=25 October 2010 | title=Principles and Practice of Psychopharmacotherapy | publisher=Lippincott Williams & Wilkins | isbn=9781605475653}}</ref> After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7-14 days]]. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.<ref>{{cite journal | vauthors=((Verster, J. C.)), ((Volkerts, E. R.)) | journal=CNS Drug Reviews | title=Clinical Pharmacology, Clinical Efficacy, and Behavioral Toxicity of Alprazolam: A Review of the Literature | volume=10 | issue=1 | pages=45–76 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2004.tb00003.x | issn=1080563X | doi=10.1111/j.1527-3458.2004.tb00003.x}}</ref><ref>{{cite book | vauthors=((Galanter, M.)), ((Kleber, H. D.)) | date= 2008 | title=The American Psychiatric Publishing Textbook of Substance Abuse Treatment | publisher=American Psychiatric Pub. | isbn=9781585622764}}\n</ref> For more information on tapering from benzodiazepines in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide].\n\n[[Benzodiazepine#Discontinuation|Benzodiazepine discontinuation]] is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of [[hypertension]], [[seizures]], and death.<ref name=\"Lann2009\" /> Drugs which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\nDiazepam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption all benzodiazepines will have a reduced effect.\n\n===Overdose===\nBenzodiazepine overdose may occur when a [[benzodiazepine]] is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as [[barbiturate |barbiturates]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with [[flumazenil]], a GABA<sub>A</sub> antagonist<ref>{{cite journal | vauthors=((Hoffman, E. J.)), ((Warren, E. W.)) | journal=Clinical Pharmacy | title=Flumazenil: a benzodiazepine antagonist | volume=12 | issue=9 | pages=641–656; quiz 699–701 | date= September 1993 | issn=0278-2677}}</ref>, however care is primarily supportive in nature.\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*'''[[DangerousInteraction::Depressants|Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[DangerousInteraction::Dissociatives|Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[DangerousInteraction::Stimulants|Stimulants]]''' -  It is dangerous to combine benzodiazepines with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified [[disinhibition]] as well as [[benzodiazepine#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\nInternationally, diazepam is a Schedule IV controlled drug under the Convention on Psychotropic Substances.<ref>International Narcotics Control Board (2003) | http://infoespai.org/wp-content/uploads/2014/12/green.pdf</ref> Diazepam is regulated in most countries as a prescription drug.\n\n*'''Australia''': Diazepam is a Schedule 4 substance under the Poisons Standard, making it a prescription only medicine.<ref>{{cite web|url=https://www.legislation.gov.au/Details/F2019L01471|title=Poisons Standard December 2019|publisher=Office of Parliamentary Counsel|date=November 14, 2019|access-date=December 28, 2019}}</ref>\n*'''Austria''': Diazepam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada''': Diazepam is listed under Schedule IV of the Controlled Drugs and Substances Act<ref>https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html#h-95661</ref>\n*'''Czech Republic''': Diazepam is a Schedule IV <ref>https://eur-lex.europa.eu/resource.html?uri=cellar:6b5e9beb-1d9b-11ea-95ab-01aa75ed71a1.0001.02/DOC_1&format=PDF</ref> (List 7) substance. Sold exclusively with a prescription \"without a blue stripe\" (§ 1, g), 1. of ''Nařízení vlády č. 463/2013 Sb.'') <ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n*'''Germany''': Diazepam is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'') as of August 1, 1986.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl186s1099.pdf|title=Zweite Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 1986 Teil I|publication-date=July 29, 1986|access-date=December 26, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form, except preparations which contain up to 10&nbsp;mg diazepam in each dosage form and solutions that contain up to 1% and under 250&nbsp;mg diazepam in total per packaging unit.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 26, 2019|language=de}}</ref>\n*'''Russia''': Diazepam is a Schedule III controlled substance since 2013.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100005&date=02.12.2019}}9</ref>\n*'''Switzerland''': Diazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Diazepam is classified as a controlled drug and listed under Schedule IV, Part I (CD Benz POM) of the Misuse of Drugs Regulations 2001, allowing possession with a valid prescription. The Misuse of Drugs Act 1971 makes it illegal to possess the substance without a prescription, and, for such purposes, it is classified as a Class C drug.<ref>{{Citation | title=Drugs licensing | url=https://www.gov.uk/government/collections/drugs-licensing}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric liquid dosing]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n*[[Diclazepam]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Diazepam Diazepam (Wikipedia)]\n*[https://www.erowid.org/pharms/diazepam/ Diazepam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3011 Diazepam (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00829 Diazepam (DrugBank)]\n*[http://www.drugs.com/diazepam.html Diazepam (Drugs.com)]\n*[https://drugs-forum.com/wiki/Diazepam Diazepam (Drugs-Forum)]\n\n==Literature==\n\n*Calcaterra, N. E., & Barrow, J. C. (2014). Classics in Chemical Neuroscience: Diazepam (Valium). ACS Chemical Neuroscience, 5(4), 253-260. PMID: 24552479 https://doi.org/10.1021/cn5000056\n\n==References==\n<references />\n\n[[Category:Alkaloid]]\n[[Category:Benzodiazepine]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n\n{{#set:Featured=true}}"
+}

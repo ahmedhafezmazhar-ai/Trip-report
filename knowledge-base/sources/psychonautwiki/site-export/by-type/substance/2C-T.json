@@ -1,0 +1,413 @@
+{
+ "id": "psychonautwiki:18649",
+ "type": "substance",
+ "title": "2C-T",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2C-T",
+  "pageid": 18649,
+  "last_edited": "2025-07-02T14:30:12Z"
+ },
+ "categories": [
+  "2C-T-x",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/2C-T",
+ "substance_box": {
+  "names": {
+   "common": "2C-T, Tesseract",
+   "substitutive": "4-methylthio-2,5-dimethoxyphenethylamine",
+   "systematic": "[[systematic name::2-[4-(Methylthio)-2,5-dimethoxyphenyl]ethanamine]]"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 mg",
+    "light": "40 - 60 mg",
+    "common": "60 - 100 mg",
+    "strong": "100 - 120 mg",
+    "heavy": "125 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "30 - 45 minutes",
+    "peak": "30 - 115 minutes",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 2 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "2C-T",
+    "Tesseract"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Phenethylamine"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "40"
+   ],
+   "Oral max light dose": [
+    "60"
+   ],
+   "Oral min common dose": [
+    "60"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "120"
+   ],
+   "Oral heavy dose": [
+    "125"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "30"
+   ],
+   "Oral max peak time": [
+    "115"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "2"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 2C-T.",
+   "clean": "Molecular structure of 2C-T."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:2C-T.svg",
+   "clean": "File:2C-T.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::2C-T]], [[common name::Tesseract]]",
+   "clean": "2C-T, Tesseract"
+  },
+  "NameSubstitution": {
+   "raw": "4-methylthio-2,5-dimethoxyphenethylamine",
+   "clean": "4-methylthio-2,5-dimethoxyphenethylamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-[4-(Methylthio)-2,5-dimethoxyphenyl]ethanamine]]",
+   "clean": "[[systematic name::2-[4-(Methylthio)-2,5-dimethoxyphenyl]ethanamine]]"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] [[Oral dose units::mg]]",
+   "clean": "20 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::40]] - [[Oral max light dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::60]] - [[Oral max common dose::100]] mg",
+   "clean": "60 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::120]] mg",
+   "clean": "100 - 120 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::125]] mg +",
+   "clean": "125 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::30]] - [[Oral max peak time::115]] [[Oral peak time units::minutes]]",
+   "clean": "30 - 115 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::2]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "2,5-Dimethoxy-4-methylthiophenethylamine (also known as 2C-T) is a lesser-known psychedelic substance of the phenethylamine class. It is a member of the 2C-x family of psychedelic phenethylamines, all of which are close relatives to mescaline. It is thought to produce its effects by binding to serotonin receptors in the brain, although the precise mechanism is not fully understood.\n\n2C-T was first synthesized as part of a collaboration between researchers David E. Nichols and Alexander Shulgin. \nIts effects and synthesis is described in Shulgin's 1991 book PiHKAL (\"Phenethylamines I Have Known and Loved\").\n\n2C-T's subjective effects are not well-characterized. Preliminary anecdotal reports appear to indicate it has some of the psychedelic effects of 2C-T-2 and 2C-T-7. The effects of 2C-T have been described as being less visual and more tactile. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2C-T, and it has a relatively short history of human usage. It is highly advised to use harm reduction practices if using this substance. \n\nHistory and culture\n\nIt was first synthesized and studied through a collaboration between David E. Nichols and Alexander Shulgin. However, 2C-T is almost unknown on the black market and is rarely sold online.\n\nChemistry\n\n2C-T is in a class of compounds commonly known as phenethylamines, and is the 4-methylthio analogue of 2C-O, a positional isomer of mescaline. It is also the 2C analog of Aleph. The systematic name of the chemical is 2-(2,5-dimethoxy-4-(methylthio)phenyl)ethanamine. The CAS number of 2C-T is 61638-09-3. \n\n2C-T, or 2,5-dimethoxy-4-methylthiophenethylamine, is a substituted phenethylamine featuring a phenyl ring bound to an amino (NH2) group through a methyl chain. 2C-T belongs to the 2C family of phenethylamines which contain methoxy functional groups CH3O- attached to carbons R2 and R5 of the benzene ring. 2C-T is also substituted at R4 with an methyl thioether group. \n\nPharmacology\n\nThe mechanism of action that produces 2C-T’s hallucinogenic and entheogenic effects has not been established in scientific literature; however, its primary psychedelic effects are more than likely a result of its efficacy at the 5-HT2A receptor as a partial agonist. This mechanism of action is shared by many other psychedelic phenethylamines and tryptamines.\n\nHowever, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nBeing similar in structure to 2C-T-2 and 2C-T-7, this compound may have some MAOI properties.\n\nSubjective effects\n\nThe effects of 2C-T have been described as being less visual and more in the body.\n\n \n\nExperience reports\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 2C-T use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. \n\nAnecdotal reports suggest that there are no negative health effects attributed to trying this drug, but nothing can be completely guaranteed.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\n2C-T is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 2C-T is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 2C-T presents cross-tolerance with all psychedelics, meaning that after the consumption of 2C-T all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nAlthough only speculative, it is worth noting that if 2C-T does have MAOI effects this could indicate that 2C-T is more likely to induce serotonin syndrome or general neurotransmitter overload (especially at high dosages) than other serotonergic psychedelics. This may make it dangerous to combine it with other MAOIs, stimulants and certain substances which promotes the release of neurotransmitters such as serotonin or dopamine. These substances include but are not limited to:\n{|\n|-\n|\n*5-MeO-MiPT\n*2C-T-7\n*AMT\n*Ayahuasca\n*Harmala alkaloids\n*2-AI\n*2-FMA\n*3-FPM\n*4-FA\n*A-PVP\n*Amphetamine\n*Cocaine\n*Ethylphenidate\n||\n*N-Methylbisfluoromodafinil\n*Isopropylphenidate\n*MDAI\n*MDMA\n*Mephedrone\n*Methamphetamine\n*Methiopropamine\n*Methylone\n*Methylphenidate\n*Modafinil\n*Nicotine\n*NM-2-AI\n*Noopept\n|}\n\nLegal status\n\n*Canada: 2C-T would be considered Schedule III as it is a derivative of 2,5-dimethoxyphenethylamine.\n*Germany: 2C-H is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable. The legislator considers it possible that orders of 2C-H are punishable as an incitement to place it on the market.\n*United Kingdom: 2C-T is a Class A drug in the United Kingdom as a result of the phenethylamine catch-all clause.\n*United States: 2C-T is a Schedule 1 drug in the U.S., making it illegal to possess, manufacture, or import.\n\nSee also\n\n*Responsible use\n**Volumetric liquid dosing\n*Research chemical\n*2C-x\n*2C-T-2\n*2C-T-7\n*2C-E\n\nExternal links\n\n*2C-T (Wikipedia)\n*2C-T (PiHKAL / Isomer Design)\n\nDiscussion\n\n*The Big & Dandy 2C-T Thread (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:2C-T-x\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/2C-T}}\n'''2,5-Dimethoxy-4-methylthiophenethylamine''' (also known as '''2C-T''') is a lesser-known [[Psychoactive class::psychedelic]] substance of the [[chemical class::phenethylamine]] class. It is a member of the [[2C-x family]] of psychedelic phenethylamines, all of which are close relatives to [[mescaline]]. It is thought to produce its effects by binding to serotonin receptors in the brain, although the precise mechanism is not fully understood.\n\n2C-T was first synthesized as part of a collaboration between researchers [[David E. Nichols]] and [[Alexander Shulgin]].<ref>{{cite journal|last1=Nichols|first1=D. E.|last2=Shulgin|first2=A. T.|author-link1=David E. Nichols|author-link2=Alexander Shulgin|year=1976|title=Sulfur Analogs of Psychotomimetic Amines|journal=Journal of Pharmaceutical Sciences|volume=65|issue=10|pages=1554–1556|doi=10.1002/jps.2600651040|pmid=978423|issn=1520-6017|eissn=0022-3549|oclc=01754726}}</ref> \nIts effects and synthesis is described in Shulgin's 1991 book [[PiHKAL]] (\"Phenethylamines I Have Known and Loved\").<ref name=\"PiHKAL\">{{cite book|title=PiHKAL: A Chemical Love Story|title-link=PiHKAL|author-link1=Alexander Shulgin|author1=Alexander Shulgin|author2=Ann Shulgin|year=1991|publisher=Transform Press|location=United States|isbn=0963009605|oclc=1166889264|chapter-url=https://erowid.org/library/books_online/pihkal/pihkal039.shtml|chapter=#39. 2C-T}}</ref>\n\n2C-T's subjective effects are not well-characterized. Preliminary anecdotal reports appear to indicate it has some of the psychedelic effects of [[2C-T-2]] and [[2C-T-7]]. The effects of 2C-T have been described as being less visual and more tactile. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 2C-T, and it has a relatively short history of human usage. It is highly advised to use [[harm reduction practices]] if using this substance. \n\n==History and culture==\n{{historyStub}}\nIt was first synthesized and studied through a collaboration between David E. Nichols and Alexander Shulgin.<ref>Nichols DE, Shulgin AT (October 1976). \"Sulfur analogs of psychotomimetic amines\". ''J Pharm Sci''. '''65''' (10): 1554–6. CiteSeerX 10.1.1.687.8486. doi:10.1002/jps.2600651040. <nowiki>PMID 978423</nowiki>.</ref> However, 2C-T is almost unknown on the black market and is rarely sold online.\n\n==Chemistry==\n2C-T is in a class of compounds commonly known as phenethylamines, and is the 4-methylthio analogue of 2C-O, a positional isomer of mescaline. It is also the 2C analog of Aleph. The systematic name of the chemical is 2-(2,5-dimethoxy-4-(methylthio)phenyl)ethanamine. The CAS number of 2C-T is 61638-09-3. \n\n2C-T, or 2,5-dimethoxy-4-methylthiophenethylamine, is a substituted [[phenethylamines|phenethylamine]] featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through a methyl chain. 2C-T belongs to the 2C family of phenethylamines which contain methoxy functional groups CH<sub>3</sub>O- attached to carbons R<sub>2</sub> and R<sub>5</sub> of the benzene ring. 2C-T is also substituted at R<sub>4</sub> with an methyl thioether group. \n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nThe mechanism of action that produces 2C-T’s [[hallucinogenic]] and [[entheogen]]ic effects has not been established in scientific literature; however, its primary psychedelic effects are more than likely a result of its efficacy at the [[Serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] as a [[Agonist#Agonists|partial agonist]]. This mechanism of action is shared by many other psychedelic [[phenethylamine]]s and [[tryptamine]]s.\n\nHowever, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nBeing similar in structure to [[2C-T-2]] and [[2C-T-7]], this compound may have some [[MAOI]] properties.\n\n==Subjective effects==\n{{effectStub}}\nThe effects of 2C-T have been described as being less visual and more in the body.\n\n{{Preamble/SubjectiveEffects}} \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Spontaneous bodily sensations]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Tactile enhancement]]''' \"Tactile sensitivity\"\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Pupil dilation]]'''\n\n}}\n{{effects/visual|\nThe visual component of this substance is reported to be minimal even at higher doses.\n====Enhancements====\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Flowing|flowing]], [[Drifting#Breathing|breathing]] and [[Drifting# morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, static in appearance and extremely realistic in style but with a subtle digital/cartoon-like form. \n*'''[[Effect::Tracers]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nAny visual geometry present throughout this experience is yet to be distinguished.\n\n====Hallucinatory states====\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n}}\n|{{effects/cognitive|\nThe head space of 2C-T is described by many as one which is both insightful and relatively normal in its thought processes even at moderate to high doses.\n\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Analysis enhancement]]''' - This effect is consistent in its manifestation and is [[outrospection]] dominant.\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased sense of humor]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n\n}}\n{{effects/transpersonal|\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Perception of interdependent opposites]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=2C-T}}\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational 2C-T use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. \n\nAnecdotal reports suggest that there are [[Toxicity::no negative health effects attributed to trying this drug]], but nothing can be completely guaranteed.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\n2C-T is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 2C-T is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::7 days]] to be back at baseline (in the absence of further consumption). 2C-T presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of 2C-T all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\nAlthough only speculative, it is worth noting that if 2C-T does have [[MAOI]] effects this could indicate that 2C-T is more likely to induce [[serotonin syndrome]] or general [[neurotransmitter]] overload (especially at high dosages) than other [[serotonergic psychedelic|serotonergic psychedelics]].<ref>{{cite journal|title=Sulfur-Substituted α-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors:  Biological Activities, CoMFA Analysis, and Active Site Modeling|doi=10.1021/jm0493109|pmid=15801832|url=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.689.281&rep=rep1&type=pdf|first1=A.|last1=Gallardo-Godoy|first2=A.|last2=Fierro|first3=T. H.|last3=McLean|first4=M.|last4=Castillo|first5=B. K.|last5=Cassels|first6=M.|last6=Reyes-Parada|first7=D. E.|last7=Nichols|author-link7=David E. Nichols|year=2005|volume=48|issue=7|pages=2407–2419|journal=Journal of Medicinal Chemistry|issn=0022-2623|eissn=1520-4804|oclc=39480771}}</ref> This may make it dangerous to combine it with other [[MAOIs]], [[stimulant]]s and certain substances which promotes the release of neurotransmitters such as [[serotonin]] or [[dopamine]]. These substances include but are not limited to:\n{|\n|-\n|\n*'''[[5-MeO-MiPT]]'''\n*'''[[2C-T-7]]'''\n*'''[[AMT]]'''\n*'''[[Ayahuasca]]'''\n*'''[[Harmala alkaloids]]'''\n*'''[[2-AI]]'''\n*'''[[2-FMA]]'''\n*'''[[3-FPM]]'''\n*'''[[4-FA]]'''\n*'''[[A-PVP]]'''\n*'''[[Amphetamine]]'''\n*'''[[Cocaine]]'''\n*'''[[Ethylphenidate]]'''\n||\n*'''[[N-Methylbisfluoromodafinil]]'''\n*'''[[Isopropylphenidate]]'''\n*'''[[MDAI]]'''\n*'''[[MDMA]]'''\n*'''[[Mephedrone]]'''\n*'''[[Methamphetamine]]'''\n*'''[[Methiopropamine]]'''\n*'''[[Methylone]]'''\n*'''[[Methylphenidate]]'''\n*'''[[Modafinil]]'''\n*'''[[Nicotine]]'''\n*'''[[NM-2-AI]]'''\n*'''[[Noopept]]'''\n|}\n\n==Legal status==\n\n*'''Canada''': 2C-T would be considered Schedule III as it is a derivative of 2,5-dimethoxyphenethylamine.<ref>{{cite web|url=http://isomerdesign.com/Cdsa/schedule.php?schedule=3&section=ALL&structure=C|title=Schedule III|work=Controlled Drugs and Substances Act (CDSA)|publisher=Isomer Design|access-date=October 10, 2020}}</ref>\n*'''Germany''': 2C-H is controlled under the NpSG<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> (''New Psychoactive Substances Act'') as of November 26, 2016.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|pages=2615-2622|issn=0341-1095|oclc=1004462279|publisher=Bundesanzeiger Verlag|date=November 21, 2016|publication-date=November 25, 2016|language=de|work=Bundesgesetzblatt Jahrgang 2016 Teil I Nr. 55}}</ref> Production and import with the aim to place it on the market, administration to another person, placing it on the market and trading is punishable. Possession is illegal but not punishable.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__3.html|title=§ 3 NpSG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> The legislator considers it possible that orders of 2C-H are punishable as an incitement to place it on the market.<ref>{{cite web|url=http://dip21.bundestag.de/dip21/btd/18/085/1808579.pdf|title=Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|page=20|date=May 30, 2016|id=Drucksache 18/8579|publisher=Deutscher Bundestag|language=de}}</ref>\n*'''United Kingdom''': 2C-T is a Class A drug in the United Kingdom as a result of the phenethylamine catch-all clause.<ref>{{cite web|title=Schedule 2: Part I: Class A Drugs|url=http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I|work=\"Misuse of Drugs Act 1971\"|access-date=August 20, 2020|publisher=UK Government}}</ref>\n*'''United States''': 2C-T is a Schedule 1 drug in the U.S., making it illegal to possess, manufacture, or import.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric liquid dosing]]\n*[[Research chemical]]\n*[[2C-x]]\n*[[2C-T-2]]\n*[[2C-T-7]]\n*[[2C-E]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/2C-T 2C-T (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=39 2C-T (PiHKAL / Isomer Design)]\n\n===Discussion===\n\n*[https://www.bluelight.org/xf/threads/302863 The Big & Dandy 2C-T Thread (Bluelight)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:2C-T-x]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true\n|RN=\n|Rα=\n|Rβ=\n|R2=\n|R3=OCH₃\n|R4=S-CH₂-CH₂-CH₃\n|R5=\n|R6=OCH₃\n}}"
+}

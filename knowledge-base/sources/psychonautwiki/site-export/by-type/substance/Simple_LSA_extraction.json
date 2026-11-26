@@ -1,0 +1,955 @@
+{
+ "id": "psychonautwiki:269",
+ "type": "substance",
+ "title": "Simple LSA extraction",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Simple_LSA_extraction",
+  "pageid": 269,
+  "last_edited": "2022-11-30T02:46:18Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Extraction"
+ ],
+ "substance_box_template": "SubstanceBox/LSA",
+ "substance_box": {
+  "names": {
+   "common": "LSA, Ergine",
+   "substitutive": "d-Lysergic acid amide / d-Lysergamide",
+   "systematic": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "30  - 180 minutes",
+    "peak": "2 - 7 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "3 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "LSA",
+    "Ergine"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Lysergamide"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "180"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "7"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "3"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of LSA",
+   "clean": "Molecular structure of LSA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:LSA.svg",
+   "clean": "File:LSA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::LSA]], [[common name::Ergine]]",
+   "clean": "LSA, Ergine"
+  },
+  "NameSubstitution": {
+   "raw": "d-Lysergic acid amide / d-Lysergamide",
+   "clean": "d-Lysergic acid amide / d-Lysergamide"
+  },
+  "NameSystematic": {
+   "raw": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide",
+   "clean": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]]  - [[Oral max onset time::180]] [[Oral onset time units::minutes]]",
+   "clean": "30  - 180 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::7]] [[Oral peak time units::hours]]",
+   "clean": "2 - 7 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "3 - 24 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "This article serves to document a procedure for the extraction of LSA from LSA-containing seeds which have not been subject to any additional preparation. \n\nPrecautions\n\n* Do not forget to boil the water before extraction. Otherwise, the chlorine might destroy all the alkaloids, leaving an inactive solution behind. Distilled water (available at many grocery stores) may also be used to avoid this step.\n\n* The seeds must not be purchased unless explicitly sold as untreated, as many easily-available seeds are coated with fungicides which can be toxic if consumed.\n\n* Different batches of seeds vary in potency so it is advised to use a low test dose be used to test the strength of the seeds and work your way up afterwards.\n\n* LSA is a substance that at toxic doses can cause vasoconstriction, meaning that your blood vessels shrink resulting in a decreased blood flow to your extremities (such as toes and fingers). This is not much of a concern unless you are taking heavy doses, and typically feels like a mild tingling sensation during most high dose trips that stops after the peak. This vasoconstriction can have long-term cumulative effects if repeated high doses of LSA are used for extended periods of time.\n\nMaterials\n\n*Untreated Hawaiian baby woodrose seeds (HBWR) or untreated morning glory seeds (can be easily acquired online)\n*Garlic clove\n*Orange juice or any other fruit juice of choice \n*A glass of boiled tap water (tap water may contain chlorine which can destroy LSA; boiling the water will remove the chlorine. One can also use distilled water without the need for boiling).\n\nProcedure\n\n#The water should be boiled (inside an open container, i.e. not a pressure cooker) and left to cool down to room temperature. There is no specific measurement of water needed as the LSA will extract into it regardless, but a small glass is recommended so that the final product can be 1 part water and two parts fruit juice.\n#Depending on the desired dosage, (Hawaiian baby woodrose [4 to 12 seeds]) or (Morning glory [50 to 250 seeds]) should be crushed using a mortar and pestle or a hammer and then put into the water.\n#The water should be then put into a fridge for at least 4 hours or more and covered in something such as tinfoil or a paper bag to avoid exposure to light when the fridge is opened.\n#After the water has been refrigerated; a finely chopped up garlic clove should be added to the water for 30 minutes and stirred periodically to reduce the nausea and \"body load\". This is thought to work because the sulfur in garlic may act to remove the cyanogenic glycosides within the seed matter, although this has yet to be validated scientifically. It should be noted that LSA is capable of producing nausea on its own in a seemingly unpredictable fashion.\n#A small amount of fruit juice can be added to help eliminate the taste of the seed matter.\n#Sieve out the seed matter and garlic, and this can be discarded of. Sieving through a fine material such as an old t-shirt or a paper filter to remove every last bit of seed matter will help greatly.\n#If these steps have been followed correctly, the cold water extraction is ready to consume.\n\nDosage\n\nWhen using morning glory seeds the dosages for oral consumption are generally considered to be:\n\n*Light: 50 - 100 seeds / 1.5 - 3 g\n*Common: 100 - 250 seeds / 3 - 6 g\n*Strong: 250 - 400 seeds / 6 - 10 g\n*Heavy: 400 + seeds / 10 + g\n\nWhen using Hawaiian baby woodrose seeds the dosages for oral consumption are generally considered to be:\n* Threshold: 1 - 3 seeds\n* Light: 3 - 6 seeds\n* Common: 5 - 8 seeds\n* Strong: 7 - 12 seeds\n* Heavy: 12 + seeds\n\nSee also\n\n*Responsible use\n*Tutorial index\n**Tincture of LSA extract\n**Low dose LSA Cold Water Extraction (CWE)\n*LSA\n\ncategory:Extraction",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/LSA}}\n\nThis article serves to document a procedure for the extraction of [[LSA]] from LSA-containing seeds which have not been subject to any additional preparation. \n\n==Precautions==\n\n* Do not forget to boil the water before extraction. Otherwise, the chlorine might destroy all the alkaloids, leaving an inactive solution behind. Distilled water (available at many grocery stores) may also be used to avoid this step.\n\n* The seeds must not be purchased '''unless explicitly sold as untreated''', as many easily-available seeds are coated with fungicides which can be toxic if consumed.\n\n* Different batches of seeds vary in potency so it is advised to use a low test dose be used to test the strength of the seeds and work your way up afterwards.\n\n* LSA is a substance that at toxic doses can cause vasoconstriction, meaning that your blood vessels shrink resulting in a decreased blood flow to your extremities (such as toes and fingers). This is not much of a concern unless you are taking heavy doses, and typically feels like a mild tingling sensation during most high dose trips that stops after the peak. This vasoconstriction can have long-term cumulative effects if repeated high doses of LSA are used for extended periods of time.\n\n==Materials==\n*Untreated Hawaiian baby woodrose seeds ('''HBWR''') or untreated morning glory seeds (can be easily acquired online)\n*Garlic clove\n*Orange juice or any other fruit juice of choice \n*A glass of boiled tap water (tap water may contain chlorine which can destroy LSA; boiling the water will remove the chlorine. One can also use distilled water without the need for boiling).\n\n==Procedure==\n#The water should be boiled (inside an open container, i.e. not a pressure cooker) and left to cool down to room temperature. There is no specific measurement of water needed as the LSA will extract into it regardless, but a small glass is recommended so that the final product can be 1 part water and two parts fruit juice.\n#Depending on the desired dosage, (Hawaiian baby woodrose [4 to 12 seeds]) or (Morning glory [50 to 250 seeds]) should be crushed using a mortar and pestle or a hammer and then put into the water.\n#The water should be then put into a fridge for at least 4 hours or more and covered in something such as tinfoil or a paper bag to avoid exposure to light when the fridge is opened.\n#After the water has been refrigerated; a finely chopped up garlic clove should be added to the water for 30 minutes and stirred periodically to reduce the [[nausea]] and \"body load\". This is thought to work because the sulfur in garlic may act to remove the cyanogenic glycosides within the seed matter, although this has yet to be validated scientifically. It should be noted that LSA is capable of producing nausea on its own in a seemingly unpredictable fashion.{{citation needed}}\n#A small amount of fruit juice can be added to help eliminate the taste of the seed matter.\n#Sieve out the seed matter and garlic, and this can be discarded of. Sieving through a fine material such as an old t-shirt or a paper filter to remove every last bit of seed matter will help greatly.\n#If these steps have been followed correctly, the cold water extraction is ready to consume.\n\n===Dosage===\nWhen using '''morning glory seeds''' the dosages for oral consumption are generally considered to be:\n\n*'''Light''': 50 - 100 seeds / 1.5 - 3 g\n*'''Common''': 100 - 250 seeds / 3 - 6 g\n*'''Strong''': 250 - 400 seeds / 6 - 10 g\n*'''Heavy''': 400 + seeds / 10 + g\n\nWhen using '''Hawaiian baby woodrose''' seeds the dosages for oral consumption are generally considered to be:\n* '''Threshold:''' 1 - 3 seeds\n* '''Light:''' 3 - 6 seeds\n* '''Common:''' 5 - 8 seeds\n* '''Strong:''' 7 - 12 seeds\n* '''Heavy:''' 12 + seeds\n\n==See also==\n*[[Responsible use]]\n*[[Tutorial index]]\n**[[Tincture of LSA extract]]\n**[[Low dose LSA Cold Water Extraction (CWE)]]\n*[[LSA]]\n\n[[category:Extraction]]"
+}

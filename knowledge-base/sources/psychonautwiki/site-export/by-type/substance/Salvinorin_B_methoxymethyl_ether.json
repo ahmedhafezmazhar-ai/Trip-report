@@ -1,0 +1,400 @@
+{
+ "id": "psychonautwiki:12868",
+ "type": "substance",
+ "title": "Salvinorin B methoxymethyl ether",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
+  "pageid": 12868,
+  "last_edited": "2025-07-02T14:22:55Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "Dissociative",
+  "Hallucinogen",
+  "Psychoactive substance",
+  "Salvinorin",
+  "Stub",
+  "Terpenoid"
+ ],
+ "substance_box_template": "SubstanceBox/Salvinorin B methoxymethyl ether",
+ "substance_box": {
+  "names": {
+   "common": "",
+   "substitutive": "Salvinorin B",
+   "systematic": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-2-(furan-3-yl)-9-(methoxymethoxy)-6a,10b-dimethyl-4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate"
+  },
+  "classes": {
+   "psychoactive": "Hallucinogen",
+   "chemical": "Salvinorin"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation and should be verified with other sources for accuracy.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "100 µg",
+    "light": "? - ? µg",
+    "common": "? - ? µg",
+    "strong": "275 - 425 µg",
+    "heavy": "?+ mg",
+    "duration": "3 - 3 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "Dosage differs between its varying forms.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "30 - 90 minutes",
+    "onset": "10 - 20 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "30 - 120 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "psychoactive class": [
+    "Hallucinogen"
+   ],
+   "chemical class": [
+    "Salvinorin"
+   ],
+   "Smoked threshold dose": [
+    "100"
+   ],
+   "Smoked dose units": [
+    "µg"
+   ],
+   "Smoked min light dose": [
+    "?"
+   ],
+   "Smoked max light dose": [
+    "?"
+   ],
+   "Smoked min common dose": [
+    "?"
+   ],
+   "Smoked max common dose": [
+    "?"
+   ],
+   "Smoked min strong dose": [
+    "275"
+   ],
+   "Smoked max strong dose": [
+    "425"
+   ],
+   "Smoked heavy dose": [
+    "?"
+   ],
+   "Smoked min total time": [
+    "3"
+   ],
+   "Smoked max total time": [
+    "3"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Sublingual min total time": [
+    "30"
+   ],
+   "Sublingual max total time": [
+    "90"
+   ],
+   "Sublingual total time units": [
+    "minutes"
+   ],
+   "Sublingual min onset time": [
+    "10"
+   ],
+   "Sublingual max onset time": [
+    "20"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min afterglow time": [
+    "30"
+   ],
+   "Sublingual max afterglow time": [
+    "120"
+   ],
+   "Sublingual afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Skeletal formula of Salvinorin B",
+   "clean": "Skeletal formula of Salvinorin B"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Salvinorin B methoxymethyl ether.svg",
+   "clean": "File:Salvinorin B methoxymethyl ether.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSubstitution": {
+   "raw": "Salvinorin B",
+   "clean": "Salvinorin B"
+  },
+  "NameSystematic": {
+   "raw": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-2-(furan-3-yl)-9-(methoxymethoxy)-6a,10b-dimethyl-4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate",
+   "clean": "methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-2-(furan-3-yl)-9-(methoxymethoxy)-6a,10b-dimethyl-4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Hallucinogen]]",
+   "clean": "Hallucinogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Salvinorin]]",
+   "clean": "Salvinorin"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation and should be verified with other sources for accuracy.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation and should be verified with other sources for accuracy."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::100]] [[Smoked dose units::µg]]",
+   "clean": "100 µg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::?]] - [[Smoked max light dose::?]] µg",
+   "clean": "? - ? µg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::?]] - [[Smoked max common dose::?]] µg",
+   "clean": "? - ? µg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::275]] - [[Smoked max strong dose::425]] µg",
+   "clean": "275 - 425 µg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::?]]+ mg",
+   "clean": "?+ mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::3]] - [[Smoked max total time::3]] [[Smoked total time units::hours]]",
+   "clean": "3 - 3 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "<br>'''''Dosage differs between its [[Salvinorin_A#Forms_of_salvia_divinorum|varying forms]].'''''",
+   "clean": "Dosage differs between its varying forms."
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::30]] - [[Sublingual max total time::90]] [[Sublingual total time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::10]] - [[Sublingual max onset time::20]] [[Sublingual onset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::30]] - [[Sublingual max afterglow time::120]] [[Sublingual afterglow time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  }
+ },
+ "plain_text": "Salvinorin B methoxymethyl ether (2-O-methoxymethylsalvinorin B, or 2-MMSB) is a semi-synthetic analogue of the natural product Salvinorin A which is used in scientific research. It has a longer duration of action of around 2–3 hours, compared to less than 30 minutes for salvinorin A, and has increased affinity and potency at the κ-opioid receptor. Like the related compound herkinorin, salvinorin B methoxymethyl ether is made from salvinorin B, which is most conveniently made from salvinorin A by deacetylation, as while both salvinorin A and salvinorin B are found in the plant Salvia divinorum, salvinorin A is present in larger quantities.\n\nSalvinorin B methoxymethyl ether has a Ki of 0.60 nM at the κ opioid receptor, and is around five times more potent than salvinorin A in animal studies, although it is still only half as potent as its stronger homolog salvinorin B ethoxymethyl ether.\n\nExperience reports\n\nSee also\n\n*Responsible use\n*Salvinorin A\n*Dissociatives\n*Psychoactive substance index\n\nExternal links\n\n*Salvinorin B methoxymethyl ether (Wikipedia)\n*Salvinorin B methoxymethyl ether (Erowid Vault)\n*Salvinorin B methoxymethyl ether (Isomer Design)\n\nReferences\n\nCategory:Hallucinogen\nCategory:Dissociative\nCategory:Psychoactive substance\nCategory:Salvinorin\nCategory:Terpenoid",
+ "wikitext": "{{headerpanel|{{stub}}}}\n{{SummarySheet}}\n{{SubstanceBox/Salvinorin B methoxymethyl ether}}\n\n'''Salvinorin B methoxymethyl ether''' ('''2-O-methoxymethylsalvinorin B''', or '''2-MMSB''') is a semi-synthetic analogue of the natural product [[Salvinorin A]] which is used in scientific research. It has a longer duration of action of around 2–3 hours, compared to less than 30 minutes for salvinorin A, and has increased affinity and potency at the κ-opioid receptor. Like the related compound herkinorin, salvinorin B methoxymethyl ether is made from salvinorin B, which is most conveniently made from salvinorin A by deacetylation, as while both salvinorin A and salvinorin B are found in the plant Salvia divinorum, salvinorin A is present in larger quantities.\n\nSalvinorin B methoxymethyl ether has a Ki of 0.60 nM at the κ opioid receptor, and is around five times more potent than salvinorin A in animal studies, although it is still only half as potent as its stronger homolog salvinorin B ethoxymethyl ether.\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=Salvinorin B Ethoxymethyl Ether}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Salvinorin A]]\n*[[Dissociatives]]\n*[[Psychoactive substance index]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Salvinorin_B_methoxymethyl_ether Salvinorin B methoxymethyl ether (Wikipedia)]\n*[https://www.erowid.org/chemicals/salvinorin_b_ethoxymethyl_ether/ Salvinorin B methoxymethyl ether (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2842 Salvinorin B methoxymethyl ether (Isomer Design)]\n\n==References==\n{{references}}\n[[Category:Hallucinogen]]\n[[Category:Dissociative]]\n[[Category:Psychoactive substance]]\n[[Category:Salvinorin]]\n[[Category:Terpenoid]]"
+}

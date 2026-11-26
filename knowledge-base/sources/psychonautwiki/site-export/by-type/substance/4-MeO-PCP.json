@@ -1,0 +1,491 @@
+{
+ "id": "psychonautwiki:10790",
+ "type": "substance",
+ "title": "4-MeO-PCP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-MeO-PCP",
+  "pageid": 10790,
+  "last_edited": "2025-07-02T14:20:56Z"
+ },
+ "categories": [
+  "Arylcyclohexylamine",
+  "CS1 German-language sources (de)",
+  "Dissociative",
+  "Piperidine",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/4-MeO-PCP",
+ "substance_box": {
+  "names": {
+   "common": "4-MeO-PCP, Methoxydine",
+   "substitutive": "4-Methoxyphencyclidine",
+   "systematic": "1-[1-(4-methoxyphenyl)cyclohexyl]-piperidine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "75 - 100 mg",
+    "common": "100 - 170 mg",
+    "strong": "170 - 250 mg",
+    "heavy": "250 mg +",
+    "duration": "12 - 20 hours",
+    "onset": "45 - 120 minutes",
+    "comeup": "1 - 2 hours",
+    "peak": "3 - 7 hours",
+    "offset": "6 - 10 hours",
+    "aftereffects": "6+ hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "30 - 75 mg",
+    "common": "75 - 150 mg",
+    "strong": "150mg +",
+    "heavy": "",
+    "duration": "12 - 18 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "3 - 6 hours",
+    "offset": "3 hours",
+    "aftereffects": "3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "4-MeO-PCP",
+    "Methoxydine"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "75"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "170"
+   ],
+   "Oral min strong dose": [
+    "170"
+   ],
+   "Oral max strong dose": [
+    "250"
+   ],
+   "Oral heavy dose": [
+    "250"
+   ],
+   "Oral min total time": [
+    "12"
+   ],
+   "Oral max total time": [
+    "20"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "45"
+   ],
+   "Oral max onset time": [
+    "120"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "3"
+   ],
+   "Oral max peak time": [
+    "7"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "6"
+   ],
+   "Oral max offset time": [
+    "10"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "15"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "30"
+   ],
+   "Insufflated max light dose": [
+    "75"
+   ],
+   "Insufflated min common dose": [
+    "75"
+   ],
+   "Insufflated max common dose": [
+    "150"
+   ],
+   "Insufflated heavy dose": [
+    "150"
+   ],
+   "Insufflated min total time": [
+    "12"
+   ],
+   "Insufflated max total time": [
+    "18"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "15"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "15"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "3"
+   ],
+   "Insufflated max peak time": [
+    "6"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "3"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "3"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 4-MeO-PCP",
+   "clean": "Molecular structure of 4-MeO-PCP"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:4-MeO-PCP.svg",
+   "clean": "File:4-MeO-PCP.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::4-MeO-PCP]], [[common name::Methoxydine]]",
+   "clean": "4-MeO-PCP, Methoxydine"
+  },
+  "NameSubstitution": {
+   "raw": "4-Methoxyphencyclidine",
+   "clean": "4-Methoxyphencyclidine"
+  },
+  "NameSystematic": {
+   "raw": "1-[1-(4-methoxyphenyl)cyclohexyl]-piperidine",
+   "clean": "1-[1-(4-methoxyphenyl)cyclohexyl]-piperidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::75]] - [[Oral max light dose::100]] mg",
+   "clean": "75 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::170]] mg",
+   "clean": "100 - 170 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::170]] - [[Oral max strong dose::250]] mg",
+   "clean": "170 - 250 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::250]] mg +",
+   "clean": "250 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::12]] - [[Oral max total time::20]] [[Oral total time units::hours]]",
+   "clean": "12 - 20 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::45]] - [[Oral max onset time::120]] [[Oral onset time units::minutes]]",
+   "clean": "45 - 120 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::3]] - [[Oral max peak time::7]] [[Oral peak time units::hours]]",
+   "clean": "3 - 7 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::6]] - [[Oral max offset time::10]] [[Oral offset time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "6+ hours",
+   "clean": "6+ hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::15]] [[Insufflated dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::30]] - [[Insufflated max light dose::75]] mg",
+   "clean": "30 - 75 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::75]] - [[Insufflated max common dose::150]] mg",
+   "clean": "75 - 150 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated heavy dose::150]]mg +",
+   "clean": "150mg +"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::12]] - [[Insufflated max total time::18]] [[Insufflated total time units::hours]]",
+   "clean": "12 - 18 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::15]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::15]] - [[Insufflated max comeup time::30]] [[Insufflated comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::3]] - [[Insufflated max peak time::6]] [[Insufflated peak time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::3]] [[Insufflated offset time units::hours]]",
+   "clean": "3 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::3]] [[Insufflated afterglow time units::hours]]",
+   "clean": "3 hours"
+  }
+ },
+ "plain_text": "4-Methoxyphencyclidine (abbreviated 4-MeO-PCP) is a synthetic dissociative of the arylcyclohexylamine class which produces hallucinogenic and anesthetic effects.  \n\nThe synthesis of 4-MeO-PCP was first reported in 1965 by the Parke-Davis medicinal chemist Victor Maddox. A 1999 review published by a chemist using the pseudonym John Q. Beagle suggested the potency of 4-MeO-PCP in man was reduced relative to PCP. Two years later, Beagle published a detailed description of the synthesis and qualitative effects of 4-MeO-PCP which he said possessed 70% of the potency of PCP.\n\n4-MeO-PCP was the first arylcyclohexylamine research chemical to be sold online. It was introduced in late 2008 by a company trading under the name CBAY and was followed by several related compounds such as 3-MeO-PCP and Methoxetamine (MXE).\n\nChemistry\n\n4-MeO-PCP, or 4-Methoxyphencyclidine, is a synthetic dissociative of the arylcyclohexylamine class. 4-MeO-PCP contains cyclohexane, a six member saturated ring, bonded to two additional rings at R1. One of these rings is a piperidine ring (a nitrogenous six member ring) bonded at its nitrogen group. The other ring is an aromatic phenyl ring substituted at R4 with a methoxy group. 4-MeO-PCP is a PCP derivative, and structurally analogous to 3-MeO-PCP.\n\nPharmacology\n\n4-MeO-PCP acts as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “k-hole.”\n\n4-MeO-PCP has lower affinity for the NMDA receptor than PCP, but higher affinity than ketamine. It is orally active in a dosage range similar to ketamine with some users requiring doses in excess of 100mg for desired effects. Users have reported substantial differences in active dose; these discrepancies can be partially explained by the presence of unreacted PCC and other impurities in samples sold on the grey market. Though 4-MeO-PCP has been suggested to possess dopaminergic activity, it is a relatively selective ligand for the NMDA receptor without appreciable affinity for the dopamine transporter.\n\nSubjective effects\n\nExperience reports\n\nPotentially dangerous interactions\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 4-MeO-PCP use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 4-MeO-PCP has very little history of human usage. Anecdotal evidence from people who have tried 4-MeO-PCP within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other NMDA receptor antagonists, the chronic use of 4-MeO-PCP can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-MeO-PCP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 4-MeO-PCP presents cross-tolerance with all dissociatives, meaning that after the consumption of 4-MeO-PCP all dissociatives will have a reduced effect.\n\nDangerous interactions\n\nUrinary tract effects\n\nIn terms of its long-term health effects when used repeatedly and with excess for extended periods of time, 4-MeO-PCP seems to exhibit almost identical bladder and urinary tract problems to those found within ketamine but to a lesser extent. This is because 4-MeO-PCP is a little more potent than ketamine, meaning that less of the drug needs to be consumed. Symptoms of ketamine-induced cystitis can become extremely serious and can be described as:\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using 4-MeO-PCP on a daily or even weekly basis and manually limiting one's usage of the substance.\n\nLegal status\n\n*Germany: 4-MeO-PCP is a controlled substance under the NpSG since 27th September 2021.\n*Sweden - Sweden's public health agency suggested classifying 4-MeO-PCP as a hazardous substance on November 10, 2014.\n*Switzerland: 4-MeO-PCP is a controlled substance specifically named under Verzeichnis E.\n*Turkey: 4-MeO-PCP is a classed as drug and is illegal to possess, produce, supply, or import. \n*United Kingdom - 4-MeO-PCP is a class B drug in the UK and is illegal to possess, produce, supply, or import. As a derivative of 1-Phenylcyclohexylamine where the amine has been replaced with a 1-piperidyl group, further substituted in the phenyl ring with an alkoxy substituent, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Dissociatives\n*Arylcyclohexylamines\n*3-MeO-PCP\n*PCP\n\nExternal links\n\n*4-MeO-PCP (Wikipedia)\n*4-MeO-PCP (Erowid Vault)\n*4-MeO-PCP (Isomer Design)\n*4-MeO-PCP (Bluelight)\n*Interview with a Ketamine Chemist (VICE)\n\nLiterature\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Arylcyclohexylamine\nCategory:Piperidine\nCategory:Dissociative\nCategory:Research chemical",
+ "wikitext": "{{Distinguish|3-MeO-PCP}}\n{{SummarySheet}}\n{{SubstanceBox/4-MeO-PCP}}\n\n'''4-Methoxyphencyclidine''' (abbreviated '''4-MeO-PCP''') is a synthetic [[Psychoactive class::dissociative]] of the [[Chemical class::arylcyclohexylamine]] class which produces [[hallucinogenic]] and [[pain relief|anesthetic]] effects.  \n\nThe synthesis of 4-MeO-PCP was first reported in 1965 by the Parke-Davis medicinal chemist Victor Maddox.<ref name=\"From PCP to MXE\">{{cite journal | vauthors=((Morris, H.)), ((Wallach, J.)) | journal=Drug Testing and Analysis | title=From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs: PCP to MXE | volume=6 | issue=7–8 | pages=614–632 | date= July 2014 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.1620 | issn=19427603 | doi=10.1002/dta.1620}}</ref> A 1999 review published by a chemist using the pseudonym John Q. Beagle suggested the potency of 4-MeO-PCP in man was reduced relative to PCP. Two years later, Beagle published a detailed description of the synthesis and qualitative effects of 4-MeO-PCP which he said possessed 70% of the potency of PCP.<ref name=\"From PCP to MXE\" />\n\n4-MeO-PCP was the first arylcyclohexylamine [[research chemical]] to be sold online. It was introduced in late 2008 by a company trading under the name CBAY and was followed by several related compounds such as [[3-MeO-PCP]] and [[Methoxetamine]] (MXE).<ref name=\"From PCP to MXE\" /><ref>New drugs coming our way - what are they and how do we detect them?  | http://www.emcdda.europa.eu/attachements.cfm/att_78745_EN_4_King.pps</ref>\n\n==Chemistry==\n4-MeO-PCP, or 4-Methoxyphencyclidine, is a synthetic dissociative of the arylcyclohexylamine class. 4-MeO-PCP contains cyclohexane, a six member saturated ring, bonded to two additional rings at R<sub>1</sub>. One of these rings is a piperidine ring (a nitrogenous six member ring) bonded at its nitrogen group. The other ring is an aromatic phenyl ring substituted at R<sub>4</sub> with a methoxy group. 4-MeO-PCP is a [[PCP]] derivative, and structurally analogous to [[3-MeO-PCP]].\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\n4-MeO-PCP acts as an [[NMDA receptor antagonist]]. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\n4-MeO-PCP has lower affinity for the NMDA receptor than PCP, but higher affinity than [[ketamine]]. It is orally active in a dosage range similar to ketamine with some users requiring doses in excess of 100mg for desired effects.<ref name=\"Ketamine Analogue\">{{cite journal | vauthors=((Roth, B. L.)), ((Gibbons, S.)), ((Arunotayanun, W.)), ((Huang, X.-P.)), ((Setola, V.)), ((Treble, R.)), ((Iversen, L.)) | journal=PLOS ONE | title=The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor | volume=8 | issue=3 | pages=e59334 | date=19 March 2013 | url=https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059334 | issn=1932-6203 | doi=10.1371/journal.pone.0059334}}</ref><ref name=\"From PCP to MXE\" /> Users have reported substantial differences in active dose; these discrepancies can be partially explained by the presence of unreacted PCC and other impurities in samples sold on the grey market.<ref name=\"From PCP to MXE\" /> Though 4-MeO-PCP has been suggested to possess dopaminergic activity, it is a relatively selective ligand for the NMDA receptor without appreciable affinity for the dopamine transporter.<ref name=\"Ketamine Analogue\" />\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Spatial disorientation]]\n*'''[[Effect::Spontaneous physical sensations]]'''\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Tactile suppression]]'''\n*'''[[Effect::Optical sliding]]'''\n\n}}\n{{effects/visual|\n====Suppression====\n*'''[[Effect::Visual disconnection]]''' - This eventually results in 4-MeO-PCP's equivalent of the famous \"[https://en.wikipedia.org/wiki/K-hole k-hole]\" or, more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::Frame rate suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Consciousness disconnection]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Cognitive euphoria|Euphoria]]\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Mania]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Thought deceleration]]'''\n\n}}\n\n{{effects/auditory|\n*'''[[Effect::Auditory suppression|Suppression]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=4-MeO-PCP}}\n\n==Potentially dangerous interactions==\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Dissos}}\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational 4-MeO-PCP use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 4-MeO-PCP has very little history of human usage. Anecdotal evidence from people who have tried 4-MeO-PCP within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with other NMDA receptor antagonists, the chronic use of 4-MeO-PCP can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 4-MeO-PCP [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 4-MeO-PCP presents cross-tolerance with [[Cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of 4-MeO-PCP all [[dissociative]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Dissos}}\n\n===Urinary tract effects===\nIn terms of its long-term health effects when used repeatedly and with excess for extended periods of time, 4-MeO-PCP seems to exhibit almost identical bladder and urinary tract problems to those found within [[ketamine]] but to a lesser extent. This is because 4-MeO-PCP is a little more potent than ketamine, meaning that less of the drug needs to be consumed. Symptoms of ketamine-induced cystitis can become extremely serious and can be described as:\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using 4-MeO-PCP on a daily or even weekly basis and manually limiting one's usage of the substance.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany:''' 4-MeO-PCP is a controlled substance under the NpSG since 27th September 2021<ref>{{Citation | title=NpSG - Neue-psychoaktive-Stoffe-Gesetz | url=https://www.gesetze-im-internet.de/npsg/BJNR261510016.html}}</ref>.\n*'''Sweden''' - Sweden's public health agency suggested classifying 4-MeO-PCP as a hazardous substance on November 10, 2014.<ref>Cannabinoider föreslås bli klassade som hälsofarlig vara | http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2014/november/cannabinoider-foreslas-bli-klassade-som-halsofarlig-vara/</ref>\n*'''Switzerland:''' 4-MeO-PCP is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' 4-MeO-PCP is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''United Kingdom''' - 4-MeO-PCP is a class B drug in the UK and is illegal to possess, produce, supply, or import. As a derivative of 1-Phenylcyclohexylamine where the amine has been replaced with a 1-piperidyl group, further substituted in the phenyl ring with an alkoxy substituent, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2013 | url=https://www.legislation.gov.uk/uksi/2013/239/introduction/made}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Dissociatives]]\n*[[Arylcyclohexylamines]]\n*[[3-MeO-PCP]]\n*[[PCP]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/4-MeO-PCP 4-MeO-PCP (Wikipedia)]\n*[https://www.erowid.org/chemicals/4meo_pcp/ 4-MeO-PCP (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=963 4-MeO-PCP (Isomer Design)]\n*[http://www.bluelight.org/vb/threads/391328-The-Big-amp-Dandy-4-MeO-PCP-Thread 4-MeO-PCP (Bluelight)]\n*[https://web.archive.org/web/20170111011440*/https://www.vice.com/en_us/article/interview-with-ketamine-chemist-704-v18n2 Interview with a Ketamine Chemist (VICE)]\n\n==Literature==\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Arylcyclohexylamine]]\n[[Category:Piperidine]]\n[[Category:Dissociative]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

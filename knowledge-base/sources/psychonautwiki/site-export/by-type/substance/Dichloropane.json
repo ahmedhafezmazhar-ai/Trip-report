@@ -1,0 +1,486 @@
+{
+ "id": "psychonautwiki:12918",
+ "type": "substance",
+ "title": "Dichloropane",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Dichloropane",
+  "pageid": 12918,
+  "last_edited": "2025-06-26T13:56:18Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Turkish-language sources (tr)",
+  "Phenyltropane",
+  "Psychoactive substance",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Dichloropane",
+ "substance_box": {
+  "names": {
+   "common": "Dichloropane, RTI-111",
+   "substitutive": "(−)-2β-Carbomethoxy-3β-(3,4-dichlorophenyl)tropane",
+   "systematic": "Methyl (2S,3S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Phenyltropane"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "2.5 mg",
+    "light": "2.5 - 7.5 mg",
+    "common": "7.5 - 20 mg",
+    "strong": "20 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "40 - 75 minutes",
+    "onset": "15 - 60 seconds",
+    "comeup": "15 - 60 seconds",
+    "peak": "15 - 30 minutes",
+    "offset": "20 - 40 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "3 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "60 - 90 minutes",
+    "offset": "60 - 90 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Dichloropane",
+    "RTI-111"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Phenyltropane"
+   ],
+   "Smoked threshold dose": [
+    "2.5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "2.5"
+   ],
+   "Smoked max light dose": [
+    "7.5"
+   ],
+   "Smoked min common dose": [
+    "7.5"
+   ],
+   "Smoked max common dose": [
+    "20"
+   ],
+   "Smoked min strong dose": [
+    "20"
+   ],
+   "Smoked max strong dose": [
+    "50"
+   ],
+   "Smoked heavy dose": [
+    "50"
+   ],
+   "Smoked min total time": [
+    "40"
+   ],
+   "Smoked max total time": [
+    "75"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "15"
+   ],
+   "Smoked max onset time": [
+    "60"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "15"
+   ],
+   "Smoked max comeup time": [
+    "60"
+   ],
+   "Smoked comeup time units": [
+    "seconds"
+   ],
+   "Smoked min peak time": [
+    "15"
+   ],
+   "Smoked max peak time": [
+    "30"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "20"
+   ],
+   "Smoked max offset time": [
+    "40"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Insufflated threshold dose": [
+    "3"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "20"
+   ],
+   "Insufflated max common dose": [
+    "40"
+   ],
+   "Insufflated min strong dose": [
+    "40"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "2"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "15"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "15"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "60"
+   ],
+   "Insufflated max peak time": [
+    "90"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "60"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Dichloropane",
+   "clean": "Molecular structure of Dichloropane"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:RTI-111.svg",
+   "clean": "File:RTI-111.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Dichloropane]], [[common name::RTI-111]]",
+   "clean": "Dichloropane, RTI-111"
+  },
+  "NameSubstitution": {
+   "raw": "(−)-2β-Carbomethoxy-3β-(3,4-dichlorophenyl)tropane",
+   "clean": "(−)-2β-Carbomethoxy-3β-(3,4-dichlorophenyl)tropane"
+  },
+  "NameSystematic": {
+   "raw": "Methyl (2S,3S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+   "clean": "Methyl (2S,3S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenyltropane]]",
+   "clean": "Phenyltropane"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2.5]] [[Smoked dose units::mg]]",
+   "clean": "2.5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::2.5]] - [[Smoked max light dose::7.5]] mg",
+   "clean": "2.5 - 7.5 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::7.5]] - [[Smoked max common dose::20]] mg",
+   "clean": "7.5 - 20 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::20]] - [[Smoked max strong dose::50]] mg",
+   "clean": "20 - 50 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::40]] - [[Smoked max total time::75]] [[Smoked total time units::minutes]]",
+   "clean": "40 - 75 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::15]] - [[Smoked max onset time::60]] [[Smoked onset time units::seconds]]",
+   "clean": "15 - 60 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::15]] - [[Smoked max comeup time::60]] [[Smoked comeup time units::seconds]]",
+   "clean": "15 - 60 seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::15]] - [[Smoked max peak time::30]] [[Smoked peak time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::20]] - [[Smoked max offset time::40]] [[Smoked offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::3]] [[Insufflated dose units::mg]]",
+   "clean": "3 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::20]] - [[Insufflated max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::40]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::15]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::15]] - [[Insufflated max comeup time::30]] [[Insufflated comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::60]] - [[Insufflated max peak time::90]] [[Insufflated peak time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::60]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  }
+ },
+ "plain_text": "Dichloropane (also known as RTI-111 or O-401) is a novel stimulant substance of the phenyltropane class. Its effects include stimulation, thought acceleration, appetite suppression and euphoria. \nIt is structurally related to cocaine and shares many of its effects, although it notably lacks its local anesthetic properties. \n\nDichloropane has been shown to have a slower onset and longer duration of action compared to cocaine in animal studies. Anecdotal reports characterize it as having the basic stimulant qualities of cocaine but without as much euphoria, more protracted comedown, and less general enjoyability.  \n\nDichloropane first appeared on the research chemical market around 2010. It is among to the first cocaine analog to be made available (in limited quantities) on the online research chemical market.\n\nVery little is known about the pharmacology, metabolism, and toxicity of dichloropane. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nDichloropane is a derivative of 3-phenyltropane. Methylecgonidine as the direct precursor to this compound. It is produced as a hydrochloride salt in its powdered form.\n\nDichloropane is structurally similar to cocaine, atropine and hyoscine, as it contains a tropane ring. The tropane ring of RTI-111 is substituted with a carbomethoxy group, also found in cocaine. RTI-111 differs from cocaine by its other addition, a dichlorinated phenyl ring. The phenyl ring of RTI-111 is substituted at R3 and R4 with chlorine groups. The phenyl ring of RTI-111 is attached directly to its tropane ring while in cocaine a carboxylate group bridges the two rings.\n\nPharmacology\n\nThe most extensively studied effect of dichloropane on the central nervous system is the blockade of the serotonin, dopamine, and norepinephrine transporter. This substance acts as a triple reuptake inhibitor and prevents monoamine neurotransmitters from being recycled, causing excessive amounts to build up in the synapse, or junction between neurons. The result is an enhanced and prolonged post-synaptic effect of monoaminergic signaling at receptors on the receiving neuron. It is this sudden flood of neurotransmitters in the synapses of various brain regions that is thought to cause dichloropane's effects.\n\nCompared to cocaine, dichloropane has a higher relative affinity for both the serotonin and norepinephrine transporters over the dopamine transporter, which is in part suspected to be responsible for the differences in its subjective effects.\n\nSubjective effects\n\nThe general head space of dichloropane is described by many as one of moderate to extreme mental stimulation, increased focus, sociability and euphoria.\n\nUnlike cocaine, dichloropane is reported to produce a minimal rush component combined with a substantially longer come-up, protracted comedown and overall duration. This may render it less compulsive than cocaine for some users, but with a proportionally harder offset. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\nKTD Official Experience Report - RTI-111 (AKA Dichloropane) Trial III\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational dichloropane use has not been studied in any scientific context and the exact toxic dosage is unknown. This is because dichloropane has very little history of human usage. In terms of neurotoxicity (as defined by the damage or death of cells in the brain in response to over-excitation or reactive oxidation caused by drugs), it is reasonable to assume that like other stimulants which work principally through reuptake inhibition (e.g. cocaine), dichloropane should not exhibit these effects unlike certain other substances such as methamphetamine, which have suspected mechanisms of direct neurotoxicity. The extended use or abuse of dichloropane, however, is likely to cause both short and down-term down regulation of the receptors of the major neurotransmitter (monoamine) systems it interacts with. However, this still remains a subject of active inquiry.\n\nDue to its structural similarity to cocaine, it is worth noting that the most potentially harmful physical effects of dichloropane could not be neurological but cardiovascular. For example, severe cardiac adverse events, particularly sudden cardiac death, become a serious risk at high doses for cocaine due to cocaine's blocking effect on cardiac sodium channels, and it is possible that dichloropane may share this risk despite not having topical anesthetic activity. Moreover, long-term cocaine usage may result in Cocaine-Related Cardiomyopathy.  It is as of yet unknown whether dichloropane presents similar risks, but it is reasonable to assume that it might, and thus should be approached with additional caution.\n\nIt is suspected that regular dichloropane insufflation can have extremely adverse effects on one's nostrils, nose and nasal cavities. These include a loss of the sense of smell, nosebleeds, difficulty swallowing, hoarseness, or a chronically runny nose.\n\nAnecdotal evidence from people who have tried dichloropane within the community suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of dichloropane can be considered to have the potential to be moderately addictive with a high potential for abuse, though perhaps less so than that of cocaine, and is thus capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of dichloropane develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 2 - 4 days for the tolerance to be reduced to half and 1 - 1.5 weeks to be back at baseline (in the absence of further consumption). Dichloropane likely presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of dichloropane all stimulants will have a reduced effect.\n\nWithdrawal symptoms\n\nIt is possible that after taking dichloropane on a regular or extended basis, some users will become addicted like they would to cocaine. When the drug is discontinued immediately, the user will experience what has come to be known as a \"crash\" along with a number of other withdrawal symptoms including paranoia, depression, anxiety, itching, mood swings, irritability, fatigue, insomnia, an intense craving for more of the drug, and, in some cases, nausea and vomiting. Some cocaine users also report having similar symptoms to schizophrenic patients and feel that their mind is scattered or incoherent. Some users also report a feeling of a crawling sensation on the skin also known as \"coke bugs\". \n\nThese symptoms can last for weeks or, in some cases, months. Even after most withdrawal symptoms dissipate most users feel the need to continue using the drug; this feeling can last for years and may peak during times of stress.\n\nPsychosis\n\nDue to its very brief history of human usage, little is known about dichloropane's ability to induce psychosis, although it is reasonable to assume it presents similar risks to that of cocaine and other dopaminergic stimulants when abused, typically for extended durations, in high doses and or for prolonged periods of time.\n\nDangerous interactions\n\n*Stimulants - When used in conjunction with other stimulants, the cardiovascular effects of cocaine such as increased heart rate become dangerously high. This is potentially fatal and severely increases the risk of cardiac arrest.\n*Depressants - When used in conjunction with depressants such as opioids and benzodiazepines, the cardiovascular effects of the two classes begin to conflict as one increases the heart rate while the other decreases it. This is potentially fatal and can result in an extremely irregular heart rate leading onto cardiac arrest.\n*Depressants - It is dangerous to combine alcohol, a depressant, with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of alcohol which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of alcohol will be significantly increased, leading to intensified disinhibition as well as respiratory depression. If combined, one should strictly limit themselves to only drinking a certain amount of alcohol per hour. \n*MDMA - The neurotoxic and potential cardiotoxic effects of MDMA may be increased when combined with dichloropane.\n\n*Nicotine - Some dichloropane users find that consumption of tobacco products during dichloropane use enhances the euphoria because nicotine increases the levels of dopamine in the brain. This, however, may have undesirable consequences such as uncontrollable chain smoking during dichloropane use, in addition to the detrimental health effects and the additional strain on the cardiovascular system caused by tobacco.\n\nLegal status\n\n*Germany: Dichloropane is not a controlled substance under the BtMG (Narcotics Act) or the NpSG (New Psychoactive Substances Act). Technically it would fall under the definition of a medicine by §2 AMG (Medicines Act) because it induces a pharmacological effect. By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law. Dichloropane can be considered unregulated.\n*Switzerland: Dichloropane is a controlled substance specifically named under Verzeichnis E.\n*Turkey: Dichloropane is a classed as drug and is illegal to possess, produce, supply, or import.\n*United States: Dichloropane may be considered to be an analogue of cocaine under the Federal Analogue Act. The Federal Analogue Act, 21 U.S.C. § 813, is a section of the United States Controlled Substances Act, allowing any chemical \"substantially similar\" to an illegal drug (in Schedule I or II) to be treated as if it were also in Schedule I or II, but only if it is intended for human consumption.\n\nSee also\n\n*Responsible use\n*Research chemicals\n*Stimulants\n*Cocaine\n*Tropane alkaloids\n\nExternal links\n\n*Dichloropane (Wikipedia)\n*Dichloropane (Isomer Design)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Phenyltropane",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Dichloropane}}\n\n'''Dichloropane''' (also known as '''RTI-111''' or '''O-401''') is a novel [[psychoactive class::stimulant]] substance of the [[chemical class::phenyltropane]] class.<ref name=\"Carroll2005\">{{cite journal | vauthors=((Carroll, F. I.)), ((Blough, B. E.)), ((Nie, Z.)), ((Kuhar, M. J.)), ((Howell, L. L.)), ((Navarro, H. A.)) | journal=Journal of Medicinal Chemistry | title=Synthesis and Monoamine Transporter Binding Properties of 3β-(3‘,4‘-Disubstituted phenyl)tropane-2β-carboxylic Acid Methyl Esters | volume=48 | issue=8 | pages=2767–2771 | date=1 April 2005 | url=https://pubs.acs.org/doi/10.1021/jm040185a | issn=0022-2623 | doi=10.1021/jm040185a}}</ref> Its effects include [[stimulation]], [[thought acceleration]], [[appetite suppression]] and [[euphoria]]. \nIt is structurally related to [[cocaine]] and shares many of its effects, although it notably lacks its local [[pain relief|anesthetic]] properties. \n\nDichloropane has been shown to have a slower onset and longer duration of action compared to cocaine in animal studies.<ref name=\"Ranaldi2000\">{{cite journal | vauthors=((Ranaldi, R.)), ((Anderson, K. G.)), ((Ivy Carroll, F.)), ((Woolverton, W. L.)) | journal=Psychopharmacology | title=Reinforcing and discriminative stimulus effects of RTI 111, a 3-phenyltropane analog, in rhesus monkeys: interaction with methamphetamine | volume=153 | issue=1 | pages=103–110 | date=1 December 2000 | url=https://doi.org/10.1007/s002130000602 | issn=1432-2072 | doi=10.1007/s002130000602}}</ref> Anecdotal reports characterize it as having the basic stimulant qualities of cocaine but without as much euphoria, more protracted comedown, and less general enjoyability.  \n\nDichloropane first appeared on the research chemical market around 2010. It is among to the first cocaine analog to be made available (in limited quantities) on the online [[research chemical]] market.\n\nVery little is known about the pharmacology, metabolism, and toxicity of dichloropane. It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n{{chemistry}}\nDichloropane is a derivative of 3-phenyltropane.<ref name=\"Ranaldi2000\"/> Methylecgonidine as the direct precursor to this compound<ref>{{cite journal | vauthors=((Carroll, F. I.)), ((Mascarella, S. W.)), ((Kuzemko, M. A.)), ((Gao, Y.)), ((Abraham, P.)), ((Lewin, A. H.)), ((Boja, J. W.)), ((Kuhar, M. J.)) | journal=Journal of Medicinal Chemistry | title=Synthesis, Ligand Binding, and QSAR (CoMFA and Classical) Study of 3.beta.-(3’-Substituted phenyl)-, 3.beta.-(4’-Substituted phenyl)-, and 3.beta.-(3’,4’-Disubstituted phenyl)tropane-2.beta.-carboxylic Acid Methyl Esters | volume=37 | issue=18 | pages=2865–2873 | date= September 1994 | url=https://pubs.acs.org/doi/abs/10.1021/jm00044a007 | issn=0022-2623 | doi=10.1021/jm00044a007}}</ref>. It is produced as a hydrochloride salt in its powdered form.\n\nDichloropane is structurally similar to [[cocaine]], [[atropine]] and [[hyoscine]], as it contains a tropane ring. The tropane ring of RTI-111 is substituted with a carbomethoxy group, also found in cocaine. RTI-111 differs from cocaine by its other addition, a dichlorinated phenyl ring. The phenyl ring of RTI-111 is substituted at R<sub>3</sub> and R<sub>4</sub> with chlorine groups. The phenyl ring of RTI-111 is attached directly to its tropane ring while in cocaine a carboxylate group bridges the two rings.\n\n==Pharmacology==\nThe most extensively studied effect of dichloropane on the central nervous system is the blockade of the [[serotonin]], [[dopamine]], and [[norepinephrine]] transporter.<ref name=\"Carroll2005\"/> This substance acts as a [[reuptake inhibitor|triple reuptake inhibitor]] and prevents [[monoamine]] neurotransmitters from being recycled, causing excessive amounts to build up in the synapse, or junction between [[neurons]]. The result is an enhanced and prolonged post-synaptic effect of monoaminergic signaling at receptors on the receiving neuron. It is this sudden flood of [[neurotransmitters]] in the synapses of various brain regions that is thought to cause dichloropane's effects.<ref name=\"Carroll2005\"/>\n\n{{Binding profiles of tropane stimulants}}\n\nCompared to [[cocaine]], dichloropane has a higher relative affinity for both the [[serotonin]] and [[norepinephrine]] transporters over the [[dopamine]] transporter, which is in part suspected to be responsible for the differences in its subjective effects.\n\n==Subjective effects==\nThe general head space of dichloropane is described by many as one of moderate to extreme mental stimulation, increased focus, sociability and euphoria.\n\nUnlike cocaine, dichloropane is reported to produce a minimal rush component combined with a substantially longer come-up, protracted comedown and overall duration. This may render it less compulsive than [[cocaine]] for some users, but with a proportionally harder offset. \n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - Dichloropane is usually considered to be energetic and stimulating in a fashion that is comparatively weaker than [[cocaine]], but stronger than that of [[modafinil]], [[caffeine]], and [[methylphenidate]]. The particular style of stimulation which dichloropane presents can be described as encouraged at low to moderate dosages but forced at higher dosages. This means that at certain dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of fine motor control. This effect is replaced with moderate fatigue and general exhaustion during the offset of the experience.\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}} - This substance consistently raises one's heart rate to abnormally high levels which can be potentially dangerous with prolonged or extremely high dosages.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Bronchodilation]]''' - This can sometimes be very apparent and can result in an inability to swallow.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Pain relief]]''' {{citation needed}}\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''{{citation needed}}\n\n}}\n|{{effects/cognitive|\n It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate dosages, they become increasingly likely to manifest themselves with higher amounts or extended usage. This particularly holds true during the offset of the experience. \n \n*'''[[Effect::Analysis enhancement]]''' - This effect is usually only present at low to moderate doses. \n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Compulsive redosing]]''' - This component is thought to be substantially less present than that of [[cocaine]], perhaps due to its relatively weaker activity on dopamine reuptake.\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration.\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Motivation enhancement]]''' - Relative to cocaine, dichloropane presents far less motivation enhancement that is associated with excess dopaminergic signaling and has more of a \"stoning\" or demotivating effect. \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. More specifically, some users have observed that the comedown from dichloropane is far more pronounced than that of cocaine, even at common dosages, perhaps as a result of its lengthier duration.\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:RTI-111]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n[https://www.reddit.com/r/KnowTheDose/comments/54c1uk/ktd_official_experience_reports/?st=iyeey07b&sh=f4dbef7f KTD Official Experience Report - RTI-111 (AKA Dichloropane) Trial III]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational dichloropane use has not been studied in any scientific context and the exact toxic dosage is unknown. This is because dichloropane has very little history of human usage. In terms of neurotoxicity (as defined by the damage or death of cells in the brain in response to over-excitation or reactive oxidation caused by drugs), it is reasonable to assume that like other stimulants which work principally through reuptake inhibition (e.g. cocaine), dichloropane should not exhibit these effects unlike certain other substances such as [[methamphetamine]], which have suspected mechanisms of direct neurotoxicity. The extended use or abuse of dichloropane, however, is likely to cause both short and down-term down regulation of the receptors of the major [[neurotransmitter|neurotransmitter (monoamine)]] systems it interacts with. However, this still remains a subject of active inquiry.\n\nDue to its structural similarity to cocaine, it is worth noting that the most potentially harmful physical effects of dichloropane could not be neurological but cardiovascular. For example, severe cardiac adverse events, particularly sudden cardiac death, become a serious risk at high doses for cocaine due to cocaine's blocking effect on cardiac sodium channels, and it is possible that dichloropane may share this risk despite not having topical anesthetic activity.<ref>{{cite journal | vauthors=((O’Leary, M. E.)), ((Hancox, J. C.)) | journal=British Journal of Clinical Pharmacology | title=Role of voltage-gated sodium, potassium and calcium channels in the development of cocaine-associated cardiac arrhythmias: Voltage-gated ion channels and cocaine-induced arrhythmia | volume=69 | issue=5 | pages=427–442 | date=28 January 2010 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2010.03629.x | issn=03065251 | doi=10.1111/j.1365-2125.2010.03629.x}}</ref> Moreover, long-term cocaine usage may result in Cocaine-Related Cardiomyopathy. <ref>{{cite journal | title=Cocaine-Related Cardiomyopathy: Overview, Cardiac Effects of Cocaine, Epidemiology | date=16 October 2021 | url=https://emedicine.medscape.com/article/152535-overview}}</ref> It is as of yet unknown whether dichloropane presents similar risks, but it is reasonable to assume that it might, and thus should be approached with additional caution.\n\nIt is suspected that regular dichloropane insufflation can have extremely adverse effects on one's nostrils, nose and nasal cavities. These include a loss of the sense of smell, nosebleeds, difficulty swallowing, hoarseness, or a chronically runny nose.\n\nAnecdotal evidence from people who have tried dichloropane within the community suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of dichloropane can be considered to have the potential to be [[Addiction potential::moderately addictive with a high potential for abuse]], though perhaps less so than that of cocaine, and is thus capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of dichloropane [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::2 - 4 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 1.5 weeks]] to be back at baseline (in the absence of further consumption). Dichloropane likely presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of dichloropane all [[stimulant]]s will have a reduced effect.\n\n====Withdrawal symptoms====\nIt is possible that after taking dichloropane on a regular or extended basis, some users will become addicted like they would to cocaine. When the drug is discontinued immediately, the user will experience what has come to be known as a \"crash\" along with a number of other withdrawal symptoms including [[Paranoia|paranoia]], [[Depression|depression]], [[Anxiety|anxiety]], itching, [[Cognitive effects: Mood swings|mood swings]], [[Irritability|irritability]], fatigue, [[Physical effects:  Wakefulness|insomnia]], an intense craving for more of the drug, and, in some cases, [[Nausea|nausea and vomiting]]. Some cocaine users also report having similar symptoms to schizophrenic patients and feel that their mind is scattered or incoherent. Some users also report a feeling of a crawling sensation on the skin also known as \"coke bugs\". \n\nThese symptoms can last for weeks or, in some cases, months. Even after most withdrawal symptoms dissipate most users feel the need to continue using the drug; this feeling can last for years and may peak during times of stress.\n\n===Psychosis===\nDue to its very brief history of human usage, little is known about dichloropane's ability to induce psychosis, although it is reasonable to assume it presents similar risks to that of cocaine and other dopaminergic stimulants when abused, typically for extended durations, in high doses and or for prolonged periods of time.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Stimulants]]''' - When used in conjunction with other [[stimulant]]s, the cardiovascular effects of cocaine such as [[increased heart rate]] become dangerously high. This is potentially fatal and severely increases the risk of cardiac arrest.\n*'''[[Depressants]]''' - When used in conjunction with [[depressants]] such as [[opioids]] and [[benzodiazepines]], the cardiovascular effects of the two classes begin to conflict as one increases the heart rate while the other decreases it. This is potentially fatal and can result in an extremely irregular heart rate leading onto cardiac arrest.\n*'''[[Depressants]]''' - It is dangerous to combine alcohol, a depressant, with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of alcohol which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of alcohol will be significantly increased, leading to intensified disinhibition as well as respiratory depression. If combined, one should strictly limit themselves to only drinking a certain amount of alcohol per hour. \n*'''[[MDMA]]''' - The neurotoxic and potential cardiotoxic effects of [[MDMA]] may be increased when combined with dichloropane.\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Nicotine]]''' - Some dichloropane users find that consumption of tobacco products during dichloropane use enhances the euphoria because nicotine increases the levels of [[dopamine]] in the brain. This, however, may have undesirable consequences such as uncontrollable chain smoking during dichloropane use, in addition to the detrimental health effects and the additional strain on the cardiovascular system caused by tobacco.\n\n==Legal status==\n{{legalStub}}\n*'''Germany''': Dichloropane is not a controlled substance under the BtMG<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html|title=BtMG - Gesetz über den Verkehr mit Betäubungsmitteln|publisher=Bundesamt für Justiz [Federal Office of Justice]||access-date=December 10, 2019|language=de}}</ref> (''Narcotics Act'') or the NpSG<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/BJNR261510016.html|title=NpSG - Neue-psychoaktive-Stoffe-Gesetz|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 10, 2019|language=de}}</ref> (''New Psychoactive Substances Act''). Technically it would fall under the definition of a medicine by §2 AMG (''Medicines Act'') because it induces a pharmacological effect.<ref>{{cite web|url=https://www.gesetze-im-internet.de/amg_1976/__2.html|title=§ 2 AMG|publisher=Bundesamt für Justiz [Federal Office of Justice]|access-date=December 10, 2019|language=de}}</ref> By a decision of the European Court of Justice, this definition was declared ineffective because it was not compatible with EU law.<ref>{{cite news|url=https://www.lto.de/recht/hintergruende/h/eugh-urteil-c35813-c18114-legal-highs-kein-arzneimittel-strafbar-amg-btmg/|title= Cannabinoide Kräutermischungen vor dem EuGH: Legal Highs bleiben legal|publisher=LTO|author=Prof. Dr. Helmut Pollähne|trans-title=Cannabinoid herbal mixtures at the ECJ: Legal highs stay legal|date=July 11, 2014|access-date=December 28, 2019|language=de}}</ref> Dichloropane can be considered unregulated.\n*'''Switzerland''': Dichloropane is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Dichloropane is a classed as drug and is illegal to possess, produce, supply, or import.<ref>{{cite web|title=Cumhurbaşkanı Kararı: Karar Sayısı: 1335|url=https://resmigazete.gov.tr/eskiler/2019/07/20190720-19.pdf|publisher=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü [General Directorate of Legislation Development and Publication]|publication-date=July 20, 2019|date=July 19, 2020|work=Resmî Gazete, Sayı: 30837|language=tr}}</ref>\n*'''United States''': Dichloropane may be considered to be an analogue of cocaine under the Federal Analogue Act. The Federal Analogue Act, 21 U.S.C. § 813, is a section of the United States Controlled Substances Act, allowing any chemical \"substantially similar\" to an illegal drug (in Schedule I or II) to be treated as if it were also in Schedule I or II, but only if it is intended for human consumption.{{citation needed}}\n\n==See also==\n*[[Responsible use]]\n*[[Research chemicals]]\n*[[Stimulants]]\n*[[Cocaine]]\n*[[Tropane alkaloids]]\n\n==External links==\n*[[wikipedia:Dichloropane|Dichloropane (Wikipedia)]]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2970 Dichloropane (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Phenyltropane]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:14049",
+ "type": "effect",
+ "title": "Decreased blood pressure",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Decreased_blood_pressure",
+  "pageid": 14049,
+  "last_edited": "2022-06-04T04:59:55Z"
+ },
+ "categories": [
+  "Cardiovascular",
+  "Effect",
+  "Physical",
+  "Uncomfortable"
+ ],
+ "plain_text": "Decreased blood pressure can be described as a condition in which the pressure in the systemic arteries is decreased to abnormal levels. A blood pressure of 120/80 is considered normal for an adult. A blood pressure of 90/60 or lower is considered hypotension and a blood pressure between 120/80 and 90/60 is considered prehypotension.\n\nDecreased blood pressure is most commonly induced under the influence of moderate dosages of GABAergic depressant compounds, such as benzodiazepines and barbiturates. However, it can also occur under the influence of vasodilating compounds such as poppers as well as certain psychedelics and stimulants in an unpredictable manner.\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nExperience reports\n\nAnnectdotal reports which describe this effect with our experience index include:\n\nSee also\n\n*Responsible use\n*Subjective effects index\n*Decreased heart rate\n*Depressants\n*Benzodiazepines\n*Barbiturates\n\nExternal links\n\n* Hypotension (Wikipedia)\n\nReferences\n\nCategory:PhysicalCategory:UncomfortableCategory:CardiovascularCategory:Effect",
+ "wikitext": "<onlyinclude>'''Decreased blood pressure''' can be described as a condition in which the pressure in the systemic arteries is decreased to abnormal levels. A blood pressure of 120/80 is considered normal for an adult. A blood pressure of 90/60 or lower is considered '''hypotension''' and a blood pressure between 120/80 and 90/60 is considered '''prehypotension'''.<ref>{{Citation | title=Low Blood Pressure - NHLBI, NIH | url=https://www.nhlbi.nih.gov/health/low-blood-pressure | access-date=4 June 2022}}</ref>\n\nDecreased blood pressure is most commonly induced under the influence of [[dosage#common|moderate]] [[dosage|dosages]] of [[GABAergic]] [[depressant]] compounds, such as [[benzodiazepines]] and [[barbiturates]]. However, it can also occur under the influence of vasodilating compounds such as [[poppers]] as well as certain [[psychedelics]] and [[stimulants]] in an unpredictable manner.</onlyinclude>\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Decreased blood pressure]]|format=ul|Columns=2}}\n===Experience reports===\nAnnectdotal reports which describe this effect with our [[experience index]] include:\n{{#ask:[[Category:Experience]][[Effect::Decreased blood pressure]]|format=ul|Columns=2}}\n===See also===\n*[[Responsible use]]\n*[[Subjective effects index]]\n*[[Decreased heart rate]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n*[[Barbiturates]]\n===External links===\n* [https://en.wikipedia.org/wiki/Hypotension Hypotension (Wikipedia)]\n===References===\n<references />\n[[Category:Physical]][[Category:Uncomfortable]][[Category:Cardiovascular]][[Category:Effect]]"
+}

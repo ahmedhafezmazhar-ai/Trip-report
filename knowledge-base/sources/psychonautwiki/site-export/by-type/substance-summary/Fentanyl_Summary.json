@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10904",
+ "type": "substance-summary",
+ "title": "Fentanyl/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Fentanyl/Summary",
+  "pageid": 10904,
+  "last_edited": "2016-04-24T11:07:14Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Fentanyl",
+ "plain_text": "References",
+ "wikitext": "{{Warning/Fentanyl}}\n{{Summary|Fentanyl}}\n===References===\n<references/>"
+}

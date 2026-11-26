@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11493",
+ "type": "plants-and-fungi",
+ "title": "Daucus carota (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Daucus_carota_%28botany%29",
+  "pageid": 11493,
+  "last_edited": "2025-11-29T04:16:36Z"
+ },
+ "categories": [
+  "Apiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n*Daucus carota (Wikipedia)\n\nCategory:Apiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Daucus carota}}\n\n==External links==\n*[https://en.wikipedia.org/wiki/Daucus_carota ''Daucus carota'' (Wikipedia)]\n\n[[Category:Apiaceae (family)]]"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11485",
+ "type": "plants-and-fungi",
+ "title": "Perilla frutescens (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Perilla_frutescens_%28botany%29",
+  "pageid": 11485,
+  "last_edited": "2020-10-31T00:14:45Z"
+ },
+ "categories": [
+  "Lamiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Perilla frutescens (Wikipedia)\n\nCategory:Lamiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Perilla frutescens}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Perilla_frutescens ''Perilla frutescens'' (Wikipedia)]\n\n[[Category:Lamiaceae (family)]]"
+}

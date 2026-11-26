@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:12631",
+ "type": "other",
+ "title": "Citation needed",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Citation_needed",
+  "pageid": 12631,
+  "last_edited": "2022-12-16T09:53:11Z"
+ },
+ "categories": [
+  "PsychonautWiki"
+ ],
+ "plain_text": "thumb|300px|alt=Innovative application for the template in xkcd 285 (Wikipedian Protester)|The  template aims to promote [[Wikipedia:Verifiability|accountable discourse.]]\nTo ensure that all PsychonautWiki content is verifiable, anyone may question an uncited claim by inserting a simple  tag, or by using a more comprehensive  clause. \n\nAll articles with unsourced statements\n\nUnsourced statements are part of PsychonautWiki's backlog of outstanding problems. You can help contribute to the wiki by finding sources for specific statements on any of the articles listed below.\n\nCategory:PsychonautWiki",
+ "wikitext": "[[File:Citation.png|thumb|300px|alt=Innovative application for the template in xkcd 285 (Wikipedian Protester)|The {{Tl|citation needed}} template aims to promote [[Wikipedia:Verifiability|accountable]] discourse.]]\nTo ensure that all [[PsychonautWiki]] content is verifiable, anyone may question an uncited claim by inserting a simple <code>{{tl|citation needed}}</code> tag, or by using a more comprehensive {{tnull|Citation needed|reason{{=}}''Your explanation here''|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}} clause. \n\n{{quotation|'''Example:''' 65% of people believe machine elves are real.<!--{{Citation needed}} begin-->{{fix |link=Citation needed |text=citation needed |class=Template-Fact }}<!--{{Citation needed}} end--> }}\n\n===All articles with unsourced statements===\nUnsourced statements are part of PsychonautWiki's backlog of outstanding problems. You can help contribute to the wiki by finding sources for specific statements on any of the articles listed below.\n\n{{#ask:[[Category:All articles with unsourced statements]]|format=ul|Columns=2}}\n[[Category:PsychonautWiki]]"
+}

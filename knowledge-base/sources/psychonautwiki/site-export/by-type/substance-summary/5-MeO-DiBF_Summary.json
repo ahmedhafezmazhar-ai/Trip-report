@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11036",
+ "type": "substance-summary",
+ "title": "5-MeO-DiBF/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/5-MeO-DiBF/Summary",
+  "pageid": 11036,
+  "last_edited": "2015-12-20T00:45:38Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "5-MeO-DiBF",
+ "plain_text": "",
+ "wikitext": "{{Summary|5-MeO-DiBF}}"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:384",
+ "type": "other",
+ "title": "Subjective effect index",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Subjective_effect_index",
+  "pageid": 384,
+  "last_edited": "2026-09-24T01:04:28Z"
+ },
+ "categories": [
+  "PsychonautWiki"
+ ],
+ "plain_text": "__NOTOC__\n\n__NOTOC__\n\nExternal links\n\n* Effect Index – Note: Content is licensed under CC BY-NC-SA 4.0 (the Non-Commercial clause renders it non-free and incompatible with PsychonautWiki), whereas PsychonautWiki uses the free CC BY-SA 4.0 license.\n* Subjective Effect Index (Wikipedia)\n* TripSit Factsheets now use PsychonautWiki’s Subjective Effects Index\n\nCategory:PsychonautWiki",
+ "wikitext": "<noinclude>__NOTOC__</noinclude>\n{{SubmissionPanel/Effect}}\n{{:Effects/Content}}<noinclude>__NOTOC__</noinclude><onlyinclude>\n{{:List/effects}}\n</onlyinclude>\n{{:Effects/SeeAlso}}\n\n==External links==\n* [https://www.effectindex.com/ Effect Index] – Note: Content is licensed under CC BY-NC-SA 4.0 (the Non-Commercial clause renders it non-free and incompatible with PsychonautWiki), whereas PsychonautWiki uses the free CC BY-SA 4.0 license.\n* [https://en.wikipedia.org/wiki/Subjective_Effect_Index Subjective Effect Index (Wikipedia)]\n* [https://tripsit.me/tripsit-factsheets-now-use-psychonautwikis-subjective-effects-index/ TripSit Factsheets now use PsychonautWiki’s Subjective Effects Index]\n\n[[Category:PsychonautWiki]]\n\n{{#set:Featured=true}}"
+}

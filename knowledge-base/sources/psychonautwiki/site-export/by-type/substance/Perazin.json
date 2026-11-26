@@ -1,0 +1,455 @@
+{
+ "id": "psychonautwiki:22065",
+ "type": "substance",
+ "title": "Perazin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Perazin",
+  "pageid": 22065,
+  "last_edited": "2024-05-05T21:21:10Z"
+ },
+ "categories": [
+  "Antipsychotic Medication",
+  "Approval",
+  "Phenothiazines",
+  "Proofread"
+ ],
+ "substance_box_template": "SubstanceBox/Perazine",
+ "substance_box": {
+  "names": {
+   "common": "Perazin, Taxilan, Trilafon",
+   "substitutive": "Perazin",
+   "systematic": "10-[3-(4-Methylpiperazin-1-yl)propyl]phenothiazin"
+  },
+  "classes": {
+   "psychoactive": "",
+   "chemical": "Phenothiazine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 25 mg",
+    "light": "25 - 50 mg",
+    "common": "50 - 100 mg",
+    "strong": "100 - 150 mg",
+    "heavy": "200 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< 25 mg",
+    "light": "25 - 50 mg",
+    "common": "50 - 100 mg",
+    "strong": "100 - 150 mg",
+    "heavy": "200 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Perazin",
+    "Taxilan",
+    "Trilafon"
+   ],
+   "Oral threshold dose": [
+    "25",
+    "25"
+   ],
+   "Oral dose units": [
+    "mg",
+    "mg"
+   ],
+   "Oral min light dose": [
+    "25",
+    "25"
+   ],
+   "Oral max light dose": [
+    "50",
+    "50"
+   ],
+   "Oral min common dose": [
+    "50",
+    "50"
+   ],
+   "Oral max common dose": [
+    "100",
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100",
+    "100"
+   ],
+   "Oral max strong dose": [
+    "150",
+    "150"
+   ],
+   "Oral heavy dose": [
+    "200",
+    "200"
+   ],
+   "Oral min total time": [
+    "3",
+    "3"
+   ],
+   "Oral max total time": [
+    "6",
+    "6"
+   ],
+   "Oral total time units": [
+    "hours",
+    "hours"
+   ],
+   "Oral min onset time": [
+    "5",
+    "5"
+   ],
+   "Oral max onset time": [
+    "15",
+    "15"
+   ],
+   "Oral onset time units": [
+    "minutes",
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20",
+    "20"
+   ],
+   "Oral max comeup time": [
+    "40",
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes",
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1",
+    "1"
+   ],
+   "Oral max peak time": [
+    "2",
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours",
+    "hours"
+   ],
+   "Oral min offset time": [
+    "30",
+    "30"
+   ],
+   "Oral max offset time": [
+    "60",
+    "60"
+   ],
+   "Oral offset time units": [
+    "minutes",
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "1",
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "12",
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours",
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Perazin]], [[common name::Taxilan]], [[common name::Trilafon]]",
+   "clean": "Perazin, Taxilan, Trilafon"
+  },
+  "NameSubstitution": {
+   "raw": "Perazin",
+   "clean": "Perazin"
+  },
+  "NameSystematic": {
+   "raw": "10-[3-(4-Methylpiperazin-1-yl)propyl]phenothiazin",
+   "clean": "10-[3-(4-Methylpiperazin-1-yl)propyl]phenothiazin"
+  },
+  "EffectClass": {
+   "raw": "",
+   "clean": ""
+  },
+  "ChemicalClass": {
+   "raw": "[[Phenothiazine]]",
+   "clean": "Phenothiazine"
+  },
+  "ChemicalFormula": {
+   "raw": "C17H20N2S",
+   "clean": "C17H20N2S"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "< 25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::200]] mg +",
+   "clean": "200 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::15]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::30]] - [[Oral max offset time::60]] [[Oral offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  },
+  "IntramuscularROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< [[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "< 25 mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Oral heavy dose::200]] mg +",
+   "clean": "200 mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::15]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Oral min offset time::30]] - [[Oral max offset time::60]] [[Oral offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  }
+ },
+ "plain_text": "Perazine is a typical antipsychotic medication used in the treatment of various psychiatric disorders, including schizophrenia and manic episodes associated with bipolar disorder.\n\nHistory and Development\n\nPerazine was first synthesized in the 1950s and gained popularity as an antipsychotic medication during the mid-20th century. It belongs to the phenothiazine class of antipsychotics, which were among the earliest developed medications for treating psychosis.\n\nChemistry\n\nPerazine is a derivative of phenothiazine and structurally similar to other typical antipsychotic drugs such as chlorpromazine and trifluoperazine. It exerts its therapeutic effects by blocking dopamine receptors in the brain, particularly the D2 receptors.\n\nPharmacology\n\nPerazine acts primarily as a dopamine antagonist, binding to dopamine receptors in various regions of the brain. By blocking the effects of dopamine, it helps alleviate symptoms of psychosis such as hallucinations, delusions, and disorganized thinking.\n\nIndications\n\nPerazine is indicated for the treatment of schizophrenia and other psychotic disorders. It may also be used off-label for managing acute agitation or aggression in psychiatric patients.\n\nDosage and Administration\n\nThe dosage of perazine varies depending on the patient's age, weight, and severity of symptoms. It is typically administered orally in tablet form, with dosing frequency ranging from once to several times daily. In some cases, intramuscular injection may be used for rapid symptom control.\n\nSide Effects\n\nCommon side effects of perazine include drowsiness, dizziness, dry mouth, constipation, and blurred vision. It may also cause extrapyramidal symptoms such as tremors, muscle stiffness, and tardive dyskinesia, especially with long-term use or at higher doses.\n\nPrecautions and Warnings\n\nPatients taking perazine should be monitored regularly for signs of movement disorders, neuroleptic malignant syndrome, and other serious adverse reactions. It is important to avoid abrupt discontinuation of the medication to prevent withdrawal symptoms or rebound psychosis.\n\nContraindications\n\nPerazine is contraindicated in individuals with known hypersensitivity to phenothiazines or any of the components of the medication. It should also be used with caution in patients with a history of cardiovascular disease, seizures, or glaucoma.\n\nInteractions\n\nPerazine may interact with other medications, including central nervous system depressants, anticholinergic drugs, and certain antibiotics or antifungals. Concurrent use of alcohol or illicit drugs may potentiate its sedative effects and increase the risk of adverse reactions.\n\nLegal Status\n\nThe legal status of perazine varies by country, but it is generally available by prescription only due to its potential for serious side effects and abuse liability.\n\nSee Also\n\n*Phenothiazine\n*Antipsychotic Medications\n*Schizophrenia\n\nExternal links\n\n(List along order below)\n* (Wikipedia)\n* (Gelbe-Liste)\n* (DocCheck)\n\nReferences\n\nCategory:Antipsychotic Medication\nCategory:Phenothiazines\nCategory:Proofread",
+ "wikitext": "{{headerpanel|{{Approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/Perazine}}\n\n'''Perazine''' is a typical antipsychotic medication used in the treatment of various psychiatric disorders, including schizophrenia and manic episodes associated with bipolar disorder.\n\n==History and Development==\n{{HistoryStub}}\nPerazine was first synthesized in the 1950s and gained popularity as an antipsychotic medication during the mid-20th century. It belongs to the phenothiazine class of antipsychotics, which were among the earliest developed medications for treating psychosis.\n\n==Chemistry==\n{{ChemistryStub}}\nPerazine is a derivative of phenothiazine and structurally similar to other typical antipsychotic drugs such as chlorpromazine and trifluoperazine. It exerts its therapeutic effects by blocking dopamine receptors in the brain, particularly the D2 receptors.\n\n==Pharmacology==\n{{PharmacologyStub}}\nPerazine acts primarily as a dopamine antagonist, binding to dopamine receptors in various regions of the brain. By blocking the effects of dopamine, it helps alleviate symptoms of psychosis such as hallucinations, delusions, and disorganized thinking.\n\n==Indications==\nPerazine is indicated for the treatment of schizophrenia and other psychotic disorders. It may also be used off-label for managing acute agitation or aggression in psychiatric patients.\n\n==Dosage and Administration==\nThe dosage of perazine varies depending on the patient's age, weight, and severity of symptoms. It is typically administered orally in tablet form, with dosing frequency ranging from once to several times daily. In some cases, intramuscular injection may be used for rapid symptom control.\n\n==Side Effects==\nCommon side effects of perazine include drowsiness, dizziness, dry mouth, constipation, and blurred vision. It may also cause extrapyramidal symptoms such as tremors, muscle stiffness, and tardive dyskinesia, especially with long-term use or at higher doses.\n\n==Precautions and Warnings==\nPatients taking perazine should be monitored regularly for signs of movement disorders, neuroleptic malignant syndrome, and other serious adverse reactions. It is important to avoid abrupt discontinuation of the medication to prevent withdrawal symptoms or rebound psychosis.\n\n==Contraindications==\nPerazine is contraindicated in individuals with known hypersensitivity to phenothiazines or any of the components of the medication. It should also be used with caution in patients with a history of cardiovascular disease, seizures, or glaucoma.\n\n==Interactions==\nPerazine may interact with other medications, including central nervous system depressants, anticholinergic drugs, and certain antibiotics or antifungals. Concurrent use of alcohol or illicit drugs may potentiate its sedative effects and increase the risk of adverse reactions.\n\n==Legal Status==\nThe legal status of perazine varies by country, but it is generally available by prescription only due to its potential for serious side effects and abuse liability.\n\n==See Also==\n*[[Phenothiazine]]\n*[[Antipsychotic Medications]]\n*[[Schizophrenia]]\n\n==External links==\n(List along order below)\n* [https://de.wikipedia.org/wiki/Perazin (Wikipedia)]\n* [https://www.gelbe-liste.de/wirkstoffe/Perazin_2412 (Gelbe-Liste)]\n* [https://flexikon.doccheck.com/de/Perazin (DocCheck)]\n\n==References==\n<references />\n\n[[Category:Antipsychotic Medication]]\n[[Category:Phenothiazines]]\n[[Category:Proofread]]"
+}

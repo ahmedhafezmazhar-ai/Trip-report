@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11477",
+ "type": "plants-and-fungi",
+ "title": "Anethum graveolens",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Anethum_graveolens",
+  "pageid": 11477,
+  "last_edited": "2025-11-29T04:16:34Z"
+ },
+ "categories": [
+  "Apiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Dill (Wikipedia)\n\nCategory:Apiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Anethum graveolens}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Dill Dill (Wikipedia)]\n\n[[Category:Apiaceae (family)]]"
+}

@@ -1,0 +1,348 @@
+{
+ "id": "psychonautwiki:20697",
+ "type": "substance",
+ "title": "Bromazepam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Bromazepam",
+  "pageid": 20697,
+  "last_edited": "2025-01-14T06:58:16Z"
+ },
+ "categories": [
+  "Approval",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Bromazepam",
+ "substance_box": {
+  "names": {
+   "common": "Bromazepam, Brozam, Lectopam, Lexomil, Lexotan, Lexilium, Lexaurin, Brazepam, Rekotnil, Bromaze, Somalium, Lexatin, Calmepam, Zepam, Lexotanil",
+   "substitutive": "Bromazepam",
+   "systematic": "7-Brom-5-pyridin-2-yl-1,3-dihydrobenzo[e][1,4]diazepin-2"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "84%",
+    "threshold": "1 mg",
+    "light": "1.5 - 3 mg",
+    "common": "3 - 6 mg",
+    "strong": "6 - 12 mg",
+    "heavy": "12 mg +",
+    "duration": "8 - 16 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 90 minutes",
+    "peak": "6 - 12 hours",
+    "offset": "3 - 6 hours",
+    "aftereffects": "9 - 18 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Bromazepam",
+    "Brozam",
+    "Lectopam",
+    "Lexomil",
+    "Lexotan",
+    "Lexilium",
+    "Lexaurin",
+    "Brazepam",
+    "Rekotnil",
+    "Bromaze",
+    "Somalium",
+    "Lexatin",
+    "Calmepam",
+    "Zepam",
+    "Lexotanil"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "1.5"
+   ],
+   "Oral max light dose": [
+    "3"
+   ],
+   "Oral min common dose": [
+    "3"
+   ],
+   "Oral max common dose": [
+    "6"
+   ],
+   "Oral min strong dose": [
+    "6"
+   ],
+   "Oral max strong dose": [
+    "12"
+   ],
+   "Oral heavy dose": [
+    "12"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "16"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "6"
+   ],
+   "Oral max peak time": [
+    "12"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "9"
+   ],
+   "Oral max afterglow time": [
+    "18"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Bromazepam.svg",
+   "clean": "File:Bromazepam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Bromazepam]], [[common name::Brozam]], [[common name::Lectopam]], [[common name::Lexomil]], [[common name::Lexotan]], [[common name::Lexilium]], [[common name::Lexaurin]], [[common name::Brazepam]], [[common name::Rekotnil]], [[common name::Bromaze]], [[common name::Somalium]], [[common name::Lexatin]], [[common name::Calmepam]], [[common name::Zepam]], [[common name::Lexotanil]]",
+   "clean": "Bromazepam, Brozam, Lectopam, Lexomil, Lexotan, Lexilium, Lexaurin, Brazepam, Rekotnil, Bromaze, Somalium, Lexatin, Calmepam, Zepam, Lexotanil"
+  },
+  "NameSubstitution": {
+   "raw": "Bromazepam",
+   "clean": "Bromazepam"
+  },
+  "NameSystematic": {
+   "raw": "7-Brom-5-pyridin-2-yl-1,3-dihydrobenzo[e][1,4]diazepin-2",
+   "clean": "7-Brom-5-pyridin-2-yl-1,3-dihydrobenzo[e][1,4]diazepin-2"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "84%<ref>https://go.drugbank.com/drugs/DB01558</ref>",
+   "clean": "84%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::1.5]] - [[Oral max light dose::3]] mg",
+   "clean": "1.5 - 3 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::3]] - [[Oral max common dose::6]] mg",
+   "clean": "3 - 6 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::6]] - [[Oral max strong dose::12]] mg",
+   "clean": "6 - 12 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::12]] mg +",
+   "clean": "12 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::16]] [[Oral total time units::hours]]",
+   "clean": "8 - 16 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::6]] - [[Oral max peak time::12]] [[Oral peak time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::9]] - [[Oral max afterglow time::18]] [[Oral afterglow time units::hours]]",
+   "clean": "9 - 18 hours"
+  }
+ },
+ "plain_text": "Subjective effects\n\nToxicity and harm potential\n\nBromazepam has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]]. It is strongly recommended that one use harm reduction practices.\n\nContexutal Risks\n\nHigh dosage of bromazepam causes disinhibition, memory suppression, analysis depression and motor control loss. Moreover, paradoxal effects can occure and include agressivity and impulsive behaviour.\nThese effects can provoke contextual harms such as social reprobation due to improper behaviour, falling, being wounded, or harming someone else.\n\nRisks of long-term use\n\nThe problems associated with the long-term use of benzodiazepines (the chemical class of bromazepam) may include: impaired cognitive abilities, memory problems, mood swings, overdoses when combined with other drugs, disinhibition, depression, perceptual disturbances, depersonalization, and sexual dysfunction. However, the most important consequence of long-term use of benzodiazepines is the development of dependence.\n\nLethal dosage\n\nThe acute toxic dose, which means that it damages physically the body in one intake, has been estimated to 180mg (oral) for an adult, without combinaison or tolerance.\n\nTolerance and addiction potential\n\nTolerance to the behavioral effects of benzodiazepines appears within different period of times regarding the effects considered ; but in general, it appears within several days of continuous use.\n\nThe shortest period for developing dependence due to the\ncontinuous use of benzodiazepines varies in the different\nstudies : from one month to six. Benzodiazepine dependence is more prevalent among women who are middle aged, separated, of low educational background, unemployed or housewives.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is dangerous to combine benzodiazepines with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nLegal status\n\nInternationally, Bromazepam is a Schedule IV controlled drug under the Convention on Psychotropic Substances. Bromazepam is regulated in most countries as a prescription drug.\n\nSee also\n\n*Responsible use\n*Benzodiazepines\n*Diazepam\n\nExternal links\n\n*Bromazepam (Wikipedia)\n*Bromazepam (Erowid Vault)\n*Bromazepam (DrugBank)\n\nReferences\n\nCategory:Psychoactive substanceCategory:ProofreadCategory:Approval",
+ "wikitext": "{{headerpanel|{{Approval}}}}\n{{headerpanel|{{DepressantOD|benzodiazepines}}}}\n{{SummarySheet}}\n{{SubstanceBox/Bromazepam}}\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' - In terms of energy level alterations, this drug is considerably unique in that it tends to be notably less sedating and less inebriating than other classical or standard [[benzodiazepines]] such as [[alprazolam]], [[clonazepam]], and [[lorazepam]]. In some sense, it may be seen by many users as more “relaxing” in terms of description rather than being thoroughly “sedating” at average doses. However, at sufficient enough doses sedation does become a salient and unavoidable effect at a certain point. Therefore, presumably at stronger doses this causes users to feel extreme somnolence, forcing them to sit down as they tend to generally feel as if they are constantly on the verge of passing out instead of being physically mobile or consciously alert. This component increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Muscle relaxation]]''' - In comparison to [[alprazolam]] (Xanax), bromazepam results in a greater degree of muscle relaxation.\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Dizziness]]''' - This symptom is usually much less prevalent compared to typical, (“heavier”) benzodiazepines like clonazepam or lorazepam.\n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Physical euphoria]]'''\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]'''\n\n}}\n{{effects/paradoxical|\n\nParadoxical reactions to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref><p></p>\nThese paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref>\n\n}}\n|{{effects/cognitive|\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Anxiety suppression]]''' - Less pronounced than with [[alprazolam]], especially in regards to panic attacks but may have an upper-hand on many other benzodiazepines in this department due to a very lightly euphoric and subtle, but not uncommon comfortable sense of well-being that is not usually associated with other benzodiazepines.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Memory suppression]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Language suppression]]''' - Bromazepam & most benzodiazepines are known to cause slurred speech and difficulty communicating words in a clear fashion.\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]'''<ref>{{cite journal | vauthors=((Goyal, S.)) | journal=Canadian Medical Association Journal | title=Drugs and dreams | volume=102 | issue=5 | pages=524 | date=14 March 1970 | issn=0008-4409}}</ref> or '''[[Effect::Dream suppression]]'''\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While benzodiazepines can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n\n}}\n}}\n\n==Toxicity and harm potential==\nBromazepam has a [[Toxicity::low toxicity]] relative to dose.  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]]. It is strongly recommended that one use [[responsible drug use|harm reduction practices]].\n\n===Contexutal Risks===\n\nHigh dosage of bromazepam causes [[disinhibition]], [[memory suppression]], [[analysis depression]] and [[motor control loss]]. Moreover, paradoxal effects can occure and include agressivity and impulsive behaviour.<ref>https://accpjournals.onlinelibrary.wiley.com/doi/abs/10.1592/phco.24.13.1177.38089</ref><ref>https://erowid.org/experiences/exp.php?ID=68026</ref>\nThese effects can provoke contextual harms such as social reprobation due to improper behaviour, falling, being wounded, or harming someone else.\n\n===Risks of long-term use===\n\nThe problems associated with the long-term use of [[benzodiazepines]] (the chemical class of bromazepam) may include<ref>https://www.tandfonline.com/doi/full/10.1080/14659891.2019.1581283</ref>: impaired cognitive abilities, memory problems, mood swings, overdoses when combined with other drugs,<ref>https://pubmed.ncbi.nlm.nih.gov/16856084/ </ref> disinhibition, depression,<ref>https://jnnp.bmj.com/content/76/12/1746.3 </ref> perceptual disturbances, depersonalization, and sexual dysfunction.<ref>https://academic.oup.com/book/24485/chapter-abstract/187578126?login=false </ref> However, the most important consequence of long-term use of benzodiazepines is the development of dependence.<ref>https://pubmed.ncbi.nlm.nih.gov/1987812/</ref>\n\n===Lethal dosage===\n\nThe acute toxic dose, which means that it damages physically the body in one intake, has been estimated to 180mg (oral) for an adult, without combinaison or tolerance.<ref>https://www.sfmu.org/toxin/DOSETOXI/DOSETOX.HTM</ref>\n\n===Tolerance and addiction potential===\n\nTolerance to the behavioral effects of benzodiazepines appears within different period of times regarding the effects considered ; but in general, it appears within several days of continuous use.<ref>https://pubmed.ncbi.nlm.nih.gov/2858076/</ref>\n\nThe shortest period for developing dependence due to the\ncontinuous use of [[benzodiazepines]] varies in the different\nstudies : from one month to six.<ref>https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.1981.tb00218.x</ref><ref>https://link.springer.com/article/10.1007/s00213-002-1376-8</ref><ref>https://pubmed.ncbi.nlm.nih.gov/2897976/</ref> Benzodiazepine dependence is more prevalent among women who are middle aged, separated, of low educational background, unemployed or housewives.<ref>https://link.springer.com/article/10.1007/s00213-002-1376-8</ref>\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be safe in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*'''[[DangerousInteraction::Depressants|Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[DangerousInteraction::Dissociatives|Dissociatives]]''' - This combination can result in an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[DangerousInteraction::Stimulants|Stimulants]]''' -  It is dangerous to combine benzodiazepines with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of benzodiazepines, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of benzodiazepines will be significantly increased, leading to intensified [[disinhibition]] as well as [[benzodiazepine#Subjective effects|other effects]]. If combined, one should strictly limit themselves to only dosing a certain amount of benzodiazepines per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n==Legal status==\nInternationally, Bromazepam is a Schedule IV controlled drug under the Convention on Psychotropic Substances.<ref>International Narcotics Control Board (2003) | http://infoespai.org/wp-content/uploads/2014/12/green.pdf</ref> Bromazepam is regulated in most countries as a prescription drug.\n\n==See also==\n*[[Responsible use]]\n*[[Benzodiazepines]]\n*[[Diazepam]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Bromazepam Bromazepam (Wikipedia)]\n*[https://www.erowid.org/pharms/bromazepam/bromazepam.shtml Bromazepam (Erowid Vault)]\n*[https://go.drugbank.com/drugs/DB01558 Bromazepam (DrugBank)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]][[Category:Proofread]][[Category:Approval]]"
+}

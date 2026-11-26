@@ -1,0 +1,1744 @@
+{
+ "id": "psychonautwiki:19292",
+ "type": "substance",
+ "title": "HXE",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/HXE",
+  "pageid": 19292,
+  "last_edited": "2023-12-05T22:13:46Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/HXE",
+ "substance_box": {
+  "names": {
+   "common": "HXE",
+   "substitutive": "3-HO-2'-Oxo-PCE",
+   "systematic": "2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "30 mg",
+    "light": "30 - 60 mg",
+    "common": "60 - 100 mg",
+    "strong": "100 - 130 mg",
+    "heavy": "130 mg +",
+    "duration": "3 - 8 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "3 - 6 hours",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "30 mg",
+    "light": "30 - 60 mg",
+    "common": "60 - 100 mg",
+    "strong": "100 - 130 mg",
+    "heavy": "130 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "2 - 6 hours",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "20 mg",
+    "light": "40 - 20 mg",
+    "common": "40 - 70 mg",
+    "strong": "70 - 120 mg",
+    "heavy": "120 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "1.5 - 4 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "2 - 7 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "True",
+    "bioavailability": "",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "x% - y%",
+    "microdose": "",
+    "threshold": "x -  mg",
+    "light": "x - y mg",
+    "common": "x - y mg",
+    "strong": "x - y mg",
+    "heavy": "x mg +",
+    "duration": "x - y hours",
+    "onset": "x - y minutes",
+    "comeup": "x - y minutes",
+    "peak": "x - y hours",
+    "offset": "x - y hours",
+    "aftereffects": "x - y hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "HXE"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "30"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "30"
+   ],
+   "Oral max light dose": [
+    "60"
+   ],
+   "Oral min common dose": [
+    "60"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "130"
+   ],
+   "Oral heavy dose": [
+    "130"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Sublingual threshold dose": [
+    "30"
+   ],
+   "Sublingual dose units": [
+    "mg"
+   ],
+   "Sublingual min light dose": [
+    "30"
+   ],
+   "Sublingual max light dose": [
+    "60"
+   ],
+   "Sublingual min common dose": [
+    "60"
+   ],
+   "Sublingual max common dose": [
+    "100"
+   ],
+   "Sublingual min strong dose": [
+    "100"
+   ],
+   "Sublingual max strong dose": [
+    "130"
+   ],
+   "Sublingual heavy dose": [
+    "130"
+   ],
+   "Sublingual min total time": [
+    "3"
+   ],
+   "Sublingual max total time": [
+    "6"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "20"
+   ],
+   "Sublingual max onset time": [
+    "60"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "30"
+   ],
+   "Sublingual max comeup time": [
+    "60"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "2"
+   ],
+   "Sublingual max peak time": [
+    "4"
+   ],
+   "Sublingual peak time units": [
+    "hours"
+   ],
+   "Sublingual min offset time": [
+    "2"
+   ],
+   "Sublingual max offset time": [
+    "6"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ],
+   "Sublingual min afterglow time": [
+    "1"
+   ],
+   "Sublingual max afterglow time": [
+    "12"
+   ],
+   "Sublingual afterglow time units": [
+    "hours"
+   ],
+   "Buccal threshold dose": [
+    "x"
+   ],
+   "Buccal dose units": [
+    "mg"
+   ],
+   "Buccal min light dose": [
+    "x"
+   ],
+   "Buccal max light dose": [
+    "y"
+   ],
+   "Buccal min common dose": [
+    "x"
+   ],
+   "Buccal max common dose": [
+    "y"
+   ],
+   "Buccal min strong dose": [
+    "x"
+   ],
+   "Buccal max strong dose": [
+    "y"
+   ],
+   "Buccal heavy dose": [
+    "x"
+   ],
+   "Buccal min total time": [
+    "x"
+   ],
+   "Buccal max total time": [
+    "y"
+   ],
+   "Buccal total time units": [
+    "hours"
+   ],
+   "Buccal min onset time": [
+    "x"
+   ],
+   "Buccal max onset time": [
+    "y"
+   ],
+   "Buccal onset time units": [
+    "minutes"
+   ],
+   "Buccal min comeup time": [
+    "x"
+   ],
+   "Buccal max comeup time": [
+    "y"
+   ],
+   "Buccal comeup time units": [
+    "minutes"
+   ],
+   "Buccal min peak time": [
+    "x"
+   ],
+   "Buccal max peak time": [
+    "y"
+   ],
+   "Buccal peak time units": [
+    "hours"
+   ],
+   "Buccal min offset time": [
+    "x"
+   ],
+   "Buccal max offset time": [
+    "y"
+   ],
+   "Buccal offset time units": [
+    "hours"
+   ],
+   "Buccal min afterglow time": [
+    "x"
+   ],
+   "Buccal max afterglow time": [
+    "y"
+   ],
+   "Buccal afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "20"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "40"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "40"
+   ],
+   "Insufflated max common dose": [
+    "70"
+   ],
+   "Insufflated min strong dose": [
+    "70"
+   ],
+   "Insufflated max strong dose": [
+    "120"
+   ],
+   "Insufflated heavy dose": [
+    "120"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "10"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "20"
+   ],
+   "Insufflated max comeup time": [
+    "40"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1.5"
+   ],
+   "Insufflated max peak time": [
+    "4"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "2"
+   ],
+   "Insufflated max offset time": [
+    "4"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "7"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Rectal threshold dose": [
+    "x"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "x"
+   ],
+   "Rectal max light dose": [
+    "y"
+   ],
+   "Rectal min common dose": [
+    "x"
+   ],
+   "Rectal max common dose": [
+    "y"
+   ],
+   "Rectal min strong dose": [
+    "x"
+   ],
+   "Rectal max strong dose": [
+    "y"
+   ],
+   "Rectal heavy dose": [
+    "x"
+   ],
+   "Rectal min total time": [
+    "x"
+   ],
+   "Rectal max total time": [
+    "y"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "x"
+   ],
+   "Rectal max onset time": [
+    "y"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "x"
+   ],
+   "Rectal max comeup time": [
+    "y"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "x"
+   ],
+   "Rectal max peak time": [
+    "y"
+   ],
+   "Rectal peak time units": [
+    "hours"
+   ],
+   "Rectal min offset time": [
+    "x"
+   ],
+   "Rectal max offset time": [
+    "y"
+   ],
+   "Rectal offset time units": [
+    "hours"
+   ],
+   "Rectal min afterglow time": [
+    "x"
+   ],
+   "Rectal max afterglow time": [
+    "y"
+   ],
+   "Rectal afterglow time units": [
+    "hours"
+   ],
+   "Transdermal threshold dose": [
+    "x"
+   ],
+   "Transdermal dose units": [
+    "mg"
+   ],
+   "Transdermal min light dose": [
+    "x"
+   ],
+   "Transdermal max light dose": [
+    "y"
+   ],
+   "Transdermal min common dose": [
+    "x"
+   ],
+   "Transdermal max common dose": [
+    "y"
+   ],
+   "Transdermal min strong dose": [
+    "x"
+   ],
+   "Transdermal max strong dose": [
+    "y"
+   ],
+   "Transdermal heavy dose": [
+    "x"
+   ],
+   "Transdermal min total time": [
+    "x"
+   ],
+   "Transdermal max total time": [
+    "y"
+   ],
+   "Transdermal total time units": [
+    "hours"
+   ],
+   "Transdermal min onset time": [
+    "x"
+   ],
+   "Transdermal max onset time": [
+    "y"
+   ],
+   "Transdermal onset time units": [
+    "minutes"
+   ],
+   "Transdermal min comeup time": [
+    "x"
+   ],
+   "Transdermal max comeup time": [
+    "y"
+   ],
+   "Transdermal comeup time units": [
+    "minutes"
+   ],
+   "Transdermal min peak time": [
+    "x"
+   ],
+   "Transdermal max peak time": [
+    "y"
+   ],
+   "Transdermal peak time units": [
+    "hours"
+   ],
+   "Transdermal min offset time": [
+    "x"
+   ],
+   "Transdermal max offset time": [
+    "y"
+   ],
+   "Transdermal offset time units": [
+    "hours"
+   ],
+   "Transdermal min afterglow time": [
+    "x"
+   ],
+   "Transdermal max afterglow time": [
+    "y"
+   ],
+   "Transdermal afterglow time units": [
+    "hours"
+   ],
+   "Subcutaneous threshold dose": [
+    "x"
+   ],
+   "Subcutaneous dose units": [
+    "mg"
+   ],
+   "Subcutaneous min light dose": [
+    "x"
+   ],
+   "Subcutaneous max light dose": [
+    "y"
+   ],
+   "Subcutaneous min common dose": [
+    "x"
+   ],
+   "Subcutaneous max common dose": [
+    "y"
+   ],
+   "Subcutaneous min strong dose": [
+    "x"
+   ],
+   "Subcutaneous max strong dose": [
+    "y"
+   ],
+   "Subcutaneous heavy dose": [
+    "x"
+   ],
+   "Subcutaneous min total time": [
+    "x"
+   ],
+   "Subcutaneous max total time": [
+    "y"
+   ],
+   "Subcutaneous total time units": [
+    "hours"
+   ],
+   "Subcutaneous min onset time": [
+    "x"
+   ],
+   "Subcutaneous max onset time": [
+    "y"
+   ],
+   "Subcutaneous onset time units": [
+    "minutes"
+   ],
+   "Subcutaneous min comeup time": [
+    "x"
+   ],
+   "Subcutaneous max comeup time": [
+    "y"
+   ],
+   "Subcutaneous comeup time units": [
+    "minutes"
+   ],
+   "Subcutaneous min peak time": [
+    "x"
+   ],
+   "Subcutaneous max peak time": [
+    "y"
+   ],
+   "Subcutaneous peak time units": [
+    "hours"
+   ],
+   "Subcutaneous min offset time": [
+    "x"
+   ],
+   "Subcutaneous max offset time": [
+    "y"
+   ],
+   "Subcutaneous offset time units": [
+    "hours"
+   ],
+   "Subcutaneous min afterglow time": [
+    "x"
+   ],
+   "Subcutaneous max afterglow time": [
+    "y"
+   ],
+   "Subcutaneous afterglow time units": [
+    "hours"
+   ],
+   "Intramuscular min bioavailability": [
+    "x"
+   ],
+   "Intramuscular max bioavailability": [
+    "y"
+   ],
+   "Intramuscular threshold dose": [
+    "x"
+   ],
+   "Intramuscular dose units": [
+    "mg"
+   ],
+   "Intramuscular min light dose": [
+    "x"
+   ],
+   "Intramuscular max light dose": [
+    "y"
+   ],
+   "Intramuscular min common dose": [
+    "x"
+   ],
+   "Intramuscular max common dose": [
+    "y"
+   ],
+   "Intramuscular min strong dose": [
+    "x"
+   ],
+   "Intramuscular max strong dose": [
+    "y"
+   ],
+   "Intramuscular heavy dose": [
+    "x"
+   ],
+   "Intramuscular min total time": [
+    "x"
+   ],
+   "Intramuscular max total time": [
+    "y"
+   ],
+   "Intramuscular total time units": [
+    "hours"
+   ],
+   "Intramuscular min onset time": [
+    "x"
+   ],
+   "Intramuscular max onset time": [
+    "y"
+   ],
+   "Intramuscular onset time units": [
+    "minutes"
+   ],
+   "Intramuscular min comeup time": [
+    "x"
+   ],
+   "Intramuscular max comeup time": [
+    "y"
+   ],
+   "Intramuscular comeup time units": [
+    "minutes"
+   ],
+   "Intramuscular min peak time": [
+    "x"
+   ],
+   "Intramuscular max peak time": [
+    "y"
+   ],
+   "Intramuscular peak time units": [
+    "hours"
+   ],
+   "Intramuscular min offset time": [
+    "x"
+   ],
+   "Intramuscular max offset time": [
+    "y"
+   ],
+   "Intramuscular offset time units": [
+    "hours"
+   ],
+   "Intramuscular min afterglow time": [
+    "x"
+   ],
+   "Intramuscular max afterglow time": [
+    "y"
+   ],
+   "Intramuscular afterglow time units": [
+    "hours"
+   ],
+   "Intravenous min bioavailability": [
+    "x"
+   ],
+   "Intravenous max bioavailability": [
+    "y"
+   ],
+   "Intravenous threshold dose": [
+    "x"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "x"
+   ],
+   "Intravenous max light dose": [
+    "y"
+   ],
+   "Intravenous min common dose": [
+    "x"
+   ],
+   "Intravenous max common dose": [
+    "y"
+   ],
+   "Intravenous min strong dose": [
+    "x"
+   ],
+   "Intravenous max strong dose": [
+    "y"
+   ],
+   "Intravenous heavy dose": [
+    "x"
+   ],
+   "Intravenous min total time": [
+    "x"
+   ],
+   "Intravenous max total time": [
+    "y"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "x"
+   ],
+   "Intravenous max onset time": [
+    "y"
+   ],
+   "Intravenous onset time units": [
+    "minutes"
+   ],
+   "Intravenous min comeup time": [
+    "x"
+   ],
+   "Intravenous max comeup time": [
+    "y"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "x"
+   ],
+   "Intravenous max peak time": [
+    "y"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "x"
+   ],
+   "Intravenous max offset time": [
+    "y"
+   ],
+   "Intravenous offset time units": [
+    "hours"
+   ],
+   "Intravenous min afterglow time": [
+    "x"
+   ],
+   "Intravenous max afterglow time": [
+    "y"
+   ],
+   "Intravenous afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:HXE.svg",
+   "clean": "File:HXE.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::HXE]]",
+   "clean": "HXE"
+  },
+  "NameSubstitution": {
+   "raw": "3-HO-2'-Oxo-PCE",
+   "clean": "3-HO-2'-Oxo-PCE"
+  },
+  "NameSystematic": {
+   "raw": "2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one",
+   "clean": "2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::30]] [[Oral dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::30]] - [[Oral max light dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::60]] - [[Oral max common dose::100]] mg",
+   "clean": "60 - 100 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::130]] mg",
+   "clean": "100 - 130 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::130]] mg +",
+   "clean": "130 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "3 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "[[Sublingual threshold dose::30]] [[Sublingual dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::30]] - [[Sublingual max light dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::60]] - [[Sublingual max common dose::100]] mg",
+   "clean": "60 - 100 mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::100]] - [[Sublingual max strong dose::130]] mg",
+   "clean": "100 - 130 mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "[[Sublingual heavy dose::130]] mg +",
+   "clean": "130 mg +"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::3]] - [[Sublingual max total time::6]] [[Sublingual total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::20]] - [[Sublingual max onset time::60]] [[Sublingual onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::30]] - [[Sublingual max comeup time::60]] [[Sublingual comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::2]] - [[Sublingual max peak time::4]] [[Sublingual peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::2]] - [[Sublingual max offset time::6]] [[Sublingual offset time units::hours]]",
+   "clean": "2 - 6 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::1]] - [[Sublingual max afterglow time::12]] [[Sublingual afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "BuccalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "BuccalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "[[Buccal threshold dose::x]] -  [[Buccal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "[[Buccal min light dose::x]] - [[Buccal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "[[Buccal min common dose::x]] - [[Buccal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "[[Buccal min strong dose::x]] - [[Buccal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": "[[Buccal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "[[Buccal min total time::x]] - [[Buccal max total time::y]] [[Buccal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "[[Buccal min onset time::x]] - [[Buccal max onset time::y]] [[Buccal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "BuccalROA_Comeup": {
+   "raw": "[[Buccal min comeup time::x]] - [[Buccal max comeup time::y]] [[Buccal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "[[Buccal min peak time::x]] - [[Buccal max peak time::y]] [[Buccal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "[[Buccal min offset time::x]] - [[Buccal max offset time::y]] [[Buccal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "[[Buccal min afterglow time::x]] - [[Buccal max afterglow time::y]] [[Buccal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::20]] [[Insufflated dose units::mg]]",
+   "clean": "20 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::40]] - [[Insufflated max light dose::20]] mg",
+   "clean": "40 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::40]] - [[Insufflated max common dose::70]] mg",
+   "clean": "40 - 70 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::70]] - [[Insufflated max strong dose::120]] mg",
+   "clean": "70 - 120 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::120]] mg +",
+   "clean": "120 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::10]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::20]] - [[Insufflated max comeup time::40]] [[Insufflated comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1.5]] - [[Insufflated max peak time::4]] [[Insufflated peak time units::hours]]",
+   "clean": "1.5 - 4 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::2]] - [[Insufflated max offset time::4]] [[Insufflated offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::7]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 7 hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "[[Rectal threshold dose::x]] -  [[Rectal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::x]] - [[Rectal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::x]] - [[Rectal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::x]] - [[Rectal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::x]] - [[Rectal max total time::y]] [[Rectal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::x]] - [[Rectal max onset time::y]] [[Rectal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::x]] - [[Rectal max comeup time::y]] [[Rectal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::x]] - [[Rectal max peak time::y]] [[Rectal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::x]] - [[Rectal max offset time::y]] [[Rectal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "[[Rectal min afterglow time::x]] - [[Rectal max afterglow time::y]] [[Rectal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "[[Transdermal threshold dose::x]] -  [[Transdermal dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "[[Transdermal min light dose::x]] - [[Transdermal max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "[[Transdermal min common dose::x]] - [[Transdermal max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "[[Transdermal min strong dose::x]] - [[Transdermal max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": "[[Transdermal heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "[[Transdermal min total time::x]] - [[Transdermal max total time::y]] [[Transdermal total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "[[Transdermal min onset time::x]] - [[Transdermal max onset time::y]] [[Transdermal onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "TransdermalROA_Comeup": {
+   "raw": "[[Transdermal min comeup time::x]] - [[Transdermal max comeup time::y]] [[Transdermal comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "[[Transdermal min peak time::x]] - [[Transdermal max peak time::y]] [[Transdermal peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "[[Transdermal min offset time::x]] - [[Transdermal max offset time::y]] [[Transdermal offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "[[Transdermal min afterglow time::x]] - [[Transdermal max afterglow time::y]] [[Transdermal afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "True",
+   "clean": "True"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "[[Subcutaneous threshold dose::x]] -  [[Subcutaneous dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "[[Subcutaneous min light dose::x]] - [[Subcutaneous max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "[[Subcutaneous min common dose::x]] - [[Subcutaneous max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "[[Subcutaneous min strong dose::x]] - [[Subcutaneous max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": "[[Subcutaneous heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "[[Subcutaneous min total time::x]] - [[Subcutaneous max total time::y]] [[Subcutaneous total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "[[Subcutaneous min onset time::x]] - [[Subcutaneous max onset time::y]] [[Subcutaneous onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "SubcutaneousROA_Comeup": {
+   "raw": "[[Subcutaneous min comeup time::x]] - [[Subcutaneous max comeup time::y]] [[Subcutaneous comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "[[Subcutaneous min peak time::x]] - [[Subcutaneous max peak time::y]] [[Subcutaneous peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "[[Subcutaneous min offset time::x]] - [[Subcutaneous max offset time::y]] [[Subcutaneous offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "[[Subcutaneous min afterglow time::x]] - [[Subcutaneous max afterglow time::y]] [[Subcutaneous afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "[[Intramuscular min bioavailability::x]]% - [[Intramuscular max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "IntramuscularROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "[[Intramuscular threshold dose::x]] -  [[Intramuscular dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Intramuscular min light dose::x]] - [[Intramuscular max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Intramuscular min common dose::x]] - [[Intramuscular max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Intramuscular min strong dose::x]] - [[Intramuscular max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Intramuscular heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Intramuscular min total time::x]] - [[Intramuscular max total time::y]] [[Intramuscular total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Intramuscular min onset time::x]] - [[Intramuscular max onset time::y]] [[Intramuscular onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Intramuscular min comeup time::x]] - [[Intramuscular max comeup time::y]] [[Intramuscular comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Intramuscular min peak time::x]] - [[Intramuscular max peak time::y]] [[Intramuscular peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Intramuscular min offset time::x]] - [[Intramuscular max offset time::y]] [[Intramuscular offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "[[Intramuscular min afterglow time::x]] - [[Intramuscular max afterglow time::y]] [[Intramuscular afterglow time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "[[Intravenous min bioavailability::x]]% - [[Intravenous max bioavailability::y]]%<ref>APA formatted citation</ref>",
+   "clean": "x% - y%"
+  },
+  "IntravenousROA_Microdose": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::x]] -  [[Intravenous dose units::mg]]",
+   "clean": "x -  mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::x]] - [[Intravenous max light dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::x]] - [[Intravenous max common dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::x]] - [[Intravenous max strong dose::y]] mg",
+   "clean": "x - y mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::x]] mg +",
+   "clean": "x mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::x]] - [[Intravenous max total time::y]] [[Intravenous total time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::x]] - [[Intravenous max onset time::y]] [[Intravenous onset time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::x]] - [[Intravenous max comeup time::y]] [[Intravenous comeup time units::minutes]]",
+   "clean": "x - y minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::x]] - [[Intravenous max peak time::y]] [[Intravenous peak time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::x]] - [[Intravenous max offset time::y]] [[Intravenous offset time units::hours]]",
+   "clean": "x - y hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "[[Intravenous min afterglow time::x]] - [[Intravenous max afterglow time::y]] [[Intravenous afterglow time units::hours]]",
+   "clean": "x - y hours"
+  }
+ },
+ "plain_text": "3-HO-2'-Oxo-PCE (commonly known as HXE) is a novel dissociative substance of the arylcyclohexylamine class that produces ketamine-like dissociative effects when administered. It is structurally related to Methoxetamine, Ketamine and PCE.\n\nLimited data exists about the pharmacological properties, metabolism, and toxicity of HXE in humans, and it has a limited history of human use. It is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nHXE first appeared for sale on the online research chemical market in late 2020. However, it has been announced about three years prior where it has been 'hyped' for a long time but was on hold due to synthesis difficulties.\n\nChemistry\n\nHXE or 2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one is classed as an Arylcyclohexylamine\n\nIt is substituted on the cyclohexane ring with an oxygen at the 2' position and a hydroxy group at the 3 position on the phenyl ring. In contrast, MXE is substituted there with a methoxy group.\n\nPharmacology\n\nVery little is known about the pharmacology about this substance, however as an arylcyclohexamine it is reasonable to assume that it is an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “k-hole.”\n\nSubjective effects\n\nHXE's effects resemble rather the effects of MXPr, MXE, DCK than more chaotic derivatives like O-PCE or MXiPr. Compared to MXE, it has less of a warmth to it and is weaker in its euphoria and clearheadedness, which can roughly be considered equal to MXPr's potency.\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational HXE use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because HXE has very little history of human usage.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLethal dosage\n\nThe lethal dosage of HXE is not known. Based on it's effect it could probably be assumed, that it might carry roughly the same risk of death like similar compounds like DMXE or MXPr.\n\nTolerance and addiction potential\n\nAs with other nmda receptor antagonists, the chronic use of HXE can be considered moderately addictive with a high potential for abuse and is capable of producing psychological dependence among certain users. \nwhen addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\ntolerance to many of the effects of HXE develops with prolonged and repeated use. \nthis results in users having to administer increasingly large doses to achieve the same effects. \nafter that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). \n\nHXE presents cross-tolerance with all dissociatives, meaning that after the consumption of HXE all dissociatives will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*Switzerland: HXE can be considered a specially defined derivative of PCE or O-PCE and is therefore illegal.\n*United Kingdom: HXE is illegal in the United Kingdom.\n*United States: HXE is not illegal, however, if it is sold with the intention for human consumption (such as in capsules) it becomes illegal to possess under the Federal Analogue Act. This is avoided by placing the label \"not for human consumption\" on the container of the chemical.\n\nSee also\n\n*Responsible use\n*MXE\n*MXPr\n*Dissociative\n\nExternal links\n\n*HXE (Isomerdesign)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval\n\nPlease see the citation formatting guide if you need assistance properly formatting citations.\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval",
+ "wikitext": "{{headerpanel|{{Approval}}}}\n{{SummarySheet}}\n{{SubstanceBox/HXE}}\n\n\n'''3-HO-2'-Oxo-PCE''' (commonly known as '''HXE''') is a novel [[dissociative]] substance of the [[arylcyclohexylamine]] class that produces [[ketamine]]-like [[dissociative]] effects when [[administered]]. It is structurally related to [[Methoxetamine]], [[Ketamine]] and [[PCE]].\n\nLimited data exists about the pharmacological properties, metabolism, and toxicity of HXE in humans, and it has a limited history of human use. It is highly advised to use harm reduction practices if using this substance.\n\n==History and culture==\nHXE first appeared for sale on the online research chemical market in late 2020. However, it has been announced about three years prior where it has been 'hyped' for a long time but was on hold due to synthesis difficulties.{{citation needed}}\n\n==Chemistry==\nHXE or 2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one is classed as an [[Arylcyclohexylamine]]\n\nIt is substituted on the cyclohexane ring with an oxygen at the 2' position and a hydroxy group at the 3 position on the phenyl ring. In contrast, [[MXE]] is substituted there with a methoxy group.\n\n==Pharmacology==\nVery little is known about the pharmacology about this substance, however as an arylcyclohexamine it is reasonable to assume that it is an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “k-hole.”\n\n==Subjective effects==\n{{EffectStub}}\n{{Preamble/SubjectiveEffects}}\n\nHXE's effects resemble rather the effects of [[MXPr]], [[MXE]], [[DCK]] than more chaotic derivatives like [[O-PCE]] or [[MXiPr]]. Compared to [[MXE]], it has less of a warmth to it and is weaker in its euphoria and clearheadedness, which can roughly be considered equal to [[MXPr]]'s potency.\n\n{{effects/base\n\n|{{effects/physical|\n\n  \n*'''[[Effect::Stimulation]]''' or '''[[Effect::Sedation]]''' - HXE has a mild stimulating effect which promotes activities like socializing or moving. Higher doses will evidently lead to greater amounts of sedation as moving around can become difficult. However, there are some stimulating effects that persist at higher dosages as well.\n*'''[[Effect::Spontaneous physical sensations]]''' - The body feeling  of HXE can be described as slightly warm, but also empty or rough at times.\n*'''[[Effect::Dizziness]]''' - This effect is usually uncommon.\n*'''[[Effect::Gait alteration]]'''\n*'''[[Effect::Perfection of bodily lightness]]''' - This creates the sensation that the body is floating and has become entirely weightless. This effect is strangely stimulating and encourages physical activities at low to moderate doses by making the body feel light and effortless to move.\n*'''[[Effect::Motor control loss]]''' - A loss of gross and fine motor control alongside balance and coordination is prevalent within HXE and becomes especially strong at higher doses, although this compound seems to be less susceptiblw to this. This means that one should be sitting down before the onset (unless experienced) in the case of falling over and injuring oneself.\n*'''[[Effect::Spatial disorientation]]'''\n*'''[[Effect::Tactile suppression]]''' - This partially to entirely suppresses one's sense of touch, creating feelings of numbness within the extremities. It is responsible for the anesthetic properties of this substance.\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Nausea]]''' - High dose HXE experience can sometimes result in nausea and vomiting at the peak of the trip. For most people, this is surprisingly not as unpleasant as they would initially expect due to the accompanying detachment from the physical senses.\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Orgasm suppression]]''' - Orgasm enhancement can also be present, even at higher doses.\n\n}}\n\n{{effects/visual|\n====Suppression====\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Double vision]]''' - This component is prevalent at moderate to heavy doses and makes reading impossible unless one closes an eye.\n*'''[[Effect::Pattern recognition suppression]]''' - This effect generally occurs at higher doses and makes one unable to recognize and interpret perceivable visual data.\n*'''[[Effect::Frame rate suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry found within HXE can be described as very dark and bland when compared to that of [[ketamine]] or [[DXM]] and often consists of many tiny interlocking and woven lines. It does not extend beyond level 4 and can be comprehensively described through its [[Visual_effects:_Geometry#Variations|variations]] as simplistic in complexity, algorithmic in style, synthetic in feel, unstructured in organization, dimly lit in lighting, multicolored in scheme, glossy in shading, soft in edges, small in size, slow in speed, smooth in motion, equal in rounded and angular corners, immersive in-depth and consistent in intensity.\n\n====Hallucinatory states====\nAt high doses, HXE can produce a full range of high level hallucinatory states in a fashion that is less consistent and reproducible than that of many other commonly used [[psychedelic]]s. These effects include:\n\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  In comparison to other [[dissociative]]s, this effect can occur at heavy doses, but is considerably less common than the same effect found within [[psychedelic]]s and [[deliriant]]s. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, fixed in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style.\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - In comparison to other [[dissociative]]s, this effect can occur at heavy doses, but is extremely infrequent in comparison to the same effect found within [[deliriant]]s. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, autonomous in controllability and solid in style. The most common theme for this effect to follow is one of experiencing and talking to friends when they are not actually present.\n\n}}|\n\n{{effects/cognitive|\nHXE is generally considered to be euphoric and comfortable. It can also turn mildly confusing, although it's manageable and not nearly as wild as [[O-PCE]] or [[MXiPr]]. It is mostly clear-headed in comparison to that of [[DXM]] and [[ketamine]]. The specific cognitive effects can be broken down into several separate subcomponents which are listed and described below:\n\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Decreased libido]]''' - This is not experienced in all environments, as [[Effect::increased libido]] may also be experienced especially at lower dosage ranges.\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Depersonalization]]\n*'''[[Effect::Derealization]]\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Ego death]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::analysis suppression]]\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Mania]]''' - This can potentially occur with users who are compulsively and regularly consuming large amounts of this compound. This effect occurs less often on HXE than it does on more stimulating dissociatives such as [[3-MeO-PCP]] or [[2'-Oxo-PCE]].\n*'''[[Effect::Memory suppression]]''' \n*'''[[Effect::Personal meaning enhancement]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Time distortion]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n*'''[[Effect::Auditory suppression|Suppression]]'''\n\n}}\n\n{{effects/disconnective|\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in HXE's equivalent of the \"k-hole\" or more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Consciousness disconnection]]'''\n\n}}\n\n{{effects/transpersonal|\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently {{#ask:[[Category:HXE]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:HXE]][[Category:Experience]]|format=ul|Columns=1}}\n<!--\nAdditional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_SUBSTANCE.shtml Erowid Experience Vaults: SUBSTANCE] <!-- Check the link to see if it exists ->\n-->\n==Toxicity and harm potential==\n{{toxicity}}\n\nThe toxicity and long-term health effects of recreational HXE use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because HXE has very little history of human usage.\n\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n\n===Lethal dosage===\nThe lethal dosage of HXE is not known. Based on it's effect it could probably be assumed, that it might carry roughly the same risk of death like similar compounds like [[DMXE]] or [[MXPr]].\n\n===Tolerance and addiction potential===\nAs with other nmda receptor antagonists, the chronic use of HXE can be considered [[addiction potential::moderately addictive with a high potential for abuse]] and is capable of producing psychological dependence among certain users. \nwhen addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\ntolerance to many of the effects of HXE [[time to full tolerance::develops with prolonged and repeated use]]. \nthis results in users having to administer increasingly large doses to achieve the same effects. \nafter that, it takes about [[time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). \n\nHXE presents cross-tolerance with [[cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of HXE all [[dissociative]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n==Legal status==\n{{LegalStub}}\n\n*'''Switzerland:''' HXE can be considered a specially defined derivative of PCE or O-PCE and is therefore illegal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': HXE is illegal in the United Kingdom.{{citation needed}}\n*'''United States''': HXE is not illegal, however, if it is sold with the intention for human consumption (such as in capsules) it becomes illegal to possess under the Federal Analogue Act. This is avoided by placing the label \"not for human consumption\" on the container of the chemical.{{citation needed}}\n\n\n==See also==\n\n*[[Responsible use]]\n*[[MXE]]\n*[[MXPr]]\n*[[Dissociative]]\n\n\n==External links==\n\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7505&name=HXE HXE (Isomerdesign)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]\n\n\nPlease see the [[citation formatting guide]] if you need assistance properly formatting citations.\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]"
+}

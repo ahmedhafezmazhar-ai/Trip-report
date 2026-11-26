@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10849",
+ "type": "substance-summary",
+ "title": "2C-E/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/2C-E/Summary",
+  "pageid": 10849,
+  "last_edited": "2015-11-13T03:24:37Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "2C-E",
+ "plain_text": "",
+ "wikitext": "{{Summary|2C-E}}"
+}

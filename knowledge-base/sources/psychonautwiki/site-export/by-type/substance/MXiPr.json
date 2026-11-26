@@ -1,0 +1,449 @@
+{
+ "id": "psychonautwiki:19226",
+ "type": "substance",
+ "title": "MXiPr",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MXiPr",
+  "pageid": 19226,
+  "last_edited": "2024-01-14T18:27:52Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Proofread",
+  "Psychoactive substance",
+  "Stub"
+ ],
+ "substance_box_template": "SubstanceBox/MXiPr",
+ "substance_box": {
+  "names": {
+   "common": "MXiPR, MXiP",
+   "substitutive": "3-MeO-2′-Oxo-PCiPr",
+   "systematic": "2-(Isopropylamino)-2-(3-methoxyphenyl)cyclohexanone"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "2 - 5 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "1.5 - 4 hours",
+    "onset": "2 - 5 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "2 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "MXiPR",
+    "MXiP"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "5"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "20"
+   ],
+   "Insufflated max common dose": [
+    "40"
+   ],
+   "Insufflated min strong dose": [
+    "40"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "1.5"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "2"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "12"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of MXiPr",
+   "clean": "Molecular structure of MXiPr"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:MXiPr.svg",
+   "clean": "File:MXiPr.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::MXiPR]], [[common name::MXiP]]",
+   "clean": "MXiPR, MXiP"
+  },
+  "NameSubstitution": {
+   "raw": "3-MeO-2′-Oxo-PCiPr",
+   "clean": "3-MeO-2′-Oxo-PCiPr"
+  },
+  "NameSystematic": {
+   "raw": "2-(Isopropylamino)-2-(3-methoxyphenyl)cyclohexanone",
+   "clean": "2-(Isopropylamino)-2-(3-methoxyphenyl)cyclohexanone"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::5]] [[Insufflated dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::20]] - [[Insufflated max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::40]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1.5]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "1.5 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::2]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::12]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 12 hours"
+  }
+ },
+ "plain_text": "3-MeO-2′-Oxo-PCiPr (also known as MXiPr) is a novel dissociative substance of the arylcyclohexylamine class. It is a structural analog of MXE. The mechanism of action is not known, but it is likely an NMDA receptor antagonist, producing dissociative and euphoric effects.\n\nThe circumstances surrounding MXiPr's origins are not known. It first appeared on the online research chemical market in late 2020 and was specifically marketed as a legal substitute for MXE or ketamine. The initial batch reportedly smelled like plastic and was suspected of containing impurities. The second batch contained a distinctly different smell of \"pokemon cards\". \n\nIts subjective effects are comparable to that of ketamine and MXE and include sedation, motor control loss, pain relief, internal hallucinations, conceptual thinking, euphoria, and dissociation. Its subjective effects are described as mostly similar to O-PCE or MXE, but being more unpredictable and euphoric which makes it further away from ketamine effects-wise. It is presumed to be a strong serotonin reuptake inhibitor like MXE. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MXiPr, and it has a very brief history of human usage. Given the reports of impure batches, it is advised to purify this substance (please see this section and send it into a chemical testing service before use. \n\nIt is strongly advised to use harm reduction practices if using this substance. \n\nHistory and culture\n\nMXiPr first appeared for sale on the online research chemical market in late 2020.\n\nChemistry\n\nMXiPr, or (IUPAC) 2-(3-Methoxyphenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one, is classed as an arylcyclohexylamine drug. It posesses an isopropyl group on the nitrogen atom of the molecule as well as a doubled-bonded oxygen atom at the 2' position of the cyclohexyl ring and a methoxy group on the 3 position of the phenyl ring, both of which it shares with MXE.\n\nPharmacology\n\nVery little is known about the pharmacology about this substance, however as an arylcyclohexamine it is reasonable to assume that it is an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “k-hole.”\n\nGiven its structural similarity to MXE and according to anecdotal reports, this substance may be a strong serotonin reuptake inhibitor (SRI). One should avoid combining MXiPr with other drugs that act on serotonin.\n\nSubjective effects\n\nEarly anecdotal reports suggest that MXiPr exhibits two plateaus: The first plateau occurs at doses around 5-20 mg and produces a two hour long experience resembling nitrous oxide, the second plateau occurs at doses around 20-40+ mg giving an experience similar to a hole, but generally considered chaotic, with a remarkably warmer or \"dreamier\" afterglow which can also become very euphoric. Some researchers urge caution when experimenting with higher doses. There are reports of body load occurring for up to 2 days after a small dose and seizures at very high dosages.\n\nMXiPr shares similar properties to that of MXE and O-PCE but there have been some anecdotal reports that suggest that this may have a potentially higher risk of inducing  Rhabdomyolysis (Wikipedia), seizures, and amnesia. It is possible that these effects may be avoided by practicing harm reduction via keeping dosages low, infrequent usage, and avoiding combinations.\n\nExperience reports\n\nThere are currently  experience reports which describe the effects of this substance in our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: MXiPr\n*Reddit: MXiPr consistently gives seizures at higher dosages administered IM\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational MXiPr use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because MXiPr has very little history of human usage.\n\nMXiPr has anecdotally been reported to produce seizures at very high dosages.\n \nIf one suspects that it may be impure and are still keen on taking this substance, using an oral route of administration may process the impurities though first-pass metabolism.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other NMDA receptor antagonists, the chronic use of MXiPr can be considered moderately addictive with a high potential for abuse and is capable of producing psychological dependence among certain users. \nWhen addiction has developed, cravings and withdrawal effects may occur if one suddenly stops their usage.\n\nTolerance to many of the effects of MXiPr develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. \n\nAfter that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). \n\nMXiPr exhibits cross-tolerance with all dissociatives, meaning that after the consumption of MXiPr all dissociatives will have a reduced effect.\n\nUrinary tract effects\n\nRegarding its long-term health effects when used repeatedly and over excessive periods, MXiPr is suspected to exhibit similar bladder and urinary tract problems found with ketamine, but to a lesser extent. This is because MXiPr is far more potent than ketamine, so significantly less of substance needs to be consumed. Symptoms of ketamine-induced cystitis can become severe and can be described as:\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, especially since the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using MXiPr on a daily or even weekly basis and consciously limiting one's usage of the substance.\n\nDangerous interactions\n\nLegal status\n\n*Germany: MXiPr is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n\n*Hungary: MXiPr was made illegal to possess, produce and sell in Hungary in April 2021.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Research chemical\n*Dissociatives\n*Arylcyclohexylamines\n*3-MeO-PCP\n*3-MeO-PCE\n*MXE\n*PCP\n\nExternal links\n\n*MXiPr (Wikipedia)\n*MXiPr (Isomerdesign)\n\nDiscussion\n\n*Bluelight - The Big & Dandy 3-MeO-2′-oxo-PCiPr (MXiPr) Thread\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval",
+ "wikitext": "{{headerpanel|{{approval}}{{stub}}}}\n{{SummarySheet}}\n{{SubstanceBox/MXiPr}}\n'''3-MeO-2′-Oxo-PCiPr''' (also known as '''MXiPr''') is a novel [[Psychoactive class::dissociative]] substance of the [[Chemical class::arylcyclohexylamine]] class. It is a structural analog of [[MXE]]. The mechanism of action is not known, but it is likely an NMDA [[receptor]] [[antagonist]], producing [[dissociative]] and [[euphoric]] effects.\n\nThe circumstances surrounding MXiPr's origins are not known. It first appeared on the online research chemical market in late 2020<ref>MXiPr - Explore - Google Trends | https://www.google.com/trends/explore?date=all&q=MXiPr</ref> and was specifically marketed as a legal substitute for [[MXE]] or [[ketamine]]. The initial batch reportedly smelled like plastic and was suspected of containing impurities. The second batch contained a distinctly different smell of \"pokemon cards\". \n\nIts [[subjective effects]] are comparable to that of [[ketamine]] and [[MXE]] and include [[sedation]], [[motor control loss]], [[pain relief]], [[internal hallucinations]], [[conceptual thinking]], [[euphoria]], and [[disconnective effects|dissociation]]. Its subjective effects are described as mostly similar to [[O-PCE]] or MXE, but being more unpredictable and euphoric which makes it further away from ketamine effects-wise. It is presumed to be a strong serotonin reuptake inhibitor like MXE. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of MXiPr, and it has a very brief history of human usage. Given the reports of impure batches, it is advised to purify this substance (please see [[MXiPr#Toxicity and harm potential|this section]] and send it into a chemical testing service before use. \n\nIt is strongly advised to use [[harm reduction practices]] if using this substance. \n\n==History and culture==\nMXiPr first appeared for sale on the online research chemical market in late 2020.<ref>MXiPr - Explore - Google Trends | https://www.google.com/trends/explore?date=all&q=MXiPr</ref>\n\n==Chemistry==\nMXiPr, or (IUPAC) 2-(3-Methoxyphenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one, is classed as an [[arylcyclohexylamine]] drug.<ref>{{Citation | title=Explore MXiP PiHKAL · info | url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14059}}</ref> It posesses an isopropyl group on the nitrogen atom of the molecule as well as a doubled-bonded oxygen atom at the 2' position of the cyclohexyl ring and a methoxy group on the 3 position of the phenyl ring, both of which it shares with [[MXE]].\n\n==Pharmacology==\n{{pharmacology}}\nVery little is known about the pharmacology about this substance, however as an arylcyclohexamine it is reasonable to assume that it is an [[NMDA receptor antagonist]]. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\nGiven its structural similarity to [[MXE]] and according to anecdotal reports, this substance may be a strong serotonin reuptake inhibitor (SRI). One should avoid combining MXiPr with other drugs that act on serotonin.\n\n==Subjective effects==\n{{EffectStub}}\nEarly anecdotal reports suggest that MXiPr exhibits two plateaus: The first plateau occurs at doses around 5-20 mg and produces a two hour long experience resembling nitrous oxide, the second plateau occurs at doses around 20-40+ mg giving an experience similar to a [[Visual_disconnection#Holes.2C_spaces_and_voids|hole]], but generally considered chaotic, with a remarkably warmer or \"dreamier\" afterglow which can also become very euphoric. Some researchers urge caution when experimenting with higher doses. There are reports of body load occurring for up to 2 days after a small dose and seizures at very high dosages.<ref name=\"earlygreygreen2021\">{{Citation | vauthors=((earlgreygreen)) | year=2021 | title=MXiPR consistently gives seizures at higher dosages administered IM | url=https://www.reddit.com/r/researchchemicals/comments/la97rf/mxipr_consistently_gives_seizures_at_higher/}}</ref>\n\nMXiPr shares similar properties to that of [[MXE]] and [[O-PCE]] but there have been some anecdotal reports that suggest that this may have a potentially higher risk of inducing [[wikipedia:Rhabdomyolysis| Rhabdomyolysis (Wikipedia)]],{{citation needed}} seizures, and amnesia. It is possible that these effects may be avoided by practicing harm reduction via keeping dosages low, infrequent usage, and avoiding combinations.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' - At low to moderate dosages, MXiPr is primarily stimulating while at higher dosages the experience turns sedating.\n*'''[[Effect::Spontaneous bodily sensations]]''' - The MXiPr  \"body high\" can be described as a sharp, pleasurable tingling sensation which is location specific to the hands, feet, and head.\n*'''[[Effect::Perception of bodily lightness]]''' - This creates the sensation that the body is floating and has become entirely weightless. This effect is very prevalent with MXiPr and strangely stimulating. It encourages physical activities at low to moderate doses by making the body feel light and effortless to move.\n*'''[[Effect::Motor control loss]]''' - A loss of gross and fine motor control alongside balance and coordination is prevalent on MXiPr and becomes especially strong at higher doses. This means that one should be sitting down before the onset (unless experienced) in the case of falling over and injuring oneself.\n*'''[[Effect::Spatial disorientation]]\n*'''[[Effect::Tactile suppression]]''' - This partially to entirely suppresses one's sense of touch, creating feelings of numbness within the extremities. It is responsible for the anesthetic properties of this substance.\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Dizziness]]''' - Although uncommon, some people report dizziness under the influence of MXiPr, especially when used in combination with other substances.\n*'''[[Effect::Nausea]]''' - High dose MXiPr experience can sometimes result in nausea and vomiting at the peak of the trip. For most people, this is surprisingly not as unpleasant as they would initially expect due to the accompanying detachment from the physical senses.\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Orgasm suppression]]''' & '''[[Effect::Orgasm enhancement]]''' - Orgasm enhancement can sometimes also be present, even at higher doses, although this effect is not reliable.\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}} - This effect is typically present at the higher doses.{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}} - This effect has been reported as being more pronounced than other dissociatives, such as [[DCK]] or [[diphenidine]].\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Seizure]]'''<ref name=\"earlygreygreen2021\"/> - The extent to which this effect can be produced is unknown, but it appears the likelihood of this is more pronounced than other dissociatives, and can probably be avoided by keeping dosage within reasonable levels. The likelihood is also probably increased in those predisposed to them, especially while in physically taxing conditions such as being dehydrated, fatigued or undernourished.\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Visual acuity enhancement]]''' or '''[[Effect::Visual acuity suppression]]''' - While lower doses of this compound tend to produce mild visual acuity enhancements, this effect quickly disappears as one's general visual faculties become suppressed as the dose is increased.\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' (''[[effect::settings, sceneries, and landscapes]]'', ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n*'''[[Effect::Machinescapes]]''' \n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  This effect can be comprehensively described through its [[Internal_hallucinations#Variations|variations]] as delirious in believability, fixed in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style.\n}}\n\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Cognitive euphoria]]''' - The euphoria of this substance is reported to be stronger than that of other dissociatives like [[O-PCE]] but weaker than that of [[MXE]].\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Mania]]''' - Some users have reported mania on this substance. The frequency of which is undetermined. It is strongly recommended to use harm-reduction practices and not use this substance in high amounts or frequently. Most likely, it is more common than most [[arylcyclohexylamines]] but less common in occurrence compared to [[PCP]] and [[3-MeO-PCP]].\n*'''[[Effect::Depersonalization]]''' & '''[[Effect::Derealization]]'''\n*'''[[Effect::Delusion]]''' - Most likely, this effect is more common with MXiPr than with most other [[arylcyclohexylamines]] but less common in occurrence compared to substances like 3-MeO-PCP.\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Increased libido]]''' - This is reported to be present at lower dosage ranges. \n}}\n{{effects/auditory|\n\nThe auditory effects of MXiPr have been described as more pronounced than other [[hallucinogens]]. These effects include:\n\n*'''[[Effect::Auditory distortion|Distortions]]''' - These distortions are very powerful and loud enough in their volume to make the original sound completely unrecognizable. They include phasers, white noise, high pitch tones and notes, flanging, changes in pitch, echo effects, and stuttering. In particular, the frequency of the stuttering is proportionally related to the intensity of the effects, especially ego death which occurs when the stuttering becomes continuous. \n*'''[[Effect::Auditory suppression|Suppression]]''' - This effect can be described as a muffling and quieting of externally sourced sound which results in it sounding more indistinct and distant than it would usually be.\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in MXiPr's equivalent of the \"[https://en.wikipedia.org/wiki/K-hole k-hole]\" or, more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Consciousness disconnection]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Existential self-realization]]'''\n}}\n}}\n===Experience reports===\nThere are currently {{#ask:[[Category:MXiPr]][[Category:Experience]] | format=count}} experience reports which describe the effects of this substance in our [[experience index]].\n{{#ask: [[Category:MXiPr]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_MXiPr.shtml Erowid Experience Vaults: MXiPr]\n*[https://www.reddit.com/r/researchchemicals/comments/la97rf/mxipr_consistently_gives_seizures_at_higher/ Reddit: MXiPr consistently gives seizures at higher dosages administered IM]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational MXiPr use do not seem to have been studied in any scientific context and the exact [[Toxicity::toxic dosage is unknown]]. This is because MXiPr has very little history of human usage.\n\nMXiPr has anecdotally been reported to produce seizures at very high dosages.<ref name=\"earlygreygreen2021\"/>\n \nIf one suspects that it may be impure and are still keen on taking this substance, using an oral [[route of administration]] may process the impurities though first-pass metabolism.\n\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other NMDA receptor antagonists, the chronic use of MXiPr can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of producing psychological dependence among certain users. \nWhen addiction has developed, cravings and [[withdrawal effects]] may occur if one suddenly stops their usage.\n\nTolerance to many of the effects of MXiPr [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. \n\nAfter that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). \n\nMXiPr exhibits cross-tolerance with [[Cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of MXiPr all [[dissociative]]s will have a reduced effect.\n\n===Urinary tract effects===\nRegarding its long-term health effects when used repeatedly and over excessive periods, MXiPr is suspected to exhibit similar bladder and urinary tract problems found with [[ketamine]], but to a lesser extent. This is because MXiPr is far more potent than ketamine, so significantly less of substance needs to be consumed. Symptoms of ketamine-induced cystitis can become severe and can be described as:\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, especially since the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using MXiPr on a daily or even weekly basis and consciously limiting one's usage of the substance.\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n\n{{DangerousInteractions/Dissos}}\n\n==Legal status==\n{{LegalStub}}\n\n*'''Germany:''' MXiPr is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n\n*'''Hungary:''' MXiPr was made illegal to possess, produce and sell in Hungary in April 2021.<ref>[https://ec.europa.eu/growth/tools-databases/tris/index.cfm/en/search/?trisaction=search.detail&year=2021&num=225&dLang=EN Amendment of Minister for Human Capacities Decree No 55/2014 of 30 December 2014 on substances or groups of compounds classified as new psychoactive substances, 2021/225/HU]</ref>\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Research chemical]]\n*[[Dissociatives]]\n*[[Arylcyclohexylamines]]\n*[[3-MeO-PCP]]\n*[[3-MeO-PCE]]\n*[[MXE]]\n*[[PCP]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/MXiPr MXiPr (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14059 MXiPr (Isomerdesign)]\n\n===Discussion===\n*[https://www.bluelight.org/xf/threads/the-big-dandy-3-meo-2%E2%80%B2-oxo-pcipr-mxipr-thread.889817/ Bluelight - The Big & Dandy 3-MeO-2′-oxo-PCiPr (MXiPr) Thread]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]"
+}

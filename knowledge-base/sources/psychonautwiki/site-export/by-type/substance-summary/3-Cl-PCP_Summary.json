@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21305",
+ "type": "substance-summary",
+ "title": "3-Cl-PCP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-Cl-PCP/Summary",
+  "pageid": 21305,
+  "last_edited": "2023-10-10T14:31:15Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "3-Cl-PCP",
+ "plain_text": "",
+ "wikitext": "{{Summary|3-Cl-PCP}}"
+}

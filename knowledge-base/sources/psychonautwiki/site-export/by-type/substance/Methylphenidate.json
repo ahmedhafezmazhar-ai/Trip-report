@@ -1,0 +1,592 @@
+{
+ "id": "psychonautwiki:1257",
+ "type": "substance",
+ "title": "Methylphenidate",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methylphenidate",
+  "pageid": 1257,
+  "last_edited": "2025-05-10T18:44:38Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 English-language sources (en)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Phenidate",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Methylphenidate",
+ "substance_box": {
+  "names": {
+   "common": "Methylphenidate, Concerta, Methylin, Ritalin, Equasym XL",
+   "substitutive": "Methylphenidate",
+   "systematic": "Methyl 2-phenyl-2-piperidin-2-ylacetate"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Phenidate"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "11-52%",
+    "threshold": "5 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "5.5 - 6 hours",
+    "onset": "20 - 40 minutes",
+    "comeup": "40 - 90 minutes",
+    "peak": "90 - 210 minutes",
+    "offset": "210 - 300 minutes",
+    "aftereffects": "300 - 360 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 10 mg",
+    "common": "10 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "5 - 20 minutes",
+    "comeup": "15 - 40 minutes",
+    "peak": "30 - 45 minutes",
+    "offset": "2 - 4 hours",
+    "aftereffects": "1 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Methylphenidate",
+    "Concerta",
+    "Methylin",
+    "Ritalin",
+    "Equasym XL"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "20"
+   ],
+   "Oral min common dose": [
+    "20"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "5.5"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "40"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "90"
+   ],
+   "Oral max peak time": [
+    "210"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "210"
+   ],
+   "Oral max offset time": [
+    "300"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "300"
+   ],
+   "Oral max afterglow time": [
+    "360"
+   ],
+   "Oral afterglow time units": [
+    "minutes"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2"
+   ],
+   "Insufflated max light dose": [
+    "10"
+   ],
+   "Insufflated min common dose": [
+    "10"
+   ],
+   "Insufflated max common dose": [
+    "30"
+   ],
+   "Insufflated min strong dose": [
+    "30"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "2"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "20"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "15"
+   ],
+   "Insufflated max comeup time": [
+    "40"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "45"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "2"
+   ],
+   "Insufflated max offset time": [
+    "4"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Methylphenidate",
+   "clean": "Molecular structure of Methylphenidate"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Methylphenidate.svg",
+   "clean": "File:Methylphenidate.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Methylphenidate]], [[common name::Concerta]], [[common name::Methylin]], [[common name::Ritalin]], [[common name::Equasym XL]]",
+   "clean": "Methylphenidate, Concerta, Methylin, Ritalin, Equasym XL"
+  },
+  "NameSubstitution": {
+   "raw": "Methylphenidate",
+   "clean": "Methylphenidate"
+  },
+  "NameSystematic": {
+   "raw": "Methyl 2-phenyl-2-piperidin-2-ylacetate",
+   "clean": "Methyl 2-phenyl-2-piperidin-2-ylacetate"
+  },
+  "EffectClass": {
+   "raw": "[[Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Phenidate]]",
+   "clean": "Phenidate"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "11-52%<ref name=\"Health Canada - Ritalin\">\"https://s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/483/original/Health_Canada_-_Ritalin.PDF?1556050208\"</ref>",
+   "clean": "11-52%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::20]] - [[Oral max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5.5]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "5.5 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::40]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "40 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::90]] - [[Oral max peak time::210]] [[Oral peak time units::minutes]]",
+   "clean": "90 - 210 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::210]] - [[Oral max offset time::300]] [[Oral offset time units::minutes]]",
+   "clean": "210 - 300 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::300]] - [[Oral max afterglow time::360]] [[Oral afterglow time units::minutes]]",
+   "clean": "300 - 360 minutes"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2]] - [[Insufflated max light dose::10]] mg",
+   "clean": "2 - 10 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::10]] - [[Insufflated max common dose::30]] mg",
+   "clean": "10 - 30 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::30]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::20]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::15]] - [[Insufflated max comeup time::40]] [[Insufflated comeup time units::minutes]]",
+   "clean": "15 - 40 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::45]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 45 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::2]] - [[Insufflated max offset time::4]] [[Insufflated offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 4 hours"
+  }
+ },
+ "plain_text": "Methylphenidate (also known as MPH, MPD, and the trade names Ritalin, Concerta, and Methylin, among others) is a classical potent stimulant substance of the phenidate class. It is the parent compound of the substituted phenidates, a family of stimulants that includes ethylphenidate, isopropylphenidate, and others. The mechanism of action involves increasing concentrations of the neurotransmitters dopamine and norepinephrine.\n\nIt was first synthesized in 1944 and was approved for medical use in the United States in 1955. It was originally sold by Swiss company CIBA (now Novartis). It is approved for treatment of attention-deficit hyperactivity disorder (ADHD) and narcolepsy. It is often used by students with or without ADHD as a cognitive enhancer and study aid.\n\nSubjective effects include stimulation, focus enhancement, motivation enhancement, increased libido, appetite suppression, and euphoria. It is usually taken orally, but can also be insufflated or administered rectally. The effects are comparable to those of amphetamine; however, it is reported to produce less euphoria and generally have less recreational value. Some users also report it produces a stronger comedown relative to amphetamine especially with high doses.\n\nIt has moderate abuse potential. Chronic use (i.e. high dose, repeat administration) is associated with compulsive redosing, escalating tolerance, and psychological dependence. It is highly advised to use harm reduction practices if using this substance. \n\nHistory and culture\n\nThe compound was first synthesized in 1944 by chemist Leandro Panizzon and marketed as “Ritalin” by Swiss company CIBA (now Novartis) in 1954. The name “Ritalin” derives from the first name of Panizzon’s wife, i.e. Marguerite, nicknamed Rita, who used Ritalin to compensate for low blood pressure. \n\nMethylphenidate was not reported to be a stimulant until 1954. The drug was introduced for medical use in the United States in 1957. Although it was first used to allay barbiturate-induced coma, narcolepsy, and depression. It was later used to treat memory deficits in the elderly. Production and prescription only rose significantly in the 1990s, especially in the United States, as the ADHD diagnosis came to be better understood and more generally accepted within the medical and mental health communities.\n\nIn 2000, Alza Corporation received US FDA approval to market Concerta, an extended-release form of methylphenidate.\n\nIt was estimated that the number of doses of methylphenidate used globally in 2013 increased by 66% compared to 2012. In 2022, it was the 32nd most commonly prescribed medication in the United States, with more than 17 million prescriptions. It is available as a generic medication.\n\nChemistry\n\nMethylphenidate is a synthetic molecule of the substituted phenethylamine and substituted phenidate classes. It contains a phenethylamine core featuring a phenyl ring bound to an amino (-NH2) group through an ethyl chain. \n\nIt is structurally similar to amphetamine, featuring a substitution at Rα which is incorporated into a piperidine ring ending at the terminal amine of the phenethylamine chain. Additionally, it contains a methyl carboxylate bound to Rβ of its structure. \n\nDexmethylphenidate\n\nMethylphenidate is a chiral compound, presumably produced as a racemic mixture. It has an enantiopure also sold as a pharmaceutical; the dextrorotary enantiopure is known as \"dexmethylphenidate\" and is commonly sold as Focalin and Focalin XR.\n\nFour isomers of methylphenidate are possible, since the molecule has two chiral centers. One pair of threo isomers and one pair of erythro are distinguished, from which primarily d-threo-methylphenidate exhibits the pharmacologically desired effects. \n\nThe erythro diastereomers are pressor amines, a property not shared with the threo diastereomers. When the drug was first introduced it was sold as a 4:1 mixture of erythro:threo diastereomers, but it was later reformulated to contain only the threo diastereomers. \"TMP\" refers to a threo product that does not contain any erythro diastereomers, i.e. (±)-threo-methylphenidate. Since the threo isomers are energetically favored, it is easy to epimerize out any of the undesired erythro isomers. \n\nThe drug that contains only dextrorotatory methylphenidate is sometimes called d-TMP, although this name is only rarely used and it is much more commonly referred to as dexmethylphenidate, d-MPH, or d-threo-methylphenidate. A review on the synthesis of enantiomerically pure (2R,2R)-(+)-threo-methylphenidate hydrochloride has been published.\n\nthumb|right|upright|250px|Dexmethylphenidate in skeletal formula\n\nPharmacology\n\nMethylphenidate primarily acts as a norepinephrine-dopamine reuptake inhibitor (NDRI). It is most active at modulating levels of dopamine and, to a lesser extent, norepinephrine. Methylphenidate binds to and blocks dopamine transporters and norepinephrine transporters.\n\nWhile both amphetamine and methylphenidate are dopaminergic, it should be noted that their methods of action are somewhat distinct. Specifically, methylphenidate is a dopamine reuptake inhibitor while amphetamine is both a releasing agent and reuptake inhibitor of dopamine and norepinephrine. Each of these drugs have a corresponding effect on norepinephrine which are weaker than their effects on dopamine. \n\nMethylphenidate's mechanism of action at dopamine-norepinephrine release is still debated, but is fundamentally different from most other phenethylamine derivatives as methylphenidate is thought to increase general firing rate, whereas amphetamine reduces firing rate and reverses the flow of the monoamines via TAAR1 activation.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Methylphenidate\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of methylphenidate\n\nA toxic dose of methylphenidate is considered to be more than 2 mg/kg or 60 mg of an immediate-release formulation, or more than 4 mg/kg or 120 mg of an intact extended-release formulation. In the majority of cases in one study, methylphenidate overdose was asymptomatic or characterized by minor symptoms even in children under age 6. \n\nHowever, a significant amount of patients (31%) in the study developed symptoms typical of stimulant overdose, most commonly tachycardia, agitation, and paradoxically lethargy. In the 2012 National Poison Data System report, methylphenidate exposure was reported 9,787 times, with 1,609 reporting no adverse effects, 1,009 reporting mild effects, 662 reporting moderate effects, 33 reporting major symptoms, and no cases resulting in death.\n\nIt is strongly advised to use harm reduction practices if using this substance.\n\nDependence and abuse potential\n\nIn terms of its tolerance, methylphenidate can be used multiple days in a row for extended periods of time and is often prescribed to be used in this way. Tolerance to many of the effects of methyphenidate develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. \n\nIn the case of acute (i.e. one-off) exposure, it generally takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Methylphenidate presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of methyphenidate all stimulants will have a reduced effect.\"\n\nAs with other stimulants, the chronic use of methylphenidate can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nMethylphenidate has some potential for abuse due to its action on dopamine transporters. Methylphenidate, like other stimulants, increases dopamine levels in the brain. However, at therapeutic doses this increase is slow and thus euphoria only rarely occurs even when it is administered intravenously. The abuse and addiction potential of methylphenidate is therefore significantly lower than other dopaminergic stimulants. \n\nThe abuse potential is increased when methylphenidate is crushed and insufflated (snorted) or injected.. It should be noted that due to the fillers in the pill, however, that this can be harmful to the nasal cavities, and intravenous use can cause emphysema (a lower respiratory tract disease, aka ritalin lung when caused by Ritalin tablets). The intravenous use of methylphenidate, commonly marketed as Ritalin and widely used as a stimulant drug in the treatment of attention deficit hyperactivity disorder, can lead to emphysematous changes known as Ritalin lung.\n\n. The primary source of methylphenidate for abuse is the diversion from legitimate prescriptions rather than illicit synthesis. Those who use methylphenidate medicinally generally take it orally as instructed while intranasal and intravenous are the preferred means for recreational use.\n\nPsychosis\n\nChronic use (i.e. high dose, repeat dosing) may increase the risk of psychosis. The safety profile of short-term methylphenidate therapy has been well-established, with short-term clinical trials revealing a very low incidence (0.1%) of methylphenidate-induced psychosis at therapeutic dose levels. \n\nPsychotic symptoms from methylphenidate can include  hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, disinhibition, paranoid and grandiose delusions, confusion, emotional suppression, increased aggression, and irritability.\n\nCombination with alcohol\n\nMethylphenidate (when taken orally) has a low bioavailability around 30%. If taken with alcohol (ethanol), blood plasma levels of dexmethylphenidate are increased by up to 40%. A metabolite called ethylphenidate is also formed.\n\nAlcohol induced dose dumping (AIDD)\n\nIn vitro data suggest that some extended-release stimulants may experience dose dumping in the presence of alcohol. This is a concern because the ADHD patient population is at risk for alcohol abuse. The potential for dose dumping when taking extended-release stimulants with alcohol could lead to unintended and dangerous side effects for those with ADHD.\n\nAn example of an extended-release formula includes the methylphenidate medication brand Concerta.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n\nLegal status\n\nInternationally, methylphenidate is a Schedule II drug under the Convention on Psychotropic Substances.\n\n*Australia: Methylphenidate is a 'Schedule 8' controlled substance. Such drugs must be kept in a lockable safe before being handed out and possession without prescription carries hefty fines and even imprisonment.\n*Austria: Methylphenidate is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Methylphenidate is listed in Schedule III of the Controlled Drugs and Substances Act (along with LSD, psychedelic mushrooms, and mescaline). It is illegal to possess without a prescription pursuant to Part G (section G.01.002) of the Food and Drug Regulations under the Food and Drugs Act.\n*France: Methylphenidate is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It can only be prescribed on a narcotic prescription form.\n*Germany: Methylphenidate is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.\n*New Zealand: Methylphenidate is a 'Class B2 controlled substance'. Unlawful possession is punishable by six-month prison sentence and the distribution of it is punishable by a 14-year sentence.\n*Sweden: Methylphenidate is a List II controlled substance with recognized medical value. Possession without a prescription is punishable by up to three years in prison.\n*Switzerland: Methylphenidate is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*Turkey: Methylphenidate is a 'red prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: Methylphenidate is a controlled 'Class B' substance. Possession without a prescription carries with it a sentence of up to 5 years and/or an unlimited fine and supplying it is 14 years and/or an unlimited fine.\n*United States: Methylphenidate is classified as a Schedule II controlled substance, the designation used for substances that have a recognized medical value but present a high potential for abuse.\n\nIt is a widespread myth that methylphenidate could lead to false-positives for amphetamine in drug screenings. However, there was found no immunoassay cross reactivity in laboratory study.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Amphetamine\n\nExternal links\n\n*Methylphenidate (Wikipedia)\n*Methylphenidate (Erowid Vault)\n*Methylphenidate (Isomer Design)\n*Methylphenidate (DrugBank)\n*Dexmethylphenidate (DrugBank)\n*Methylphenidate (Drugs-Forum)\n\nLiterature\n\n*Leonard, B. E., McCartan, D., White, J., & King, D. J. (2004). Methylphenidate: a review of its neuropharmacological, neuropsychological and adverse clinical effects. Human Psychopharmacology: Clinical and Experimental, 19(3), 151-180. https://doi.org/10.1002/hup.579\n\nReferences\n\nCategory:Phenidate\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Methylphenidate}}\n'''Methylphenidate''' (also known as '''MPH''', '''MPD''', and the trade names '''Ritalin''', '''Concerta''', and '''Methylin''', among others) is a classical potent [[psychoactive class::stimulant]] substance of the [[chemical class::phenidate]] class. It is the parent compound of the [[substituted phenidates]], a family of stimulants that includes [[ethylphenidate]], [[isopropylphenidate]], and others. The mechanism of action involves increasing concentrations of the [[neurotransmitters]] [[dopamine]] and [[norepinephrine]].\n\nIt was first synthesized in 1944 and was approved for medical use in the United States in 1955. It was originally sold by Swiss company CIBA (now Novartis).<ref>{{cite journal | vauthors=((Lange, K. W.)), ((Reichl, S.)), ((Lange, K. M.)), ((Tucha, L.)), ((Tucha, O.)) | journal=ADHD Attention Deficit and Hyperactivity Disorders | title=The history of attention deficit hyperactivity disorder | volume=2 | issue=4 | pages=241–255 | date= December 2010 | url=http://link.springer.com/10.1007/s12402-010-0045-8 | issn=1866-6116 | doi=10.1007/s12402-010-0045-8}}</ref> It is approved for treatment of attention-deficit hyperactivity disorder (ADHD) and narcolepsy. It is often used by students with or without ADHD as a cognitive enhancer and study aid.\n\n[[Subjective effects]] include [[stimulation]], [[focus enhancement]], [[motivation enhancement]], [[increased libido]], [[appetite suppression]], and [[euphoria]]. It is usually taken orally, but can also be [[Routes of administration|insufflated or administered rectally]]. The effects are comparable to those of amphetamine; however, it is reported to produce less euphoria and generally have less recreational value. Some users also report it produces a stronger comedown relative to amphetamine especially with high doses.\n\nIt has moderate abuse potential. Chronic use (i.e. high dose, repeat administration) is associated with [[compulsive redosing]], escalating tolerance, and psychological dependence. It is highly advised to use [[harm reduction]] practices if using this substance. \n\n==History and culture==\n\nThe compound was first synthesized in 1944 by chemist Leandro Panizzon and marketed as “Ritalin” by Swiss company CIBA (now Novartis) in 1954. The name “Ritalin” derives from the first name of Panizzon’s wife, i.e. Marguerite, nicknamed Rita,<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3000907/#Sec8</ref> who used Ritalin to compensate for low blood pressure.<ref>Richard L. Myers https://books.google.com/books?id=a4DuGVwyN6cC&q=named+ritalin+after+his+wife&pg=PA178 ABC-CLIO. p. 178. ISBN 978-0-313-33758-1.</ref> \n\nMethylphenidate was not reported to be a stimulant until 1954.<ref>Heal DJ, Pierce DM (2006). \"Methylphenidate and its isomers: their role in the treatment of attention-deficit hyperactivity disorder using a transdermal delivery system\". ''CNS Drugs''. '''20''' (9): 713–738. doi:[https://link.springer.com/article/10.2165/00023210-200620090-00002 10.2165/00023210-200620090-00002]. [https://pubmed.ncbi.nlm.nih.gov/16953648/ PMID 16953648.] [https://www.semanticscholar.org/paper/Methylphenidate-and-its-Isomers-Heal-Pierce/b19872ac87ae24e3cd161a1719d192b9fccffa1b S2CID 39535277.]</ref> The drug was introduced for medical use in the United States in 1957.<ref>Wood S, Sage JR, Shuman T, Anagnostaras SG (2014). \"Psychostimulants and cognition: A continuum of behavioral and cognitive activation\". ''Pharmacol Rev''. '''66''' (1): 193–221. https://pmc.ncbi.nlm.nih.gov/articles/PMC3880463/</ref> Although it was first used to allay [[Barbiturates|barbiturate]]-induced coma, narcolepsy, and depression.<ref>Myers RL (August 2007). [https://archive.org/details/100mostimportant0000myer ''The 100 Most Important Chemical Compounds: A reference guide''.] ABC-CLIO. p. 178. [[ISBN (identifier)|ISBN]] [[Special:BookSources/978-0-313-33758-1|<bdi>978-0-313-33758-1</bdi>]].</ref> It was later used to treat memory deficits in the elderly.<ref>Stolerman I (2010). ''Encyclopedia of Psychopharmacology''. Berlin, DE / London, UK: Springer. p. 763. ISBN [[Special:BookSources/978-3-540-68698-9|<bdi>978-3-540-68698-9</bdi>]].</ref> Production and prescription only rose significantly in the 1990s, especially in the United States, as the ADHD diagnosis came to be better understood and more generally accepted within the medical and mental health communities.<ref>Woodworth T (16 May 2000). [https://web.archive.org/web/20071012061712/http://www.dea.gov/pubs/cngrtest/ct051600.htm DEA Congressional Testimony (Report)]. U.S. Drug Enforcement Administration. Archived from [https://www.dea.gov/pubs/cngrtest/ct051600.htm the original] on 12 October 2007. Retrieved 2 November 2007.</ref>\n\nIn 2000, Alza Corporation received US FDA approval to market Concerta, an extended-release form of methylphenidate.<ref>[https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a88218c-5b18-4220-8f56-526de1a276cd \"Concerta- methylphenidate hydrochloride tablet, extended release\"]. ''DailyMed''. 1 July 2021.</ref><ref>[https://web.archive.org/web/20101216171133/http://centerwatch.com/drug-information/fda-approvals/drug-details.aspx?DrugID=637 \"Newly Approved Drug Therapies (637) Concerta, Alza\".] ''CenterWatch''. Archived from [https://www.centerwatch.com/drug-information/fda-approvals/drug-details.aspx?DrugID=637 the original] on 16 December 2010. Retrieved 30 April 2011.</ref>\n\nIt was estimated that the number of doses of methylphenidate used globally in 2013 increased by 66% compared to 2012.<ref>{{cite journal | journal=The Pharmaceutical Journal | title=Narcotics monitoring board reports 66% increase in global consumption of methylphenidate | date= 2015 | url=http://www.pharmaceutical-journal.com/news-and-analysis/news-in-brief/narcotics-monitoring-board-reports-66-increase-in-global-consumption-of-methylphenidate/20068042.article | issn=2053-6186 | doi=10.1211/PJ.2015.20068042}}</ref> In 2022, it was the 32nd most commonly prescribed medication in the United States, with more than 17 million prescriptions.<ref>[https://clincalc.com/DrugStats/Drugs/Methylphenidate \"Methylphenidate Drug Usage Statistics, United States, 2013 - 2022\"]. ''ClinCalc''. Retrieved 30 August 2024.</ref> It is available as a generic medication.<ref>[https://www.drugs.com/monograph/methylphenidate.html \"Methylphenidate Hydrochloride Monograph for Professionals\".] ''Drugs.com''. AHFS. Archived from [https://web.archive.org/web/20181003194029/https://www.drugs.com/monograph/methylphenidate-hydrochloride.html the original] on 19 December 2018. Retrieved 19 December 2018.</ref>\n\n==Chemistry==\nMethylphenidate is a synthetic molecule of the [[substituted phenethylamine]] and [[substituted phenidate]] classes. It contains a phenethylamine core featuring a phenyl ring bound to an amino (-NH<sub>2</sub>) group through an ethyl chain. \n\nIt is structurally similar to [[amphetamine]], featuring a substitution at R<sub>α</sub> which is incorporated into a [[piperidine]] ring ending at the terminal amine of the phenethylamine chain. Additionally, it contains a methyl carboxylate bound to R<sub>β</sub> of its structure. \n\n===Dexmethylphenidate===\n\nMethylphenidate is a chiral compound, presumably produced as a racemic mixture. It has an enantiopure also sold as a pharmaceutical; the dextrorotary enantiopure is known as \"'''dexmethylphenidate'''\" and is commonly sold as '''Focalin''' and '''Focalin XR'''.\n\nFour isomers of methylphenidate are possible, since the molecule has two chiral centers. One pair of threo isomers and one pair of erythro are distinguished, from which primarily d-threo-methylphenidate exhibits the pharmacologically desired effects.<ref>{{cite journal | vauthors=((Heal, D. J.)), ((Pierce, D. M.)) | journal=CNS Drugs | title=Methylphenidate and its Isomers: Their Role in the Treatment of Attention-Deficit Hyperactivity Disorder Using a Transdermal Delivery System | volume=20 | issue=9 | pages=713–738 | date= 2006 | url=http://link.springer.com/10.2165/00023210-200620090-00002 | issn=1172-7047 | doi=10.2165/00023210-200620090-00002}}</ref> \n\nThe erythro diastereomers are ''pressor'' amines, a property not shared with the threo diastereomers. When the drug was first introduced it was sold as a 4:1 mixture of erythro:threo diastereomers, but it was later reformulated to contain only the threo diastereomers. \"TMP\" refers to a threo product that does not contain any erythro diastereomers, i.e. (±)-threo-methylphenidate. Since the threo isomers are energetically favored, it is easy to epimerize out any of the undesired erythro isomers. \n\nThe drug that contains only dextrorotatory methylphenidate is sometimes called d-TMP, although this name is only rarely used and it is much more commonly referred to as dexmethylphenidate, d-MPH, or d-threo-methylphenidate. A review on the synthesis of enantiomerically pure (2''R'',2'''R'')-(+)-''threo''-methylphenidate hydrochloride has been published.<ref>{{cite journal | vauthors=((Prashad, M.)) | journal=Advanced Synthesis & Catalysis | title=Approaches to the Preparation of Enantiomerically Pure (2R,2′R)-(+)-threo-Methylphenidate Hydrochloride | volume=343 | issue=5 | pages=379–392 | date= July 2001 | url=https://onlinelibrary.wiley.com/doi/10.1002/1615-4169(200107)343:5<379::AID-ADSC379>3.0.CO;2-4 | issn=1615-4150 | doi=10.1002/1615-4169(200107)343:5<379::AID-ADSC379>3.0.CO;2-4}}</ref>\n\n[[File:Dexmethylphenidate-2D-skeletal.png|thumb|right|upright|250px|Dexmethylphenidate in skeletal formula]]\n\n==Pharmacology==\nMethylphenidate primarily acts as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI). It is most active at modulating levels of dopamine and, to a lesser extent, norepinephrine.<ref>{{cite journal | vauthors=((Heal, D. J.)), ((Pierce, D. M.)) | journal=CNS Drugs | title=Methylphenidate and its Isomers | volume=20 | issue=9 | pages=713–738 | date=1 September 2006 | url=https://doi.org/10.2165/00023210-200620090-00002 | issn=1179-1934 | doi=10.2165/00023210-200620090-00002}}</ref> Methylphenidate binds to and blocks dopamine transporters and norepinephrine transporters.<ref name=\"Iversen2006\">{{cite journal | vauthors=((Iversen, L.)) | journal=British Journal of Pharmacology | title=Neurotransmitter transporters and their impact on the development of psychopharmacology | volume=147 | issue=Suppl 1 | pages=S82–S88 | date= January 2006 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760736/ | issn=0007-1188 | doi=10.1038/sj.bjp.0706428}}</ref>\n\nWhile both [[amphetamine]] and methylphenidate are dopaminergic, it should be noted that their methods of action are somewhat distinct. Specifically, methylphenidate is a dopamine reuptake inhibitor while amphetamine is both a releasing agent and reuptake inhibitor of [[dopamine]] and [[norepinephrine]]. Each of these drugs have a corresponding effect on norepinephrine which are weaker than their effects on dopamine. \n\nMethylphenidate's mechanism of action at dopamine-norepinephrine release is still debated, but is fundamentally different from most other phenethylamine derivatives as methylphenidate is thought to increase general firing rate, whereas amphetamine reduces firing rate and reverses the flow of the monoamines via TAAR1 activation.<ref>{{cite journal | vauthors=((Volkow, N. D.)), ((Wang, G. J.)), ((Fowler, J. S.)), ((Gatley, S. J.)), ((Logan, J.)), ((Ding, Y. S.)), ((Hitzemann, R.)), ((Pappas, N.)) | journal=The American Journal of Psychiatry | title=Dopamine transporter occupancies in the human brain induced by therapeutic doses of oral methylphenidate | volume=155 | issue=10 | pages=1325–1331 | date= October 1998 | issn=0002-953X | doi=10.1176/ajp.155.10.1325}}</ref><ref name=\"Iversen2006\" /><ref>Focalin XR review | http://www.pharma.us.novartis.com/product/pi/pdf/focalinXR.pdf</ref><ref>Concerta Xl slow release | http://www.medicines.org.uk/emc/medicine/8382/SPC/Concerta#PHARMACOLOGICAL_PROPSSPC</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' Methylphenidate is usually reported to be highly energetic and distinctively stimulating, similar to [[amphetamine]] or [[cocaine]] and stronger than [[modafinil]] and [[caffeine]]. At lower to moderate doses, it encourages general productivity but at higher dosages it can encourage physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which methylphenidate presents can be described as forced. This means that at higher dosages, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in extreme shaking of the entire body, unsteadiness of the hands, and a general lack of motor control.\n*'''[[Effect::Spontaneous bodily sensations]]'''\n*'''[[Effect::Increased heart rate]]'''<ref name=\"Montastruc\">{{cite journal | vauthors=((Montastruc, F.)), ((Montastruc, G.)), ((Montastruc, J.-L.)), ((Revet, A.)) | journal=BMJ | title=Cardiovascular safety of methylphenidate should also be considered in adults | pages=i3418 | date=22 June 2016 | url=https://www.bmj.com/lookup/doi/10.1136/bmj.i3418 | issn=1756-1833 | doi=10.1136/bmj.i3418}}</ref><ref name=\"Leonard\">{{cite journal | vauthors=((Leonard, B. E.)), ((McCartan, D.)), ((White, J.)), ((King, D. J.)) | journal=Human Psychopharmacology: Clinical and Experimental | title=Methylphenidate: a review of its neuropharmacological, neuropsychological and adverse clinical effects | volume=19 | issue=3 | pages=151–180 | date= April 2004 | url=https://onlinelibrary.wiley.com/doi/10.1002/hup.579 | issn=0885-6222 | doi=10.1002/hup.579}}</ref>\n*'''[[Effect::Abnormal heartbeat]]'''<ref name=\"Montastruc\" /><ref name=\"Leonard\" />\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Frequent urination]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Appetite suppression]]'''<ref name=\"Leonard\" />\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]'''<ref name=\"Leonard\" /> - May occur at higher doses, although tends to fade after a short period.\n*'''[[Effect::Dizziness]]'''<ref name=\"Leonard\" /> \n*'''[[Effect::Teeth grinding]]''' - Teeth grinding may be present at higher doses. However, it is less intense than that of [[MDMA]].\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Increased libido]]''' - Higher doses of methylphenidate can increase sexual desire.\n*'''[[Effect::Pupil dilation]]''' - This effect is experienced only at common to high dosages as well as in low lighting and is more prominent on the comedown.\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety]]''' - Anxiety is reported with slightly more frequency than other common stimulants like [[amphetamine]] or [[cocaine]]. \n*'''[[Effect::Cognitive euphoria]]''' - The cognitive effects of methylphenidate are oftentimes subjectively perceived as being more clearheaded and “functional” compared to other strong stimulants such as [[cocaine]].\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Emotion suppression]]''' - This is typically most intense at light and common doses, and is more commonly reported from medical usage rather than recreational.\n*'''[[Effect::Derealisation]]''' - This effect is usually reported at moderate/high doses.\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration.\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Memory enhancement]]''' - Therapeutic doses of methylphenidate improve performance on working memory tests both in normal functioning individuals and those with ADHD.<ref>{{cite book | vauthors=((Nestler, E. J.)), ((Hyman, S. E.)), ((Malenka, R. C.)) | date= 2009 | title=Molecular neuropharmacology: a foundation for clinical neuroscience | publisher=McGraw-Hill Medical | edition=2nd ed | isbn=9780071481274}}</ref>\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought organization]]\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Suggestibility suppression]]'''\n*'''[[Effect::Increased music appreciation]]''' - In comparison to other common stimulants such as [[amphetamine]] or [[cocaine]], this effect is reported to be relatively mild or present only at higher doses.\n*'''[[Effect::Compulsive redosing]]''' - Compulsive redosing is reported but with less frequency than other common stimulants such as [[amphetamine]] or [[cocaine]], and typically at high or non-orally administered doses. \n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\nWhen methylphenidate compared to other stimulants such as [[Amphetamine]] and [[Caffeine]] it has worse after effects, which is like [[MDMA]].\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Methylphenidate]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Methylphenidate.shtml Erowid Experience Vaults: Methylphenidate]\n\n==Toxicity and harm potential==\n{{toxicity}}\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of methylphenidate<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n\nA toxic dose of methylphenidate is considered to be more than 2 mg/kg or 60 mg of an immediate-release formulation, or more than 4 mg/kg or 120 mg of an intact extended-release formulation.<ref>{{cite journal | vauthors=((Scharman, E. J.)), ((Erdman, A. R.)), ((Cobaugh, D. J.)), ((Olson, K. R.)), ((Woolf, A. D.)), ((Caravati, E. M.)), ((Chyka, P. A.)), ((Booze, L. L.)), ((Manoguerra, A. S.)), ((Nelson, L. S.)), ((Christianson, G.)), ((Troutman, W. G.)), ((American Association of Poison Control Centers)) | journal=Clinical Toxicology (Philadelphia, Pa.) | title=Methylphenidate poisoning: an evidence-based consensus guideline for out-of-hospital management | volume=45 | issue=7 | pages=737–752 | date= November 2007 | issn=1556-3650 | doi=10.1080/15563650701665175}}</ref> In the majority of cases in one study, methylphenidate overdose was asymptomatic or characterized by minor symptoms even in children under age 6. \n\nHowever, a significant amount of patients (31%) in the study developed symptoms typical of stimulant overdose, most commonly tachycardia, agitation, and paradoxically lethargy.<ref>{{cite journal | vauthors=((White, S. R.)), ((Yadao, C. M.)) | journal=Archives of Pediatrics & Adolescent Medicine | title=Characterization of Methylphenidate Exposures Reported to a Regional Poison Control Center | volume=154 | issue=12 | pages=1199 | date=1 December 2000 | url=http://archpedi.jamanetwork.com/article.aspx?doi=10.1001/archpedi.154.12.1199 | issn=1072-4710 | doi=10.1001/archpedi.154.12.1199}}</ref> In the 2012 National Poison Data System report, methylphenidate exposure was reported 9,787 times, with 1,609 reporting no adverse effects, 1,009 reporting mild effects, 662 reporting moderate effects, 33 reporting major symptoms, and no cases resulting in death.<ref>2012 Annual Report of the American Association \nof Poison Control Centers ’ National Poison \nData System (NPDS): 28th Annual Report | https://aapcc.s3.amazonaws.com/pdfs/annual_reports/2012_NPDS_Annual_Report.pdf</ref>\n\nIt is strongly advised to use [[responsible drug use|harm reduction practices]] if using this substance.\n\n===Dependence and abuse potential===\nIn terms of its tolerance, methylphenidate can be used multiple days in a row for extended periods of time and is often prescribed to be used in this way. Tolerance to many of the effects of methyphenidate develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects.<ref>{{cite journal | vauthors=((Swanson, J.)), ((Gupta, S.)), ((Guinta, D.)), ((Flynn, D.)), ((Agler, D.)), ((Lerner, M.)), ((Williams, L.)), ((Shoulson, I.)), ((Wigal, S.)) | journal=Clinical Pharmacology and Therapeutics | title=Acute tolerance to methylphenidate in the treatment of attention deficit hyperactivity disorder in children | volume=66 | issue=3 | pages=295–305 | date= September 1999 | issn=0009-9236 | doi=10.1016/S0009-9236(99)70038-X}}</ref> \n\nIn the case of acute (i.e. one-off) exposure, it generally takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption).{{citation needed}} Methylphenidate presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of methyphenidate all stimulants will have a reduced effect.\"{{citation needed}}\n\nAs with other [[stimulant|stimulants]], the chronic use of methylphenidate can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nMethylphenidate has some potential for abuse due to its action on dopamine transporters. Methylphenidate, like other [[stimulant]]s, increases [[dopamine]] levels in the brain. However, at therapeutic doses this increase is slow and thus euphoria only rarely occurs even when it is administered intravenously.<ref name=\"Volkow1999\">{{cite journal | vauthors=((Volkow, N. D.)), ((Wang, G. J.)), ((Fowler, J. S.)), ((Gatley, S. J.)), ((Logan, J.)), ((Ding, Y. S.)), ((Dewey, S. L.)), ((Hitzemann, R.)), ((Gifford, A. N.)), ((Pappas, N. R.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Blockade of striatal dopamine transporters by intravenous methylphenidate is not sufficient to induce self-reports of “high” | volume=288 | issue=1 | pages=14–20 | date= January 1999 | issn=0022-3565}}\n</ref> The abuse and addiction potential of methylphenidate is therefore significantly lower than other dopaminergic stimulants.<ref name=\"Volkow1999\" /><ref>{{cite journal | vauthors=((Volkow, N. D.)), ((Swanson, J. M.)) | journal=American Journal of Psychiatry | title=Variables That Affect the Clinical Use and Abuse of Methylphenidate in the Treatment of ADHD | volume=160 | issue=11 | pages=1909–1918 | date= November 2003 | url=https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.160.11.1909 | issn=0002-953X | doi=10.1176/appi.ajp.160.11.1909}}</ref> \n\nThe abuse potential is increased when methylphenidate is crushed and [[Routes_of_administration#Insufflation|insufflated]] (snorted) or [[Routes_of_administration#Intravenous|injected]].<ref name=\"Morton2000\">{{cite journal | vauthors=((Morton, W. A.)), ((Stockton, G. G.)) | journal=Primary Care Companion to The Journal of Clinical Psychiatry | title=Methylphenidate Abuse and Psychiatric Side Effects | volume=2 | issue=5 | pages=159–164 | date= October 2000 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC181133/ | issn=1523-5998}}</ref>. It should be noted that due to the fillers in the pill, however, that this can be harmful to the nasal cavities, and intravenous use can cause [https://en.wikipedia.org/wiki/Emphysema emphysema] (a lower respiratory tract disease, aka [https://en.wikipedia.org/wiki/Emphysema#Ritalin_lung ritalin lung] when caused by Ritalin tablets). The intravenous use of [[methylphenidate]], commonly marketed as Ritalin and widely used as a stimulant drug in the treatment of attention deficit hyperactivity disorder, can lead to emphysematous changes known as [https://en.wikipedia.org/wiki/Emphysema#Ritalin_lung Ritalin lung].\n\n. The primary source of methylphenidate for abuse is the diversion from legitimate prescriptions rather than illicit synthesis. Those who use methylphenidate medicinally generally take it orally as instructed while intranasal and intravenous are the preferred means for recreational use.<ref>{{cite journal | vauthors=((Klein-Schwartz, W.)) | journal=Current Opinion in Pediatrics | title=Abuse and toxicity of methylphenidate: | volume=14 | issue=2 | pages=219–223 | date= April 2002 | url=http://journals.lww.com/00008480-200204000-00013 | issn=1040-8703 | doi=10.1097/00008480-200204000-00013}}</ref>\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nChronic use (i.e. high dose, repeat dosing) may increase the risk of [[psychosis]].<ref name=\"Morton2000\" /><ref>{{cite journal | vauthors=((Spensley, J.)), ((Rockwell, D. A.)) | journal=New England Journal of Medicine | title=Psychosis during Methylphenidate Abuse | volume=286 | issue=16 | pages=880–881 | date=20 April 1972 | url=https://doi.org/10.1056/NEJM197204202861607 | issn=0028-4793 | doi=10.1056/NEJM197204202861607}}</ref> The safety profile of short-term methylphenidate therapy has been well-established, with short-term clinical trials revealing a very low incidence (0.1%) of methylphenidate-induced psychosis at therapeutic dose levels.<ref>Ritalin & Ritalin-SR Prescribing Information |  http://www.pharma.us.novartis.com/product/pi/pdf/ritalin_ritalin-sr.pdf</ref> \n\nPsychotic symptoms from methylphenidate can include  [[Auditory hallucinations|hearing voices]], [[external hallucinations|visual hallucinations]], urges to harm oneself, severe [[anxiety]], [[mania]], [[disinhibition]], [[delusions|paranoid and grandiose delusions]], [[confusion]], [[emotion suppression|emotional suppression]], increased [[aggression]], and [[irritability]].\n\n===Combination with alcohol===\n\nMethylphenidate (when taken orally) has a low bioavailability around 30%. If taken with alcohol (ethanol), blood plasma levels of dexmethylphenidate are increased by up to 40%.<ref>{{cite journal | vauthors=((Patrick, K.)), ((Straughn, A.)), ((Minhinnett, R.)), ((Yeatts, S.)), ((Herrin, A.)), ((DeVane, C.)), ((Malcolm, R.)), ((Janis, G.)), ((Markowitz, J.)) | journal=Clinical pharmacology and therapeutics | title=Influence of Ethanol and Gender on Methylphenidate Pharmacokinetics and Pharmacodynamics | volume=81 | issue=3 | pages=346–353 | date= March 2007 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3188424/ | issn=0009-9236 | doi=10.1038/sj.clpt.6100082}}</ref> A metabolite called [[ethylphenidate]] is also formed.<ref>{{cite journal | vauthors=((Markowitz, J. S.)), ((DeVane, C. L.)), ((Boulton, D. W.)), ((Nahas, Z.)), ((Risch, S. C.)), ((Diamond, F.)), ((Patrick, K. S.)) | journal=Drug Metabolism and Disposition: The Biological Fate of Chemicals | title=Ethylphenidate formation in human subjects after the administration of a single dose of methylphenidate and ethanol | volume=28 | issue=6 | pages=620–624 | date= June 2000 | issn=0090-9556}}</ref>\n\n====Alcohol induced dose dumping (AIDD)====\n{{headerpanel|{{Template:Warning/Alcohol_induced_dose_dumping_(AIDD)}}}}\n\nIn vitro data suggest that some extended-release stimulants may experience dose dumping in the presence of alcohol. This is a concern because the ADHD patient population is at risk for alcohol abuse. The potential for dose dumping when taking extended-release stimulants with alcohol could lead to unintended and dangerous side effects for those with ADHD.<ref>{{cite journal |last1=Jain |first1=R |last2=Stark |first2=JG |title=Safety and efficacy considerations due to misuse of extended-release formulations of stimulant medications. |journal=Postgraduate medicine |date=September 2016 |volume=128 |issue=7 |pages=672-81 |doi=10.1080/00325481.2016.1218259 |pmid=27467139}}</ref>\n\nAn example of an extended-release formula includes the methylphenidate medication brand Concerta.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=methylphenidate}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n\n==Legal status==\nInternationally, methylphenidate is a Schedule II drug under the Convention on Psychotropic Substances.<ref>\"Green List: Annex to the annual statistical report on psychotropic substances (form P)\" (PDF). Archived from the original (PDF) on 31 August 2012. (1.63 MB) 23rd edition. August 2003. International Narcotics Board, Vienna International Centre. Retrieved 2 March 2006.</ref>\n\n*'''Australia''': Methylphenidate is a 'Schedule 8' controlled substance. Such drugs must be kept in a lockable safe before being handed out and possession without prescription carries hefty fines and even imprisonment.<ref>{{cite web|url=https://www.legislation.gov.au/Details/F2019L01471|title=POISONS STANDARD DECEMBER 2019|publisher=Office of Parliamentary Counsel|access-date=December 24, 2019}}</ref>\n*'''Austria''': Methylphenidate is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada''': Methylphenidate is listed in Schedule III of the Controlled Drugs and Substances Act (along with LSD, psychedelic mushrooms, and mescaline).<ref>{{cite web|url=http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-32.html#h-28|title=SCHEDULE III|publisher=Department of Justice|access-date=December 24, 2019|archive-url=https://web.archive.org/web/20110416090043/http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-32.html#h-28|archive-date=April 16, 2011}}</ref> It is illegal to possess without a prescription pursuant to Part G (section G.01.002) of the Food and Drug Regulations under the Food and Drugs Act.\n*'''France''': Methylphenidate is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It can only be prescribed on a narcotic prescription form.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': Methylphenidate is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.<ref>{{Citation | title=Anlage III BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html}}</ref>\n*'''New Zealand''': Methylphenidate is a 'Class B2 controlled substance'. Unlawful possession is punishable by six-month prison sentence and the distribution of it is punishable by a 14-year sentence.{{citation needed}}\n*'''Sweden''': Methylphenidate is a List II controlled substance with recognized medical value. Possession without a prescription is punishable by up to three years in prison.<ref>{{Citation | title=Narkotikastrafflag (1968:64) (NSL), Lagen.nu | url=https://lagen.nu/1968:64}}</ref>\n*'''Switzerland''': Methylphenidate is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Methylphenidate is a 'red prescription' only substance<ref>https://www.titck.gov.tr/dinamikmodul/43</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''United Kingdom''': Methylphenidate is a controlled 'Class B' substance. Possession without a prescription carries with it a sentence of up to 5 years and/or an unlimited fine and supplying it is 14 years and/or an unlimited fine.<ref>{{Citation | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2}}</ref>\n*'''United States''': Methylphenidate is classified as a Schedule II controlled substance, the designation used for substances that have a recognized medical value but present a high potential for abuse.{{citation needed}}\n\nIt is a widespread myth that methylphenidate could lead to false-positives for amphetamine in drug screenings. However, there was found no immunoassay cross reactivity in laboratory study.<ref name=\"BreindahlHindersson2012\">{{cite journal|last1=Breindahl|first1=Torben|last2=Hindersson|first2=Peter|title=Methylphenidate is Distinguished from Amphetamine in Drug-of-Abuse Testing|journal=Journal of Analytical Toxicology|volume=36|issue=7|year=2012|pages=538–539|issn=0146-4760|doi=10.1093/jat/bks056}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Amphetamine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Methylphenidate Methylphenidate (Wikipedia)]\n*[https://www.erowid.org/pharms/methylphenidate/ Methylphenidate (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=565 Methylphenidate (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00422 Methylphenidate (DrugBank)]\n*[https://go.drugbank.com/drugs/DB06701 Dexmethylphenidate (DrugBank)]\n*[https://drugs-forum.com/wiki/Methylphenidate Methylphenidate (Drugs-Forum)]\n\n==Literature==\n\n*Leonard, B. E., McCartan, D., White, J., & King, D. J. (2004). Methylphenidate: a review of its neuropharmacological, neuropsychological and adverse clinical effects. Human Psychopharmacology: Clinical and Experimental, 19(3), 151-180. https://doi.org/10.1002/hup.579\n\n==References==\n{{reflist|2}}\n\n[[Category:Phenidate]]\n[[Category:Stimulant]]\n\n{{#set:Featured=true}}"
+}

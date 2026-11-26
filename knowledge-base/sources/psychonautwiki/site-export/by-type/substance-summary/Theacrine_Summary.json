@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13828",
+ "type": "substance-summary",
+ "title": "Theacrine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Theacrine/Summary",
+  "pageid": 13828,
+  "last_edited": "2017-02-06T22:18:41Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Theacrine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Theacrine}}"
+}

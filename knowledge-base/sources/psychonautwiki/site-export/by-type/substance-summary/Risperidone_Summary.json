@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13265",
+ "type": "substance-summary",
+ "title": "Risperidone/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Risperidone/Summary",
+  "pageid": 13265,
+  "last_edited": "2016-11-15T08:58:24Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Risperidone",
+ "plain_text": "",
+ "wikitext": "{{Summary|Risperidone}}"
+}

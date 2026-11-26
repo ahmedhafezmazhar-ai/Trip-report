@@ -1,0 +1,335 @@
+{
+ "id": "psychonautwiki:15440",
+ "type": "substance",
+ "title": "Promethazine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Promethazine",
+  "pageid": 15440,
+  "last_edited": "2026-08-15T02:01:08Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Deliriant",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Promethazine",
+ "substance_box": {
+  "names": {
+   "common": "Phenergan, Lergigan",
+   "substitutive": "Promethazine",
+   "systematic": "N,N,α-trimethyl-10H-phenothiazine-10-ethanamine"
+  },
+  "classes": {
+   "psychoactive": "Deliriant / Depressant",
+   "chemical": "Phenothiazine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 - 12.5 mg",
+    "light": "12.5 - 25 mg",
+    "common": "25 - 50 mg",
+    "strong": "50 - 100 mg",
+    "heavy": "100 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "30 - 60 minutes",
+    "comeup": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "3 - 5 hours",
+    "aftereffects": "12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Phenergan",
+    "Lergigan"
+   ],
+   "Psychoactive class": [
+    "Deliriant",
+    "Depressant"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "12.5"
+   ],
+   "Oral max light dose": [
+    "25"
+   ],
+   "Oral min common dose": [
+    "25"
+   ],
+   "Oral max common dose": [
+    "50"
+   ],
+   "Oral min strong dose": [
+    "50"
+   ],
+   "Oral max strong dose": [
+    "100"
+   ],
+   "Oral heavy dose": [
+    "100"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "5"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of promethazine",
+   "clean": "Molecular structure of promethazine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Promethazine.svg",
+   "clean": "File:Promethazine.svg"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Phenergan]], [[common name::Lergigan]]",
+   "clean": "Phenergan, Lergigan"
+  },
+  "NameSubstitution": {
+   "raw": "Promethazine",
+   "clean": "Promethazine"
+  },
+  "NameSystematic": {
+   "raw": "N,N,α-trimethyl-10H-phenothiazine-10-ethanamine",
+   "clean": "N,N,α-trimethyl-10H-phenothiazine-10-ethanamine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Deliriant]] / [[Psychoactive class::Depressant]]",
+   "clean": "Deliriant / Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Phenothiazine]]",
+   "clean": "Phenothiazine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] - 12.5 [[Oral dose units::mg]]",
+   "clean": "5 - 12.5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::12.5]] - [[Oral max light dose::25]] mg",
+   "clean": "12.5 - 25 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::25]] - [[Oral max common dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::50]] - [[Oral max strong dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::100]] mg +",
+   "clean": "100 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::5]] [[Oral offset time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "12 hours"
+  }
+ },
+ "plain_text": "Promethazine (commonly sold as Phenergan or Lergigan) is a depressant substance of the phenothiazine class. Alongside codeine, it is popularly known as one of the active two ingredients in \"lean\". It acts as an antihistamine.\n\nPromethazine was developed in the mid-1940s by French chemists. Today, it is available in many countries under many brand names. \n\nSubjective effects include muscle relaxation, nausea suppression, and strong sedation. It also reduces motion sickness and has anticholinergic properties.\n\nPromethazine has been shown to have quality hypnotic effects and is sometimes used for this purpose.\n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nPromethazine was developed in the mid-1940s when a team of scientists from Rhône-Poulenc laboratories was able to synthesize it from phenothiazine and a diamine side chain of diphenhydramine. It was previously used as an antipsychotic, although it is generally not administered for this purpose now. It has approximately 1/10 of the antipsychotic strength of chlorpromazine.\n\nIt became popular among the Houston rap and hip-hop scene in around 1990, and the trend resurfaced in around 2015 to 2016. Often, it was combined with the opiate drug codeine in a preparation called \"lean.\" Lean usually consists of ice, Sprite or a citrus soda, the promethazine/codeine cough syrup, and occasionally jolly ranchers for enhanced flavor. \n\nChemistry\n\nPromethazine is a phenothiazine-based compound.\n\nPharmacology\n\nPromethazine is a direct antagonist of histamine H1 receptors, whereas diphenhydramine is an inverse agonist. It is also an antagonist of muscarinic acetylcholine receptors, which is likely the cause of sedation and delirium that occurs with higher doses. It blocks dopaminergic D2 receptors, but weakly. \n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Promethazine\n\nToxicity and harm potential\n\nIt is strongly recommended that one use harm reduction practices when using this substance. \n\nLethal dosage\n\nThe lowest published toxic dose of promethazine in humans (oral) is 3.5 mg/kg. This means that a person weighing 70 kg can show signs of toxicity at 245 mg. The LD50 of promethazine in mice (oral) is 255 mg/kg. If applied to humans, this suggests that 50% of people weighing 70 kg would die after consuming 17.85 grams of promethazine. \n\nTolerance and addiction potential\n\nPromethazine is not addictive.\n\nDangerous interactions\n\nPromethazine, because of its extensive pharmacology, has many interactions. According to the interactions checker on Drugs.com, promethazine is known to interact with over 1000 other prescription and OTC drugs.\n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should try to fall asleep in the recovery position or have a friend move them into it.\n*Anti-dopaminergics - Because promethazine also blocks dopamine receptors, other drugs and substances that do this will increase the chances of developing acute or tardive dyskinesia, neuroleptic malignant syndrome, or parkinsonism. \n*Anticholinergics - Promethazine with anticholinergics (or antimuscarinics) can cause increased blocking of acetylcholine, being potentially dangerous with cardiovascular effects as well as delirium. \n*Stimulants - Due to promethazine's excitatory cardiac effect, combining it with stimulants poses a risk of an abnormal heart rhythm, severe tachycardia, or a heart attack as well as other cardiovascular events.\n\nLegal status\n\n*Austria: Promethazine is no longer marketed or available by standard prescription. Personal import from Germany or another EEA country may be possible through an Austrian pharmacy.\n*Germany: Promethazine is available through a prescription.\n\n*Russia: Promethazine is available through a prescription.\n\n*United States: Promethazine is available through a prescription.\n\n*Canada: Promethazine is available over the counter.\n*Japan: Promethazine is available through a prescription.\n*Australia: Promethazine is available over the counter.\n*United Kingdom: Promethazine is available over the counter.\n*Italy: Promethazine is available over the counter, both as a cream and as a syrup in combination with paracetamol and DXM.\n*The Netherlands: Promethazine is available through a prescription.\n\nSee also\n\n*Responsible use\n\nExternal links\n\n*Promethazine (Wikipedia)\n*Promethazine (Erowid Vault)\n*Promethazine (Isomer Design)\n*Promethazine (DrugBank)\n\nLiterature\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Proofread\nCategory:Approval\nCategory:Deliriant",
+ "wikitext": "{{headerpanel|{{Approval}}{{PromethazineOD}}}}\n{{SummarySheet}}\n{{SubstanceBox/Promethazine}}\n\n'''Promethazine''' (commonly sold as '''Phenergan''' or '''Lergigan''') is a [[psychoactive class::depressant]] substance of the [[chemical class::phenothiazine]] class. Alongside codeine, it is popularly known as one of the active two ingredients in \"lean\". It acts as an [[antihistamine]].\n\nPromethazine was developed in the mid-1940s by French chemists.<ref name=\"Li2006\">{{cite book | vauthors=((Li, J. J.)) | date= 2006 | title=Laughing gas, Viagra, and Lipitor: the human stories behind the drugs we use | publisher=Oxford University Press | isbn=9780195300994}}</ref> Today, it is available in many countries under many brand names. \n\n[[Subjective effects]] include [[muscle relaxation]], [[nausea suppression]], and strong [[sedation]]. It also reduces motion sickness and has anticholinergic properties.\n\nPromethazine has been shown to have quality [[hypnotic]] effects and is sometimes used for this purpose.<ref>{{cite journal | vauthors=((Adam, K.)), ((Oswald, I.)) | journal=British Journal of Clinical Pharmacology | title=The hypnotic effects of an antihistamine: promethazine. | volume=22 | issue=6 | pages=715–717 | date= December 1986 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.1986.tb02962.x | issn=03065251 | doi=10.1111/j.1365-2125.1986.tb02962.x}}</ref>\n\nIt is highly advised to use harm reduction practices if using this substance.\n\n==History and culture==\n{{historyStub}}\nPromethazine was developed in the mid-1940s when a team of scientists from Rhône-Poulenc laboratories was able to synthesize it from phenothiazine and a diamine side chain of diphenhydramine.<ref name=\"Li2006\" /> It was previously used as an antipsychotic, although it is generally not administered for this purpose now. It has approximately 1/10 of the antipsychotic strength of chlorpromazine.\n\nIt became popular among the Houston rap and hip-hop scene in around 1990<ref>{{cite book | vauthors=((Palmer, T.)) | date= 2005 | title=Country fried soul: adventures in dirty south hip hop | publisher=Backbeat | isbn=9780879308575}}</ref>, and the trend resurfaced in around 2015 to 2016. Often, it was combined with the opiate drug [[codeine]] in a preparation called \"lean.\" Lean usually consists of ice, Sprite or a citrus soda, the promethazine/codeine cough syrup, and occasionally jolly ranchers for enhanced flavor. \n==Chemistry==\n{{chemistry}}\nPromethazine is a phenothiazine-based compound.\n==Pharmacology==\n{{pharmacology}}\nPromethazine is a direct antagonist of histamine H1 receptors, whereas [[diphenhydramine]] is an inverse agonist. It is also an antagonist of muscarinic acetylcholine receptors, which is likely the cause of sedation and delirium that occurs with higher doses. It blocks dopaminergic D2 receptors, but weakly. {{citation needed}}\n==Subjective effects==\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' - Promethazine causes pronounced sedation and a general feeling of slowness, usually with the feeling of not wanting to move, this effect is normally considerably stronger than Diphenhydramine or Doxylamine and it is generally considered to be one of the most sedating antihistamines due to its high anticholinergic, H1 antagonist and weak D2 antagonist activity.\n\n*'''[[Effect::Muscle relaxation]]'''\n**'''[[Effect::Physical euphoria]]''' - This can lead to a very pleasant feeling of the entire body relaxing, feeling like warm gel. It is similar to but distinct from an [[opioid]]'s physical euphoria. {{citation needed}}\n\n*'''[[Effect::Increased heart rate]]''' and '''[[Effect::increased blood pressure]]'''<ref name=\"Tsay2015\">{{cite journal | vauthors=((Tsay, M. E.)), ((Procopio, G.)), ((Anderson, B. D.)), ((Klein-Schwartz, W.)) | journal=Journal of Addiction Medicine | title=Abuse and Intentional Misuse of Promethazine Reported to US Poison Centers: 2002 to 2012 | volume=9 | issue=3 | pages=233–237 | date= June 2015 | issn=1935-3227 | doi=10.1097/ADM.0000000000000124}}</ref> - Anticholinergic activity at muscarinic acetylcholine receptors causes these effects.\n\n*'''[[Effect::Abnormal heartbeat]]''' - This effect is exceptionally rare.\n\n*'''[[Effect::Nausea suppression]]''' - Promethazine is used to treat motion sickness or nausea.\n\n*'''[[Effect::Dry mouth]]''' - This is a common side effect of this substance.\n\n*'''[[Effect::Difficulty urinating]]''' - This side effect is uncommon.\n\n}}\n\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]''' - Usually, promethazine acts as an [[anxiolytic|anti-anxiety]] agent.\n\n*'''[[Effect::Anxiety]]''' -  Promethazine can occasionaly cause paranoia and Anxiety due to delirium although it is rarer than that of Diphenhydramine, Doxylamine and chlorpheniramine.\n\n*'''[[Effect::Euphoria]]''' - Usually, promethazine causes minimal euphoria normally only in anxious individuals and can even be dysphoric, however when used at low doses and combined with an opioid such as codeine, oxycodone or hydrocodone, it can effectively potentiate the euphoric effect and allow for a lower opioid dose.\n\n*'''[[Effect::Emotion suppression]]''' - This effect is mild and occurs due to the mild weak antipsycotic effect, however much weaker than that of chlorpromazine or prochlorperazine.{{citation needed}}\n\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others.\n\n*'''[[Effect::Sleepiness]]''' -  Feelings of physical exhaustion and tiredness are a common and pronounced effect of promethazine. The substance is therefore used to treat insomnia and abnormal sleep cycles.\n\n*'''[[Effect::Delirium]]''' and '''[[Effect::Confusion|confusion]]'''<ref name=\"Tsay2015\"/> -  In low to moderate doses, promethazine presents a harmless sense of being confused or delirious. In high doses and overdose, it can become (but rarely does) so severe that the patient or user experiences excited delirium, a state of severe agitation and confusion.\n\n}}\n\n{{effects/visual|\n\n====Distortions====\n\n*'''[[Effect::Depth perception distortions]]''' - This side effect is uncommon.\n\n====Hallucinatory states====\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - The threshold for hallucinations on promethazine is higher than other 1st generation antihistamines like diphenhydramine and doxylamine, occurs mainly heavy doses and can be difficult to reach due to the user likely falling asleep before they can reach delirium, as promethazine is extremely sedating at high doses. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, controllable or autonomous in controllability and solid in style. The most common themes for these hallucinations include those of both everyday occurrences such as smoking phantom cigarettes, talking to people who are not there, seeing and feeling insects and immersion in sinister or nightmarish experiences.\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - Relative to other [[hallucinogens]], this effect occurs briefly and spontaneously at moderate doses but becomes progressively extended in its occurrence and duration proportional to dosage before eventually becoming all-encompassing. It can be comprehensively described through its [[Visual_effects:_Internal_hallucinations#Variations|variations]] as delirious in believability, interactive in style, equal in new experiences and memory replays in content, autonomous in controllability and solid in style. [[Internal hallucinations]] may occur at lighter dosages than needed to cause [[external hallucinations]] and [[delirium]].\n*'''[[Effect::Peripheral information misinterpretation]]'''\n*'''[[Effect::Shadow people]]'''\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Unspeakable horrors]]'''\n*'''[[Effect::Object activation]]'''\n\n}}\n\n{{effects/aftereffects|\n\n*'''[[Effect::Sleepiness]]''' \n\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Promethazine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Promethazine.shtml Erowid Experience Vaults: Promethazine]\n\n==Toxicity and harm potential==\n{{toxicity}}\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance. \n===Lethal dosage===\nThe lowest published toxic dose of promethazine in humans ([[oral]]) is 3.5 mg/kg. This means that a person weighing 70 kg can show signs of toxicity at 245 mg. The [[LD50]] of promethazine in mice ([[oral]]) is 255 mg/kg. If applied to humans, this suggests that 50% of people weighing 70 kg would die after consuming 17.85 grams of promethazine. <ref>https://www.caymanchem.com/msdss/16478m.pdf</ref>\n\n===Tolerance and addiction potential===\nPromethazine is not addictive.\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\nPromethazine, because of its extensive pharmacology, has many interactions. According to the interactions checker on [https://www.drugs.com| Drugs.com], promethazine is known to interact with over 1000 other prescription and OTC drugs.\n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should try to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dopamine|Anti-dopaminergics]]''' - Because promethazine also blocks dopamine receptors, other drugs and substances that do this will increase the chances of developing acute or tardive dyskinesia, neuroleptic malignant syndrome, or parkinsonism. {{citation needed}}\n*'''[[Acetylcholine|Anticholinergics]]''' - Promethazine with anticholinergics (or antimuscarinics) can cause increased blocking of acetylcholine, being potentially dangerous with cardiovascular effects as well as delirium. {{citation needed}}\n*'''[[Stimulants]]''' - Due to promethazine's excitatory cardiac effect, combining it with stimulants poses a risk of an abnormal heart rhythm, severe tachycardia, or a heart attack as well as other cardiovascular events.\n\n==Legal status==\n*'''Austria''': Promethazine is no longer marketed or available by standard prescription. Personal import from Germany or another EEA country may be possible through an Austrian pharmacy.<ref>https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-02-11&Gesetzesnummer=20006868&Paragraf=11</ref>\n*'''Germany''': Promethazine is available through a prescription.<ref>BfArM. \nhttps://www.bfarm.de/SharedDocs/Downloads/DE/Arzneimittel/Pharmakovigilanz/Gremien/Verschreibungspflicht/82Sitzung/anlage8.pdf?__blob=publicationFile\n\n& \n\nhttps://www.gesetze-im-internet.de/amvv/anlage_1.html</ref>\n\n*'''Russia''': Promethazine is available through a prescription.{{citation needed}}\n\n*'''United States''': Promethazine is available through a prescription.<ref>FDA. Promethazine Monograph. https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/07935s030lbl.pdf</ref>\n\n*'''Canada''': Promethazine is available over the counter.{{citation needed}}\n*'''Japan''': Promethazine is available through a prescription.{{citation needed}}\n*'''Australia''': Promethazine is available over the counter.{{citation needed}}\n*'''United Kingdom''': Promethazine is available over the counter.{{citation needed}}\n*'''Italy''': Promethazine is available over the counter, both as a cream and as a syrup in combination with paracetamol and DXM.{{citation needed}}\n*'''The Netherlands''': Promethazine is available through a prescription.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n\n==External links==\n\n*[[wikipedia:Promethazine|Promethazine (Wikipedia)]]\n*[https://www.erowid.org/pharms/promethazine/ Promethazine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9438 Promethazine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01069 Promethazine (DrugBank)]\n\n==Literature==\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Proofread]]\n[[Category:Approval]]\n[[Category:Deliriant]]"
+}

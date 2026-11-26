@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13735",
+ "type": "substance-summary",
+ "title": "4-HO-MPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-HO-MPT/Summary",
+  "pageid": 13735,
+  "last_edited": "2017-01-18T01:46:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-HO-MPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-HO-MPT}}"
+}

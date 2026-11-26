@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17499",
+ "type": "substance-summary",
+ "title": "Cannabidiol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cannabidiol/Summary",
+  "pageid": 17499,
+  "last_edited": "2019-06-05T20:25:22Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Cannabidiol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Cannabidiol}}"
+}

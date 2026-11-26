@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13277",
+ "type": "substance-summary",
+ "title": "Pethidine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pethidine/Summary",
+  "pageid": 13277,
+  "last_edited": "2016-11-16T23:16:41Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Pethidine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Pethidine}}"
+}

@@ -1,0 +1,483 @@
+{
+ "id": "psychonautwiki:13354",
+ "type": "substance",
+ "title": "Methylnaphthidate",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methylnaphthidate",
+  "pageid": 13354,
+  "last_edited": "2024-04-21T23:45:52Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Turkish-language sources (tr)",
+  "Phenidate",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Methylnaphthidate",
+ "substance_box": {
+  "names": {
+   "common": "Methylnaphthidate, HDMP-28",
+   "substitutive": "Methylnaphthidate",
+   "systematic": "Methyl (naphthalen-2-yl)(piperidin-2-yl)acetate"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Phenidate"
+  },
+  "routes_of_administration": {
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< 4 mg",
+    "light": "4 - 8 mg",
+    "common": "8 - 14 mg",
+    "strong": "14 - 28 mg",
+    "heavy": "28 mg +",
+    "duration": "90 - 180 minutes",
+    "onset": "3 - 6 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 2 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "2 - 5 hours",
+    "onset": "1 - 10 minutes",
+    "peak": "1.5 - 2 hours",
+    "offset": "1.5 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Methylnaphthidate",
+    "HDMP-28"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Phenidate"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "4"
+   ],
+   "Insufflated max light dose": [
+    "8"
+   ],
+   "Insufflated min common dose": [
+    "8"
+   ],
+   "Insufflated max common dose": [
+    "14"
+   ],
+   "Insufflated min strong dose": [
+    "14"
+   ],
+   "Insufflated max strong dose": [
+    "28"
+   ],
+   "Insufflated heavy dose": [
+    "28"
+   ],
+   "Insufflated min total time": [
+    "90"
+   ],
+   "Insufflated max total time": [
+    "180"
+   ],
+   "Insufflated total time units": [
+    "minutes"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "6"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "2"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "2"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "2"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "4"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "50"
+   ],
+   "Oral heavy dose": [
+    "50"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "1"
+   ],
+   "Oral max onset time": [
+    "10"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1.5"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Methylnaphthidate",
+   "clean": "Molecular structure of Methylnaphthidate"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Methylnaphthidate.svg",
+   "clean": "File:Methylnaphthidate.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Methylnaphthidate]], [[common name::HDMP-28]]",
+   "clean": "Methylnaphthidate, HDMP-28"
+  },
+  "NameSubstitution": {
+   "raw": "Methylnaphthidate",
+   "clean": "Methylnaphthidate"
+  },
+  "NameSystematic": {
+   "raw": "Methyl (naphthalen-2-yl)(piperidin-2-yl)acetate",
+   "clean": "Methyl (naphthalen-2-yl)(piperidin-2-yl)acetate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenidate]]",
+   "clean": "Phenidate"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< 4 [[Insufflated dose units::mg]]",
+   "clean": "< 4 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::4]] - [[Insufflated max light dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::8]] - [[Insufflated max common dose::14]] mg",
+   "clean": "8 - 14 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::14]] - [[Insufflated max strong dose::28]] mg",
+   "clean": "14 - 28 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::28]] mg +",
+   "clean": "28 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::90]] - [[Insufflated max total time::180]] [[Insufflated total time units::minutes]]",
+   "clean": "90 - 180 minutes"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::6]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 6 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::2]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::2]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::2]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::4]] [[Oral dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::1]] - [[Oral max onset time::10]] [[Oral onset time units::minutes]]",
+   "clean": "1 - 10 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1.5]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "Methylnaphthidate (also known as HDMP-28) is a novel synthetic stimulant substance of the substituted phenidate chemical class. It is a structural analog of the commonly prescribed ADHD drug methylphenidate (e.g. Ritalin, Concerta) that produces moderately stimulating effects when administered.\n\nLike members of the phenidate class, methylnaphthidate is believed to act as a monoamine reuptake inhibitor. However, it has been reported to display distinct differences in its subjective effects by not behaving as a traditional dopaminergic stimulant. This has been speculated to owe itself to its appreciable effects on serotonin reuptake inhibition that is not observed in typical methylphenidate analogs.\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of methylnaphthidate, and it has little history of human usage. It is sometimes commercially distributed as a grey-area research chemical by online vendors alongside other methylphenidate analogs like ethylphenidate, isopropylphenidate, and 4F-MPH. It is highly advised to approach this and poorly understood stimulant substance with the proper amount of precaution and harm reduction practices if choosing to use it.\n\nChemistry\n\nThe main structural differences between methylnaphthidate and methylphenidate in chemical substance is the replacement of the core phenyl ring with with a napthalene group.\n\nPharmacology\n\nMethylnaphthidate is thought to act primarily as a monoamine triple reuptake inhibitor, meaning it effectively elevates the levels of dopamine, noradrenaline and serotonin neurotransmitters throughout the brain and CNS by binding to and partially blocking the transporter proteins that normally clear out these monoamines from the synaptic cleft. This allows these molecules to accumulate throughout the brain, particularly within the reward pathways in the brain, resulting in stimulating and euphoric effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Methylnaphthidate\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational methylnaphthidate use do not seem to have been studied in any scientific context and the exact toxic and lethal dosages are unknown. This is because methylnaphthidate is a research chemical with very little history of human usage. Anecdotal evidence from people who have tried methylnaphthidate suggests that there are no negative health effects attributed to simply trying the drug by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). Independent researchshould always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nIn terms of its tolerance, methylnaphthidate can be used multiple days in a row for extended periods of time, but acute tolerance does exist and builds up gradually over repeated extended use. This results in the user requiring an increase in dosage to achieve the same effects.\n\nWhile generally considered less recreational, methylnaphthidate has potential for abuse on par with that of amphetamine, cocaine or methylphenidate due to its lack of significant tolerance, euphoric effects and action upon dopamine and serotonin transporters.\n\nDangerous interactions\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*Cocaine - This combination may synergistically increase strain on the heart to dangerous degrees.\n\nLegal status\n\n*Germany: HDMP-28 is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: HDMP-28 is a controlled substance specifically named under Verzeichnis E. It was added to the list of controlled substances in December 2015.\n*Turkey: HDMP-28 is illegal in Turkey as of February 2016.\n*United Kingdom: HDMP-28 is a class B drug in the UK as of 31st May 2017 and is illegal to possess, produce or supply. \n*United States: HDMP-28 is not explicitly controlled in the US, but it could possibly be considered an analog of a Schedule II substance (methylphenidate) under the Federal Analog Act.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Methylphenidate\n*Ethylphenidate\n*Isopropylphenidate\n\nExternal links\n\n*HDMP-28 (Wikipedia)\n*HDMP-28 (Isomer Design)\n*HDMP-28 (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Phenidate\nCategory:Stimulant\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Methylnaphthidate}}\n\n'''Methylnaphthidate''' (also known as '''HDMP-28''') is a novel synthetic [[psychoactive class::stimulant]] substance of the substituted [[chemical class::phenidate]] chemical class. It is a structural analog of the commonly prescribed ADHD drug [[methylphenidate]] (e.g. ''Ritalin'', ''Concerta'') that produces moderately [[stimulating]] effects when [[Routes of administration|administered]].\n\nLike members of the [[phenidate]] class, methylnaphthidate is believed to act as a [[monoamine]] [[reuptake inhibitor]].{{citation needed}} However, it has been reported to display distinct differences in its subjective effects by not behaving as a traditional [[dopaminergic]] [[stimulant]]. This has been speculated to owe itself to its appreciable effects on [[serotonin]] reuptake inhibition that is not observed in typical methylphenidate analogs.{{citation needed}}\n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of methylnaphthidate, and it has little history of human usage. It is sometimes commercially distributed as a grey-area [[research chemical]] by online vendors alongside other [[methylphenidate]] analogs like [[ethylphenidate]], [[isopropylphenidate]], and [[4F-MPH]]. It is highly advised to approach this and poorly understood stimulant substance with the proper amount of precaution and [[harm reduction practices]] if choosing to use it.\n\n==Chemistry==\n{{chemistry}}\nThe main structural differences between methylnaphthidate and [[methylphenidate]] in chemical substance is the replacement of the core phenyl ring with with a napthalene group.\n\n==Pharmacology==\nMethylnaphthidate is thought to act primarily as a [[monoamine]] triple [[reuptake inhibitor]], meaning it effectively elevates the levels of [[dopamine]], [[noradrenaline]] and [[serotonin]] [[neurotransmitters]] throughout the brain and CNS by binding to and partially blocking the transporter proteins that normally clear out these monoamines from the synaptic cleft. This allows these molecules to accumulate throughout the brain, particularly within the reward pathways in the brain, resulting in stimulating and euphoric effects.\n\n==Subjective effects==\n{{EffectStub}}\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Increased heart rate]]''' - This component has been reported by some as being uniquely pronounced in the -phenidate family. These effects might owe themselves to increased free-circulating serotonin in the blood, which would lead to sustained agonism at Serotonin-2B receptors on the heart. \n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be present, but less intense when compared with that of [[MDMA]].\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n}}\n|{{effects/cognitive|\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate dosages as anything higher will usually impair concentration.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Cognitive euphoria|Euphoria]]''' - The euphoric rush associated with methylnaphthidate use (as result of [[dopamine]] [[reuptake inhibition]]) is very short-lived and compulsive, similar to that of [[cocaine]].\n*'''[[Effect::Cognitive fatigue]]''' - This component can occur during the offset of this compound as a rebound effect which is usually equal in its intensity to the enhancements which occurred before it.\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n\n}}\n\n\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_HDMP28.shtml Erowid Experience Vaults: Methylnaphthidate]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational methylnaphthidate use do not seem to have been studied in any scientific context and the exact toxic and lethal dosages are unknown. This is because methylnaphthidate is a [[research chemical]] with very little history of human usage. Anecdotal evidence from people who have tried methylnaphthidate suggests that there are no negative health effects attributed to simply trying the drug by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). [https://www.google.com Independent research]should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nIn terms of its tolerance, methylnaphthidate can be used multiple days in a row for extended periods of time, but acute tolerance does exist and builds up gradually over repeated extended use. This results in the user requiring an increase in dosage to achieve the same effects.\n\nWhile generally considered less recreational, methylnaphthidate has potential for abuse on par with that of [[amphetamine]], [[cocaine]] or [[methylphenidate]] due to its lack of significant tolerance, euphoric effects and action upon [[dopamine]] and [[serotonin]] transporters.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=Methylnaphthidate}}\n{{DangerousInteractions/MAOI|nt=serotonin}}\n*'''[[DangerousInteraction::MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with other stimulants.\n*'''[[DangerousInteraction::Cocaine]]''' - This combination may synergistically increase strain on the heart to dangerous degrees.\n\n==Legal status==\n*'''Germany''': HDMP-28 is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 24, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 24, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 24, 2019|language=de}}</ref>\n*'''Switzerland''': HDMP-28 is a controlled substance specifically named under Verzeichnis E. It was added to the list of controlled substances in December 2015.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': HDMP-28 is illegal in Turkey as of February 2016.<ref>{{cite web|url=https://www.resmigazete.gov.tr/eskiler/2016/03/20160308-4.pdf|publisher=Resmi Gazete |access-date=January 15, 2020|language=tr|title=Karar Sayısı : 2016/8548}}</ref>\n*'''United Kingdom''': HDMP-28 is a class B drug in the UK as of 31st May 2017 and is illegal to possess, produce or supply. <ref>The Misuse of Drugs Act 1971 (Amendment) Order 2017 (Legislation.gov.uk) | http://www.legislation.gov.uk/uksi/2017/634/made</ref>\n*'''United States''': HDMP-28 is not explicitly controlled in the US, but it could possibly be considered an analog of a Schedule II substance (methylphenidate) under the Federal Analog Act.\n\n==See also==\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Methylphenidate]]\n*[[Ethylphenidate]]\n*[[Isopropylphenidate]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/HDMP-28 HDMP-28 (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=10861 HDMP-28 (Isomer Design)]\n*[http://bluelight.org/vb/threads/492618-HDMP-28-or-methylnaphthidate HDMP-28 (Bluelight)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Phenidate]]\n[[Category:Stimulant]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

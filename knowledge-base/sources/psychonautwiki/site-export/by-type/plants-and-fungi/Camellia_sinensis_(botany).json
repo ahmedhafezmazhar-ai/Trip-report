@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11567",
+ "type": "plants-and-fungi",
+ "title": "Camellia sinensis (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Camellia_sinensis_%28botany%29",
+  "pageid": 11567,
+  "last_edited": "2025-11-29T04:22:10Z"
+ },
+ "categories": [
+  "Plant",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Camellia sinensis (Wikipedia)\n* Tea (Erowid Vault)\n\nCategory:Plant",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Camellia sinensis}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Camellia_sinensis ''Camellia sinensis'' (Wikipedia)]\n* [https://www.erowid.org/plants/tea/ ''Tea'' (Erowid Vault)]\n\n[[Category:Plant]]"
+}

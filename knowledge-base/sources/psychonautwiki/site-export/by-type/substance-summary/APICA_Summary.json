@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17498",
+ "type": "substance-summary",
+ "title": "APICA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/APICA/Summary",
+  "pageid": 17498,
+  "last_edited": "2019-06-05T20:19:21Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "APICA",
+ "plain_text": "",
+ "wikitext": "{{Summary|APICA}}"
+}

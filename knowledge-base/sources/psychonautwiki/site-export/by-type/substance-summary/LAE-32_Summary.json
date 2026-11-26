@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19559",
+ "type": "substance-summary",
+ "title": "LAE-32/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/LAE-32/Summary",
+  "pageid": 19559,
+  "last_edited": "2021-09-28T21:14:08Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "LAE-32",
+ "plain_text": "",
+ "wikitext": "{{Summary|LAE-32}}"
+}

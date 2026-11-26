@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14714",
+ "type": "substance-summary",
+ "title": "Nitrous/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Nitrous/Summary",
+  "pageid": 14714,
+  "last_edited": "2017-06-16T04:05:33Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Nitrous",
+ "plain_text": "",
+ "wikitext": "{{Summary|Nitrous}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:21295",
+ "type": "substance-summary",
+ "title": "Estradiol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Estradiol/Summary",
+  "pageid": 21295,
+  "last_edited": "2023-10-10T11:41:01Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Estradiol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Estradiol}}"
+}

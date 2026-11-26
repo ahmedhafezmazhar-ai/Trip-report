@@ -1,0 +1,1085 @@
+{
+ "id": "psychonautwiki:4566",
+ "type": "substance",
+ "title": "GHB",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/GHB",
+  "pageid": 4566,
+  "last_edited": "2026-10-16T00:24:00Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 errors: DOI",
+  "Depressant",
+  "Gamma-Hydroxy acid",
+  "Neurotransmitter",
+  "Pages with citations using unsupported parameters"
+ ],
+ "substance_box_template": "SubstanceBox/GHB",
+ "substance_box": {
+  "names": {
+   "common": "GHB, G, Xyrem, Sodium oxybate",
+   "substitutive": "gamma-Hydroxybutyric acid",
+   "systematic": "4-Hydroxybutanoic acid"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "γ-Hydroxy acid"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "With GHB, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute the GHB heavily in liquid and not drink the entire dose all at once. A dose of 4g or higher can result in convulsions, unconsciousness and vomiting while 10g+ can be fatal. Combining GHB with other depressants is extremely dangerous.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.5 g",
+    "light": "0.5 - 1 g",
+    "common": "1 - 2.5 g",
+    "strong": "2.5 - 4 g",
+    "heavy": "4 g + Warning: Risk of death above 10 g",
+    "duration": "1.5 - 2.5 hours",
+    "onset": "5 - 30 minutes",
+    "comeup": "10 - 20 minutes",
+    "peak": "45 - 90 minutes",
+    "offset": "15 - 30 minutes",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "GHB",
+    "G",
+    "Xyrem",
+    "Sodium oxybate"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "γ-Hydroxy acid"
+   ],
+   "Oral threshold dose": [
+    "0.5"
+   ],
+   "Oral dose units": [
+    "g"
+   ],
+   "Oral min light dose": [
+    "0.5"
+   ],
+   "Oral max light dose": [
+    "1"
+   ],
+   "Oral min common dose": [
+    "1"
+   ],
+   "Oral max common dose": [
+    "2.5"
+   ],
+   "Oral min strong dose": [
+    "2.5"
+   ],
+   "Oral max strong dose": [
+    "4"
+   ],
+   "Oral heavy dose": [
+    "4"
+   ],
+   "Oral min total time": [
+    "1.5"
+   ],
+   "Oral max total time": [
+    "2.5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "5"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "10"
+   ],
+   "Oral max comeup time": [
+    "20"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "45"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "15"
+   ],
+   "Oral max offset time": [
+    "30"
+   ],
+   "Oral offset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "4"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Chemical structure of GHB",
+   "clean": "Chemical structure of GHB"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:GHB.svg",
+   "clean": "File:GHB.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::GHB]], [[common name::G]], [[common name::Xyrem]], [[common name::Sodium oxybate]]",
+   "clean": "GHB, G, Xyrem, Sodium oxybate"
+  },
+  "NameSubstitution": {
+   "raw": "gamma-Hydroxybutyric acid",
+   "clean": "gamma-Hydroxybutyric acid"
+  },
+  "NameSystematic": {
+   "raw": "4-Hydroxybutanoic acid",
+   "clean": "4-Hydroxybutanoic acid"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::γ-Hydroxy acid]]",
+   "clean": "γ-Hydroxy acid"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "<br><span style=\"color:red\">'''With GHB, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute the GHB heavily in liquid and not drink the entire dose all at once.</span> A dose of 4g or higher can result in convulsions, unconsciousness and vomiting while 10g+ can be fatal.<ref name=\"ErowidGHBVault\">{{Citation | title=Erowid GHB Vault : Dosage | url=https://www.erowid.org/chemicals/ghb/ghb_dose.shtml}}</ref>''' [[GHB#Dangerous_interactions|Combining GHB with other depressants is extremely dangerous.]]",
+   "clean": "With GHB, it is important to increase the dosage in small increments and work your way up slowly. Users should dilute the GHB heavily in liquid and not drink the entire dose all at once. A dose of 4g or higher can result in convulsions, unconsciousness and vomiting while 10g+ can be fatal. Combining GHB with other depressants is extremely dangerous."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.5]] [[Oral dose units::g]]",
+   "clean": "0.5 g"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.5]] - [[Oral max light dose::1]] g",
+   "clean": "0.5 - 1 g"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1]] - [[Oral max common dose::2.5]] g",
+   "clean": "1 - 2.5 g"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::2.5]] - [[Oral max strong dose::4]] g",
+   "clean": "2.5 - 4 g"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::4]] g + <span style=\"color:red\">'''Warning: Risk of death above 10 g<ref name=\"ErowidGHBVault\">{{Citation | title=Erowid GHB Vault : Dosage | url=https://www.erowid.org/chemicals/ghb/ghb_dose.shtml}}</ref>'''</span>",
+   "clean": "4 g + Warning: Risk of death above 10 g"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1.5]] - [[Oral max total time::2.5]] [[Oral total time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::5]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "5 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::10]] - [[Oral max comeup time::20]] [[Oral comeup time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::45]] - [[Oral max peak time::90]] [[Oral peak time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::15]] - [[Oral max offset time::30]] [[Oral offset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::4]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "gamma-Hydroxybutyric acid (also known as 4-hydroxybutanoic acid and GHB) is a depressant substance. It is found naturally as a neurotransmitter and is also a precursor to GABA, glutamate, and glycine in certain brain areas. It acts on the GHB receptor and is a weak agonist at the GABAB receptor. \n\nGHB as the sodium salt, known by the trade name Xyrem, is a prescription sleep-aid which is used to treat various medical conditions such as cataplexy and excessive daytime sleepiness in patients with narcolepsy. It has also been used in a medical setting as a general anesthetic to treat conditions such as insomnia, clinical depression, and alcoholism, and to improve athletic performance. \n\nGHB is used as a recreational substance for its alcohol-like effects. While a common recreational dose is between 1.5 - 2.5 grams, a dose between 2.5 grams and 5 grams will likely result in falling asleep within 5 - 15 minutes, and a dose of 5 - 10 grams can result in convulsions, unconsciousness (a coma-like state) and vomiting. Doses above 10 grams are associated with a risk of death. Do not confuse grams with milliliters (the density of GHB is aproximately 1.2g/ml ). If consuming GHB that has already been premixed into a liquid form, additional caution is required as there is no way to know for sure the concentration of the solution (e.g. how many grams of GHB is in each mL of solution). As such, users are advised to start with a low dose and work their way up slowly by increasing the dose in small increments. However, an appropriate interval between dosing is essential to avoid accidental overdose.\n\nGHB, along with GBL, has acquired a reputation as a \"date rape drug,\" in which it is purportedly secretly placed into alcoholic drinks. There is very limited evidence to suggest that this actually happens but care should always be taken when accepting drinks from strangers.\n\nChemistry\n\nGHB, or gamma-Hydroxybutanoic acid, is a carboxylic acid substituted with an additional hydroxy group. GHB contains a four carbon chain with a terminal carbon bonded to a hydroxy group (OH-) and double bonded to an oxygen group to form a carboxyl unit; this is butanoic acid. At the other end of the four carbon change at Rγ, GHB is substituted with a hydroxy group.\n\nGHB is found naturally in the human central nervous system as well as in wine, beef, some citrus fruits, and in almost all animals (in small amounts). \n\nPharmacology\n\nGHB has at least two distinct binding sites in the central nervous system. GHB is an agonist at the newly characterized GHB receptor, which is excitatory. It is also a weak agonist at the GABAB receptor, which is inhibitory.\n\nHowever, at therapeutic doses, GHB reaches much higher concentrations in the brain and activates GABAB receptors, which are primarily responsible for its sedative effects. GHB's sedative effects are blocked by GABAB antagonists. As the GABA system is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of GHB on the nervous system. While research into the GHB receptor is limited, there is evidence that activation of the GHB receptor in some brain areas results in the release of glutamate, the principal excitatory neurotransmitter. Drugs that selectively activate the GHB receptor cause absence seizures in high doses, as do GHB and GABAB agonists.\n\nActivation of both the GHB receptor and GABAB is responsible for the addictive profile of GHB. GHB's effect on dopamine release is biphasic. This means that while low concentrations stimulate dopamine release via the GHB receptor, higher concentrations inhibit dopamine release via GABAB receptors. After an initial phase of inhibition, dopamine release is then increased via the GHB receptor. \n\nGHB induces the accumulation of either a derivative of tryptophan or tryptophan itself, possibly by increasing tryptophan transport across the blood–brain barrier. GHB-induced stimulation may be due to this increase in tryptophan transport to the brain and in its uptake by serotonergic cells. As the serotonergic system may be involved in the regulation of sleep, mood, and anxiety, the stimulation of this system by high doses of GHB may be involved in certain neuropharmacological events induced by GHB administration.\n\nThese findings may explain the paradoxical mix of sedative and stimulatory properties of GHB as well as the so-called \"rebound\" effect reported by individuals using GHB as a sleeping agent wherein they awake suddenly after several hours of GHB-induced deep sleep. Over time, the concentration of GHB in the system decreases below the threshold for significant GABAB receptor activation and activates predominantly the GHB receptor, leading to wakefulness.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: GHB\n\nToxicity and harm potential\n\nthumb|upright=1.35|Table from the 2010 [[DrugScience study ranking various drugs (legal and illegal) based on statements by drug-harm experts. GHB was found to be the ninth overall most dangerous drug.]]\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of GHB\n\nGHB is considered to be a safe and non-toxic substance when used responsibly or medically. The LD50 is above the active dosage, and there is no danger of acute toxicity. However, it can become dangerous when used as a recreational drug or abused. There have been many negative reports from recreational users who have overdosed, combined GHB with alcohol or other drugs, or accidentally dosed themselves unexpectedly. \n\nOne publication investigated 226 deaths attributed to GHB. Seventy-one deaths (34%) were caused by GHB alone while the other deaths were from respiratory depression caused by interaction with alcohol or other drugs.\n\nAs an endogenous regulator of energy metabolism and a natural neurotransmitter, GHB is well-known to the brain and organs which are used to its effects and have highly efficient systems for metabolizing it safely. The substance is eliminated (that is, back to baseline levels) in 2-4 hours and continues to be so even after twice-daily doses for a week. In one European study, no adverse effects were reported after several years of regular recreational use. \n\nAccidental ingestions of GHB have also occurred due to inadequate storage methods. If GHB is put into a clear liquid, glass, or bottle, it can be easily mistaken for water. It is recommended to clearly label your GHB in writing and dye the liquid with blue food coloring so it no longer resembles a drinkable beverage. It is also recommended to store your GHB in a container that no one would drink out of.\n\nIt is recommended to dilute GHB with a non-alcoholic liquid in the ratio of at least 1:100 (e.g., 200ml of water for 2ml of GHB), in order to avoid potential burns to the intestines and mouth.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nNeurotoxicity\n\nA 2022 review compared 43 studies on GHB-induced cognitive impairment in humans and animals. The analysis suggests that moderate or clinical use may result in acute cognitive impairment. Working memory, short-term memory, and impaired performance on cognitive tasks were impaired after doses as low as 10mg/kg, but these effects appear to be temporary. Conversely, one study found that a dose of 20mg/kg improved social and non-social cognition, but did not affect base cognitive functions, such as visual or verbal memory recall. However, chronic heavy use of GHB, especially if accompanied by GHB-induced comas appear to cause long-term cognitive impairment and are likely neurotoxic.\n\nIn multiple studies, GHB has been found to impair spatial memory, working memory, learning and memory in rats with chronic administration. These effects are associated with decreased NMDA receptor expression in the cerebral cortex and possibly other areas as well.\n\nOne study found that repeated administration of GHB to rats for 15 days drastically reduced the number of neurons and non-neuronal cells within the hippocampus and in the prefrontal cortex. With doses of 10 mg/kg of GHB, they were decreased by 61% in the hippocampus region and 32% in the prefrontal cortex, and with 100 mg/kg, they were decreased by 38% and 9%, respectively. This paper demonstrates contradicting effects on neuronal loss, with lower doses (10 mg/kg) producing the most neurotoxicity, and higher doses (100 mg/kg) producing less.\n\nOverdose\n\nTo avoid a possible overdose of GHB, it is important to start with a low dose and work your way up slowly by increasing the dosage in small increments. While a common recreational dose is 2g, a dose of 5g - 10g can result in convulsions, unconsciousness and vomiting. Doses above 10 grams are associated with a risk of death. Recreational users must also consider the different potency of different GHB preparations available on the illicit market. Thus, even an experienced user should start with a lower than normal dose, if trying a new product for the first time.\n\nTolerance and addiction potential\n\n350px|thumbnail|right|This table compares the withdrawal symptoms of GHB, [[benzodiazepines, and alcohol.]]\nGHB is moderately to highly physically and moderately psychologically addictive. The frequent use of GHB can cause withdrawal symptoms similar to those caused by other depressants such as alcohol and benzodiazepines if abruptly discontinued. These symptoms seem to depend on the dosage and the length of time the drug was used for.  Light to moderate users often experience anxiety, insomnia, sleep-related problems, and tremors whereas heavy use can cause severe withdrawal symptoms like delirium, psychosis, and hallucinations.\n\nGHB, when used medicinally (two medicinal doses per day, four hours apart), creates little to no dependance while the more frequent one uses GHB, it causes exponentially more dependance and withdrawal symptoms.\n\nAlthough there have been reported fatalities due to GHB withdrawal, reports are inconclusive and further research is needed.\n\nTolerance will develop to the sedative-hypnotic effects within several days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction to minimize neurotoxicity from withdrawal. It is proposed that GHB and especially GBL can lead to dependence at a significantly faster rate than longer-acting depressants.\n\nGHB presents cross-tolerance with 1,4-Butanediol and GBL, since these act as prodrugs for GHB. Cross-tolerance with alcohol and baclofen has been shown in rats, and is likely with other GABAB-agonists.\n\nDangerous interactions\n\n*Nitrous - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*Amphetamines - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the GHB may overcome the patient and cause respiratory arrest.\n*MDMA - Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.\n*Cocaine - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the GHB may overcome the patient and cause respiratory arrest. Likewise the GHB can wear off and leave a dangerous concentration of Cocaine behind.\n*Ketamine - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.\n*MXE - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.\n*DXM - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict.\n*PCP - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*Alcohol - Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.\n*Opioids - The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.\n*Tramadol - The sedative effects of this combination can lead to dangerous respiratory depression.\n*Benzodiazepines - The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.\n\nLegal status\n\nIn 2001, GHB was placed under international control, in Schedule IV of the 1971 UN Convention on Psychotropic Substances.\n\n*Austria: GHB is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Australia: GHB, 1,4-B and GBL are all Class B illegal drugs, along with any possible esters, ethers and aldehydes.\n*Chile: GHB is a controlled drug under the law \"Ley de substancias psicotropicas y estupefacientes\" (psychotropic substances and narcotics).\n*Canada: GHB is controlled under Schedule I of the Controlled Drugs and Substances Act. Activities such as sale, possession and production of GHB are illegal, unless authorized for medical, scientific or industrial purposes.\n*Germany: GHB is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form. There is an exception for injection preperations, containing up to 20% or 2g GHB per unit, which are viewed as a regular medicine.\n*Italy: GHB is a schedule IV drug (Tabella 4) of the \"Testo unico sulla droga (D.P.R. 309/90)\". When prescribed for medical use it falls under Pharmaceuticals section B (Tabella medicinali sezione B).\n*Hong Kong: GHB is regulated under Schedule 1 of Hong Kong's Chapter 134 Dangerous Drugs Ordinance.\n*New Zealand: GHB, 1,4-B and GBL are all Class B illegal drugs, along with any possible esters, ethers and aldehydes.\n*Norway: GHB is considered a narcotic and is only available by prescription under the trade name Xyrem.\n*Romania: GHB is considered a Schedule I illegal drug.\n*Switzerland: GHB is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*United Kingdom: GHB was made a Class C drug in June 2003.\n*United States: GHB was placed on Schedule I of the Controlled Substances Act in March 2000. However, when sold as sodium oxybate, it is considered a Schedule III substance but with Schedule I trafficking penalties. It is one of several drugs that are listed in multiple schedules.\n\nSee also\n\n*Responsible use\n*1,4-Butanediol\n*Depressants\n*Alcohol\n*GBL\n\nExternal links\n\n*GHB (Wikipedia)\n*GHB (Erowid Vault)\n*GHB (Isomer Design)\n*GHB (Drugs-Forum)\n\nReferences\n\nCategory:Neurotransmitter\nCategory:Gamma-Hydroxy acid\nCategory:Depressant",
+ "wikitext": "{{headerpanel|{{DepressantOD|GABAergics}}}}\n{{SummarySheet}}\n{{SubstanceBox/GHB}}\n'''gamma-Hydroxybutyric acid''' (also known as '''4-hydroxybutanoic acid''' and '''GHB''') is a [[psychoactive class::depressant]] substance. It is found naturally as a [[neurotransmitter]] and is also a precursor to GABA, glutamate, and glycine in certain brain areas. It acts on the GHB receptor and is a weak agonist at the GABA<sub>B</sub> receptor. \n\nGHB as the sodium salt, known by the trade name Xyrem,<ref>http://www.reuters.com/finance/stocks/companyProfile?rpc=66&symbol=JAZZ.O</ref> is a prescription sleep-aid which is used to treat various medical conditions such as cataplexy<ref>{{Citation | title=Sodium Oxybate: MedlinePlus Drug Information | url=https://medlineplus.gov/druginfo/meds/a605032.html}}</ref> and excessive daytime sleepiness in patients with narcolepsy.<ref>{{Citation | vauthors=((Kluger, R.)), ((Mamelak, M.)) | title=Pharmaceutical composition and treatment of narcolepsy | url=https://patents.google.com/patent/US4738985A/en}}</ref> It has also been used in a medical setting as a general anesthetic to treat conditions such as insomnia, clinical depression, and alcoholism,<ref>{{Citation | vauthors=((Gessa, G. L.)), ((Fadda, F.)), ((Campochiaro, C. M. di)) | title=Use of gamma-hydroxybutyric acid salts for preparing pharmaceutical compositions for use in the treatment of alcoholism, and the compositions obtained | url=https://patents.google.com/patent/US4983632A/en}}</ref> and to improve athletic performance. \n\nGHB is used as a recreational substance for its alcohol-like effects. While a common recreational dose is between 1.5 - 2.5 grams, a dose between 2.5 grams and 5 grams will likely result in falling asleep within 5 - 15 minutes, and a dose of 5 - 10 grams can result in convulsions, unconsciousness (a coma-like state) and vomiting. Doses above 10 grams are associated with a risk of death.<ref name=\"ErowidGHBVault\">{{Citation | title=Erowid GHB Vault : Dosage | url=https://www.erowid.org/chemicals/ghb/ghb_dose.shtml}}</ref> Do not confuse grams with milliliters (the density of GHB is aproximately 1.2g/ml <ref>https://www.chemspider.com/Chemical-Structure.9984.html</ref>). If consuming GHB that has already been premixed into a liquid form, additional caution is required as there is no way to know for sure the concentration of the solution (e.g. how many grams of GHB is in each mL of solution). As such, users are advised to start with a low dose and work their way up slowly by increasing the dose in small increments. However, an appropriate interval between dosing is essential to avoid accidental overdose.\n\nGHB, along with [[GBL]], has acquired a reputation as a \"date rape drug,\" in which it is purportedly secretly placed into alcoholic drinks.{{citation needed}} There is very limited evidence to suggest that this actually happens but care should always be taken when accepting drinks from strangers.\n\n==Chemistry==\nGHB, or gamma-Hydroxybutanoic acid, is a carboxylic acid substituted with an additional hydroxy group. GHB contains a four carbon chain with a terminal carbon bonded to a hydroxy group (OH-) and double bonded to an oxygen group to form a carboxyl unit; this is butanoic acid. At the other end of the four carbon change at R<sub>γ</sub>, GHB is substituted with a hydroxy group.\n\nGHB is found naturally in the human central nervous system as well as in wine, beef, some citrus fruits, and in almost all animals (in small amounts).<ref>{{cite book | vauthors=((Weil, A.)), ((Rosen, W.)), ((Weil, A.)) | date= 1993 | title=From chocolate to morphine: everything you need to know about mind-altering drugs | publisher=Houghton Mifflin | edition=Rev. and updated | isbn=9780395660799}}</ref> \n\n==Pharmacology==\nGHB has at least two distinct binding sites<ref>{{cite journal | vauthors=((Mamelak, M.)) | journal=Neuroscience & Biobehavioral Reviews | title=Gammahydroxybutyrate: An endogenous regulator of energy metabolism | volume=13 | issue=4 | pages=187–198 | date=1 December 1989 | url=https://www.sciencedirect.com/science/article/pii/S0149763489800533 | issn=0149-7634 | doi=10.1016/S0149-7634(89)80053-3}}</ref> in the central nervous system. GHB is an [[agonist]] at the newly characterized GHB receptor, which is excitatory.<ref>{{cite journal | vauthors=((Wu, Y.)), ((Ali, S.)), ((Ahmadian, G.)), ((Liu, C. C.)), ((Wang, Y. T.)), ((Gibson, K. M.)), ((Calver, A. R.)), ((Francis, J.)), ((Pangalos, M. N.)), ((Carter Snead, O.)) | journal=Neuropharmacology | title=γ-Hydroxybutyric acid (GHB) and γ-aminobutyric acidB receptor (GABABR) binding sites are distinctive from one another: molecular evidence | volume=47 | issue=8 | pages=1146–1156 | date=1 December 2004 | url=https://www.sciencedirect.com/science/article/pii/S0028390804002527 | issn=0028-3908 | doi=10.1016/j.neuropharm.2004.08.019}}</ref><ref name=\"Maitre2005\">{{cite journal | vauthors=((Maitre, M.)), ((Humbert, J.-P.)), ((Kemmel, V.)), ((Aunis, D.)), ((Andriamampandry, C.)) | journal=médecine/sciences | title=Mécanismes d’action d’un médicament détourné : le γ-hydroxybutyrate | volume=21 | issue=3 | pages=284–289 | date=1 March 2005 | url=https://www.medecinesciences.org/articles/medsci/abs/2005/03/medsci2005213p284/medsci2005213p284.html | issn=0767-0974 | doi=10.1051/medsci/2005213284}}</ref> It is also a weak [[agonist]] at the [[GABA]]<sub>B</sub> receptor, which is inhibitory.<ref name=\"Maitre2005\" />\n\nHowever, at therapeutic doses, GHB reaches much higher concentrations in the brain and activates [[GABA]]<sub>B</sub> receptors, which are primarily responsible for its sedative effects.<ref name=\"Dimitrijevic2005\">{{cite journal | vauthors=((Dimitrijevic, N.)), ((Dzitoyeva, S.)), ((Satta, R.)), ((Imbesi, M.)), ((Yildiz, S.)), ((Manev, H.)) | journal=European Journal of Pharmacology | title=Drosophila GABAB receptors are involved in behavioral effects of γ-hydroxybutyric acid (GHB) | volume=519 | issue=3 | pages=246–252 | date=20 September 2005 | url=https://www.sciencedirect.com/science/article/pii/S0014299905007442 | issn=0014-2999 | doi=10.1016/j.ejphar.2005.07.016}}</ref> GHB's sedative effects are blocked by GABA<sub>B</sub> [[antagonists]]. As the [[GABA]] system is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of GHB on the nervous system. While research into the GHB receptor is limited, there is evidence that activation of the GHB receptor in some brain areas results in the release of [[glutamate]], the principal excitatory neurotransmitter.<ref name=\"Castelli2003\">{{cite journal | vauthors=((Castelli, M. P.)), ((Ferraro, L.)), ((Mocci, I.)), ((Carta, F.)), ((Carai, M. A. M.)), ((Antonelli, T.)), ((Tanganelli, S.)), ((Cignarella, G.)), ((Gessa, G. L.)) | journal=Journal of Neurochemistry | title=Selective γ-hydroxybutyric acid receptor ligands increase extracellular glutamate in the hippocampus, but fail to activate G protein and to produce the sedative/hypnotic effect of γ-hydroxybutyric acid: γ-Hydroxybutyric analogues on glutamate levels | volume=87 | issue=3 | pages=722–732 | date=19 September 2003 | url=http://doi.wiley.com/10.1046/j.1471-4159.2003.02037.x | issn=00223042 | doi=10.1046/j.1471-4159.2003.02037.x}}</ref> Drugs that selectively activate the GHB receptor cause absence seizures in high doses, as do GHB and [[GABA]]<sub>B</sub> agonists.<ref name=\"Castelli2003\" />\n\nActivation of both the GHB receptor and [[GABA]]<sub>B</sub> is responsible for the addictive profile of GHB. GHB's effect on [[dopamine]] release is biphasic.<ref name=\"Dimitrijevic2005\" /> This means that while low concentrations stimulate [[dopamine]] release via the GHB receptor,<ref>{{cite journal | vauthors=((Maitre, M.)), ((Hechler, V.)), ((Vayer, P.)), ((Gobaille, S.)), ((Cash, C. D.)), ((Schmitt, M.)), ((Bourguignon, J. J.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=A specific gamma-hydroxybutyrate receptor ligand possesses both antagonistic and anticonvulsant properties | volume=255 | issue=2 | pages=657–663 | date= November 1990 | issn=0022-3565}}</ref> higher concentrations inhibit [[dopamine]] release via [[GABA]]<sub>B</sub> receptors.<ref>{{cite journal | vauthors=((Smolders, I.)), ((De Klippel, N.)), ((Sarre, S.)), ((Ebinger, G.)), ((Michotte, Y.)) | journal=European Journal of Pharmacology | title=Tonic GABA-ergic modulation of striatal dopamine release studied by in vivo microdialysis in the freely moving rat | volume=284 | issue=1 | pages=83–91 | date=15 September 1995 | url=https://www.sciencedirect.com/science/article/pii/001429999500369V | issn=0014-2999 | doi=10.1016/0014-2999(95)00369-V}}</ref> After an initial phase of inhibition, [[dopamine]] release is then increased via the GHB receptor. \n\nGHB induces the accumulation of either a derivative of tryptophan or [[tryptophan]] itself, possibly by increasing tryptophan transport across the blood–brain barrier. GHB-induced stimulation may be due to this increase in tryptophan transport to the brain and in its uptake by serotonergic cells. As the [[Serotonin|serotonergic]] system may be involved in the regulation of sleep, mood, and anxiety, the stimulation of this system by high doses of GHB may be involved in certain neuropharmacological events induced by GHB administration.\n\nThese findings may explain the paradoxical mix of sedative and stimulatory properties of GHB as well as the so-called \"rebound\" effect reported by individuals using GHB as a sleeping agent wherein they awake suddenly after several hours of GHB-induced deep sleep. Over time, the concentration of GHB in the system decreases below the threshold for significant [[GABA]]<sub>B</sub> receptor activation and activates predominantly the GHB receptor, leading to wakefulness.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' - At lower doses, GHB is physically stimulating, encouraging movement and wakefulness. At higher doses, however, it becomes physically sedating, encouraging sleep and lethargy.\n*'''[[Effect::Respiratory depression]]''' - In cases of GHB overdoses, many reportedly experience an abnormal pattern of breathing characterized by progressively deeper and sometimes faster breathing followed by a gradual decrease that results in a temporary stop in breathing called an apnea.\n*'''[[Effect::Muscle relaxation]]''' - GHB induces profound muscle relaxation similar to, but more intense than, the relaxation produced by [[benzodiazepines]] and [[alcohol]]. This muscle relaxation is accompanied with a general loss of motor control, which may put the user at increased risk of physical injury.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dizziness]]''' - Dizziness is a common side effect of GHB and can occur with normal recreational doses. Users may also suddenly feel light-headed or faint, and feel a strong urge to lie down. Colloquially known as \"the spins\".\n*'''[[Effect::Motor control loss]]''' \n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Increased salivation]]''' - Increased salivation is very common.\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Vasodilation]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Seizure]]''' - Very high dosages of GHB have consistently produced convulsions.\n*'''[[Effect::Orgasm suppression]]''' - Can occur at high doses or with multiple redosing.\n}}\n{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Scenery slicing]]'''\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Sleepiness]]''' & '''[[Effect::Wakefulness]]''' - At very low dosages, GHB can make one tired, while common doses are primarly wakefullness-promoting. High doses can lead to feelings of being extremely sleepy.\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Anxiety suppression]]''' \n*'''[[Effect::Cognitive euphoria]]''' - GHB produces intense states of euphoria comparable to that of [[cocaine]], [[MDMA]], and [[opiates]]. For this reason, it is sometimes called \"liquid ecstasy\". It is commonly described as a more euphoric and disinhibiting version of alcohol. While this may be accurate, it is also far easier to overdose on.\n*'''[[Effect::Compulsive redosing]]''' - This is somewhat prevalent due to its short duration and rebound anxiety.\n*'''[[Effect::Creativity enhancement]]''' - Creativity enhancement is most apparent at low to common doses.\n*'''[[Effect::Disinhibition]]''' - Social and behavioral disinhibition on GHB is extremely powerful and perhaps its most prominent feature. Users are more liable to exhibit impaired decision-making and engage in risky activities such as unprotected sex or unsafe substance combinations. Users are advised to only take GHB in safe environments with people they trust not to take advantage of their vulnerable state.\n*'''[[Effect::Dream potentiation]]''' - GHB can have a very pronounced effect on dream recall and vividness. Conversely, discontinuation can result in bad dreams or nightmares. Additionally, intoxication on GBL can lead to one seeing their own dream being manifested, similar to a [[WILD|wake-induced lucid dream]] (WILD) and simultaneous states of wakefulness and dreaming.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - GHB presents strong [[entactogenic]] effects which, although weaker than that of [[MDMA]], are still prominent and well defined.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased libido]]''' - GBL reportedly produces less increases of libido than [[GHB]] does.\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Motivation enhancement]]''' & '''[[Effect::Motivation suppression]]''' - As with other coinciding effects, common doses can lead to greater motivation whilst high doses generally result in lethargy.\n*'''[[Effect::Spatial disorientation]]''' - Disorientation is very common in dark areas.\n*'''[[Effect::Suggestibility enhancement]]'''\n*'''[[Effect::Thought acceleration]]''' or '''[[Effect::Thought deceleration]]''' - Low to common doses are primarly stimulating and one finds themselves constantly generating thoughts.\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Tinnitus]]'''\n*'''[[Effect::Auditory distortion]]'''\n}}\n{{effects/aftereffects|\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiolytic]] substances like GHB. This, along with GHB's short duration of action can lead to compulsive redosing.\n*'''[[Effect::Temperature regulation suppression]]<ref name=\"ghb-side-effects\">{{cite journal |last1=Wolf |first1=Casper J. H. |last2=Beurmanjer |first2=Harmen |last3=Dijkstra |first3=Boukje A. G. |last4=Geerlings |first4=Alexander C. |last5=Spoelder |first5=Marcia |last6=Homberg |first6=Judith R. |last7=Schellekens |first7=Arnt F. A. |title=Characterization of the GHB Withdrawal Syndrome |journal=Journal of Clinical Medicine |date=26 May 2021 |volume=10 |issue=11 |pages=2333 |doi=https://doi.org/10.3390/jcm10112333}}</ref>\n*'''[[Effect::Depression]]'''<ref name=\"ghb-side-effects\"></ref>\n*'''[[Effect::Physical fatigue]]'''<ref name=\"ghb-side-effects\"></ref>\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_GHB.shtml Erowid Experience Vaults: GHB]\n\n==Toxicity and harm potential==\n[[File:HarmCausedByDrugsTable.svg|thumb|upright=1.35|Table from the 2010 [[DrugScience]] study ranking various drugs (legal and illegal) based on statements by drug-harm experts. GHB was found to be the ninth overall most dangerous drug.<ref name=\"Nutt_2010\">{{cite journal | vauthors = Nutt DJ, King LA, Phillips LD | title = Drug harms in the UK: a multicriteria decision analysis | journal = Lancet | volume = 376 | issue = 9752 | pages = 1558–1565 | date = November 2010 | pmid = 21036393 | doi = 10.1016/S0140-6736(10)61462-6 | s2cid = 5667719 | citeseerx = 10.1.1.690.1283 }}</ref>]]\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of GHB<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\n\nGHB is [[toxicity::considered to be a safe and non-toxic substance when used responsibly or medically]]. The [[LD50|LD<sub>50</sub>]] is above the active dosage, and there is no danger of acute toxicity. However, it can become dangerous when used as a recreational drug or abused. There have been many negative reports from recreational users who have overdosed, combined GHB with alcohol or other drugs, or accidentally dosed themselves unexpectedly.<ref>{{Citation | title=GHB - Erowid Exp - “GHB Overdoses & Poisonings” | url=https://www.erowid.org/experiences/exp.php?ID=1926}}</ref> \n\nOne publication investigated 226 deaths attributed to GHB.<ref>{{cite journal | vauthors=((Zvosec, D. L.)), ((Smith, S. W.)), ((Porrata, T.)), ((Strobl, A. Q.)), ((Dyer, J. E.)) | journal=The American Journal of Emergency Medicine | title=Case series of 226 γ-hydroxybutyrate-associated deaths: lethal toxicity and trauma | volume=29 | issue=3 | pages=319–332 | date= March 2011 | issn=1532-8171 | doi=10.1016/j.ajem.2009.11.008}}</ref> Seventy-one deaths (34%) were caused by GHB alone while the other deaths were from [[respiratory depression]] caused by interaction with alcohol or other drugs.\n\nAs an endogenous regulator of energy metabolism and a natural neurotransmitter, GHB is well-known to the brain and organs which are used to its effects and have highly efficient systems for metabolizing it safely. The substance is eliminated (that is, back to baseline levels) in 2-4 hours and continues to be so even after twice-daily doses for a week.<ref>{{cite journal | vauthors=((Ferrara, S.)), ((Zotti, S.)), ((Tedeschi, L.)), ((Frison, G.)), ((Castagna, F.)), ((Gallimberti, L.)), ((Gessa, G.)), ((Palatini, P.)) | journal=British Journal of Clinical Pharmacology | title=Pharmacokinetics of gamma-hydroxybutyric acid in alcohol dependent patients after single and repeated oral doses. | volume=34 | issue=3 | pages=231–235 | date= September 1992 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.1992.tb04129.x | issn=03065251 | doi=10.1111/j.1365-2125.1992.tb04129.x}}</ref> In one European study, no adverse effects were reported after several years of regular recreational use.<ref>{{cite journal | vauthors=((Laborit, H.)) | journal=Research Communications in Chemical Pathology and Pharmacology | title=Correlations between protein and serotonin synthesis during various activities of the central nervous system (slow and desynchronized sleep, learning and memory, sexual activity, morphine tolerance, aggressiveness, and pharmacological action of sodium gamma-hydroxybutyrate) | volume=3 | issue=1 | pages=51–81 | date= January 1972 | issn=0034-5164}}</ref> \n\nAccidental ingestions of GHB have also occurred due to inadequate storage methods. If GHB is put into a clear liquid, glass, or bottle, it can be easily mistaken for water. It is recommended to clearly label your GHB in writing and dye the liquid with blue food coloring so it no longer resembles a drinkable beverage. It is also recommended to store your GHB in a container that no one would drink out of.\n\nIt is recommended to dilute GHB with a non-alcoholic liquid in the ratio of at least 1:100 (e.g., 200ml of water for 2ml of GHB), in order to avoid potential burns to the intestines and mouth.[https://sidekicks.berlin/en/ghb-gbl/#beratung]\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n====Neurotoxicity====\nA 2022 review<ref>Amsterdam JV, Brunt TM, Pereira FR, Crunelle CL, Brink WVD. [https://web.archive.org/web/20230313103920/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9878963/ Cognitive Impairment Following Clinical or Recreational Use of Gammahydroxybutyric Acid (GHB): A Systematic Review.] Curr Neuropharmacol. 2022;20(4):809-819.</ref> compared 43 studies on GHB-induced cognitive impairment in humans and animals. The analysis suggests that moderate or clinical use may result in acute cognitive impairment. Working memory, short-term memory, and impaired performance on cognitive tasks were impaired after doses as low as 10mg/kg, but these effects appear to be temporary. Conversely, one study found that a dose of 20mg/kg improved social and non-social cognition, but did not affect base cognitive functions, such as visual or verbal memory recall. However, chronic heavy use of GHB, especially if accompanied by GHB-induced comas appear to cause long-term cognitive impairment and are likely neurotoxic.\n\nIn multiple studies, GHB has been found to impair spatial memory, working memory, learning and memory in rats with chronic administration.<ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)) | journal=Pharmacology Biochemistry and Behavior | title=Adolescent γ-hydroxybutyric acid exposure decreases cortical N-methyl-d-aspartate receptor and impairs spatial learning | volume=79 | issue=4 | pages=701–708 | date=1 December 2004 | url=https://www.sciencedirect.com/science/article/pii/S009130570400320X | issn=0091-3057 | doi=10.1016/j.pbb.2004.09.022}}</ref><ref>{{cite journal | vauthors=((García, F. B.)), ((Pedraza, C.)), ((Arias, J. L.)), ((Navarro, J. F.)) | journal=Psicothema | title=[Effects of subchronic administration of gammahydroxybutyrate (GHB) on spatial working memory in rats] | volume=18 | issue=3 | pages=519–524 | date= August 2006 | issn=0214-9915}}</ref><ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)), ((Sircar, D.)) | journal=Annals of the New York Academy of Sciences | title=γ-Hydroxybutyric Acid-Induced Cognitive Deficits in the Female Adolescent Rat | volume=1139 | issue=1 | pages=386–389 | date= October 2008 | url=http://doi.wiley.com/10.1196/annals.1432.044 | issn=00778923 | doi=10.1196/annals.1432.044}}</ref><ref>{{cite journal | vauthors=((Pedraza, C.)), ((García, F. B.)), ((Navarro, J. F.)) | journal=The International Journal of Neuropsychopharmacology | title=Neurotoxic effects induced by gammahydroxybutyric acid (GHB) in male rats | volume=12 | issue=09 | pages=1165 | date= October 2009 | url=https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145709000157 | issn=1461-1457 | doi=10.1017/S1461145709000157}}</ref> These effects are associated with decreased [[NMDA receptor]] expression in the cerebral cortex and possibly other areas as well.<ref>{{cite journal | vauthors=((Sircar, R.)), ((Basak, A.)) | journal=Pharmacology, Biochemistry, and Behavior | title=Adolescent gamma-hydroxybutyric acid exposure decreases cortical N-methyl-D-aspartate receptor and impairs spatial learning | volume=79 | issue=4 | pages=701–708 | date= December 2004 | issn=0091-3057 | doi=10.1016/j.pbb.2004.09.022}}</ref>\n\nOne study found that repeated administration of GHB to rats for 15 days drastically reduced the number of neurons and non-neuronal cells within the hippocampus and in the prefrontal cortex. With doses of 10 mg/kg of GHB, they were decreased by 61% in the hippocampus region and 32% in the prefrontal cortex, and with 100 mg/kg, they were decreased by 38% and 9%, respectively. This paper demonstrates contradicting effects on neuronal loss, with lower doses (10 mg/kg) producing the most neurotoxicity, and higher doses (100 mg/kg) producing less.\n\n===Overdose===\nTo avoid a possible overdose of GHB, it is important to start with a low dose and work your way up slowly by increasing the dosage in small increments. While a common recreational dose is 2g, a dose of 5g - 10g can result in convulsions, unconsciousness and vomiting. [[toxicity::Doses above 10 grams are associated with a risk of death]].<ref name=\"ErowidGHBVault\" /> Recreational users must also consider the different potency of different GHB preparations available on the illicit market. Thus, even an experienced user should start with a lower than normal dose, if trying a new product for the first time.<ref>https://www.erowid.org/chemicals/ghb/ghb_health.shtml</ref>\n\n===Tolerance and addiction potential===\n[[File:GHBwithdrawal2.png|350px|thumbnail|right|This table compares the withdrawal symptoms of GHB, [[benzodiazepines]], and [[alcohol]].<ref name=\"GHB\">GHB Withdrawal Syndrome | Texas Commission on Alcohol and Drug Abuse | https://www.erowid.org/chemicals/ghb/ghb_addiction2.pdf</ref>]]\nGHB is [[Addiction potential::moderately to highly physically and moderately psychologically addictive]]. The frequent use of GHB can cause withdrawal symptoms similar to those caused by other [[depressants]] such as [[alcohol]] and [[benzodiazepines]] if abruptly discontinued.<ref>{{cite journal | vauthors=((Kim, S. Y.)), ((Barker, J. C.)), ((Anderson, I. B.)), ((Dyer, J. E.)), ((Earnest, G.)), ((Blanc, P. D.)) | journal=The American journal on addictions / American Academy of Psychiatrists in Alcoholism and Addictions | title=Systematic Assessment of Gamma Hydroxybutyrate (GHB) Effects During and After Acute Intoxication | volume=17 | issue=4 | pages=312–318 | date= 2008 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759403/ | issn=1055-0496 | doi=10.1080/10550490802138988}}</ref><ref>{{cite journal | vauthors=((Carter, L. P.)), ((Pardi, D.)), ((Gorsline, J.)), ((Griffiths, R. R.)) | journal=Drug and alcohol dependence | title=Illicit gamma-hydroxybutyrate (GHB) and pharmaceutical sodium oxybate (Xyrem®): differences in characteristics and misuse | volume=104 | issue=1–2 | pages=1–10 | date=1 September 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713368/ | issn=0376-8716 | doi=10.1016/j.drugalcdep.2009.04.012}}</ref> These symptoms seem to depend on the dosage and the length of time the drug was used for.  Light to moderate users often experience anxiety, insomnia, sleep-related problems, and tremors whereas heavy use can cause severe withdrawal symptoms like delirium, psychosis, and hallucinations.<ref>{{cite journal | vauthors=((Dyer, J. E.)), ((Roth, B.)), ((Hyma, B. A.)) | journal=Annals of Emergency Medicine | title=Gamma-hydroxybutyrate withdrawal syndrome | volume=37 | issue=2 | pages=147–153 | date= February 2001 | issn=0196-0644 | doi=10.1067/mem.2001.112985}}</ref><ref name=\"GHB\" />\n\nGHB, when used medicinally (two medicinal doses per day, four hours apart), creates little to no dependance while the more frequent one uses GHB, it causes exponentially more dependance and withdrawal symptoms.<ref>https://drugs-forum.com/threads/important-ghb-gbl-addiction-withdrawal.43390/page-4</ref>\n\nAlthough there have been reported fatalities due to GHB withdrawal, reports are inconclusive and further research is needed.<ref>{{cite journal | vauthors=((Galloway, G. P.)), ((Frederick, S. L.)), ((Staggers, F. E.)), ((Gonzales, M.)), ((Stalcup, S. A.)), ((Smith, D. E.)) | journal=Addiction | title=Gamma-hydroxybutyrate: an emerging drug of abuse that causes physical dependence | volume=92 | issue=1 | pages=89–96 | date= January 1997 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.1997.tb03640.x | issn=09652140 | doi=10.1111/j.1360-0443.1997.tb03640.x}}</ref>\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within several days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction to minimize neurotoxicity from withdrawal. It is proposed that GHB and especially GBL can lead to dependence at a significantly faster rate than longer-acting depressants.\n\nGHB presents cross-tolerance with [[1,4-Butanediol]] and [[GBL]], since these act as [[Prodrug|prodrugs]] for GHB. Cross-tolerance with [[alcohol]] and [[baclofen]] has been shown in rats,<ref>{{cite journal | vauthors=((Colombo, G.)), ((Agabio, R.)), ((Lobina, C.)), ((Reali, R.)), ((Fadda, F.)), ((Gessa, G. L.)) | journal=European Journal of Pharmacology | title=Cross-tolerance to ethanol and γ-hydroxybutyric acid | volume=273 | issue=3 | pages=235–238 | date=6 February 1995 | url=https://www.sciencedirect.com/science/article/pii/0014299994006873 | issn=0014-2999 | doi=10.1016/0014-2999(94)00687-3}}</ref><ref>{{cite journal | vauthors=((Smith, M. A.)), ((Gergans, S. R.)), ((Lyle, M. A.)) | journal=European Journal of Pharmacology | title=The motor-impairing effects of GABAA and GABAB agonists in γ-hydroxybutyrate (GHB)-treated rats: Cross-tolerance to baclofen but not flunitrazepam | volume=552 | issue=1 | pages=83–89 | date=15 December 2006 | url=https://www.sciencedirect.com/science/article/pii/S0014299906009964 | issn=0014-2999 | doi=10.1016/j.ejphar.2006.08.080}}</ref> and is likely with other GABA<sub>B</sub>-agonists.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::Nitrous]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UncertainInteraction::Amphetamines]]''' - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the GHB may overcome the patient and cause respiratory arrest.\n*'''[[UncertainInteraction::MDMA]]''' - Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.\n*'''[[UncertainInteraction::Cocaine]]''' - Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the GHB may overcome the patient and cause respiratory arrest. Likewise the GHB can wear off and leave a dangerous concentration of Cocaine behind.\n*'''[[DangerousInteraction::Ketamine]]''' - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.\n*'''[[DangerousInteraction::MXE]]''' - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.\n*'''[[DangerousInteraction::DXM]]''' - Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict.\n*'''[[DangerousInteraction::PCP]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::Alcohol]]''' - Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.\n*'''[[DangerousInteraction::Opioids]]''' - The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.\n*'''[[DangerousInteraction::Tramadol]]''' - The sedative effects of this combination can lead to dangerous respiratory depression.\n*'''[[DangerousInteraction::Benzodiazepines]]''' - The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.\n\n==Legal status==\nIn 2001, GHB was placed under international control, in Schedule IV of the 1971 UN Convention on Psychotropic Substances.<ref>{{cite web|title=Control measures|url=https://www.emcdda.europa.eu/html.cfm/index16783EN.html|publisher=European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)|access-date=October 20, 2020}}</ref>\n\n*'''Austria:''' GHB is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Australia:''' GHB, [[1,4-B]] and [[GBL]] are all Class B illegal drugs, along with any possible esters, ethers and aldehydes.{{citation needed}}\n*'''Chile:''' GHB is a controlled drug under the law \"Ley de substancias psicotropicas y estupefacientes\" (psychotropic substances and narcotics).{{citation needed}}\n*'''Canada:''' GHB is controlled under Schedule I of the ''Controlled Drugs and Substances Act''. Activities such as sale, possession and production of GHB are illegal, unless authorized for medical, scientific or industrial purposes.<ref>{{Citation | vauthors=((Canada, H.)) | year=2012 | title=GHB | url=https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs/ghb.html}}</ref>\n*'''Germany:''' GHB is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form. There is an exception for injection preperations, containing up to 20% or 2g GHB per unit, which are viewed as a regular medicine.<ref>{{Citation | title=Anlage III BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html}}</ref>\n*'''Italy:''' GHB is a schedule IV drug (Tabella 4) of the \"Testo unico sulla droga (D.P.R. 309/90)\". When prescribed for medical use it falls under Pharmaceuticals section B (Tabella medicinali sezione B).<ref>Tabella IV Sostanze stupefacenti http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_3_file.pdf</ref><ref>Tabella Medicinali D.P.R. 309/90 http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_4_file.xls</ref>\n*'''Hong Kong:''' GHB is regulated under Schedule 1 of Hong Kong's Chapter 134 Dangerous Drugs Ordinance.{{citation needed}}\n*'''New Zealand:''' GHB, 1,4-B and GBL are all Class B illegal drugs, along with any possible esters, ethers and aldehydes.{{citation needed}}\n*'''Norway:''' GHB is considered a narcotic and is only available by prescription under the trade name Xyrem.{{citation needed}}\n*'''Romania''': GHB is considered a Schedule I illegal drug.<ref>https://legislatie.just.ro/Public/DetaliiDocument/23629</ref>\n*'''Switzerland:''' GHB is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom:''' GHB was made a Class C drug in June 2003.{{citation needed}}\n*'''United States:''' GHB was placed on Schedule I of the Controlled Substances Act in March 2000. However, when sold as sodium oxybate, it is considered a Schedule III substance but with Schedule I trafficking penalties.<ref>{{Citation | year=2010 | title=Laws | url=http://web.archive.org/web/20100116121252/http://www.projectghb.org/laws.htm}}</ref> It is one of several drugs that are listed in multiple schedules.\n\n==See also==\n\n*[[Responsible use]]\n*[[1,4-Butanediol]]\n*[[Depressants]]\n*[[Alcohol]]\n*[[GBL]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid GHB (Wikipedia)]\n*[https://www.erowid.org/chemicals/ghb/ghb.shtml GHB (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=12265 GHB (Isomer Design)]\n*[https://drugs-forum.com/wiki/GHB GHB (Drugs-Forum)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Neurotransmitter]]\n[[Category:Gamma-Hydroxy acid]]\n[[Category:Depressant]]\n\n{{#set:Featured=true}}"
+}

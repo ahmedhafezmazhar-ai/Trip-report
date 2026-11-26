@@ -1,0 +1,586 @@
+{
+ "id": "psychonautwiki:9975",
+ "type": "substance",
+ "title": "Clonazepam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Clonazepam",
+  "pageid": 9975,
+  "last_edited": "2025-02-08T01:09:54Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Benzodiazepine",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Clonazepam",
+ "substance_box": {
+  "names": {
+   "common": "Clonazepam, Klonopin, K-Pins, Rivotril",
+   "substitutive": "Clonazepam",
+   "systematic": "5-(2-Chlorophenyl)-7-nitro-2,3-dihydro-1,4-benzodiazepin-2-one"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "nasal": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "90%",
+    "threshold": "0.01 mg",
+    "light": "0.01 - 0.2 mg",
+    "common": "0.2 - 0.5 mg",
+    "strong": "0.5 - 1 mg",
+    "heavy": "1 mg +",
+    "duration": "4 - 7 hours",
+    "onset": "5 - 10 minutes",
+    "peak": "1 - 1.5w hours",
+    "offset": "1 - 4 hours",
+    "aftereffects": "- - - hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "90%",
+    "threshold": "0.10 mg",
+    "light": "0.25 - 0.5 mg",
+    "common": "0.5 - 1 mg",
+    "strong": "1 - 2 mg",
+    "heavy": "2 mg +",
+    "duration": "8 - 12 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "1 - 4 hours",
+    "peak": "2 - 4 hours",
+    "offset": "3 - 6 hours",
+    "aftereffects": "8 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Clonazepam",
+    "Klonopin",
+    "K-Pins",
+    "Rivotril"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Benzodiazepine"
+   ],
+   "Nasal threshold dose": [
+    "0.01"
+   ],
+   "Nasal dose units": [
+    "mg",
+    "mg"
+   ],
+   "Nasal min light dose": [
+    "0.01"
+   ],
+   "Nasal max light dose": [
+    "0.2"
+   ],
+   "Nasal min common dose": [
+    "0.2"
+   ],
+   "Nasal max common dose": [
+    "0.5"
+   ],
+   "Nasal min strong dose": [
+    "0.5"
+   ],
+   "Nasal max strong dose": [
+    "1"
+   ],
+   "Nasal heavy dose": [
+    "1"
+   ],
+   "Nasal min total time": [
+    "4"
+   ],
+   "Nasal max total time": [
+    "7"
+   ],
+   "Nasal total time units": [
+    "hours"
+   ],
+   "Nasal min onset time": [
+    "5"
+   ],
+   "Nasal max onset time": [
+    "10"
+   ],
+   "Nasal onset time units": [
+    "minutes"
+   ],
+   "Nasal min peak time": [
+    "1"
+   ],
+   "Nasal max peak time": [
+    "1.5w"
+   ],
+   "Nasal peak time units": [
+    "hours"
+   ],
+   "Nasal min offset time": [
+    "1"
+   ],
+   "Nasal max offset time": [
+    "4"
+   ],
+   "Nasal offset time units": [
+    "hours"
+   ],
+   "Nasal min afterglow time": [
+    "-"
+   ],
+   "Nasal max afterglow time": [
+    "-"
+   ],
+   "Nasal afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "0.10"
+   ],
+   "Oral dose units": [
+    "mg",
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.25"
+   ],
+   "Oral max light dose": [
+    "0.5"
+   ],
+   "Oral min common dose": [
+    "0.5"
+   ],
+   "Oral max common dose": [
+    "1"
+   ],
+   "Oral min strong dose": [
+    "1"
+   ],
+   "Oral max strong dose": [
+    "2"
+   ],
+   "Oral heavy dose": [
+    "2"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "12"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "4"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "6"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "8"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Clonazepam",
+   "clean": "Molecular structure of Clonazepam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Clonazepam.svg",
+   "clean": "File:Clonazepam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Clonazepam]], [[common name::Klonopin]], [[common name::K-Pins]], [[common name::Rivotril]]",
+   "clean": "Clonazepam, Klonopin, K-Pins, Rivotril"
+  },
+  "NameSubstitution": {
+   "raw": "Clonazepam",
+   "clean": "Clonazepam"
+  },
+  "NameSystematic": {
+   "raw": "5-(2-Chlorophenyl)-7-nitro-2,3-dihydro-1,4-benzodiazepin-2-one",
+   "clean": "5-(2-Chlorophenyl)-7-nitro-2,3-dihydro-1,4-benzodiazepin-2-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "NasalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "NasalROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "NasalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "NasalROA_Bioavailability": {
+   "raw": "90%<ref>{{Citation | title=FDA Approved Labeling Text (October 2013)| url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/017533s053,020813s009lbl.pdf}}</ref>",
+   "clean": "90%"
+  },
+  "NasalROA_Threshold": {
+   "raw": "[[Nasal threshold dose::0.01]] [[Nasal dose units::mg]]",
+   "clean": "0.01 mg"
+  },
+  "NasalROA_Light": {
+   "raw": "[[Nasal min light dose::0.01]] - [[Nasal max light dose::0.2]] [[Nasal dose units::mg]]",
+   "clean": "0.01 - 0.2 mg"
+  },
+  "NasalROA_Common": {
+   "raw": "[[Nasal min common dose::0.2]] - [[Nasal max common dose::0.5]] mg",
+   "clean": "0.2 - 0.5 mg"
+  },
+  "NasalROA_Strong": {
+   "raw": "[[Nasal min strong dose::0.5]] - [[Nasal max strong dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "NasalROA_Heavy": {
+   "raw": "[[Nasal heavy dose::1]] mg +",
+   "clean": "1 mg +"
+  },
+  "NasalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "NasalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NasalROA_Duration": {
+   "raw": "[[Nasal min total time::4]] - [[Nasal max total time::7]] [[Nasal total time units::hours]]",
+   "clean": "4 - 7 hours"
+  },
+  "NasalROA_Onset": {
+   "raw": "[[Nasal min onset time::5]] - [[Nasal max onset time::10]] [[Nasal onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "NasalROA_Peak": {
+   "raw": "[[Nasal min peak time::1]] - [[Nasal max peak time::1.5w]] [[Nasal peak time units::hours]]",
+   "clean": "1 - 1.5w hours"
+  },
+  "NasalROA_Offset": {
+   "raw": "[[Nasal min offset time::1]] - [[Nasal max offset time::4]] [[Nasal offset time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "NasalROA_Aftereffects": {
+   "raw": "[[Nasal min afterglow time::-]] - [[Nasal max afterglow time::-]] [[Nasal afterglow time units::hours]]",
+   "clean": "- - - hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "90%<ref>{{Citation | title=FDA Approved Labeling Text (October 2013)| url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/017533s053,020813s009lbl.pdf}}</ref>",
+   "clean": "90%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.10]] [[Oral dose units::mg]]",
+   "clean": "0.10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.25]] - [[Oral max light dose::0.5]] [[Oral dose units::mg]]",
+   "clean": "0.25 - 0.5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::0.5]] - [[Oral max common dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1]] - [[Oral max strong dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2]] mg +",
+   "clean": "2 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::12]] [[Oral total time units::hours]]",
+   "clean": "8 - 12 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::4]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::6]] [[Oral offset time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::8]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "8 - 48 hours"
+  }
+ },
+ "plain_text": "thumbnail|right|Klonopin 0.5 mg.thumbnail|right|Klonopin 1 mgthumbnail|right|Rivotril drops 2.5 mg/ml\nClonazepam (trade name Klonopin or Rivotril) is a long-acting psychoactive substance of the benzodiazepine class which produces mainly anxiolytic, but also anticonvulsant, muscle relaxant, amnesic, sedative, depressant and hypnotic effects. It is commonly used and FDA approved for the medical treatment of panic disorder, generalized anxiety disorder (GAD), and social anxiety disorder (SAD). In Europe, it is generally approved for treatment-resistent epilepsy.  \n\nClonazepam has an elimination half-life of 30 – 40 hours, and is considered to be a long-acting benzodiazepine. Clonazepam has rapid onset of action, with a peak blood level occurring one to four hours after oral administration.\n\nIt's worth noting that the sudden discontinuation of benzodiazepines can be potentially life-threatening for individuals using regularly for extended periods of time. It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly. Not doing so can lead to serious health problems and even death.\n\nChemistry\n\nClonazepam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. The benzyl ring of clonazepam is substituted at R8 with a nitro group, NO2-. Further, the diazepine ring is bonded at R5 to a 2-chlorinated phenyl ring. Clonazepam also contains an oxygen group double bonded to R2 of its diazepine ring to form a ketone. This oxygen substitution at R2 is shared with other benzodiazepine drugs with the suffix -azepam.\n\nPharmacology\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter gamma aminobutyric acid (GABA) by acting on its receptors. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of clonazepam on the nervous system.\n\nThe anticonvulsant properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Clonazepam\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.\nClonazepam has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]].\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nClonazepam is extremely physically and psychologically addictive.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see this guide.\n\nBenzodiazepine discontinuation is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal.\n\nClonazepam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect.\n\nOverdose\n\nBenzodiazepine overdose may occur when a benzodiazepine is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature.\n\nDangerous interactions\n\nLegal status\n\nInternationally, clonazepam is included under the United Nations Convention on Psychotropic Substances in Schedule IV.\n\n*Australia: Clonazepam is available by prescription only.\n*Brazil: Clonazepam is a \"black stripe\" drug, which are available by prescription only.\n*Canada: Clonazepam is a Schedule IV drug.\n*Czech Republic: Clonazepam is a Schedule IV  (List 7) substance. Sold exclusively by prescription \"without a blue stripe\" (§ 1, g), 2. of Nařízení vlády č. 463/2013 Sb.). \n*Germany: Clonazepam is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of August 1, 1986. It can only be prescribed on a narcotic prescription form, except preparations which contain up to 2&nbsp;mg clonazepam in each dosage form and solutions that contain up to 0.25% and under 250&nbsp;mg clonazepam in total per packaging unit.\n*India: Clonazepam is Schedule H in India.\n*Israel: Clonazepam is available by prescription only.\n*New Zeland: Clonazepam is a Schedule 3 controlled drug.\n*Norway: Clonazepam is available by prescription only.\n*Russia: Clonazepam is a Schedule III controlled substance as of April 2013.\n*Switzerland: Clonazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*Turkey: Clonazepam is a 'green prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: Clonazepam is a Class C drug. \n*United States: Clonazepam is a Schedule IV substance.\n\nSee also\n\n*Responsible use\n*Psychoactive substance index\n*Depressants\n*Alcohol\n*Benzodiazepines\n\nExternal links\n\n*Clonazepam (Wikipedia)\n*Clonazepam (Erowid Vault)\n*Clonazepam (Isomer Design)\n*Clonazepam (DrugBank)\n*Clonazepam (Drugs.com)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Benzodiazepine",
+ "wikitext": "{{headerpanel|{{DepressantOD|benzodiazepines}}}}\n{{Distinguish|Clonazolam}}\n{{SummarySheet}}\n{{SubstanceBox/Clonazepam}}\n\n[[File:Klonopin0.5mg.jpg|thumbnail|right|Klonopin 0.5 mg.]][[File:Klonopin1mg.jpg|thumbnail|right|Klonopin 1 mg]][[File:Rivotril2.5mg_ml-TRX_200x444.png|thumbnail|right|Rivotril drops 2.5 mg/ml]]\n'''Clonazepam'''<ref>{{Citation | title=Patent US3123529 | url=https://www.freepatentsonline.com/3123529.pdf}}</ref> (trade name '''Klonopin''' or '''Rivotril''') is a long-acting [[psychoactive]] substance of the [[chemical class::benzodiazepine]] class which produces [[anxiolytic|mainly anxiolytic]], but also [[anticonvulsant]], [[muscle relaxant]], [[amnesic]], [[sedative]], [[psychoactive class::depressant]] and [[hypnotic]] effects.<ref>{{cite journal | vauthors=((Cowen, P. J.)), ((Green, A. R.)), ((Nutt, D. J.)) | journal=Nature | title=Ethyl beta-carboline carboxylate lowers seizure threshold and antagonizes flurazepam-induced sedation in rats | volume=290 | issue=5801 | pages=54–55 | date=5 March 1981 | issn=0028-0836 | doi=10.1038/290054a0}}</ref> It is commonly used and FDA approved for the medical treatment of panic disorder, generalized [[anxiety]] disorder (GAD), and social anxiety disorder (SAD). In Europe, it is generally approved for treatment-resistent epilepsy.  \n\nClonazepam has an elimination half-life of 30 – 40 hours<ref>Basit H, Kahwaji CI. Clonazepam. [Updated 2022 Sep 1]. In: StatPearls [https://www.ncbi.nlm.nih.gov/books/NBK556010/]</ref>, and is considered to be a long-acting benzodiazepine. Clonazepam has rapid onset of action, with a peak blood level occurring one to four hours after oral administration.\n\nIt's worth noting that [[Benzodiazepine#Discontinuation|the sudden discontinuation of benzodiazepines]] can be potentially life-threatening for individuals using regularly for extended periods of time.<ref name=\"Lann2009\">{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> It is highly recommended to [[taper]] one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Mailis-Gagnon, A.)), ((Tunks, E.)) | journal=Pain Research & Management | title=Canadian guideline for safe and effective use of opioids for chronic non-cancer pain: implications for pain physicians | volume=16 | issue=3 | pages=157–158 | date= June 2011 | issn=1203-6765 | doi=10.1155/2011/434298}}</ref> Not doing so can lead to serious health problems and even death.\n==Chemistry==\nClonazepam is a drug of the [[benzodiazepine]] class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. The benzyl ring of clonazepam is substituted at R<sub>8</sub> with a nitro group, NO<sub>2</sub>-. Further, the diazepine ring is bonded at R<sub>5</sub> to a 2-chlorinated phenyl ring. Clonazepam also contains an oxygen group double bonded to R<sub>2</sub> of its diazepine ring to form a ketone. This oxygen substitution at R<sub>2</sub> is shared with other benzodiazepine drugs with the suffix -azepam.\n\n==Pharmacology==\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by acting on its [[receptor]]s.<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of clonazepam on the nervous system.\n\nThe [[anticonvulsant]] properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.<ref>{{cite journal | vauthors=((McLean, M. J.)), ((Macdonald, R. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture | volume=244 | issue=2 | pages=789–795 | date= February 1988 | issn=0022-3565}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug has the potential to be extremely sedating and often results in an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Muscle relaxation]]''' - This effect is relatively strong when compared with [[alprazolam]].\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Physical euphoria]]''' - Clonazepam is similar to [[alprazolam]], where despite suppressing emotion, people report moderate-strong feelings of relaxation, pleasure and comfort in the body. This seems to present itself more often in those with pre-existing [[anxiety]]. However, this isn't consistent with everyone, with some users reporting no euphoric qualities at all.\n\n}}\n{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]''' - Like many [[depressants]], clonazepam is known to cause blurred or otherwise suppressed visual acuity.\n\n}}\n{{effects/paradoxical|\nParadoxical reactions  to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref>\n\nThese paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref>\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of clonazepam can be broken down into several components which progressively intensify proportional to dosage. The general head space of clonazepam is described by many as one of intense relaxation, anxiety suppression and decreased inhibition. It contains a large number of typical [[depressant]]s cognitive effects.\n\nThe most prominent of these cognitive effects generally include:\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Emotion suppression]]''' - Although this compound primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotic]]s.\n*'''[[Effect::Dream potentiation]]'''\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Anxiety|Rebound anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]'''<ref>{{cite journal | vauthors=((Goyal, S.)) | journal=Canadian Medical Association Journal | title=Drugs and dreams | volume=102 | issue=5 | pages=524 | date=14 March 1970 | issn=0008-4409}}</ref> or '''[[Effect::Dream suppression]]'''\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While benzodiazepines can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Clonazepam]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Clonazepam.shtml Erowid Experience Vaults: Clonazepam]\n\n==Toxicity and harm potential==\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\nClonazepam has a [[Toxicity::low toxicity]] relative to dose.<ref>{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine Metabolism: An Analytical Perspective | volume=9 | issue=8 | pages=827–844 | url=https://www.eurekaselect.com/article/12780}}</ref>  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nClonazepam is [[Addiction potential::extremely physically and psychologically addictive]].\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. However, in certain cases this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nWithdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from benzodiazepines in a controlled manner, please see [http://www.benzo.org.uk/manual/bzcha02.htm this guide].\n\n[[Benzodiazepine#Discontinuation|Benzodiazepine discontinuation]] is notoriously difficult; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of [[hypertension]], [[seizures]], and death.<ref name=\"Lann2009\" /> Drugs which lower the seizure threshold such as [[tramadol]] should be avoided during withdrawal.\n\nClonazepam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption all benzodiazepines will have a reduced effect.\n\n===Overdose===\nBenzodiazepine overdose may occur when a [[benzodiazepine]] is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as [[barbiturate |barbiturates]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.\n\nSymptoms of a benzodiazepine overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with [[flumazenil]], a GABA<sub>A</sub> antagonist<ref>{{cite journal | vauthors=((Hoffman, E. J.)), ((Warren, E. W.)) | journal=Clinical Pharmacy | title=Flumazenil: a benzodiazepine antagonist | volume=12 | issue=9 | pages=641–656; quiz 699–701 | date= September 1993 | issn=0278-2677}}</ref>, however care is primarily supportive in nature.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\nInternationally, clonazepam is included under the United Nations Convention on Psychotropic Substances in Schedule IV.<ref>{{cite web|url=http://www.incb.org/documents/Psychotropics/green_lists/Green_list_ENG_2014_85222_GHB.pdf|title=List of Psychotropic Substances under International Control|publisher=International Narcotics Control Board|access-date=December 28, 2019 |archive-url=https://web.archive.org/web/20131219071757/http://www.incb.org/documents/Psychotropics/green_lists/Green_list_ENG_2014_85222_GHB.pdf|archive-date=December 19, 2013}}</ref>\n\n*'''Australia''': Clonazepam is available by prescription only.{{citation needed}}\n*'''Brazil''': Clonazepam is a \"black stripe\" drug, which are available by prescription only.<ref>[http://www.anvisa.gov.br/datavisa/fila_bula/frmVisualizarBula.asp?pNuTransacao=8688542015&pIdAnexo=2876451 Anvisa]</ref>\n*'''Canada''': Clonazepam is a Schedule IV drug.{{citation needed}}\n*'''Czech Republic''': Clonazepam is a Schedule IV <ref>https://eur-lex.europa.eu/resource.html?uri=cellar:6b5e9beb-1d9b-11ea-95ab-01aa75ed71a1.0001.02/DOC_1&format=PDF</ref> (List 7) substance. Sold exclusively by prescription \"without a blue stripe\" (§ 1, g), 2. of ''Nařízení vlády č. 463/2013 Sb.''). <ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n*'''Germany''': Clonazepam is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'') as of August 1, 1986.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl186s1099.pdf|title=Zweite Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 26, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form, except preparations which contain up to 2&nbsp;mg clonazepam in each dosage form and solutions that contain up to 0.25% and under 250&nbsp;mg clonazepam in total per packaging unit.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 26, 2019|language=de}}</ref>\n*'''India''': Clonazepam is Schedule H in India.{{citation needed}}\n*'''Israel''': Clonazepam is available by prescription only.{{citation needed}}\n*'''New Zeland''': Clonazepam is a Schedule 3 controlled drug.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act Schedule 3 Class C controlled drugs – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/DLM436723.html}}</ref>\n*'''Norway''': Clonazepam is available by prescription only.<ref>https://www.felleskatalogen.no/medisin/rivotril-roche-563568</ref>\n*'''Russia''': Clonazepam is a Schedule III controlled substance as of April 2013.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100005&date=02.12.2019}}</ref>\n*'''Switzerland''': Clonazepam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Clonazepam is a 'green prescription' only substance<ref>YEŞİL REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/01.04.2019%20SKRS%20Ye%C5%9Fil%20Re%C3%A7eteli%20%C4%B0la%C3%A7lar%20Aktif%20SON%20-%20G%C3%9CNCEL_58b1ff4a-2e1c-4867-bad7-eec855d6162a.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''United Kingdom''': Clonazepam is a Class C drug. <ref>{{Citation | title=List of most commonly encountered drugs currently controlled under the misuse of drugs legislation | url=https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation}}</ref>\n*'''United States''': Clonazepam is a Schedule IV substance.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Psychoactive substance index]]\n*[[Depressants]]\n*[[Alcohol]]\n*[[Benzodiazepines]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Clonazepam Clonazepam (Wikipedia)]\n*[https://erowid.org/pharms/clonazepam/ Clonazepam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3007 Clonazepam (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01068 Clonazepam (DrugBank)]\n*[http://www.drugs.com/clonazepam.html Clonazepam (Drugs.com)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Benzodiazepine]]\n\n{{#set:Featured=true}}"
+}

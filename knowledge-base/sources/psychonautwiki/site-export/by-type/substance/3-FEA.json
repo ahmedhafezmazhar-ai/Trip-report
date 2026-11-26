@@ -1,0 +1,518 @@
+{
+ "id": "psychonautwiki:13711",
+ "type": "substance",
+ "title": "3-FEA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-FEA",
+  "pageid": 13711,
+  "last_edited": "2025-07-21T21:03:49Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Entactogen",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/3-FEA",
+ "substance_box": {
+  "names": {
+   "common": "3-FEA",
+   "substitutive": "3-Fluoroethamphetamine",
+   "systematic": "N-Ethyl-1-(3-fluorophenyl)propan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen / Stimulant",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "20 - 35 mg",
+    "common": "35 - 70 mg",
+    "strong": "70 - 90 mg",
+    "heavy": "90 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "6 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "15 mg",
+    "light": "20 - 35 mg",
+    "common": "35 - 60 mg",
+    "strong": "50 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "5 - 15 minutes",
+    "comeup": "5 - 10 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "30 - 60 minutes",
+    "aftereffects": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "3-FEA"
+   ],
+   "systematic name": [
+    "N-Ethyl-1-(3-fluorophenyl)propan-2-amine"
+   ],
+   "psychoactive class": [
+    "Entactogen",
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "15"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "20"
+   ],
+   "Oral max light dose": [
+    "35"
+   ],
+   "Oral min common dose": [
+    "35"
+   ],
+   "Oral max common dose": [
+    "70"
+   ],
+   "Oral min strong dose": [
+    "70"
+   ],
+   "Oral max strong dose": [
+    "90"
+   ],
+   "Oral heavy dose": [
+    "90"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "15"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "20"
+   ],
+   "Insufflated max light dose": [
+    "35"
+   ],
+   "Insufflated min common dose": [
+    "35"
+   ],
+   "Insufflated max common dose": [
+    "60"
+   ],
+   "Insufflated min strong dose": [
+    "50"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "2"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "15"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "10"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "60"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "60"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "3"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 3-FEA",
+   "clean": "Molecular structure of 3-FEA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:3-FEA.svg",
+   "clean": "File:3-FEA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::3-FEA]]",
+   "clean": "3-FEA"
+  },
+  "NameSubstitution": {
+   "raw": "3-Fluoroethamphetamine",
+   "clean": "3-Fluoroethamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::N-Ethyl-1-(3-fluorophenyl)propan-2-amine]]",
+   "clean": "N-Ethyl-1-(3-fluorophenyl)propan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Entactogen]] / [[psychoactive class::Stimulant]]",
+   "clean": "Entactogen / Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::15]] [[Oral dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::20]] - [[Oral max light dose::35]] mg",
+   "clean": "20 - 35 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::35]] - [[Oral max common dose::70]] mg",
+   "clean": "35 - 70 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::70]] - [[Oral max strong dose::90]] mg",
+   "clean": "70 - 90 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::90]] mg +",
+   "clean": "90 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::15]] [[Insufflated dose units::mg]]",
+   "clean": "15 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::20]] - [[Insufflated max light dose::35]] mg",
+   "clean": "20 - 35 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::35]] - [[Insufflated max common dose::60]] mg",
+   "clean": "35 - 60 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::50]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "50 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::2]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::15]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::10]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::60]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::60]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::3]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 3 hours"
+  }
+ },
+ "plain_text": "3-Fluoroethamphetamine (also known as 3-FEA) is a novel ring-substituted amphetamine compound that produces a mixture of entactogen and stimulant effects when administered. 3-FEA is structurally related to a series of designer fluorinated substituted amphetamines that originally included compounds such as 2-FA, 2-FMA, 3-FA, 4-FMA, 4-FA.\n\nLike its parent compound 3-FA, the pharmacological, toxicological, and subjective effects of 3-FEA in humans have yet to be mapped out in detail. Anecdotal reports have characterised 3-FEA as a moderately potent serotonin-dominant triple monoamine releaser that produces a mixture of entactogenic and mild stimulating effects. \n\n3-FEA has an extremely short history of human recreational use and has not been documented being sold on the streets. It has recently been made available for sale on the grey market as a research chemical by online vendors. Due to its potent psychostimulant effects, likely habit-forming properties, and unknown toxicity profile, it is strongly recommended that one use proper harm reduction practices if using this substance.\n\nChemistry\n\nthumb|right|240px|Generic structure of an amphetamine molecule\n\n3-FEA, or 3-fluoroethamphetamine, is a synthetic molecule of the amphetamine chemical class. Molecules of the amphetamine class contain a phenethylamine core comprised of a phenyl ring bound to an amino (NH2) group through an ethyl chain substituted with a methyl group at Rα (i.e. amphetamines are alpha-methylated phenethylamines). \n\n3-FEA is the 3-position fluorinated analog of ethylamphetamine (also known as ethamphetamine). It is also an analog of fenfluramine with the 3-trifluoromethyl group replaced with a 3-fluoro substituent.\n\nPharmacology\n\nAlthough 3-FEA has not been formally studied on the same level as traditional amphetamines, it is currently assumed that like other substituted amphetamines with substitutions at similar positions, it most likely acts primarily as a triple reuptake inhibitor and/or releaser of the monoamine neurotransmitters serotonin, dopamine, and norepinephrine.\n\nIt has been demonstrated that compared to the unsubstituted ethylamphetamine, 3-fluoroethamphetamine is a weaker releaser of dopamine, but a stronger releaser of both serotonin and norepinephrine, producing the strongest reinforcing effects in animal studies out of a range of 3-substituted amphetamine derivatives tested, despite not being the most potent dopamine releaser. \n\nThis indicates that 3-FEA effectively increases the levels of all the three major monoamine neurotransmitters dopamine, norepinephrine, and serotonin in the brain by acting as a releasing agent of said neurotransmitters and/or by binding to and partially blocking the transporter proteins that normally clear those molecules from the synaptic cleft after they have fulfilled their function of conducting a neural impulse. This transporter blockade allows these molecules to accumulate within core synaptic regions of the brain to extra-endogenous levels, resulting in a combination of relaxing, stimulating, disinhibiting and euphoric effects associated with entactogenic substituted amphetamines such as MDMA or  4-FA.\n\nSubjective effects\n\nUnlike its close analog 3-FA, which has been reported as being relatively functional and non-recreational, 3-FEA appears to produce effects more similar to another analog 4-FA, which produces marked entactogenic effects. 3-FEA has also been reported to produce less stimulation compared to 4-FA to the degree that some users report it as being primarily sedating. This effect profile likely makes 3-FEA a poor candidate for functional use and better suited for recreational use in a manner similar to MDMA.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 3-FEA\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 3-FEA use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 3-FEA has an extremely brief history of human usage, first becoming available in mid-2016.\n\nEarly anecdotal reports suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it very cautiously sparingly (although nothing can be completely guaranteed). \n\nDue to its serotonin-releasing entactogenic properties, it is possible 3-FEA may display significant affinity and activity at the 5-HT2B receptor, which like 5-HT2B agonists such as MDMA and fenfluramine would make it cardiotoxic with long-term or heavy use.'\n\nIt is strongly recommended that one use proper harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAlthough it still remains to be seen, the chronic use of 3-FEA will likely come to be considered to be moderately addictive with a high potential for abuse and capable of causing psychological dependence among a certain population of users. When dependence or addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 3-FEA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. Afterward, it takes about 2 - 3 days for the tolerance to be reduced to half and 3-7 days to be back at baseline (in the absence of further consumption). 3-FEA likely presents cross-tolerance with all serotonergic stimulants]] and entactogens, meaning that after the consumption of 3-FEA all stimulants will have a reduced effect (including atypical stimulants one might not expect, such MDMA or amphetamine due to its reliance on robust dopamine and norepinephrine stores to exert its full spectrum of effect).\n\nPsychosis\n\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use.\n\nDangerous interactions\n\nLegal status\n\n3-FEA is currently a grey area compound within many parts of the world, meaning its regulation lies in a legal grey area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, individuals may still be charged for its possession under certain circumstances such as under analog laws and with intent to sell or consume.\n\n*Austria: 3-FEA is illegal to produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).\n*Canada: 3-FEA would be considered Schedule I as it is an analog of Amphetamine.\n*France: As of december 2024, 3-FEA is not explicitly scheduled. It is thus legal to possess, although in a grey area.\n*Germany: 3-FEA is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*New Zealand: 3-FEA is an amphetamine analog, so is a Schedule 3 controlled substance in New Zealand.\n*Switzerland: 3-FEA can be considered a controlled substance as a defined derivative of a-methylphenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.\n*The Netherlands: 3-FEA is a controlled substance as of July 1, 2025. \n*United Kingdom: 3-FEA  is considered a Class A drug as a result of the amphetamine analog clause of the Misuse of Drugs Act 1971.\n*United States: 3-FEA may be considered to be an analogue of amphetamine under the Federal Analogue Act and thus a Schedule II drug. The Federal Analogue Act, 21 U.S.C. § 813, is a section of the United States Controlled Substances Act, allowing any chemical \"substantially similar\" to an illegal drug (in Schedule I or II) to be treated as if it were also in Schedule I or II, but only if it is intended for human consumption.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Entactogen\n*Stimulants\n*Substituted amphetamines\n*4-FA\n*3-FA\n*3-FMA\n\nExternal links\n\n*3-FEA (Wikipedia)\n*3-FEA (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Entactogen\nCategory:Amphetamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/3-FEA}}\n\n'''3-Fluoroethamphetamine''' (also known as '''3-FEA''') is a novel ring-substituted [[chemical class::amphetamine]] compound that produces a mixture of [[psychoactive class::entactogen|entactogenic]] and [[psychoactive class::stimulant]] effects when [[Routes of administration|administered]]. 3-FEA is structurally related to a series of [[designer drug|designer]] fluorinated [[substituted amphetamines]] that originally included compounds such as [[2-FA]], [[2-FMA]], [[3-FA]], [[4-FMA]], [[4-FA]].<ref>{{cite journal | vauthors=((Rösner, P.)), ((Quednow, B.)), ((Girreser, U.)), ((Junge, T.)) | journal=Forensic Science International | title=Isomeric Fluoro-methoxy-phenylalkylamines: a new series of controlled-substance analogues (designer drugs) | volume=148 | issue=2–3 | pages=143–156 | date= March 2005 | url=https://linkinghub.elsevier.com/retrieve/pii/S0379073804003251 | issn=03790738 | doi=10.1016/j.forsciint.2004.05.003}}</ref>\n\nLike its parent compound [[3-FA]], the pharmacological, toxicological, and subjective effects of 3-FEA in humans have yet to be mapped out in detail. Anecdotal reports have characterised 3-FEA as a moderately potent [[serotonin]]-dominant triple [[monoamine]] [[releaser]] that produces a mixture of [[entactogenic]] and mild [[stimulation|stimulating]] effects.{{citation needed}} \n\n3-FEA has an extremely short history of human [[recreational drug use|recreational use]] and has not been documented being sold on the streets. It has recently been made available for sale on the grey market as a [[research chemical]] by online vendors.{{citation needed}} Due to its potent psychostimulant effects, likely habit-forming properties, and unknown toxicity profile, it is strongly recommended that one use proper [[harm reduction practices]] if using this substance.\n\n==Chemistry==\n[[File:samphetamine.png|thumb|right|240px|Generic structure of an amphetamine molecule]]\n\n3-FEA, or 3-fluoroethamphetamine, is a synthetic molecule of the amphetamine chemical class. Molecules of the amphetamine class contain a [[phenethylamine]] core comprised of a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain substituted with a methyl group at Rα (i.e. amphetamines are '''a'''lpha-'''m'''ethylated '''phe'''ne'''t'''hyl'''amines'''). \n\n3-FEA is the 3-position fluorinated analog of ethylamphetamine (also known as ethamphetamine). It is also an analog of fenfluramine with the 3-trifluoromethyl group replaced with a 3-fluoro substituent.{{citation needed}}\n\n==Pharmacology==\nAlthough 3-FEA has not been formally studied on the same level as traditional [[amphetamines]], it is currently assumed that like other [[substituted amphetamines]] with substitutions at similar positions, it most likely acts primarily as a triple [[reuptake inhibitor]] and/or [[releaser]] of the [[monoamine]] [[neurotransmitters]] [[serotonin]], [[dopamine]], and [[norepinephrine]].<ref name=\"tessel\">{{cite journal | vauthors=((Tessel, R. E.)), ((Rutledge, C. O.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Specificity of release of biogenic amines from isolated rat brain tissue as a function of the meta substituent of N-ethylamphetamine derivatives | volume=197 | issue=2 | pages=253–262 | date= May 1976 | issn=0022-3565}}</ref><ref name=\"tessel2\">{{cite journal | vauthors=((Tessel, R. E.)), ((Woods, J. H.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Substituted N-ethylamphetamine self injection responding in the rhesus monkey: structure-activity relationships | volume=205 | issue=2 | pages=274–281 | date= May 1978 | issn=0022-3565}}</ref>\n\nIt has been demonstrated that compared to the unsubstituted ethylamphetamine, 3-fluoroethamphetamine is a weaker releaser of [[dopamine]], but a stronger releaser of both [[serotonin]] and [[norepinephrine]], producing the strongest reinforcing effects in animal studies out of a range of 3-substituted amphetamine derivatives tested, despite not being the most potent dopamine releaser.<ref name=\"tessel2\" /><ref name=\"tessel\" /> \n\nThis indicates that 3-FEA effectively increases the levels of all the three major [[monoamine neurotransmitters]] dopamine, norepinephrine, and serotonin in the brain by acting as a releasing agent of said neurotransmitters and/or by binding to and partially [[Reuptake inhibitor|blocking the transporter proteins]] that normally clear those molecules from the [[synaptic cleft]] after they have fulfilled their function of conducting a neural impulse. This transporter blockade allows these molecules to accumulate within core synaptic regions of the brain to extra-endogenous levels, resulting in a combination of [[Muscle relaxation|relaxing]], [[stimulating]], [[disinhibition|disinhibiting]] and [[euphoria|euphoric]] effects associated with [[entactogenic]] [[substituted amphetamines]] such as [[MDMA]] or  [[4-FA]].{{citation needed}}\n\n==Subjective effects==\nUnlike its close analog [[3-FA]], which has been reported as being relatively functional and non-recreational, 3-FEA appears to produce effects more similar to another analog [[4-FA]], which produces marked [[entactogenic]] effects. 3-FEA has also been reported to produce less [[stimulation|stimulation]] compared to [[4-FA]] to the degree that some users report it as being primarily [[sedating]]. This effect profile likely makes 3-FEA a poor candidate for functional use and better suited for recreational use in a manner similar to [[MDMA]].\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' & '''[[Effect::Stimulation]]''' - 3-FEA has been reported to produce a paradoxical combination of [[sedating]] and [[stimulating|stimulatory]] effects, with the sedating aspects believed to be attributable to the significant amount of [[serotonin]] it releases. The [[stimulating|stimulatory]] effects are typically more prominent at dosages in and above the strong dosage range and tend to become prominent after the peak effects of a dose have subsided.\n*'''[[Effect::Perception of bodily heaviness]]''' - Depending on whether one is feeling more stimulated than sedated, one will often feel as if they are lighter (as in this case) or heavier in the other.\n*'''[[Effect::Spontaneous bodily sensations]]''' - Early reports have described the \"body high\" of 3-FEA as a moderate to strong euphoric tingling sensation that can encompass the entire body that is capable of becoming extremely pleasurable at higher dosages. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.\n*'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile enhancement]]''' - This component primarily tends to occur with higher doses.\n*'''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Temperature regulation suppression]]'''{{citation needed}}\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Vasoconstriction]]'''{{citation needed}}\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''{{citation needed}}\n*'''[[Effect::Difficulty urinating]]''' - 3-FEA can result in difficulty with urination, an effect that is usually temporary and that tends to become more likely and more significant with higher dosages.\n*'''[[Effect::Appetite suppression]]''' - This effect can reportedly continue long after the duration of the main effects of the substance have subsided.{{citation needed}}\n*'''[[Effect::Pupil dilation]]''' - This effect is often very significant at even lower common dosages and the significance at common dosages has been described as being in line with that of a standard dosage of [[MDMA]]. This effect can also reportedly continue long after the duration of the main effects of the substance have subsided.{{citation needed}} The significance of this effect is thought to be attributable to the significant amount of [[serotonin]] that 3-FEA releases.{{citation needed}}\n*'''[[Effect::Teeth grinding]]''' - Teeth grinding often occurs with higher or multiple doses and can be comparable in extent as MDMA.\n*'''[[Effect::Diarrhea]]''' - 3-FEA has been reported to produce a laxative effect in some users.{{citation needed}}\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]''' or '''[[Effect::Anxiety]]''' - 3-FEA typically produces anxiety suppressing effects characteristic of serotonin-releasing [[entactogens]]; however, anxiety may also occur nearer the end of the substance's effect duration when higher dosages have been used.\n*'''[[Effect::Disinhibition]]''' - 3-FEA produces a similar degree of disinhibition as [[MDMA]].\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This effect is reportedly very significant, with dosages in the common range and above often reportedly having this effect occur at a significance in line with that of a common dosage of MDMA.{{citation needed}}\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Thought acceleration]]''' or '''[[Effect::Thought deceleration]]''' - 3-FEA can often case thought acceleration during the come-up and first half of the peak of the substance's effect duration, but then may also cause minor to significant thought deceleration from the latter half of the peak onward, typically more often at higher dosages.\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Increased music appreciation]]''' - This effect is often reported as being a prominent effect at all dosages.{{citation needed}}\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Compulsive redosing]]''' - This effect is often most prominent during or immediately following the peak of the substance's effects.\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober.\n*'''[[Effect::Wakefulness]]''' - This effect typically only occurs following the use of higher or multiple dosages.\n\n}}\n\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n}}\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:3-FEA]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_3FEA.shtml Erowid Experience Vaults: 3-FEA]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational 3-FEA use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because 3-FEA has an extremely brief history of human usage, first becoming available in mid-2016.\n\nEarly anecdotal reports suggest that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it very cautiously sparingly (although nothing can be completely guaranteed). \n\nDue to its [[serotonin]]-releasing [[entactogenic]] properties, it is possible 3-FEA may display significant affinity and activity at the 5-HT<sub>2B</sub> receptor, which like 5-HT<sub>2B</sub> agonists such as [[MDMA]] and fenfluramine would make it cardiotoxic with long-term or heavy use.'''<ref>{{cite journal | vauthors=((Rothman, R. B.)), ((Baumann, M. H.)), ((Savage, J. E.)), ((Rauser, L.)), ((McBride, A.)), ((Hufeisen, S. J.)), ((Roth, B. L.)) | journal=Circulation | title=Evidence for Possible Involvement of 5-HT 2B Receptors in the Cardiac Valvulopathy Associated With Fenfluramine and Other Serotonergic Medications | volume=102 | issue=23 | pages=2836–2841 | date=5 December 2000 | url=https://www.ahajournals.org/doi/10.1161/01.CIR.102.23.2836 | issn=0009-7322 | doi=10.1161/01.CIR.102.23.2836}}</ref>'''\n\nIt is strongly recommended that one use proper [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAlthough it still remains to be seen, the chronic use of 3-FEA will likely come to be considered to be [[Addiction potential::moderately addictive with a high potential for abuse]] and capable of causing psychological dependence among a certain population of users. When dependence or addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of 3-FEA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. Afterward, it takes about [[Time to half tolerance::2 - 3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::3-7 days]] to be back at baseline (in the absence of further consumption). 3-FEA likely presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic and [[serotonin|serotonergic]] [[stimulant]]s]] and [[entactogens]], meaning that after the consumption of 3-FEA all [[stimulant]]s will have a reduced effect (including atypical stimulants one might not expect, such [[MDMA]] or [[amphetamine]] due to its reliance on robust dopamine and norepinephrine stores to exert its full spectrum of effect).\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, dextro[[amphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\"/><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\"/> Psychosis very rarely arises from therapeutic use.<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\n3-FEA is currently a grey area compound within many parts of the world, meaning its regulation lies in a legal grey area and that it is not known to be specifically illegal (\"scheduled\") within any country. However, individuals may still be charged for its possession under certain circumstances such as under analog laws and with intent to sell or consume.\n\n*'''Austria''': 3-FEA is illegal to produce and sell under the NPSG (Neue-Psychoaktive-Substanzen-Gesetz Österreich).{{citation needed}}\n*'''Canada''': 3-FEA would be considered Schedule I as it is an analog of Amphetamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''France''': As of december 2024, 3-FEA is not explicitly scheduled. It is thus legal to possess, although in a grey area.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': 3-FEA is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''New Zealand''': 3-FEA is an amphetamine analog, so is a Schedule 3 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 01 July 2022), Public Act – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html}}</ref>\n*'''Switzerland''': 3-FEA can be considered a controlled substance as a defined derivative of a-methylphenethylamine under Verzeichnis E point 130. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''The Netherlands:''' 3-FEA is a controlled substance as of July 1, 2025. <ref>{{Citation|title= Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden. | year=2025|url=https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs}}</ref>\n*'''United Kingdom''': 3-FEA  is considered a Class A drug as a result of the amphetamine analog clause of the Misuse of Drugs Act 1971.<ref>{{Citation | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I}}</ref>\n*'''United States''': 3-FEA may be considered to be an analogue of amphetamine under the Federal Analogue Act and thus a Schedule II drug. The Federal Analogue Act, 21 U.S.C. § 813, is a section of the United States Controlled Substances Act, allowing any chemical \"substantially similar\" to an illegal drug (in Schedule I or II) to be treated as if it were also in Schedule I or II, but only if it is intended for human consumption.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Entactogen]]\n*[[Stimulants]]\n*[[Substituted amphetamines]]\n*[[4-FA]]\n*[[3-FA]]\n*[[3-FMA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/3-Fluoroethamphetamine 3-FEA (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=6122 3-FEA (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Entactogen]]\n[[Category:Amphetamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

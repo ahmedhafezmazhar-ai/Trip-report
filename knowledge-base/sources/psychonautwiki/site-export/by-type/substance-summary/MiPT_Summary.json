@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13376",
+ "type": "substance-summary",
+ "title": "MiPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MiPT/Summary",
+  "pageid": 13376,
+  "last_edited": "2016-11-28T09:32:34Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "MiPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|MiPT}}"
+}

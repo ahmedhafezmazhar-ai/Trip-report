@@ -1,0 +1,297 @@
+{
+ "id": "psychonautwiki:14131",
+ "type": "substance",
+ "title": "Methcathinone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methcathinone",
+  "pageid": 14131,
+  "last_edited": "2025-07-02T14:28:04Z"
+ },
+ "categories": [
+  "Cathinone",
+  "Proofread",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Methcathinone",
+ "substance_box": {
+  "names": {
+   "common": "Methcathinone, Ephedrone, Methcat, Cat, Jeff, MC",
+   "substitutive": "α-methylamino-propiophenone",
+   "systematic": "(RS)-2-(methylamino)-1-phenyl-propan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Substituted cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 200 mg",
+    "strong": "200 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Methcathinone",
+    "Ephedrone",
+    "Methcat",
+    "Cat",
+    "Jeff",
+    "MC"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "Chemical class": [
+    "Substituted cathinone"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "200"
+   ],
+   "Oral min strong dose": [
+    "200"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Methcathinone",
+   "clean": "Molecular structure of Methcathinone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Methcathinone.svg",
+   "clean": "File:Methcathinone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Methcathinone]], [[common name::Ephedrone]], [[common name::Methcat]], [[common name::Cat]], [[common name::Jeff]], [[common name::MC]]",
+   "clean": "Methcathinone, Ephedrone, Methcat, Cat, Jeff, MC"
+  },
+  "NameSubstitution": {
+   "raw": "α-methylamino-propiophenone",
+   "clean": "α-methylamino-propiophenone"
+  },
+  "NameSystematic": {
+   "raw": "(RS)-2-(methylamino)-1-phenyl-propan-1-one",
+   "clean": "(RS)-2-(methylamino)-1-phenyl-propan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Substituted cathinone|Cathinone]]",
+   "clean": "Substituted cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::200]] mg",
+   "clean": "100 - 200 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::200]] - [[Oral max strong dose::300]] mg",
+   "clean": "200 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Methcathinone (also known as Ephedrone and MCAT) is a synthetic stimulant substance of the cathinone chemical class. It produces standard amphetamine-like stimulant effects. It is similar to the cathinone compounds found in the khat plant of eastern Africa and mephedrone in its structure and effects.\n\nHistory and culture\n\nMethcathinone was first synthesized in 1928 in the USA and it was used in the Soviet Union as an antidepressant. It is common in central and eastern Europe, often sold as the more well known mephedrone or synthesized from OTC drugs containing ephedrine or pseudoephedrine.\n\nChemistry\n\nMethcathinone is comprised of a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain containing a beta-ketone group (what is known as a cathinone molecule) with an additional methyl substitution at Rα. It can be thought of as the cathinone homolog of methamphetamine as it has the same general formula, differing only in the addition of a single double bonded oxygen.\n\nPharmacology\n\nAlthough the effects of methcathinone have not been formally studied on the same level as amphetamines, it is possible to speculate that like other simple substituted cathinone, it most likely acts primarily as a dopamine and norepinephrine reuptake inhibitor. The result of this is an effective increase in the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally clear those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the key area of the brain linked to reward and pleasure to extra-endogenous levels, resulting in stimulating, motivatory and euphoric effects.\n\nSubjective effects\n\nToxicity and harm potencial\n\nNeuro toxicity\n\nIllicit methcathinone manufactured using potassium permanganate oxidation of ephedrine or pseudoephedrine has been connected with neurotoxicity caused by manganese poisoning.\n\nDependence and abuse potential\n\nMethcathinone, due to its highly addictive nature, can often cause extreme compulsive redosing.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nLegal status\n\nInternationally, methcathinone is a Schedule I controlled substance under the United Nations 1971 Convention on Psychotropic Substances.\n\n*Australia: Methcathinone is a Schedule 9 controlled substance.\n\nSee also\n\n*Responsible use\n*Stimulants\n*Cathinones\n*Mephedrone\n*3-MMC\n*Ethcathinone\n*Pseudoephedrine\n\nExperience reports\n\nExternal links\n\n*Methcathinone (Wikipedia)\n*Methcathinone (Isomer Design)\n*Methcathinone (DrugBank)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Cathinone\nCategory:Stimulant\nCategory:Proofread\n\nH,H,H,H,H,CH3,H",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Methcathinone}}\n\n'''Methcathinone''' (also known as '''Ephedrone''' and '''MCAT''') is a synthetic [[psychoactive class::stimulant]] substance of the [[chemical class::cathinone]] chemical class. It produces standard [[amphetamine|amphetamine-like]] stimulant effects. It is similar to the [[cathinone]] compounds found in the [[khat]] plant of eastern Africa and [[mephedrone]] in its structure and effects.\n\n==History and culture==\nMethcathinone was first synthesized in 1928 in the USA and it was used in the Soviet Union as an antidepressant. It is common in central and eastern Europe, often sold as the more well known [[mephedrone]] or synthesized from OTC drugs containing [[ephedrine]] or [[pseudoephedrine]].\n\n==Chemistry==\nMethcathinone is comprised of a [[phenethylamine]] core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain containing a beta-ketone group (what is known as a '''cathinone''' molecule) with an additional methyl substitution at R<sub>α</sub>. It can be thought of as the cathinone homolog of [[methamphetamine]] as it has the same general formula, differing only in the addition of a single double bonded oxygen.\n\n==Pharmacology==\n{{pharmacology}}\nAlthough the effects of methcathinone have not been formally studied on the same level as [[amphetamines]], it is possible to speculate that like other simple [[substituted cathinone]], it most likely acts primarily as a [[dopamine]] and [[norepinephrine]] [[reuptake inhibitor]].<ref>Cathinone derivatives: A review of their chemistry, pharmacology and toxicology | DOI 10.1002/dta.31</ref> The result of this is an effective increase in the levels of the norepinephrine and dopamine [[neurotransmitters]] in the brain by binding to and partially blocking the transporter proteins that normally clear those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the key area of the brain linked to reward and pleasure to extra-endogenous levels, resulting in stimulating, motivatory and euphoric effects.\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n\n*'''[[Effects::Stimulation]]''' - Methcathinone is reported to be extremely stimulating and energetic. The style of stimulation can be described as \"forced\". This means that at higher doses, it becomes difficult or impossible to keep still as jaw clenching, involuntarily body shakes and vibrations become present.\n*'''[[Effects::Physical euphoria]]''' - Physical euphoria is very prominent when used responsibly (i.e. reasonable dosing and spacing between experiences) and can lead to profound feelings of social and physical disinhibition.''\n*'''[[Effect::Dehydration]]''' - The '''Dehydration''' that is experienced during a methcathinone experience is generally '''more severe''' than with other stimulants like Amphetamine. Due to this, you must take extreme care and '''hydrate yourself constantly''', so that you do not suffer from [https://en.wikipedia.org/wiki/Rhabdomyolysis '''Rhabdomyolysis''']. This is done generally by observing your body, if there is any pain, if your kidneys feel weird, and if your urine is yellow to green-yellow like tea. Read the wiki and inform yourself on rhabdomyolysis since it is a very bad thing to have, you could die from it if it is severe enough and untreated over long time. Generally you can mitigate it by seeing if your urine is yellow, then if it is, and you do not urinate regularly '''drink a glass of water every 15 or 30 minutes''' (as long as you don't drink too much and hurt yourself) and your urine should become clear. As Long as you keep hydrating yourself your kidneys will be normal and functioning and you will be good, keep drinking water constantly after it becomes clear, for some few more hours but a bit less amount wise so that you don't have the problem again.\n*'''[[Effect::Increased heart rate]]''' - The increase in heart rate is generally '''weaker''' than with other stimulants like Methamphetamine.'''\n*'''[[Effect::Increased perspiration]]''' - The amount of perspiration is '''very high'''. You will sweat extremely easily in hot places and if you do any physical activity. Mixing Methcathinone with DXM will make you drip drops of sweat literally all the time. Hydrate yourself due to this increased perspiration or you will lose a large amount of water very fast.'''\n*'''[[Effect::Increased blood pressure]]''' - \n*'''[[Effects::Muscle contractions]]''' - These sudden muscle contractions are experienced '''during''' the '''comedown'''. This is due to the deficiency of Dopamine in the brain, which replicates symptoms to Parkinson's disease. These tremors are '''temporary''' and will subside within a few hours.''\n*'''[[Effects::Muscle spasms]]''' - Typically occurs during the Comedown. This is due to depletion of Dopamine in the brain.''\n*'''[[Effect::Spontaneous physical sensations]]'''  - The \"body high\" of Methcathinone can be characterized as a moderate to extreme euphoric sensation that encompasses the entire body. It is capable of becoming overwhelmingly pleasurable at higher doses. This sensation maintains a consistent presence that steadily rises with the onset and hits its limit once the peak has been reached.'' - \n*'''[[Effects::Stomach cramps]]''' - \n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Teeth grinding]]''' - This effect when experienced alongside euphoria can often lead to users mildly or intensely clenching their jaw muscles, sometimes even to the point where the individual’s facial expression begins to change. This is sometimes colloquially called “gurning”[4] and is typically only experienced in common to high dosages.''\n*'''[[Effect::Vasoconstriction]]''' - \n\n}}\n|{{effects/cognitive|\nThe cognitive effects of Methcathinone can be broken down into several components which progressively intensify proportional to dosage.\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Anxiety]]'''\n*'''[[Effects::Cognitive euphoria]]''' - Methcathinone is extremely stimulating and energetic.\n*'''[[Effects::Compulsive redosing]]'''\n*'''[[Effect::Empathy, love, and sociability enhancement]]''' - This particular effect, although distinct, is far less prominent than the same effect found within traditional [[entactogens]] such as [[MDMA]] or [[2C-B]].\n*'''[[Effects::Focus enhancement]]'''\n*'''[[Effects::Increased libido]]''' or '''[[Effects::Decreased libido]]'''\n*'''[[Effects::Increased music appreciation]]'''\n*'''[[Effects::Memory enhancement]]'''\n*'''[[Effects::Motivation enhancement]]'''\n*'''[[Effects::Thought acceleration]]'''\n*'''[[Effects::Thought organization]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effects::Wakefulness]]'''\n*'''[[Effects::Psychosis]]'''\n*'''[[Effects::Paranoia]]'''\n}}\n{{effects/aftereffects|\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Anhedonia]]'''\n}}\n}}\n\n==Toxicity and harm potencial==\n===Neuro toxicity===\nIllicit methcathinone manufactured using potassium permanganate oxidation of [[ephedrine]] or [[pseudoephedrine]] has been connected with neurotoxicity caused by [https://en.wikipedia.org/wiki/Manganese manganese] poisoning.<ref>https://www.nejm.org/doi/full/10.1056/NEJMoa072488</ref>\n\n===Dependence and abuse potential===\nMethcathinone, due to its highly addictive nature, can often cause extreme [[compulsive redosing]].\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n==Legal status==\nInternationally, methcathinone is a Schedule I controlled substance under the United Nations 1971 Convention on Psychotropic Substances.<ref>https://www.incb.org/incb/en/psychotropics/green-list.html</ref>\n\n*'''Australia''': Methcathinone is a Schedule 9 controlled substance.<ref>{{cite web|url=https://www.legislation.gov.au/Details/F2019L01471|title=POISONS STANDARD DECEMBER 2019|publisher=Office of Parliamentary Counsel|access-date=December 19, 2019}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Stimulants]]\n*[[Substituted cathinone|Cathinones]]\n*[[Mephedrone]]\n*[[3-MMC]]\n*[[Ethcathinone]]\n*[[Pseudoephedrine]]\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=Methcathinone}}\n\n==External links==\n*[https://en.wikipedia.org/wiki/Methcathinone Methcathinone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2003 Methcathinone (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB15339 Methcathinone (DrugBank)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Cathinone]]\n[[Category:Stimulant]]\n[[Category:Proofread]]\n\n[[Substitutions::H,H,H,H,H,CH<sub>3</sub>,H]]"
+}

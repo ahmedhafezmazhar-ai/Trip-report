@@ -1,0 +1,349 @@
+{
+ "id": "psychonautwiki:13694",
+ "type": "substance",
+ "title": "Prolintane",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Prolintane",
+  "pageid": 13694,
+  "last_edited": "2022-09-12T20:42:21Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Approval",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Nootropic",
+  "Proofread",
+  "Psychoactive substance",
+  "Pyrrolidine",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Prolintane",
+ "substance_box": {
+  "names": {
+   "common": "Prolintane",
+   "substitutive": "Phenylpyrrolidinopentane",
+   "systematic": "1-Phenyl-2-pyrrolidinylpentane"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Substituted amphetamine / Substituted pyrrolidine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "15 - 25 mg",
+    "common": "25 - 45 mg",
+    "strong": "45 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "20 - 60 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "2 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Prolintane"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Substituted amphetamine",
+    "Substituted pyrrolidine"
+   ],
+   "Oral threshold dose": [
+    "5"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "15"
+   ],
+   "Oral max light dose": [
+    "25"
+   ],
+   "Oral min common dose": [
+    "25"
+   ],
+   "Oral max common dose": [
+    "45"
+   ],
+   "Oral min strong dose": [
+    "45"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Prolintane",
+   "clean": "Molecular structure of Prolintane"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Prolintane.svg",
+   "clean": "File:Prolintane.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Prolintane]]",
+   "clean": "Prolintane"
+  },
+  "NameSubstitution": {
+   "raw": "Phenylpyrrolidinopentane",
+   "clean": "Phenylpyrrolidinopentane"
+  },
+  "NameSystematic": {
+   "raw": "1-Phenyl-2-pyrrolidinylpentane",
+   "clean": "1-Phenyl-2-pyrrolidinylpentane"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]] / [[chemical class::Substituted pyrrolidine|Pyrrolidine]]",
+   "clean": "Substituted amphetamine / Substituted pyrrolidine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::5]] [[Oral dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::15]] - [[Oral max light dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::25]] - [[Oral max common dose::45]] mg",
+   "clean": "25 - 45 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::45]] - [[Oral max strong dose::60]] mg",
+   "clean": "45 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 6 hours"
+  }
+ },
+ "plain_text": "1-Phenyl-2-pyrrolidinylpentane (also known as Prolintane, and by the trade names Catovit, Promotil, and Villescon) is a synthetic central nervous system (CNS) stimulant that is structurally similar to the substituted pyrrolidine class of compounds such as MDPV and A-PVP albeit with notably attenuated effects. Prolintane was first synthesized in the 1950s, where it was found primarily to act as as a norepinephrine-dopamine reuptake inhibitor (NDRI) which is thought to confer its stimulant and potential nootropic qualities. \n\nHistorical reports show records of the preparation of prolintane for use as a mild CNS stimulant, wakefulness agent, and cessation aid for cocaine addiction. It has been marketed in Europe since the 1960s as an antidepressant (i.e. due to its anti-fatigue properties) and analeptic. It has a history of being used in neuropsychiatric research related to CNS stimulants with reduced side effects. Therapeutic uses of prolintane in Africa, Europe, and Australia include the treatment of narcolepsy, ADHD, fatigue, and orthostatic hypotension. It is not approved for pharmaceutical use in the United States. \n\nThe first reports of prolintane abuse appeared in Europe during the early 2000s when prolintane was identified in tablets distributed at a rave party. Later reports documented the recreational use of prolintane in the United States, where it appears to substitute for recreational amphetamine and other stimulant use.\n\nChemistry\n\nProlintane, or 1-Phenyl-2-pyrrolidinylpentane, is a synthetic stimulant of the amphetamine class. An amphetamine molecules has the structure of a phenethylamine molecules with an additional methyl group located on the alpha carbon. Prolintane's structure consists of a phenethylamine core with a propyl group substituted at the alpha carbon, and a pyrrolidine ring at the amino group. Prolintan is structurally similar to A-PVP, but differs in the absence of a ketone group attached to the beta carbon.\n\nPharmacology\n\nProlintane is thought to act primarily as a mild norepinephrine-dopamine reuptake inhibitor. Reduced re-uptake of norepinephrine and dopamine results in higher concentrations of the two catecholamine neurotransmitters in the synaptic cleft, or gap between neurons. The result of this reduced reuptake activity is an enhanced and prolonged concentration and resulting post-synaptic effect of dopaminergic and noradrenaline signaling at dopamine and norepinephrine receptors on the receiving neurons. This sudden increase in neurotransmitter concentration in the brain is thought to be responsible for the high that prolintane can induce at higher doses. \n\nBecause it acts principally as a catecholaminergic re-uptake inhibitor, prolintane could be considered more like cocaine or methylphenidate than amphetamine in its pharmacological mechanism of action  In contrast, amphetamine acts primarily as an agonist to release dopamine and noradrenaline indirectly via activation of the TAAR1 receptor.\n\nSubjective effects\n\nThe effects listed below are based upon the subjective effects index and personal experiences of PsychonautWiki contributors. The listed effects will rarely (if ever) occur all at once, but heavier dosages will increase the chances and are more likely to induce a full range of effects.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational prolintane use do not seem to have been studied in any scientific context, and the exact toxic dosage is unknown. Anecdotal evidence from people who have tried prolintane within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\nLethal dosage\n\nThe exact lethal dosage of prolintane is unknown, and no formal studies have been carried out in humans. The typical adult therapeutic dose of prolintane has been 10-40mg daily. In therapeutic trials, 20mg prolintant is a mild stimulant equivalent to 100mg caffeine. In a study of fatigued volunteers the administration of 20mg or 40mg prolintane produced similar, but less intense effects than 20mg d-amphetamine. In experimental studies of healthy volunteers, prolintane has little cardiovascular activity following the single dose of 20mg. \n\nTolerance and addiction potential\n\nUnlike some of the other more potent stimulants in its class, the chronic use of prolintane can be considered mildly to moderately addictive with only a moderate potential for abuse and is capable of causing psychological dependence among certain users. \n\nWhen addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a potential risk among users of prolintane as it can cause compulsive redosing, although typically to a far lesser degree than the notoriously compulsive cathinone analogs A-PVP and MDPV.\n\nPsychosis\n\nUser reports indicate that chronic abuse or single overdose exposure of prolintane can potentially lead to psychosis. Psychotic symptoms from prolintane can include  hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability.\n\nDangerous interactions\n\n*Stimulants - Prolintane can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with amphetamine and other stimulants.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\n*Germany: Prolintane is a prescription only medicine, according to Anlage 1 AMVV (Medicine Prescribing Regulation, Schedule 1).\n*Switzerland: Prolintane is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Nootropic\n*Substituted pyrrolidine\n*Methylphenidate\n*a-PVP\n*MDPV\n\nExternal links\n\n*Prolintane (Wikipedia)\n*Prolintane (Erowid Vault)\n*Prolintane (Isomer Design)\n\nReferences\n\nCategory:Proofread\nCategory:Approval\nCategory:Psychoactive substance\nCategory:Research chemical\nCategory:Amphetamine\nCategory:Pyrrolidine\nCategory:Nootropic\nCategory:Stimulant",
+ "wikitext": "{{headerpanel|}}\n{{SummarySheet}}\n{{SubstanceBox/Prolintane}}\n\n'''1-Phenyl-2-pyrrolidinylpentane''' (also known as '''Prolintane''', and by the trade names '''Catovit''', '''Promotil''', and '''Villescon''') is a synthetic central nervous system (CNS) [[psychoactive class::stimulant]] that is structurally similar to the [[chemical class::substituted pyrrolidine]] class of compounds such as [[MDPV]] and [[A-PVP]] albeit with notably attenuated effects. Prolintane was first synthesized in the 1950s, where it was found primarily to act as as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI)<ref name=\"GB807835\">{{Citation | title=New tertiary amines and their salts and process for their preparation | url=https://patents.google.com/patent/GB807835A/en}}</ref> which is thought to confer its [[stimulant]] and potential [[nootropic]] qualities. \n\nHistorical reports show records of the preparation of prolintane for use as a mild CNS stimulant, wakefulness agent, and cessation aid for [[cocaine]] addiction. It has been marketed in Europe since the 1960s as an antidepressant (i.e. due to its anti-fatigue properties) and analeptic. It has a history of being used in neuropsychiatric research related to CNS stimulants with reduced side effects. Therapeutic uses of prolintane in Africa, Europe, and Australia include the treatment of narcolepsy, ADHD, fatigue, and orthostatic hypotension. It is not approved for pharmaceutical use in the United States.<ref name=\"Barceloux2012\">{{cite journal | vauthors=((Moody, D. E.)) | journal=Journal of Analytical Toxicology | title=Medical Toxicology of Drug Abuse: Synthesized Chemicals and Psychoactive Plants | volume=37 | issue=1 | pages=50–50 | date=1 January 2013 | url=http://academic.oup.com/jat/article/37/1/50/747669/Medical-Toxicology-of-Drug-Abuse-Synthesized | issn=1945-2403 | doi=10.1093/jat/bks088}}</ref> \n\nThe first reports of prolintane abuse appeared in Europe during the early 2000s when prolintane was identified in tablets distributed at a rave party. Later reports documented the recreational use of prolintane in the United States, where it appears to substitute for recreational amphetamine and other stimulant use.<ref name=\"Barceloux2012\"></ref>\n\n==Chemistry==\nProlintane, or 1-Phenyl-2-pyrrolidinylpentane, is a synthetic stimulant of the [[chemical class::amphetamine]] class. An [[amphetamine]] molecules has the structure of a [[phenethylamine]] molecules with an additional methyl group located on the alpha carbon. Prolintane's structure consists of a [[phenethylamine]] core with a propyl group substituted at the alpha carbon, and a [[pyrrolidine]] ring at the amino group. Prolintan is structurally similar to [[A-PVP]], but differs in the absence of a ketone group attached to the beta carbon.\n\n==Pharmacology== \nProlintane is thought to act primarily as a mild [[Noradrenaline|norepinephrine]]-[[dopamine]] [[reuptake inhibitor]].<ref name=\"GB807835\" /> Reduced re-uptake of norepinephrine and dopamine results in higher concentrations of the two [[catecholamine]] [[neurotransmitter]]s in the [[Synapse|synaptic cleft]], or gap between [[Neurons|neurons]]. The result of this reduced reuptake activity is an enhanced and prolonged concentration and resulting post-synaptic effect of dopaminergic and noradrenaline signaling at dopamine and norepinephrine receptors on the receiving neurons. This sudden increase in neurotransmitter concentration in the brain is thought to be responsible for the high that prolintane can induce at higher doses. \n\nBecause it acts principally as a catecholaminergic re-uptake inhibitor, prolintane could be considered more like [[cocaine]] or [[methylphenidate]] than [[amphetamine]] in its pharmacological mechanism of action <ref>http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</ref> In contrast, amphetamine acts primarily as an agonist to release dopamine and noradrenaline indirectly via activation of the TAAR1 receptor.{{citation needed}}\n\n==Subjective effects==\nThe effects listed below are based upon the subjective effects index and personal experiences of PsychonautWiki contributors. The listed effects will rarely (if ever) occur all at once, but heavier dosages will increase the chances and are more likely to induce a full range of effects.\n\n{{effects/base\n|{{effects/physical|\n* '''[[Effect::Abnormal heartbeat]]'''\n* '''[[Effect::Appetite suppression]]'''\n* '''[[Effect::Diarrhea]]''' or '''[[Effect::Nausea]]''' - Some experience reports describe individuals who have experienced one or more types of gastrointestinal disturbance while under the influence of prolintane, but typically only at very high doses.\n* '''[[Effect::Headaches]]'''\n* '''[[Effect::Increased heart rate]]''' - Higher doses of prolintane can create a significant and often dangerous increase in heart rate and blood pressure.\n* '''[[Effect::Muscle contractions]]'''\n* '''[[Effect::Muscle spasms]]'''\n* '''[[Effect::Restless leg syndrome]]'''\n* '''[[Effect::Stamina enhancement]]'''\n* '''[[Effect::Stimulation]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the offset of a stimulant experience generally feel negative and uncomfortable in comparison to the effects which occurred during its peak. This is often referred to as a \"comedown\" and occurs because of neurotransmitter depletion. Its effects commonly include:\n* '''[[Effect::Anxiety]]'''\n* '''[[Effect::Cognitive fatigue]]'''\n* '''[[Effect::Depression]]'''\n* '''[[Effect::Irritability]]'''\n* '''[[Effect::Motivation suppression]]'''\n* '''[[Effect::Thought deceleration]]'''\n* '''[[Effect::Wakefulness]]'''\n}}\n|{{effects/cognitive|\nThe general cognitive effects of prolintane can be described as being similar to those of classical CNS stimulants with attenuated activity. At common dosages, the prolintane high is described as being subtle and functional, comparable to a proportionally smaller dose of [[amphetamine|dextroamphetamine]] with a smoother, less jittery come up and a milder comedown. Higher doses of prolintane, however, can likely intensify numerous negative effects such as anxiety and disorganized thoughts; at extremely high doses or continued use, delusions and psychosis become likely.\n\n* '''[[Effect::Anxiety]]'''\n* '''[[Effect::Cognitive euphoria]]'''\n* '''[[Effect::Compulsive redosing]]''' \n* '''[[Effect::Creativity enhancement]]'''\n* '''[[Effect::Delusions]]''' - This effect can manifest with high doses, but less readily than with other stimulants.\n* '''[[Effect::Ego inflation]]'''\n* '''[[Effect::Focus enhancement]]'''\n* '''[[Effect::Increased libido]]'''\n* '''[[Effect::Motivation enhancement]]'''\n* '''[[Effect::Paranoia]]''' - This effect can also manifest with high doses, but less readily than with other stimulants.\n* '''[[Effect::Stamina enhancement]]'''\n* '''[[Effect::Psychosis]]''' \n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n* '''[[Effect::Thought acceleration]]'''\n* '''[[Effect::Thought organization]]''' - Mainly observed with low to common doses.\n* '''[[Effect::Thought disorganization]]''' - This effect manifests and is also intensified with higher doses. \n* '''[[Effect::Wakefulness]]'''\n\n}}\n\n\n\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Prolintane]][[Category:Experience]]|format=ul|Columns=1}}\n\n==Toxicity and harm potential==\n\nThe toxicity and long-term health effects of recreational prolintane use do not seem to have been studied in any scientific context, and the exact toxic dosage is unknown. Anecdotal evidence from people who have tried prolintane within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed).\n\n===Lethal dosage===\nThe exact lethal dosage of prolintane is unknown, and no formal studies have been carried out in humans. The typical adult therapeutic dose of prolintane has been 10-40mg daily. In therapeutic trials, 20mg prolintant is a mild stimulant equivalent to 100mg caffeine. In a study of fatigued volunteers the administration of 20mg or 40mg prolintane produced similar, but less intense effects than 20mg [[amphetamine|d-amphetamine]]. In experimental studies of healthy volunteers, prolintane has little cardiovascular activity following the single dose of 20mg.<ref name=\"Barceloux2012\"></ref> \n\n===Tolerance and addiction potential===\nUnlike some of the other more potent [[stimulants]] in its class, the chronic use of prolintane can be considered mildly to moderately addictive with only a moderate potential for abuse and is capable of causing psychological dependence among certain users. \n\nWhen addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a potential risk among users of prolintane as it can cause compulsive redosing, although typically to a far lesser degree than the notoriously compulsive [[substituted cathinone|cathinone]] analogs A-PVP and MDPV.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nUser reports indicate that chronic abuse or single overdose exposure of prolintane can potentially lead to [[psychosis]]. Psychotic symptoms from prolintane can include  [[Auditory hallucinations|hearing voices]], [[external hallucinations|visual hallucinations]], urges to harm oneself, severe [[anxiety]], [[mania]], grandiosity, [[delusions|paranoid delusions]], [[confusion]], increased aggression, and [[irritability]].\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Stimulants]]''' - Prolintane can be potentially dangerous in combination with other [[stimulant]]s as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with [[amphetamine]] and other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Prolintane is a prescription only medicine, according to Anlage 1 AMVV (''Medicine Prescribing Regulation, Schedule 1'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/amvv/anlage_1.html|title=Anlage 1 AMVV|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 28, 2019|language=de}}</ref>\n*'''Switzerland''': Prolintane is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Nootropic]]\n*[[Substituted pyrrolidine]]\n*[[Methylphenidate]]\n*[[a-PVP]]\n*[[MDPV]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/prolintane Prolintane (Wikipedia)]\n*[https://erowid.org/chemicals/Prolintane/Prolintane.shtml Prolintane (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2121 Prolintane (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Proofread]]\n[[Category:Approval]]\n[[Category:Psychoactive substance]]\n[[Category:Research chemical]]\n[[Category:Amphetamine]]\n[[Category:Pyrrolidine]]\n[[Category:Nootropic]]\n[[Category:Stimulant]]"
+}

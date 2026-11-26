@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11491",
+ "type": "plants-and-fungi",
+ "title": "Apium graveolens (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Apium_graveolens_%28botany%29",
+  "pageid": 11491,
+  "last_edited": "2025-11-29T04:16:35Z"
+ },
+ "categories": [
+  "Apiaceae (family)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Apium graveolens (Wikipedia)\n\nCategory:Apiaceae (family)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Apium graveolens}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Apium_graveolens ''Apium graveolens'' (Wikipedia)]\n\n[[Category:Apiaceae (family)]]"
+}

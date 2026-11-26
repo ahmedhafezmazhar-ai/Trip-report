@@ -1,0 +1,513 @@
+{
+ "id": "psychonautwiki:12616",
+ "type": "substance",
+ "title": "3-MeO-PCE",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-MeO-PCE",
+  "pageid": 12616,
+  "last_edited": "2024-07-03T00:03:32Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Arylcyclohexylamine",
+  "CS1 German-language sources (de)",
+  "Dissociative",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/3-MeO-PCE",
+ "substance_box": {
+  "names": {
+   "common": "3-MeO-PCE, Methoxyeticyclidine",
+   "substitutive": "3-Methoxyeticyclidine",
+   "systematic": "N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "4 - 8 mg",
+    "common": "8 - 15 mg",
+    "strong": "15 - 25 mg",
+    "heavy": "25+ mg Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 8 hours",
+    "onset": "30 - 90 minutes",
+    "comeup": "1 - 2 hours",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "3 - 6 mg",
+    "common": "6 - 12 mg",
+    "strong": "12 - 20 mg",
+    "heavy": "20 mg + Heavy doses may result in psychosis and mania.",
+    "duration": "3 - 5 hours",
+    "onset": "3 - 15 minutes",
+    "comeup": "45 - 90 minutes",
+    "peak": "1.5 - 2 hours",
+    "offset": "45 - 60 minutes",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "3-MeO-PCE",
+    "Methoxyeticyclidine"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "4"
+   ],
+   "Oral max light dose": [
+    "8"
+   ],
+   "Oral min common dose": [
+    "8"
+   ],
+   "Oral max common dose": [
+    "15"
+   ],
+   "Oral min strong dose": [
+    "15"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "3"
+   ],
+   "Insufflated max light dose": [
+    "6"
+   ],
+   "Insufflated min common dose": [
+    "6"
+   ],
+   "Insufflated max common dose": [
+    "12"
+   ],
+   "Insufflated min strong dose": [
+    "12"
+   ],
+   "Insufflated max strong dose": [
+    "20"
+   ],
+   "Insufflated heavy dose": [
+    "20"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "5"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "15"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "45"
+   ],
+   "Insufflated max comeup time": [
+    "90"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1.5"
+   ],
+   "Insufflated max peak time": [
+    "2"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "45"
+   ],
+   "Insufflated max offset time": [
+    "60"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "4"
+   ],
+   "Insufflated max afterglow time": [
+    "48"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 3-MeO-PCE",
+   "clean": "Molecular structure of 3-MeO-PCE"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:3-MeO-PCE.svg",
+   "clean": "File:3-MeO-PCE.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::3-MeO-PCE]], [[common name::Methoxyeticyclidine]]",
+   "clean": "3-MeO-PCE, Methoxyeticyclidine"
+  },
+  "NameSubstitution": {
+   "raw": "3-Methoxyeticyclidine",
+   "clean": "3-Methoxyeticyclidine"
+  },
+  "NameSystematic": {
+   "raw": "N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amine",
+   "clean": "N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::4]] - [[Oral max light dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::8]] - [[Oral max common dose::15]] mg",
+   "clean": "8 - 15 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::15]] - [[Oral max strong dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]]+ mg<span style=\"color:red\"> '''Heavy doses may result in psychosis and mania.'''<ref name=\"psychosis2\">3-MeO-PCE Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCE#Toxicity_and_harm_potential</ref></span>",
+   "clean": "25+ mg Heavy doses may result in psychosis and mania."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::3]] - [[Insufflated max light dose::6]] mg",
+   "clean": "3 - 6 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::6]] - [[Insufflated max common dose::12]] mg",
+   "clean": "6 - 12 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::12]] - [[Insufflated max strong dose::20]] mg",
+   "clean": "12 - 20 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::20]] mg + <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref name=\"psychosis2\" /></span>",
+   "clean": "20 mg + Heavy doses may result in psychosis and mania."
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::5]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::15]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 15 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::45]] - [[Insufflated max comeup time::90]] [[Insufflated comeup time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1.5]] - [[Insufflated max peak time::2]] [[Insufflated peak time units::hours]]",
+   "clean": "1.5 - 2 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::45]] - [[Insufflated max offset time::60]] [[Insufflated offset time units::minutes]]",
+   "clean": "45 - 60 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::4]] - [[Insufflated max afterglow time::48]] [[Insufflated afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  }
+ },
+ "plain_text": "3-Methoxyeticyclidine (also known as Methoxieticyclidine and 3-MeO-PCE) is a novel dissociative substance of the arylcyclohexylamine class that produces dissociative and hallucinogenic effects when administered. It is a structural analog of PCE. \n\n3-MeO-PCE began to gain popularity in 2010  and is sold on the online grey area research chemical market as a legal alternative to PCP or ketamine. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 3-MeO-PCE, and it has a very brief history of human usage. It is strongly recommended that one use harm reduction practices if using this substance. \n\nChemistry\n\n3-MeO-PCE, or N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amine, is classed as an arylcyclohexylamine drug. Ayrlcyclohexylamine drugs are named for their structures which include a cyclohexane ring bound to an aromatic ring along with an amine group. 3-MeO-PCE contains a phenyl ring with a methoxy (CH3-O-) substituent at R3 bonded to a cyclohexane ring. Bound to the same carbon (R1) of the cyclohexanone ring is an amino ethyl chain -NCH2CH3. 3-MeO-PCE, like MXE, contains an amino ethyl chain rather than the amino methyl chain found in DCK and ketamine. 3-MeO-PCE is analogous to MXE, but lacks an R2 substituted ketone. It is also homologous to 3-MeO-PCP but lacks the additional carbons to complete a piperidine ring.\n\nPharmacology\n\n3-MeO-PCE acts principally as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “k-hole.”\n\n3-MeO-PCE has Ki values of 61 nM for the NMDA receptor, 743 nM for the dopamine transporter, 2097 nM for the histamine H2 receptor, 964 nM for the Alpha-2A adrenergic receptor, 115 nM for the serotonin transporter, 4519 nM for the σ1 receptor and 525 nM for the σ2 receptor. \n\nSubjective effects\n\n3-MeO-PCE can be said to share extremely similar properties to that of 3-MeO-PCP but with a potentially higher risk of inducing states of mania, delusions and potential psychosis due to the greater degree of euphoric stimulation and the compulsive redosing it can lead to. However, the effects are reported to largely converge with those of 3-MeO-PCP after a certain dose-point, when the dissociating effects come to dominate.\n\nIt is also often reported to be significantly more stimulating and less sedating than other dissociatives such as ketamine or MXE while more comfortable than O-PCE, MXP, diphenidine and other noradrenaline reuptake inhibiting dissociative compounds which suggests that it may have a higher affinity for dopamine or serotonin.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 3-MeO-PCE\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational 3-MeO-PCE use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because 3-MeO-PCE has very little history of human usage. \n\nPsychosis\n\n3-MeO-PCE has been reported to cause psychosis, delusions, and mania at a significantly higher rate than other dissociatives such as ketamine, diphenidine, or MXE. There are a large number of experience reports online which describe states of \"psychotic delirium, amnesia, mania, and other serious consequences\" after abusing the substance.\n\nIt is strongly recommended that one use extreme caution and harm reduction practices when using this substance.\n\n*Users should avoid using the substance multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger these effects as well.\n*Users should start with extremely low doses and work their way up as slowly as possible. Volumetric liquid dosing should preferably be used due to the substance's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.\n*Compulsive redosing before one has fully sobered up is not recommended and can result in too high of a dose.\n\nDue to the risk of psychosis, it is not recommended to combine this drug with other substances, especially stimulants, psychedelics, or other dissociatives like MXE. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use harm reduction practices, such as volumetric dosing, when using this substance to ensure the accurate administration of the intended dose.\n\nTolerance and addiction potential\n\nThe chronic use of 3-MeO-PCE can be considered highly addictive with a high potential for adverse side effects such as psychosis. In comparison to other dissociatives, 3-MeO-PCE has been reported to be more habit-forming than MXE, diphenidine, ephenidine, and ketamine. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of 3-MeO-PCE develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 3-MeO-PCE presents cross-tolerance with all dissociatives, meaning that after the use of 3-MeO-PCE, all dissociatives will have a reduced effect.\n\nUrinary tract effects\n\nRegarding its long-term health effects when used repeatedly and over excessive periods, 3-MeO-PCE seems to exhibit almost identical bladder and urinary tract problems to those found within ketamine, but to a lesser extent. This is because 3-MeO-PCE is far more potent than ketamine, so significantly less of drug needs to be consumed. Symptoms of ketamine-induced cystitis can become severe and can be described as:\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, especially since the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using 3-MeO-PCE on a daily or even weekly basis and consciously limiting one's usage of the substance.\n\nDangerous interactions\n\n*Psychedelics - This combination is not advised because 3-MeO-PCE has been reported to cause extreme psychological disturbances such as psychosis and mania at a significantly higher rate than other dissociatives.\n\nLegal status\n\n*Czech Republic:  6-APB is a Schedule I (List 4) substance. It may be used for research and restricted therapeutic purposes. (§ 1, d), 1. of Nařízení vlády č. 463/2013 Sb.) \n*Germany: 3-MeO-PCE is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: 3-MeO-PCE is a controlled substance specifically named under Verzeichnis E.\n*Turkey: 3-MeO-PCE is a classed as drug and is illegal to possess, produce, supply, or import. \n*United Kingdom - 3-MeO-PCE is a class B drug in the UK and is illegal to possess, produce, supply, or import. As an N-alkyl derivative of 1-phenylcyclohexylamine substituted in the phenyl ring with an alkoxy substituent, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Research chemical\n*Dissociatives\n*Arylcyclohexylamines\n*3-MeO-PCP\n*PCP\n\nExternal links\n\n*3-MeO-PCE (Wikipedia)\n*3-MeO-PCE (Isomer Design)\n*3-MeO-PCE (Bluelight)\n*Interview with a Ketamine Chemist (VICE)\n\nLiterature\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Psychoactive substancea\nCategory:Arylcyclohexylamine\nCategory:Dissociative\nCategory:Research chemical",
+ "wikitext": "{{Headerpanel|{{Warning/3-MeO-PCE}}}}\n{{SummarySheet}}\n{{SubstanceBox/3-MeO-PCE}}\n\n'''3-Methoxyeticyclidine''' (also known as '''Methoxieticyclidine''' and '''3-MeO-PCE''') is a novel [[Psychoactive class::dissociative]] substance of the [[Chemical class::arylcyclohexylamine]] class that produces [[dissociative]] and [[hallucinogenic]] effects when [[Routes of administration|administered]]. It is a structural analog of [[PCE]]. \n\n3-MeO-PCE began to gain popularity in 2010 <ref>3-MeO-PCE - Explore - Google Trends | https://www.google.com/trends/explore?date=all&q=3-MeO-PCE</ref> and is sold on the online grey area [[research chemical]] market as a legal alternative to [[PCP]] or [[ketamine]].<ref>{{cite journal | vauthors=((Wallach, J.)), ((Colestock, T.)), ((Cicali, B.)), ((Elliott, S. P.)), ((Kavanagh, P. V.)), ((Adejare, A.)), ((Dempster, N. M.)), ((Brandt, S. D.)) | journal=Drug Testing and Analysis | title=Syntheses and analytical characterizations of N-alkyl-arylcyclohexylamines | volume=8 | issue=8 | pages=801–815 | date= August 2016 | issn=1942-7611 | doi=10.1002/dta.1861}}</ref><ref>{{cite journal | vauthors=((De Paoli, G.)), ((Brandt, S. D.)), ((Wallach, J.)), ((Archer, R. P.)), ((Pounder, D. J.)) | journal=Journal of Analytical Toxicology | title=From the Street to the Laboratory: Analytical Profiles of Methoxetamine, 3-Methoxyeticyclidine and 3-Methoxyphencyclidine and their Determination in Three Biological Matrices | volume=37 | issue=5 | pages=277–283 | date=1 June 2013 | url=https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt023 | issn=0146-4760 | doi=10.1093/jat/bkt023}}</ref><ref>{{Citation | title=nsddb.eu | url=http://nsddb.eu/substance/296/}}</ref> \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of 3-MeO-PCE, and it has a very brief history of human usage. It is strongly recommended that one use harm reduction practices if using this substance. \n\n==Chemistry==\n3-MeO-PCE, or N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amine, is classed as an [[arylcyclohexylamine]] drug. Ayrlcyclohexylamine drugs are named for their structures which include a cyclohexane ring bound to an aromatic ring along with an amine group. 3-MeO-PCE contains a phenyl ring with a methoxy (CH<sub>3</sub>-O-) substituent at R<sub>3</sub> bonded to a cyclohexane ring. Bound to the same carbon (R<sub>1</sub>) of the cyclohexanone ring is an amino ethyl chain -NCH<sub>2</sub>CH<sub>3</sub>. 3-MeO-PCE, like [[MXE]], contains an amino ethyl chain rather than the amino methyl chain found in [[DCK]] and [[ketamine]]. 3-MeO-PCE is analogous to [[MXE]], but lacks an R<sub>2</sub> substituted ketone. It is also homologous to [[3-MeO-PCP]] but lacks the additional carbons to complete a piperidine ring.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\n3-MeO-PCE acts principally as an [[NMDA receptor antagonist]]. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the famous “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\n3-MeO-PCE has Ki values of 61 nM for the NMDA receptor, 743 nM for the dopamine transporter, 2097 nM for the histamine H2 receptor, 964 nM for the Alpha-2A adrenergic receptor, 115 nM for the serotonin transporter, 4519 nM for the σ1 receptor and 525 nM for the σ2 receptor. <ref>{{cite journal | vauthors=((Roth, B. L.)), ((Gibbons, S.)), ((Arunotayanun, W.)), ((Huang, X.-P.)), ((Setola, V.)), ((Treble, R.)), ((Iversen, L.)) | journal=PLOS ONE | title=Correction: The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor | volume=13 | issue=3 | pages=e0194984 | date=22 March 2018 | url=https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194984 | issn=1932-6203 | doi=10.1371/journal.pone.0194984}}</ref>\n\n==Subjective effects==\n3-MeO-PCE can be said to share extremely similar properties to that of [[3-MeO-PCP]] but with a potentially higher risk of inducing states of [[mania]], [[delusions]] and potential [[psychosis]] due to the greater degree of euphoric [[stimulation]] and the [[compulsive redosing]] it can lead to. However, the effects are reported to largely converge with those of [[3-MeO-PCP]] after a certain dose-point, when the [[dissociative|dissociating]] effects come to dominate.\n\nIt is also often reported to be significantly more stimulating and less sedating than other [[dissociatives]] such as [[ketamine]] or [[MXE]] while more comfortable than [[O-PCE]], [[MXP]], [[diphenidine]] and other [[noradrenaline]] [[reuptake inhibitor|reuptake inhibiting]] dissociative compounds which suggests that it may have a higher affinity for [[dopamine]] or [[serotonin]].{{citation needed}}\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - This drug is extremely stimulating in comparison to other dissociatives such as [[ketamine]], [[MXE]], or [[DCK]]. The stimulation it presents is clean and comfortable in a manner which is far closer to that of [[3-MeO-PCP]] than that of [[O-PCE]].\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Restless legs]]'''\n*'''[[Effect::Spontaneous physical sensations]]''' - The  body high of this compound can be described in terms of its style variations as a motionless, constant, sharp, all-encompassing, euphoric general activation of nerve endings across the body. This feels halfway between the same sensations induced by [[3-MeO-PCP]] and [[O-PCE]] and disappears at higher doses due to the disconnecting and anesthetic effects it produces.\n*'''[[Effect::Physical euphoria]]''' - At lower to moderate dosages, the sensation itself can be described as feelings of physical comfort, warmth and euphoria which spreads throughout the body. However, at heavier dosages, this sensation becomes neutral or potentially uncomfortable in terms of its enjoyability.\n*'''[[Effect::Bodily control enhancement]]''' - At lower dosages this compound typically induces enhancements in bodily control. At higher dosages, this enhancement shifts towards losses in gross and fine motor control.\n*'''[[Effect::Tactile enhancement]]''' & '''[[Effect::Tactile suppression]]''' - At lower dosages, this compound tends to induce tactile enhancements. At higher dosages, this enhancement shifts towards tactile suppressions and [[pain relief|anesthesia]].\n*'''[[Effect::Motor control loss]]''' - At lower dosages this compound typically induces enhancements in bodily control. At higher dosages, this enhancement shifts towards losses in gross and fine motor control.\n*'''[[Effect::Changes in felt gravity]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Nausea suppression]]'''\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Increased blood pressure]]''' - This effect is typically present at the higher doses.{{citation needed}}\n*'''[[Effect::Increased heart rate]]''' - An uncomfortably increased heart rate may become present at heavier dosages but is not noticeable at low to moderate dosages. It tends to become more prominent towards the [[offset]] of the trip. This effect has been reported as being more pronounced than other dissociatives, such as [[DCK]] or [[ketamine]].\n*'''[[Effect::Respiratory depression]]''' - This effect has been reported to be present at heavier dosage levels.{{citation needed}}\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Olfactory hallucinations]]\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Spatial disorientation]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Seizure]]'''\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Tactile disconnection]]'''\n*'''[[Effect::Visual disconnection]]''' - This eventually results in 3-MeO-PCE's equivalent of the notorious \"[https://en.wikipedia.org/wiki/K-hole k-hole]\" or, more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Consciousness disconnection]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory suppression|Suppression]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Synaesthesia]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Mania]]''' - This effect is reportedly more common on 3-MeO-PCE than most other dissociatives. It typically occurs during the offset of the trip, but can also occur during the onset and come up as well.\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Delusion]]''' - Like psychosis, this effect is reportedly more common on 3-MeO-PCE than most other dissociatives.\n**'''[[Effect::Delusions#Delusions of sobriety|Delusions of sobriety]]'''\n**'''[[Effect::Compulsive redosing]]''' - This effect is more prominent based on the route of administration used. For example, it is especially present when smoked or vaporized, due to the relative abruptness of the substance entering and leaving the bloodstream.\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Psychosis]]''' - This effect has been reported to be more common on 3-MeO-PCE than most other dissociatives, such as [[MXE]] or [[Ketamine]]. It typically occurs during the [[offset]] of the trip, but can also occur during the [[onset]] and [[come up]] as well.\n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Acuity enhancement]]''' - This effect has been reported as being especially present at low dosages.\n*'''[[Effect::Colour enhancement]]'''\n====Suppressions====\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::Visual acuity suppression]]'''\n\n====Distortions====\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry found within 3-MeO-PCE can be described as very dark and bland when compared to that of [[ketamine]] or [[DXM]] and often consists of many tiny interlocking and woven lines. It does not extend beyond level 4 and can be comprehensively described through its [[Visual_effects:_Geometry#Variations|variations]] as simplistic in complexity, algorithmic in style, synthetic in feel, unstructured in organization, dimly lit in lighting, multicolored in scheme, glossy in shading, soft in edges, small in size, slow in speed, smooth in motion, equal in rounded and angular corners, immersive in-depth and consistent in intensity.\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:3-MeO-PCE]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_3MEOPCE_.shtml Erowid Experience Vaults: 3-MeO-PCE]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational 3-MeO-PCE use do not seem to have been studied in any scientific context and the exact [[Toxicity::toxic dosage is unknown]]. This is because 3-MeO-PCE has very little history of human usage. \n\n===Psychosis===\n3-MeO-PCE has been reported to cause [[psychosis]], [[delusions]], and [[mania]] at a significantly higher rate than other [[dissociative]]s such as [[ketamine]], [[diphenidine]], or [[MXE]]. There are a large number of experience reports online which describe states of \"psychotic delirium, amnesia, mania, and other serious consequences\" after abusing the substance.\n\nIt is strongly recommended that one use extreme caution and [[responsible drug use|harm reduction]] practices when using this substance.\n\n*Users should avoid using the substance multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger these effects as well.\n*Users should start with extremely low doses and work their way up as slowly as possible. [[Volumetric liquid dosing|Volumetric liquid dosing]] should preferably be used due to the substance's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.<ref>3-MeO-PCE (TripSit) | https://wiki.tripsit.me/wiki/3-MeO-PCE</ref>\n*[[Compulsive redosing]] before one has fully sobered up is not recommended and can result in too high of a dose.\n\nDue to the risk of psychosis, it is not recommended to combine this drug with other substances, especially [[stimulants]], [[psychedelics]], or other [[dissociatives]] like [[MXE]]. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]], such as [[volumetric dosing]], when using this substance to ensure the accurate administration of the intended dose.\n\n===Tolerance and addiction potential===\nThe chronic use of 3-MeO-PCE can be considered [[Addiction potential::highly addictive with a high potential for adverse side effects such as psychosis]]. In comparison to other [[dissociatives]], 3-MeO-PCE has been reported to be more habit-forming than [[MXE]], [[diphenidine]], [[ephenidine]], and [[ketamine]]. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of 3-MeO-PCE develops [[Time to full tolerance::with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). 3-MeO-PCE presents cross-tolerance with [[Cross-tolerance::all [[dissociatives]]]], meaning that after the use of 3-MeO-PCE, all [[dissociatives]] will have a reduced effect.\n\n===Urinary tract effects===\nRegarding its long-term health effects when used repeatedly and over excessive periods, 3-MeO-PCE seems to exhibit almost identical bladder and urinary tract problems to those found within [[ketamine]], but to a lesser extent. This is because 3-MeO-PCE is far more potent than ketamine, so significantly less of drug needs to be consumed. Symptoms of ketamine-induced cystitis can become severe and can be described as:\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, especially since the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the leakage of urine.\n\nAll of these, however, can easily be avoided by simply not using 3-MeO-PCE on a daily or even weekly basis and consciously limiting one's usage of the substance.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Psychedelics]]''' - This combination is not advised because 3-MeO-PCE has been reported to cause extreme psychological disturbances such as [[psychosis]] and mania at a significantly higher rate than other [[dissociatives]].\n{{DangerousInteractions/Dissos}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Czech Republic:'''  6-APB is a Schedule I (List 4) substance. It may be used for research and restricted therapeutic purposes. (§ 1, d), 1. of Nařízení vlády č. 463/2013 Sb.) <ref> https://www.zakonyprolidi.cz/cs/2013-463?text=o+seznamech+n%C3%A1vykov%C3%BDch </ref>\n*'''Germany:''' 3-MeO-PCE is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Switzerland:''' 3-MeO-PCE is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' 3-MeO-PCE is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''United Kingdom''' - 3-MeO-PCE is a class B drug in the UK and is illegal to possess, produce, supply, or import. As an N-alkyl derivative of 1-phenylcyclohexylamine substituted in the phenyl ring with an alkoxy substituent, it is covered by the arylcyclohexylamine generic clause added to the Misuse of Drugs Act by S.I. 2013/239, which came into effect on the 26th February 2013.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2013 | url=https://www.legislation.gov.uk/uksi/2013/239/introduction/made}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Research chemical]]\n*[[Dissociatives]]\n*[[Arylcyclohexylamines]]\n*[[3-MeO-PCP]]\n*[[PCP]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/3-MeO-PCE 3-MeO-PCE (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=966 3-MeO-PCE (Isomer Design)]\n*[http://www.bluelight.org/vb/threads/532702-The-Big-amp-Dandy-3-MeO-PCE-Thread 3-MeO-PCE (Bluelight)]\n*[https://web.archive.org/web/20170111011440*/https://www.vice.com/en_us/article/interview-with-ketamine-chemist-704-v18n2 Interview with a Ketamine Chemist (VICE)]\n\n==Literature==\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]a\n[[Category:Arylcyclohexylamine]]\n[[Category:Dissociative]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

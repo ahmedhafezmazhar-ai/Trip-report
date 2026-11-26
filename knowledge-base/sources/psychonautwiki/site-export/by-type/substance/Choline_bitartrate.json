@@ -1,0 +1,346 @@
+{
+ "id": "psychonautwiki:12152",
+ "type": "substance",
+ "title": "Choline bitartrate",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Choline_bitartrate",
+  "pageid": 12152,
+  "last_edited": "2025-08-16T17:13:13Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 English-language sources (en)",
+  "Cholinergic",
+  "Nootropic",
+  "Pages with citations using unnamed parameters",
+  "Pages with citations using unsupported parameters",
+  "Psychoactive substance",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Choline bitartrate",
+ "substance_box": {
+  "names": {
+   "common": "Choline",
+   "substitutive": "Choline",
+   "systematic": "2-Hydroxy-N,N,N-trimethylethan-1-aminium"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Ammonium salt"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "40%",
+    "threshold": "50 mg",
+    "light": "100 - 250 mg",
+    "common": "250 - 1000 mg",
+    "strong": "1000 - 2000 mg",
+    "heavy": "2000 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "45 - 75 minutes",
+    "comeup": "15 - 30 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "2 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Choline"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "Chemical class": [
+    "Ammonium salt"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "250"
+   ],
+   "Oral min common dose": [
+    "250"
+   ],
+   "Oral max common dose": [
+    "1000"
+   ],
+   "Oral min strong dose": [
+    "1000"
+   ],
+   "Oral max strong dose": [
+    "2000"
+   ],
+   "Oral heavy dose": [
+    "2000"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "45"
+   ],
+   "Oral max onset time": [
+    "75"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "15"
+   ],
+   "Oral max comeup time": [
+    "30"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of choline",
+   "clean": "Molecular structure of choline"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Choline.svg",
+   "clean": "File:Choline.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Choline]]",
+   "clean": "Choline"
+  },
+  "NameSubstitution": {
+   "raw": "Choline",
+   "clean": "Choline"
+  },
+  "NameSystematic": {
+   "raw": "2-Hydroxy-N,N,N-trimethylethan-1-aminium",
+   "clean": "2-Hydroxy-N,N,N-trimethylethan-1-aminium"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Ammonium salt]]",
+   "clean": "Ammonium salt"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "40%",
+   "clean": "40%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::250]] mg",
+   "clean": "100 - 250 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::250]] - [[Oral max common dose::1000]] mg",
+   "clean": "250 - 1000 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1000]] - [[Oral max strong dose::2000]] mg",
+   "clean": "1000 - 2000 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2000]] mg +",
+   "clean": "2000 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::45]] - [[Oral max onset time::75]] [[Oral onset time units::minutes]]",
+   "clean": "45 - 75 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::15]] - [[Oral max comeup time::30]] [[Oral comeup time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 8 hours"
+  }
+ },
+ "plain_text": "Choline is a chemical substance which serves as a precursor to the neurotransmitter acetylcholine in the brain. Choline is an essential nutrient in humans, with documented roles in reducing the risk of neural tube defects, fatty liver disease and other pathologies. It is also used in the synthesis of components in cell membranes. Choline is rarely sold as a free base; it is generally combined with an acid to form a salt such as choline bitartrate for stability, or conjugated into one of the more complex forms such as citicoline.\n\nCholine supplementation can be used in the treatment of liver disorders, hepatitis, glaucoma, atherosclerosis, Alzheimer's disease, bipolar disorder and possibly other neurological disorders. It has also been shown to have a positive effect on those suffering from alcoholism. \n\nWhen taken as a supplement, this compound has been reported to produce nootropic effects. It is easily available and commonly sold for this purpose through the use of online supplement vendors.\n\nChemistry\n\nCholine is comprised of a quaternary ammonium group and an alcohol functional group, which are connected through an ethyl chain. Its charged cation can bind to a negative group or atom to form various salts, which can produce varying effects. Choline chloridea  can form a low-melting deep eutectic solvent mixture with urea with unusual properties. The common choline bitartrate is a white crystalline powder with a melting point of 149-153 °C.\n\nAs with other salt forms, not all of the mass of a choline salt is choline. For choline bitartrate, 104.17/253.25 = 41.1% of its mass is the choline cation, the rest being the bitartrate anion. For supplements made to US labelling standards, no conversion is necessary: the amount given is for choline. The field of nutrition, for now, does not apply an analogous conversion to non-salt forms of choline such as the phospholipid forms and Alpha-GPC.\n\nPharmacology\n\nCholine and its metabolites are needed for three main physiological purposes:\n\n*Phospholipid synthesis. Choline is required to make various phospholipids, which make up the cell membrane and signaling lipid rafts. Neural lipid rafts are receiving increasing attention in the field of psychiatry.\n*Cholinergic neurotransmission, as a precursor to acetylcholine synthesis. Supplemental choline may allow acetylcholine to accumulate at higher levels than that which it otherwise would. As acetylcholine is involved in the function of memory, this could potentially account for its nootropic effects.\n*Trimethylamine (betaine) production. Trimethylamine is necessary for osmoregulation. It also participates in SAM-e synthesis.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Choline\n\nToxicity and harm potential\n\nAs choline is a natural precursor to acetylcholine which is naturally found in the body, it is well tolerated and therefore unlikely to be harmful in any way. Choline is non-addictive, is not known to cause brain damage, and has an extremely low toxicity relative to dose. Similar to many other nootropics substances, there are relatively few physical side effects associated with acute choline exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nCholine is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of choline are built after prolonged and repeated usage. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Choline presents cross-tolerance with no other known compounds, meaning that after the consumption of choline, other psychoactive compounds will not have a reduced effect.\n\nLegal status\n\n*Germany: Choline bitartrate is an approved dietary supplement.\n*United States: In the United States, choline is legal as a dietary supplement. The Food and Drug Administration (FDA) requires choline to be in non-dairy infant formula.\n\nExternal links\n\n*Choline (Wikipedia)\n\nLiterature\n\n*Abbott, A. P., Capper, G., Davies, D. L., Rasheed, R. K., & Tambyrajah, V. (2003). Novel solvent properties of choline chloride/urea mixtures. Chemical Communications, 99(1), 70–71. https://doi.org/10.1039/b210714g\n*Behari, J., Yeh, T.-H., Krauland, L., Otruba, W., Cieply, B., Hauth, B., … Monga, S. P. S. (2010). Liver-Specific B-Catenin Knockout Mice Exhibit Defective Bile Acid and Cholesterol Homeostasis and Increased Susceptibility to Diet-Induced Steatohepatitis. The American Journal of Pathology, 176(2), 744–753. https://doi.org/10.2353/ajpath.2010.090667\n*Chan, K. C., So, K. fai, & Wu, E. X. (2009). Proton magnetic resonance spectroscopy revealed choline reduction in the visual cortex in an experimental model of chronic glaucoma. Experimental Eye Research, 88(1), 65–70. https://doi.org/10.1016/j.exer.2008.10.002\n*Doggrell, S. a, & Evans, S. (2003). Treatment of dementia with neurotransmission modulation. Expert Opinion on Investigational Drugs, 12(10), 1633–54. https://doi.org/10.1517/13543784.12.10.1633\n*Glier, M. B., Green, T. J., & Devlin, A. M. (2014). Methyl nutrients, DNA methylation, and cardiovascular disease. Molecular Nutrition and Food Research, 58(1), 172–182. https://doi.org/10.1002/mnfr.201200636\n*Klatskin, G. (1954). the Effect of Alcohol on the Choline Requirement: Ii. Incidence of Renal Necrosis in Weanling Rats Following Short Term Ingestion of Alcohol. Journal of Experimental Medicine, 100(6), 615–627. https://doi.org/10.1084/jem.100.6.615\n*Nery, F. G., Stanley, J. A., Chen, H.-H., Hatch, J. P., Nicoletti, M. A., Serap Monkul, E., … Soares, J. C. (2010). Bipolar disorder comorbid with alcoholism: A 1H magnetic resonance spectroscopy study. Journal of Psychiatric Research, 44(5), 278–285. https://doi.org/10.1016/j.jpsychires.2009.09.006\n*Parnetti, L., Mignini, F., Tomassoni, D., Traini, E., & Amenta, F. (2007). Cholinergic precursors in the treatment of cognitive impairment of vascular origin: Ineffective approaches or need for re-evaluation? Journal of the Neurological Sciences, 257(1–2), 264–269. https://doi.org/10.1016/j.jns.2007.01.043\n*Stoll, A. L., Sachs, G. S., Cohen, B. M., Lafer, B., Christensen, J. D., & Renshaw, P. F. (1996). Choline in the treatment of rapid-cycling bipolar disorder: Clinical and neurochemical findings in lithium-treated patients. Biological Psychiatry, 40(5), 382–388. https://doi.org/10.1016/0006-3223(95)00423-8\n*Tolvanen, T., Yli-Kerttula, T., Ujula, T., Autio, A., Lehikoinen, P., Minn, H., & Roivainen, A. (2010). Biodistribution and radiation dosimetry of [11C]choline: A comparison between rat and human data. European Journal of Nuclear Medicine and Molecular Imaging, 37(5), 874–883. https://doi.org/10.1007/s00259-009-1346-z\n*Van Beek, A. H. E. A., & Claassen, J. A. H. R. (2011). The cerebrovascular role of the cholinergic neural system in Alzheimer’s disease. Behavioural Brain Research, 221(2), 537–542. https://doi.org/10.1016/j.bbr.2009.12.047\n*Zeisel, S. H., & Da Costa, K. A. (2009). Choline: An essential nutrient for public health. Nutrition Reviews, 67(11), 615–623. https://doi.org/10.1111/j.1753-4887.2009.00246.x\n\nReferences\n\nCategory:Cholinergic\nCategory:Psychoactive substance\nCategory:Substance\nCategory:Nootropic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Choline bitartrate}}\n\n'''Choline''' is a chemical substance which serves as a precursor to the neurotransmitter [[acetylcholine]] in the brain. Choline is an essential nutrient in humans, with documented roles in reducing the risk of neural tube defects, fatty liver disease and other pathologies.<ref name=\"Zeisel2009\">{{cite journal | vauthors=((Zeisel, S. H.)), ((Costa, K.-A. da)) | journal=Nutrition Reviews | title=Choline: an essential nutrient for public health | volume=67 | issue=11 | pages=615–623 | date= November 2009 | url=https://academic.oup.com/nutritionreviews/article-lookup/doi/10.1111/j.1753-4887.2009.00246.x | issn=00296643 | doi=10.1111/j.1753-4887.2009.00246.x}}</ref> It is also used in the synthesis of components in cell membranes.<ref name=\"Glier2014\" \"=\"\">{{cite journal | vauthors=((Glier, M. B.)), ((Green, T. J.)), ((Devlin, A. M.)) | journal=Molecular Nutrition & Food Research | title=Methyl nutrients, DNA methylation, and cardiovascular disease | volume=58 | issue=1 | pages=172–182 | date= January 2014 | url=https://onlinelibrary.wiley.com/doi/10.1002/mnfr.201200636 | issn=16134125 | doi=10.1002/mnfr.201200636}}</ref> Choline is rarely sold as a free base; it is generally combined with an acid to form a salt such as '''choline bitartrate''' for stability, or conjugated into one of the more complex forms such as [[citicoline]].\n\nCholine supplementation can be used in the treatment of liver disorders,<ref>{{cite journal | vauthors=((Tolvanen, T.)), ((Yli-Kerttula, T.)), ((Ujula, T.)), ((Autio, A.)), ((Lehikoinen, P.)), ((Minn, H.)), ((Roivainen, A.)) | journal=European Journal of Nuclear Medicine and Molecular Imaging | title=Biodistribution and radiation dosimetry of [11C]choline: a comparison between rat and human data | volume=37 | issue=5 | pages=874–883 | date= May 2010 | url=http://link.springer.com/10.1007/s00259-009-1346-z | issn=1619-7070 | doi=10.1007/s00259-009-1346-z}}</ref><ref>{{cite journal | vauthors=((Behari, J.)), ((Yeh, T.-H.)), ((Krauland, L.)), ((Otruba, W.)), ((Cieply, B.)), ((Hauth, B.)), ((Apte, U.)), ((Wu, T.)), ((Evans, R.)), ((Monga, S. P. S.)) | journal=The American Journal of Pathology | title=Liver-Specific β-Catenin Knockout Mice Exhibit Defective Bile Acid and Cholesterol Homeostasis and Increased Susceptibility to Diet-Induced Steatohepatitis | volume=176 | issue=2 | pages=744–753 | date= February 2010 | url=https://linkinghub.elsevier.com/retrieve/pii/S0002944010603884 | issn=00029440 | doi=10.2353/ajpath.2010.090667}}</ref> hepatitis, glaucoma,<ref>{{cite journal | vauthors=((Chan, K. C.)), ((So, K.)), ((Wu, E. X.)) | journal=Experimental Eye Research | title=Proton magnetic resonance spectroscopy revealed choline reduction in the visual cortex in an experimental model of chronic glaucoma | volume=88 | issue=1 | pages=65–70 | date= January 2009 | url=https://linkinghub.elsevier.com/retrieve/pii/S0014483508003333 | issn=00144835 | doi=10.1016/j.exer.2008.10.002}}</ref> atherosclerosis, Alzheimer's disease,<ref>{{cite journal | vauthors=((Van Beek, A. H. E. A.)), ((Claassen, J. A. H. R.)) | journal=Behavioural Brain Research | title=The cerebrovascular role of the cholinergic neural system in Alzheimer’s disease | volume=221 | issue=2 | pages=537–542 | date= August 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S016643281000015X | issn=01664328 | doi=10.1016/j.bbr.2009.12.047}}</ref> bipolar disorder<ref>{{cite journal | vauthors=((Stoll, A. L.)), ((Sachs, G. S.)), ((Cohen, B. M.)), ((Lafer, B.)), ((Christensen, J. D.)), ((Renshaw, P. F.)) | journal=Biological Psychiatry | title=Choline in the treatment of rapid-cycling bipolar disorder: Clinical and neurochemical findings in lithium-treated patients | volume=40 | issue=5 | pages=382–388 | date= September 1996 | url=https://linkinghub.elsevier.com/retrieve/pii/0006322395004238 | issn=00063223 | doi=10.1016/0006-3223(95)00423-8}}</ref> and possibly other neurological disorders.<ref name=\"Zeisel2009\" /> It has also been shown to have a positive effect on those suffering from alcoholism.<ref>{{cite journal | vauthors=((Klatskin, G.)), ((Krehl, W. A.)) | journal=Journal of Experimental Medicine | title=THE EFFECT OF ALCOHOL ON THE CHOLINE REQUIREMENT | volume=100 | issue=6 | pages=615–627 | date=1 December 1954 | url=https://rupress.org/jem/article/100/6/615/2074/THE-EFFECT-OF-ALCOHOL-ON-THE-CHOLINE-REQUIREMENT | issn=1540-9538 | doi=10.1084/jem.100.6.615}}</ref><ref>{{cite journal | vauthors=((Nery, F. G.)), ((Stanley, J. A.)), ((Chen, H.-H.)), ((Hatch, J. P.)), ((Nicoletti, M. A.)), ((Serap Monkul, E.)), ((Lafer, B.)), ((Soares, J. C.)) | journal=Journal of Psychiatric Research | title=Bipolar disorder comorbid with alcoholism: A 1H magnetic resonance spectroscopy study | volume=44 | issue=5 | pages=278–285 | date= April 2010 | url=https://linkinghub.elsevier.com/retrieve/pii/S0022395609002064 | issn=00223956 | doi=10.1016/j.jpsychires.2009.09.006}}</ref> \n\nWhen taken as a supplement, this compound has been reported to produce [[psychoactive class::nootropic]] effects. It is easily available and commonly sold for this purpose through the use of online supplement vendors.\n\n==Chemistry==\nCholine is comprised of a quaternary ammonium group and an alcohol functional group, which are connected through an ethyl chain. Its charged cation can bind to a negative group or atom to form various salts, which can produce varying effects. Choline chloridea  can form a low-melting deep eutectic solvent mixture with urea with unusual properties.<ref>{{cite journal | vauthors=((Abbott, A. P.)), ((Capper, G.)), ((Davies, D. L.)), ((Rasheed, R. K.)), ((Tambyrajah, V.)) | journal=Chemical Communications | title=Novel solvent properties of choline chloride/urea mixturesElectronic supplementary information (ESI) available: spectroscopic data. | issue=1 | pages=70–71 | date=19 December 2003 | url=http://xlink.rsc.org/?DOI=b210714g | issn=13597345 | doi=10.1039/b210714g}}</ref> The common choline bitartrate is a white crystalline powder with a melting point of 149-153 °C.<ref>{{cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/Choline-bitartrate|title=Choline bitartrate | C9H19NO7|site= PubChem}}</ref>\n\nAs with other salt forms, not all of the mass of a choline salt is choline. For choline bitartrate, 104.17/253.25 = 41.1% of its mass is the choline cation, the rest being the bitartrate anion. For supplements made to US labelling standards, no conversion is necessary: the amount given is for choline. The field of nutrition, for now, does not apply an analogous conversion to non-salt forms of choline such as the phospholipid forms and Alpha-GPC.<ref name=\"USDA_2008\">{{cite web |title=USDA Database for the Choline Content of Common Foods, Release 2 |url=https://data.nal.usda.gov/dataset/usda-database-choline-content-common-foods-release-2-2008 |date=January 2008 |website=USDA Ag Data Commons |language=en |quote=Total choline content was calculated as the sum of Cho, GPC, Pcho, Ptdcho, and SM. }}</ref>\n\n==Pharmacology==\nCholine and its metabolites are needed for three main physiological purposes:\n\n*Phospholipid synthesis. Choline is required to make various phospholipids, which make up the cell membrane and signaling lipid rafts.<ref name=\"ze\">{{Cite book|title=Handbook of vitamins |url=https://archive.org/details/handbookvitamins00jzem |url-access=limited |vauthors= Rucker RB, Zempleni J, Suttie JW, McCormick DB |publisher=Taylor & Francis |year=2007 |isbn=9780849340222 |edition=4th |pages=[https://archive.org/details/handbookvitamins00jzem/page/n471 459]–477 }}</ref> Neural lipid rafts are receiving increasing attention in the field of psychiatry.<ref>{{cite journal |last1=Wray |first1=Nathan H. |last2=Rasenick |first2=Mark M. |title=Lipid rafts in psychiatry |journal=Advances in Pharmacology |date=2019 |volume=86 |pages=21–45 |doi=10.1016/bs.apha.2019.04.001}}</ref>\n*Cholinergic neurotransmission, as a precursor to [[acetylcholine]] synthesis.<ref name=\"Glier2014\" /> Supplemental choline may allow acetylcholine to accumulate at higher levels than that which it otherwise would. As acetylcholine is involved in the function of memory, this could potentially account for its [[nootropic]] effects.{{citation needed}}\n*Trimethylamine (betaine) production. Trimethylamine is necessary for osmoregulation. It also participates in [[SAM-e]] synthesis.<ref name=\"Glier2014\" />\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}    \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Stimulation]]''' - The stimulation which choline presents can be considered as primarily subtle, less than that of [[caffeine]].\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Body odor alteration]]''' - This occurs in some populations, especially those suffering from trimethylaminuria. Choline is a precursor to trimethylamine, which some persons are not able to easily break down, often resulting in a \"fishy smell.\"<ref>{{cite journal | vauthors=((Kashyap, A. S.)) | journal=Postgraduate Medical Journal | title=Fish odour syndrome | volume=76 | issue=895 | pages=318a–3318 | date=1 May 2000 | url=https://pmj.bmj.com/lookup/doi/10.1136/pmj.76.895.318a | issn=00325473 | doi=10.1136/pmj.76.895.318a}}</ref>\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Dream potentiation]]'''\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Vitamins_Choline.shtml Erowid Experience Vaults: Choline]\n\n==Toxicity and harm potential==\nAs choline is a natural precursor to [[acetylcholine]] which is naturally found in the body, it is well tolerated and therefore unlikely to be harmful in any way. Choline is non-addictive, is not known to cause brain damage, and has an [[Toxicity::extremely low toxicity]] relative to dose. Similar to many other [[nootropics]] substances, there are relatively few physical side effects associated with acute choline exposure. Various studies have shown that in reasonable doses in a careful context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n===Tolerance and addiction potential===\nCholine is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use.{{Citation needed}} It is most often self-regulating. \n\nTolerance to the effects of choline are built [[Time to full tolerance::after prolonged and repeated usage]]. After that, it takes about [[Time to half tolerance::7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). Choline presents cross-tolerance with [[Cross-tolerance::no other known compounds]], meaning that after the consumption of choline, other psychoactive compounds will not have a reduced effect.\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Choline bitartrate is an approved dietary supplement.<ref>BVL 2018/01/004 | https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/04_AntragstellerUnternehmen/07_Allgemeinverfuegungen/01_Archiv_Uebersicht/07_Nahrungsergaenzungsmittel/lm_AV_BVL-18-01-004.pdf?__blob=publicationFile&v=3</ref>\n*'''United States''': In the United States, choline is legal as a dietary supplement. The Food and Drug Administration (FDA) requires choline to be in non-dairy infant formula.<ref>United States Government Publishing Office (2017) https://www.ecfr.gov/cgi-bin/text-idx?SID=10e89c74892c74350b79d3a4e51b1338&mc=true&node=se21.2.107_1100&rgn=div8</ref>\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Choline Choline (Wikipedia)]\n\n==Literature==\n\n*Abbott, A. P., Capper, G., Davies, D. L., Rasheed, R. K., & Tambyrajah, V. (2003). Novel solvent properties of choline chloride/urea mixtures. Chemical Communications, 99(1), 70–71. https://doi.org/10.1039/b210714g\n*Behari, J., Yeh, T.-H., Krauland, L., Otruba, W., Cieply, B., Hauth, B., … Monga, S. P. S. (2010). Liver-Specific B-Catenin Knockout Mice Exhibit Defective Bile Acid and Cholesterol Homeostasis and Increased Susceptibility to Diet-Induced Steatohepatitis. The American Journal of Pathology, 176(2), 744–753. https://doi.org/10.2353/ajpath.2010.090667\n*Chan, K. C., So, K. fai, & Wu, E. X. (2009). Proton magnetic resonance spectroscopy revealed choline reduction in the visual cortex in an experimental model of chronic glaucoma. Experimental Eye Research, 88(1), 65–70. https://doi.org/10.1016/j.exer.2008.10.002\n*Doggrell, S. a, & Evans, S. (2003). Treatment of dementia with neurotransmission modulation. Expert Opinion on Investigational Drugs, 12(10), 1633–54. https://doi.org/10.1517/13543784.12.10.1633\n*Glier, M. B., Green, T. J., & Devlin, A. M. (2014). Methyl nutrients, DNA methylation, and cardiovascular disease. Molecular Nutrition and Food Research, 58(1), 172–182. https://doi.org/10.1002/mnfr.201200636\n*Klatskin, G. (1954). the Effect of Alcohol on the Choline Requirement: Ii. Incidence of Renal Necrosis in Weanling Rats Following Short Term Ingestion of Alcohol. Journal of Experimental Medicine, 100(6), 615–627. https://doi.org/10.1084/jem.100.6.615\n*Nery, F. G., Stanley, J. A., Chen, H.-H., Hatch, J. P., Nicoletti, M. A., Serap Monkul, E., … Soares, J. C. (2010). Bipolar disorder comorbid with alcoholism: A 1H magnetic resonance spectroscopy study. Journal of Psychiatric Research, 44(5), 278–285. https://doi.org/10.1016/j.jpsychires.2009.09.006\n*Parnetti, L., Mignini, F., Tomassoni, D., Traini, E., & Amenta, F. (2007). Cholinergic precursors in the treatment of cognitive impairment of vascular origin: Ineffective approaches or need for re-evaluation? Journal of the Neurological Sciences, 257(1–2), 264–269. https://doi.org/10.1016/j.jns.2007.01.043\n*Stoll, A. L., Sachs, G. S., Cohen, B. M., Lafer, B., Christensen, J. D., & Renshaw, P. F. (1996). Choline in the treatment of rapid-cycling bipolar disorder: Clinical and neurochemical findings in lithium-treated patients. Biological Psychiatry, 40(5), 382–388. https://doi.org/10.1016/0006-3223(95)00423-8\n*Tolvanen, T., Yli-Kerttula, T., Ujula, T., Autio, A., Lehikoinen, P., Minn, H., & Roivainen, A. (2010). Biodistribution and radiation dosimetry of [11C]choline: A comparison between rat and human data. European Journal of Nuclear Medicine and Molecular Imaging, 37(5), 874–883. https://doi.org/10.1007/s00259-009-1346-z\n*Van Beek, A. H. E. A., & Claassen, J. A. H. R. (2011). The cerebrovascular role of the cholinergic neural system in Alzheimer’s disease. Behavioural Brain Research, 221(2), 537–542. https://doi.org/10.1016/j.bbr.2009.12.047\n*Zeisel, S. H., & Da Costa, K. A. (2009). Choline: An essential nutrient for public health. Nutrition Reviews, 67(11), 615–623. https://doi.org/10.1111/j.1753-4887.2009.00246.x\n\n==References==\n<references />\n[[Category:Cholinergic]]\n[[Category:Psychoactive substance]]\n[[Category:Substance]]\n[[Category:Nootropic]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11581",
+ "type": "plants-and-fungi",
+ "title": "Epipactis helleborine (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Epipactis_helleborine_%28botany%29",
+  "pageid": 11581,
+  "last_edited": "2025-11-29T04:22:08Z"
+ },
+ "categories": [
+  "Plant",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n*Epipactis helleborine (Wikipedia)\n\nCategory:Plant",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Epipactis helleborine}}\n\n==External links==\n*[https://en.wikipedia.org/wiki/Epipactis_helleborine ''Epipactis helleborine'' (Wikipedia)]\n\n[[Category:Plant]]"
+}

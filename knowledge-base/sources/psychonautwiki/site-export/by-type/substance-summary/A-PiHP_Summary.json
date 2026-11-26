@@ -1,0 +1,18 @@
+{
+ "id": "psychonautwiki:21347",
+ "type": "substance-summary",
+ "title": "A-PiHP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/A-PiHP/Summary",
+  "pageid": 21347,
+  "last_edited": "2023-10-20T08:08:35Z"
+ },
+ "categories": [],
+ "summary_of": "A-PiHP",
+ "plain_text": "",
+ "wikitext": "{{Summary/A-PiHP}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13284",
+ "type": "substance-summary",
+ "title": "Haloperidol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Haloperidol/Summary",
+  "pageid": 13284,
+  "last_edited": "2016-11-18T05:50:03Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Haloperidol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Haloperidol}}"
+}

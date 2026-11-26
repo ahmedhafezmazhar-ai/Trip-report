@@ -1,0 +1,1018 @@
+{
+ "id": "psychonautwiki:13078",
+ "type": "substance",
+ "title": "PMA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PMA",
+  "pageid": 13078,
+  "last_edited": "2026-10-14T02:52:04Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Amphetamine",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Entactogen",
+  "Proofread",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/PMA",
+ "substance_box": {
+  "names": {
+   "common": "PMA",
+   "substitutive": "para-Methoxyamphetamine, 4-Methoxyamphetamine",
+   "systematic": "1-(4-methoxyphenyl)propan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Entactogen",
+   "chemical": "Substituted amphetamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 10 mg",
+    "light": "20 - 40 mg",
+    "common": "40 - 60 mg",
+    "strong": "Higher dosages can result in serious hyperthermia and eventually death.",
+    "heavy": "",
+    "duration": "short",
+    "onset": "",
+    "comeup": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "PMA"
+   ],
+   "Psychoactive class": [
+    "Entactogen"
+   ],
+   "Chemical class": [
+    "Substituted amphetamine"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "20"
+   ],
+   "Oral max light dose": [
+    "40"
+   ],
+   "Oral min common dose": [
+    "40"
+   ],
+   "Oral max common dose": [
+    "60"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of PMA",
+   "clean": "Molecular structure of PMA"
+  },
+  "SkeletalImageFile": {
+   "raw": "Image:PMA.svg",
+   "clean": "Image:PMA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::PMA]]",
+   "clean": "PMA"
+  },
+  "NameSubstitution": {
+   "raw": "para-Methoxyamphetamine, 4-Methoxyamphetamine",
+   "clean": "para-Methoxyamphetamine, 4-Methoxyamphetamine"
+  },
+  "NameSystematic": {
+   "raw": "1-(4-methoxyphenyl)propan-2-amine",
+   "clean": "1-(4-methoxyphenyl)propan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Entactogen]]",
+   "clean": "Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Substituted amphetamine|Amphetamine]]",
+   "clean": "Substituted amphetamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "< 10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::20]] - [[Oral max light dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::40]] - [[Oral max common dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "<span style=\"color:red\">'''Higher dosages can result in serious hyperthermia and eventually death.'''</span>",
+   "clean": "Higher dosages can result in serious hyperthermia and eventually death."
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "short",
+   "clean": "short"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "para-Methoxyamphetamine (also known as 4-methoxyamphetamine, 4-MeOA, inaccurately as 4-MA (which should be reserved for 4-MA (4-MeA) instead) and more commonly as PMA) is a potent hallucinogen substance of the amphetamine class. PMA belongs to a family of substances known as the substituted amphetamines. However, unlike other substituted amphetamines, PMA does not produce stimulant or entactogen effects, nor euphoria. It is not taken on its own but is instead found as an ingredient in tablets of \"Ecstasy\" as a false substitute for MDMA.\n\nPMA has been around since the 1970s, where it was sold along with PMMA as Ecstasy, and has gained great attention following a number of hospitalizations and deaths. It usually does not produce much noticeable effects, which leads people ingesting more or combining it with other substances, until they eventually overdose. It produces dangerous adverse effects, including a sudden and extremely high rise in body temperature and blood pressure, abnormal heartbeats, dehydration and sometimes severe dizziness. \n\nPMA, along with other drugs like PMMA and PMEA have very little recreational value and are considered as one of the most dangerous and toxic substances known. It is strongly recommended that these two drugs should be completely avoided.\n\nChemistry\n\nPMA (para-Methoxyamphetamine or 4-MA) is a molecule of the amphetamine class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain with an additional methyl substitution at Rα. It contains a methoxy (OCH3) functional group bound to the R4 carbon of the phenyl ring. It is the 4-Methoxy analog of amphetamine.\n\nPharmacology\n\nPMA acts as a selective serotonin releasing agent (SSRA) with weak effects on dopamine and norepinephrine transporters. However, relative to MDMA, it is considerably less effective as a releaser of serotonin with properties more akin to a reuptake inhibitor in comparison. It evokes robust hyperthermia while producing only modest hyperactivity and serotonergic neurotoxicity, substantially lower than that caused by MDMA. Anecdotal reports suggest it is not particularly euphoric at all, perhaps even dysphoric in contrast. PMA has also been shown to act as a potent, reversible inhibitor of the enzyme MAO-A with no significant effects on MAO-B, and the combination of this property and serotonin release is likely responsible for its high lethality potential.\n\nIt appears that PMA elevates body temperatures dramatically; the cause of this property is suspected to be related to its ability to inhibit MAO-A and at the same time releasing large amounts of serotonin, effectively causing serotonin syndrome. It appears that PMA activates the hypothalamus much more strongly than MDMA and other drugs like ephedrine, thereby causing rapid increases in body temperature (which is the major cause of death in PMA mortalities).\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: PMA\n\nToxicity and harm potential\n\nPMA and its relative PMMA can be considered extremely toxic when compared to other substances such as Methamphetamine or [[MDMA ]]. Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizure , [[dehydration, hyperthermia, and death]]. PMA has a relatively slow onset, causing many users to redose which causes excess toxicity.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDangerous interactions\n\nLegal status\n\nInternationally, PMA is a Schedule I substance under the Convention on Psychotropic Substances.\n\n*Austria: PMA is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich) | \n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*Canada: PMA is a Schedule I substance.\n*France: PMA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*Germany: PMA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of September 1, 1984. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Russia: PMA is classed as a Schedule I substance.\n*Switzerland: PMA is a controlled substance specifically named under Verzeichnis D.\n*United Kingdom: PMA is a Class A drug. \n*United States: PMA is a Schedule I substance.\n\nSee also\n\n*Responsible use\n*Substituted amphetamine\n*Entactogen\n*PMMA\n\nExternal links\n\n*para-Methoxyamphetamine (Wikipedia)\n*PMA (Erowid Vault)\n*PMA (PiHKAL / Isomer Design)\n\nReferences\n\nCategory:Proofread\nCategory:Psychoactive substance\nCategory:Amphetamine\nCategory:Entactogen",
+ "wikitext": "{{headerpanel|{{Warning/PMA}}}}\n{{SummarySheet}}\n{{SubstanceBox/PMA}}\n\n'''''para''-Methoxyamphetamine''' (also known as '''4-methoxyamphetamine''', '''4-MeOA''', inaccurately as '''4-MA''' (which should be reserved for [[4-MA]] (4-MeA) instead) and more commonly as '''PMA''') is a potent [[psychoactive class::hallucinogen]] substance of the [[chemical class::amphetamine]] class. PMA belongs to a family of substances known as the [[substituted amphetamines]]. However, unlike other substituted amphetamines, PMA does not produce [[stimulant]] or [[entactogen]] effects, nor [[euphoria]]. It is not taken on its own but is instead found as an ingredient in tablets of \"Ecstasy\" as a false substitute for [[MDMA]].\n\nPMA has been around since the 1970s, where it was sold along with [[PMMA]] as Ecstasy, and has gained great attention following a number of hospitalizations and deaths. It usually does not produce much noticeable effects, which leads people ingesting more or combining it with other substances, until they eventually overdose. It produces dangerous adverse effects, including a sudden and extremely high rise in body temperature and blood pressure, abnormal heartbeats, dehydration and sometimes severe dizziness. \n\n'''PMA, along with other drugs like [[PMMA]] and [[PMEA]] have very little recreational value and are considered as one of the most dangerous and toxic substances known. It is strongly recommended that these two drugs should be completely avoided.'''\n\n==Chemistry==\nPMA (para-Methoxyamphetamine or 4-MA) is a molecule of the [[substituted amphetamine|amphetamine]] class. Molecules of the amphetamine class contain a phenethylamine core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain with an additional methyl substitution at R<sub>α</sub>. It contains a methoxy (OCH<sub>3</sub>) functional group bound to the R<sub>4</sub> carbon of the phenyl ring. It is the 4-Methoxy analog of [[amphetamine]].\n\n==Pharmacology==\n{{pharmacology}}\nPMA acts as a [[selective serotonin releasing agent]] (SSRA) with weak effects on dopamine and norepinephrine transporters. However, relative to [[MDMA]], it is considerably less effective as a releaser of serotonin with properties more akin to a reuptake inhibitor in comparison. It evokes robust hyperthermia while producing only modest hyperactivity and serotonergic neurotoxicity, substantially lower than that caused by MDMA. Anecdotal reports suggest it is not particularly euphoric at all, perhaps even dysphoric in contrast. PMA has also been shown to act as a potent, reversible inhibitor of the enzyme [[MAOI|MAO-A]] with no significant effects on MAO-B, and the combination of this property and serotonin release is likely responsible for its high lethality potential.\n\nIt appears that PMA elevates body temperatures dramatically; the cause of this property is suspected to be related to its ability to inhibit MAO-A and at the same time releasing large amounts of serotonin, effectively causing [[serotonin syndrome]]. It appears that PMA activates the hypothalamus much more strongly than MDMA and other drugs like [[ephedrine]], thereby causing rapid increases in body temperature (which is the major cause of death in PMA mortalities).<ref>{{Citation | year=2022 | title=para-Methoxyamphetamine | url=https://en.wikipedia.org/w/index.php?title=Para-Methoxyamphetamine&oldid=1092760206}}</ref>\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Neurotoxicity]]''' - Exposure to PMA—frequently encountered as a dangerous adulterant or substitute in illicit ecstasy tablets—carries an extreme risk of severe serotonergic neurotoxicity, metabolic oxidative stress, and fatal toxicity.<ref name=\"pmc4382046\">{{cite journal |vauthors=Vevelstad A, Øiestad EL, Pettersen G, Lillevold PH, Brørs O, Bachs L, Morland J |title=Deaths from exposure to paramethoxymethamphetamine |journal=CMAJ |volume=187 |issue=6 |pages=E190–E197 |year=2015 |pmid=25821035 |pmc=4382046 |doi=10.1503/cmaj.140889}}</ref> Unlike classical monoamine releasers, PMA acts simultaneously as a potent serotonin-releasing agent and a reversible monoamine oxidase A (MAO-A) inhibitor, preventing the enzymatic degradation of synaptic serotonin while forcing its massive accumulation.<ref name=\"pmid9681814\">{{cite journal |vauthors=Cozzi NV, Sievert MK, Shulgin AT, Jacob P 3rd, Ruoho AE |title=Inhibition of monoamine oxidase by ring-substituted amphetamines |journal=J Pharmacol Exp Ther |volume=287 |issue=2 |pages=601–611 |year=1998 |pmid=9681814}}</ref> This dual mechanism triggers acute serotonin syndrome, profound malignant hyperthermia (often exceeding 40 degrees Celsius), reactive oxygen species (ROS) generation, and extensive, irreversible degeneration of serotonergic axon terminals.\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, PMA is commonly regarded as moderately stimulating and energetic exclusively at lower dosages.\n*'''[[Effect::Abnormal heartbeat]]''' - Accelerated and abnormal heartbeats are extremely common with PMA.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dizziness]]''' -  This effect is significantly more common with PMA than it is with [[methamphetamine]] or [[MDMA]]\n*'''[[Effect::Increased bodily temperature]]''' - The most common cause of death from PMA is due to severe hyperthermia.\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Nausea]]''' and '''vomiting''' - This is common at any dose.\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Rapid breathing]]''' - People commonly report \"not being able to breathe\".\n*'''[[Effect::Seizures]]''' - This is significantly more common with PMMA than with almost any other substance.\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Vibrating vision]]''' - This effect is generally more frequent than with [[MDMA]].\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]''' - This depends greatly on the dosage, as higher dosages are almost guaranteed to bring anxiety, due to all the adverse effects.\n*'''[[Effect::Cognitive euphoria]]''' or '''[[Effect::Cognitive dysphoria]]''' -  This depends greatly on the dosage, as higher dosages are almost guaranteed to bring dysphoria, due to all the adverse effects.\n*'''[[Effect::Dream suppression]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/visual|\nAt moderate to high dosages, PMA is capable of producing typically mild or moderate visual distortions, which are usually more common and pronounced than with [[MDMA]], but significantly less when compared with most [[psychedelics]], such as [[2C-B]] or [[LSD]].\n\n====Suppressions====\n*'''[[Effect::Double vision]]'''\n\n====Distortions====\n*'''[[Effect::Visual drifting|Drifting]]''' ''([[Visual drifting#Melting|melting]], [[Visual drifting#Breathing|breathing]], [[Visual drifting#Morphing|morphing]] and [[Visual drifting#Flowing|flowing]])'' - This effects is more pronounced than it is with [[MDMA]].\n*'''[[Effect::Tracers]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_PMA.shtml Erowid Experience Vaults: PMA]\n\n==Toxicity and harm potential==\n{{toxicity}}\nPMA and its relative [[PMMA]] [[Toxicity::can be considered extremely toxic when compared to other substances such as [[Methamphetamine]] or [[MDMA]] ]]. [[Toxicity::Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), [[seizure |seizures]], [[dehydration]], [[increased bodily temperature|hyperthermia]], and death]]. PMA has a relatively slow onset, causing many users to redose which causes excess toxicity.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\nInternationally, PMA is a Schedule I substance under the Convention on Psychotropic Substances.<ref>{{cite web|archive-url=http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf|url=http://www.incb.org/pdf/e/list/green.pdf|archive-date=March 2, 2007|title=List of psychotropic substances under international control (Green List)|edition=23rd|date=August 2003|publisher=International Narcotics Control Board (INCB)}}</ref>\n\n*'''Austria''': PMA is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich) | <ref>SMG (Suchtmittelgesetz = Drug Law Austria | https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056 </ref>\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Canada''': PMA is a Schedule I substance.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''France''': PMA is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': PMA is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of September 1, 1984.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl184s1081.pdf%27%5D__1576029878276|title=Erste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 18, 2019|language=de}}</ref><ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 18, 2019|language=de}}</ref>\n*'''Russia''': PMA is classed as a Schedule I substance.<ref>Resolution of the Government of the Russian Federation | https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=314201&fld=134&dst=100034,0&rnd=0.41568319511755825#047741519652799347</ref>\n*'''Switzerland''': PMA is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': PMA is a Class A drug. {{citation needed}}\n*'''United States''': PMA is a Schedule I substance.<ref>https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Substituted amphetamine]]\n*[[Entactogen]]\n*[[PMMA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Para-Methoxyamphetamine para-Methoxyamphetamine (Wikipedia)]\n*[https://www.erowid.org/chemicals/pma/ PMA (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/read.php?domain=pk&id=97 PMA (PiHKAL / Isomer Design)]\n\n==References==\n<references />\n[[Category:Proofread]]\n[[Category:Psychoactive substance]]\n[[Category:Amphetamine]]\n[[Category:Entactogen]]"
+}

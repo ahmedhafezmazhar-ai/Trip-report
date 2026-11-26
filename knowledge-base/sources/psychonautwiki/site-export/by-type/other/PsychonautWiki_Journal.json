@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:20813",
+ "type": "other",
+ "title": "PsychonautWiki Journal",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PsychonautWiki_Journal",
+  "pageid": 20813,
+  "last_edited": "2025-07-13T17:12:36Z"
+ },
+ "categories": [],
+ "plain_text": "PsychonautWiki Journal is an app that helps users log their ingestions, make notes and get an overview of their experiences.\nIt also makes key PsychonautWiki data such as dosage, tolerance, duration and dangerous interaction info accessible offline.\n\nJournaling data always stays on device.\n\nlink=https://apps.apple.com/app/id1582059415\n\nOn iOS the closed eye in settings has to be triple tapped to see all PsychonautWiki substances.\n\n350px|link=https://play.google.com/store/apps/details?id=com.isaakhanimann.journal\n\nContribution Guide\n\nBoth apps are open source and anybody can contribute to them. iOS Source Code Android Source Code\n\nBugs or potential problems should be reported using Github issues or through the app. All pull requests that improve the quality of the source code are welcome.\n\nScreenshots\n\nx600px",
+ "wikitext": "PsychonautWiki Journal is an app that helps users log their ingestions, make notes and get an overview of their experiences.\nIt also makes key PsychonautWiki data such as dosage, tolerance, duration and dangerous interaction info accessible offline.\n\nJournaling data always stays on device.\n\n[[File:Download on the App Store Badge US-UK RGB multicol.svg.jpg|link=https://apps.apple.com/app/id1582059415]]\n\nOn iOS the closed eye in settings has to be triple tapped to see all PsychonautWiki substances.\n\n[[File:Google-play-badge.png|350px|link=https://play.google.com/store/apps/details?id=com.isaakhanimann.journal]]\n\n== Contribution Guide ==\nBoth apps are open source and anybody can contribute to them. [https://github.com/isaakhanimann/psychonautwiki-journal-ios iOS Source Code] [https://github.com/isaakhanimann/psychonautwiki-journal-android Android Source Code]\n\nBugs or potential problems should be reported using Github issues or through the app. All pull requests that improve the quality of the source code are welcome.\n\n== Screenshots ==\n[[File:JournalScreenshots.png|x600px]]"
+}

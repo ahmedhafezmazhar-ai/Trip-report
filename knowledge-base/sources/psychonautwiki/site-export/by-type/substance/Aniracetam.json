@@ -1,0 +1,300 @@
+{
+ "id": "psychonautwiki:14537",
+ "type": "substance",
+ "title": "Aniracetam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Aniracetam",
+  "pageid": 14537,
+  "last_edited": "2025-01-31T00:35:23Z"
+ },
+ "categories": [
+  "Nootropic",
+  "Psychoactive substance",
+  "Racetam",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Aniracetam",
+ "substance_box": {
+  "names": {
+   "common": "Aniracetam",
+   "substitutive": "",
+   "systematic": "N-Anisoyl-2-pyrrolidinone"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "Racetam"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "350 mg",
+    "light": "500 - 1200 mg",
+    "common": "1200 - 1800 mg",
+    "strong": "1800 - 2400 mg",
+    "heavy": "2400 mg +",
+    "duration": "3 - 5 hours",
+    "onset": "45 - 90 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Aniracetam"
+   ],
+   "psychoactive class": [
+    "Nootropic"
+   ],
+   "chemical class": [
+    "Racetam"
+   ],
+   "Oral threshold dose": [
+    "350"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "500"
+   ],
+   "Oral max light dose": [
+    "1200"
+   ],
+   "Oral min common dose": [
+    "1200"
+   ],
+   "Oral max common dose": [
+    "1800"
+   ],
+   "Oral min strong dose": [
+    "1800"
+   ],
+   "Oral max strong dose": [
+    "2400"
+   ],
+   "Oral heavy dose": [
+    "2400"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "5"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "45"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Aniracetam",
+   "clean": "Molecular structure of Aniracetam"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Aniracetam.svg",
+   "clean": "File:Aniracetam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Aniracetam]]",
+   "clean": "Aniracetam"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "N-Anisoyl-2-pyrrolidinone",
+   "clean": "N-Anisoyl-2-pyrrolidinone"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Racetam]]",
+   "clean": "Racetam"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::350]] [[Oral dose units::mg]]",
+   "clean": "350 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::500]] - [[Oral max light dose::1200]] mg",
+   "clean": "500 - 1200 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::1200]] - [[Oral max common dose::1800]] mg",
+   "clean": "1200 - 1800 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1800]] - [[Oral max strong dose::2400]] mg",
+   "clean": "1800 - 2400 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2400]] mg +",
+   "clean": "2400 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::5]] [[Oral total time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::45]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "45 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Aniracetam  (Draganon, Sarpul, Ampamet, Memodrin, Referan, and systematically as N-anisoyl-2-pyrrolidinone) is a nootropic agent belonging to the racetam family of drugs. Although it is one of the first known and synthesized derivatives of piracetam, its research and efficacy in humans is limited.\n\nAniracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are nearly fifteen times those of noopept, making it less potent while offering comparable benefit.\n\nSupplementation of aniracetam tends to be in the dosage range of 800-2500mg taken over the course of a day, either in two to three evenly spread dosing periods, such as three doses of 400mg or 800mg.\n\nAniracetam has protected against scopolamine-induced amnesia both in rat populations and in human populations, suggesting it can aid recovery from deliriant intoxication and other typically cognitively impaired states by preserving adequate levels of acetylcholine as a primary mechanism.\n\nChemistry\n\nAniracetam is a pyrrolidinone compound of the racetam family, and has an additional anisoyl ring with a methoxy group at the lone para position. (replacing the amine group of piracetam) with an O-methoxy group on the furthest binding point. Its structure is dissimilar to that of oxiracetam (which is quite similar to piracetam) and pramiracetam (a fairly unique structure) Aniracetam is related structurally to nefiracetam.\n\nPharmacology\n\nAniracetam is thought to increase acetylcholine release within hippocampal cells. As acetycholine is involved in the function of memory, this could potentially account for its nootropic effects.\n\nIn addition, aniracetam has been shown to modulate AMPA receptors, GABAergic neurotransmission, and dopaminergic neurotransmission.\n\nSubjective effects\n\nIn comparison to the effects of other nootropics such as noopept, this compound can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Aniracetam\n\nToxicity and harm potential\n\nSeveral studies suggest that this substance is safe even when high doses are consumed for a long period of time. although it is worth noting that the exact toxic dosage is unknown. Anecdotal evidence from people who have tried aniracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly. However, nothing can be completely guaranteed.\n\nDespite its presumed safety, it is still strongly recommended that one use harm reduction practices when using this drug.\n\nLethal dosage\n\nThe median lethal dosage (LD50) of aniracetam has not been officially published as it has low abuse potential, but is not known to be harmful in its recommended dosage.\n\nTolerance and addiction potential\n\nThe chronic use of aniracetam can be considered as non-addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among users, although this fact has not been confirmed or supported by clinical studies. \nTolerance to many of the effects of aniracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Aniracetam may presents cross-tolerance with all racetam [[nootropics]], meaning that after the consumption of aniracetam certain nootropics such as coluracetam and piracetam may have a reduced effect.\n\nDangerous interactions\n\nAniracetam showed nonselective MAOI activity in a rat study.  Aniracetam and MAOIs are a potentially dangerous combination. It is likely that MAOIs could increase the effects of aniracetam unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n\nLegal status\n\nAs a member of the racetam family, aniracetam is currently legally available to buy and sell in most countries. However, this may vary by region.\n\n*United Kingdom: Aniracetam is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n\nSee also\n\n*Responsible use\n*Pramiracetam\n*Oxiracetam\n*Nootropic\n*Stimulant\n*Piracetam\n\nExternal links\n\n*Aniracetam (Wikipedia)\n*Aniracetam (Erowid Vault)\n*Aniracetam (Isomer Design)\n*Aniracetam (Examine)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Nootropic\nCategory:Racetam",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Aniracetam}}\n\n'''Aniracetam'''  ('''Draganon''', '''Sarpul''', '''Ampamet''', '''Memodrin''', '''Referan''', and systematically as''' N-anisoyl-2-pyrrolidinone''') is a [[psychoactive class::nootropic]] agent belonging to the [[chemical class::racetam]] family of drugs.<ref>{{cite journal | vauthors=((Malykh, A. G.)), ((Sadaie, M. R.)) | journal=Drugs | title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | volume=70 | issue=3 | pages=287–312 | date=12 February 2010 | issn=1179-1950 | doi=10.2165/11319230-000000000-00000}}</ref><ref>{{cite journal | vauthors=((Valzelli, L.)), ((Baiguerra, G.)), ((Giraud, O.)) | journal=Methods and Findings in Experimental and Clinical Pharmacology | title=Difference in learning and retention by Albino Swiss mice. Part III. Effect of some brain stimulants | volume=8 | issue=6 | pages=337–341 | date= June 1986 | issn=0379-0355}}</ref> Although it is one of the first known and synthesized derivatives of [[piracetam]], its research and efficacy in humans is limited.\n\nAniracetam is readily available and sold through online vendors as a dietary supplement in the United States. Dosages are nearly fifteen times those of [[noopept]], making it less potent while offering comparable benefit.\n\nSupplementation of aniracetam tends to be in the dosage range of 800-2500mg taken over the course of a day,<ref>Nootreviews Aniracetam Guide | http://www.nootreviews.com/aniracetam/</ref> either in two to three evenly spread dosing periods, such as three doses of 400mg or 800mg.\n\nAniracetam has protected against [[Datura|scopolamine]]-induced amnesia both in rat populations and in human populations, suggesting it can aid recovery from [[deliriant]] intoxication and other typically cognitively impaired states by preserving adequate levels of acetylcholine as a primary mechanism.<ref name=\"Lee1994\">{{cite journal | vauthors=((Lee, C. R.)), ((Benfield, P.)) | journal=Drugs & Aging | title=Aniracetam. An overview of its pharmacodynamic and pharmacokinetic properties, and a review of its therapeutic potential in senile cognitive disorders | volume=4 | issue=3 | pages=257–273 | date= March 1994 | issn=1170-229X | doi=10.2165/00002512-199404030-00007}}</ref><ref>{{cite journal | vauthors=((Cumin, R.)), ((Bandle, E. F.)), ((Gamzu, E.)), ((Haefely, W. E.)) | journal=Psychopharmacology | title=Effects of the novel compound aniracetam (Ro 13-5057) upon impaired learning and memory in rodents | volume=78 | issue=2 | pages=104–111 | date= 1982 | issn=0033-3158 | doi=10.1007/BF00432244}}</ref>\n\n==Chemistry==\nAniracetam is a pyrrolidinone compound of the [[racetam]] family, and has an additional anisoyl ring with a methoxy group at the lone para position. (replacing the amine group of [[piracetam]]) with an O-methoxy group on the furthest binding point. Its structure is dissimilar to that of [[oxiracetam]] (which is quite similar to piracetam) and [[pramiracetam]] (a fairly unique structure) Aniracetam is related structurally to [[nefiracetam]].<ref name=\"Lee1994\"/>\n\n==Pharmacology==\nAniracetam is thought to increase [[acetylcholine]] release within hippocampal cells.<ref>{{cite journal | vauthors=((Zhao, X.)), ((Kuryatov, A.)), ((Lindstrom, J. M.)), ((Yeh, J. Z.)), ((Narahashi, T.)) | journal=Molecular Pharmacology | title=Nootropic drug modulation of neuronal nicotinic acetylcholine receptors in rat cortical neurons | volume=59 | issue=4 | pages=674–683 | date= April 2001 | issn=0026-895X | doi=10.1124/mol.59.4.674}}</ref> As acetycholine is involved in the function of memory, this could potentially account for its [[nootropic]] effects.\n\nIn addition, aniracetam has been shown to modulate AMPA receptors,<ref>{{cite journal | vauthors=((Kaneko, S.)), ((Sugimura, M.)), ((Inoue, T.)), ((Satoh, M.)) | journal=European Journal of Pharmacology | title=Effects of several cerebroprotective drugs on NMDA channel function: evaluation using Xenopus oocytes and [3H]MK-801 binding | volume=207 | issue=2 | pages=119–128 | date=19 June 1991 | issn=0014-2999 | doi=10.1016/0922-4106(91)90086-w}}</ref> GABAergic neurotransmission,<ref>{{cite journal | vauthors=((Ling, D. S. F.)), ((Benardo, L. S.)) | journal=Cerebral Cortex | title=Nootropic Agents Enhance the Recruitment of Fast GABAA Inhibition in Rat Neocortex | volume=15 | issue=7 | pages=921–928 | date=1 July 2005 | url=http://academic.oup.com/cercor/article/15/7/921/387971/Nootropic-Agents-Enhance-the-Recruitment-of-Fast | issn=1460-2199 | doi=10.1093/cercor/bhh191}}</ref> and dopaminergic neurotransmission.<ref>{{cite journal | vauthors=((Petkov, V. D.)), ((Grahovska, T.)), ((Petkov, V. V.)), ((Konstantinova, E.)), ((Stancheva, S.)) | journal=Acta Physiologica Et Pharmacologica Bulgarica | title=Changes in the brain biogenic monoamines of rats, induced by piracetam and aniracetam | volume=10 | issue=4 | pages=6–15 | date= 1984 | issn=0323-9950}}</ref>\n\n==Subjective effects==\nIn comparison to the effects of other nootropics such as [[noopept]], this compound can be described as focusing primarily on physical stimulation over that of cognitive stimulation.\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Stimulation]]'''\n}}\n{{effects/sensory|\nAlthough these effects are not universal, certain people may experience sensory enhancements under the influence of this compound.\n*'''[[Effect::Acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Olfactory enhancement]]'''\n}}\n|{{effects/cognitive|\nThe effects of aniracetam are anecdotally reported to foster creativity and holistic thinking as well as reducing anxiety and depression. \n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Anxiety suppression]]''' \n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Lowered latent Inhibition]]'''\n}}\n}}\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Aniracetam.shtml Erowid Experience Vaults: Aniracetam]\n\n==Toxicity and harm potential==\nSeveral studies suggest that this substance is safe even when high doses are consumed for a long period of time.<ref name=\"Lee1994\"/> although it is worth noting that the exact toxic dosage is unknown. Anecdotal evidence from people who have tried aniracetam within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly. However, nothing can be completely guaranteed.\n\nDespite its presumed safety, it is still strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Lethal dosage===\nThe median lethal dosage ([[LD50|LD<sub>50</sub>]]) of aniracetam has not been officially published as it has low abuse potential, but is not known to be harmful in its recommended dosage.\n\n===Tolerance and addiction potential===\nThe chronic use of aniracetam can be considered as [[Addiction potential::non-addictive with a low potential for abuse]]. It does not seem to be capable of causing psychological dependence among users, although this fact has not been confirmed or supported by clinical studies. \nTolerance to many of the effects of aniracetam [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Aniracetam may presents cross-tolerance with [[Cross-tolerance::all [[racetam]] [[nootropic]]s]], meaning that after the consumption of aniracetam certain [[nootropics]] such as [[coluracetam]] and [[piracetam]] may have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\nAniracetam showed nonselective MAOI activity in a rat study.<ref>{{cite journal | vauthors=((Stancheva, S. L.)), ((Alova, L. G.)) | journal=Farmakologiia I Toksikologiia | title=[Effect of centrophenoxine, piracetam and aniracetam on the monoamine oxidase activity in different brain structures of rats] | volume=51 | issue=3 | pages=16–18 | date= June 1988 | issn=0014-8318}}</ref> <ref>{{cite journal | vauthors=((Trabucchi, M.)), ((Govoni, S.)), ((Battaini, F.)) | journal=Il Farmaco; Edizione Scientifica | title=Changes in the interaction between CNS cholinergic and dopaminergic neurons induced by L-alpha-glycerylphosphorylcholine, a cholinomimetic drug | volume=41 | issue=4 | pages=325–334 | date= April 1986 | issn=0430-0920}}</ref> Aniracetam and [[MAOIs]] are a potentially dangerous combination. It is likely that MAOIs could increase the effects of aniracetam unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n{{DangerousInteractions/MAOI|nt=serotonin and dopamine}}\n\n==Legal status==\n{{legalStub}}\nAs a member of the [[racetam]] family, aniracetam is currently legally available to buy and sell in most countries. However, this may vary by region.\n\n*'''United Kingdom:''' Aniracetam is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Pramiracetam]]\n*[[Oxiracetam]]\n*[[Nootropic]]\n*[[Stimulant]]\n*[[Piracetam]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Aniracetam Aniracetam (Wikipedia)]\n*[https://erowid.org/smarts/aniracetam/aniracetam.shtml Aniracetam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9968 Aniracetam (Isomer Design)]\n*[https://examine.com/supplements/aniracetam/ Aniracetam (Examine)]\n\n==References==\n<references />\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Nootropic]]\n[[Category:Racetam]]\n{{#set:Featured=true}}"
+}

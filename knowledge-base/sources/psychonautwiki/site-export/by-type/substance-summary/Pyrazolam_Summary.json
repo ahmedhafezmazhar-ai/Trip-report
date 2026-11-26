@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10341",
+ "type": "substance-summary",
+ "title": "Pyrazolam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pyrazolam/Summary",
+  "pageid": 10341,
+  "last_edited": "2016-02-02T02:08:45Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Pyrazolam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Pyrazolam}}"
+}

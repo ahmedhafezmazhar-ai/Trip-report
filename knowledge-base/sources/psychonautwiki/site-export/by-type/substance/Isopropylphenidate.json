@@ -1,0 +1,491 @@
+{
+ "id": "psychonautwiki:9670",
+ "type": "substance",
+ "title": "Isopropylphenidate",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Isopropylphenidate",
+  "pageid": 9670,
+  "last_edited": "2025-07-05T08:11:17Z"
+ },
+ "categories": [
+  "CS1 English-language sources (en)",
+  "CS1 German-language sources (de)",
+  "CS1 Turkish-language sources (tr)",
+  "CS1 maint: Extra text",
+  "Phenidate",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Isopropylphenidate",
+ "substance_box": {
+  "names": {
+   "common": "Isopropylphenidate, IPH, IPPH",
+   "substitutive": "Isopropylphenidate",
+   "systematic": "Propan-2-yl 2-phenyl-2-(piperidin-2-yl)acetate"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Phenidate"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 25 mg",
+    "strong": "25 - 45 mg",
+    "heavy": "45 mg +",
+    "duration": "3.5 - 6 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 20 mg",
+    "strong": "20 - 35 mg",
+    "heavy": "35 mg +",
+    "duration": "2.5 - 4 hours",
+    "onset": "2 - 5 minutes",
+    "comeup": "10 - 30 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 1.5 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Isopropylphenidate",
+    "IPH",
+    "IPPH"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Phenidate"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "45"
+   ],
+   "Oral heavy dose": [
+    "45"
+   ],
+   "Oral min total time": [
+    "3.5"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "2.5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "2"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "5"
+   ],
+   "Insufflated max light dose": [
+    "10"
+   ],
+   "Insufflated min common dose": [
+    "10"
+   ],
+   "Insufflated max common dose": [
+    "20"
+   ],
+   "Insufflated min strong dose": [
+    "20"
+   ],
+   "Insufflated max strong dose": [
+    "35"
+   ],
+   "Insufflated heavy dose": [
+    "35"
+   ],
+   "Insufflated min total time": [
+    "2.5"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "2"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "2"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "1.5"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Isopropylphenidate",
+   "clean": "Molecular structure of Isopropylphenidate"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Isopropylphenidate.svg",
+   "clean": "File:Isopropylphenidate.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Isopropylphenidate]], [[common name::IPH]], [[common name::IPPH]]",
+   "clean": "Isopropylphenidate, IPH, IPPH"
+  },
+  "NameSubstitution": {
+   "raw": "Isopropylphenidate",
+   "clean": "Isopropylphenidate"
+  },
+  "NameSystematic": {
+   "raw": "Propan-2-yl 2-phenyl-2-(piperidin-2-yl)acetate",
+   "clean": "Propan-2-yl 2-phenyl-2-(piperidin-2-yl)acetate"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenidate]]",
+   "clean": "Phenidate"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/isopropylphenidate TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::25]] mg",
+   "clean": "15 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::45]] mg",
+   "clean": "25 - 45 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::45]] mg +",
+   "clean": "45 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3.5]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "3.5 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::2.5]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::2]] [[Insufflated dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::5]] - [[Insufflated max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::10]] - [[Insufflated max common dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::20]] - [[Insufflated max strong dose::35]] mg",
+   "clean": "20 - 35 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::35]] mg +",
+   "clean": "35 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2.5]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "2.5 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::2]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::30]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::2]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::1.5]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 1.5 hours"
+  }
+ },
+ "plain_text": "Isopropylphenidate (also known as IPH, IPP, IPPH, IPD and IPPD) is a novel lesser-known stimulant of the phenidate chemical class. It is a structural analog of the widely-prescribed ADHD medication methylphenidate. It is a norepinephrine-dopamine reuptake inhibitor (NDRI).\n\nIsopropylphenidate has been investigated for its potential use as a replacement for methylphenidate in the treatment of ADHD and related disorders. One study found that it displayed the same basic activity as a norepinephrine-dopamine reuptake inhibitor (NDRI), possessing, along with both methylphenidate and ethylphenidate, an appreciably high affinity for the dopamine transporter and effects on its cellular reuptake. It displayed comparably minor effects on norepinephrine, however, which was theorized to mean it may possess a more desirable safety and toxicity profile.\n\nSubjective effects include stimulation, motivation enhancement, appetite suppression, and euphoria. Its cognitive and physical effects are reported to be similar to methylphenidate, albeit with less of a euphoric \"rush\" component and a drawn-out duration of action. These properties have led some to claim it may be preferable for use as a study-aid or productivity enhancer.\n\nIsopropylphenidate has an extremely short history of recreational use in humans. It was initially released following the banning of ethylphenidate, which on April 2015 became illegal in the United Kingdom following a temporary-then-permanent blanket ban. Shortly after, it became made available for sale on the online gray market as a research chemical for global distribution. As of 2022, isopropylphenidate continues to remain available and ambiguously legal in many parts of the world, distributed almost exclusively by online research chemical vendors.\n\nChemistry\n\nIsopropylphenidate is a synthetic molecule of the substituted phenethylamine, substituted amphetamines and phenidate classes. It contains a phenethylamine core featuring a phenyl ring bound to an amino (NH2) group via an ethyl chain. It is structurally similar to amphetamine, featuring a substitution at Rα which is then incorporated into a piperidine ring ending at the terminal amine of the phenethylamine chain. Additionally, it contains an isopropyl acetate bound to Rβ of its molecular structure, a noticeable departure from methylphenidate, which contains a methyl group in this position. \n\nIsopropylphenidate structurally diverges from ethylphenidate and methylphenidate by the length of the carbon chain on their acetate group. Iso- regards the side chain of one carbon atom branching into two bound methyl groups, phen- indicates the phenyl ring, id- is contracted from the piperidine ring, and -ate indicates the acetate group. Isopropylphenidate is a chiral compound, and has been documented as being produced as a racemic mixture and exclusively as either of its enantiomers.\n\nPharmacology\n\nFormal in-vivo human studies using isopropylphenidate have not been conducted. However, in vivo rat studies have found stimulatory effects; in vitro studies have evaluated the monoamine transporter binding affinities and affinities for various hydrolytic enzymes respectively. The results of these studies suggest that isopropylphenidate has a very similar pharmacology to its parent compound methylphenidate, with the notable differences between the two substances being isopropylphenidate displaying significantly less activity as a norepinephrine reuptake inhibitor and the CES1 hydrolytic enzyme, which is exclusively responsible for hydrolysing both substances to ritalinic acid, having an 8 times lower affinity for isopropylphenidate compared to methylphenidate. \n\nThese differences result in the substance having more notable dopaminergic activity than adrenergic activity compared to methylphenidate at equivalent effective dosages, and in the substance having a longer duration than methylphenidate and a greater potency than methylphenidate at a given dosage. The greater potency of isopropylphenidate compared to methylphenidate is most significant with oral administration as the difference in potency is a result of the lower affinity of CES1 increasing the bioavailability of isopropylphenidate compared to methylphenidate, which is notably low for methylphenidate when administered orally due to first-pass metabolism in the liver by CES1.\n\nDespite the notable differences between the two substances, isopropylphenidate is still thought to act primarily as both a dopamine reuptake inhibitor and a norepinephrine reuptake inhibitor, meaning that it effectively boosts the levels of the norepinephrine and dopamine neurotransmitters in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulatory effects.\n\nSubjective effects\n\nExperience reports\n\nThere are currently anecdotal reports which describe the effects of this compound within our experience index.\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Isopropylphenidate\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational isopropylphenidate use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because isopropylphenidate has very little history of human usage. Anecdotal evidence from people who have tried isopropylphenidate within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of isopropylphenidate can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of isopropylphenidate develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Isopropylphenidate presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of isopropylphenidate all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\nLegal status\n\n*Germany: Isopropylphenidate is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: Isoprpoylphenidate is a controlled substance specifically named under Verzeichnis E.\n*Turkey: Isopropylphenidate is illegal in Turkey as of February 2016.\n*United Kingdom: Isopropylphenidate is a class B drug in the UK as of 31st May 2017 and is illegal to possess, produce or supply. \n*Canada: Isopropylphenidate is a Schedule III drug in Canada. \n\nSee also\n\n*Responsible use\n*Designer drug\n*Stimulant\n*Methylphenidate\n*Ethylphenidate\n\nExternal links\n\n*Isopropylphenidate (Wikipedia)\n*Isopropylphenidate (Isomer Design)\n\nLiterature\n\n*Markowitz, J. S., Zhu, H., & Patrick, K. S. (2013). Isopropylphenidate: An Ester Homolog of Methylphenidate with Sustained and Selective Dopaminergic Activity and Reduced Drug Interaction Liability. Journal of Child and Adolescent Psychopharmacology, 23(10), 648-654. https://doi.org/10.1089/cap.2013.0074\n*John S. Markowitz; Kennerly S. Patrick; Haojie Zhu (Sep 27, 2012). \"Patent US20120245201 - Isopropylphenidate for Treatment of Attention-Deficit/Hyperactivity Disorder and Fatigue-Related Disorders and Conditions\". Retrieved 15 August 2014.\n\nReferences\n\nCategory:Research chemical\nCategory:Phenidate\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Isopropylphenidate}}\n\n'''Isopropylphenidate''' (also known as '''IPH''', '''IPP''', '''IPPH''', '''IPD''' and '''IPPD''') is a novel lesser-known [[psychoactive class::stimulant]] of the [[chemical class::phenidate]] chemical class. It is a structural analog of the widely-prescribed ADHD medication [[methylphenidate]]. It is a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] ('''NDRI''').\n\nIsopropylphenidate has been investigated for its potential use as a replacement for [[methylphenidate]] in the treatment of ADHD and related disorders.<ref name=\"IPPHadhd\" /> One study found that it displayed the same basic activity as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] ('''NDRI'''), possessing, along with both [[methylphenidate]] and [[ethylphenidate]], an appreciably high affinity for the dopamine transporter and effects on its cellular reuptake. It displayed comparably minor effects on [[norepinephrine]], however, which was theorized to mean it may possess a more desirable safety and toxicity profile.<ref name=\"IPPH\" />\n\n[[Subjective effects]] include [[stimulation]], [[motivation enhancement]], [[appetite suppression]], and [[euphoria]]. Its cognitive and physical effects are reported to be similar to methylphenidate, albeit with less of a [[euphoria|euphoric]] \"rush\" component and a drawn-out [[duration|duration of action]]. These properties have led some to claim it may be preferable for use as a study-aid or productivity enhancer.<ref name=\"IPPH\">{{cite journal | vauthors=((Markowitz, J. S.)), ((Zhu, H.-J.)), ((Patrick, K. S.)) | journal=Journal of Child and Adolescent Psychopharmacology | title=Isopropylphenidate: An Ester Homolog of Methylphenidate with Sustained and Selective Dopaminergic Activity and Reduced Drug Interaction Liability | volume=23 | issue=10 | pages=648–654 | date= December 2013 | url=http://www.liebertpub.com/doi/10.1089/cap.2013.0074 | issn=1044-5463 | doi=10.1089/cap.2013.0074}}</ref><ref name=\"IPPHadhd\">{{Citation | vauthors=((Markowitz, J. S.)), ((Patrick, K. S.)), ((Zhu, H.)) | title=Isopropylphenidate for Treatment of Attention-Deficit/Hyperactivity Disorder and Fatigue-Related Disorders and Conditions | url=https://patents.google.com/patent/US20120245201A1/en}}</ref>\n\nIsopropylphenidate has an extremely short history of [[recreational drug use|recreational use]] in humans. It was initially released following the banning of [[ethylphenidate]], which on April 2015 became illegal in the United Kingdom following a temporary-then-permanent blanket ban. Shortly after, it became made available for sale on the online gray market as a [[research chemical]] for global distribution. As of 2022, isopropylphenidate continues to remain available and ambiguously legal in many parts of the world, distributed almost exclusively by online [[research chemical]] vendors.\n\n==Chemistry==\nIsopropylphenidate is a synthetic molecule of the [[substituted phenethylamine]], [[amphetamine|substituted amphetamines]] and [[phenidate]] classes. It contains a phenethylamine core featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group via an ethyl chain. It is structurally similar to [[amphetamine]], featuring a substitution at R<sub>α</sub> which is then incorporated into a [[piperidine]] ring ending at the terminal amine of the phenethylamine chain. Additionally, it contains an isopropyl acetate bound to R<sub>β</sub> of its molecular structure, a noticeable departure from [[methylphenidate]], which contains a methyl group in this position. \n\nIsopropylphenidate structurally diverges from [[ethylphenidate]] and [[methylphenidate]] by the length of the carbon chain on their acetate group. ''Iso-'' regards the side chain of one carbon atom branching into two bound methyl groups, ''phen-'' indicates the phenyl ring, ''id-'' is contracted from the piperidine ring, and ''-ate'' indicates the acetate group. Isopropylphenidate is a chiral compound, and has been documented as being produced as a racemic mixture and exclusively as either of its enantiomers.<ref name=\"IPPHSynthesis\">{{Citation | vauthors=((Leon, L.)), ((Louis, M.)) | title=Therapeutic lower alkyl esters of alpha-phenyl-alpha-piperidyl-(2)-acetic acid | url=https://patents.google.com/patent/US3060089A/en}}</ref>\n\n==Pharmacology==\nFormal in-vivo human studies using isopropylphenidate have not been conducted. However, in vivo rat studies have found stimulatory effects; in vitro studies have evaluated the monoamine transporter binding affinities and affinities for various hydrolytic enzymes respectively.<ref name=\"IPPH\" /><ref name=\"PhenidateHydrolysis\">{{cite journal | vauthors=((Portoghese, P. S.)), ((Malspeis, L.)) | journal=Journal of Pharmaceutical Sciences | title=Relative Hydrolytic Rates of Certain Alkyl (b) dl-α-(2-Piperidyl)-phenylacetates | volume=50 | issue=6 | pages=494–501 | date= June 1961 | url=https://linkinghub.elsevier.com/retrieve/pii/S0022354915331865 | issn=00223549 | doi=10.1002/jps.2600500611}}</ref> The results of these studies suggest that isopropylphenidate has a very similar pharmacology to its parent compound [[methylphenidate]], with the notable differences between the two substances being isopropylphenidate displaying significantly less activity as a [[norepinephrine]] [[reuptake inhibitor]] and the CES1 hydrolytic enzyme, which is exclusively responsible for hydrolysing both substances to ritalinic acid, having an 8 times lower affinity for isopropylphenidate compared to methylphenidate. \n\nThese differences result in the substance having more notable [[dopaminergic]] activity than [[norepinephrine|adrenergic]] activity compared to methylphenidate at equivalent effective dosages, and in the substance having a longer duration than methylphenidate and a greater potency than methylphenidate at a given dosage. The greater potency of isopropylphenidate compared to methylphenidate is most significant with oral administration as the difference in potency is a result of the lower affinity of CES1 increasing the bioavailability of isopropylphenidate compared to methylphenidate, which is notably low for methylphenidate when administered orally due to first-pass metabolism in the liver by CES1.<ref name=\"MPHBioavailability\">{{cite journal | vauthors=((Kimko, H. C.)), ((Cross, J. T.)), ((Abernethy, D. R.)) | journal=Clinical Pharmacokinetics | title=Pharmacokinetics and Clinical Effectiveness of Methylphenidate: | volume=37 | issue=6 | pages=457–470 | date= 1999 | url=http://link.springer.com/10.2165/00003088-199937060-00002 | issn=0312-5963 | doi=10.2165/00003088-199937060-00002}}</ref>\n\nDespite the notable differences between the two substances, isopropylphenidate is still thought to act primarily as both a [[dopamine]] [[reuptake inhibitor]] and a [[norepinephrine]] [[reuptake inhibitor]], meaning that it effectively boosts the levels of the norepinephrine and dopamine [[neurotransmitters]] in the brain by binding to and partially blocking the transporter proteins that normally remove those monoamines from the synaptic cleft. This allows dopamine and norepinephrine to accumulate within the brain, resulting in stimulatory effects.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\nThe physical effects of isopropylphenidate are often described as less uncomfortable and euphoric than [[ethylphenidate]]. They can be broken down into several components which progressively intensify proportional to dosage. These are described below and generally include:\n\n*'''[[Effect::Stimulation]]''' - Isopropylphenidate is usually considered to be energetic and stimulating in a fashion that is distinct but much weaker than that of [[amphetamine]] or [[methamphetamine]] and stronger than that of [[modafinil]] and [[caffeine]]. At lower to moderate doses, it encourages general productivity, but at higher dosages it encourages physical activities such as dancing, socializing, running, or cleaning. The particular style of stimulation which isopropylphenidate presents can be described as forced. This means that at higher doses, it becomes difficult or impossible to keep still as jaw clenching, involuntarily bodily shakes and vibrations become present, resulting in unsteadiness of the hands, shaking of the entire body and a general loss of motor control.\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Vasoconstriction]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Mouth numbing]]''' - When administered [[sublingual|sublingually]] a long-lasting numbing sensation has been reported to occur. \n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of isopropylphenidate can be broken down into several components which progressively intensify proportional to dosage. The general headspace of isopropylphenidate is described by many as one of mental stimulation, increased focus, and manageable euphoria. It contains a large number of typical [[stimulant]] cognitive effects. Although negative side effects are usually mild at low to moderate doses, they become increasingly likely to manifest themselves with higher amounts or extended usage. This particularly holds true during the offset of the experience.\n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Focus enhancement]]''' - This component is most effective at low to moderate doses as anything higher will usually impair concentration.\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Cognitive euphoria]]''' - The euphoric rush associated with isopropylphenidate use (as a result of [[dopamine]] [[reuptake inhibition]]) is very short-lived and compulsive, vaguely similar to that of [[cocaine]]. \n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased libido]]''' - This component is generally considered mild compared to that of other stimulants.\n*'''[[Effect::Irritability]]''' - At higher dosage ranges this is often felt during the peak of the experience in addition to during the offset. This can potentially be attributed to the unusually high [[dopamine|dopaminergic]] activity it displays relative to [[noradrenaline|noradrenergic]] activity.<ref name=\"IPPH\" />\n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it would while sober.\n*'''[[Effect::Compulsive redosing]]''' - This can be attributed to the mild-to-moderate euphoric rush and relatively short half-life of isopropylphenidate possesses, and is especially prominent when it is insufflated. Those who wish to use it for productivity purposes are advised to only take low to moderate doses strictly through [[Routes of administration#Oral|oral administration]]. [[Routes of administration#Insulfattion|insufflation]] can amplify the urge to redose. Many users report that the compulsive redosing aspects of isopropylphenidate are far more tame and controllable than the majority of [[research chemical]] stimulants, such as [[4F-MPH]], [[a-PHP]] or [[Hexen]], likely due to the absence of a pronounced rush and an extended onset.\n*'''[[Effect::Wakefulness]]'''\n\n}}\n\n}}\n===Experience reports===\nThere are currently anecdotal reports which describe the effects of this compound within our [[experience index]].\n{{#ask: [[Category:Isopropylphenidate]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Isopropylphenidate.shtml Erowid Experience Vaults: Isopropylphenidate]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational isopropylphenidate use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because isopropylphenidate has very little history of human usage. Anecdotal evidence from people who have tried isopropylphenidate within the community suggests that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). \nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other [[stimulant]]s, the chronic use of isopropylphenidate can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of isopropylphenidate [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Isopropylphenidate presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of isopropylphenidate all [[stimulant]]s will have a reduced effect.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[paranoia]], [[External hallucinations|hallucinations]], or [[delusions]]).<ref name=\"stimpsychosis\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"stimpsychosis\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"stimpsychosis\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Stimulants|self=isopropylphenidate}}\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n\n==Legal status==\n{{legalStub}}\n\n*'''Germany''': Isopropylphenidate is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 24, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 24, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 24, 2019|language=de}}</ref>\n*'''Switzerland''': Isoprpoylphenidate is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Isopropylphenidate is illegal in Turkey as of February 2016.<ref>{{cite web|url=https://www.resmigazete.gov.tr/eskiler/2016/03/20160308-4.pdf|publisher=Resmi Gazete |access-date=January 15, 2020|language=tr|title=Karar Sayısı : 2016/8548}}</ref>\n*'''United Kingdom''': Isopropylphenidate is a class B drug in the UK as of 31st May 2017 and is illegal to possess, produce or supply. <ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2017 | url=https://www.legislation.gov.uk/uksi/2017/634/made}}</ref>\n*'''Canada''': Isopropylphenidate is a Schedule III drug in Canada. <ref>{{cite web|url=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-15.html|title=Controlled Drugs and Substances Act|access-date=April 8, 2021|language=en}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Stimulant]]\n*[[Methylphenidate]]\n*[[Ethylphenidate]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Isopropylphenidate Isopropylphenidate (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=635 Isopropylphenidate (Isomer Design)]\n\n==Literature==\n\n*Markowitz, J. S., Zhu, H., & Patrick, K. S. (2013). Isopropylphenidate: An Ester Homolog of Methylphenidate with Sustained and Selective Dopaminergic Activity and Reduced Drug Interaction Liability. Journal of Child and Adolescent Psychopharmacology, 23(10), 648-654. https://doi.org/10.1089/cap.2013.0074\n*John S. Markowitz; Kennerly S. Patrick; Haojie Zhu (Sep 27, 2012). \"Patent US20120245201 - Isopropylphenidate for Treatment of Attention-Deficit/Hyperactivity Disorder and Fatigue-Related Disorders and Conditions\". Retrieved 15 August 2014.\n\n==References==\n<references />\n\n[[Category:Research chemical]]\n[[Category:Phenidate]]\n[[Category:Stimulant]]\n\n{{#set:Featured=true}}"
+}

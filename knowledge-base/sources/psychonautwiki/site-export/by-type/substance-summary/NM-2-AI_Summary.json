@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10925",
+ "type": "substance-summary",
+ "title": "NM-2-AI/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/NM-2-AI/Summary",
+  "pageid": 10925,
+  "last_edited": "2016-04-09T04:37:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "NM-2-AI",
+ "plain_text": "",
+ "wikitext": "{{Summary|NM-2-AI}}"
+}

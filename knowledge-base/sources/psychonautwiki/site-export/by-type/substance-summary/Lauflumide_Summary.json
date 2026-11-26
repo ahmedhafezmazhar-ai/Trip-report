@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:16036",
+ "type": "substance-summary",
+ "title": "Lauflumide/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Lauflumide/Summary",
+  "pageid": 16036,
+  "last_edited": "2017-11-15T00:32:58Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Lauflumide",
+ "plain_text": "",
+ "wikitext": "{{Summary|Lauflumide}}"
+}

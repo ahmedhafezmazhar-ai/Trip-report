@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22017",
+ "type": "substance-summary",
+ "title": "25E-NBOH/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25E-NBOH/Summary",
+  "pageid": 22017,
+  "last_edited": "2024-04-30T18:17:55Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "25E-NBOH",
+ "plain_text": "",
+ "wikitext": "{{Summary|25E-NBOH}}"
+}

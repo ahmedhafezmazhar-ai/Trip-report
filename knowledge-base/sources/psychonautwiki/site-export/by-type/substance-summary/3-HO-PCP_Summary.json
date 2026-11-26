@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14730",
+ "type": "substance-summary",
+ "title": "3-HO-PCP/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-HO-PCP/Summary",
+  "pageid": 14730,
+  "last_edited": "2017-06-17T08:09:06Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "3-HO-PCP",
+ "plain_text": "",
+ "wikitext": "{{Summary|3-HO-PCP}}"
+}

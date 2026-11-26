@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19491",
+ "type": "substance-summary",
+ "title": "1V-LSD/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/1V-LSD/Summary",
+  "pageid": 19491,
+  "last_edited": "2021-08-16T21:02:59Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "1V-LSD",
+ "plain_text": "",
+ "wikitext": "{{Summary|1V-LSD}}"
+}

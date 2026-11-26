@@ -1,0 +1,394 @@
+{
+ "id": "psychonautwiki:1241",
+ "type": "substance",
+ "title": "Methoxphenidine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Methoxphenidine",
+  "pageid": 1241,
+  "last_edited": "2022-07-22T20:14:10Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Turkish-language sources (tr)",
+  "Diarylethylamine",
+  "Dissociative",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/Methoxphenidine",
+ "substance_box": {
+  "names": {
+   "common": "Methoxphenidine, Methoxyphenidine, MXP, 2-MXP",
+   "substitutive": "2-MeO-Diphenidine",
+   "systematic": "(±)-1-[1-(2-Methoxyphenyl)-2-phenylethyl]piperidine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Diarylethylamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "30 mg",
+    "light": "50 - 75 mg",
+    "common": "75 - 120 mg",
+    "strong": "120 - 150 mg",
+    "heavy": "",
+    "duration": "6 - 8 hours",
+    "onset": "30 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Methoxphenidine",
+    "Methoxyphenidine",
+    "MXP",
+    "2-MXP"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Diarylethylamine"
+   ],
+   "Oral threshold dose": [
+    "30"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "75"
+   ],
+   "Oral min common dose": [
+    "75"
+   ],
+   "Oral max common dose": [
+    "120"
+   ],
+   "Oral min strong dose": [
+    "120"
+   ],
+   "Oral max strong dose": [
+    "150"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "3"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Methoxphenidine",
+   "clean": "Molecular structure of Methoxphenidine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Methoxphenidine.svg",
+   "clean": "File:Methoxphenidine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Methoxphenidine]], [[common name::Methoxyphenidine]], [[common name::MXP]], [[common name::2-MXP]]",
+   "clean": "Methoxphenidine, Methoxyphenidine, MXP, 2-MXP"
+  },
+  "NameSubstitution": {
+   "raw": "2-MeO-Diphenidine",
+   "clean": "2-MeO-Diphenidine"
+  },
+  "NameSystematic": {
+   "raw": "(±)-1-[1-(2-Methoxyphenyl)-2-phenylethyl]piperidine",
+   "clean": "(±)-1-[1-(2-Methoxyphenyl)-2-phenylethyl]piperidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Diarylethylamine]]",
+   "clean": "Diarylethylamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::30]] [[Oral dose units::mg]]",
+   "clean": "30 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::75]] mg",
+   "clean": "50 - 75 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::75]] - [[Oral max common dose::120]] mg",
+   "clean": "75 - 120 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::120]] - [[Oral max strong dose::150]] mg",
+   "clean": "120 - 150 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::3]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 3 hours"
+  }
+ },
+ "plain_text": "Methoxphenidine (also known as 2-MXP or MXP) is a lesser-known novel dissociative substance of the diarylethylamine class. It is an NMDA antagonist with subjective effects similar to those of ketamine and phencyclidine (PCP). It is structurally related to diphenidine and ephenidine. \n\nMethoxphenidine has been studied alongside other diarylethylamines as a treatment for neurotoxic injuries.\nThe first reports of human recreational use appeared shortly after the 2013 U.K. arylcyclohexylamine ban, during which it and diphenidine began to be sold in powder and tablet form on the online research chemical market. \nIt was initially marketed by vendors as a replacement for the highly popular methoxetamine (MXE) despite little to no evidence that it possessed similar effects. \n\nSubjective effects include depersonalization, disconnective effects, conceptual thinking, increased music appreciation, and euphoria. Methoxphenidine belongs to a class of substances that can induce a hallucinogenic state known as \"dissociative anesthesia\", in which the user feels detached from their bodies. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of methoxphenidine and it has an extremely limited history of human usage. A number of fatal and non-fatal overdoses have been linked to the abuse of diarylethylamines. Additionally, a number of user reports suggest that they may carry different and more pronounced risks than traditional dissociatives. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nMethoxphenidine is an example of a designer drug, specifically chosen to mimic the functional or structural features of commonly used illicit substances and circumvent government regulation. \n\nChemistry\n\nMethoxphenidine, or 2-MeO-Diphenidine, is a synthetic compound of the diarylethylamine class. Methoxphenidine's chemical structure contains a substituted phenethylamine skeleton with an additional phenyl ring bound to Rα. The terminal amino group of the phenethylamine chain is incorporated into a piperidine ring. Hence, methoxphenidine belongs to the piperidine dissociative class of compounds. \n\nMethoxphenidine is a structural analog of diphenidine, featuring a methoxy group at the two position of a phenyl group.\n\nPharmacology\n\nMXP acts as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the “k-hole.”\n\nAlthough it has not been formally studied, the feelings of physical and emotional euphoria which many users report suggests that it may also have action as a dopamine and / or a noradrenaline reuptake inhibitor.\n\nSubjective effects\n\nIt should be noted that like other diaryethylamines, methoxphenidine is reported to have a much more rapid onset and lower half-life when vaporized or smoked. When consumed this way, it is a suspected to be carcinogenic when excess heat is used. Some user reports have concluded that vaporization requires as low as 20% of what would be a common oral dose for that person.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: MXP\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational MXP use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because MXP has very little history of human usage. \n\nAnecdotal reports from those who have tried this substance that there do not seem to be any negative health effects attributed to simply trying it by itself at low to moderate doses and using it sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other NMDA receptor antagonists, the chronic use of MXP can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MXP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). MXP presents cross-tolerance with all dissociatives, meaning that after the consumption of MXP all dissociatives will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\n*Canada: As of March 2016, MT-45 and its analogues, one of which is methoxphenidine, are schedule I controlled substances. Possession without legal authority can result in maximum 7 years imprisonment. Only those with a law enforcement agency, person with an exemption permit or institutions with Minister's authorization may possess the substance.\n*China: As of October 2015, methoxphenidine is a controlled substance in China.\n*Germany: Methoxphenidine is a controlled substance under the NpSG, as it is a derivative of 2-Phenethylamine. Production and sale is illegal. Possession and import, although illegal, is not penalized if intended for self-consumption.\n*Italy: Methoxphenidine is a prohibited substance in Italy.\n*Sweden: Methoxphenidine is a prohibited substance in Sweden.\n*Switzerland: Methoxphenidine is a controlled substance specifically named under Verzeichnis E.\n*Turkey: Methoxphenidine is a classed as drug and is illegal to possess, produce, supply, or import.\n*United Kingdom: Methoxphenidine is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n*United States: Methoxphenidine is not currently scheduled in the United States. This means it is not specifically illegal but individuals may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Dissociative\n*Diarylethylamine\n*Diphenidine\n*Ephenidine\n\nExternal links\n\n*MXP (Wikipedia)\n*MXP (Erowid Vault)\n*MXP (Isomer Design)\n\nDiscussion\n\n*The Big & Dandy Methoxphenidine / MXP / 2-MeO-Diphenidine Thread (Bluelight)\n\nLiterature\n\n* Wallach, J., Kang, H., Colestock, T., Morris, H., Bortolotto, Z. A., Collingridge, G. L., ... & Adejare, A. (2016). Pharmacological investigations of the dissociative ‘legal highs’ diphenidine, methoxphenidine and analogues. PLoS One, 11(6), e0157021. https://doi.org/10.1371/journal.pone.0157021\n* Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Diarylethylamine\nCategory:Dissociative\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Methoxphenidine}}\n'''Methoxphenidine''' (also known as '''2-MXP''' or '''MXP''') is a lesser-known novel [[psychoactive class::dissociative]] substance of the [[Chemical class::diarylethylamine]] class. It is an [[NMDA antagonist]] with [[subjective effects]] similar to those of [[ketamine]] and [[phencyclidine]] (PCP). It is structurally related to [[diphenidine]] and [[ephenidine]].<ref name=\"wallach\">{{cite journal | vauthors=((Wallach, J.)), ((Kang, H.)), ((Colestock, T.)), ((Morris, H.)), ((Bortolotto, Z. A.)), ((Collingridge, G. L.)), ((Lodge, D.)), ((Halberstadt, A. L.)), ((Brandt, S. D.)), ((Adejare, A.)) | veditors=((Lee, J.)) | journal=PLOS ONE | title=Pharmacological Investigations of the Dissociative ‘Legal Highs’ Diphenidine, Methoxphenidine and Analogues | volume=11 | issue=6 | pages=e0157021 | date=17 June 2016 | url=https://dx.plos.org/10.1371/journal.pone.0157021 | issn=1932-6203 | doi=10.1371/journal.pone.0157021}}</ref> \n\nMethoxphenidine has been studied alongside other diarylethylamines as a treatment for neurotoxic injuries.<ref>{{cite web | url=https://www.surechembl.org/document/EP-0346791-B1/ | title=Patent EP 0346791 - 1,2-diarylethylamines for treatment of neurotoxic injury | via=SureChEMBL | publisher=G.D. Searle, LLC | date=6 April 1994 | author1=Nancy M. Gray | author2=Brian K. Cheng}}</ref><ref>{{cite journal | url=http://www.sciencedirect.com/science/article/pii/S0968089609002624 | title=NMDA receptor affinities of 1,2-diphenylethylamine and 1-(1,2-diphenylethyl)piperidine enantiomers and of related compounds |author1=Michael L. Berger |author2=Anna Schweifer |author3=Patrick Rebernik |author4=Friedrich Hammerschmidt | journal=Bioorganic & Medicinal Chemistry |date=May 2009  | volume=17 | issue=1 | pages=3456–3462 | doi=10.1016/j.bmc.2009.03.025 | pmid=19345586}}</ref><ref>{{cite journal | url=http://onlinelibrary.wiley.com/doi/10.1002/dta.1689/abstract | title=Preparation and characterization of the ‘research chemical’ diphenidine, its pyrrolidine analogue, and their 2,2-diphenylethyl isomers |author1=Jason Wallach |author2=Pierce V. Kavanagh |author3=Gavin McLaughlin |author4=Noreen Morris |author5=John D. Power |author6=Simon P. Elliott |author7=Marion S. Mercier |author8=David Lodge |author9=Hamilton Morris |author10=Nicola M. Dempster |author11=Simon D. Brandt | journal=Drug Testing and Analysis |date=May 2015  | volume=7 | issue=5 | pages=358–367 | doi=10.1002/dta.1689 | pmid=25044512}}</ref><ref>{{cite journal|first1=Andrew|last1=Thurkauf|first2=James|last2=Monn|first3=Marienna V.|last3=Mattson|first4=Arthur E.|last4=Jacobson|title=Structural and conformational aspects of the binding of aryl-alkyl amines to the phencyclidine binding site|url=http://archives.drugabuse.gov/pdf/monographs/95.pdf|journal=NIDA research monograph|date=1989|issn=1046-9516|pages=51–56|volume=95|first5=Kenner C.|last5=Rice|pmid=2561843}}</ref><ref>{{cite journal|first1=L. H.|last1=Goodson|first2=C. J. W.|last2=Wiegand|first3=Janet S.|last3=Splitter|title=Analgesics. I. N-Alkylated-1,2-diphenylethylamines Prepared by the Leuckart Reaction|url=http://pubs.acs.org/doi/abs/10.1021/ja01215a018|journal=Journal of the American Chemical Society|date=November 1946|pages=2174–2175|volume=68|issue=11|doi=10.1021/ja01215a018|pmid=21002222}}</ref>\nThe first reports of human recreational use appeared shortly after the 2013 U.K. [[arylcyclohexylamine]] ban, during which it and [[diphenidine]] began to be sold in powder and tablet form on the online [[research chemical]] market.<ref>{{cite journal | vauthors=((McLaughlin, G.)), ((Morris, N.)), ((Kavanagh, P. V.)), ((Power, J. D.)), ((O’Brien, J.)), ((Talbot, B.)), ((Elliott, S. P.)), ((Wallach, J.)), ((Hoang, K.)), ((Morris, H.)), ((Brandt, S. D.)) | journal=Drug Testing and Analysis | title=Test purchase, synthesis, and characterization of 2-methoxydiphenidine (MXP) and differentiation from its meta - and para -substituted isomers: Characterization of 2-, 3- and 4-methoxydiphenidine isomers | volume=8 | issue=1 | pages=98–109 | date= January 2016 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.1800 | issn=19427603 | doi=10.1002/dta.1800}}</ref> \nIt was initially marketed by vendors as a replacement for the highly popular [[methoxetamine]] ('''MXE''') despite little to no evidence that it possessed similar effects. \n\n[[Subjective effects]] include [[depersonalization]], [[disconnective effects]], [[conceptual thinking]], [[increased music appreciation]], and [[euphoria]]. Methoxphenidine belongs to a class of substances that can induce a hallucinogenic state known as \"dissociative anesthesia\", in which the user feels detached from their bodies. \n\nVery little data exists about the pharmacological properties, metabolism, and toxicity of methoxphenidine and it has an extremely limited history of human usage. A number of fatal and non-fatal overdoses have been linked to the abuse of diarylethylamines.<ref name=\"wallach\" /> Additionally, a number of user reports suggest that they may carry different and more pronounced risks than traditional dissociatives. \n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nMethoxphenidine is an example of a [[designer drug]], specifically chosen to mimic the functional or structural features of commonly used illicit substances and circumvent government regulation.<ref>{{cite journal | vauthors=((Morris, H.)), ((Wallach, J.)) | journal=Drug Testing and Analysis | title=From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs | volume=6 | issue=7–8 | pages=614–632 | date= August 2014 | issn=1942-7611 | doi=10.1002/dta.1620}}</ref><ref>{{cite journal | vauthors=((Van Hout, M. C.)), ((Hearne, E.)) | journal=Journal of Psychoactive Drugs | title=“Word of mouse”: indigenous harm reduction and online consumerism of the synthetic compound methoxphenidine | volume=47 | issue=1 | pages=30–41 | date= March 2015 | issn=0279-1072 | doi=10.1080/02791072.2014.974002}}</ref> \n\n==Chemistry==\nMethoxphenidine, or 2-MeO-Diphenidine, is a synthetic compound of the diarylethylamine class. Methoxphenidine's chemical structure contains a substituted phenethylamine skeleton with an additional phenyl ring bound to R<sub>α</sub>. The terminal amino group of the phenethylamine chain is incorporated into a piperidine ring. Hence, methoxphenidine belongs to the piperidine dissociative class of compounds. \n\nMethoxphenidine is a structural analog of diphenidine, featuring a methoxy group at the two position of a phenyl group.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nMXP acts as an [[NMDA receptor antagonist]].<ref>{{Citation | vauthors=((Gray, N. M.)), ((Cheng, B. K.)) | title=1,2-diarylethylamines for treatment of neurotoxic injury | url=http://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0346791&KC=&FT=E&locale=en_EP}}</ref> NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\nAlthough it has not been formally studied, the feelings of physical and emotional euphoria which many users report suggests that it may also have action as a [[dopamine]] and / or a [[noradrenaline]] [[reuptake inhibitor]].\n\n==Subjective effects==\nIt should be noted that like other diaryethylamines, methoxphenidine is reported to have a much more rapid onset and lower half-life when vaporized or smoked. When consumed this way, it is a suspected to be carcinogenic when excess heat is used. Some user reports have concluded that vaporization requires as low as 20% of what would be a common oral dose for that person.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\nThe physical effects of MXP are most similar to that of [[DXM]] than other commonly used [[dissociatives]]. They can be broken down into several components which progressively intensify proportional to dosage. These are described below and generally include:\n\n*'''[[Effect::Tactile disconnection]]''' - This results in typical states of progressive physical disconnection but is far more consciously controllable than that of other [[dissociative]]s. This allows one to choose how much of their body they are currently aware of and connected to simply by directing their focus towards it even throughout higher states of disconnection and out-of-body experiences.\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Spontaneous physical sensations]]''' - The MXP \"body high\" is a soft, pleasurable vibrating sensation which can be felt all over the body which progressively intensifies throughout the onset before dissipating once the peak has been reached.\n*'''[[Effect::Tactile suppression]]''' - This partially to entirely suppresses one's own sense of touch, creating feelings of numbness within the extremities. It is responsible for the anaesthetic properties of this substance.\n*'''[[Effect::Motor control loss]]''' - A loss of gross and fine motor control alongside of balance and coordination is prevalent within MXP and becomes especially strong at higher dosages. This means that one should be sitting down before the onset unless they are experienced in case of falling over and injuring oneself.\n*'''[[Effect::Physical euphoria|Euphoria]]''' - This results in feelings of physical euphoria which range between mild pleasure to powerfully all-encompassing bliss. \n*'''[[Effect::Perception of bodily lightness]]''' - This creates the sensation that the body is floating and has become entirely weightless. This effect is strangely stimulating and encourages physical activities at low to moderate dosages by making the body feel light and effortless to move.\n*'''[[Effect::Dizziness]]''' - Although uncommon, some people report dizziness under the influence of MXP.\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Spatial disorientation]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Gait alteration]]'''\n}}\n{{effects/visual|\n\n====Suppression====\n*'''[[Effect::Visual disconnection]]''' - This eventually results in MXP's equivalent of the famous \"K-hole\" or more specifically, ''[[Visual disconnection#Holes, spaces and voids|holes, spaces and voids]]'' alongside of ''[[Visual disconnection#Structures|structures]]''.\n*'''[[Effect::Visual acuity suppression]]'''\n*'''[[Effect::Double vision]]''' - This component is prevalent at moderate to heavy dosages and makes reading impossible unless one closes an eye.\n*'''[[Effect::Pattern recognition suppression]]''' - This effect generally occurs at higher dosages and makes one unable to recognize and interpret perceivable visual data.\n*'''[[Effect::Frame rate suppression]]'''\n\n====Distortions====\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Environmental cubism]]'''\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\nAt high dosages, MXP can produce a full range of high level hallucinatory states in a fashion that is less consistent and reproducible than that of many other commonly used [[psychedelic]]s. These effects include:\n\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') -  In comparison to other [[dissociative]]s, this effect can occur at heavy dosages, but is considerably less common than the same effect found within [[psychedelic]]s and [[deliriant]]s. It feels very dream-like and can be comprehensively described through its [[Internal_hallucinations#Variations|variations]] as delirious in believability, fixed in style, equal in new experiences and memory replays in content, extremely controllable in content and solid in style.\n\n}}\n|{{effects/cognitive|\nThe cognitive effects of MXP are often described as particularly clear-headed in comparison to other [[dissociative]]s even at heavy dosages. It is far more controllable, less disorientating and confusing at dosages of equal subjective intensity to that of [[MXE]], [[DXM]] and [[ketamine]]. The cognitive effects of MXP can be broken down into several separate subcomponents which are listed and described below:\n\n*'''[[Effect::Depersonalization]]'''\n*'''[[Effect::Derealization]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Consciousness disconnection]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Memory suppression]]''' \n**'''[[Effect::Ego death]]\n*'''[[Effect::Thought deceleration]]\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Analysis suppression]]\n*'''[[Effect::Time distortion]]''' - Feelings of time dilation and more time having passed than it actually has are common at moderate to strong dosages.\n*'''[[Effect::Cognitive euphoria|Euphoria]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Amnesia]]'''\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory suppression|Suppression]]'''\n*'''[[Effect::Auditory distortion|Distortions]]''' - The auditory distortion which is present at moderate to high doses of MXP can be described as a concomitant, audial component of [[Effect::frame rate suppression]]. This causes one to hear sound at a lagged frame rate. This can be described as 2 -15 seconds longer, with repeating, extremely distorted syllables at heavy dosages.\n*'''[[Effect::Auditory hallucinations|Hallucinations]]''' - Audial time dilation experienced at moderate to heavy dosages can be described as being processed 2-5 seconds after occurring, having an extremely low frame rate with echoing, lengthy syllables.\n}}\n{{effects/aftereffects|\n\nThe afterglow describes the effects that can occur within 24 hours after the experience. Many users report the afterglow to be as long-lasting and desirable as the experience itself. It can be described in terms of its physical sensation as one of euphoria, rejuvenation, relaxation and a bodily lightness. In terms of its mental thought processes, it can be described as a significant reduction or loss of anxiety, feelings of contentedness and a highly increased appreciation for music which dissipates a day or so after the experience.\n}}\n}}\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Methoxphenidine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Methoxphenidine.shtml Erowid Experience Vaults: MXP]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational MXP use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because MXP has very little history of human usage. \n\nAnecdotal reports from those who have tried this substance that there do not seem to be any negative health effects attributed to simply trying it by itself at low to moderate doses and using it sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other NMDA receptor antagonists, the chronic use of MXP can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of MXP [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). MXP presents cross-tolerance with [[Cross-tolerance::all [[dissociative]]s]], meaning that after the consumption of MXP all [[dissociative]]s will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Dissociatives}}\n\n==Legal status==\n*'''Canada:''' As of March 2016, MT-45 and its analogues, one of which is methoxphenidine, are schedule I controlled substances.<ref>{{Citation | vauthors=((Government of Canada, P. W. and G. S. C.)) | year=2016 | title=Canada Gazette – Regulations Amending the Food and Drug Regulations (Parts G and J — Lefetamine, AH-7921, MT-45 and W-18) | url=https://gazette.gc.ca/rp-pr/p2/2016/2016-06-01/html/sor-dors106-eng.html}}</ref> Possession without legal authority can result in maximum 7 years imprisonment. Only those with a law enforcement agency, person with an exemption permit or institutions with Minister's authorization may possess the substance.\n*'''China:''' As of October 2015, methoxphenidine is a controlled substance in China.<ref>\"关于印发《非药用类麻醉药品和精神药品列管办法》的通知\" | http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Germany:''' Methoxphenidine is a controlled substance under the NpSG, as it is a derivative of 2-Phenethylamine. Production and sale is illegal. Possession and import, although illegal, is not penalized if intended for self-consumption.<ref>{{Citation | title=Anlage NpSG - Einzelnorm | url=https://www.gesetze-im-internet.de/npsg/anlage.html}}</ref>\n*'''Italy:''' Methoxphenidine is a prohibited substance in Italy.<ref>http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf</ref>\n*'''Sweden:''' Methoxphenidine is a prohibited substance in Sweden.<ref>Fler ämnen föreslås bli klassade som narkotika eller hälsofarlig vara | http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2015/mars/fler-amnen-foreslas-bli-klassade-som-narkotika-eller-halsofarlig-vara/</ref>\n*'''Switzerland:''' Methoxphenidine is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Methoxphenidine is a classed as drug and is illegal to possess, produce, supply, or import.<ref>{{cite web|title=Karar Sayısı: 2016/9019|url=https://resmigazete.gov.tr/eskiler/2016/08/20160803-15.pdf|publication-date=June 22, 2016|date=June 22, 2016|work=Resmî Gazete, Sayı: 29790|language=tr}}</ref>\n*'''United Kingdom:''' Methoxphenidine is illegal to produce, supply, or import under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States:''' Methoxphenidine is not currently scheduled in the United States.{{citation needed}} This means it is not specifically illegal but individuals may still be charged for its possession under certain circumstances such as under analogue laws and with the intent to sell or consume.\n\n==See also==\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Dissociative]]\n*[[Diarylethylamine]]\n*[[Diphenidine]]\n*[[Ephenidine]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Methoxphenidine MXP (Wikipedia)]\n*[https://www.erowid.org/chemicals/methoxphenidine/methoxphenidine.shtml MXP (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=624 MXP (Isomer Design)]\n\n===Discussion===\n*[http://www.bluelight.org/vb/threads/700834-The-Big-amp-Dandy-Methoxphenidine-MXP-2-MeO-Diphenidine-Thread The Big & Dandy Methoxphenidine / MXP / 2-MeO-Diphenidine Thread (Bluelight)]\n\n==Literature==\n* Wallach, J., Kang, H., Colestock, T., Morris, H., Bortolotto, Z. A., Collingridge, G. L., ... & Adejare, A. (2016). Pharmacological investigations of the dissociative ‘legal highs’ diphenidine, methoxphenidine and analogues. PLoS One, 11(6), e0157021. https://doi.org/10.1371/journal.pone.0157021\n* Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n=References=\n<references />\n\n[[Category:Diarylethylamine]]\n[[Category:Dissociative]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19931",
+ "type": "substance-summary",
+ "title": "TMA/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/TMA/Summary",
+  "pageid": 19931,
+  "last_edited": "2022-01-15T01:10:05Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "TMA",
+ "plain_text": "",
+ "wikitext": "{{Summary|TMA}}"
+}

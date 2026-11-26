@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12999",
+ "type": "substance-summary",
+ "title": "Pentobarbital/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Pentobarbital/Summary",
+  "pageid": 12999,
+  "last_edited": "2016-10-26T22:29:28Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Pentobarbital",
+ "plain_text": "",
+ "wikitext": "{{Summary|Pentobarbital}}"
+}

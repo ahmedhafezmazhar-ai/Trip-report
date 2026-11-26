@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13577",
+ "type": "substance-summary",
+ "title": "MPT/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MPT/Summary",
+  "pageid": 13577,
+  "last_edited": "2016-12-19T06:28:06Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "MPT",
+ "plain_text": "",
+ "wikitext": "{{Summary|MPT}}"
+}

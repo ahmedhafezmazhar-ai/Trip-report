@@ -1,0 +1,350 @@
+{
+ "id": "psychonautwiki:12880",
+ "type": "substance",
+ "title": "Bromo-DragonFLY",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Bromo-DragonFLY",
+  "pageid": 12880,
+  "last_edited": "2025-05-19T18:06:37Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzodifuran",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "DOx",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/Bromo-DragonFLY",
+ "substance_box": {
+  "names": {
+   "common": "Bromo-DragonFLY, DOB-DragonFLY, B-DFLY, Dragonfly",
+   "substitutive": "8-bromo-4-(2-aminopropyl)benzodifuran",
+   "systematic": "(1-(8-bromobenzo[1,2-b;4,5-b']difuran-4-yl)-2-aminopropane"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Substituted amphetamine / Benzodifuran"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "75 µg",
+    "light": "100 - 300 µg",
+    "common": "300 - 500 µg",
+    "strong": "500 - 750 µg",
+    "heavy": "750 µg +",
+    "duration": "1 - 4 days",
+    "onset": "2 - 7 hours",
+    "comeup": "3 - 6 hours",
+    "peak": "6 - 12 hours",
+    "offset": "3 - 8 hours",
+    "aftereffects": "12 - 36 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Bromo-DragonFLY",
+    "DOB-DragonFLY",
+    "B-DFLY",
+    "Dragonfly"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Substituted amphetamine",
+    "Benzodifuran"
+   ],
+   "Oral threshold dose": [
+    "75"
+   ],
+   "Oral dose units": [
+    "µg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "300"
+   ],
+   "Oral min common dose": [
+    "300"
+   ],
+   "Oral max common dose": [
+    "500"
+   ],
+   "Oral min strong dose": [
+    "500"
+   ],
+   "Oral max strong dose": [
+    "750"
+   ],
+   "Oral heavy dose": [
+    "750"
+   ],
+   "Oral min total time": [
+    "1"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "days"
+   ],
+   "Oral min onset time": [
+    "2"
+   ],
+   "Oral max onset time": [
+    "7"
+   ],
+   "Oral onset time units": [
+    "hours"
+   ],
+   "Oral min comeup time": [
+    "3"
+   ],
+   "Oral max comeup time": [
+    "6"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "6"
+   ],
+   "Oral max peak time": [
+    "12"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "3"
+   ],
+   "Oral max offset time": [
+    "8"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "12"
+   ],
+   "Oral max afterglow time": [
+    "36"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Bromo-DragonFLY",
+   "clean": "Molecular structure of Bromo-DragonFLY"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Bromo-DragonFLY.svg",
+   "clean": "File:Bromo-DragonFLY.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Bromo-DragonFLY]], [[common name::DOB-DragonFLY]], [[common name::B-DFLY]], [[common name::Dragonfly]]",
+   "clean": "Bromo-DragonFLY, DOB-DragonFLY, B-DFLY, Dragonfly"
+  },
+  "NameSubstitution": {
+   "raw": "8-bromo-4-(2-aminopropyl)benzodifuran",
+   "clean": "8-bromo-4-(2-aminopropyl)benzodifuran"
+  },
+  "NameSystematic": {
+   "raw": "(1-(8-bromobenzo[1,2-b;4,5-b']difuran-4-yl)-2-aminopropane",
+   "clean": "(1-(8-bromobenzo[1,2-b;4,5-b']difuran-4-yl)-2-aminopropane"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted amphetamine|Amphetamine]] / [[chemical class::Benzodifuran]]",
+   "clean": "Substituted amphetamine / Benzodifuran"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::75]] [[Oral dose units::µg]]",
+   "clean": "75 µg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::300]] µg",
+   "clean": "100 - 300 µg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::300]] - [[Oral max common dose::500]] µg",
+   "clean": "300 - 500 µg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::500]] - [[Oral max strong dose::750]] µg",
+   "clean": "500 - 750 µg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::750]] µg +",
+   "clean": "750 µg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::1]] - [[Oral max total time::4]] [[Oral total time units::days]]",
+   "clean": "1 - 4 days"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::2]] - [[Oral max onset time::7]] [[Oral onset time units::hours]]",
+   "clean": "2 - 7 hours"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::3]] - [[Oral max comeup time::6]] [[Oral comeup time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::6]] - [[Oral max peak time::12]] [[Oral peak time units::hours]]",
+   "clean": "6 - 12 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::3]] - [[Oral max offset time::8]] [[Oral offset time units::hours]]",
+   "clean": "3 - 8 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::12]] - [[Oral max afterglow time::36]] [[Oral afterglow time units::hours]]",
+   "clean": "12 - 36 hours"
+  }
+ },
+ "plain_text": "Bromo-DragonFLY (also known as DOB-DragonFLY or simply B-DFLY or Dragonfly) is a novel psychedelic substance of the Substituted amphetamines and benzodifuran classes. It produces an array of extremely dose-sensitive psychedelic effects when administered. It was first synthesized in 1998 by Matthew Parker from DOB-FLY. \n\nBromo-DragonFLY is extremely potent and produces unusually long effects which reportedly can last up to several days. It is considered to have one-third the potency of LSD by weight, making it remarkably potent relative to the vast majority of psychedelics.\n\nDue to its high potency and unpredictable dose-response, many reports indicate that the effects of this substance may end up being overly difficult to use safely for those who are not already experienced with hallucinogens. Specifically, given that the dosage and duration of this substance have yet not been fully determined, users are advised to start at the lowest possible, intake only through the oral routes of administration, and never re-dose during any time throughout the experience. \n\nVery little is known about the pharmacology, metabolism and toxicity about Bromo-DragonFLY in humans. It briefly gained popularity among research chemicals circa 2010 until several deaths occurred after the substance was accidentally mislabeled and sold as 2C-B-FLY, leading to its prohibition. \n\nBromo-DragonFLY has never been documented as being sold on the street and has seemingly stopped production on research chemicals gray market. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be received with extreme caution. It is strongly recommended that one use the utmost harm reduction practices if choosing to take this substance.\n\nChemistry\n\nBromo-DragonFLY is a substituted phenethylamine, amphetamine and benzofuran, featuring a phenyl ring bound to an amino (NH2) group through an ethyl chain and contains a bromine atom attached to carbon R4. Bromo-DragonFLY is an atypical psychedelic phenethylamine which is closely analogous to DOB; it is the difuran analog to DOB, where it incorporates the methoxy groups bound to R2 and R5 of DOB into five member furan rings fused to the central benzene ring.\n\nBromo-DragonFLY belongs to a group of phenethylamine derivatives referred to as the DragonFLY compounds, named for their insect-like appearance of two “wing-like” furan rings fused on the opposite sides of the central benzene ring.\n\nIt is worth noting that the R-isomer of the molecule is considerably more active than the other and as such doses must be adjusted accordingly.\n\nPharmacology\n\nThe hallucinogenic effect of bromo-DragonFLY is mediated by its agonist activity at the 5-HT2A serotonin receptor. Bromo-DragonFLY also has a high binding affinity for the 5-HT2B and 5-HT2C serotonin receptors, and is most accurately described as a non-subtype selective 5-HT2 agonist, as it is actually twice as potent an agonist for 5-HT2C receptors as for 5-HT2A, as well as being less than 5x selective for 5-HT2A over 5-HT2B.\n\nIt is further suggested that Bromo-DragonFLY almost completely inhibits MAO-A activity, which makes itself unable to metabolize. This is probably the cause for an abnormal duration of action.\n\nHowever, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nSubjective effects\n\nCompared to LSD, this compound presents a significantly less pronounced body high, reduced visual effects and more in-depth hallucinations which are comparable to mescaline or 2C-B. Despite the visual and physical effects, it reportedly tends to maintain a level of sober thought structure. As the user usually retains acute cognitive sobriety, Bromo-DragonFLY can be considered to have diminished effects of confusion and potential delusions when compared to 4-AcO-DMT, psilocin, or LSD.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Bromo-DragonFLY\n\nToxicity and harm potential\n\nBromo-DragonFLY can be considered extremely toxic at very high dosages with several deaths and numerous hospitalizations reported on overdoses. It can also have extreme vasoconstriction effects, which can result in severe tissue damage or even limb amputation. Due to its high potency, one can easily overdose if this substance is not measured correctly (\"eyeballed\") or mislabeled as another substance.\n\nThe toxicity and long-term health effects of recreational Bromo-DragonFLY do not seem to have been studied in any scientific context and the exact toxic dose is unknown. This is because Bromo-DragonFLY is a research chemical with very little history of human usage. \n\nIt is strongly recommended that one use harm reduction practices, such as volumetric dosing, when using this substance to ensure the accurate administration of the intended dose.\n\nNotable deaths\n\nOn May 7, 2011, in the United States, two young adults died and several others were hospitalized after overdosing on Bromo-DragonFLY, which they believed was 2C-E.\n\nTolerance and addiction potential\n\nBromo-DragonFLY is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.  \n\t\nTolerance to the effects of Bromo-DragonFLY is built almost immediately after ingestion. After that, it takes about 6 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Bromo-DragonFLY presents cross-tolerance with all psychedelics, meaning that after the consumption of Bromo-DragonFLY all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nOverdose\n\nThe risk of Bromo-DragonFLY overdose is unknown at the time, suggesting that there may not be a safe dosage. Non-oral routes also seem to exhibit a higher chance of overdosing, perhaps owing to differences in bioavailability, potency and unpredictability of dosage and effects. Overdose effects of typically include bizarre, delusional and sometimes violent behavior, amnesia, numbness, confusion and anxiety. The user may not be able to communicate and can be severely agitated. At appropriately high doses, more severe side effects include panic attacks, seizures, dangerously prolonged elevated heart rate, blood pressure and vasoconstriction. Vasoconstriction typically develops to its peak several hours into the intoxication and will need medical assistance since Bromo-DragonFLY is known to do this for an extremely long time.\n\nThe abnormally long duration of Bromo-DragonFLY poses a significant risk by staying inside the body for weeks.\n\nIn the event of an overdose, benzodiazepines can be administered to mitigate the hyper-agitative effects. A potent vasodilator will need to be continuously administered to prevent a hypertensive emergency, necrosis, organ failure and death from the resulting hypoxia. As a result, emergency medical services should always be sought in the event of an overdose.\n\nLegal status\n\n*Australia: Bromo-DragonFLY is nationally a Schedule 9 substance, making it illegal to possess, produce and sell.\n*Canada: Bromo-DragonFLY was listed as a Schedule III Substance as of October 12, 2016, along several other research chemicals.\n*Denmark: Possession, production and sale is illegal.\n*Finland: Possession, production and sale is illegal.\n*Germany: Bromo-DragonFLY is controlled under the NpSG, as it is a derivative of 2-Phenethylamine. Production and sale is illegal. Possession and import, although illegal, is not penalized if intended for self-consumption.\n*Japan: Bromo-DragonFLY is a controlled substance in Japan effective August 19th, 2015.\n*Norway: Bromo-DragonFLY is considered a narcotic in Norway.\n*Romania: Possession, production and sale is illegal.\n*Sweden: Bromo-DragonFLY is listed as a Schedule IV substance, making it illegal to possess, produce and sell.\n*Switzerland: Bromo-DragonFLY is likely illegal in Switzerland. It is unclear whether Bromo-DragonFLY is in the scope of a substituted a-methylphenethylamine under Verzeichnis E point 130, since it is not an \"alkyl, alkoxy, alkylenedioxy or halide derivative of phenethylamine\", while additionally containing further univalent substituents, according to the scope. It is also unclear if it can be considered a true ether analog of an ether analog of DOB, which would make it controlled under Buchstabe C. It could be considered an ether analog of an ether analog of para-bromoamphetamine, which would also make it illegal under Buchstabe C, but the extent of all these definitions are unknown.\n*Turkey: Bromo-DragonFLY is a classed as drug and is illegal to possess, produce, supply, or import. \n*United Kingdom - It is illegal to produce, supply, or import this substance under the Psychoactive Substance Act, which came into effect on May 26th, 2016.\n*United States: Bromo-DragonFLY is listed as a Schedule I substance in Oklahoma.The Oklahoman, \"https://www.oklahoman.com/story/news/crime/2012/08/13/man-sentenced-in-2011-designer-drug-deaths-of-two-oklahoma-college-students/61052749007/ Man sentenced in 2011 designer drug deaths of two Oklahoma college students\"\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Research chemicals\n*Substituted phenethylamines\n*DOx\n*2C-B-FLY\n\nExternal links\n\n*Bromo-DragonFLY (Wikipedia)\n*Bromo-DragonFLY (Erowid Vault)\n*Bromo-DragonFLY (Isomer Design)\n*Bromo-DragonFLY (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Benzodifuran\nCategory:DOx\nCategory:Psychedelic\nCategory:Research chemical",
+ "wikitext": "{{headerpanel|{{Warning/Bromo-DragonFLY}}}}\n{{SummarySheet}}\n{{SubstanceBox/Bromo-DragonFLY}}\n'''Bromo-DragonFLY''' (also known as '''DOB-DragonFLY''' or simply '''B-DFLY''' or '''Dragonfly''') is a novel [[psychoactive class::psychedelic]] substance of the [[chemical class::Substituted amphetamines|amphetamine]] and [[chemical class::benzodifuran]] classes. It produces an array of extremely dose-sensitive [[psychedelic]] effects when [[routes of administration|administered]]. It was first synthesized in 1998 by Matthew Parker from [[DOB-FLY]].<ref>Parker MA, Marona-Lewicka D, Lucaites VL, Nelson DL, Nichols DE. [https://pubmed.ncbi.nlm.nih.gov/9857084/ A novel (benzodifuranyl)aminoalkane with extremely potent activity at the 5-HT2A receptor]. J Med Chem. 1998 Dec 17;41(26):5148-9. doi: [https://doi.org/10.1021/jm9803525 10.1021/jm9803525]. PMID: 9857084.</ref> \n\nBromo-DragonFLY is extremely potent and produces unusually long effects which reportedly can last up to several days. It is considered to have one-third the potency of [[LSD]] by weight, making it remarkably potent relative to the vast majority of psychedelics.{{citation needed}}\n\nDue to its high potency and unpredictable dose-response, many reports indicate that the effects of this substance may end up being overly difficult to use safely for those who are not already experienced with [[hallucinogens]]. Specifically, given that the dosage and duration of this substance have yet not been fully determined, users are advised to start at the lowest possible, intake only through the oral [[routes of administration]], and never re-dose during any time throughout the experience. \n\nVery little is known about the pharmacology, metabolism and toxicity about Bromo-DragonFLY in humans. It briefly gained popularity among [[research chemicals]] circa 2010 until several deaths occurred after the substance was accidentally mislabeled and sold as [[2C-B-FLY]], leading to its prohibition.<ref name=\"one\" /> \n\nBromo-DragonFLY has never been documented as being sold on the street and has seemingly stopped production on [[research chemicals]] gray market. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be received with extreme caution. It is strongly recommended that one use the utmost [[harm reduction]] practices if choosing to take this substance.\n\n==Chemistry==\nBromo-DragonFLY is a substituted [[phenethylamines|phenethylamine]], [[Substituted amphetamines|amphetamine]] and [[benzofuran]], featuring a phenyl ring bound to an amino (NH<sub>2</sub>) group through an ethyl chain and contains a bromine atom attached to carbon R<sub>4</sub>. Bromo-DragonFLY is an atypical psychedelic phenethylamine which is closely analogous to [[DOB]]; it is the difuran analog to DOB, where it incorporates the methoxy groups bound to R<sub>2</sub> and R<sub>5</sub> of DOB into five member furan rings fused to the central benzene ring.\n\nBromo-DragonFLY belongs to a group of phenethylamine derivatives referred to as the DragonFLY compounds, named for their insect-like appearance of two “wing-like” furan rings fused on the opposite sides of the central benzene ring.\n\nIt is worth noting that the R-isomer of the molecule is considerably more active than the other and as such doses must be adjusted accordingly.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\n\nThe [[hallucinogenic]] effect of bromo-DragonFLY is mediated by its [[agonist]] activity at the 5-HT<sub>2A</sub> serotonin receptor. Bromo-DragonFLY also has a high binding affinity for the 5-HT2B and 5-HT2C serotonin receptors, and is most accurately described as a non-subtype selective 5-HT<sub>2</sub> agonist, as it is actually twice as potent an agonist for 5-HT2C receptors as for 5-HT2A, as well as being less than 5x selective for 5-HT2A over 5-HT2B.<ref>{{cite journal | vauthors=((Parker, M. A.)), ((Marona-Lewicka, D.)), ((Lucaites, V. L.)), ((Nelson, D. L.)), ((Nichols, D. E.)) | journal=Journal of Medicinal Chemistry | title=A novel (benzodifuranyl)aminoalkane with extremely potent activity at the 5-HT2A receptor | volume=41 | issue=26 | pages=5148–5149 | date=17 December 1998 | issn=0022-2623 | doi=10.1021/jm9803525}}<nowiki>}}</nowiki></ref><ref>{{cite journal | vauthors=((Corazza, O.)), ((Schifano, F.)), ((Farre, M.)), ((Deluca, P.)), ((Davey, Z.)), ((Torrens, M.)), ((Demetrovics, Z.)), ((Di Furia, L.)), ((Flesland, L.)), ((Siemann, H.)), ((Skutle, A.)), ((Van Der Kreeft, P.)), ((Scherbaum, N.)) | journal=Current Clinical Pharmacology | title=Designer drugs on the internet: a phenomenon out-of-control? the emergence of hallucinogenic drug Bromo-Dragonfly | volume=6 | issue=2 | pages=125–129 | date= May 2011 | issn=2212-3938 | doi=10.2174/157488411796151129}}</ref>\n\nIt is further suggested that Bromo-DragonFLY almost completely inhibits [[MAOI|MAO-A]] activity, which makes itself unable to metabolize. This is probably the cause for an abnormal duration of action.<ref name=\"Noble2018\">{{cite journal |last1=Noble |first1=C |last2=Holm |first2=NB |last3=Mardal |first3=M |last4=Linnet |first4=K |title=Bromo-dragonfly, a psychoactive benzodifuran, is resistant to hepatic metabolism and potently inhibits monoamine oxidase A. |journal=Toxicology letters |date=1 October 2018 |volume=295 |pages=397-407 |doi=10.1016/j.toxlet.2018.07.018 |pmid=30036687}}</ref>\n\nHowever, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain elusive.\n\n==Subjective effects==\n{{effectStub}}\nCompared to [[LSD]], this compound presents a significantly less pronounced body high, reduced visual effects and more in-depth [[internal hallucinations|hallucinations]] which are comparable to [[mescaline]] or [[2C-B]]. Despite the visual and physical effects, it reportedly tends to maintain a level of sober thought structure. As the user usually retains acute cognitive sobriety, Bromo-DragonFLY can be considered to have diminished effects of [[confusion]] and potential [[delusions]] when compared to [[4-AcO-DMT]], [[psilocin]], or [[LSD]].\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\nThe physical effects of Bromo-DragonFLY are comparable to that of traditional [[phenethylamines]] such as [[2C-B]], [[mescaline]] and [[2C-E]].\n\n*'''[[Effect::Stimulation]]''' & '''[[Effect::Sedation]]''' - At [[light]] [[dosage]]s this compound is generally stimulating but in a gentle, non forceful manner, similar to that of [[2C-B]] or [[mescaline]]. However, at heavy doses, one may find the stimulation rise to an uncomfortable degree. However, significant sedation may occur instead. Sedation levels are reported to be similar to that of [[2C-C]] or [[2C-T-7]].\n*'''[[Effect::Necrosis]]'''<ref name=\"Noble2018\"/> - When overdosed\n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of Bromo-DragonFLY can be described as a pleasurable, warm, soft, all-encompassing and mild tingling sensation. It is comparable to that of a milder [[mescaline]], [[2C-B]] or [[2C-E]] experience.\n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Bodily control enhancement]]'''\n*'''[[Effect::Temperature regulation suppression]]'''\n*'''[[Effect::Increased heart rate]]'''{{citation needed}}\n*'''[[Effect::Increased blood pressure]]'''{{citation needed}}\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Mouth numbing]]'''\n*'''[[Effect::Olfactory hallucination]]'''\n*'''[[Effect::Gustatory hallucination]]'''\n*'''[[Effect::Increased salivation]]''' \n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Diarrhea]]''' \n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Teeth grinding]]'''\n*'''[[Effect::Vasoconstriction]]''' - Bromo-DragonFLY is a powerful vasoconstrictor which can become dangerous during overdoses.<ref>{{cite journal | vauthors=((Thorlacius, K.)), ((Borna, C.)), ((Personne, M.)) | journal=Lakartidningen | title=[Bromo-dragon fly--life-threatening drug. Can cause tissue necrosis as demonstrated by the first described case] | volume=105 | issue=16 | pages=1199–1200 | date=16 April 2008 | issn=0023-7205}}</ref>\n}}\n{{effects/visual|\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, detailed in appearance, and cartoon-like in style. It is very similar the visual aspects of [[2C-B]] or [[mescaline]].\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Tracers]]'''\n====[[Effect::Geometry]]====\nBromo-DragonFLY visual geometry can be described as more similar in appearance to that of [[mescaline]], [[2C-B]] and [[2C-D]] than [[psilocin]] or [[ayahuasca]]. It can be comprehensively described through its [[Geometry#Variations|style variations]] as detailed in complexity, abstract in form, synthetic in style, structured in organization, brightly lit & multicoloured in scheme, glossy in shading, flat in edges, large in size, fast in speed, smooth in motion, angular in corners, non-immersive in depth and consistent in intensity. Bromo-DragonFLY has a contradictory combination of \"naturalness\", but also presents a \"neon and digital\" observation. At higher doses, users are significantly more likely to experience a state of [[Geometry#8B_-_Exposure_to_inner_mechanics_of_consciousness|Level 8B]] visual geometry over [[Geometry#8A_-_Exposure_to_semantic_concept_network|Level 8A]].\n\n====Hallucinatory states====\nBromo-DragonFLY produces a full range of high level hallucinatory states in a fashion that is comparable to [[mescaline]] or [[2C-E]]. This is more consistent and reproducible than that of many other commonly used psychedelics such as [[2C-B]] or [[LSD]]. It tends to occur at heavier doses and integrates seamlessly with the accompanying geometry. These effects generally include: \n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'')\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Analysis enhancement]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - This compound reportedly produces [[entactogenic]] effects on a level which is less intense than that of [[2C-B]] or [[MDMA]], but similar to that of [[mescaline]] or [[2C-E]].\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Mindfulness]]\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of this compound are comparable to that of a mild [[stimulant]]. The experience generally feels negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and may occur because of physical and cognitive fatigue resulting from the duration and physical strain produced by this substance. Its effects commonly include:\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Bromo-DragonFLY]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_BromoDragonfly.shtml Erowid Experience Vaults: Bromo-DragonFLY]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nBromo-DragonFLY can be considered extremely toxic at very high dosages with several deaths and numerous hospitalizations reported on overdoses.<ref>{{cite web|url=http://jp.dk/indland/kbh/article1884968.ece |title=&#124; Danish man died after trip on Chinese drug |publisher=Jp.dk |date= |accessdate=2010-02-08}}</ref><ref>{{cite web|url=http://jp.dk/indland/kbh/article1884968.ece |title=Narkodød skyldtes ikke GHB |publisher=RB.no |date= |accessdate=2018-05-16}}</ref> It can also have [[Toxicity::extreme [[vasoconstriction|vasoconstrictive]] effects]], which can result in severe tissue damage or even limb amputation. Due to its high potency, [[Toxicity::one can easily overdose if this substance is not measured correctly]] (\"eyeballed\") or mislabeled as another substance.\n\nThe toxicity and long-term health effects of recreational Bromo-DragonFLY do not seem to have been studied in any scientific context and the exact [[Toxicity::toxic dose is unknown]]. This is because Bromo-DragonFLY is a [[research chemical]] with very little history of human usage. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]], such as [[volumetric dosing]], when using this substance to ensure the accurate administration of the intended dose.\n\n===Notable deaths===\n\nOn May 7, 2011, in the United States, two young adults died and several others were hospitalized after overdosing on Bromo-DragonFLY, which they believed was [[2C-E]].<ref>{{Citation | vauthors=((Griffin, D.)) | title=Second Victim Dies After Taking Designer Drug In Konawa | url=https://www.newson6.com/story/5e35b1a383eff40362bece8e/second-victim-dies-after-taking-designer-drug-in-konawa}}</ref>\n\n===Tolerance and addiction potential===\nBromo-DragonFLY is [[Addiction potential::not habit-forming]], and the desire to use it can actually decrease with use. It is most often self-regulating.  \n\t\nTolerance to the effects of Bromo-DragonFLY is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::6 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::14 days]] to be back at baseline (in the absence of further consumption). Bromo-DragonFLY presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of Bromo-DragonFLY all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Psychedelics}}\n\n===Overdose===\n\nThe risk of Bromo-DragonFLY overdose is unknown at the time, suggesting that there may not be a safe dosage. Non-oral routes also seem to exhibit a higher chance of overdosing, perhaps owing to differences in bioavailability, potency and unpredictability of dosage and effects. Overdose effects of typically include bizarre, [[delusion|delusional]] and sometimes violent behavior, [[amnesia]], [[tactile suppression|numbness]], [[confusion]] and [[anxiety]]. The user may not be able to communicate and can be severely agitated. At appropriately high doses, more severe side effects include [[panic attack]]s, [[seizures]], dangerously prolonged [[increased heart rate|elevated heart rate]], [[increased blood pressure|blood pressure]] and [[vasoconstriction]].{{citation needed}} Vasoconstriction typically develops to its peak several hours into the intoxication and will need medical assistance since Bromo-DragonFLY is known to do this for an extremely long time.\n\nThe abnormally long duration of Bromo-DragonFLY poses a significant risk by staying inside the body for weeks.{{Citation needed}}\n\nIn the event of an overdose, [[benzodiazepines]] can be administered to mitigate the hyper-agitative effects.{{citation needed}} A potent vasodilator will need to be continuously administered to prevent a hypertensive emergency, necrosis, organ failure and death from the resulting hypoxia.{{citation needed}} As a result, emergency medical services should always be sought in the event of an overdose.\n\n==Legal status==\n\n*'''Australia:''' Bromo-DragonFLY is nationally a Schedule 9 substance, making it illegal to possess, produce and sell.<ref>\"[https://www.legislation.gov.au/F2024L01228/asmade/2024-09-30/text/original/epub/OEBPS/document_1/document_1.html]\"Therapeutic Goods (Poisons Standard—October 2024), Schedule 9</ref>\n*'''Canada:''' Bromo-DragonFLY was listed as a Schedule III Substance as of October 12, 2016, along several other [[research chemicals]].{{citation needed}}\n*'''Denmark:''' Possession, production and sale is illegal.{{citation needed}}\n*'''Finland:''' Possession, production and sale is illegal.{{citation needed}}\n*'''Germany:''' Bromo-DragonFLY is controlled under the NpSG, as it is a derivative of 2-Phenethylamine.<ref>{{Citation | title=Anlage NpSG - Einzelnorm | url=https://www.gesetze-im-internet.de/npsg/anlage.html}}</ref> Production and sale is illegal. Possession and import, although illegal, is not penalized if intended for self-consumption.<ref>{{Citation | title=§ 4 NpSG - Einzelnorm | url=https://www.gesetze-im-internet.de/npsg/__4.html}}</ref>\n*'''Japan''': Bromo-DragonFLY is a controlled substance in Japan effective August 19th, 2015.<ref>{{cite web|url=https://www.mhlw.go.jp/stf/houdou/0000094513.html|title=危険ドラッグの成分６物質を新たに指定薬物に指定|publisher=厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)]|access-date=May 2, 2022|language=ja}}</ref>\n*'''Norway:''' Bromo-DragonFLY is considered a narcotic in Norway.{{citation needed}}\n*'''Romania:''' Possession, production and sale is illegal.{{citation needed}}\n*'''Sweden:''' Bromo-DragonFLY is listed as a Schedule IV substance, making it illegal to possess, produce and sell.<ref>\"[https://www.lakemedelsverket.se/sv/lagar-och-regler/foreskrifter Läkemedelsverkets föreskrifter - LVFS och HSLF-FS | Läkemedelsverket]\".</ref>\n*'''Switzerland''': Bromo-DragonFLY is likely illegal in Switzerland. It is unclear whether Bromo-DragonFLY is in the scope of a substituted a-methylphenethylamine under Verzeichnis E point 130, since it is not an \"alkyl, alkoxy, alkylenedioxy or halide derivative of phenethylamine\", while additionally containing further univalent substituents, according to the scope. It is also unclear if it can be considered a true ether analog of an ether analog of DOB, which would make it controlled under Buchstabe C. It could be considered an ether analog of an ether analog of para-bromoamphetamine, which would also make it illegal under Buchstabe C, but the extent of all these definitions are unknown.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey:''' Bromo-DragonFLY is a classed as drug and is illegal to possess, produce, supply, or import.<ref name=\"Bakanlar Kurulu Kararı - Karar Sayısı : 2013/5742\">{{Citation | title=Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü | url=https://resmigazete.gov.tr/eskiler/2014/01/20140125-3.htm}}</ref> <ref name=\"List of illegal substances for law\"> https://resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf</ref>\n*'''United Kingdom''' - It is illegal to produce, supply, or import this substance under the Psychoactive Substance Act, which came into effect on May 26th, 2016.<ref>{{Citation | title=Psychoactive Substances Act 2016 | url=https://www.legislation.gov.uk/ukpga/2016/2/contents/enacted}}</ref>\n*'''United States:''' Bromo-DragonFLY is listed as a Schedule I substance in Oklahoma.<ref>The Oklahoman, \"[[https://www.oklahoman.com/story/news/crime/2012/08/13/man-sentenced-in-2011-designer-drug-deaths-of-two-oklahoma-college-students/61052749007/ Man sentenced in 2011 designer drug deaths of two Oklahoma college students]]\"\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Research chemicals]]\n*[[Substituted phenethylamines]]\n*[[DOx]]\n*[[2C-B-FLY]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Bromo-DragonFLY Bromo-DragonFLY (Wikipedia)]\n*[https://erowid.org/chemicals/bromo_dragonfly/bromo_dragonfly.shtml Bromo-DragonFLY (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2033 Bromo-DragonFLY (Isomer Design)]\n*[https://drugs-forum.com/wiki/Bromo-Dragonfly Bromo-DragonFLY (Drugs-Forum)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Benzodifuran]]\n[[Category:DOx]]\n[[Category:Psychedelic]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

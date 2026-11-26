@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10875",
+ "type": "substance-summary",
+ "title": "3-MeO-PCMo/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/3-MeO-PCMo/Summary",
+  "pageid": 10875,
+  "last_edited": "2015-11-13T05:02:12Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "3-MeO-PCMo",
+ "plain_text": "",
+ "wikitext": "{{Summary|3-MeO-PCMo}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22069",
+ "type": "substance-summary",
+ "title": "Strychnine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Strychnine/Summary",
+  "pageid": 22069,
+  "last_edited": "2024-05-06T00:15:30Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Strychnine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Strychnine}}"
+}

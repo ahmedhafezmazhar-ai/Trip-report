@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10949",
+ "type": "substance-summary",
+ "title": "Modafinil/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Modafinil/Summary",
+  "pageid": 10949,
+  "last_edited": "2015-11-13T10:52:46Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Modafinil",
+ "plain_text": "",
+ "wikitext": "{{Summary|Modafinil}}"
+}

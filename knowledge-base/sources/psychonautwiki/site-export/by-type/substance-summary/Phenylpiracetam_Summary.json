@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14592",
+ "type": "substance-summary",
+ "title": "Phenylpiracetam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenylpiracetam/Summary",
+  "pageid": 14592,
+  "last_edited": "2017-06-02T20:42:48Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Phenylpiracetam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Phenylpiracetam}}"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:13066",
+ "type": "effect",
+ "title": "Color tinting",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Color_tinting",
+  "pageid": 13066,
+  "last_edited": "2022-10-07T20:14:25Z"
+ },
+ "categories": [
+  "Distortion",
+  "Effect",
+  "Sensory",
+  "Visual"
+ ],
+ "plain_text": "Color tinting is defined as a visual effect that can occur on low to moderate doses of certain classical psychedelics. This effect manifests itself when the user's whole field of vision becomes tinted through a certain color as if a transparency or overlay filter is placed over one's vision. It is separate and distinct from color shifting or color replacement.\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nExperience reports\n\nAnnectdotal reports which describe this effect with our experience index include:\n\nSee also\n\n*Responsible use\n*Subjective effects index\n*Psychedelics - Subjective effects\n\nExternal links\n\n*Color vision (Wikipedia)\n*Cyanopsia (Wikipedia)\n* Hyperchromatopsia\nCategory:Sensory \nCategory:Visual \nCategory:Distortion \nCategory:Effect",
+ "wikitext": "'''Color tinting''' is defined as a [[visual effect]] that can occur on low to moderate doses of certain [[classical psychedelic]]s. This effect manifests itself when the user's whole field of vision becomes tinted through a certain color as if a transparency or overlay filter is placed over one's vision. It is separate and distinct from [[color shifting]] or [[color replacement]].\n\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Color tinting]]|format=ul|Columns=1}}\n===Experience reports===\nAnnectdotal reports which describe this effect with our [[experience index]] include:\n{{#ask:[[Category:Experience]][[Effect::Color tinting]]|format=ul|Columns=2}}\n===See also===\n*[[Responsible use]]\n*[[Subjective effects index]]\n*[[Psychedelics#Subjective_effects|Psychedelics - Subjective effects]]\n===External links===\n*[https://en.wikipedia.org/wiki/Color_vision Color vision (Wikipedia)]\n*[https://en.wikipedia.org/wiki/Cyanopsia Cyanopsia (Wikipedia)]\n* [https://doi.org/10.1080/0964704X.2010.528240 Hyperchromatopsia]\n[[Category:Sensory]] \n[[Category:Visual]] \n[[Category:Distortion]] \n[[Category:Effect]]"
+}

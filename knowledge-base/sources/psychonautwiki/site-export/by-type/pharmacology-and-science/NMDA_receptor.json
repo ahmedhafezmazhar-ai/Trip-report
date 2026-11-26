@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:13491",
+ "type": "pharmacology-and-science",
+ "title": "NMDA receptor",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/NMDA_receptor",
+  "pageid": 13491,
+  "last_edited": "2024-06-02T04:54:04Z"
+ },
+ "categories": [
+  "Article without enough references",
+  "Pharmacology",
+  "Stub"
+ ],
+ "plain_text": "The N-methyl-D-aspartate receptor (NMDA receptor or NMDAR) is a type of glutamate (main excitatory neurotransmitter) receptor in the brain.\n\nStructure\n\nFunction\n\nRole of NMDA receptors in excitotoxicity\n\nDrugs which act on the NMDA receptor\n\n\t\t\tDissociatives\n\n\t\t\t\n\t\t\t\t\n*2-Fluorodeschloroketamine (2-FDCK)\n*3-MeO-PCMo\n*3-MeO-PCP\n*3-MeO-PCE\n*4-MeO-PCP\n*DCK\n*Ketamine\n*Methoxetamine (MXE)\n*Methoxyketamine\n*O-PCE\n*Phencyclidine (PCP)\n*Dextromethorphan (DXM)\n*Dextrorphan (DXO)\n*Diphenidine\n*Methoxphenidine (MXP)\n*Ephenidine\n*Myristicin\n*Nitrous oxide\n*Xenon\n*Memantine\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n    \n\t\t\n\t\t\tPartial Antagonists and Modulators\n\n\t\t\t\n\t\t\t\t\n*Ethanol\n*Ibogaine\n*Methadone\n*Tramadol\n*L-theanine\n*Tianeptine\n\t\t\t\t\n\t\t\t\n\t\t\n\n\t\n   \n\t\n\nExternal links\n\n*NMDA receptor (Wikipedia)\n\nReferences\n\nCategory:Pharmacology",
+ "wikitext": "{{headerpanel|{{stub}}}}\n\nThe '''N-methyl-D-aspartate receptor''' ('''NMDA receptor''' or '''NMDAR''') is a type of [[glutamate]] (main excitatory [[neurotransmitter]]) receptor in the brain.\n==Structure==\n==Function==\n==Role of NMDA receptors in excitotoxicity==\n==Drugs which act on the NMDA receptor==\n<div class=\"flex-panel\">\n    <div class=\"flex-column\">\n\t\t<div class=\"panel radius\">\n\t\t\t<h3 class=\"panel-header\">[[Dissociatives]]</h3>\n\n\t\t\t<ul class=\"featured-table\">\n\t\t\t\t<li class=\"featured list-item\">\n*[[2-Fluorodeschloroketamine]] (''2-FDCK'')\n*[[3-MeO-PCMo]]\n*[[3-MeO-PCP]]\n*[[3-MeO-PCE]]\n*[[4-MeO-PCP]]\n*[[DCK]]\n*[[Ketamine]]\n*[[Methoxetamine]] (''MXE'')\n*[[Methoxyketamine]]\n*[[O-PCE]]\n*[[Phencyclidine]] (''PCP'')\n*[[Dextromethorphan]] (''DXM'')\n*[[Dextrorphan]] (''DXO'')\n*[[Diphenidine]]\n*[[Methoxphenidine]] (''MXP'')\n*[[Ephenidine]]\n*[[Myristicin]]\n*[[Nitrous oxide]]\n*[[Xenon]]\n*[[Memantine]]\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n    <div class=\"flex-column\">\n\t\t<div class=\"panel radius\">\n\t\t\t<h3 class=\"panel-header\">Partial Antagonists and Modulators</h3>\n\n\t\t\t<ul class=\"featured-table\">\n\t\t\t\t<li class=\"featured list-item\">\n*[[Ethanol]]\n*[[Ibogaine]]\n*[[Methadone]]\n*[[Tramadol]]\n*[[L-theanine]]\n*[[Tianeptine]]\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\n\n\t</div>\n   \n\t</div>\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/NMDA_receptor NMDA receptor (Wikipedia)]\n\n==References==\n{{references}}\n\n[[Category:Pharmacology]]"
+}

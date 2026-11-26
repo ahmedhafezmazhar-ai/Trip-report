@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:12738",
+ "type": "substance-class",
+ "title": "Phenylpropenes",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenylpropenes",
+  "pageid": 12738,
+  "last_edited": "2020-12-21T12:02:37Z"
+ },
+ "categories": [
+  "Chemical class",
+  "Phenylpropene",
+  "Stub"
+ ],
+ "plain_text": "220px|thumbnail|The phenylpropene molecule\nPhenylpropenes are organic molecules found in a variety of plants. The molecule consists of a benzene ring attached to an allyl group and it commonly has a methylenedioxy ring attached to it as well. Most of the phenylpropenes are precursors to other substances, such as mescaline, MDMA, or PMA.\n\nList of substituted phenylpropenes\n\n{| class=\"wikitable\"\n|-\n! scope=\"col\" | Compound\n! scope=\"col\" style=\"width: 50px;\" | R2\n! scope=\"col\" style=\"width: 50px;\" | R3\n! scope=\"col\" style=\"width: 50px;\" | R4\n! scope=\"col\" style=\"width: 50px;\" | R5\n! scope=\"col\" |Structure\n|-\n| Safrole || H || OCH2- || O- || H || 170px\n|-\n| Myristicin || H || OCH2- || O- || OCH3 || 170px\n|-\n| Apiole || OCH3 || OCH2- || O- || OCH3 || 170px\n|-\n| Elemicin || H || OCH3 || OCH3 || OCH3 || 170px\n|-\n|}\n\nSee also\n\n* Myristicin\n* Phenethylamine\n* Benzofuran\n* Stimulant\n\nExternal links\n\n* Phenylpropene (Wikipedia)\n\nCategory:Chemical class",
+ "wikitext": "{{stub}}\n[[File:Phenylpropene.svg|220px|thumbnail|The phenylpropene molecule]]\n'''Phenylpropenes''' are organic molecules found in a variety of plants. The molecule consists of a benzene ring attached to an allyl group and it commonly has a methylenedioxy ring attached to it as well. Most of the phenylpropenes are precursors to other substances, such as [[mescaline]], [[MDMA]], or [[PMA]].\n\n== List of substituted phenylpropenes ==\n{| class=\"wikitable\"\n|-\n! scope=\"col\" | '''Compound'''\n! scope=\"col\" style=\"width: 50px;\" | '''R<sub>2</sub>'''\n! scope=\"col\" style=\"width: 50px;\" | '''R<sub>3</sub>'''\n! scope=\"col\" style=\"width: 50px;\" | '''R<sub>4</sub>'''\n! scope=\"col\" style=\"width: 50px;\" | '''R<sub>5</sub>'''\n! scope=\"col\" |'''Structure'''\n|-\n| [[Safrole]] || H || OCH<sub>2</sub>- || O- || H || [[File:Safrole.svg|170px]]\n|-\n| [[Myristicin]] || H || OCH<sub>2</sub>- || O- || OCH<sub>3</sub> || [[File:Myristicin.svg|170px]]\n|-\n| [[Apiole]] || OCH<sub>3</sub> || OCH<sub>2</sub>- || O- || OCH<sub>3</sub> || [[File:Apiole.svg|170px]]\n|-\n| [[Elemicin]] || H || OCH<sub>3</sub> || OCH<sub>3</sub> || OCH<sub>3</sub> || [[File:Elemicin.svg|170px]]\n|-\n|}\n\n==See also==\n* [[Myristicin]]\n* [[Phenethylamine]]\n* [[Benzofuran]]\n* [[Stimulant]]\n\n==External links==\n* [[wikipedia:Phenylpropene|Phenylpropene (Wikipedia)]]\n\n[[Category:Chemical class]]\n[[Category:Phenylpropene| ]]"
+}

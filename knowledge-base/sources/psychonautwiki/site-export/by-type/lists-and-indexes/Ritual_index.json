@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:23746",
+ "type": "lists-and-indexes",
+ "title": "Ritual index",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ritual_index",
+  "pageid": 23746,
+  "last_edited": "2025-03-01T08:06:50Z"
+ },
+ "categories": [
+  "Substance-related lists"
+ ],
+ "plain_text": "",
+ "wikitext": "{{:List/ritual index}}\n</onlyinclude>\n\n{{#set:Featured=true}}"
+}

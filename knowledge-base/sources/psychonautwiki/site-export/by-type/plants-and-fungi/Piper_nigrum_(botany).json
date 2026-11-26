@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:11575",
+ "type": "plants-and-fungi",
+ "title": "Piper nigrum (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Piper_nigrum_%28botany%29",
+  "pageid": 11575,
+  "last_edited": "2020-10-03T18:03:03Z"
+ },
+ "categories": [
+  "Acetylcholinesterase inhibitor",
+  "Piper (genus)",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n*Black pepper (Wikipedia)\n\nCategory:Acetylcholinesterase inhibitor\nCategory:Piper (genus)",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Piper nigrum}}\n\n==External links==\n*[https://en.wikipedia.org/wiki/Black_pepper Black pepper (Wikipedia)]\n\n[[Category:Acetylcholinesterase inhibitor]]\n[[Category:Piper (genus)]]"
+}

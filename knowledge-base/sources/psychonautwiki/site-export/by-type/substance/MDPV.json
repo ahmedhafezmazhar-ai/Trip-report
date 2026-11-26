@@ -1,0 +1,343 @@
+{
+ "id": "psychonautwiki:10280",
+ "type": "substance",
+ "title": "MDPV",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/MDPV",
+  "pageid": 10280,
+  "last_edited": "2026-10-14T02:43:32Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 English-language sources (en)",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Entactogen",
+  "MDxx",
+  "Proofread",
+  "Psychoactive substance",
+  "Pyrrolidinophenone",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/MDPV",
+ "substance_box": {
+  "names": {
+   "common": "MDPV, Bath Salts, NRG-1",
+   "substitutive": "3,4-Methylenedioxypyrovalerone",
+   "systematic": "1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one"
+  },
+  "classes": {
+   "psychoactive": "Stimulant / Entactogen",
+   "chemical": "Substituted cathinone / MDxx / Pyrrolidinophenone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from Erowid",
+    "collapsed": "",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "4 - 8 mg",
+    "common": "8 - 14 mg",
+    "strong": "14 - 25 mg",
+    "heavy": "25 mg +",
+    "duration": "2 - 7 hours",
+    "onset": "15 - 30 minutes",
+    "peak": "1 - 4 hours",
+    "offset": "0.5 - 2 hours",
+    "aftereffects": "2 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "MDPV",
+    "Bath Salts",
+    "NRG-1"
+   ],
+   "systematic name": [
+    "1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one"
+   ],
+   "psychoactive class": [
+    "Stimulant",
+    "Entactogen"
+   ],
+   "chemical class": [
+    "Substituted cathinone",
+    "MDxx",
+    "Pyrrolidinophenone"
+   ],
+   "Oral threshold dose": [
+    "2"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "4"
+   ],
+   "Oral max light dose": [
+    "8"
+   ],
+   "Oral min common dose": [
+    "8"
+   ],
+   "Oral max common dose": [
+    "14"
+   ],
+   "Oral min strong dose": [
+    "14"
+   ],
+   "Oral max strong dose": [
+    "25"
+   ],
+   "Oral heavy dose": [
+    "25"
+   ],
+   "Oral min total time": [
+    "2"
+   ],
+   "Oral max total time": [
+    "7"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "0.5"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "2"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of MDPV",
+   "clean": "Molecular structure of MDPV"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:MDPV.svg",
+   "clean": "File:MDPV.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::MDPV]], [[common name::Bath Salts]], [[common name::NRG-1]]",
+   "clean": "MDPV, Bath Salts, NRG-1"
+  },
+  "NameSubstitution": {
+   "raw": "3,4-Methylenedioxypyrovalerone",
+   "clean": "3,4-Methylenedioxypyrovalerone"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one]]",
+   "clean": "1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]] / [[psychoactive class::Entactogen]]",
+   "clean": "Stimulant / Entactogen"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Substituted cathinone|Cathinone]] / [[chemical class::MDxx]] / [[chemical class::Pyrrolidinophenone]]",
+   "clean": "Substituted cathinone / MDxx / Pyrrolidinophenone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [https://erowid.org/chemicals/mdpv/ Erowid]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from Erowid"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::2]] [[Oral dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::4]] - [[Oral max light dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::8]] - [[Oral max common dose::14]] mg",
+   "clean": "8 - 14 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::14]] - [[Oral max strong dose::25]] mg",
+   "clean": "14 - 25 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::25]] mg +",
+   "clean": "25 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::2]] - [[Oral max total time::7]] [[Oral total time units::hours]]",
+   "clean": "2 - 7 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::0.5]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "0.5 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::2]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "2 - 48 hours"
+  }
+ },
+ "plain_text": "3,4-Methylenedioxypyrovalerone (also known as MDPV, and Monkey Dust) is a novel lesser-known stimulant substance of the cathinone and pyrrolidine classes. It is known to be one of the most powerful and potent stimulants. MDPV is thought to act primarily as a norepinephrine-dopamine reuptake inhibitor (NDRI).\n\nMDPV was first developed in the 1960s by a team at Boehringer Ingelheim. It was claimed to have potential to be an alternative for racemic amphetamine and, despite showing some desirable qualities such as reduced toxicity as compared to amphetamine, was chosen to not be developed as a medicinal drug.\n\nMDPV remained an obscure stimulant until around 2004, when it was reportedly first made available to the public as a designer drug. Products labeled as \"bath salts\" containing MDPV were previously sold as recreational drugs in gas stations and convenience stores in the United States, similar to the marketing strategy of Spice and K2 as incense.\n\nSubjective effects include stimulation, disinhibition, increased libido, appetite suppression, and powerful euphoria.\n\nSeveral incidents of psychological and physical harm have been attributed to the use of MDPV, including an unusually large number of fatalities. A total of 107 non-fatal intoxications and 99 analytically confirmed deaths related to MDPV between September 2009 and August 2013 were reported by nine European countries. \n\nIt is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nMDPV, or 3,4-Methylenedioxypyrovalerone, is a synthetic stimulant of the cathinone and pyrrolidine classes. MDPV is the 3,4-methylenedioxy ring-substituted analog of the compound a-PVP, developed in the 1960s, which has been used for the treatment of chronic fatigue and as an anorectic, but caused problems of abuse and dependence.\n\nHowever, despite some shared structural features, the effects of MDPV bear little resemblance to other methylenedioxy phenylalkylamine derivatives such as 3,4-methylenedioxy-N-methylamphetamine (MDMA), instead producing primarily classical stimulant effects with only mild entactogenic qualities.\n\nMDPV is structurally related to cathinone, an active alkaloid found in the khat plant, 3,4-methylenedioxymethamphetamine (MDMA), methamphetamine, and other schedule I phenethylamines. MDPV, like some other substances in this class, is a central nervous system (CNS) stimulant. MDPV is also reported to have hallucinogenic effects.\n\nPharmacology\n\nMDPV is thought to act primarily as a potent norepinephrine-dopamine reuptake inhibitor. Reduced re-uptake of norepinephrine and dopamine results in higher concentrations of the two catecholamine neurotransmitters in the synaptic cleft, or gap between neurons. \n\nThe result of this inhibition is an enhanced and prolonged concentration and resulting post-synaptic effect of dopaminergic and noradrenaline signaling at dopamine and norepinephrine receptors on the receiving neuron. Serotonin also plays a role, although to a much lesser degree. This sudden increase in neurotransmitter concentration in the brain is thought to be responsible for the high that MDPV produces. \n\nMainly possessing re-uptake inhibiting qualities and not releasing qualities, MDPV could be considered more like cocaine or methylphenidate than amphetamine in method of action. In contrast, amphetamine acts primarily as an agonist to release dopamine and noradrenaline indirectly via activation of the TAAR1 receptor.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: MDPV\n\nToxicity and harm potential\n\nMDPV has a relatively short history of human use, with very few mentions concerning the use thereof before 2004. Although once considered a potential alternative to existing stimulants with a lower risk for toxicity, human MDPV administration has not been extensively studied in a clinical setting for many decades. Despite this, several recent studies on cases of persisting psychosis caused by chronic use of MDPV show promising rates of recovery among individuals who are treated with certain antipsychotics and first-line antihistamines. There is currently no conclusive data concerning the neurotoxicity of MDPV in the human brain.\n\nAnecdotal evidence from those who have tried MDPV in the community suggest that there are no negative health effects associated with the substance if simply taken at low doses by itself and when used sparingly (but nothing can be completely guaranteed).\n\nData taken from in-vitro and in-vivo studies have indicated that MDPV shares similar properties to methamphetamine and cocaine; in fact, MDPV is more potent than these two stimulants in a number of varying ways. The over-excitation of dopamine and noradrenaline caused by MDPV use, combined with MDPV's potential inability to create compensatory serotonergic activity, sets the stage for a number of hostile and psychotic reactions to the drug. These hostile tendencies have been witnessed in emergency response situations, and have also seen wide television coverage in the past, after an individual under the influence of MDPV viciously assaulted an innocent bystander. It is uncertain if the individual had any pre-existing mental disorders or if he was under the influence of any other drugs.\n\nLethal dosage\n\nThe exact lethal dosage of MDPV is unknown and no formal studies have been carried out in humans. For sake of reference, one report placed the lethal dosage for a 39 year old male at 0.4 micrograms per millilitre or greater following the results of a post mortem, but this data is far too individually unique and the variables simply too diverse to derive any kind of meaningful information from it. MDPV may be quantified in blood, plasma or urine by gas chromatography-mass spectrometry or liquid chromatography-mass spectrometry to confirm a diagnosis of poisoning in hospitalized patients or to provide evidence in a medicolegal death investigation. Blood or plasma MDPV concentrations are expected to be in a range of 10–50 μg/L in persons using the drug recreationally, >50 μg/L in intoxicated patients, and >300 μg/L in victims of acute overdose.\n\nIt is strongly recommended that one use  harm reduction practices when using this drug.\n\nDependence and abuse potential\n\nMore so than other stimulants, the chronic use of MDPV can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a serious risk among users of MDPV as it easily causes compulsive redosing and causes highly unpleasant comedown symptoms.\n\nPsychosis\n\nUser reports indicate that chronic abuse or single exposure overdose of MDPV can potentially lead to psychosis more readily than the vast majority of stimulants. Psychotic symptoms from MDPV can include  hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability.\n\nDangerous interactions\n\n*Stimulants - MDPV can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with amphetamine and other stimulants.\n\n*Cocaine - This combination may increase strain on the heart.\n\nLegal status\n\nIn September 2014, the European Council decided that MDPV shall be subjected by the Member States to control measures and criminal penalties by October 2, 2015.\n\n*Australia:  In Western Australia, MDPV has been banned under the Poisons Act 1964, having been included in Appendix A Schedule 9 of the Poisons Act 1964 as of February 11, 2012. The Director of Public Prosecutions for Western Australia announced that anyone intending to sell or supply MDPV faces a maximum $100,000 fine or 25 years in jail. Users face a $2000 fine or two years' jail. Therefore, anyone caught with MDPV can be charged with possession, selling, supplying or intent to sell or supply.\n*Austria: Since June 26, 2019, MDPV is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)\n*Belgium: MDPV is a controlled substance as of March 20, 2013.\n*Brazil: MDPV is illegal to produce, sell, or possess as it is listed on Portaria SVS/MS nº 344.\n*Bulgaria: MDPV  is controlled under the Narcotic Substances Control Law as of February 2011.\n*Canada: On June 5, 2012 the Canadian Health Minister Leona Aglukkaq announced that MDPV would be listed on Schedule I of the Controlled Drugs and Substances Act, which was passed into law on September 26, 2012.\n*Croatia: MDPV is a controlled substance.\n*Cyprus: MDPV a Class B controlled substance, as it is covered by the cathinones catch-all clause.\n*Czech Republic: MDPV is a controlled substance.\n*Denmark: MDPV is a controlled substance.\n*Estonia : MDPV is a controlled substance as of November 29, 2010.\n*Finland: MDPV is specifically listed as a controlled substance in Finland (listed appendix IV substance as of June 28, 2010),\n*France: MDPV is a controlled substance as of August 2, 2012.\n*Germany: MDPV is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of July 26, 2012. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Hungary: MDPV a Schedule A controlled psychotropic substance.\n*Ireland: MDPV is covered by the Misuse of Drugs Acts since May 11, 2010.\n*Italy: MDPV is a controlled substance as of December 29, 2011.\n*Latvia: MDPV is a controlled substance.\n*Luxembourg: MDPV is a controlled substance as of July 30, 2012.\n*Norway: MDPV is a controlled substance as of Febuary 14, 2013.\n*Poland: MDPV is a controlled substance.\n*Slovakia: MDPV a Schedule I controlled psychotropic substance as of March 1, 2011.\n*Slovenia: MDPV is a controlled substance.\n*Sweden: MDPV is a controlled substance. In Sweden a 33-year-old man has been sentenced to six years in prison by an appellate court, Hovrätt, for possession of 250 grams of MDPV that had been acquired prior to criminalization.\n*Switzerland: MDPV is a controlled substance specifically named under Verzeichnis D.\n*Turkey: MDPV is a controlled substance.\n*United Kingdom: MDPV is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: On October 21, 2011, MDPV became a DEA federally scheduled drug. The DEA issued a temporary one-year ban on MDPV, classifying it as a schedule I substance. On December 8, 2011, under the Synthetic Drug Control Act, the US House of Representatives voted to ban MDPV and a variety of other synthetic drugs which had been sold legally in stores.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Stimulant\n*Substituted cathinone\n*Substituted pyrrolidine\n*a-PVP\n*Prolintane\n\nExternal links\n\n*MDPV (Wikipedia)\n*MDPV (Erowid Vault)\n*MDPV (Isomer Design)\n*MDPV (Drugs-Forum)\n\nDiscussion\n\n*MDPV Megathread (Bluelight)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Entactogen\nCategory:MDxx\nCategory:Pyrrolidinophenone\nCategory:Research chemical\nCategory:Proofread",
+ "wikitext": "{{headerpanel|{{Template:Warning/MDPV}}}}\n{{SummarySheet}}\n{{SubstanceBox/MDPV}}\n\n'''3,4-Methylenedioxypyrovalerone''' (also known as '''MDPV''', and '''Monkey Dust'''<ref>{{cite news |title=Monkey dust \"epidemic\" causing drug users to experience violent hallucinations |url=https://www.newsweek.com/what-monkey-dust-bath-salt-mpvd-drug-causing-epidemic-violent-hallucinations-1068295 |access-date=17 August 2018 |work=Newsweek |date=10 August 2018 |language=en}}</ref>) is a novel lesser-known [[psychoactive class::stimulant]] substance of the [[substituted cathinone|cathinone]] and [[substituted pyrrolidine|pyrrolidine]] classes. It is known to be one of the most powerful and potent stimulants. MDPV is thought to act primarily as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI).\n\nMDPV was first developed in the 1960s by a team at Boehringer Ingelheim.<ref name=\"KoppePatent\">{{Citation | vauthors=((Koppe, H.)), ((Ludwig, G.)), ((Zeile, K.)) | title=1-(3’,4’-methylenedioxy-phenyl)-2-pyrrolidino-alkanones-(1) | url=https://patents.google.com/patent/US3478050/en}}</ref> It was claimed to have potential to be an alternative for racemic amphetamine and, despite showing some desirable qualities such as reduced toxicity as compared to amphetamine, was chosen to not be developed as a medicinal drug.<ref>MDPV Summary | http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</ref>\n\nMDPV remained an obscure stimulant until around 2004, when it was reportedly first made available to the public as a [[designer drug]]. Products labeled as \"bath salts\" containing MDPV were previously sold as recreational drugs in gas stations and convenience stores in the United States, similar to the marketing strategy of [[Synthetic cannabinoids|Spice and K2]] as incense.{{citation needed}}\n\nSubjective effects include [[stimulation]], [[disinhibition]], [[increased libido]], [[appetite suppression]], and powerful [[euphoria]].\n\nSeveral incidents of psychological and physical harm have been attributed to the use of MDPV, including an unusually large number of fatalities. A total of 107 non-fatal intoxications and 99 analytically confirmed deaths related to MDPV between September 2009 and August 2013 were reported by nine European countries.<ref name=\"EMCDDA\">{{cite web|url=http://www.emcdda.europa.eu/system/files/publications/819/TDAS14001ENN_466653.pdf|title=MDPV: EMCDDA–Europol Joint Report on a new psychoactive substance: MDPV (3,4-methylenedioxypyrovalerone)|publisher=European Monitoring Centre for Drugs and Drug Addiction|access-date=December 27, 2019}}</ref> \n\nIt is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nMDPV, or 3,4-Methylenedioxypyrovalerone, is a synthetic stimulant of the [[substituted cathinone|cathinone]] and [[substituted pyrrolidine|pyrrolidine]] classes. MDPV is the 3,4-methylenedioxy ring-substituted analog of the compound [[a-PVP]], developed in the 1960s, which has been used for the treatment of chronic fatigue and as an anorectic, but caused problems of abuse and dependence.<ref name=\"KoppePatent\"/>\n\nHowever, despite some shared structural features, the effects of MDPV bear little resemblance to other methylenedioxy phenylalkylamine derivatives such as 3,4-methylenedioxy-N-methylamphetamine ([[MDMA]]), instead producing primarily classical stimulant effects with only mild entactogenic qualities.<ref>{{Citation | title=MDPV - TripSit wiki | url=https://wiki.tripsit.me/wiki/MDPV}}</ref>\n\nMDPV is structurally related to cathinone, an active alkaloid found in the khat plant, 3,4-methylenedioxymethamphetamine (MDMA), methamphetamine, and other schedule I phenethylamines. MDPV, like some other substances in this class, is a central nervous system (CNS) stimulant. MDPV is also reported to have hallucinogenic effects.<ref>https://www.deadiversion.usdoj.gov/drug_chem_info/mdpv.pdf</ref>\n\n==Pharmacology== \nMDPV is thought to act primarily as a potent [[Noradrenaline|norepinephrine]]-[[dopamine]] [[reuptake inhibitor]]. Reduced re-uptake of norepinephrine and dopamine results in higher concentrations of the two [[catecholamine]] [[neurotransmitter]]s in the [[Synapse|synaptic cleft]], or gap between [[Neurons|neurons]]. \n\nThe result of this inhibition is an enhanced and prolonged concentration and resulting post-synaptic effect of dopaminergic and noradrenaline signaling at dopamine and norepinephrine receptors on the receiving neuron. [[Serotonin]] also plays a role, although to a much lesser degree. This sudden increase in neurotransmitter concentration in the brain is thought to be responsible for the high that MDPV produces. \n\nMainly possessing re-uptake inhibiting qualities and not releasing qualities, MDPV could be considered more like [[cocaine]] or [[methylphenidate]] than [[amphetamine]] in method of action.<ref>http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</ref> In contrast, amphetamine acts primarily as an agonist to release dopamine and noradrenaline indirectly via activation of the TAAR1 receptor.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Neurotoxicity]]''' - Repeated binges, high doses, or chronic abuse of MDPV carry a high risk of indirect neurotoxicity, neuroinflammation, and persistent neurocognitive deficits.<ref name=\"pmc5966333\">{{cite journal |vauthors=Duart-Castells L, López-Arnau R, Pubill D, Camarasa J, Escubedo E, Mercadal J |title=Neurocognitive dysfunction following repeated binge-like self-administration of MDPV in rats |journal=Prog Neuropsychopharmacol Biol Psychiatry |volume=88 |pages=243–252 |year=2019 |pmid=29800623 |doi=10.1016/j.pnpbp.2018.05.018}}</ref> Unlike monoamine releasers like methamphetamine, MDPV acts as an exceptionally potent norepinephrine–dopamine reuptake inhibitor (NDRI) and does not directly cause classical axon terminal degeneration. However, its high affinity for the dopamine transporter (DAT) and steep dose-response profile promote compulsive re-dosing and multi-day binges. This leads to severe central hyperthermia, intense oxidative stress, microglial activation, and persistent sleep deprivation, which together drive secondary excitotoxic neuronal injury and an elevated incidence of prolonged stimulant psychosis.\n* '''[[Effect::Stimulation]]'''\n* '''[[Effect::Stamina enhancement]]'''{{citation needed}}\n* '''[[Effect::Abnormal heartbeat]]'''{{citation needed}}\n* '''[[Effect::Increased heart rate]]'''{{citation needed}} - Higher doses of MDPV can create a significant and often dangerous increase in heart rate and blood pressure.\n* '''[[Effect::Muscle contractions]]'''\n* '''[[Effect::Muscle spasms]]'''\n* '''[[Effect::Appetite suppression]]'''\n* '''[[Effect::Headaches]]'''\n* '''[[Effect::Gustatory hallucinations]]'''\n* '''[[Effect::Diarrhea]]''' - Some users have reported experiencing [[diarrhea]] while under the influence of MDPV, although this seems to be a relatively uncommon effect.\n* '''[[Effect::Nausea]]''' - Some users have reported experiencing [[nausea]] while under the influence of MDPV, although this seems to be a relatively uncommon effect.\n* '''[[Effect::Restless leg syndrome]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n\n}}\n{{effects/aftereffects|\nThe effects which occur during the offset of a stimulant experience generally feel negative and uncomfortable in comparison to the effects which occurred during its peak. This is often referred to as a \"comedown\" and occurs because of neurotransmitter depletion. Its effects commonly include:\n* '''[[Effect::Anxiety]]'''\n* '''[[Effect::Cognitive fatigue]]'''\n* '''[[Effect::Depression]]'''\n* '''[[Effect::Irritability]]'''\n* '''[[Effect::Motivation suppression]]'''\n* '''[[Effect::Thought deceleration]]'''\n* '''[[Effect::Wakefulness]]'''\n\nIt should be noted that many users consider the after effects of MDPV to be significantly more unpleasant if compulsively redosed.<ref>{{Citation | title=MDPV - Erowid Exp - “Personal Research Comedown Guide” | url=https://erowid.org/experiences/exp.php?ID=98601}}</ref><ref>{{Citation | title=MDPV - Erowid Exp - “Seemingly Real Paranoid Hallucination Hell” | url=https://erowid.org/experiences/exp.php?ID=91741}}</ref>\n}}\n|{{effects/cognitive|\nThe general cognitive effects of MDPV can be described as being similar to those of other typical stimulants. At common dosages, the MDPV high is described as being euphoric and slightly empatheogenic in its effects, causing increased motivation, sociability, sexual desire and concentration. Higher doses of MDPV, however, can intensify numerous negative effects such as anxiety and disorganized thoughts; at extremely high doses or continued use, delusions and psychosis become likely.<ref>{{Citation | title=MDPV - Erowid Exp - “Psychosis” | url=https://www.erowid.org/experiences/exp.php?ID=78382}}</ref>\n* '''[[Effect::Anxiety]]'''\n* '''[[Effect::Cognitive euphoria]]'''\n* '''[[Effect::Compulsive redosing]]''' - MDPV is extremely potent in this effect; it has been shown that some users end up redosing, even if the negative effects outweigh the positives.<ref>{{cite journal | vauthors = Watterson LR, Kufahl PR, Nemirovsky NE, Sewalia K, Grabenauer M, Thomas BF, Marusich JA, Wegner S, Olive MF | display-authors = 6 | title = Potent rewarding and reinforcing effects of the synthetic cathinone 3,4-methylenedioxypyrovalerone (MDPV) | journal = Addiction Biology | volume = 19 | issue = 2 | pages = 165–74 | date = March 2014 | pmid = 22784198 | pmc = 3473160 | doi = 10.1111/j.1369-1600.2012.00474.x }}</ref><ref>{{cite journal | vauthors = Coppola M, Mondola R | title = 3,4-methylenedioxypyrovalerone (MDPV): chemistry, pharmacology and toxicology of a new designer drug of abuse marketed online | journal = Toxicology Letters | volume = 208 | issue = 1 | pages = 12–5 | date = January 2012 | pmid = 22008731 | doi = 10.1016/j.toxlet.2011.10.002 }}</ref>\n* '''[[Effect::Confusion]]''' - This effect is prominent at higher doses and after long periods of staying awake on the drug.\n* '''[[Effect::Creativity enhancement]]'''\n* '''[[Effect::Delusions]]''' - This effect can also manifest at high doses.\n* '''[[Effect::Ego inflation]]'''\n* '''[[Effect::Empathy, love, and sociability enhancement]]''' - MDPV's effects in this regard are similar to, but weaker than, those of MDMA.\n* '''[[Effect::Focus enhancement]]'''\n* '''[[Effect::Increased libido]]''' \n* '''[[Effect::Motivation enhancement]]'''\n* '''[[Effect::Paranoia]]'''\n* '''[[Effect::Stamina enhancement]]'''\n* '''[[Effect::Psychosis]]''' - High doses of MDPV have been known to induce states of psychosis at a more frequent rate than most other stimulants.{{citation needed}} \n*'''[[Effect::Time distortion]]''' - This can be described as the experience of time speeding up and passing much quicker than it usually would when sober. \n* '''[[Effect::Thought acceleration]]'''\n* '''[[Effect::Thought organization]]''' - Mainly observed with low to common doses.\n* '''[[Effect::Thought disorganization]]''' - This effect manifests and is also intensified at higher doses. \n* '''[[Effect::Wakefulness]]''' - Strong wakefulness is reported at high doses and can last for many hours after long periods of use.\n\n}}\n}}\n\n\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_MDPV.shtml Erowid Experience Vaults: MDPV]\n\n==Toxicity and harm potential==\n{{toxicity}}\nMDPV has a relatively short history of human use, with very few mentions concerning the use thereof before 2004. Although once considered a potential alternative to existing stimulants with a lower risk for toxicity, human MDPV administration has not been extensively studied in a clinical setting for many decades. Despite this, several recent studies on cases of persisting psychosis caused by chronic use of MDPV show promising rates of recovery among individuals who are treated with certain [[antipsychotics]] and first-line [[antihistamine]]s.<ref>Studies concerning MDPV hospitalization, pages 19 to 25. | http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</ref> There is currently no conclusive data concerning the neurotoxicity of MDPV in the human brain.\n\nAnecdotal evidence from those who have tried MDPV in the community suggest that there are no negative health effects associated with the substance if simply taken at low doses by itself and when used sparingly (but nothing can be completely guaranteed).\n\nData taken from in-vitro and in-vivo studies have indicated that MDPV shares similar properties to [[methamphetamine]] and [[cocaine]]; in fact, MDPV is more potent than these two stimulants in a number of varying ways.<ref>MDPV In-vivo statistics | http://www.who.int/medicines/areas/quality_safety/4_13_Review.pdf?ua=1</ref> The over-excitation of dopamine and noradrenaline caused by MDPV use, combined with MDPV's potential inability to create compensatory serotonergic activity, sets the stage for a number of hostile and psychotic reactions to the drug. These hostile tendencies have been witnessed in emergency response situations, and have also seen wide television coverage in the past, after an individual under the influence of MDPV viciously assaulted an innocent bystander. It is uncertain if the individual had any pre-existing mental disorders or if he was under the influence of any other drugs.{{citation needed}}\n\n===Lethal dosage===\nThe exact lethal dosage of MDPV is unknown and no formal studies have been carried out in humans. For sake of reference, one report placed the lethal dosage for a 39 year old male at 0.4 micrograms per millilitre or greater following the results of a post mortem,<ref>{{cite journal | vauthors=((Wyman, J. F.)), ((Lavins, E. S.)), ((Engelhart, D.)), ((Armstrong, E. J.)), ((Snell, K. D.)), ((Boggs, P. D.)), ((Taylor, S. M.)), ((Norris, R. N.)), ((Miller, F. P.)) | journal=Journal of Analytical Toxicology | title=Postmortem Tissue Distribution of MDPV Following Lethal Intoxication by “Bath Salts” | volume=37 | issue=3 | pages=182–185 | date=1 April 2013 | url=https://academic.oup.com/jat/article-lookup/doi/10.1093/jat/bkt001 | issn=0146-4760 | doi=10.1093/jat/bkt001}}</ref> but this data is far too individually unique and the variables simply too diverse to derive any kind of meaningful information from it. MDPV may be quantified in blood, plasma or urine by gas chromatography-mass spectrometry or liquid chromatography-mass spectrometry to confirm a diagnosis of poisoning in hospitalized patients or to provide evidence in a medicolegal death investigation. Blood or plasma MDPV concentrations are expected to be in a range of 10–50 μg/L in persons using the drug recreationally, >50 μg/L in intoxicated patients, and >300 μg/L in victims of acute overdose.<ref>{{cite book | vauthors=((Baselt, R. C.)) | date= 2014 | title=Disposition of toxic drugs and chemicals in man | publisher=Biomedical Publications | edition=Tenth edition | isbn=9780962652394}}</ref>\n\nIt is strongly recommended that one use [[Responsible drug use | harm reduction practices]] when using this drug.\n\n===Dependence and abuse potential===\nMore so than other stimulants, the chronic use of MDPV can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a serious risk among users of MDPV as it easily causes compulsive redosing and causes highly unpleasant comedown symptoms.\n\n===Psychosis===\n{{Main|Stimulant psychosis}}\nUser reports indicate that chronic abuse or single exposure overdose of MDPV can potentially lead to [[psychosis]] more readily than the vast majority of stimulants. Psychotic symptoms from MDPV can include  [[Auditory hallucinations|hearing voices]], [[external hallucinations|visual hallucinations]], urges to harm oneself, severe [[anxiety]], [[mania]], grandiosity, [[delusions|paranoid delusions]], [[confusion]], increased aggression, and [[irritability]].\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Stimulants]]''' - MDPV can be potentially dangerous in combination with other [[stimulant]]s as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with [[amphetamine]] and other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart.\n\n==Legal status==\nIn September 2014, the European Council decided that MDPV shall be subjected by the Member States to control measures and criminal penalties by October 2, 2015.<ref>{{cite web|url=https://op.europa.eu/o/opportal-service/download-handler?identifier=025bb164-4937-11e4-a0cb-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=|title=Council Implementing Decision on subjecting 25I-NBOMe, AH-7921, MDPV and methoxetamine to control measures|date=September 25, 2014|publication-date=October 1, 2014|work=Official Journal of the European Union|pages=22-26|id=L 287|publisher=Office for Official Publications of the European Communites|oclc=52224955}}</ref>\n\n*'''Australia''':  In Western Australia, MDPV has been banned under the Poisons Act 1964, having been included in Appendix A Schedule 9 of the Poisons Act 1964 as of February 11, 2012. The Director of Public Prosecutions for Western Australia announced that anyone intending to sell or supply MDPV faces a maximum $100,000 fine or 25 years in jail. Users face a $2000 fine or two years' jail. Therefore, anyone caught with MDPV can be charged with possession, selling, supplying or intent to sell or supply.<ref>{{Citation | title=Media Statements - Emerging drug, MDPV banned in WA | url=https://www.mediastatements.wa.gov.au/Pages/Barnett/2012/02/Emerging-drug,-MDPV-banned-in-WA.aspx}}</ref>\n*'''Austria''': Since June 26, 2019, MDPV is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)<ref>https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2019_II_167/BGBLA_2019_II_167.pdfsig</ref>\n*'''Belgium''': MDPV is a controlled substance as of March 20, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Brazil''': MDPV is illegal to produce, sell, or possess as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Bulgaria''': MDPV  is controlled under the Narcotic Substances Control Law as of February 2011.<ref name=\"EMCDDA\"></ref>\n*'''Canada''': On June 5, 2012 the Canadian Health Minister Leona Aglukkaq announced that MDPV would be listed on Schedule I of the Controlled Drugs and Substances Act, which was passed into law on September 26, 2012.<ref>{{Citation | vauthors=((News ·, C. B. C.)) | title=“Bath salts” drug ingredient banned in Canada | publisher=CBC News | url=https://www.cbc.ca/news/politics/bath-salts-drug-ingredient-banned-in-canada-1.1174926}}</ref>\n*'''Croatia''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Cyprus''': MDPV a Class B controlled substance, as it is covered by the cathinones catch-all clause.<ref name=\"EMCDDA\"></ref>\n*'''Czech Republic''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Denmark''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Estonia ''': MDPV is a controlled substance as of November 29, 2010.<ref name=\"EMCDDA\"></ref>\n*'''Finland''': MDPV is specifically listed as a controlled substance in Finland (listed appendix IV substance as of June 28, 2010),<ref>Finlex: huumausaineina pidettävistä aineista, valmisteista ja kasveista annetun valtioneuvoston asetuksen liitteen IV muuttamisesta | http://www.finlex.fi/fi/laki/alkup/2010/20100596</ref>\n*'''France''': MDPV is a controlled substance as of August 2, 2012.<ref name=\"EMCDDA\"></ref>\n*'''Germany''': MDPV is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> as of July 26, 2012.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl112s1639.pdf|title=Sechsundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''Hungary''': MDPV a Schedule A controlled psychotropic substance.<ref name=\"EMCDDA\"></ref>\n*'''Ireland''': MDPV is covered by the Misuse of Drugs Acts since May 11, 2010.<ref name=\"EMCDDA\"></ref>\n*'''Italy''': MDPV is a controlled substance as of December 29, 2011.<ref name=\"EMCDDA\"></ref>\n*'''Latvia''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Luxembourg''': MDPV is a controlled substance as of July 30, 2012.<ref name=\"EMCDDA\"></ref>\n*'''Norway''': MDPV is a controlled substance as of Febuary 14, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Poland''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Slovakia''': MDPV a Schedule I controlled psychotropic substance as of March 1, 2011.<ref name=\"EMCDDA\"></ref>\n*'''Slovenia''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''Sweden''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref> In Sweden a 33-year-old man has been sentenced to six years in prison by an appellate court, Hovrätt, for possession of 250 grams of MDPV that had been acquired prior to criminalization.<ref>Hovrätten skärper straff i MDPV-dom | http://www.nt.se/nyheter/?articleid=6057819</ref>\n*'''Switzerland''': MDPV is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': MDPV is a controlled substance.<ref name=\"EMCDDA\"></ref>\n*'''United Kingdom''': MDPV is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n*'''United States''': On October 21, 2011, MDPV became a DEA federally scheduled drug. The DEA issued a temporary one-year ban on MDPV, classifying it as a schedule I substance. On December 8, 2011, under the Synthetic Drug Control Act, the US House of Representatives voted to ban MDPV and a variety of other synthetic drugs which had been sold legally in stores.<ref>{{Citation | vauthors=((News, A. B. C.)) | title=House Votes to Ban “Spice,” “Bath Salts” | url=https://abcnews.go.com/Blotter/house-votes-ban-fake-marijuana-fake-cocaine/story?id=15116235}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Stimulant]]\n*[[Substituted cathinone]]\n*[[Substituted pyrrolidine]]\n*[[a-PVP]]\n*[[Prolintane]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Methylenedioxypyrovalerone MDPV (Wikipedia)]\n*[https://erowid.org/chemicals/mdpv/mdpv.shtml MDPV (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2143 MDPV (Isomer Design)]\n*[https://drugs-forum.com/wiki/MDPV MDPV (Drugs-Forum)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/278421-MDPV-Megathread MDPV Megathread (Bluelight)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Entactogen]]\n[[Category:MDxx]]\n[[Category:Pyrrolidinophenone]]\n[[Category:Research chemical]]\n[[Category:Proofread]]\n\n{{#set:Featured=true}}"
+}

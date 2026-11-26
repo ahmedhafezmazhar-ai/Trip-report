@@ -1,0 +1,444 @@
+{
+ "id": "psychonautwiki:17001",
+ "type": "substance",
+ "title": "Meclofenoxate",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Meclofenoxate",
+  "pageid": 17001,
+  "last_edited": "2024-04-30T18:42:35Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Approval",
+  "Articles with unsourced statements",
+  "Cholinergic",
+  "Nootropic",
+  "Proofread",
+  "Psychoactive substance",
+  "Stimulant",
+  "Substance"
+ ],
+ "substance_box_template": "SubstanceBox/Meclofenoxate",
+ "substance_box": {
+  "names": {
+   "common": "Meclofenoxate, Centrophenoxine, Lucidril",
+   "substitutive": "",
+   "systematic": "2-Dimethylaminoethyl (4-chlorophenoxy)acetate"
+  },
+  "classes": {
+   "psychoactive": "Nootropic",
+   "chemical": "cholinergic"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 mg",
+    "light": "50 - 200 mg",
+    "common": "400 - 800 mg",
+    "strong": "800 - 1000 mg",
+    "heavy": "600 mg +",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "Psychoactive class": [
+    "Nootropic"
+   ],
+   "Chemical class": [
+    "cholinergic"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "200"
+   ],
+   "Oral min common dose": [
+    "400"
+   ],
+   "Oral max common dose": [
+    "800"
+   ],
+   "Oral min strong dose": [
+    "800"
+   ],
+   "Oral max strong dose": [
+    "1000"
+   ],
+   "Oral heavy dose": [
+    "600"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Meclofenoxate.",
+   "clean": "Meclofenoxate."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Meclofenoxate.svg",
+   "clean": "File:Meclofenoxate.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "Meclofenoxate, Centrophenoxine, Lucidril",
+   "clean": "Meclofenoxate, Centrophenoxine, Lucidril"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "2-Dimethylaminoethyl (4-chlorophenoxy)acetate",
+   "clean": "2-Dimethylaminoethyl (4-chlorophenoxy)acetate"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Nootropic]]",
+   "clean": "Nootropic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::cholinergic]]",
+   "clean": "cholinergic"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "50 [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::200]] mg",
+   "clean": "50 - 200 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::400]] - [[Oral max common dose::800]] mg",
+   "clean": "400 - 800 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::800]] - [[Oral max strong dose::1000]] mg",
+   "clean": "800 - 1000 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::600]] mg +",
+   "clean": "600 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectallROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Meclofenoxate, also known as Centrophenoxine or Lucidril is a nootropic that acts as a precursor to choline. It is a an ester of Dimethylaminoethanol and para-chlorophenoxyacetic acid.\n\nHistory and culture\n\nMecolofenoxate was developed in 1959 at the French National Scientific Research Center.\nMeclofenoxate has been tested as alzheimers treatment. Additionally it has been shown to invrease the life span of mice by up to 29.5%.\n\nPharmacology\n\nA portion of Meclofenoxate breaks down into DMAE and pCPA. DMAE is then converted to choline.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n*Erowid Experience Vaults: Meclofenoxate\n\nToxicity and harm potential\n\nWarning: contraindications for Meclofenoxate include depression, mania, epilepsy and convulsions.\n\nMeclofenoxate is non-addictive, is not known to cause harm, and has an extremely low toxicity relative to dose. Similar to many other nootropic substances, there are relatively few physical side effects associated with acute choline exposure. Various studies have shown that in reasonable doses in a particular context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nRegardless, it is strongly recommended that one is familiar with and uses harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nDangerous interactions\n\nIn vitro studies of meclofenoxate showed inhibition of total MAO, MAO A and MAO B in rat brains. Meclofenoxate and MAOIs are a potentially dangerous combination. It is likely that MAOIs could increase the effects of meclofenoxate unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n\nLegal issues\n\n*United States - Meclofenoxate is completely legal to purchase in the United States as a dietary supplement.\n\nSee also\n\n*alpha-GPC\n*Citicoline\n*Choline\n*Nootropic\n\nExternal links\n\n*Meclofenoxate (Wikipedia)\n*Meclofenoxate (Isomer Design)\n*Meclofenoxate (Erowid Vault)\n*Centrophenoxine (Examine)\n\nReferences\n\nCategory:CholinergicCategory:Psychoactive substanceCategory:SubstanceCategory:StimulantCategory:NootropicCategory:ApprovalCategory:Proofread",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Meclofenoxate}}\n\n'''Meclofenoxate''', also known as Centrophenoxine or Lucidril is a nootropic that acts as a precursor to [[choline]]. It is a an ester of Dimethylaminoethanol and para-chlorophenoxyacetic acid.\n\n==History and culture==\nMecolofenoxate was developed in 1959 at the French National Scientific Research Center.{{citation needed}}\nMeclofenoxate has been tested as alzheimers treatment.<ref name=\"Malík Tlustoš 2022 p. 3367\">{{cite journal | last=Malík | first=Matěj | last2=Tlustoš | first2=Pavel | title=Nootropics as Cognitive Enhancers: Types, Dosage and Side Effects of Smart Drugs | journal=Nutrients | volume=14 | issue=16 | date=2022-08-17 | issn=2072-6643 | pmid=36014874 | doi=10.3390/nu14163367 | doi-access=free | page=3367}}</ref> Additionally it has been shown to invrease the life span of mice by up to 29.5%.<ref name=\"Hochschild 1973 pp. 177–183\">{{cite journal | last=Hochschild | first=R. | title=Effect of dimethylaminoethyl p-chlorophenoxyacetate on the life span of male swiss webster albino mice | journal=Experimental Gerontology | volume=8 | issue=4 | date=1973 | doi=10.1016/0531-5565(73)90024-7 | pages=177–183}}</ref>\n\n==Pharmacology==\nA portion of Meclofenoxate breaks down into [[wikipedia:Dimethylethanolamine|DMAE]] and [[wikipedia:4-Chlorophenoxyacetic acid|pCPA]]. DMAE is then converted to [[choline]].\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}    \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Bodily control enhancement]]''' \n*'''[[Effect::Body odor alteration]]''' - This can be caused in some populations, especially those suffering from trimethylaminuria. [[Choline]] (a metabolite of meclofenoxate) is a precursor to trimethylamine, which those with trimethylaminuria are not able to easily break down, oftening resulting in smelling similar to fish.\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Muscle tension]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Stamina enhancement]]'''\n*'''[[Effect::Stimulation]]''' - The stimulation which meclofenoxate presents can be considered as primarily subtle and similar to that of [[caffeine]].\n*'''[[Effect::Teeth grinding]]'''\n\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiolytic]]'''\n*'''[[Effect::Depression]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Olfactory intensification]]'''\n*'''[[Effect::Insomnia]]'''\n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Mindfulness]]''' \n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Wakefulness]]''' - In comparison to [[citicoline]], meclofenoxate manifests itself primarily in a physically stimulating manner over a mental stimulation.\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n*[https://www.erowid.org/experiences/subs/exp_Meclofenoxate.shtml Erowid Experience Vaults: Meclofenoxate]\n\n==Toxicity and harm potential==\n'''Warning:''' contraindications for Meclofenoxate include [[wikipedia:depression|depression]], [[wikipedia:mania|mania]], [[wikipedia:epilepsy|epilepsy]] and [[wikipedia:convulsions|convulsions]].<ref name=\"Vinmec 2012 t897\">{{cite web | title=Uses of Lucimax | website=Vinmec | date=2012-11-30 | url=https://www.vinmec.com/en/pharmaceutical-information/use-medicines-safely/uses-of-lucimax/ | access-date=2024-03-14}}</ref>\n\nMeclofenoxate is non-addictive, is not known to cause harm, and has an [[Toxicity::extremely low toxicity]] relative to dose. Similar to many other [[nootropic]] substances, there are relatively few physical side effects associated with acute choline exposure. Various studies have shown that in reasonable doses in a particular context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort. \n\nRegardless, it is strongly recommended that one is familiar with and uses [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\n\n===Dangerous interactions===\nIn vitro studies of meclofenoxate showed inhibition of total MAO, MAO A and MAO B in rat brains.<ref name=\"SL LG p. \">{{cite journal | last=SL | first=Stancheva | last2=LG | first2=Alova | title=[Effect of centrophenoxine, piracetam and aniracetam on the monoamine oxidase activity in different brain structures of rats] | journal=Farmakologiia i toksikologiia | publisher=Farmakol Toksikol | volume=51 | issue=3 | issn=0014-8318 | pmid=3137089 | url=https://pubmed.ncbi.nlm.nih.gov/3137089/ | access-date=2024-03-15 | page=}}</ref> Meclofenoxate and [[MAOIs]] are a potentially dangerous combination. It is likely that MAOIs could increase the effects of meclofenoxate unpredictably. Taking this chemical while on prescription MAOIs is strongly discouraged.\n\n==Legal issues==\n{{legalStub}}\n*'''United States''' - Meclofenoxate is completely legal to purchase in the United States as a dietary supplement.\n\n==See also==\n*[[Alpha-GPC|''alpha''-GPC]]\n*[[Citicoline]]\n*[[Choline]]\n*[[Nootropic]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Meclofenoxate Meclofenoxate (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=11475 Meclofenoxate (Isomer Design)]\n*[https://www.erowid.org/smarts/meclofenoxate/ Meclofenoxate (Erowid Vault)]\n*[https://examine.com/supplements/centrophenoxine/ Centrophenoxine (Examine)]\n\n==References==\n<references />\n[[Category:Cholinergic]][[Category:Psychoactive substance]][[Category:Substance]][[Category:Stimulant]][[Category:Nootropic]][[Category:Approval]][[Category:Proofread]]\n\n{{#set:Featured=true}}"
+}

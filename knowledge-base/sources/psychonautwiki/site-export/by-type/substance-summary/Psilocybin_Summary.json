@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:14223",
+ "type": "substance-summary",
+ "title": "Psilocybin/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Psilocybin/Summary",
+  "pageid": 14223,
+  "last_edited": "2017-04-10T04:31:54Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Psilocybin",
+ "plain_text": "",
+ "wikitext": "{{Summary|Psilocybin}}"
+}

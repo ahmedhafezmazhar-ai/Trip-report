@@ -1,0 +1,24 @@
+{
+ "id": "psychonautwiki:20558",
+ "type": "responsible-use",
+ "title": "Tripsitting index",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tripsitting_index",
+  "pageid": 20558,
+  "last_edited": "2026-10-08T20:43:43Z"
+ },
+ "categories": [
+  "CS1 errors: Vancouver style",
+  "CS1 maint: Extra text",
+  "Pages with URL errors",
+  "Pages with citations using unnamed parameters",
+  "PsychonautWiki",
+  "Substance-related lists"
+ ],
+ "plain_text": "Need assistance? TripSit's Immediate Assistance chat\n\nTripsitting index seed: Psychedelic Therapy umbrella review -- Note: Learning techniques is an updated version of part of this document.\n\n__NOTOC__\n\nCategory:PsychonautWiki\nCategory:Substance-related lists",
+ "wikitext": "'''Need assistance? [https://chat.tripsit.me/ TripSit's Immediate Assistance chat]'''\n\n[[Tripsitting index seed: Psychedelic Therapy umbrella review]] -- Note: [[Learning techniques]] is an updated version of part of this document.\n{{SubmissionPanel/Tripsitting}}\n{{:Tripsitting/Content}}\n<noinclude>\n__NOTOC__\n</noinclude>\n<onlyinclude>\n{{:List/tripsitting}}\n</onlyinclude>\n{{:Tripsitting/ExternalLinks}}\n[[Category:PsychonautWiki]]\n[[Category:Substance-related lists]]\n<references />"
+}

@@ -1,0 +1,505 @@
+{
+ "id": "psychonautwiki:32",
+ "type": "substance",
+ "title": "25I-NBOMe",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/25I-NBOMe",
+  "pageid": 32,
+  "last_edited": "2025-07-12T00:19:58Z"
+ },
+ "categories": [
+  "25x-NBOMe",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/25I-NBOMe",
+ "substance_box": {
+  "names": {
+   "common": "25i-NBOMe, 25i, Cimbi-5",
+   "substitutive": "2C-I-NBOMe",
+   "systematic": "[[systematic name::2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine]]"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "sublingual": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 µg",
+    "light": "200 - 500 µg",
+    "common": "500 - 700 µg",
+    "strong": "700 - 1000 µg",
+    "heavy": "25I-NBOMe can be fatal at heavy doses.",
+    "duration": "6 - 10 hours",
+    "onset": "15 - 120 minutes",
+    "comeup": "30 - 120 minutes",
+    "peak": "2 - 4 hours",
+    "offset": "1 - 4 hours",
+    "aftereffects": "3 - 6 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "*The insufflation of NBOMes can be fatal.ref name=\"25Xfatal\"> It is strongly discouraged.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "50 µg",
+    "light": "200 - 500 µg",
+    "common": "500 - 700 µg",
+    "strong": "700+ µg",
+    "heavy": "25I-NBOMe can be fatal at heavy doses.",
+    "duration": "4 - 6 hours",
+    "onset": "5 - 10 minutes",
+    "comeup": "10 - 30 minutes",
+    "peak": "60 - 120 minutes",
+    "offset": "120 - 180 minutes",
+    "aftereffects": "1 - 7 days",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "25i-NBOMe",
+    "25i",
+    "Cimbi-5"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Phenethylamine"
+   ],
+   "Sublingual threshold dose": [
+    "50"
+   ],
+   "Sublingual dose units": [
+    "µg"
+   ],
+   "Sublingual min light dose": [
+    "200"
+   ],
+   "Sublingual max light dose": [
+    "500"
+   ],
+   "Sublingual min common dose": [
+    "500"
+   ],
+   "Sublingual max common dose": [
+    "700"
+   ],
+   "Sublingual min strong dose": [
+    "700"
+   ],
+   "Sublingual max strong dose": [
+    "1000"
+   ],
+   "Sublingual min total time": [
+    "6"
+   ],
+   "Sublingual max total time": [
+    "10"
+   ],
+   "Sublingual total time units": [
+    "hours"
+   ],
+   "Sublingual min onset time": [
+    "15"
+   ],
+   "Sublingual max onset time": [
+    "120"
+   ],
+   "Sublingual onset time units": [
+    "minutes"
+   ],
+   "Sublingual min comeup time": [
+    "30"
+   ],
+   "Sublingual max comeup time": [
+    "120"
+   ],
+   "Sublingual comeup time units": [
+    "minutes"
+   ],
+   "Sublingual min peak time": [
+    "2"
+   ],
+   "Sublingual max peak time": [
+    "4"
+   ],
+   "Sublingual peak time units": [
+    "hours"
+   ],
+   "Sublingual min offset time": [
+    "1"
+   ],
+   "Sublingual max offset time": [
+    "4"
+   ],
+   "Sublingual offset time units": [
+    "hours"
+   ],
+   "Sublingual min afterglow time": [
+    "3"
+   ],
+   "Sublingual max afterglow time": [
+    "6"
+   ],
+   "Sublingual afterglow time units": [
+    "days"
+   ],
+   "Insufflated threshold dose": [
+    "50"
+   ],
+   "Insufflated dose units": [
+    "µg"
+   ],
+   "Insufflated min light dose": [
+    "200"
+   ],
+   "Insufflated max light dose": [
+    "500"
+   ],
+   "Insufflated min common dose": [
+    "500"
+   ],
+   "Insufflated max common dose": [
+    "700"
+   ],
+   "Insufflated min strong dose": [
+    "700"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "10"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "10"
+   ],
+   "Insufflated max comeup time": [
+    "30"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "60"
+   ],
+   "Insufflated max peak time": [
+    "120"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "120"
+   ],
+   "Insufflated max offset time": [
+    "180"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "7"
+   ],
+   "Insufflated afterglow time units": [
+    "days"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of 25I-NBOMe",
+   "clean": "Molecular structure of 25I-NBOMe"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:25I-NBOMe.svg",
+   "clean": "File:25I-NBOMe.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::25i-NBOMe]], [[common name::25i]], [[common name::Cimbi-5]]",
+   "clean": "25i-NBOMe, 25i, Cimbi-5"
+  },
+  "NameSubstitution": {
+   "raw": "2C-I-NBOMe",
+   "clean": "2C-I-NBOMe"
+  },
+  "NameSystematic": {
+   "raw": "[[systematic name::2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine]]",
+   "clean": "[[systematic name::2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine]]"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "SublingualROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation. <br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/25I-NBOMe TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation. This dosage and duration information has been sourced from TripSit"
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "[[Sublingual threshold dose::50]] [[Sublingual dose units::µg]]",
+   "clean": "50 µg"
+  },
+  "SublingualROA_Light": {
+   "raw": "[[Sublingual min light dose::200]] - [[Sublingual max light dose::500]] µg",
+   "clean": "200 - 500 µg"
+  },
+  "SublingualROA_Common": {
+   "raw": "[[Sublingual min common dose::500]] - [[Sublingual max common dose::700]] µg",
+   "clean": "500 - 700 µg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "[[Sublingual min strong dose::700]] - [[Sublingual max strong dose::1000]] µg",
+   "clean": "700 - 1000 µg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": "<span style=\"color:red\">'''25I-NBOMe can be fatal at heavy doses.<ref name=\"25Ifatal\">{{Citation | title=Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml}}</ref>'''</span>",
+   "clean": "25I-NBOMe can be fatal at heavy doses."
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "[[Sublingual min total time::6]] - [[Sublingual max total time::10]] [[Sublingual total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "[[Sublingual min onset time::15]] - [[Sublingual max onset time::120]] [[Sublingual onset time units::minutes]]",
+   "clean": "15 - 120 minutes"
+  },
+  "SublingualROA_Comeup": {
+   "raw": "[[Sublingual min comeup time::30]] - [[Sublingual max comeup time::120]] [[Sublingual comeup time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "[[Sublingual min peak time::2]] - [[Sublingual max peak time::4]] [[Sublingual peak time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "[[Sublingual min offset time::1]] - [[Sublingual max offset time::4]] [[Sublingual offset time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "[[Sublingual min afterglow time::3]] - [[Sublingual max afterglow time::6]] [[Sublingual afterglow time units::days]]",
+   "clean": "3 - 6 days"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "*<span style=\"color:red\">'''The insufflation of NBOMes can be fatal.<ref name=\"25IFatalities />ref name=\"25Xfatal\">{{Citation | title=Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/nbome/nbome_death.shtml}}</ref><ref name=\"25Cfatal\">{{Citation | title=Erowid 2C-C-NBOMe (25C-NBOMe) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/2cc_nbome/2cc_nbome_death.shtml}}</ref>''' [[25I-NBOMe#Toxicity and harm potential|It is strongly discouraged.]]</span>",
+   "clean": "*The insufflation of NBOMes can be fatal.ref name=\"25Xfatal\"> It is strongly discouraged."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::50]] [[Insufflated dose units::µg]]",
+   "clean": "50 µg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::200]] - [[Insufflated max light dose::500]] µg",
+   "clean": "200 - 500 µg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::500]] - [[Insufflated max common dose::700]] µg",
+   "clean": "500 - 700 µg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::700]]+ µg",
+   "clean": "700+ µg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "<span style=\"color:red\">'''25I-NBOMe can be fatal at heavy doses.<ref name=\"25Xfatal\">{{Citation | title=Erowid NBOMe (Other or Unknown NBOMe-Compound) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/nbome/nbome_death.shtml}}</ref>'''</span>",
+   "clean": "25I-NBOMe can be fatal at heavy doses."
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::10]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::10]] - [[Insufflated max comeup time::30]] [[Insufflated comeup time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::60]] - [[Insufflated max peak time::120]] [[Insufflated peak time units::minutes]]",
+   "clean": "60 - 120 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::120]] - [[Insufflated max offset time::180]] [[Insufflated offset time units::minutes]]",
+   "clean": "120 - 180 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::7]] [[Insufflated afterglow time units::days]]",
+   "clean": "1 - 7 days"
+  }
+ },
+ "plain_text": "25I-NBOMe (also known as 2C-I-NBOMe, NBOMe-2C-I, Cimbi-5, Smiles, and one of many drugs referred to as N-Bomb) is a novel psychedelic substance of the phenethylamine chemical class that produces an array of visually-dominant and stimulating psychedelic effects when administered. \n\nThe name 25I-NBOMe, which short-hand for 2C-I-NBOMe, is a derivative of the phenethylamine psychedelic 2C-I. It was first synthesized and documented in 2003 by Ralf Heim at the Free University of Berlin. It was further researched by a team at Purdue University led by David Nichols. It has been studied in its 11C radiolabelled form as a potential ligand for mapping the distribution of 5-HT2A receptors in the brain, using positron emission tomography (PET).\n\nIt is worth noting that compounds of the NBOMe family (any of which could be referred to as \"N-Bomb\", especially 25I-NBOMe and 25N-NBOMe) should be administered sublingually by placing and holding it into one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\nExtremely little is known about the pharmacological properties, metabolism, and toxicity of 25I-NBOMe in humans. It had no history of human use before being sold online as a designer drug in 2010.. It has been associated with many deaths and hospitalizations. Anecdotal reports suggest that this substance may be difficult to use safely due to its highly sensitive dose-response and unpredictable effects.\n\nChemistry\n\n25I-NBOMe or 2C-I-NBOMe is a serotonergic N-benzyl derivative of the substituted phenethylamine psychedelic known as 2C-I. 25I-NBOMe is a substituted phenethylamine with methoxy groups CH3O- attached to carbons R2 and R5 as well as an iodine atom attached to carbon R4. It differs from 2C-I structurally through a substitution on the amine (NH2) with a 2-methoxybenzyl (BOMe) group. 25I-NBOMe shares this 2-methoxybenzyl substitution with other chemicals of the NBOMe family. This NBOMe addition contains a methoxy ether CH3O- bound to a benzene ring at R2.\n\nPharmacology\n\n25I-NBOMe has efficacy at the 5-HT2A receptor where it acts as a Full agonist. However, the role of these interactions and how they result in the psychedelic experience continues to remain elusive.\n\nAmong psychedelics, this compound is considered to be pharmacologically unique in terms of the high potency, affinity, and selectivity with which it binds to the 5-HT2a receptor. Contrary to popular belief, it is not a \"full agonist\", although questions have been raised about how the effects it produces differ from other 5-HT2a partial agonists, which include the range of traditional psychedelics.\n\nThe Ki values of the following targets were greater than 500 Ki: 5-HT1A, D3, H2, 5-HT1D, α1A adrenergic, δ opioid, serotonin reuptake transporter, 5-HT5A, 5-HT1B, D2, 5-HT7, D1, 5-HT3, 5-HT1E, D5, muscarinic M1-M5, H3, and the dopamine reuptake transporter. \n{| class=\"wikitable sortable\" style=\"text-align: right; margin-left: 10px;\"\n|+Ki-values\n\n! scope=\"col\" |Receptor||Ki (nM)|| class=\"unsortable\" |±\n|-\n! scope=\"row\" |5-HT2A\n|0.044\n|-\n! scope=\"row\" |5-HT2C\n|2\n|-\n! scope=\"row\" |5-HT6\n|73||12\n|-\n! scope=\"row\" |μ-opioid\n|82||14\n|-\n! scope=\"row\" |H1\n|189||35\n|-\n! scope=\"row\" |5-HT2B\n|231||73\n|-\n! scope=\"row\" |κ-opioid\n|288||50\n|}\n\nSubjective effects\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: 25I-NBOMe\n\nToxicity and harm potential\n\nShort-term as well as long-term damage of NBOMes have been occasionally tied to serious physical and mental problems on seemingly random people, including memory and speech difficulties, heart problems, HPPD and in some cases Anxiety and PTSD, from particularly difficult experiences.\n\n25I-NBOMe is a relatively new substance, and little is known about its pharmacological risks or its interaction with other substances. The LD50 has not yet been determined although it is potentially fatal at heavy dosages. PsychonautWiki advises that due to 25I-NBOMe's extreme potency it should not be insufflated as this method of administration appears to have led to several deaths in the past year.\n\nThis substance came to media attention in early 2012 after a cluster of seven non-fatal overdoses with the drug were reported in or around Richmond, Virginia. As of May 2013, 25I-NBOMe has reportedly led to five overdose deaths in the United States. In June 2012, two teens in Grand Forks, North Dakota and East Grand Forks, Minnesota fatally overdosed on a substance that was allegedly 25I-NBOMe, resulting in lengthy sentences for two of the parties involved and a Federal indictment against the Texas-based online vendor.\n\nA 21-year-old man from Little Rock, Arkansas died in October 2012 after taking a liquid drop of the drug nasally at a music festival. He was reported to have consumed caffeinated alcoholic beverages for \"several hours\" beforehand. It is unclear what other drugs he may have consumed, as autopsies usually do not test for the presence of research chemicals.\n\nA man in Australia died from injuries sustained by running into trees and power poles while intoxicated by 25I-NBOMe.\n\nA Brazilian 16-year-old died from overdose in April 2016. \n\nThe addition of 5-HTP can greatly increase the effects of 25i-NBOME and should be avoided.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\n25I-NBOMe is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 25I-NBOMe is built almost immediately after ingestion. After that, it takes about 1 week for the tolerance to be reduced to half and 2 weeks to be back at baseline (in the absence of further consumption). 25I-NBOMe presents cross-tolerance with all psychedelics, meaning that after the consumption of 25I-NBOMe all psychedelics will have a reduced effect.\n\nOverdose\n\nDangerous interactions\n\nLegal status\n\nIn September 2014, the European Council decided that 25I-NBOMe shall be subjected by the Member States to control measures and criminal penalties by October 2, 2015.\n\n*Australia: Possession, production and sale is illegal.\n*Austria: Since June 26, 2019, 25I-NBOMe is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)\n*Brazil: Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.\n*Canada: 25I-NBOMe would be considered Schedule III as it is a derivative of 2,5-dimethoxyphenethylamine.\n*China: As of October 2015 25I-NBOMe is a controlled substance in China.\n*Denmark: 25I-NBOMe is controlled by the generic classification of phenethylamines in the Executive Order on Euphoriant Substances.\n*Germany: 25I-NBOMe is controlled under Anlage I BtMG (Narcotics Act, Schedule I) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Finland: 25I-NBOMe is controlled under the Medicines Act (395/87) as of March 15, 2013.\n*Hungary: 25I-NBOMe falls within the generic definition of phenethylamines in Schedule C of Government Decree 66/2012.\n*Israel: The drug was banned in 2012.\n*Italy: In Italy 25I-NBOMe is a Schedule 1 controlled substance, meaning it's illegal in this state.\n*Japan: 25I-NBOMe is a narcotic drug in Japan effective November 1st, 2015.\n*Latvia: 25I-NBOMe is a Schedule I controlled substance.\n*The Netherlands: 25I-NBOMe is classified as a Lijst 1 (List 1) controlled substance under the Opiumwet (Opium Law). \n*New Zealand: 25I-NBOMe is a Schedule 2 controlled substance in New Zealand.\n*Norway: 25I-NBOMe is controlled by the generic scheduling of phenethylamines as of February 14, 2013.\n*Poland: 25I-NBOMe falls under the definition of a ‘substitution drug’ under the Act on Counteracting Drug Addiction and the Act on State Sanitary Inspection, 2010. As such its marketing and production is penalised with a fine (administrative sanctions).\n*Romania: In 2011, Romania banned all psychoactive substances, no matter what they really are.\n*Russia: Possession, production and sale is illegal.\n*Slovenia: 25I-NBOMe was included in a Decree amending the classification of illicit drugs (Official Gazette of RS No. 62/2013).\n*Sweden: 25I-NBOMe is classed as Schedule I.\n*Switzerland: 25I-NBOMe is a controlled substance specifically named under Verzeichnis D.\n*United Kingdom: 25I-NBOMe is a Class A drug in the United Kingdom as a result of the N-benzylphenethylamine catch-all clause.\n*United States: On Nov 15, 2013, the DEA added 25I-NBOMe to Schedule I using their emergency scheduling powers, making it \"temporarily\" in Schedule I for 2 years.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Psychedelic\n*Phenethylamines\n*25x-NBOMe\n*25C-NBOMe\n*25B-NBOMe\n\nExternal links\n\n*25I-NBOMe (Wikipedia)\n*25I-NBOMe (Erowid Vault)\n*25I-NBOMe (Isomer Design)\n*25I-NBOMe (Drugs-Forum)\n\nDiscussion\n\n*25I-NBOMe, broken down and described (Disregard Everything I Say)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Psychedelic\nCategory:25x-NBOMe\nCategory:Research chemical",
+ "wikitext": "<br />\n{{Headerpanel|{{Warning/25I-NBOMe}}}}\n{{SummarySheet}}\n{{SubstanceBox/25I-NBOMe}}\n\n'''25I-NBOMe''' (also known as '''2C-I-NBOMe''', '''NBOMe-2C-I''', '''Cimbi-5''', '''Smiles''', and one of many drugs referred to as '''N-Bomb''') is a novel [[Psychoactive class::psychedelic]] substance of the [[chemical class::phenethylamine]] chemical class that produces an array of visually-dominant and stimulating [[psychedelic]] effects when [[Routes of administration|administered]]. \n\nThe name 25I-NBOMe, which short-hand for 2C-I-NBOMe, is a derivative of the phenethylamine psychedelic [[2C-I]]. It was first synthesized and documented in 2003 by Ralf Heim at the Free University of Berlin.<ref name=\"Ralf Heim PhD. (2010-02-28)\">{{cite journal | vauthors=((Heim, R.)) | title=Synthese und Pharmakologie potenter 5-HT2A-Rezeptoragonisten mit N-2 -Methoxybenzyl-Partialstruktur: Entwicklung eines neuen Struktur-Wirkungskonzepts | date= 2004 | url=https://refubium.fu-berlin.de/handle/fub188/11995 | doi=10.17169/refubium-16193 | access-date=10 May 2013}}</ref> It was further researched by a team at Purdue University led by [[David E. Nichols|David Nichols]].<ref name=\"Michael Robert Braden PhD. (2007)\">{{cite journal | vauthors=((Braden, M. R.)) | journal=Theses and Dissertations Available from ProQuest | title=Towards a biophysical understanding of hallucinogen action | pages=1–176 | date=1 January 2007 | url=http://proquest.umi.com/pqdlink?Ver=1&Exp=01-23-2014&FMT=7&DID=1417800971&RQT=309&attempt=1&cfc=1 | access-date=8 August 2012}}\n</ref> It has been studied in its 11C radiolabelled form as a potential ligand for mapping the distribution of 5-HT2A receptors in the brain, using positron emission tomography (PET).<ref name=\"Ettrup2011\">{{cite journal | vauthors=((Ettrup, A.)), ((Hansen, M.)), ((Santini, M. A.)), ((Paine, J.)), ((Gillings, N.)), ((Palner, M.)), ((Lehel, S.)), ((Herth, M. M.)), ((Madsen, J.)), ((Kristensen, J.)), ((Begtrup, M.)), ((Knudsen, G. M.)) | journal=European Journal of Nuclear Medicine and Molecular Imaging | title=Radiosynthesis and in vivo evaluation of a series of substituted 11C-phenethylamines as 5-HT (2A) agonist PET tracers | volume=38 | issue=4 | pages=681–693 | date= April 2011 | issn=1619-7089 | doi=10.1007/s00259-010-1686-8}}</ref><ref>{{cite book | vauthors=((Hansen, M.)) | date= 2010 | title=Design and synthesis of selective serotonin receptor agonists for positron emission tomography imaging of the brain: PhD thesis | publisher=Faculty of Pharmaceutical Sciences, University of Copenhagen | isbn=9788792719003}}</ref>\n\nIt is worth noting that compounds of the [[25x-NBOMe|NBOMe]] family (any of which could be referred to as \"N-Bomb\", especially 25I-NBOMe and [[25N-NBOMe]]) should be administered [[sublingual|sublingually]] by placing and holding it into one's mouth and allowing it to absorb over a period of 15-25 minutes.\n\nExtremely little is known about the pharmacological properties, metabolism, and toxicity of 25I-NBOMe in humans. It had no history of human use before being sold online as a [[designer drug]] in 2010.{{citation needed}}. It has been associated with many deaths and hospitalizations. Anecdotal reports suggest that this substance may be difficult to use safely due to its highly sensitive dose-response and unpredictable effects.\n\n==Chemistry==\n25I-NBOMe or 2C-I-NBOMe is a serotonergic N-benzyl derivative of the substituted phenethylamine psychedelic known as [[2C-I]]. 25I-NBOMe is a substituted phenethylamine with methoxy groups CH<sub>3</sub>O- attached to carbons R<sub>2</sub> and R<sub>5</sub> as well as an iodine atom attached to carbon R<sub>4</sub>. It differs from [[2C-I]] structurally through a substitution on the amine (NH2) with a 2-methoxybenzyl (BOMe) group. 25I-NBOMe shares this 2-methoxybenzyl substitution with other chemicals of the NBOMe family. This NBOMe addition contains a methoxy ether CH<sub>3</sub>O- bound to a benzene ring at R<sub>2</sub>.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\n25I-NBOMe has efficacy at the [[serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] where it acts as a Full [[Agonist#Agonists|agonist]].<ref name=\"Ettrup2011\" /> However, the role of these interactions and how they result in the [[psychedelic]] experience continues to remain elusive.\n\nAmong psychedelics, this compound is considered to be pharmacologically unique in terms of the high potency, affinity, and selectivity with which it binds to the 5-HT2a receptor.<ref name=\"Ettrup2011\" /> Contrary to popular belief, it is not a \"full agonist\"{{citation needed}}, although questions have been raised about how the effects it produces differ from other 5-HT2a partial agonists, which include the range of traditional psychedelics.\n\nThe Ki values of the following targets were greater than 500 Ki: 5-HT1A, D3, H2, 5-HT1D, α1A adrenergic, δ opioid, serotonin reuptake transporter, 5-HT5A, 5-HT1B, D2, 5-HT7, D1, 5-HT3, 5-HT1E, D5, muscarinic M1-M5, H3, and the dopamine reuptake transporter.<ref name=\"high specific\">{{cite journal | vauthors=((Nichols, D. E.)), ((Frescas, S. P.)), ((Chemel, B. R.)), ((Rehder, K. S.)), ((Zhong, D.)), ((Lewin, A. H.)) | journal=Bioorganic & Medicinal Chemistry | title=High specific activity tritium-labeled N-(2-methoxybenzyl)-2,5-dimethoxy-4-iodophenethylamine (INBMeO): a high-affinity 5-HT2A receptor-selective agonist radioligand | volume=16 | issue=11 | pages=6116–6123 | date=1 June 2008 | issn=1464-3391 | doi=10.1016/j.bmc.2008.04.050}}</ref> \n{| class=\"wikitable sortable\" style=\"text-align: right; margin-left: 10px;\"\n|+Ki-values<ref name=\"Ettrup2011\" /><ref name=\"high specific\" />\n\n! scope=\"col\" |Receptor||Ki (nM)|| class=\"unsortable\" |±\n|-\n! scope=\"row\" |[[5-HT2A|5-HT<sub>2A</sub>]]\n|0.044\n|-\n! scope=\"row\" |[[5-HT2C|5-HT<sub>2C</sub>]]\n|2\n|-\n! scope=\"row\" |[[5-HT6|5-HT<sub>6</sub>]]\n|73||12\n|-\n! scope=\"row\" |[[mu-opioid receptor|μ-opioid]]\n|82||14\n|-\n! scope=\"row\" |[[Histamine H1 receptor|H<sub>1</sub>]]\n|189||35\n|-\n! scope=\"row\" |[[5-HT2B|5-HT<sub>2B</sub>]]\n|231||73\n|-\n! scope=\"row\" |[[Κ-opioid receptor|κ-opioid]]\n|288||50\n|}\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the physical energy levels of the user, 25I-NBOMe is usually considered to be very energetic and stimulating. For most people, this substance induces a unique type of physical stimulation which can be described as feeling extremely energetic but in a way which does not force the tripper to move unless they genuinely choose to do so. For others, however, the stimulation can be quite uncontrollable, occasionally resulting in bodily shakes and a grinding of the teeth comparable to that of [[MDMA]] and traditional stimulants such as [[amphetamine]].\n*'''[[Effect::Perception of bodily lightness]]''' - In terms of the body’s perceived weight, this substance consistently leaves people feeling extremely light, often to the point of total weightlessness.\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" itself can be described as a mild, all-encompassing, soft but euphoric tingling sensation. This tingling sensation is also accompanied by spontaneous rushes of [[Physical euphoria|euphoria]] that become longer and more drawn out proportional to the dosage consumed.\n*'''[[Effect::Mouth numbing]]''' - Assuming the substance has been taken [[sublingual]]ly, the very first physical effect which a person will notice immediately after sublingual absorption is a strong, unpleasant metallic chemical taste. This is accompanied by a very distinct feeling of general numbness of the tongue and mouth which can stay for up to an hour after the blotter paper has been consumed. \n*'''[[Effect::Nausea]]''' - As the user begins to come up, nausea is not uncommon and can sometimes result in initial vomiting, although nausea usually disappears when the user has vomited or the trip fully set in. In comparison to other psychedelics such as [[psilocin]], [[2C-E]] and [[2C-I]], this could actually be considered very mild in its intensity.\n*'''[[Effect::Temperature regulation suppression]]'''\n**'''[[Effect::Increased bodily temperature]]'''\n*'''[[Effect::Abnormal heartbeat]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Muscle contractions]]'''\n*'''[[Effect::Muscle cramps]]'''\n*'''[[Effect::Muscle tension]]'''\n*'''[[Effect::Gustatory hallucination]]'''\n*'''[[Effect::Vasoconstriction]]''' \n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Difficulty urinating]]''' or '''[[Effect::Frequent urination]]'''\n*'''[[Effect::Restless legs]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Seizures]]'''- This effect is far more common in doses exceeding a heavy dose and may manifest as status epilepticus wherein seizures last more than 5 minutes or do not stop without medical intervention\n*'''[[Effect::Rhabdomyolysis]]'''\n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Magnification]]''' - At higher doses, users can experience a \"fish-eye\" effect, where magnification changes based on the direction the user is looking relative to the object.\n\n====Suppressions====\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Peripheral information misinterpretation]]'''\n\n====Distortions====\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Flowing|flowing]], [[Drifting#Breathing|breathing]] and [[Drifting# morphing|morphing]])'' - In comparison to other psychedelics, this effect can be described as highly detailed, slow and smooth in motion, static in appearance and unrealistic/cartoon-like in style. \n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Colour replacement]]'''\n*'''[[Effect::Colour tinting]]'''\n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Perspective distortions]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Diffraction]]'''\n*'''[[Effect::Brightness alteration]]'''\n*'''[[Effect::After images]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n*'''[[Effect::Recursion]]'''\n*'''[[Effect::Scenery slicing]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry produced by this substance is similar to [[LSD]] and can be comprehensively described as algorithmic in geometric style, intricate in complexity, fine and zoomed out in detail, fast and smooth in motion, structured in shape, colorful in scheme, glossy in color, sharp around the edges and equally angular as well as rounded across their corners. In comparison to other more commonly used psychedelics they can be described as significantly more intricate than the visual geometry found within [[2C-I]] and most of the [[2C-x]] family in general as well as completely on par with [[LSD]], [[Psilocin]] and [[DMT]] at appropriately high dosages. \n\n25I-NBOMe’s geometry leads reliably leads to [[Effect::8A Geometry|Level 8A]] visual geometry with [[Level 8B]] remaining so far unconfirmed. It seems to consistently be able to build up in visual intensity when the user stares at a central point. This eventually envelops the visual field and creates the sensation that the tripper has broken through into a continuously shifting geometric landscape or structure with a vast sense of immersive physical size attributed to it.\n\n====Hallucinatory states====\n25I-NBOMe is capable of producing a full range of hallucinatory states within the level 1 - 3 range extremely consistently. However, level 4 hallucinatory breakthroughs are reported but very different and inconsistent in comparison to other more commonly used psychedelics such as [[psilocin]], [[2C-E]] and [[DMT]].\n\nThese effects include:\n\n*'''[[Effect::Transformations]]'''\n*'''[[Effect::Machinescapes]]''' - This component is an uncommon effect that typically only occurs at very strong to heavy doses. It also tends to be accompanied by overwhelming if not dangerous physical and cognitive effects.\n*'''[[Effect::Internal hallucination]]''' - (''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]''). These are more common within dark environments and can be described as lucid in believability, interactive in style and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n\n}}\n|{{effects/cognitive|\n\nThe cognitive effects of 25I-NBOMe are described by many as notably light in comparison to the classical [[psychedelics]]. It is not uncommon for people to report feeling that their thought stream has maintained general normality in its specific style throughout low to moderate dosages. At high dosages, however, strong to overwhelming cognitive alterations become present, which can lead to states of [[confusion]], [[amnesia]], and general sensory overload. \n\nThe most prominent of these cognitive effects generally include:\n\n*'''[[Effect::Analysis enhancement]]''' - This effect is generally only present at low doses.\n*'''[[Effect::Thought acceleration]]''' and '''[[Effect::Thought deceleration]]''' - Although one of 25i-NBOME's effects is thought acceleration, the opposite may occur at higher doses.\n*'''[[Effect::Conceptual thinking]]''' - This effect is considered to be very mild compared to traditional psychedlics.\n*'''[[Effect::Anxiety]]''' & '''[[Effect::Paranoia]]''' - This effect seems to occur more readily than other psychedelics, perhaps due to its very prominent stimulating properties\n**'''[[Effect::Feelings of impending doom]]''' - This is generally only experienced during the comedown period or if one has taken a large amount of the substance.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - The [[entactogenic]] effects range from mild to powerful, but are inconsistently manifested. Entactogenic effects for people who try this substance usually become prominent in the presence of others. These feelings of increased sociability, love and empathy do not seem to be quite as strong or profound as those found within other [[entactogen|entactogens]] (such as [[MDMA]], [[2C-B]] and [[AMT]])\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n**'''[[Effect::Amnesia]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n*'''[[Effect::HPPD]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement|Enhancements]]'''\n*'''[[Effect::Auditory distortion|Distortions]]'''\n*'''[[Effect::Auditory hallucinations|Hallucinations]]'''\n\n}}\n{{effects/multisensory|\n\n*'''[[Effect::Dosage independent intensity]]''' - While the reasons for this are not understood, many reports suggest that this substance can produce unexpectedly strong or weak effects even when taken at the seemingly same dose in an unpredictable manner.{{citation needed}} This may contribute to the relative risk it is poses compared to most other psychedelics.\n*'''[[Effect::Synaesthesia]]''' - In its fullest manifestation, this is a very rare and non-reproducible effect. Increasing the dosage can increase the likelihood of this occurring, but seems to only be a prominent part of the experience among those who are already predisposed to synaesthetic states.\n\n}}\n{{effects/transpersonal|\nWhile they are occasionally reported, the transpersonal effects produced by this substance seem to be significantly less consistent and reproducible than other [[psychedelics]], which perhaps corresponds with the notably mild changes to one's perceptual and cognitive processes. \n\n*'''[[Effect::Existential self-realization]]'''\n*'''[[Effect::Unity and interconnectedness]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:25I-NBOMe]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_25INBOMe.shtml Erowid Experience Vaults: 25I-NBOMe]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\n'''Short-term as well as long-term damage of NBOMes have been occasionally tied to serious physical and mental problems on seemingly random people, including memory and speech difficulties, heart problems, HPPD and in some cases Anxiety and PTSD, from particularly difficult experiences.'''\n\n25I-NBOMe is a relatively new substance, and little is known about its pharmacological risks or its interaction with other substances. The [[LD50|LD<sub>50</sub>]] has not yet been determined although it is [[Toxicity::potentially fatal at heavy dosages]].<ref name=\"25Ifatal\">{{Citation | title=Erowid 25I-NBOMe (2C-I-NBOMe) Vault : Fatalities / Deaths | url=https://www.erowid.org/chemicals/2ci_nbome/2ci_nbome_death.shtml}}</ref> [[PsychonautWiki]] advises that due to 25I-NBOMe's extreme potency it should not be insufflated as this method of administration appears to have led to several deaths in the past year.\n\nThis substance came to media attention in early 2012 after a cluster of seven non-fatal [[overdose]]s with the drug were reported in or around Richmond, Virginia.<ref name=\"Kids overdosing on new drug\">{{Citation | vauthors=((Geller, L.)) | year=2012 | title=Kids overdosing on new drug | publisher=WWBT NBC12 | url=https://www.nbc12.com/story/16964534/kids-overdosing-on-new-drug}}</ref><ref name=\"New street drug\"> New street drug causing concern among medics. Vanessa Araiza, WBRC, Feb 28, 2012, | http://www.wsfa.com/story/16977573/new-street-drug-causing-concern-among-medics</ref> As of May 2013, 25I-NBOMe has reportedly led to five overdose deaths in the United States.<ref><nowiki>{{Citation | title=New drug N-bomb hits the street, terrifying parents, troubling cops | url=</nowiki>https://www.nydailynews.com/news/national/new-synthetic-hallucinogen-n-bomb-killing-users-cops-article-1.1336327</ref> In June 2012, two teens in Grand Forks, North Dakota and East Grand Forks, Minnesota fatally overdosed on a substance that was allegedly 25I-NBOMe, resulting in lengthy sentences for two of the parties involved and a Federal indictment against the Texas-based online vendor.<ref> Breaking Bad: Digital Drug Sales, Analog Drug Deaths. Craig Malisow, Houston Press, March 13, 2013 | http://www.houstonpress.com/2013-03-14/news/motion-research-charles-carlton/</ref>\n\nA 21-year-old man from Little Rock, Arkansas died in October 2012 after taking a liquid drop of the drug nasally at a music festival. He was reported to have consumed caffeinated alcoholic beverages for \"several hours\" beforehand. It is unclear what other drugs he may have consumed, as autopsies usually do not test for the presence of research chemicals.<ref name=\"21 yr old dies\">{{Citation | vauthors=((Martin, N.)) | year=2012 | title=21-year-old dies after one drop of new synthetic drug at Voodoo Fest | publisher=NOLA | url=https://www.nola.com/news/crime_police/article_526a4b28-8e79-5b4c-8310-637c946b616c.html}}</ref>\n\nA man in Australia died from injuries sustained by running into trees and power poles while intoxicated by 25I-NBOMe.<ref name=\"Australia death\"> New hallucinogenic drug 25B-NBOMe and 25I-NBOMe led to South Australian man's bizarre death | http://www.adelaidenow.com.au/news/south-australia/new-hallucinogenic-drug-25b-nbome-and-25i-nbome-led-to-south-australian-mans-bizarre-death/story-e6frea83-1226472672220/</ref>\n\nA Brazilian 16-year-old died from overdose in April 2016.{{citation needed}} \n\nThe addition of 5-HTP can greatly increase the effects of 25i-NBOME and should be avoided.{{citation needed}}\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\n25I-NBOMe is [[Addiction potential::not habit-forming]] and the desire to use it can actually decrease with use. It is most often self-regulating. \n\nTolerance to the effects of 25I-NBOMe is built [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::1 week]] for the tolerance to be reduced to half and [[Time to zero tolerance::2 weeks]] to be back at baseline (in the absence of further consumption). 25I-NBOMe presents cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of 25I-NBOMe all psychedelics will have a reduced effect.\n\n===Overdose===\n{{NBOMeOD}}\n\n===Dangerous interactions===\n{{DangerousInteractions}}\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/NBOMe}}\n\n==Legal status==\nIn September 2014, the European Council decided that 25I-NBOMe shall be subjected by the Member States to control measures and criminal penalties by October 2, 2015.<ref>{{cite web|url=https://op.europa.eu/o/opportal-service/download-handler?identifier=025bb164-4937-11e4-a0cb-01aa75ed71a1&format=pdfa1a&language=en&productionSystem=cellar&part=|title=Council Implementing Decision on subjecting 25I-NBOMe, AH-7921, MDPV and methoxetamine to control measures|date=September 25, 2014|publication-date=October 1, 2014|work=Official Journal of the European Union|pages=22-26|id=L 287|publisher=Office for Official Publications of the European Communites|oclc=52224955}}</ref>\n\n*'''Australia''': Possession, production and sale is illegal.<ref>https://web.archive.org/web/20160602092257/https://www.legislation.gov.au/Details/F2015L01534/Html/Text#_Toc420496379</ref>\n*'''Austria''': Since June 26, 2019, 25I-NBOMe is illegal to possess, produce and sell under the SMG. (Suchtmittelgesetz Österreich)<ref>https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2019_II_167/BGBLA_2019_II_167.pdfsig</ref>\n*'''Brazil''': Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº 344.<ref>http://portal.anvisa.gov.br/documents/10181/3115436/%281%29RDC_130_2016_.pdf/fc7ea407-3ff5-4fc1-bcfe-2f37504d28b7</ref>\n*'''Canada''': 25I-NBOMe would be considered Schedule III as it is a derivative of 2,5-dimethoxyphenethylamine.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-12.html}}</ref>\n*'''China''': As of October 2015 25I-NBOMe is a controlled substance in China.<ref>http://www.sfda.gov.cn/WS01/CL0056/130753.html | 关于印发《非药用类麻醉药品和精神药品列管办法》的通知 </ref>\n*'''Denmark''': 25I-NBOMe is controlled by the generic classification of phenethylamines in the Executive Order on Euphoriant Substances.<ref name=\"EMCDDA\">{{cite web|url=http://www.emcdda.europa.eu/system/files/publications/817/TDAS14003ENN_466654.pdf|title=25I-NBOMe: EMCDDA–Europol Joint Report on a new psychoactive substance: 25I-NBOMe (4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine)|publisher=European Monitoring Centre for Drugs and Drug Addiction|access-date=February 18, 2020|issn=1977-7868|year=2014|isbn=978-92-9168-682-7|doi=10.2810/27828}}</ref>\n*'''Germany''': 25I-NBOMe is controlled under Anlage I BtMG (''Narcotics Act, Schedule I'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_i.html|title=Anlage I BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl114s1999.pdf%27%5D__1576023093735|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 11, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref>\n*'''Finland''': 25I-NBOMe is controlled under the Medicines Act (395/87) as of March 15, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Hungary''': 25I-NBOMe falls within the generic definition of phenethylamines in Schedule C of Government Decree 66/2012.<ref name=\"EMCDDA\"></ref>\n*'''Israel''': The drug was banned in 2012.<ref>http://www.health.gov.il/LegislationLibrary/25574413.pdf</ref>\n*'''Italy''': In Italy 25I-NBOMe is a Schedule 1 controlled substance, meaning it's illegal in this state.<ref>Tabella 1 Stupefacenti dello Stato Italiano |http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_0_file.pdf</ref>\n*'''Japan''': 25I-NBOMe is a narcotic drug in Japan effective November 1st, 2015.<ref>{{Citation | title=新たに４物質を麻薬に指定し、規制の強化を図ります ｜報道発表資料｜厚生労働省 | publisher=厚生労働省 [Ministry of Health, Labour and Welfare (MHLW)] | url=https://www.mhlw.go.jp/stf/houdou/0000098723.html}}</ref>\n*'''Latvia''': 25I-NBOMe is a Schedule I controlled substance.<ref>{{Citation | title=Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | url=https://likumi.lv/doc.php?id=121086}}</ref>\n*'''The Netherlands:''' 25I-NBOMe is classified as a Lijst 1 (List 1) controlled substance under the Opiumwet (Opium Law). <ref>https://wetten.overheid.nl/BWBR0001941/2024-04-16#BijlageI</ref>\n*'''New Zealand''': 25I-NBOMe is a Schedule 2 controlled substance in New Zealand.<ref>{{Citation | title=Misuse of Drugs Act 1975 No 116 (as at 07 December 2021), Public Act – New Zealand Legislation | url=https://www.legislation.govt.nz/act/public/1975/0116/latest/whole.html}}</ref>\n*'''Norway''': 25I-NBOMe is controlled by the generic scheduling of phenethylamines as of February 14, 2013.<ref name=\"EMCDDA\"></ref>\n*'''Poland''': 25I-NBOMe falls under the definition of a ‘substitution drug’ under the Act on Counteracting Drug Addiction and the Act on State Sanitary Inspection, 2010. As such its marketing and production is penalised with a fine (administrative sanctions).<ref name=\"EMCDDA\"></ref>\n*'''Romania''': In 2011, Romania banned all psychoactive substances,<ref>{{Citation | vauthors=((Takács, I. G.)) | year=2013 | title=Colored City: Recreational drug use in Belgrade | url=https://drogriporter.hu/en/node2329/}}</ref> no matter what they really are.<ref>http://www.dreptonline.ro/legislatie/legea_194_2011_comba</ref>\n*'''Russia''': Possession, production and sale is illegal.{{citation needed}}\n*'''Slovenia''': 25I-NBOMe was included in a Decree amending the classification of illicit drugs (Official Gazette of RS No. 62/2013).<ref name=\"EMCDDA\"></ref>\n*'''Sweden''': 25I-NBOMe is classed as Schedule I.<ref>{{Citation | title=Läkemedelsverkets författningssamling | url=http://www.lakemedelsverket.se/upload/lvfs/LVFS_2013-15.pdf}}</ref>\n*'''Switzerland''': 25I-NBOMe is a controlled substance specifically named under Verzeichnis D.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': 25I-NBOMe is a Class A drug in the United Kingdom as a result of the N-benzylphenethylamine catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014 | url=https://www.legislation.gov.uk/uksi/2014/1106/made}}</ref>\n*'''United States''': On Nov 15, 2013, the DEA added 25I-NBOMe to Schedule I using their emergency scheduling powers, making it \"temporarily\" in Schedule I for 2 years.<ref>http://www.justice.gov/dea/divisions/hq/2013/hq111513.shtml</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Psychedelic]]\n*[[Phenethylamines]]\n*[[25x-NBOMe]]\n*[[25C-NBOMe]]\n*[[25B-NBOMe]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/25I-NBOMe 25I-NBOMe (Wikipedia)]\n*[https://erowid.org/chemicals/2ci_nbome/2ci_nbome.shtml 25I-NBOMe (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=5380 25I-NBOMe (Isomer Design)]\n*[https://drugs-forum.com/wiki/25I-NBOMe 25I-NBOMe (Drugs-Forum)]\n\n===Discussion===\n\n*[http://disregardeverythingisay.com/post/49302181054/25i-nbome-broken-down-and-described 25I-NBOMe, broken down and described (Disregard Everything I Say)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Psychedelic]]\n[[Category:25x-NBOMe]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true\n|RN=CH₂-C₆H₄-OCH₃\n|Rα=\n|Rβ=\n|R2=\n|R3=OCH₃\n|R4=I\n|R5=\n|R6=OCH₃\n}}"
+}

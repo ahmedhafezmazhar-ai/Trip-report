@@ -1,0 +1,392 @@
+{
+ "id": "psychonautwiki:13160",
+ "type": "substance",
+ "title": "Carisoprodol",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Carisoprodol",
+  "pageid": 13160,
+  "last_edited": "2025-07-02T14:23:22Z"
+ },
+ "categories": [
+  "1,3-Propanediol dicarbamate",
+  "Depressant",
+  "Prodrug",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Carisoprodol",
+ "substance_box": {
+  "names": {
+   "common": "Carisoprodol, Soma",
+   "substitutive": "Isopropyl meprobamate",
+   "systematic": "[2-(Carbamoyloxymethyl)-2-methylpentyl] N-propan-2-ylcarbamate"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "1,3-Propanediol dicarbamate"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "50 mg",
+    "light": "100 - 325 mg",
+    "common": "325 - 500 mg",
+    "strong": "500 - 750 mg",
+    "heavy": "750 mg +",
+    "duration": "",
+    "onset": "15 - 60 minutes",
+    "peak": "2 - 5 hours",
+    "offset": "",
+    "aftereffects": "1 - 12 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Carisoprodol",
+    "Soma"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "1,3-Propanediol dicarbamate"
+   ],
+   "Oral threshold dose": [
+    "50"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "100"
+   ],
+   "Oral max light dose": [
+    "325"
+   ],
+   "Oral min common dose": [
+    "325"
+   ],
+   "Oral max common dose": [
+    "500"
+   ],
+   "Oral min strong dose": [
+    "500"
+   ],
+   "Oral max strong dose": [
+    "750"
+   ],
+   "Oral heavy dose": [
+    "750"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "5"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "12"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of carisoprodol.",
+   "clean": "Molecular structure of carisoprodol."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Carisoprodol.svg",
+   "clean": "File:Carisoprodol.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Carisoprodol]], [[common name::Soma]]",
+   "clean": "Carisoprodol, Soma"
+  },
+  "NameSubstitution": {
+   "raw": "Isopropyl meprobamate",
+   "clean": "Isopropyl meprobamate"
+  },
+  "NameSystematic": {
+   "raw": "[2-(Carbamoyloxymethyl)-2-methylpentyl] N-propan-2-ylcarbamate",
+   "clean": "[2-(Carbamoyloxymethyl)-2-methylpentyl] N-propan-2-ylcarbamate"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::1,3-Propanediol dicarbamate]]",
+   "clean": "1,3-Propanediol dicarbamate"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::50]] [[Oral dose units::mg]]",
+   "clean": "50 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::100]] - [[Oral max light dose::325]] mg",
+   "clean": "100 - 325 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::325]] - [[Oral max common dose::500]] mg",
+   "clean": "325 - 500 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::500]] - [[Oral max strong dose::750]] mg",
+   "clean": "500 - 750 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::750]] mg +",
+   "clean": "750 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::5]] [[Oral peak time units::hours]]",
+   "clean": "2 - 5 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::12]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 12 hours"
+  }
+ },
+ "plain_text": "Carisoprodol, also known by the brand name Soma, is a carbamate sedative-hypnotic. Carisoprodol is used medically as a centrally-acting muscle relaxant, anxiolytic and hypnotic for the short-term treatment of insomnia. Carisoprodol also has weak  analgesic effects. Carisoprodol is sometimes found in formulations also containing caffeine and acetaminophen. Carisoprodol produces similar effects to barbiturates. Carisoprodol acts as a prodrug to meprobamate, meaning it is metabolized to meprobamate when it enters the body.\n\nCarisoprodol, like barbiturates, has been primarily replaced by benzodiazepines due to a larger therapeutic window, having less severe adverse effects and being safer in overdose.\n\nChemistry\n\nChemically, carisoprodol is classified as a carbamate. It is extremely similar in structure to meprobamate, the only difference being an isopropyl group bonded to an amine group. Carbamates are derivatives of carbamic acid. The empirical formula is carisoprodol is C12H24N2O4 and has a molar mass of 260.33 grams per mole.\n\nPharmacology\n\nCarisoprodol is a prodrug that is metabolized to meprobamate, besides having its own effects. The precise mechanism of meprobamate is not completely understood. However it is believed that meprobamate acts similarly to benzodiazepines and barbiturates, acting as a positive allosteric modulator of a GABAA receptor. Unlike barbiturates and benzodiazepines, in animal studies meprobamate has been shown to retain most of its effects without having gamma-aminobutyric acid present. Meprobamate has also been noted to be an adenosine reuptake inhibitor, making it unique among hypnotics.\n\nCarisoprodol is metabolized by the cytochrome P450 2C19 enzyme in the liver and has a biological half-life of about two hours. Carisoprodol and its metabolites are excreted by the kidneys in urine.\n\n300px|thumbnail|center|Carisoprodol is a prodrug to meprobamate (pictured). \n\nSubjective effects\n\nExperience reports\n\nToxicity and harm potential\n\nCarisoprodol likely has moderate toxicity relative to dose. However, carisoprodol is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]]. Carisoprodol has been taken off the market is several countries such as Sweden and Indonesia due to side effects and abuse.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nCarisoprodol is extremely physically and psychologically addictive. Carbamate withdrawal, like barbiturate withdrawal, is medically serious and can potentially cause a life-threatening withdrawal syndrome that can cause seizures, psychosis, and death. Drugs which lower the seizure threshold such as tramadol and amphetamine should be avoided during withdrawal.\n\nTolerance will develop to the sedative-hypnotic effects of carisoprodol after prolonged use. It is unknown exactly how long it takes for tolerance to reach baseline.\n\nDangerous interactions\n\nLegal status\n\nIn most jurisdictions, carisoprodol is considered a prescription-only and/or controlled drug.\n\n*Germany: Carisoprodol is a prescription medicine, according to Anlage 1 AMVV.\n*United States: In the United States, carisoprodol is a Schedule IV Controlled Substance. Therefore, it is prescription-only and anyone caught in possession of the substance with or without intent to distribute is punishable by law.\n\nExternal links\n\n*Carisoprodol (Wikipedia)\n*Carisoprodol (Erowid Vault)\n*Carisoprodol (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:1,3-Propanediol dicarbamate\nCategory:Prodrug",
+ "wikitext": "{{headerpanel|{{DepressantOD|GABAergics}} }}\n{{SummarySheet}}\n{{SubstanceBox/Carisoprodol}}\n\n'''Carisoprodol''', also known by the brand name '''Soma''', is a carbamate [[depressant |sedative-hypnotic]]. Carisoprodol is used medically as a centrally-acting [[muscle relaxation |muscle relaxant]], [[anxiety suppression |anxiolytic]] and hypnotic for the short-term treatment of [[insomnia]]. Carisoprodol also has weak [[pain relief | analgesic]] effects. Carisoprodol is sometimes found in formulations also containing [[caffeine]] and acetaminophen. Carisoprodol produces similar effects to [[barbiturate |barbiturates]]. Carisoprodol acts as a prodrug to [[meprobamate]], meaning it is metabolized to meprobamate when it enters the body.\n\nCarisoprodol, like barbiturates, has been primarily replaced by [[benzodiazepines]] due to a larger therapeutic window, having less severe adverse effects and being safer in overdose.\n\n==Chemistry==\nChemically, carisoprodol is classified as a carbamate. It is extremely similar in structure to meprobamate, the only difference being an isopropyl group bonded to an amine group. Carbamates are derivatives of carbamic acid. The empirical formula is carisoprodol is C<sub>12</sub>H<sub>24</sub>N<sub>2</sub>O<sub>4</sub> and has a molar mass of 260.33 grams per mole.\n\n==Pharmacology==\nCarisoprodol is a prodrug that is metabolized to meprobamate, besides having its own effects. The precise mechanism of meprobamate is not completely understood. However it is believed that meprobamate acts similarly to [[benzodiazepines]] and [[barbiturates]], acting as a positive allosteric modulator of a GABA<sub>A</sub> receptor<ref name=\"pharmacology\">{{cite journal | vauthors=((Rho, J. M.)), ((Donevan, S. D.)), ((Rogawski, M. A.)) | journal=Journal of Pharmacology and Experimental Therapeutics | title=Barbiturate-Like Actions of the Propanediol Dicarbamates Felbamate and Meprobamate | volume=280 | issue=3 | pages=1383–1391 | date=1 March 1997 | url=https://jpet.aspetjournals.org/content/280/3/1383 | issn=0022-3565}}</ref>. Unlike barbiturates and benzodiazepines, in animal studies meprobamate has been shown to retain most of its effects without having [[GABA |gamma-aminobutyric acid]] present<ref name=\"pharmacology\" />. Meprobamate has also been noted to be an adenosine [[reuptake inhibitor]], making it unique among hypnotics<ref>{{cite journal | vauthors=((Phillis, J. W.)), ((Delong, R. E.)) | journal=European Journal of Pharmacology | title=A purinergic component in the central actions of meprobamate | volume=101 | issue=3–4 | pages=295–297 | date=1 June 1984 | issn=0014-2999 | doi=10.1016/0014-2999(84)90174-2}}</ref>.\n\nCarisoprodol is metabolized by the cytochrome P450 2C19 enzyme in the liver and has a biological half-life of about two hours. Carisoprodol and its metabolites are excreted by the kidneys in urine.\n\n[[File:Meprobamate.png|300px|thumbnail|center|Carisoprodol is a prodrug to meprobamate (pictured). ]]\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug has the potential to be extremely sedating and often results in an overwhelmingly lethargic state. However, unlike [[benzodiazepines]], carisoprodol causes direct GABA-A agonism at higher doses, resulting in more significant sedation in comparison. It can be described as more akin to [[barbiturates]].\n*'''[[Effect::Motor control loss]]''' \n*'''[[Effect::Muscle relaxation]]\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Respiratory depression]] \n*'''[[Effect::Physical euphoria]]''' - This effect generally occurs only at heavier doses, but may be present at lower doses as well. The euphoria felt on carisoprodol is significantly stronger than that felt on [[benzodiazepines]].\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Pain relief]]''' - Compared to other agents such as [[opioid |opioids]], this effect is generally considered to be quite weak.\n\n}}\n\n{{effects/visual|\n*'''[[Effect::Acuity suppression]]''' - Like many [[depressant |depressants]], high doses of carisoprodol may cause blurred vision.\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Compared to most other [[depressants]], this effect is particularly strong.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Language suppression]]''' - At higher doses, carisoprodol is known cause slurred speech.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n\n}}\n}}\n\n===Experience reports===\n{{Experience reports|erowid_experience_substance_label=Pharms - Carisoprodol}}\n\n==Toxicity and harm potential==\nCarisoprodol likely has [[Toxicity::moderate toxicity]] relative to dose. However, carisoprodol is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]]. Carisoprodol has been taken off the market is several countries such as Sweden and Indonesia due to side effects and abuse.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nCarisoprodol is [[Addiction potential::extremely physically and psychologically addictive]]. Carbamate withdrawal, like [[barbiturate]] withdrawal, is medically serious and can potentially cause a life-threatening withdrawal syndrome that can cause [[seizure |seizures]], [[psychosis]], and death. Drugs which lower the seizure threshold such as [[tramadol]] and [[amphetamine]] should be avoided during withdrawal.\n\nTolerance will develop to the sedative-hypnotic effects of carisoprodol after prolonged use. It is unknown exactly how long it takes for tolerance to reach baseline.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\nIn most jurisdictions, carisoprodol is considered a prescription-only and/or controlled drug.\n\n*'''Germany:''' Carisoprodol is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''United States''': In the United States, carisoprodol is a Schedule IV Controlled Substance<ref>DEA Scheduled Drugs | https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf</ref>. Therefore, it is prescription-only and anyone caught in possession of the substance with or without intent to distribute is punishable by law.\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Carisoprodol Carisoprodol (Wikipedia)]\n*[https://www.erowid.org/pharms/carisoprodol/ Carisoprodol (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3979 Carisoprodol (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:1,3-Propanediol dicarbamate]]\n[[Category:Prodrug]]"
+}

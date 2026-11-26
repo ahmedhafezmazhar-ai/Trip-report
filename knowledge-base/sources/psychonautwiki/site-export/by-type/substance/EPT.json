@@ -1,0 +1,545 @@
+{
+ "id": "psychonautwiki:14860",
+ "type": "substance",
+ "title": "EPT",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/EPT",
+  "pageid": 14860,
+  "last_edited": "2022-06-30T05:07:26Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Article without enough references",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Italian-language sources (it)",
+  "Hallucinogen",
+  "Psychedelic",
+  "Psychoactive substance",
+  "Research chemical",
+  "Substance",
+  "Tryptamine"
+ ],
+ "substance_box_template": "SubstanceBox/EPT",
+ "substance_box": {
+  "names": {
+   "common": "EPT",
+   "substitutive": "N-Ethyl-N-propyltryptamine",
+   "systematic": "3-[2-(Ethyl(propyl)amino)ethyl]-1H-indole"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "20 - 40 mg",
+    "common": "40 - 80 mg",
+    "strong": "80 - 110 mg",
+    "heavy": "110 mg +",
+    "duration": "2 - 4 hours",
+    "onset": "5 - 20 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "1 - 3 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "20 - 25 mg",
+    "light": "25 - 50 mg",
+    "common": "50 - 150 mg",
+    "strong": "150 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "6 - 10 hours",
+    "onset": "15 - 60 minutes",
+    "peak": "4 - 8 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "1 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "EPT"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "Chemical class": [
+    "Tryptamine"
+   ],
+   "Insufflated min light dose": [
+    "20"
+   ],
+   "Insufflated max light dose": [
+    "40"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min common dose": [
+    "40"
+   ],
+   "Insufflated max common dose": [
+    "80"
+   ],
+   "Insufflated min strong dose": [
+    "80"
+   ],
+   "Insufflated max strong dose": [
+    "110"
+   ],
+   "Insufflated heavy dose": [
+    "110"
+   ],
+   "Insufflated min total time": [
+    "2"
+   ],
+   "Insufflated max total time": [
+    "4"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "5"
+   ],
+   "Insufflated max onset time": [
+    "20"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "3"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Oral threshold dose": [
+    "20"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "25"
+   ],
+   "Oral max light dose": [
+    "50"
+   ],
+   "Oral min common dose": [
+    "50"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    ""
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "4"
+   ],
+   "Oral max peak time": [
+    "8"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of EPT",
+   "clean": "Molecular structure of EPT"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:EPT.svg",
+   "clean": "File:EPT.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::EPT]]",
+   "clean": "EPT"
+  },
+  "NameSubstitution": {
+   "raw": "N-Ethyl-N-propyltryptamine",
+   "clean": "N-Ethyl-N-propyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "3-[2-(Ethyl(propyl)amino)ethyl]-1H-indole",
+   "clean": "3-[2-(Ethyl(propyl)amino)ethyl]-1H-indole"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::20]] - [[Insufflated max light dose::40]] [[Insufflated dose units::mg]]",
+   "clean": "20 - 40 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::40]] - [[Insufflated max common dose::80]] mg",
+   "clean": "40 - 80 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::80]] - [[Insufflated max strong dose::110]] mg",
+   "clean": "80 - 110 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::110]] mg +",
+   "clean": "110 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::2]] - [[Insufflated max total time::4]] [[Insufflated total time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::5]] - [[Insufflated max onset time::20]] [[Insufflated onset time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::3]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::20]] - 25 [[Oral dose units::mg]]",
+   "clean": "20 - 25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::150]] mg",
+   "clean": "50 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::300]] mg",
+   "clean": "150 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::]]  300 mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::4]] - [[Oral max peak time::8]] [[Oral peak time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 24 hours"
+  }
+ },
+ "plain_text": "N-Ethyl-N-propyltryptamine (also known as Ethylpropyltryptamine and EPT) is an obscure novel psychedelic substance of the tryptamine class. EPT is chemically related to DMT and belongs to a series of psychedelic compounds known as unsubstituted tryptamines. \n\nThe original synthesis date of EPT is unknown. It first appeared for sale on the online research chemical market in 2016. Unlike most research chemicals, EPT has no documentation in the scientific literature. It appears to be an entirely novel product of clandestine drug design. \n\nInitial reports describe the effects of EPT as mild and indistinct compared to structurally similar base tryptamines such as DMT, DET and DPT, all of which are highly powerful psychedelics. Of these, it is reported to be most similar to DPT, albeit less potent and with a less immersive headspace. \n\nVirtually no data exists about the pharmacological properties, metabolism, and toxicity of EPT. It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nEPT, or N-ethyl-N-propyltryptamine, is a synthetic indole molecule of the tryptamine chemical class. Tryptamines share a core structure comprised of a bicyclic indole heterocycle attached at R3 to an amino group via an ethyl side chain. EPT features one propyl and one ethyl groups bound to the terminal amine RN of its tryptamine backbone. EPT is the N-ethyl analog of DPT and the N-propyl analog of DET. It is also an analog of 4-HO-EPT and 4-AcO-EPT.\n\nEPT is a unsubstituted tryptamine that is chemically related to DMT. The original synthesis date of EPT is unknown. It first appeared for sale on the online research chemical market in 2016. Unlike most research chemicals, EPT has no documentation in the scientific literature. It appears to be an entirely novel product of clandestine drug design. Ept is usually sold in its ethylpropyltryptamine fumarate form rather than the traditional HCl form that other tryptamines might be sold as.\n\nUnfortunately, virtually no data exists about the metabolism and potential toxicity of EPT.\n\nPharmacology\n\nLike with most psychedelic tryptamines, EPT is thought to act principally as a 5-HT2A partial agonist. The psychedelic effects are believed to come from EPT's binding efficacy at the 5-HT2A receptors. Most serotonergic psychedelic tryptamines have a very strong structural similarities to serotonin itself, which partially explains the affinity for certain 5-HT sites. It is almost unanimously agreed that most serotonergic psychedelics - such as EPT - produce their effect by acting as strong partial agonists at the 5-HT2A receptors. \n\nSubjective effects\n\nThe effects of EPT have not been researched as well as many other tryptamines. The following effects are drawn from a relatively limited sample size. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: EPT\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational EPT use have not been studied in any scientific context and the exact toxic dose is unknown. This is because EPT is a research chemical with a very limited history of human usage. \n\nAnecdotal evidence suggests that there are no negative health effects attributed to simply trying EPT by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAnecdotal reports suggest that EPT does not produce dependence and has low abuse potential. It is believed to be similar in this respect to other unsubstituted tryptamines like DMT, DET, and MET.\n\nUnlike DMT, tolerance to the effects of EPT appears to form almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). EPT produces cross-tolerance with all psychedelics, meaning that after the consumption of EPT all psychedelics will have a reduced effect.\n\nLegal status\n\nDue to its relative obscurity, the possession and sale of EPT is unscheduled in most countries. \n\n*Germany: EPT is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Switzerland: EPT is not controlled under Buchstabe A, B, C and D. It could be considered legal.\n*United Kingdom: EPT is a Class A controlled substance in the United Kingdom as a result of the tryptamine catch-all clause.\n*United States: EPT is unscheduled in the United States. It may be considered an analogue of DMT, which is a Schedule I compound under the Controlled Substances Act. As such, the sale for human consumption or the use for illicit non-medical or industrial intents and purposes could be prosecuted as crimes under the Federal Analogue Act.\n*Italy: EPT is a Schedule 1 controlled substance.\n\nSee also\n\n*Responsible use\n*Research chemical\n*Psychedelic\n*Tryptamine\n*DPT\n*4-AcO-EPT\n*4-HO-EPT\n\nExternal links\n\n*Ethylpropyltryptamine (Wikipedia)\n*EPT (Isomer Design)\n\nDiscussion\n\n*The Small & Handy EPT Thread (Bluelight)\n\nReferences\n\nCategory:Substance\nCategory:Psychoactive substance\nCategory:Hallucinogen\nCategory:Psychedelic\nCategory:Tryptamine\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/EPT}}\n\n'''N-Ethyl-N-propyltryptamine''' (also known as '''Ethylpropyltryptamine''' and '''EPT''') is an obscure novel [[psychoactive class::psychedelic]] substance of the [[chemical class::tryptamine]] class. EPT is chemically related to [[DMT]] and belongs to a series of psychedelic compounds known as unsubstituted tryptamines. \n\nThe original synthesis date of EPT is unknown. It first appeared for sale on the online [[research chemical]] market in 2016. Unlike most research chemicals, EPT has no documentation in the scientific literature. It appears to be an entirely novel product of clandestine drug design. \n\nInitial reports describe the effects of EPT as mild and indistinct compared to structurally similar base tryptamines such as [[DMT]], [[DET]] and [[DPT]], all of which are highly powerful psychedelics. Of these, it is reported to be most similar to [[DPT]], albeit less potent and with a less immersive headspace. \n\nVirtually no data exists about the pharmacological properties, metabolism, and toxicity of EPT.{{citation needed}} It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nEPT, or N-ethyl-N-propyltryptamine, is a synthetic indole molecule of the tryptamine chemical class. Tryptamines share a core structure comprised of a bicyclic indole heterocycle attached at R<sub>3</sub> to an amino group via an ethyl side chain. EPT features one propyl and one ethyl groups bound to the terminal amine R<sub>N</sub> of its tryptamine backbone. EPT is the N-ethyl analog of [[DPT]] and the N-propyl analog of [[DET]]. It is also an analog of [[4-HO-EPT]] and [[4-AcO-EPT]].\n\nEPT is a unsubstituted tryptamine that is chemically related to DMT. The original synthesis date of EPT is unknown. It first appeared for sale on the online research chemical market in 2016. Unlike most research chemicals, EPT has no documentation in the scientific literature. It appears to be an entirely novel product of clandestine drug design. Ept is usually sold in its ethylpropyltryptamine fumarate form rather than the traditional HCl form that other tryptamines might be sold as.\n\nUnfortunately, virtually no data exists about the metabolism and potential toxicity of EPT.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nLike with most [[psychedelic]] tryptamines, EPT is thought to act principally as a [[Serotonin#The_5-HT_system|5-HT<sub>2A</sub>]] [[Agonist#Agonists|partial agonist]]. The psychedelic effects are believed to come from EPT's binding efficacy at the 5-HT<sub>2A</sub> receptors. Most serotonergic psychedelic tryptamines have a very strong structural similarities to serotonin itself, which partially explains the affinity for certain 5-HT sites. It is almost unanimously agreed that most serotonergic psychedelics - such as EPT - produce their effect by acting as strong partial [[agonists]] at the 5-HT<sub>2A</sub> receptors. \n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\nThe effects of EPT have not been researched as well as many other tryptamines. The following effects are drawn from a relatively limited sample size. \n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]'''\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n\n}}\n{{effects/visual|\n\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n\n====Distortions====\n*'''[[Effect::Diffraction]]'''\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])''\n*'''[[Effect::Object alteration]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n\n====[[Geometry]]====\n\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]'''\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Memory suppression]]'''\n*'''[[Effect::Personal bias suppression]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Time distortion]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory enhancement]]''' \n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:EPT]][[Category:Experience]]|format=ul|Columns=1}}\n\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_EPT.shtml Erowid Experience Vaults: EPT]\n\n==Toxicity and harm potential==\n{{further|Research chemicals#Toxicity and harm potential|Responsible use #Hallucinogens}}\nThe toxicity and long-term health effects of recreational EPT use have not been studied in any scientific context and the exact [[Toxicity::toxic dose is unknown]]. This is because EPT is a [[research chemical]] with a very limited history of human usage. \n\nAnecdotal evidence suggests that there are no negative health effects attributed to simply trying EPT by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAnecdotal reports suggest that EPT [[Addiction potential::does not produce dependence and has low abuse potential]]. It is believed to be similar in this respect to other unsubstituted tryptamines like [[DMT]], [[DET]], and [[MET]].\n\nUnlike DMT, tolerance to the effects of EPT appears to form [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to half tolerance::3 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::7 days]] to be back at baseline (in the absence of further consumption). EPT produces cross-tolerance with [[Cross-tolerance::all [[psychedelic]]s]], meaning that after the consumption of EPT all psychedelics will have a reduced effect.\n\n==Legal status==\n{{legalStub}}\nDue to its relative obscurity, the possession and sale of EPT is unscheduled in most countries. \n\n*'''Germany''': EPT is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Switzerland''': EPT is not controlled under Buchstabe A, B, C and D. It could be considered legal.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': EPT is a Class A controlled substance in the United Kingdom as a result of the tryptamine catch-all clause.<ref>{{cite web|title=Part I: Class A Drugs|url=http://www.legislation.gov.uk/ukpga/1971/38/schedule/2/part/I|work=\"Misuse of Drugs Act 1971\"|access-date=January 7, 2020|publisher=UK Government}}</ref>\n*'''United States''': EPT is unscheduled in the United States. It may be considered an analogue of [[DMT]], which is a Schedule I compound under the Controlled Substances Act. As such, the sale for human consumption or the use for illicit non-medical or industrial intents and purposes could be prosecuted as crimes under the Federal Analogue Act.{{citation needed}}\n*'''Italy''': EPT is a Schedule 1 controlled substance.<ref>{{Citation | title=Tabella 1 | publisher=Ministero della Salute (Ministry of Health) |language=italian |url=http://www.salute.gov.it/imgs/C_17_pagineAree_3729_0_file.pdf | access-date=24 November 2020}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Research chemical]]\n*[[Psychedelic]]\n*[[Tryptamine]]\n*[[DPT]]\n*[[4-AcO-EPT]]\n*[[4-HO-EPT]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Ethylpropyltryptamine Ethylpropyltryptamine (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=5075 EPT (Isomer Design)]\n\n===Discussion===\n\n*[https://www.bluelight.org/xf/threads/856610 The Small & Handy EPT Thread (Bluelight)]\n\n==References==\n{{references}}\n<references />\n\n[[Category:Substance]]\n[[Category:Psychoactive substance]]\n[[Category:Hallucinogen]]\n[[Category:Psychedelic]]\n[[Category:Tryptamine]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

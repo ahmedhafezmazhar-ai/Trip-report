@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:24358",
+ "type": "preparation",
+ "title": "Atropine extraction from Atropa bella-donna",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Atropine_extraction_from_Atropa_bella-donna",
+  "pageid": 24358,
+  "last_edited": "2025-06-30T14:45:21Z"
+ },
+ "categories": [
+  "Chemical synthesis"
+ ],
+ "plain_text": "Legality\n\nAtropine is more widely used medically than scopolamine and is included in the WHO Model List of Essential Medicines. Additionally, Atropa bella-donna is the most widely naturalized and commonly found wild among tropane alkaloid–producing Solanaceae plants in many regions worldwide.\n\nRecipie\n\nThe extraction process requires the use of advanced laboratory equipment to ensure both effectiveness and safety. Atropa bella-donna primarily contains atropine, but also significant amounts of other tropane alkaloids, including hyoscyamine and scopolamine. It is challenging to selectively isolate atropine from scopolamine and hyoscyamine due to their similar chemical properties.\n\n* Optimization of Atropine Extraction Process from Atropa Belladonna by Modified Bubble Column Extractor with Ultrasonic Bath\n\ncategory:Chemical synthesis",
+ "wikitext": "{{GenericPanel/warning\n| title=Advanced equipment required for extraction & extreme toxicity\n| content=The extraction process requires the use of advanced laboratory equipment and should only be performed by individuals with appropriate training. Always wear protective gloves and eye protection when handling Atropa bella-donna extracts. The concentrated toxins can be absorbed through the skin or mucous membranes. After handling, wash thoroughly and avoid any contact with your face, mouth, or eyes. Store all extracts in tightly sealed, clearly labeled containers in a secure location, accessible only to trained individuals.\n}}\n\n==Legality==\n{{Disclaimer}}\n\nAtropine is more widely used medically than scopolamine and is included in the WHO Model List of Essential Medicines. Additionally, ''Atropa bella-donna'' is the most widely naturalized and commonly found wild among tropane alkaloid–producing Solanaceae plants in many regions worldwide.\n\n==Recipie==\nThe extraction process requires the use of advanced laboratory equipment to ensure both effectiveness and safety. Atropa bella-donna primarily contains atropine, but also significant amounts of other tropane alkaloids, including hyoscyamine and scopolamine. It is challenging to selectively isolate atropine from scopolamine and hyoscyamine due to their similar chemical properties.\n\n* [https://www.ijcce.ac.ir/article_23556_aa1a2e2fdefcbca0fe2cd7d30a04a949.pdf Optimization of Atropine Extraction Process from Atropa Belladonna by Modified Bubble Column Extractor with Ultrasonic Bath]\n\n[[category:Chemical synthesis]]"
+}

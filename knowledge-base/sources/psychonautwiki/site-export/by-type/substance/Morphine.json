@@ -1,0 +1,665 @@
+{
+ "id": "psychonautwiki:10795",
+ "type": "substance",
+ "title": "Morphine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Morphine",
+  "pageid": 10795,
+  "last_edited": "2025-11-29T03:53:29Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "Morphinan",
+  "Opioid"
+ ],
+ "substance_box_template": "SubstanceBox/Morphine",
+ "substance_box": {
+  "names": {
+   "common": "Morphine, MS-Contin, Oramorph, Zomorph, Sevredol, Duramorph",
+   "substitutive": "Morphine",
+   "systematic": "(5α,6α)-7,8-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "35% - 40%",
+    "threshold": "< 10 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "10 - 30 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "12h",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "50% - 70%",
+    "threshold": "< 10 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 45 mg",
+    "heavy": "45 mg +",
+    "duration": "3 - 5 hours",
+    "onset": "1 - 5 minutes",
+    "comeup": "10 - 60 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "1.5 - 1.5 hours",
+    "aftereffects": "12h",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "100%",
+    "threshold": "< 3.33 mg",
+    "light": "3.33 - 5 mg",
+    "common": "5 - 7.5 mg",
+    "strong": "7.5 - 10 mg",
+    "heavy": "10 mg +",
+    "duration": "4 - 5 hours",
+    "onset": "0 - 30 seconds",
+    "comeup": "2 - 5 minutes",
+    "peak": "1.5 - 2.5 hours",
+    "offset": "60 - 90 minutes",
+    "aftereffects": "12h",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Morphine",
+    "MS-Contin",
+    "Oramorph",
+    "Zomorph",
+    "Sevredol",
+    "Duramorph"
+   ],
+   "Oral min bioavailability": [
+    "35"
+   ],
+   "Oral max bioavailability": [
+    "40"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "30"
+   ],
+   "Oral min strong dose": [
+    "30"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "20"
+   ],
+   "Oral max comeup time": [
+    "40"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Rectal min bioavailability": [
+    "50"
+   ],
+   "Rectal max bioavailability": [
+    "70"
+   ],
+   "Rectal threshold dose": [
+    "10"
+   ],
+   "Rectal dose units": [
+    "mg"
+   ],
+   "Rectal min light dose": [
+    "10"
+   ],
+   "Rectal max light dose": [
+    "15"
+   ],
+   "Rectal min common dose": [
+    "15"
+   ],
+   "Rectal max common dose": [
+    "30"
+   ],
+   "Rectal min strong dose": [
+    "30"
+   ],
+   "Rectal max strong dose": [
+    "45"
+   ],
+   "Rectal heavy dose": [
+    "45"
+   ],
+   "Rectal min total time": [
+    "3"
+   ],
+   "Rectal max total time": [
+    "5"
+   ],
+   "Rectal total time units": [
+    "hours"
+   ],
+   "Rectal min onset time": [
+    "1"
+   ],
+   "Rectal max onset time": [
+    "5"
+   ],
+   "Rectal onset time units": [
+    "minutes"
+   ],
+   "Rectal min comeup time": [
+    "10"
+   ],
+   "Rectal max comeup time": [
+    "60"
+   ],
+   "Rectal comeup time units": [
+    "minutes"
+   ],
+   "Rectal min peak time": [
+    "1.5"
+   ],
+   "Rectal max peak time": [
+    "2.5"
+   ],
+   "Rectal peak time units": [
+    "hours"
+   ],
+   "Rectal min offset time": [
+    "1.5"
+   ],
+   "Rectal max offset time": [
+    "1.5"
+   ],
+   "Rectal offset time units": [
+    "hours"
+   ],
+   "Intravenous threshold dose": [
+    "3.33"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "3.33"
+   ],
+   "Intravenous max light dose": [
+    "5"
+   ],
+   "Intravenous min common dose": [
+    "5"
+   ],
+   "Intravenous max common dose": [
+    "7.5"
+   ],
+   "Intravenous min strong dose": [
+    "7.5"
+   ],
+   "Intravenous max strong dose": [
+    "10"
+   ],
+   "Intravenous heavy dose": [
+    "10"
+   ],
+   "Intravenous min total time": [
+    "4"
+   ],
+   "Intravenous max total time": [
+    "5"
+   ],
+   "Intravenous total time units": [
+    "hours"
+   ],
+   "Intravenous min onset time": [
+    "0"
+   ],
+   "Intravenous max onset time": [
+    "30"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "2"
+   ],
+   "Intravenous max comeup time": [
+    "5"
+   ],
+   "Intravenous comeup time units": [
+    "minutes"
+   ],
+   "Intravenous min peak time": [
+    "1.5"
+   ],
+   "Intravenous max peak time": [
+    "2.5"
+   ],
+   "Intravenous peak time units": [
+    "hours"
+   ],
+   "Intravenous min offset time": [
+    "60"
+   ],
+   "Intravenous max offset time": [
+    "90"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Morphine",
+   "clean": "Molecular structure of Morphine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Morphine.svg",
+   "clean": "File:Morphine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Morphine]], [[common name::MS-Contin]], [[common name::Oramorph]], [[common name::Zomorph]], [[common name::Sevredol]], [[common name::Duramorph]]",
+   "clean": "Morphine, MS-Contin, Oramorph, Zomorph, Sevredol, Duramorph"
+  },
+  "NameSubstitution": {
+   "raw": "Morphine",
+   "clean": "Morphine"
+  },
+  "NameSystematic": {
+   "raw": "(5α,6α)-7,8-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol",
+   "clean": "(5α,6α)-7,8-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol"
+  },
+  "EffectClass": {
+   "raw": "[[Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::35]]% - [[Oral max bioavailability::40]]%",
+   "clean": "35% - 40%"
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "< 10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::30]] - [[Oral max strong dose::60]] mg",
+   "clean": "30 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::20]] - [[Oral max comeup time::40]] [[Oral comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "12h",
+   "clean": "12h"
+  },
+  "RectalROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "[[Rectal min bioavailability::50]]% - [[Rectal max bioavailability::70]]%",
+   "clean": "50% - 70%"
+  },
+  "RectalROA_Threshold": {
+   "raw": "< [[Rectal threshold dose::10]] [[Rectal dose units::mg]]",
+   "clean": "< 10 mg"
+  },
+  "RectalROA_Light": {
+   "raw": "[[Rectal min light dose::10]] - [[Rectal max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "RectalROA_Common": {
+   "raw": "[[Rectal min common dose::15]] - [[Rectal max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "[[Rectal min strong dose::30]] - [[Rectal max strong dose::45]] mg",
+   "clean": "30 - 45 mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": "[[Rectal heavy dose::45]] mg +",
+   "clean": "45 mg +"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "[[Rectal min total time::3]] - [[Rectal max total time::5]] [[Rectal total time units::hours]]",
+   "clean": "3 - 5 hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "[[Rectal min onset time::1]] - [[Rectal max onset time::5]] [[Rectal onset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "RectalROA_Comeup": {
+   "raw": "[[Rectal min comeup time::10]] - [[Rectal max comeup time::60]] [[Rectal comeup time units::minutes]]",
+   "clean": "10 - 60 minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "[[Rectal min peak time::1.5]] - [[Rectal max peak time::2.5]] [[Rectal peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "[[Rectal min offset time::1.5]] - [[Rectal max offset time::1.5]] [[Rectal offset time units::hours]]",
+   "clean": "1.5 - 1.5 hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "12h",
+   "clean": "12h"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "100%",
+   "clean": "100%"
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< [[Intravenous threshold dose::3.33]] [[Intravenous dose units::mg]]",
+   "clean": "< 3.33 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::3.33]] - [[Intravenous max light dose::5]] mg",
+   "clean": "3.33 - 5 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::5]] - [[Intravenous max common dose::7.5]] mg",
+   "clean": "5 - 7.5 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::7.5]] - [[Intravenous max strong dose::10]] mg",
+   "clean": "7.5 - 10 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::10]] mg + <ref name=\"Medsafe\">\"{{Citation | title=Medsafe | url=https://www.medsafe.govt.nz/profs/datasheet/m/morphinesulphateinjbiomed.pdf}}</ref> <ref name=\"FDA\">\"{{Citation | title=FDA | url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/202515s000lbl.pdf}}</ref> <ref name=\"South Australian Neonatal Medication Guidelines\">\"{{Citation | title=South Australian Neonatal Medication Guidelines | url=https://www.sahealth.sa.gov.au/wps/wcm/connect/4f1073004cd7e4b4ba11baa496684d9f/Morphine_Neo_v4_4.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-4f1073004cd7e4b4ba11baa496684d9f-p4cjAwk}}</ref> <ref name=\"Pfizer\">\"{{Citation | title=Pfizer | url=https://www.pfizermedicalinformation.com/morphine-1/dosage-admin}}</ref>",
+   "clean": "10 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::4]] - [[Intravenous max total time::5]] [[Intravenous total time units::hours]]",
+   "clean": "4 - 5 hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::0]] - [[Intravenous max onset time::30]] [[Intravenous onset time units::seconds]]",
+   "clean": "0 - 30 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::2]] - [[Intravenous max comeup time::5]] [[Intravenous comeup time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::1.5]] - [[Intravenous max peak time::2.5]] [[Intravenous peak time units::hours]]",
+   "clean": "1.5 - 2.5 hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::60]] - [[Intravenous max offset time::90]] [[Intravenous offset time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "12h",
+   "clean": "12h"
+  }
+ },
+ "plain_text": "Morphine is a naturally-occurring opioid substance of the morphinan class. It is one of the natural plant alkaloids found in opium, along side codeine which is extracted from Papaver somniferum (also known as the poppy plant). Additionally, it is considered to be the prototype opiate (i.e. the standard to which others are compared) and the basis of derivatives such as codeine, diacetylmorphine (heroin), and hydrocodone. \n\nMorphine was first isolated from opium in 1806 by Friedrich Sertürner, a German pharmacist's assistant.\n\nSubjective effects include sedation, pain relief, cough suppression, and euphoria. Morphine has potentially serious side effects such as respiratory depression and low blood pressure, which can be fatal when it is mixed with other depressants. Other side effects of morphine include drowsiness, vomiting, and constipation. \n\nthumbnail|200px|The primary source of morphine is isolation from poppy straw of the opium poppy.\n\nMorphine can be administered orally, intramuscularly, subcutaneously, intravenously, into the space around the spinal cord, or rectally. It reaches its maximum effect in around 20 min when given intravenously and 60 min when given orally while the duration of effect is between three and seven hours. Long-acting formulations also exist such as, Kadian which is capable of producing clinically significant effects for upwards of 24 hours. \n\nMorphine is widely recognized to have significant abuse potential. In addition to the risk of fatal overdose from single use, the chronic use of morphine is associated with escalating tolerance, physical and psychological dependence which may bring significant harm to the user. It is highly advised to use harm reduction practices if using this substance. \n\nHistory and culture\n\nMorphine was first isolated in 1806 by German pharmacist's assistant, Friedrich Sertürner.\nIn Sertürner's, over 50 experiments he believed he had isolated the primary active ingredient in opium. This is generally believed to be the first isolation of an active ingredient from a plant. The active ingredient, was found to be 10 times as potent as opium. Sertürner originally named the substance morphium after the Greek god of dreams, Morpheus, for its tendency to cause sleep. Merck began marketing it commercially in 1827. Morphine's clinical significance was not recognized by the greater medical community until 1831, when Sertürner was recognized for his contribution and granted the French equivalent of the Nobel Prize. Other alkaloids were later identified from the opium plant, one of these thirty such alkaloids later became codeine. Codeine from the ancient Greek, κώδεια, means cup shaped like a poppyhead. Morphine use was spearheaded by Dr. Alexander Wood's invention the hypodermic syringe in 1853. However, it wasn't until the American Civil War in 1861, the Prussian-Austrian War in 1866, and the Franco-Prussian War of 1870 that morphine saw widespread use as part of military medicine. It wasn't until after these military conflicts that morphine habituation gained a reputation as the \"soldier's disease\" or the  \"army disease\". With the addictive and habit forming properties of morphine now known the medical establishment was on the lookout for a less addictive alternative to morphine. This came in the form of diacetylmorphine or as it was later marketed, Heroin. Although it was later learned that heroin was not less addictive than codeine and in fact the contrary. The first chemical structure of morphine was proposed by Robinson and colleagues in 1923 then confirmed in 1927. The total chemical synthesis of morphine occurred in 1952 by Gates and Tschudi.\n\nThe primary source of morphine is isolated from the poppy straw of the opium poppy. In 2013 an estimated 523,000 kilograms of morphine were produced. About 45,000 kilograms were used directly for pain, an increase over the last twenty years of four times. Most use for this purpose was in the developed world. About 70% of morphine is used to make other opioids such as hydromorphone, oxycodone and heroin.\n\nChemistry\n\nMorphine, a benzylisoquinoline alkaloid, is an opiate of the morphinan class. Morphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R9 and R13 with the nitrogen member looking at R17 of the combined structure. This structure is called morphinan. \n\nMorphine (along with other morphinans) contain an ether bridge between two of its rings, connecting R4 and R5 through an oxygen group. It contains two hydroxy groups (OH-), bound at R6 and R3, and a methyl group located on the nitrogen atom at R17. \n\nMorphine is a precursor for many morphinan drugs, it is used to synthesize codeine through methylation of its R3 hydroxy group, and heroin through acetylation. Other closely related opioids include hydrocodone, oxycodone, and dihydrocodeine. The chemical structure of morphine is the basis of hundreds of opioid derivatives with a wide range of effects.\n\nPharmacology\n\nMorphine exerts its effects by binding to and activating three known opioid receptors including: the κ-opioid (KOP), μ-opioid (MOP), and δ-opioid (DOP) receptors as an agonist. This occurs due to the way in which opioids functionally mimic the body's natural endorphins. Endorphins are responsible for analgesia (pain reduction), sleepiness, and feelings of pleasure and enjoyment. They are believed to be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's euphoric, analgesic (pain relief), and anxiolytic (anti-anxiety) effects.\n\nMorphine is produced by the human body in small amounts and acts as an immunomodulator. Endogenous morphine binds preferentially to the μ3 opioid receptor.\n\nMorphine along with hydromorphone and oxymorphone experience minimal CYP450 metabolism and are instead metabolized primarily by the UDP-glucuronosyltransferases (UGTs), specifically the UG2B7 isozyme. About 90% of Morphine is converted into metabolites, primarily into the glucuronide conjugates morphine-3-glucuronide (M3G) (45-55%) and morphine-6-glucuronide (M6G) (10-15%). Of these two M3G has a low affinity for the opioid receptors and no analgesic activity. M6G binds to the same receptor sites as morphine, but has a greater affinity and greater potency.\n\nBinding affinities of morphine (Ki)\n\nA lower Ki, indicates a greater binding affinity for the receptor.\n\n*Mu opioid agonist - 4.9 nM\n*Kappa opioid agonist - 206 nM\n*Delta opioid agonist - 273 nM\n\nIntranasal potentiation\n\nDespite morphine's usually low intranasal bioavailability (~10-15%), it has been shown that it can be raised to around 60% when the drug is mixed with chitosan, a common dietary supplement, at a weight ratio of approximately 5:1 (chitosan:morphine), making it comparable to rectal administration. The increased bioavailability of this method is believed to be due to chitosan's bioadhesive properties.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Morphine\n\nToxicity and harm potential\n\nLike most opioids, unadulterated morphine does not cause many long-term complications other than dependence and constipation. Outside of the extremely powerful addiction and physical dependence, the harmful or toxic aspects of morphine usage are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing and using impure products. \n\nHeavy dosages of morphine can result in respiratory depression, leading onto fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by agonism of µ-opioid receptors proportional to the dosage consumed. \n\nMorphine can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the recovery position). \n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nDependence and abuse potential\n\nAs with other opiate-based painkillers, the chronic use of morphine can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of morphine develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. Morphine presents cross-tolerance with all other opioids, meaning that after the consumption of morphine all opioids will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.\n\nDangerous interactions\n\nMorphine is dangerous to use in combination with other depressants as many fatalities reported as overdoses are caused by interactions with other depressant drugs like alcohol or benzodiazepines, resulting in dangerously high levels of respiratory depression.\n\nLegal status\n\nInternationally, morphine is a Schedule I drug under the Single Convention on Narcotic Drugs. It is on the WHO Model List of Essential Medicines, a list of the most important medications needed in a basic health system.\n\n*Australia: Morphine is classified as a Schedule 8 drug under the variously titled State and Territory Poisons Acts.\n*Austria: Morphine is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Canada: Morphine is classified as a Schedule I drug under the Controlled Drugs and Substances Act.\n*France: Morphine is in the strictest schedule of controlled substances, based upon the December 1970 French controlled substances law.\n*Germany: Morphine is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.\n*Japan: Morphine is classified as a narcotic under the Narcotic and Psychotropic Drugs Control Act (麻薬及び向精神薬取締法).\n*Netherlands: Morphine is classified as a List 1 drug under the Opium Law.\n*Russia: Morphine is a Schedule II controlled substance.\n*Sweden: Morphine is legal for medical use and is a controlled substance.\n*Switzerland: Morphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*Turkey: Morphine is a 'red prescription' only substance and illegal when sold or possessed without a prescription.\n*United Kingdom: Morphine is listed as a Class A drug under the Misuse of Drugs Act 1971 and a Schedule 2 Controlled Drug under the Misuse of Drugs Regulations 2001.\n*United States: Morphine is classified as a Schedule II controlled substance under the Controlled Substances Act with a main Administrative Controlled Substances Code Number (ACSCN) of ACSCN 9300. Morphine pharmaceuticals in the US are subject to annual manufacturing quotas; morphine production for use in extremely dilute formulations and its production as an intermediate, or chemical precursor, for conversion into other drugs is excluded from the US manufacturing quota.\n\nSee also\n\n*Responsible use\n*Opioids\n*Codeine\n*Heroin\n*Naloxone\n\nExternal links\n\n*Morphine (Wikipedia)\n*Morphine (Erowid Vault)\n*Morphine (Isomer Design)\n*Morphine (DrugBank)\n*Morphine (Drugs.com)\n*Morphine (Drugs-Forum)\n\nLiterature\n\n*Schmidt, H., Vormfelde, S. V., Klinder, K., Gundert-Remy, U., Gleiter, C. H., Skopp, G., Aderjan, R. and Fuhr, U. (2002), Affinities of Dihydrocodeine and its Metabolites to Opioid Receptors. Pharmacology & Toxicology, 91: 57–63.  https://doi.org/10.1034/j.1600-0773.2002.910203.x\n*Koch T, Höllt V (2008). Role of receptor internalization in opioid tolerance and dependence. Pharmacol. Ther. 117 (2): 199–206. https://doi.org/10.1016/j.pharmthera.2007.10.003\n*Pert, C. B., Pasternak, G., & Snyder, S. H. (1973). Opiate Agonists and Antagonists Discriminated by Receptor Binding in Brain. Science, 182(4119), 1359-1361. https://doi.org/10.1126/science.182.4119.1359\n*Friswell J, Phillips C, Holding J, Morgan CJ, Brandner B, Curran HV (2008). Acute effects of opioids on memory functions of healthy men and women. Psychopharmacology (Berl.). 198 (2): 243–50. https://doi.org/10.1007/s00213-008-1123-x.\n*Stefano GB, Ptáček R, Kuželová H, Kream RM (2012). Endogenous morphine: up-to-date review (2011). Folia Biol. (Praha). 58 (2): 49–56. PMID 22578954. Positive evolutionary pressure has apparently preserved the ability to synthesize chemically authentic morphine, albeit in homeopathic concentrations, throughout animal phyla.\n\nReferences\n\nCategory:Alkaloid\nCategory:Morphinan\nCategory:Benzofuran\nCategory:Opioid",
+ "wikitext": "{{headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Morphine}}\n'''Morphine''' is a [[naturally-occurring]] [[psychoactive class::opioid]] substance of the [[chemical class::morphinan]] class. It is one of the natural plant [[alkaloids]] found in [[opium]], along side [[codeine]] which is extracted from ''[[Papaver somniferum]]'' (also known as the poppy plant).<ref>{{cite journal | vauthors=((Dicpinigaitis, P. V.)), ((Morice, A. H.)), ((Birring, S. S.)), ((McGarvey, L.)), ((Smith, J. A.)), ((Canning, B. J.)), ((Page, C. P.)) | veditors=((Sibley, D. R.)) | journal=Pharmacological Reviews | title=Antitussive Drugs—Past, Present, and Future | volume=66 | issue=2 | pages=468–512 | date= April 2014 | url=http://pharmrev.aspetjournals.org/lookup/doi/10.1124/pr.111.005116 | issn=0031-6997 | doi=10.1124/pr.111.005116}}</ref> Additionally, it is considered to be the prototype opiate (i.e. the standard to which others are compared) and the basis of derivatives such as [[codeine]], [[diacetylmorphine]] (heroin), and [[hydrocodone]]. \n\nMorphine was first isolated from [[opium]] in 1806 by Friedrich Sertürner, a German pharmacist's assistant.<ref name=\"Sertiirner1806\">Sertiirner FW. Darstellung der reinen Mohnsaure (Opium-\nsaure) nebst einer chemischen Untersuchung des Opiums\nmit vorziiglicher Hinsicht auf einen darin neuen Stoff und\ndie dahin gehoringen Bemerkungen. Trommdorfs J Pharm 1806: 14: 47-93</ref>\n\n[[Subjective effects]] include [[sedation]], [[pain relief]], [[cough suppression]], and [[euphoria]]. Morphine has potentially serious side effects such as [[respiratory depression]] and [[low blood pressure]], which can be fatal when it is mixed with other [[depressants]]. Other side effects of morphine include drowsiness, vomiting, and constipation. \n\n[[File:Slaapbol_R0017600.JPG|thumbnail|200px|The primary source of morphine is isolation from poppy straw of the opium poppy.]]\n\nMorphine can be administered orally, intramuscularly, subcutaneously, intravenously, into the space around the spinal cord, or rectally. It reaches its maximum effect in around 20 min when given intravenously and 60 min when given orally while the duration of effect is between three and seven hours.<ref>Morphine Sulfate | http://www.drugs.com/monograph/morphine-sulfate.html</ref><ref>{{cite book | vauthors=((Beaty, J. H.)), ((Kasser, J. R.)) | date= 2010 | title=Rockwood and Wilkins’ Fractures in Children | publisher=Lippincott Williams & Wilkins | isbn=9781582557847}}</ref> Long-acting formulations also exist such as, Kadian which is capable of producing clinically significant effects for upwards of 24 hours.<ref>Anda Approval Package https://www.accessdata.fda.gov/drugsatfda_docs/anda/2011/200812Orig1s000.pdf</ref><ref>Morphine Sulfate | http://www.drugs.com/monograph/morphine-sulfate.html</ref> \n\nMorphine is widely recognized to have significant abuse potential. In addition to the risk of fatal overdose from single use, the chronic use of morphine is associated with escalating tolerance, physical and psychological dependence which may bring significant harm to the user.{{citation needed}} It is highly advised to use [[harm reduction practices]] if using this substance. \n\n==History and culture==\nMorphine was first isolated in 1806 by German pharmacist's assistant, Friedrich Sertürner.<ref name=\"Sertiirner1806\" />\nIn Sertürner's, over 50 experiments he believed he had isolated the primary active ingredient in [[opium]]. This is generally believed to be the first isolation of an active ingredient from a plant.<ref>{{cite book | vauthors=((Luch, A.)) | date=3 April 2009 | title=Molecular, Clinical and Environmental Toxicology: Volume 1: Molecular Toxicology | publisher=Springer Science & Business Media | isbn=9783764383367}}</ref><ref>{{cite journal | vauthors=((Lugo, R. A.)), ((Kern, S. E.)) | journal=Journal of Pain & Palliative Care Pharmacotherapy | title=Clinical Pharmacokinetics of Morphine | volume=16 | issue=4 | pages=5–18 | date= January 2002 | url=http://www.tandfonline.com/doi/full/10.1080/J354v16n04_02 | issn=1536-0288 | doi=10.1080/J354v16n04_02}}</ref> The active ingredient, was found to be 10 times as potent as [[opium]]. Sertürner originally named the substance ''morphium'' after the Greek god of dreams, Morpheus, for its tendency to cause sleep.<ref name=\"Mosher2013\">{{cite book | vauthors=((Mosher, C. J.)), ((Akins, S. M.)) | date=22 August 2013 | title=Drugs and Drug Policy: The Control of Consciousness Alteration | publisher=SAGE Publications | isbn=9781483321882}}</ref><ref>{{cite book | vauthors=((Fisher, G. L.)), ((Roget, N. A.)) | date=11 November 2008 | title=Encyclopedia of Substance Abuse Prevention, Treatment, and Recovery | publisher=SAGE Publications | isbn=9781452266015}}</ref> Merck began marketing it commercially in 1827.<ref name=\"Courtwright2009\">{{cite book | vauthors=((Courtwright, D. T.)) | date=30 June 2009 | title=Forces of Habit: Drugs and the Making of the Modern World | publisher=Harvard University Press | isbn=9780674029903}}</ref> Morphine's clinical significance was not recognized by the greater medical community until 1831, when Sertürner was recognized for his contribution and granted the French equivalent of the Nobel Prize. Other alkaloids were later identified from the [[opium]] plant, one of these thirty such alkaloids later became [[codeine]]. [[Codeine]] from the ancient Greek, κώδεια, means cup shaped like a poppyhead.<ref>κώδεια Meaning https://www.wordsense.eu/%CE%BA%CF%8E%CE%B4%CE%B5%CE%B9%CE%B1/</ref> Morphine use was spearheaded by Dr. Alexander Wood's invention the hypodermic syringe in 1853.<ref name=\"Courtwright2009\" /><ref name=\"Mosher2013\" /> However, it wasn't until the American Civil War in 1861, the Prussian-Austrian War in 1866, and the Franco-Prussian War of 1870 that morphine saw widespread use as part of [[Military medicine|military medicine]]. It wasn't until after these military conflicts that morphine habituation gained a reputation as the \"soldier's disease\" or the  \"army disease\". With the addictive and habit forming properties of morphine now known the medical establishment was on the lookout for a less addictive alternative to morphine. This came in the form of diacetylmorphine or as it was later marketed, [[Heroin]]. Although it was later learned that [[heroin]] was not less addictive than [[codeine]] and in fact the contrary. The first chemical structure of morphine was proposed by Robinson and colleagues in 1923 then confirmed in 1927.<ref>{{cite journal | vauthors=((Gulland, J. M.)), ((Robinson, R.)) | journal=J. Chem. Soc., Trans. | title=CXII.—The morphine group. Part I. A discussion of the constitutional problem | volume=123 | issue=0 | pages=980–998 | date= 1923 | url=http://xlink.rsc.org/?DOI=CT9232300980 | issn=0368-1645 | doi=10.1039/CT9232300980}}</ref><ref>{{cite journal | vauthors=((Duin, C. F. van)), ((Robinson, R.)), ((Smith, J. C.)) | journal=J. Chem. Soc. | title=CXXV.—The morphine group. Part III. The constitution of neopine | volume=129 | issue=0 | pages=903–908 | date= 1926 | url=http://xlink.rsc.org/?DOI=JR9262900903 | issn=0368-1769 | doi=10.1039/JR9262900903}}</ref><ref>{{cite journal | vauthors=((Schöpf, C.)) | journal=Justus Liebig’s Annalen der Chemie | title=Die Konstitution der Morphiumalkaloide | volume=452 | issue=1 | pages=211–267 | date= 1927 | url=https://onlinelibrary.wiley.com/doi/10.1002/jlac.19274520114 | issn=00754617 | doi=10.1002/jlac.19274520114}}</ref> The total chemical synthesis of morphine occurred in 1952 by Gates and Tschudi.<ref>{{cite journal | vauthors=((Gates, M.)), ((Tschudi, G.)) | journal=Journal of the American Chemical Society | title=The Synthesis of Morphine | volume=78 | issue=7 | pages=1380–1393 | date= April 1956 | url=https://pubs.acs.org/doi/abs/10.1021/ja01588a033 | issn=0002-7863 | doi=10.1021/ja01588a033}}</ref>\n\nThe primary source of morphine is isolated from the poppy straw of the [[Papaver somniferum|opium poppy]].<ref>{{cite book | date= 2008 | title=Narcotic Drugs Estimated World Requirements for 2008, Statistics for 2006. | publisher=United Nations Pubns | isbn=9789210481199}}</ref> In 2013 an estimated 523,000 kilograms of morphine were produced.<ref name=\":1\">Narcotic Drugs Stupéfiants Estupefacientes 2014 | https://www.incb.org/documents/Narcotic-Drugs/Technical-Publications/2014/Narcotic_Drugs_Report_2014.pdf</ref> About 45,000 kilograms were used directly for pain, an increase over the last twenty years of four times.<ref name=\":1\" /> Most use for this purpose was in the developed world.<ref>https://www.incb.org/documents/Narcotic-Drugs/Technical-Publications/2014/Narcotic_Drugs_Report_2014.pdf</ref> About 70% of morphine is used to make other [[opioids]] such as [[hydromorphone]], [[oxycodone]] and [[heroin]].<ref>Narcotic Drugs Stupéfiants Estupefacientes 2014 | https://www.incb.org/documents/Narcotic-Drugs/Technical-Publications/2014/Narcotic_Drugs_Report_2014.pdf</ref><ref name=\"Busse2008\">{{cite book | vauthors=((Busse, G. D.)) | date= 2008 | title=Morphine | publisher=Chelsea | url=http://ebooks.infobasepublishing.com/View.aspx?ISBN=9781438102115 | isbn=9781438102115}}\n</ref><ref>{{cite book | vauthors=((Karch, S. B.)) | date= 2007 | title=Drug abuse handbook | isbn=9780429245114}}</ref>\n\n==Chemistry==\nMorphine, a benzylisoquinoline [[alkaloid]], is an opiate of the [[morphinan]] class. Morphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub> with the nitrogen member looking at R<sub>17</sub> of the combined structure. This structure is called morphinan. \n\nMorphine (along with other morphinans) contain an ether bridge between two of its rings, connecting R<sub>4</sub> and R<sub>5</sub> through an oxygen group. It contains two hydroxy groups (OH-), bound at R<sub>6</sub> and R<sub>3</sub>, and a methyl group located on the nitrogen atom at R<sub>17</sub>. \n\nMorphine is a precursor for many morphinan drugs, it is used to synthesize [[codeine]] through methylation of its R<sub>3</sub> hydroxy group, and heroin through acetylation. Other closely related opioids include [[hydrocodone]], [[oxycodone]], and [[dihydrocodeine]]. The chemical structure of morphine is the basis of hundreds of opioid derivatives with a wide range of effects.\n\n==Pharmacology==\nMorphine exerts its effects by binding to and activating three known opioid receptors including: the [[K-opioid|κ-opioid]] (KOP), [[μ-opioid]] (MOP), and [[D-opioid|δ-opioid]] (DOP) [[receptor|receptors]] as an [[agonist]]. This occurs due to the way in which opioids functionally mimic the body's natural endorphins. Endorphins are responsible for analgesia (pain reduction), sleepiness, and feelings of pleasure and enjoyment. They are believed to be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's [[physical euphoria|euphoric]], [[pain relief|analgesic]] (pain relief), and [[anxiety suppression|anxiolytic]] (anti-anxiety) effects.\n\nMorphine is produced by the human body in small amounts and acts as an immunomodulator. Endogenous morphine binds preferentially to the μ<sub>3</sub> opioid receptor.<ref>{{cite journal | vauthors=((Stefano, G. B.)), ((Goumon, Y.)), ((Casares, F.)), ((Cadet, P.)), ((Fricchione, G. L.)), ((Rialas, C.)), ((Peter, D.)), ((Sonetti, D.)), ((Guarna, M.)), ((Welters, I. D.)), ((Bianchi, E.)) | journal=Trends in Neurosciences | title=Endogenous morphine | volume=23 | issue=9 | pages=436–442 | date= September 2000 | url=https://linkinghub.elsevier.com/retrieve/pii/S0166223600016118 | issn=01662236 | doi=10.1016/S0166-2236(00)01611-8}}</ref>\n\nMorphine along with [[hydromorphone]] and [[oxymorphone]] experience minimal CYP450 metabolism and are instead metabolized primarily by the UDP-glucuronosyltransferases (UGTs), specifically the UG2B7 isozyme.<ref>{{cite journal | vauthors=((Holmquist, G. L.)) | journal=Pain Medicine | title=Opioid Metabolism and Effects of Cytochrome P450 | volume=10 | issue=suppl 1 | pages=S20–S29 | date= April 2009 | url=https://academic.oup.com/painmedicine/article-lookup/doi/10.1111/j.1526-4637.2009.00596.x | issn=1526-2375 | doi=10.1111/j.1526-4637.2009.00596.x}}</ref> About 90% of Morphine is converted into metabolites, primarily into the glucuronide conjugates morphine-3-glucuronide (M3G) (45-55%) and morphine-6-glucuronide (M6G) (10-15%).<ref name=\":2\">{{cite journal | vauthors=((Christrup, L. L.)) | journal=Acta Anaesthesiologica Scandinavica | title=Morphine metabolites | volume=41 | issue=1 | pages=116–122 | date= January 1997 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.1997.tb04625.x | issn=00015172 | doi=10.1111/j.1399-6576.1997.tb04625.x}}</ref> Of these two M3G has a low affinity for the opioid receptors and no analgesic activity. M6G binds to the same receptor sites as morphine, but has a greater affinity and greater potency.<ref name=\":2\" />\n\n===Binding affinities of morphine (K<sub>i</sub>)<ref name=\"Schmidt2002\">{{cite journal | vauthors=((Schmidt, H.)), ((Vormfelde, S. V.)), ((Klinder, K.)), ((Gundert-Remy, U.)), ((Gleiter, C. H.)), ((Skopp, G.)), ((Aderjan, R.)), ((Fuhr, U.)) | journal=Pharmacology & Toxicology | title=Affinities of Dihydrocodeine and its Metabolites to Opioid Receptors: DIHYDROCODEINE BINDING TO OPIOID RECEPTORS | volume=91 | issue=2 | pages=57–63 | date= August 2002 | url=http://doi.wiley.com/10.1034/j.1600-0773.2002.910203.x | issn=09019928 | doi=10.1034/j.1600-0773.2002.910203.x}}</ref>===\nA lower Ki, indicates a greater binding affinity for the receptor.\n\n*Mu opioid agonist - 4.9 nM\n*Kappa opioid agonist - 206 nM\n*Delta opioid agonist - 273 nM\n\n== Intranasal potentiation ==\nDespite morphine's usually low intranasal bioavailability (~10-15%), it has been shown that it can be raised to around 60% when the drug is mixed with [https://en.wikipedia.org/wiki/Chitosan chitosan], a common dietary supplement, at a weight ratio of approximately 5:1 (chitosan:morphine)<ref>Illum, L., Watts, P., Fisher, A. N., Hinchcliffe, M., Norbury, H., Jabbal-Gill, I., Nankervis, R., & Davis, S. S. (2002). [https://doi.org/10.1124/jpet.301.1.391 Intranasal delivery of morphine.] ''The Journal of pharmacology and experimental therapeutics'', ''301''(1), 391–400. </ref>, making it comparable to rectal administration. The increased bioavailability of this method is believed to be due to chitosan's bioadhesive properties<ref>Hamedi, H., Moradi, S., Hudson, S. M., Tonelli, A. E., & King, M. W. (2022). [https://doi.org/10.1016/j.carbpol.2022.119100 Chitosan based bioadhesives for biomedical applications: A review.] ''Carbohydrate polymers'', ''282'', 119100. </ref>.\n\n==Subjective effects==\n{{effectStub}}\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Physical euphoria]]''' - The physical euphoria experienced on this substance is extremely intense when compared to other opioids such as [[codeine]] or [[tramadol]]. The sensation itself can be described as feelings of intense physical comfort, warmth, love and bliss.\n*'''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Pain relief]]''' - Many report that they are still  aware of pain, however the pain is no longer of interest.\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Respiratory depression]]'''\n*'''[[Effect::Skin flushing]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Cognitive euphoria]]''' - Morphine produces cognitive euphoria that is substantially stronger compared to other opioids such as [[codeine]] or [[tramadol]], but weaker than that of [[heroin]], [[hydrocodone]], and [[oxycodone]]. The sensation can be described as powerful and all-encompassing feelings of emotional bliss, contentment, and happiness.\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Irritability]]''' - While opioids are well known for their ability to improve mood, they can also have the paradoxical effect of increasing the user's sensitivity to irritable stimuli. This can manifest as aloofness and sudden outbursts of anger and aggression (colloquially known as \"opiate rage\"). It appears to occur more frequently during the comedown of the experience and/or with heavy use.\n}}\n{{effects/visual|\n\n====Suppressions====\n*'''[[Effect::Double vision]]''' - At high doses, the eyes unfocus and re-focus uncontrollably. This creates a blurred effect and double vision that is present no matter where one focuses their eyes. This can be so intense it becomes impossible to read or drive.\n\n====Hallucinatory States====\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and [[hypnagogia]] during heavy dosage nodding which results in dream-like states and up to level 3 [[Lucid_dreaming#Internally_sourced_sensory_input|imagery]]. This is often accompanied by ill-defined [[geometry]].\n\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Morphine.shtml Erowid Experience Vaults: Morphine]\n\n==Toxicity and harm potential==\nLike most opioids, unadulterated morphine does not cause many long-term complications other than dependence and constipation.<ref>Merck Manual of Home Health Handbook – 2nd edition, 2003, p. 2097</ref> Outside of the extremely powerful addiction and physical dependence, the harmful or toxic aspects of morphine usage are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing and using impure products. \n\nHeavy dosages of morphine can result in [[Respiratory depression|respiratory depression]], leading onto fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by [[agonists|agonism]] of [[µ-opioid receptors]] proportional to the dosage consumed. \n\nMorphine can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the [[recovery position]]). \n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Dependence and abuse potential===\nAs with other opiate-based painkillers, the chronic use of morphine can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of morphine develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. Morphine presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of morphine all [[opioid]]s will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and [[relapse]], largely because of reduced tolerance.<ref>Why Heroin Relapse Often Ends In Death - Lauren F Friedman (Business Insider) | http://www.businessinsider.com.au/philip-seymour-hoffman-overdose-2014-2</ref> To account for this lack of tolerance, it is safer to only dose a fraction of one's usual [[dosage]] if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.<ref>{{cite journal | vauthors=((Siegel, S.)), ((Hinson, R. E.)), ((Krank, M. D.)), ((McCully, J.)) | journal=Science | title=Heroin “Overdose” Death: Contribution of Drug-Associated Environmental Cues | volume=216 | issue=4544 | pages=436–437 | date=23 April 1982 | url=https://www.science.org/doi/10.1126/science.7200260 | issn=0036-8075 | doi=10.1126/science.7200260}}</ref>\n\n===Dangerous interactions===\nMorphine is dangerous to use in combination with other [[depressants]] as many fatalities reported as overdoses are caused by interactions with other depressant drugs like [[alcohol]] or [[benzodiazepines]], resulting in dangerously high levels of [[Respiratory depression|respiratory depression]].<ref>{{cite journal | vauthors=((Darke, S.)), ((Zador, D.)) | journal=Addiction (Abingdon, England) | title=Fatal heroin “overdose”: a review | volume=91 | issue=12 | pages=1765–1772 | date= December 1996 | issn=0965-2140 | doi=10.1046/j.1360-0443.1996.911217652.x}}</ref>\n\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Opioids}}\n\n==Legal status==\nInternationally, morphine is a Schedule I drug under the Single Convention on Narcotic Drugs.<ref>List of narcotic drugs under international control | http://www.incb.org/documents/Narcotic-Drugs/Yellow_List/NAR_2011_YellowList_50edition_EN.pdf</ref> It is on the WHO Model List of Essential Medicines, a list of the most important medications needed in a basic health system.<ref>WHO Model List of Essential Medicines | http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1</ref>\n\n*'''Australia:''' Morphine is classified as a Schedule 8 drug under the variously titled State and Territory Poisons Acts.{{citation needed}}\n*'''Austria:''' Morphine is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Canada:''' Morphine is classified as a Schedule I drug under the Controlled Drugs and Substances Act.<ref>{{cite book | vauthors=((Vallerand, A. H.)), ((Sanoski, C. A.)) | date=4 June 2014 | title=Davis’s Canadian Drug Guide for Nurses® | publisher=F.A. Davis | isbn=9780803640863}}</ref>\n*'''France:''' Morphine is in the strictest schedule of controlled substances, based upon the December 1970 French controlled substances law.{{citation needed}}\n*'''Germany:''' Morphine is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.<ref>http://www.gesetze-im-internet.de/btmg_1981/anlage_iii_61.html</ref>\n*'''Japan:''' Morphine is classified as a narcotic under the Narcotic and Psychotropic Drugs Control Act (麻薬及び向精神薬取締法).<ref>{{cite web|url=https://www.mhlw.go.jp/web/t_doc?dataId=81102000&dataType=0&pageNo=3|access-date=August 14, 2020|language=ja|publisher=厚生労働省 [Ministry of Health, Labour and Welfare]|title=麻薬及び向精神薬取締法|trans-title=Narcotic and Psychotropic Drugs Control Act}}</ref>\n*'''Netherlands:''' Morphine is classified as a List 1 drug under the Opium Law.{{citation needed}}\n*'''Russia:''' Morphine is a Schedule II controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) “Об утверждении значительного, крупного и особо крупного размеров наркотических средств и психотропных веществ, а также значительного, крупного и особо крупного размеров для растений, содержащих наркотические средства или психотропные вещества, либо их частей, содержащих наркотические средства или психотропные вещества, для целей статей 228, 228.1, 229 и 229.1 Уголовного кодекса Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=100271&date=03.12.2019}}</ref>\n*'''Sweden''': Morphine is legal for medical use and is a controlled substance.<ref>Läkemedelsverkets föreskrifter (LVFS 1997:12) om förteckningar över narkotika, konsoliderad version t.o.m. LVFS 2010:1</ref>\n*'''Switzerland''': Morphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Morphine is a 'red prescription' only substance<ref>KIRMIZI REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/K%C4%B1rm%C4%B1z%C4%B1%20Re%C3%A7eteye%20Tabi%20%C4%B0la%C3%A7lar%2005072019_ebcc7e92-6661-4983-870a-fe8983a9c2b7.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''United Kingdom:''' Morphine is listed as a Class A drug under the Misuse of Drugs Act 1971 and a Schedule 2 Controlled Drug under the Misuse of Drugs Regulations 2001.<ref>Misuse of Drugs Act 1971 c. 38</ref><ref>The Misuse of Drugs Regulations 2001 No. 3998</ref>\n*'''United States:''' Morphine is classified as a Schedule II controlled substance under the Controlled Substances Act with a main Administrative Controlled Substances Code Number (ACSCN) of ACSCN 9300. Morphine pharmaceuticals in the US are subject to annual manufacturing quotas; morphine production for use in extremely dilute formulations and its production as an intermediate, or chemical precursor, for conversion into other drugs is excluded from the US manufacturing quota.<ref name=\"Busse2008\" />\n\n==See also==\n\n*[[Responsible use]]\n*[[Opioids]]\n*[[Codeine]]\n*[[Heroin]]\n*[[Naloxone]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Morphine Morphine (Wikipedia)]\n*[https://www.erowid.org/pharms/morphine/ Morphine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=9155 Morphine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00295 Morphine (DrugBank)]\n*[https://www.drugs.com/morphine.html Morphine (Drugs.com)]\n*[https://drugs-forum.com/wiki/Morphine Morphine (Drugs-Forum)]\n\n==Literature==\n\n*Schmidt, H., Vormfelde, S. V., Klinder, K., Gundert-Remy, U., Gleiter, C. H., Skopp, G., Aderjan, R. and Fuhr, U. (2002), Affinities of Dihydrocodeine and its Metabolites to Opioid Receptors. Pharmacology & Toxicology, 91: 57–63.  https://doi.org/10.1034/j.1600-0773.2002.910203.x\n*Koch T, Höllt V (2008). Role of receptor internalization in opioid tolerance and dependence. Pharmacol. Ther. 117 (2): 199–206. https://doi.org/10.1016/j.pharmthera.2007.10.003\n*Pert, C. B., Pasternak, G., & Snyder, S. H. (1973). Opiate Agonists and Antagonists Discriminated by Receptor Binding in Brain. Science, 182(4119), 1359-1361. https://doi.org/10.1126/science.182.4119.1359\n*Friswell J, Phillips C, Holding J, Morgan CJ, Brandner B, Curran HV (2008). Acute effects of opioids on memory functions of healthy men and women. Psychopharmacology (Berl.). 198 (2): 243–50. https://doi.org/10.1007/s00213-008-1123-x.\n*Stefano GB, Ptáček R, Kuželová H, Kream RM (2012). Endogenous morphine: up-to-date review (2011). Folia Biol. (Praha). 58 (2): 49–56. PMID 22578954. ''Positive evolutionary pressure has apparently preserved the ability to synthesize chemically authentic morphine, albeit in homeopathic concentrations, throughout animal phyla.''\n\n==References==\n{{reflist|2}}\n\n[[Category:Alkaloid]]\n[[Category:Morphinan]]\n[[Category:Benzofuran]]\n[[Category:Opioid]]\n\n{{#set:Featured=true}}"
+}

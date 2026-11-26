@@ -1,0 +1,305 @@
+{
+ "id": "psychonautwiki:10671",
+ "type": "substance",
+ "title": "Hydrocodone",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Hydrocodone",
+  "pageid": 10671,
+  "last_edited": "2024-04-21T23:50:30Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 German-language sources (de)",
+  "Morphinan",
+  "Opioid",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Hydrocodone",
+ "substance_box": {
+  "names": {
+   "common": "Vicodin (with paracetamol), Zohydro ER (extended-release), Norco",
+   "substitutive": "Hydrocodone",
+   "systematic": "4,5α-epoxy-3-methoxy-17-methylmorphinan-6-one"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "3 mg",
+    "light": "5 - 10 mg",
+    "common": "10 - 25 mg",
+    "strong": "25 - 40 mg",
+    "heavy": "40 mg +",
+    "duration": "4 - 8 hours",
+    "onset": "10 - 60 minutes",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Vicodin (with paracetamol)",
+    "Zohydro ER (extended-release)",
+    "Norco"
+   ],
+   "psychoactive class": [
+    "Opioid"
+   ],
+   "chemical class": [
+    "Morphinan"
+   ],
+   "Oral threshold dose": [
+    "3"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "5"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "25"
+   ],
+   "Oral min strong dose": [
+    "25"
+   ],
+   "Oral max strong dose": [
+    "40"
+   ],
+   "Oral heavy dose": [
+    "40"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "10"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Hydrocodone",
+   "clean": "Molecular structure of Hydrocodone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Hydrocodone.svg",
+   "clean": "File:Hydrocodone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Vicodin (with paracetamol)]], [[common name::Zohydro ER (extended-release)]], [[common name::Norco]]",
+   "clean": "Vicodin (with paracetamol), Zohydro ER (extended-release), Norco"
+  },
+  "NameSubstitution": {
+   "raw": "Hydrocodone",
+   "clean": "Hydrocodone"
+  },
+  "NameSystematic": {
+   "raw": "4,5α-epoxy-3-methoxy-17-methylmorphinan-6-one",
+   "clean": "4,5α-epoxy-3-methoxy-17-methylmorphinan-6-one"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/hydrocodone TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::3]] [[Oral dose units::mg]]",
+   "clean": "3 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::5]] - [[Oral max light dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::25]] - [[Oral max strong dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::40]] mg +",
+   "clean": "40 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::10]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "10 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Hydrocodone (commonly sold as Vicodin or Norco when combined with paracetamol) is a semi-synthetic opioid morphinan synthesized or chemically derived from codeine, one of the opioid alkaloids found in the opium poppy. It is a narcotic analgesic used orally as a cough suppressant, but also commonly taken orally for relief of moderate to severe pain. Those who take hydrocodone for recreational purposes report a sense of relaxation and euphoria, especially at higher doses.\n\nHydrocodone is prescribed predominantly within the United States, with the International Narcotics Control Board reporting that 99% of the worldwide supply in 2007 was consumed in the United States.\n\nLike many opioids, such as dextropropoxyphene, hydrocodone is often combined with acetaminophen (paracetamol) to enhance analgesia and deter abuse. Acetaminophen overdoses and long-term use, often due to recreational use, can cause serious or fatal liver damage. Currently, the only brand of hydrocodone in the United States that does not have acetaminophen is Zohydro ER which comes in doses of up to 50mg.\n\nChemistry\n\nHydrocodone, or 3-methyl-dihydromorphinone, is an opioid of the morphinan class. Hydrocodone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called a phenanthrene. A fourth nitrogen-containing ring is fused to the phenanthrene at R9 and R13, with the nitrogen member looking at R17 of the combined structure. This structure is called morphinan. \n\nHydrocodone, along with other morphinans, contains an ether bridge between two of its rings, connecting R4 and R5 through an oxygen group. It contains a carbonyl group bound at R6 and a methyl group located on the nitrogen atom at R17. The carbon-oxygen double bond of the carbonyl saturates the benzene ring it is bonded with, thus hydrocodone lacks the double bond on that ring found in codeine. \n\nHydrocodone also shares the 3-methoxy substitution found in codeine; the two differ only from their R6 substituents. Hydrocodone is analogous to the other morphinans including dihydrocodeine, heroin, ethylmorphine, codeine, and oxycodone.\n\nPharmacology\n\nThe euphoria, anxiety suppression and pain relief effects appear to stem from the way in which opioids mimic endogenous endorphins. Endorphins are responsible for analgesia (reducing pain), causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's effects. \nIt acts primarily on μ-opioid receptors, with about six times lesser affinity to δ-opioid receptors. \n\nIn the liver, hydrocodone is transformed into several metabolites. It has a serum half-life that averages 3.8 hours. The hepatic cytochrome P450 enzyme CYP2D6 converts it into hydromorphone, a more potent opioid.\n\nTaking hydrocodone with grapefruit juice may enhance its psychoactive effects. It is hypothesized that the CYP3A4 inhibitors in grapefruit juice may interfere with the metabolism of hydrocodone, although there has been no research into this issue.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n* Erowid Experience Vaults: Hydrocodone\n\nToxicity and harm potential\n\nHydrocodone has not been shown to be toxic and is physically benign at reasonable dosages. As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. Some people may also have an allergic reaction to hydrocodone, such as the swelling of skin and rashes. It is potentially fatal at heavy dosages. \n\nLike most opioids, unadulterated hydrocodone at appropriate dosages does not cause many long-term complications other than dependence and constipation. Outside of the extremely powerful addiction and physical dependence, the harmful or toxic aspects of opioid usage are exclusively associated with not taking the necessary precautions in regards to its administration, overdosing and using impure products. Hydrocodone commonly being mixed with acetaminophen (paracetamol) however can complicate the drug’s safety profile due to acetaminophen’s toxicity on the liver.\n\nHeavy dosages of hydrocodone can result in respiratory depression, leading onto fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by agonism of µ-opioid receptors proportional to the dosage consumed. When hydrocodone is paired with acetaminophen however (as is the case with many pharmaceutical preparations of hydrocodone), liver toxicity or even acute liver failure becomes a significant risk, especially if mixed with alcohol; on top of hydrocodone and alcohol’s already heightened risk for possibly inducing dangerous levels of respiratory depression.\n\nHydrocodone (on its own) can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the recovery position). In case of overdose, it is advised to administer a dose of naloxone intravenously or intramuscularly to reverse the effects of opioid agonism.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nDependence and abuse potential\n\nAs with other opiate-based painkillers, the chronic use of hydrocodone can be considered moderately addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage. Most of these symptoms (like with other opioids) are somatic in their manifestation.\n\nTolerance to many of the effects of hydrocodone develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Hydrocodone presents cross-tolerance with all opioids, meaning that after the consumption of hydrocodone all opioids will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment in which one uses the substance can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.\n\nDangerous interactions\n\nLegal status\n\n*Australia: Hydrocodone is a Schedule 8 (S8) or controlled drug.\n*Austria: Hydrocodone is regulated in Austria in the same fashion as in Germany (see below) under the Austrian Suchtmittelgesetz (SMG). Since 2002, it has been available in the form of German products and those produced elsewhere in the European Union under Article 76 of the Schengen Treaty.\n*Belgium: Hydrocodone is no longer available for medical use.\n*Canada: Hydrocodone is a Schedule I controlled substance and is available by prescription only. Hydrocodone is prescribed alone as well as in proprietary combinations, typically with an NSAID or paracetamol.\n*France: Hydrocodone is no longer available for medical use. Hydrocodone is a prohibited narcotic.\n*Germany: Hydrocodone is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.\n*Luxembourg: - Hydrocodone is available by prescription under the name Biocodone. Prescriptions are more commonly given for use as a cough suppressant (antitussive) rather than for pain relief (analgesic).\n*The Netherlands: Hydrocodone is not available for medical use and is classified as a List 1 drug under the Opium Law.\n*Russia: Hydrocodone is a Schedule I controlled substance.\n*Sweden: Hydrocodone is no longer available for medical use in Sweden. The last remaining formula was deregistered in 1967.\n*Switzerland: Hydrocodone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*United Kingdom: Hydrocodone is not available for medical use and is listed as a Class A drug under the Misuse of Drugs Act 1971. Various formulations of dihydrocodeine, a weaker opioid, are frequently used as an alternative.\n*United States: As of October 6, 2014, all hydrocodone products are now designated as Schedule II controlled substances. They are no longer Schedule III narcotics. Prescriptions can no longer have refills and a handwritten paper script must be obtained for each fill.\n\nSee also\n\n*Responsible use\n*Opioid\n*Codeine\n*Dihydrocodeine\n*Oxycodone\n*Heroin\n\nExternal links\n\n*Hydrocodone (Wikipedia)\n*Hydrocodone (Erowid Vault)\n*Hydrocodone (Isomer Design)\n*Hydrocodone (DrugBank)\n*Hydrocodone (Drugs.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Benzofuran\nCategory:Morphinan\nCategory:Opioid",
+ "wikitext": "{{headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Hydrocodone}}\n\n'''Hydrocodone''' (commonly sold as '''Vicodin''' or '''Norco''' when combined with paracetamol) is a semi-synthetic [[psychoactive class::opioid]] [[chemical class::morphinan]] synthesized or chemically derived from [[codeine]], one of the opioid alkaloids found in the opium poppy. It is a narcotic [[pain relief|analgesic]] used [[Routes of administration#oral|orally]] as a [[cough suppression|cough suppressant]], but also commonly taken orally for relief of moderate to severe pain.<ref>{{cite book | veditors=((Karch, S. B.)) | date= 2008 | title=Pharmacokinetics and pharmacodynamics of abused drugs | publisher=CRC Press | isbn=9781420054583}}</ref> Those who take hydrocodone for recreational purposes report a sense of relaxation and euphoria, especially at higher doses.\n\nHydrocodone is prescribed predominantly within the United States, with the International Narcotics Control Board reporting that 99% of the worldwide supply in 2007 was consumed in the United States.<ref>{{cite book | vauthors=((United Nations International Drug Control Board)) | date= 2009 | title=((Report of the International Narcotics Control Board for 2008)) | publisher=United Nations | isbn=9789211482324}}</ref>\n\nLike many opioids, such as [[dextropropoxyphene]], hydrocodone is often combined with acetaminophen (paracetamol) to enhance analgesia and deter abuse. Acetaminophen overdoses and long-term use, often due to recreational use, can cause serious or fatal liver damage. Currently, the only brand of hydrocodone in the United States that does not have acetaminophen is '''Zohydro ER''' which comes in doses of up to 50mg.\n\n==Chemistry==\nHydrocodone, or 3-methyl-dihydromorphinone, is an opioid of the morphinan class. Hydrocodone and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called a phenanthrene. A fourth nitrogen-containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub>, with the nitrogen member looking at R<sub>17</sub> of the combined structure. This structure is called morphinan. \n\nHydrocodone, along with other morphinans, contains an ether bridge between two of its rings, connecting R<sub>4</sub> and R<sub>5</sub> through an oxygen group. It contains a carbonyl group bound at R<sub>6</sub> and a methyl group located on the nitrogen atom at R<sub>17</sub>. The carbon-oxygen double bond of the carbonyl saturates the benzene ring it is bonded with, thus hydrocodone lacks the double bond on that ring found in [[codeine]]. \n\nHydrocodone also shares the 3-methoxy substitution found in codeine; the two differ only from their R<sub>6</sub> substituents. Hydrocodone is analogous to the other morphinans including [[dihydrocodeine]], [[heroin]], [[ethylmorphine]], [[codeine]], and [[oxycodone]].\n\n==Pharmacology==\nThe [[physical euphoria|euphoria]], [[anxiety suppression]] and [[pain relief]] effects appear to stem from the way in which [[opioids]] mimic endogenous endorphins. Endorphins are responsible for analgesia (reducing pain), causing sleepiness, and feelings of pleasure. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's effects. \nIt acts primarily on μ-opioid receptors, with about six times lesser affinity to δ-opioid receptors. \n\nIn the liver, hydrocodone is transformed into several metabolites. It has a serum half-life that averages 3.8 hours.<ref>{{cite book | vauthors=((Davis, M. P.)), ((Glare, P.)), ((Hardy, J.)) | date= 2005 | title=Opioids in Cancer Pain | publisher=Oxford University Press | isbn=9780198529439}}</ref> The hepatic cytochrome P450 enzyme CYP2D6 converts it into [[hydromorphone]], a more potent opioid.\n\nTaking hydrocodone with grapefruit juice may enhance its psychoactive effects. It is hypothesized that the CYP3A4 inhibitors in grapefruit juice may interfere with the metabolism of hydrocodone,<ref>{{cite journal | vauthors=((Hernandez, S. H.)), ((Nelson, L. S.)) | journal=Clinical Pharmacology and Therapeutics | title=Prescription drug abuse: insight into the epidemic | volume=88 | issue=3 | pages=307–317 | date= September 2010 | issn=1532-6535 | doi=10.1038/clpt.2010.154}}</ref> although there has been no research into this issue.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - At higher dosages, this compound can result in feelings of sedation but is considerably less sedating than that of [[codeine]], [[oxycodone]] or [[diacetylmorphine|heroin]].\n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Physical euphoria]]''' - Physical euphoria on hydrocodone is commonly described as less intense when compared with [[morphine]] or [[diacetylmorphine|heroin]]. The sensation itself can be described as extreme feelings of intense physical comfort, warmth, pleasure and bliss which spreads throughout the body.\n*'''[[Effect::Itchiness]]''' - This compound presents greater amounts of itchiness due to higher amounts of histamine release in comparison to other [[opioids]].{{citation needed}}\n*'''[[Effect::Respiratory depression]]''' - At low to moderate doses, this effect results in the sensation that breaths are slowed down mildly to moderately, but does not cause noticeable impairment. At high doses and overdoses, opioid-induced respiratory depression can result in a shortness of breath, abnormal breathing patterns, semi-consciousness, or unconsciousness. Severe overdoses can result in a coma or death without immediate medical attention.\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Decreased heart rate]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Stomach cramps]]'''\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Orgasm suppression]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Cognitive euphoria]]''' - Cognitive euphoria on hydrocodone is described as less intense compared to [[morphine]] or [[diacetylmorphine]] (heroin). However, it is still capable of producing extreme intensity and overwhelming bliss at heavier dosages with a low tolerance. The sensation itself can be described as powerful and overwhelming feeling of emotional bliss, contentment, and happiness.\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Sleepiness]]'''\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n* [https://www.erowid.org/experiences/subs/exp_Hydrocodone.shtml Erowid Experience Vaults: Hydrocodone]\n\n==Toxicity and harm potential==\nHydrocodone has not been shown to be toxic and is physically benign at reasonable dosages. As with all opioids, long-term effects can vary but can include diminished libido, apathy and memory loss. Some people may also have an allergic reaction to hydrocodone, such as the swelling of skin and rashes. It is [[Toxicity::potentially fatal at heavy dosages]]. \n\nLike most opioids, unadulterated hydrocodone at appropriate dosages does not cause many long-term complications other than dependence and [[constipation]]. Outside of the extremely powerful addiction and physical dependence, the harmful or toxic aspects of opioid usage are exclusively associated with not taking the necessary precautions in regards to its administration, overdosing and using impure products. Hydrocodone commonly being mixed with acetaminophen (paracetamol) however can complicate the drug’s safety profile due to acetaminophen’s toxicity on the liver.\n\nHeavy dosages of hydrocodone can result in [[Respiratory depression|respiratory depression]], leading onto fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by [[agonists|agonism]] of [[µ-opioid receptors]] proportional to the dosage consumed. When hydrocodone is paired with acetaminophen however (as is the case with many pharmaceutical preparations of hydrocodone), liver toxicity or even acute liver failure becomes a significant risk, especially if mixed with alcohol; on top of hydrocodone and alcohol’s already heightened risk for possibly inducing dangerous levels of respiratory depression.\n\nHydrocodone (on its own) can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the [[recovery position]]). In case of overdose, it is advised to administer a dose of [[naloxone]] intravenously or intramuscularly to reverse the effects of opioid agonism.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Dependence and abuse potential===\nAs with other opiate-based painkillers, the chronic use of hydrocodone can be considered [[Addiction potential::moderately addictive]] and is capable of causing both physical and psychological dependence. When physical dependence has developed, [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage. Most of these symptoms (like with other opioids) are somatic in their manifestation.\n\nTolerance to many of the effects of hydrocodone develops [[Time to full tolerance::with prolonged use]], including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). Hydrocodone presents cross-tolerance with [[Cross-tolerance::all [[opioids]]]], meaning that after the consumption of hydrocodone all opioids will have a reduced effect.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and [[relapse]], largely because of reduced tolerance.<ref>Why Heroin Relapse Often Ends In Death - Lauren F Friedman (Business Insider) | http://www.businessinsider.com.au/philip-seymour-hoffman-overdose-2014-2</ref> To account for this lack of tolerance, it is safer to only dose a fraction of one's usual [[dosage]] if relapsing. It has also been found that the environment in which one uses the substance can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.<ref>{{cite journal | vauthors=((Siegel, S.)), ((Hinson, R. E.)), ((Krank, M. D.)), ((McCully, J.)) | journal=Science | title=Heroin “Overdose” Death: Contribution of Drug-Associated Environmental Cues | volume=216 | issue=4544 | pages=436–437 | date=23 April 1982 | url=https://www.science.org/doi/10.1126/science.7200260 | issn=0036-8075 | doi=10.1126/science.7200260}}</ref>\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Opioids}}\n\n==Legal status==\n*'''Australia:''' Hydrocodone is a Schedule 8 (S8) or controlled drug.{{citation needed}}\n*'''Austria:''' Hydrocodone is regulated in Austria in the same fashion as in Germany (see below) under the Austrian Suchtmittelgesetz (SMG). Since 2002, it has been available in the form of German products and those produced elsewhere in the European Union under Article 76 of the Schengen Treaty.{{citation needed}}\n*'''Belgium:''' Hydrocodone is no longer available for medical use.{{citation needed}}\n*'''Canada:''' Hydrocodone is a Schedule I controlled substance and is available by prescription only. Hydrocodone is prescribed alone as well as in proprietary combinations, typically with an NSAID or paracetamol.{{citation needed}}\n*'''France:''' Hydrocodone is no longer available for medical use. Hydrocodone is a prohibited narcotic.{{citation needed}}\n*'''Germany:''' Hydrocodone is a controlled substance under Anlage III of the BtMG. It can only be prescribed on a narcotic prescription form.<ref>{{Citation | title=Anlage III BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html}}</ref>\n*'''Luxembourg:''' - Hydrocodone is available by prescription under the name Biocodone. Prescriptions are more commonly given for use as a cough suppressant (antitussive) rather than for pain relief (analgesic).{{citation needed}}\n*'''The Netherlands:''' Hydrocodone is not available for medical use and is classified as a List 1 drug under the Opium Law.{{citation needed}}\n*'''Russia:''' Hydrocodone is a Schedule I controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=100071&date=03.12.2019}}</ref>\n*'''Sweden:''' Hydrocodone is no longer available for medical use in Sweden. The last remaining formula was deregistered in 1967.{{citation needed}}\n*'''Switzerland''': Hydrocodone is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom:''' Hydrocodone is not available for medical use and is listed as a Class A drug under the Misuse of Drugs Act 1971. Various formulations of dihydrocodeine, a weaker opioid, are frequently used as an alternative.{{citation needed}}\n*'''United States:''' As of October 6, 2014, all hydrocodone products are now designated as Schedule II controlled substances.<ref>https://www.dea.gov/druginfo/ds.shtml</ref> They are no longer Schedule III narcotics. Prescriptions can no longer have refills and a handwritten paper script must be obtained for each fill.{{citation needed}}\n\n==See also==\n*[[Responsible use]]\n*[[Opioid]]\n*[[Codeine]]\n*[[Dihydrocodeine]]\n*[[Oxycodone]]\n*[[Diacetylmorphine|Heroin]]\n\n==External links==\n*[https://en.wikipedia.org/wiki/Hydrocodone Hydrocodone (Wikipedia)]\n*[https://www.erowid.org/pharms/hydrocodone/ Hydrocodone (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3890 Hydrocodone (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00956 Hydrocodone (DrugBank)]\n*[https://www.drugs.com/hydrocodone.html Hydrocodone (Drugs.com)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Benzofuran]]\n[[Category:Morphinan]]\n[[Category:Opioid]]\n\n{{#set:Featured=true}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19738",
+ "type": "substance-summary",
+ "title": "Midazolam/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Midazolam/Summary",
+  "pageid": 19738,
+  "last_edited": "2021-11-28T23:36:20Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Midazolam",
+ "plain_text": "",
+ "wikitext": "{{Summary|Midazolam}}"
+}

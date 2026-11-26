@@ -1,0 +1,1234 @@
+{
+ "id": "psychonautwiki:7721",
+ "type": "substance",
+ "title": "Acid-base DMT extraction, based on Marsofold's tek",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Acid-base_DMT_extraction%2C_based_on_Marsofold%27s_tek",
+  "pageid": 7721,
+  "last_edited": "2022-12-08T01:36:02Z"
+ },
+ "categories": [
+  "DMT extraction",
+  "Extraction"
+ ],
+ "substance_box_template": "SubstanceBox/DMT",
+ "substance_box": {
+  "names": {
+   "common": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule",
+   "substitutive": "N,N-Dimethyltryptamine",
+   "systematic": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Tryptamine"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "2 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60+ mg",
+    "duration": "5 - 20 minutes",
+    "onset": "20 - 40 seconds",
+    "comeup": "1 - 3 minutes",
+    "peak": "2 - 8 minutes",
+    "offset": "1 - 6 minutes",
+    "aftereffects": "10 - 60 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "30 - 60 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "10 - 20 minutes",
+    "offset": "20 - 40 minutes",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "4 mg",
+    "light": "4 - 10 mg",
+    "common": "10 - 15 mg",
+    "strong": "15 - 20 mg",
+    "heavy": "20 mg +",
+    "duration": "15 - 30 minutes",
+    "onset": "2 - 10 seconds",
+    "comeup": "70 - 100 seconds",
+    "peak": "2 - 5 minutes",
+    "offset": "10 - 20 minutes",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "DMT",
+    "N,N-DMT",
+    "Dmitry",
+    "The Glory",
+    "The Spirit Molecule"
+   ],
+   "psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Tryptamine"
+   ],
+   "Smoked threshold dose": [
+    "2"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "10"
+   ],
+   "Smoked max light dose": [
+    "20"
+   ],
+   "Smoked min common dose": [
+    "20"
+   ],
+   "Smoked max common dose": [
+    "40"
+   ],
+   "Smoked min strong dose": [
+    "40"
+   ],
+   "Smoked max strong dose": [
+    "60"
+   ],
+   "Smoked heavy dose": [
+    "60"
+   ],
+   "Smoked min total time": [
+    "5"
+   ],
+   "Smoked max total time": [
+    "20"
+   ],
+   "Smoked total time units": [
+    "minutes"
+   ],
+   "Smoked min onset time": [
+    "20"
+   ],
+   "Smoked max onset time": [
+    "40"
+   ],
+   "Smoked onset time units": [
+    "seconds"
+   ],
+   "Smoked min comeup time": [
+    "1"
+   ],
+   "Smoked max comeup time": [
+    "3"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "8"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "6"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "10"
+   ],
+   "Smoked max afterglow time": [
+    "60"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ],
+   "Intramuscular threshold dose": [
+    "4"
+   ],
+   "Intramuscular dose units": [
+    "mg"
+   ],
+   "Intramuscular min light dose": [
+    "4"
+   ],
+   "Intramuscular max light dose": [
+    "10"
+   ],
+   "Intramuscular min common dose": [
+    "10"
+   ],
+   "Intramuscular max common dose": [
+    "15"
+   ],
+   "Intramuscular min strong dose": [
+    "15"
+   ],
+   "Intramuscular max strong dose": [
+    "20"
+   ],
+   "Intramuscular heavy dose": [
+    "20"
+   ],
+   "Intramuscular min total time": [
+    "30"
+   ],
+   "Intramuscular max total time": [
+    "60"
+   ],
+   "Intramuscular total time units": [
+    "minutes"
+   ],
+   "Intramuscular min onset time": [
+    "2"
+   ],
+   "Intramuscular max onset time": [
+    "10"
+   ],
+   "Intramuscular onset time units": [
+    "seconds"
+   ],
+   "Intramuscular min comeup time": [
+    "70"
+   ],
+   "Intramuscular max comeup time": [
+    "100"
+   ],
+   "Intramuscular comeup time units": [
+    "seconds"
+   ],
+   "Intramuscular min peak time": [
+    "10"
+   ],
+   "Intramuscular max peak time": [
+    "20"
+   ],
+   "Intramuscular peak time units": [
+    "minutes"
+   ],
+   "Intramuscular min offset time": [
+    "20"
+   ],
+   "Intramuscular max offset time": [
+    "40"
+   ],
+   "Intramuscular offset time units": [
+    "minutes"
+   ],
+   "Intravenous threshold dose": [
+    "4"
+   ],
+   "Intravenous dose units": [
+    "mg"
+   ],
+   "Intravenous min light dose": [
+    "4"
+   ],
+   "Intravenous max light dose": [
+    "10"
+   ],
+   "Intravenous min common dose": [
+    "10"
+   ],
+   "Intravenous max common dose": [
+    "15"
+   ],
+   "Intravenous min strong dose": [
+    "15"
+   ],
+   "Intravenous max strong dose": [
+    "20"
+   ],
+   "Intravenous heavy dose": [
+    "20"
+   ],
+   "Intravenous min total time": [
+    "15"
+   ],
+   "Intravenous max total time": [
+    "30"
+   ],
+   "Intravenous total time units": [
+    "minutes"
+   ],
+   "Intravenous min onset time": [
+    "2"
+   ],
+   "Intravenous max onset time": [
+    "10"
+   ],
+   "Intravenous onset time units": [
+    "seconds"
+   ],
+   "Intravenous min comeup time": [
+    "70"
+   ],
+   "Intravenous max comeup time": [
+    "100"
+   ],
+   "Intravenous comeup time units": [
+    "seconds"
+   ],
+   "Intravenous min peak time": [
+    "2"
+   ],
+   "Intravenous max peak time": [
+    "5"
+   ],
+   "Intravenous peak time units": [
+    "minutes"
+   ],
+   "Intravenous min offset time": [
+    "10"
+   ],
+   "Intravenous max offset time": [
+    "20"
+   ],
+   "Intravenous offset time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N,N-Dimethyltryptamine.",
+   "clean": "Molecular structure of N,N-Dimethyltryptamine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:DMT.svg",
+   "clean": "File:DMT.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::DMT]], [[common name::N,N-DMT]], [[common name::Dmitry]], [[common name::The Glory]], [[common name::The Spirit Molecule]]",
+   "clean": "DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule"
+  },
+  "NameSubstitution": {
+   "raw": "N,N-Dimethyltryptamine",
+   "clean": "N,N-Dimethyltryptamine"
+  },
+  "NameSystematic": {
+   "raw": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine",
+   "clean": "2-(1H-Indol-3-yl)-N,N-dimethylethanamine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Tryptamine]]",
+   "clean": "Tryptamine"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::2]] [[Smoked dose units::mg]]",
+   "clean": "2 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::10]] - [[Smoked max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::20]] - [[Smoked max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::40]] - [[Smoked max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::60]]+ mg",
+   "clean": "60+ mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::5]] - [[Smoked max total time::20]] [[Smoked total time units::minutes]]",
+   "clean": "5 - 20 minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::20]] - [[Smoked max onset time::40]] [[Smoked onset time units::seconds]]",
+   "clean": "20 - 40 seconds"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::1]] - [[Smoked max comeup time::3]] [[Smoked comeup time units::minutes]]",
+   "clean": "1 - 3 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::8]] [[Smoked peak time units::minutes]]",
+   "clean": "2 - 8 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::6]] [[Smoked offset time units::minutes]]",
+   "clean": "1 - 6 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::10]] - [[Smoked max afterglow time::60]] [[Smoked afterglow time units::minutes]]",
+   "clean": "10 - 60 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "[[Intramuscular threshold dose::4]] [[Intramuscular dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "[[Intramuscular min light dose::4]] - [[Intramuscular max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "[[Intramuscular min common dose::10]] - [[Intramuscular max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "[[Intramuscular min strong dose::15]] - [[Intramuscular max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": "[[Intramuscular heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "[[Intramuscular min total time::30]] - [[Intramuscular max total time::60]] [[Intramuscular total time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "[[Intramuscular min onset time::2]] - [[Intramuscular max onset time::10]] [[Intramuscular onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntramuscularROA_Comeup": {
+   "raw": "[[Intramuscular min comeup time::70]] - [[Intramuscular max comeup time::100]] [[Intramuscular comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "[[Intramuscular min peak time::10]] - [[Intramuscular max peak time::20]] [[Intramuscular peak time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "[[Intramuscular min offset time::20]] - [[Intramuscular max offset time::40]] [[Intramuscular offset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "[[Intravenous threshold dose::4]] [[Intravenous dose units::mg]]",
+   "clean": "4 mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "[[Intravenous min light dose::4]] - [[Intravenous max light dose::10]] mg",
+   "clean": "4 - 10 mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "[[Intravenous min common dose::10]] - [[Intravenous max common dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "[[Intravenous min strong dose::15]] - [[Intravenous max strong dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": "[[Intravenous heavy dose::20]] mg +",
+   "clean": "20 mg +"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "[[Intravenous min total time::15]] - [[Intravenous max total time::30]] [[Intravenous total time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "[[Intravenous min onset time::2]] - [[Intravenous max onset time::10]] [[Intravenous onset time units::seconds]]",
+   "clean": "2 - 10 seconds"
+  },
+  "IntravenousROA_Comeup": {
+   "raw": "[[Intravenous min comeup time::70]] - [[Intravenous max comeup time::100]] [[Intravenous comeup time units::seconds]]",
+   "clean": "70 - 100 seconds"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "[[Intravenous min peak time::2]] - [[Intravenous max peak time::5]] [[Intravenous peak time units::minutes]]",
+   "clean": "2 - 5 minutes"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "[[Intravenous min offset time::10]] - [[Intravenous max offset time::20]] [[Intravenous offset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "{|\n|-\n|\n|\n|}\n\nThe purpose of chemical extractions is to separate psychoactive substances from their base material. DXM from cough syrup for example. In this case, DMT from Mimosa Tenuiflora (Hostillis). This A/B Tek is based on the Marisfold Tek.\n\nMaterials\n\nBase Material: 1 lb Powdered or finely ground MHRB (Mimosa Tenuiflora/Hostilis root bark). The smaller the better. Powder can be a little annoying to work with, but its good to have as much surface area as you can.\n\nAcid: Distilled White Vinegar is the acid we will be using in this case. \n\nBase: \"Food Safe\" NaOH/Lye - (Red Devil Food Grade Lye is commonly used.)\n\nSolvent: VM&P Naptha is a good and common organic solvent to use, and will be the choice for this extraction. Prohibited in California. (Not just any solvent will do. Its important to pick something that will not leave toxic residue. Many lighter fluids will have toxic contaminants, please test for impurities before attempting)\n \n\nOther materials\n\n*At least 1 Pint Canning jar(s) (Regular glass jars recycled from jelly, for example, will work if cleaned throughly)\n*A pack of Coffee filters (It's useful to have canning jars for this because the lid is two separate pieces)\n*Pyrex or glass decanter (turkey basters are commonly used.)\n*A 1 gallon glass wine jug, or glass container.\n*A 1 gallon wide-mouthed glass or stainless steel container.\n*Three-liter crockpot (a stove top pot can be used, but is not preferred)\n*Funnel\n*Distilled Water\n*Empty one-gallon plastic jug\n*Eye protection\n*Rubber gloves\n*A freezer on its coldest setting\n*A quart mason jar\n\nMethod:\n\nMaterial preparation\n\nThis will create surface area for the water and the bark to meet, resulting in optimum extraction.\n\nGrind 1lb of root-bark as finely as you can. 1 millimeter in diameter or smaller: finer is better.\nYou can use a blender to do this, with little bits at a time. Be careful not to let the friction from the blades heat up the bark too much, and break down the goal material before you get to it. It's best to grind in bursts (off and on) rather than in one constant stream. Many people acquire MHRB already powdered.\n\nPolar acid extraction\n\nAcidified water is useful in this extraction because it will help more of the active compound be absorbed into the water.\n\n1) Mix, in the empty one-gallon plastic jug, one pint of white vinegar and 3.5 quarts of distilled water.\nIf you cannot measure that, you may approximate with 1 part white vinegar/ 3 parts distilled water. \n2 pints = 1 quart. 4 quarts is 1 gallon. To chose the later method, a person will be over acidifying their mix a little, this can be corrected later in the basification.\n\nPut the ground-up Mimosa tenuiflora root-bark in a three-liter crockpot, then fill it with 50% of the water-vinegar solution. (a pot can be used when a crockpot is not available, be careful not to let it boil over)\n\n2) Stir well and turn it on the “high” temperature setting for a crockpot. Be careful to keep it on a low rolling boil, if it has to boil at all; heat will help the extraction, but too much heat will break down your product. Use low to medium settings for a stove. You may stir occasionally, after two hours, carefully pour off most of the liquid into a one-gallon wide-mouthed glass or stainless steel container. Take special care not to lose any plant matter in the pour; All your plant matter should stay within the pot. After pouring off what has already been extracted, your are ready to extract again form your base material.\n\n3) Add 50% of the remaining water-vinegar solution to the crockpot and repeat step #2. Then, repeat step #2 again with the last of the water-vinegar solution. The bark will have been pulled from three times by the end of this. The process will take some where over 6 hours to complete.\n\n4) Squeeze the root-bark fiber to press out any remaining liquid, and then discard the root-bark fiber and save the three combined extractions in the one-gallon container. Allow the particles in the extraction in the one-gallon container to settle to the bottom over night, then decant off the liquid into an empty one-gallon glass wine jug, being careful not to include any of the sludge at the bottom. Discard the sludge and keep the contents of the wine jug.\n\nBasification\n\nThis will basify the water and compounds in it; it will allow the naphtha to absorb the alkaloids.\n\n1) In advance, mix a solution of 4 tablespoons (50 grams) of sodium hydroxide (lye) with 1 pint of cold water. [Note: Lye is dangerous. Blind-you-forever dangerous. Have a bottle of vinegar handy as an acid to neutralize the caustically basic lye when cleaning up any spills that occur, and wear eye protection and rubber gloves when working with lye. Always add the lye to the water, and not the other way around. Adding water to lye may cause unwanted emulsion (volcano reaction).  If you had chosen to use extra vinegar earlier in the process, you may add additional lye. A good rule of thumb is to add lye until your mixture blackens, and then add a little bit more. Excess lye will not hinder the process, but too little lye will.\n\n2) Slowly add this solution to the wine jug, then cap the jug. Adding lye to the water too quickly may cause the glass to heat and break, so one must take care to add the lye slowly. Gently tilt the wine jug back and forth for one full minute to completely mix the contents, or stir the contents carefully with a glass tool. As an additional precaution, a person can place the wine jug/jar in a bathtub, or something similar before and during the basification to avoid collateral damage or personal injury should the glass break.\n\nNonpolar-Naptha extraction\n\nThis will pull the product out of our liquid and into the naphtha for more refining.\n\nA person can add as much naphtha as the amount of canning jars they posses will allow. For one canning jar, add 200 ml of naptha (VM&P, not lighter fluid) to the wine jug, then cap the jug. Gently tilt the wine jug back and forth for three full minutes to mix the contents, or stir with a glass tool. Allow the jug to sit undisturbed on a table for three hours. There should now be two layers visible in the jug, a lower dark one and a smaller clear one on top(much like a salad dressing). Only the top layer is important to use now, as it is what contains the DMT, but one should not discard the bottom layer yet, as it can be pulled from more than once. Use a glass turkey baster or pyrex decanter to suck up the top layer, and transfer this into a pint-sized mason jar. Be careful not to suck up any of the lower brown/black layer into the mason jar. This step can be repeated depending on how many times you chose to extract with the same naphtha, new naphtha, or how much you put in to begin with. (don't use too much)\n\nA person can chose to let this naphtha solution evaporate completely in a glass, or pyrex dish. If proper solvent was used, one need not worry about chemical residue. Scrape up the final dry product and smoke. Many people chose to freeze precipitate.\n\nFreeze-Precipitation (optional)\n\nIn lamence terms, this will cause the DMT crystals to clump up, so that they can be extracted from the naphtha through a filter\n\n#Place the sealed mason/canning jar in a very cold (-20 C) freezer for three days to precipitate the crystals. A person can chose to let half or more of the naphtha evaporate before freezing to concentrate the precipitation.\n#Prepare a filter setup by placing a funnel into a quart mason jar and putting a small coffee filter paper into the funnel. Shake the naptha in the mason jar strongly to stir up all the crystals at the bottom and very quickly pour (while still ice cold) into the funnel for filtering. (Save the naphtha to repeat non polar extraction.) Impure yellow-white DMT crystals will be seen on the coffee filter paper. Allow the crystals to completely dry out on the filter paper in the funnel.\n\nIf no funnel is available, place a filter on a canning jar, and only place the outer lid on the jar, so that the coffee filer is exposed, and pour the naphtha through the filter, into the jar, saving the crystals on the paper. A rubber band (or hair tie) can be used in place of a canning lid, be careful not to let the solvent break down the rubber into your naphtha solution.\n\nNotes\n\n*The Marisfold Tek, that this was sourced from, mentions an ammonia wash. This step has been omitted because it is outdated, and often results in the loss of much of the final product.\n\n*Dosage and preparation can be found in other parts of the psychonaut wiki.\n\n*This is for informational and educational purposes only. It is up to an individual to know his or her local laws concerning possession, or extraction of psychoactive substances, or plants.\n\nReferences\n\n*http://www.entheogenreview.com/Resources/DMT.pdf\n\nCategory:Extraction\nCategory:DMT extraction",
+ "wikitext": "{|\n|-\n|{{Disclaimer}}\n|\n|}\n{{SubstanceBox/DMT}}\nThe purpose of chemical extractions is to separate psychoactive substances from their base material. DXM from cough syrup for example. In this case, DMT from Mimosa Tenuiflora (Hostillis). This A/B Tek is based on the Marisfold Tek.\n\n==Materials==\n\n'''Base Material:''' ''1 lb Powdered or finely ground MHRB'' (Mimosa Tenuiflora/Hostilis root bark). The smaller the better. Powder can be a little annoying to work with, but its good to have as much surface area as you can.<br />\n\n'''Acid:''' Distilled White Vinegar is the acid we will be using in this case. <br />\n\n'''Base:''' \"Food Safe\" NaOH/Lye - (Red Devil Food Grade Lye is commonly used.)<br />\n\n'''Solvent:''' ''VM&P Naptha'' is a good and common organic solvent to use, and will be the choice for this extraction. Prohibited in California. (Not just any solvent will do. Its important to pick something that will not leave toxic residue. Many lighter fluids will have toxic contaminants, please test for impurities before attempting)<br />\n \n===Other materials===\n\n*At least 1 Pint Canning jar(s) (Regular glass jars recycled from jelly, for example, will work if cleaned throughly)\n*A pack of Coffee filters (It's useful to have canning jars for this because the lid is two separate pieces)\n*Pyrex or glass decanter (turkey basters are commonly used.)\n*A 1 gallon glass wine jug, or glass container.\n*A 1 gallon wide-mouthed glass or stainless steel container.\n*Three-liter crockpot (a stove top pot can be used, but is not preferred)\n*Funnel\n*Distilled Water\n*Empty one-gallon plastic jug\n*Eye protection\n*Rubber gloves\n*A freezer on its coldest setting\n*A quart mason jar\n\n==Method:==\n\n===Material preparation===\nThis will create surface area for the water and the bark to meet, resulting in optimum extraction.\n\nGrind 1lb of root-bark as finely as you can. 1 millimeter in diameter or smaller: finer is better.\nYou can use a blender to do this, with little bits at a time. Be careful not to let the friction from the blades heat up the bark too much, and break down the goal material before you get to it. It's best to grind in bursts (off and on) rather than in one constant stream. Many people acquire MHRB already powdered.\n\n===Polar acid extraction===\nAcidified water is useful in this extraction because it will help more of the active compound be absorbed into the water.\n\n1) Mix, in the empty one-gallon plastic jug, one pint of white vinegar and 3.5 quarts of distilled water.\nIf you cannot measure that, you may approximate with 1 part white vinegar/ 3 parts distilled water. \n2 pints = 1 quart. 4 quarts is 1 gallon. To chose the later method, a person will be over acidifying their mix a little, this can be corrected later in the basification.\n\nPut the ground-up Mimosa tenuiflora root-bark in a three-liter crockpot, then fill it with 50% of the water-vinegar solution. (a pot can be used when a crockpot is not available, be careful not to let it boil over)\n\n2) Stir well and turn it on the “high” temperature setting for a crockpot. Be careful to keep it on a low rolling boil, if it has to boil at all; heat will help the extraction, but too much heat will break down your product. Use low to medium settings for a stove. You may stir occasionally, after two hours, carefully pour off most of the liquid into a one-gallon wide-mouthed glass or stainless steel container. Take special care not to lose any plant matter in the pour; All your plant matter should stay within the pot. After pouring off what has already been extracted, your are ready to extract again form your base material.\n\n3) Add 50% of the remaining water-vinegar solution to the crockpot and repeat step #2. Then, repeat step #2 again with the last of the water-vinegar solution. The bark will have been pulled from three times by the end of this. The process will take some where over 6 hours to complete.\n\n4) Squeeze the root-bark fiber to press out any remaining liquid, and then discard the root-bark fiber and save the three combined extractions in the one-gallon container. Allow the particles in the extraction in the one-gallon container to settle to the bottom over night, then decant off the liquid into an empty one-gallon glass wine jug, being careful not to include any of the sludge at the bottom. Discard the sludge and keep the contents of the wine jug.\n\n===Basification===\nThis will basify the water and compounds in it; it will allow the naphtha to absorb the alkaloids.\n\n1) In advance, mix a solution of 4 tablespoons (50 grams) of sodium hydroxide (lye) with 1 pint of cold water. [Note: Lye is dangerous. Blind-you-forever dangerous. Have a bottle of vinegar handy as an acid to neutralize the caustically basic lye when cleaning up any spills that occur, and wear eye protection and rubber gloves when working with lye. Always add the lye to the water, and not the other way around. Adding water to lye may cause unwanted emulsion (volcano reaction).  If you had chosen to use extra vinegar earlier in the process, you may add additional lye. A good rule of thumb is to add lye until your mixture blackens, and then add a little bit more. Excess lye will not hinder the process, but too little lye will.\n\n2) Slowly add this solution to the wine jug, then cap the jug. Adding lye to the water too quickly may cause the glass to heat and break, so one must take care to add the lye slowly. Gently tilt the wine jug back and forth for one full minute to completely mix the contents, or stir the contents carefully with a glass tool. As an additional precaution, a person can place the wine jug/jar in a bathtub, or something similar before and during the basification to avoid collateral damage or personal injury should the glass break.\n\n===Nonpolar-Naptha extraction===\nThis will pull the product out of our liquid and into the naphtha for more refining.\n\nA person can add as much naphtha as the amount of canning jars they posses will allow. For one canning jar, add 200 ml of naptha (VM&P, not lighter fluid) to the wine jug, then cap the jug. Gently tilt the wine jug back and forth for three full minutes to mix the contents, or stir with a glass tool. Allow the jug to sit undisturbed on a table for three hours. There should now be two layers visible in the jug, a lower dark one and a smaller clear one on top(much like a salad dressing). Only the top layer is important to use now, as it is what contains the DMT, but one should not discard the bottom layer yet, as it can be pulled from more than once. Use a glass turkey baster or pyrex decanter to suck up the top layer, and transfer this into a pint-sized mason jar. Be careful ''not'' to suck up any of the lower brown/black layer into the mason jar. This step can be repeated depending on how many times you chose to extract with the same naphtha, new naphtha, or how much you put in to begin with. (don't use too much)\n\n<sub>A person can chose to let this naphtha solution '''evaporate completely''' in a glass, or pyrex dish. If proper solvent was used, one need not worry about chemical residue. Scrape up the final dry product and smoke. Many people chose to freeze precipitate.</sub>\n\n===Freeze-Precipitation (optional)===\nIn lamence terms, this will cause the DMT crystals to clump up, so that they can be extracted from the naphtha through a filter\n\n#Place the sealed mason/canning jar in a very cold (-20 C) freezer for three days to precipitate the crystals. A person can chose to let half or more of the naphtha evaporate before freezing to concentrate the precipitation.\n#Prepare a filter setup by placing a funnel into a quart mason jar and putting a small coffee filter paper into the funnel. Shake the naptha in the mason jar strongly to stir up all the crystals at the bottom and very quickly pour (while still ice cold) into the funnel for filtering. (Save the naphtha to repeat non polar extraction.) Impure yellow-white DMT crystals will be seen on the coffee filter paper. Allow the crystals to '''completely dry''' out on the filter paper in the funnel.\n\nIf no funnel is available, place a filter on a canning jar, and only place the outer lid on the jar, so that the coffee filer is exposed, and pour the naphtha through the filter, into the jar, saving the crystals on the paper. A rubber band (or hair tie) can be used in place of a canning lid, be careful not to let the solvent break down the rubber into your naphtha solution.\n\n===Notes===\n\n*The Marisfold Tek, that this was sourced from, mentions an ammonia wash. This step has been omitted because it is outdated, and often results in the loss of much of the final product.\n\n*Dosage and preparation can be found in other parts of the psychonaut wiki.\n\n*This is for informational and educational purposes only. It is up to an individual to know his or her local laws concerning possession, or extraction of psychoactive substances, or plants.\n\n==References==\n\n*http://www.entheogenreview.com/Resources/DMT.pdf\n\n[[Category:Extraction]]\n[[Category:DMT extraction]]"
+}

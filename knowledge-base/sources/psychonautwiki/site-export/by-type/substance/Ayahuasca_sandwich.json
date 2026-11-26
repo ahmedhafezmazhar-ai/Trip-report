@@ -1,0 +1,288 @@
+{
+ "id": "psychonautwiki:1232",
+ "type": "substance",
+ "title": "Ayahuasca sandwich",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ayahuasca_sandwich",
+  "pageid": 1232,
+  "last_edited": "2022-11-30T05:32:01Z"
+ },
+ "categories": [
+  "Ayahuasca recipes"
+ ],
+ "substance_box_template": "SubstanceBox/Ayahuasca",
+ "substance_box": {
+  "names": {
+   "common": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori",
+   "substitutive": "",
+   "systematic": ""
+  },
+  "classes": {
+   "psychoactive": null,
+   "chemical": null
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "Differs between ingredients & preparation methods.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "20 - 60 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "1 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ayahuasca",
+    "Aya",
+    "Caapi",
+    "Cipó",
+    "Hoasca",
+    "Vegetal",
+    "Yagé",
+    "Yajé",
+    "Natem",
+    "Shori"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "8"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "File:Aya-cooking.jpg",
+   "clean": "File:Aya-cooking.jpg"
+  },
+  "PhotoImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "PhotoImageCaption": {
+   "raw": "Ayahuasca cooking in the Loreto region of Peru",
+   "clean": "Ayahuasca cooking in the Loreto region of Peru"
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of [[DMT]] & [[Harmala alkaloids]].",
+   "clean": "Molecular structure of DMT & Harmala alkaloids."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Ayahuasca.svg",
+   "clean": "File:Ayahuasca.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ayahuasca]], [[common name::Aya]], [[common name::Caapi]], [[common name::Cipó]], [[common name::Hoasca]], [[common name::Vegetal]], [[common name::Yagé]], [[common name::Yajé]], [[common name::Natem]], [[common name::Shori]]",
+   "clean": "Ayahuasca, Aya, Caapi, Cipó, Hoasca, Vegetal, Yagé, Yajé, Natem, Shori"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "Differs between ingredients & [[Ayahuasca#Recipes_and_preparation_methods|preparation methods]].",
+   "clean": "Differs between ingredients & preparation methods."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::8]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 8 hours"
+  }
+ },
+ "plain_text": "This alternative simple Ayahuasca recipe is designed to create a preparation that replicates the effects of Ayahuasca in sandwich form. \n\nCompared to a traditional ayahuasca brew, it has the advantages of being considerably simpler and quicker to prepare, while reducing the foul taste and nauseating effects it can produce by a significant margin. It also is considerably simpler and quicker to prepare than other simple ayahuasca recipes such as an ayahuasca smoothie or cupcakes and is much easier to consume in a manner that produces minimal nausea. \n\nThe final product is indistinguishable from a regular peanut butter and jelly sandwich (minus the root bark) which makes it one of the most convenient alternative ayahuasca recipes possible.\n\nMaterials\n\nEquipment\n\n*Blender/Food Processor \n*Small bowl\n*Spoon\n*Scales\n\nIngredients\n\n*Intended dosage of Syrian rue (2 - 5g)\n*Intended dosage of Mimosa hostilis / Acacia confusa root bark (2 - 6g)\n*One slice of bread\n*Peanut butter\n*Jelly/Jam\n*Honey (optional)\n\nRecipe\n\n#Grind the rootbark into a fine powder with a blender/food processor/coffee grinder. If the root bark is left at a stringy/ fluffy consistency, the texture will still be slightly noticeable.\n#Place about 1 1/2 tbsp of peanut butter into a small bowl and try to evenly incorporate the rootbark powder evenly throughout the peanut butter, if you have honey add a small amount as this will help with the consistency and taste.\n#Spread the rootbark-infused peanut butter on one-half of a single slice of bread, making sure to leave the other half for the jelly/jam. Do your best to not waste any rootbark.\n#Add your jelly/jam to the other half and fold your bread in half.\n#You should now have an ayahuasca peanut butter and jelly sandwich. Be sure to pre-load the Syrian Rue 15 - 60 minutes before ingesting. The Syrian Rue should be ground up with a blender or mortar and pestle. It can be consumed by packaging it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n\nSee also\n\n*Tutorial index\n*Simple Ayahuasca recipes\n*Traditional Ayahuasca brew\n*Ayahuasca Experience reports\n*Ayahuasca\n*DMT\n\nCategory:Ayahuasca recipes",
+ "wikitext": "{{headerpanel|{{Disclaimer}}}}\n{{SubstanceBox/Ayahuasca}}\n<onlyinclude>\nThis alternative [[:category:Simple Ayahuasca recipes|simple Ayahuasca recipe]] is designed to create a preparation that replicates the effects of [[Ayahuasca]] in sandwich form. \n\nCompared to a [[traditional ayahuasca brew]], it has the advantages of being considerably simpler and quicker to prepare, while reducing the foul taste and nauseating effects it can produce by a significant margin. It also is considerably simpler and quicker to prepare than other simple ayahuasca recipes such as an [[ayahuasca smoothie]] or [[ayahuasca cupcakes|cupcakes]] and is much easier to consume in a manner that produces minimal nausea. \n\nThe final product is indistinguishable from a regular peanut butter and jelly sandwich (minus the root bark) which makes it one of the most convenient alternative ayahuasca recipes possible.\n===Materials===\n====Equipment====\n*Blender/Food Processor \n*Small bowl\n*Spoon\n*Scales\n\n====Ingredients====\n*Intended dosage of Syrian rue (2 - 5g)\n*Intended dosage of ''Mimosa hostilis'' / ''Acacia confusa'' root bark (2 - 6g)\n*One slice of bread\n*Peanut butter\n*Jelly/Jam\n*Honey (optional)\n\n===Recipe===\n#Grind the rootbark into a fine powder with a blender/food processor/coffee grinder. If the root bark is left at a stringy/ fluffy consistency, the texture will still be slightly noticeable.\n#Place about 1 1/2 tbsp of peanut butter into a small bowl and try to evenly incorporate the rootbark powder evenly throughout the peanut butter, if you have honey add a small amount as this will help with the consistency and taste.\n#Spread the rootbark-infused peanut butter on one-half of a single slice of bread, making sure to leave the other half for the jelly/jam. Do your best to not waste any rootbark.\n#Add your jelly/jam to the other half and fold your bread in half.\n#You should now have an ayahuasca peanut butter and jelly sandwich. Be sure to pre-load the Syrian Rue 15 - 60 minutes before ingesting. The Syrian Rue should be ground up with a blender or mortar and pestle. It can be consumed by packaging it into gel capsules or simply washing it down with milk (though it should be noted that this can be highly foul-tasting and unpleasant).\n</onlyinclude>\n==See also==\n*[[Tutorial index]]\n*[[:category:Simple Ayahuasca recipes|Simple Ayahuasca recipes]]\n*[[Traditional Ayahuasca brew]]\n*[[Experience index#Ayahuasca|Ayahuasca Experience reports]]\n*[[Ayahuasca]]\n*[[DMT]]\n\n[[Category:Ayahuasca recipes]]"
+}

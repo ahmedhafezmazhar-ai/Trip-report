@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22026",
+ "type": "substance-summary",
+ "title": "Tilidine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tilidine/Summary",
+  "pageid": 22026,
+  "last_edited": "2024-04-30T19:41:43Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Tilidine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Tilidine}}"
+}

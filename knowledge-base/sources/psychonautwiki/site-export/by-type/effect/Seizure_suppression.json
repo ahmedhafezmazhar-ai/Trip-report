@@ -1,0 +1,21 @@
+{
+ "id": "psychonautwiki:9822",
+ "type": "effect",
+ "title": "Seizure suppression",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Seizure_suppression",
+  "pageid": 9822,
+  "last_edited": "2020-02-06T13:15:55Z"
+ },
+ "categories": [
+  "Effect",
+  "Physical",
+  "Suppression"
+ ],
+ "plain_text": "Seizure suppression is an effect caused by drugs known as \"anticonvulsants\". These drugs prevent or reduce the severity and frequency of seizures in various types of epilepsy. \n\nThe different types of anticonvulsants may act on different receptors in the brain and have different modes of action. Two mechanisms that appear to be important in anticonvulsants are an enhancement of GABA action and inhibition of sodium channel activity. Other mechanisms are the inhibition of calcium channels and glutamate receptors.\n\nSeizure suppression is most commonly induced under the influence of moderate dosages of certain GABAergic compounds and certain cannabinoids.\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nExperience reports\n\nAnnectdotal reports which describe this effect with our experience index include:\n\nSee also\n\n*Responsible use\n*Seizure\n*Subjective effects index\n*Psychedelics - Subjective effects\n*Dissociatives - Subjective effects\n*Deliriants - Subjective effects\n\nExternal links\n\n* Anticonvulsant (Wikipedia)\nCategory:Physical Category:Suppression Category:Effect",
+ "wikitext": "<onlyinclude>'''Seizure suppression''' is an effect caused by drugs known as \"anticonvulsants\". These drugs prevent or reduce the severity and frequency of [[seizure|seizures]] in various types of epilepsy. \n\nThe different types of anticonvulsants may act on different receptors in the brain and have different modes of action. Two mechanisms that appear to be important in anticonvulsants are an enhancement of [[GABA]] action and inhibition of sodium channel activity. Other mechanisms are the inhibition of calcium channels and [[glutamate]] [[receptors]].\n\nSeizure suppression is most commonly induced under the influence of [[dosage#common|moderate]] [[dosage|dosages]] of certain [[GABAergic]] compounds and certain [[cannabinoid|cannabinoids]].</onlyinclude>\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Seizure suppression]]|format=ul|Columns=1}}\n===Experience reports===\nAnnectdotal reports which describe this effect with our [[experience index]] include:\n{{#ask:[[Category:Experience]][[Effect::Seizure suppression]]|format=ul|Columns=2}}\n===See also===\n*[[Responsible use]]\n*[[Seizure]]\n*[[Subjective effects index]]\n*[[Psychedelics#Subjective_effects|Psychedelics - Subjective effects]]\n*[[Dissociatives#Subjective_effects|Dissociatives - Subjective effects]]\n*[[Deliriants#Subjective_effects|Deliriants - Subjective effects]]\n===External links===\n* [https://en.wikipedia.org/wiki/Anticonvulsant Anticonvulsant (Wikipedia)]\n[[Category:Physical]] [[Category:Suppression]] [[Category:Effect]]"
+}

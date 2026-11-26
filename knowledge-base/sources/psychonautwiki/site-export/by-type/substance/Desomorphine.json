@@ -1,0 +1,301 @@
+{
+ "id": "psychonautwiki:16288",
+ "type": "substance",
+ "title": "Desomorphine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Desomorphine",
+  "pageid": 16288,
+  "last_edited": "2025-11-29T03:53:26Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Benzofuran",
+  "CS1 German-language sources (de)",
+  "Morphinan",
+  "Opioid",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Desomorphine",
+ "substance_box": {
+  "names": {
+   "common": "Desomorphine, Krokodil, Krok",
+   "substitutive": "Dihydrodesoxymorphine",
+   "systematic": "4,5-α-Epoxy-17-methylmorphinan-3-o"
+  },
+  "classes": {
+   "psychoactive": "Opioid",
+   "chemical": "Morphinan"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 10 mg",
+    "light": "10 - 15 mg",
+    "common": "15 - 20 mg",
+    "strong": "20 - 30 mg",
+    "heavy": "30 mg +",
+    "duration": "3 - 4 hours",
+    "onset": "",
+    "comeup": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Desomorphine",
+    "Krokodil",
+    "Krok"
+   ],
+   "psychoactive class": [
+    "Opioid"
+   ],
+   "chemical class": [
+    "Morphinan"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "15"
+   ],
+   "Oral min common dose": [
+    "15"
+   ],
+   "Oral max common dose": [
+    "20"
+   ],
+   "Oral min strong dose": [
+    "20"
+   ],
+   "Oral max strong dose": [
+    "30"
+   ],
+   "Oral heavy dose": [
+    "30"
+   ],
+   "Oral min total time": [
+    "3"
+   ],
+   "Oral max total time": [
+    "4"
+   ],
+   "Oral total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Desomorphine",
+   "clean": "Molecular structure of Desomorphine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Desomorphine.svg",
+   "clean": "File:Desomorphine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Desomorphine]], [[common name::Krokodil]], [[common name::Krok]]",
+   "clean": "Desomorphine, Krokodil, Krok"
+  },
+  "NameSubstitution": {
+   "raw": "Dihydrodesoxymorphine",
+   "clean": "Dihydrodesoxymorphine"
+  },
+  "NameSystematic": {
+   "raw": "4,5-α-Epoxy-17-methylmorphinan-3-o",
+   "clean": "4,5-α-Epoxy-17-methylmorphinan-3-o"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Opioid]]",
+   "clean": "Opioid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Morphinan]]",
+   "clean": "Morphinan"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< [[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "< 10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::15]] - [[Oral max common dose::20]] mg",
+   "clean": "15 - 20 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::20]] - [[Oral max strong dose::30]] mg",
+   "clean": "20 - 30 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::30]] mg +",
+   "clean": "30 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::3]] - [[Oral max total time::4]] [[Oral total time units::hours]]",
+   "clean": "3 - 4 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Comeup": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Desomorphine (also known as Dihydrodesoxymorphine) is an opioid substance of the morphinan chemical class that produces analgesic, muscle-relaxing, sedative, and euphoric effects when administered. \nIt is a structural analog of morphine and the psychoactive component of the mixture known as Krokodil  (also known as Crocodile, Krok, or Croc). \n\nDeveloped by Roche in the 1930s, desomorphine first saw use in Switzerland under the trade name Permonid. \nIt was described as having a fast onset, a short duration of action, relatively little nausea, and analgesic potency 8 to 10 times higher than morphine. \nConcerns about its dependence and abuse potential stemming from these properties led it to fall out of clinical use. \n\nDesomorphine first emerged in the Russian drug scene around 2003 under the term Krokodil. The name is a reference to the scaly, green-black skin discoloration frequently noted in its users. Its use and prevalence has been attributed to widespread availability of codeine tablets as inexpensive over-the-counter drugs, along with a simple production process that can be done in a kitchen laboratory using iodine, red phosphorus, paint thinner, and hydrochloric acid.\n\nThe application of krokodil regularly induces immediate damage to blood vessels, muscles, and bone and can induce multiple organ failure. These severe complications are, however, caused by the toxic byproducts of the home production process rather than desomorphine itself.\n\nIt should be noted that the scientific coverage of Krokodil is lacking and most of the knowledge concerning krokodil is based on media coverage. A small number of cases involving krokodil use outside of Russia, including Germany and the United States, have been reported but have failed to be substantiated. As of 2018, the only confirmed reports of krokodil use are from Russia. \n\nHistory and culture\n\nDesomorphine was first synthesized and patented in the United States in 1932. \nIt was originally synthesized with the intention to create an alternative to morphine in terms of tolerance and addiction properties and improve the side effect profile.\nHowever, desomorphine fell short of these expectations and showed an increased dependence potential compared with morphine.\n\nDesomorphine was used in Switzerland and introduced to the Swiss market in 1940 by the company Hoffman-La Roche, under the registered trade name of Permonid. It was used predominantly for postoperative pain due to its fast onset of action and reduced the tendency to cause respiratory depression and nausea.\nToward the end of 1952, Permonid was withdrawn from the market. Notably, the production of Permonid was continued in Switzerland until 1981 due to the idiosyncratic analgesic needs of a single patient in Bern, Switzerland, who suffered from a rare disease.\n\nIn Russia, krokodil is considered an inexpensive and highly addictive substitute for heroin. Its name is derived from crocodile (krokodil in Russian) and refers to the scaly, green-black skin discoloration frequently noted in its users. Krokodil is produced by synthesizing desomorphine from codeine and combining it with other low-cost, easily obtained additives. These additives can include hydrochloric acid, red phosphorus (from matchbook striking surfaces), iodine, gasoline, and paint thinner and have been proposed to underly krokodil's severe skin and systemic effects. This production process is similar to that used to make street methamphetamine.\n\nSince 2003, the prevalence of krokodil use in Russia has been increasing rapidly, presumably as a consequence of its low cost and its high dependence potential.\n\nChemistry\n\nDesomorphine, a benzylisoquinoline alkaloid, is an opioid of the morphinan class. Dorphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen-containing ring is fused to the phenanthrene at R9 and R13 with the nitrogen member looking at R17 of the combined structure. This structure is called morphinan. \n\nDesomorphine (along with other morphinans) contains an ether bridge between two of its rings, connecting R4 and R5 through an oxygen group. It contains one hydroxy group (OH-), bound at R3, and a methyl group located on the nitrogen atom at R17. \nIt chemically differs from morphine with regard to the absent secondary hydroxy group at R6 and the saturated double bond.\n\nPharmacology\n\nhe drug can be made from codeine and iodine derived from over-the-counter medications and red phosphorus from match strikers, in a process similar to the manufacturing of methamphetamine from pseudoephedrine. Like methamphetamine, desomorphine made this way is often contaminated with various agents. The street name in Russia for homemade desomorphine is krokodil (Russian: крокодил, crocodile), possibly related to the chemical name of the precursor α-chlorocodide, or the resemblance of the skin damage caused by the drug to a crocodile's leather.\n\nDesomorphine is a morphine analogue where the 6-hydroxyl group and the 7,8 double bond have been reduced. The traditional synthesis of desomorphine starts from α-chlorocodide, which is itself obtained by treating thionyl chloride with codeine. By catalytic reduction, α-chlorocodide gives dihydrodesoxycodeine, which yields desomorphine on demethylation. \n\nLike other opiates, desomorphine exerts its effects by binding to and activating the μ-opioid receptor as an agonist. This occurs due to the way in which opioids functionally mimic the body's natural endorphins. Endorphins are responsible for analgesia (pain reduction), sleepiness, and feelings of pleasure and enjoyment. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's euphoric, analgesic (pain relief), and anxiolytic (anti-anxiety) effects. \n\nSubjective effects\n\nDue to a lack of anecdotal reports using high purity desomorphine, the following effects are extrapolated from early clinical reports and inferences based on its relation to codeine and morphine. Desomorphine is considered to be powerfully euphoric opiate analgesia, with a fast onset and shorter duration that can encourage compulsive usage.\n\nToxicity and harm potential\n\nToxicity of desomorphine\n\nLike most opioids, unadulterated desomorphine does not cause many long-term complications other than dependence and constipation. Outside of the extremely powerful addiction and physical dependence potential, the harmful or toxic aspects of desomorphine usage are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing and using impure products derived from low-quality black-market self-manufacture.\n\nAnimal studies comparing pure desomorphine to morphine showed it to have increased toxicity, more potent relief of pain, higher levels of sedation, decreased respiration, and increased digestive activity\n\nHeavy dosages of desomorphine can result in respiratory depression, leading to fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by agonism of µ-opioid receptors proportional to the dosage consumed. \n\nDesomorphine can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the recovery position). \n\nToxicity of \"krokodil\"\n\nIllicitly produced desomorphine is typically far from pure and often contains large amounts of toxic substances as a result of being \"cooked\" and used without any significant effort to remove the byproducts and leftovers from synthesis. Injecting any such mixture can cause serious damage to the skin, blood vessels, bone, and muscles, sometimes requiring limb amputation in long-term users.\n\nCauses of this damage include iodine, phosphorus, and leftover solvents like gasoline and paint-thinner that are not adequately removed after synthesis. \nStrong acids and bases such as hydrochloric acid and sodium hydroxide are also employed without measuring pH of the final solution. \nFailure to remove insoluble fillers and binding aids from the codeine tablets used as starting material, as well as co-administration with pharmaceuticals such as tropicamide and tianeptine, are also cited as possible contributors to the high toxicity observed in users.\n\nThe frequent occurrence of tissue damage and infection among illicit users are what gained the drug its nickname of the \"flesh-eating drug.\" The pure form of the drug itself does not cause this damage. Despite the severe health impacts and short survival times commonly reported, there are also rarer cases of krokodil users more skilled in the manufacturing process who have used the drug for many years without experiencing the tissue damage associated with the impure \"street\" product.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other opiate-based painkillers, the chronic use of desomorphine can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, withdrawal symptoms may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of desomorphine develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the euphoric effects growing most quickly. Desomorphine presents cross-tolerance with all other opioids, meaning that after the consumption of desomorphine all opioids will have a reduced effect.\n\nOverdose\n\nDepending on drug interactions and numerous other factors, death from overdose can take anywhere from several minutes to several hours. Death usually occurs due to lack of oxygen resulting from the lack of breathing. Many fatalities reported as opiate overdoses are probably caused by interactions with other depressants such as alcohol or benzodiazepines. It should also be noted that since opiates can cause nausea and vomiting, a significant number of deaths attributed to opiate overdose are caused by aspiration of vomit by an unconscious person.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.\n\nOpiate overdose is usually treated with an opioid antagonist, such as naloxone (Narcan). This reverses the effects of opioids like desomorphine and causes an immediate return of consciousness but may result in withdrawal symptoms. The half-life of naloxone is shorter than most opioids, so it may have to be administered multiple times until the body has metabolized the opioid.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2M2B, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation and sedation caused by each other and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n\nLegal status\n\n*Germany: Desomorphine is controlled under BtMG Anlage I, making it illegal to manufacture, import, possess, sell, or transfer it without a license.\n*Russia: Desomorphine is a Schedule I controlled substance.\n*Switzerland: Desomorphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*United States: Desomorphine is a Schedule I substance in the United States. It is illegal to manufacture, buy, possess, or distribute without a DEA license.\n\nSee also\n\n*Responsible use\n**Volumetric liquid dosing\n**Safer injection guide\n**Sharing injection materials\n**Cotton fever\n**Naloxone\n*Opioid\n*Codeine\n*Morphine\n\nExternal links\n\n*Desomorphine (Wikipedia)\n*Desomorphine (Erowid Vault)\n*Desomorphine (Isomer Design)\n*Desomorphine (DrugBank)\n\nLiterature\n\n*Gahr, M., Freudenmann, R. W., Hiemke, C., Gunst, I. M., Connemann, B. J., & Schönfeldt-Lecuona, C. (2012). Desomorphine goes “crocodile”. Journal of Addictive Diseases, 31(4), 407-412. https://doi.org/10.108//10550887.2012.735570\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Opioid\nCategory:Morphinan\nCategory:Benzofuran",
+ "wikitext": "{{headerpanel|{{DepressantOD|opiates}}}}\n{{SummarySheet}}\n{{SubstanceBox/Desomorphine}}\n\n'''Desomorphine''' (also known as '''Dihydrodesoxymorphine''') is an [[psychoactive class::opioid]] substance of the [[chemical class::morphinan]] chemical class that produces [[pain relief|analgesic]], [[muscle relaxation|muscle-relaxing]], [[sedation|sedative]], and [[euphoric]] effects when [[administered]]. \nIt is a structural analog of [[morphine]] and the psychoactive component of the mixture known as '''Krokodil'''  (also known as '''Crocodile''', '''Krok''', or '''Croc'''). \n\nDeveloped by Roche in the 1930s, desomorphine first saw use in Switzerland under the trade name '''Permonid'''.<ref name=\"Hackenthal1998\">Hackenthal E. Desomorphin. Hintergrund. (Desomorphine Background). In: Hagers Handbuch der Pharmazeutischen Praxis (Hager′s compendium of pharmaceutical practice). vol 4, 5th ed. Berlin: NOVOSTI, 1998.</ref> \nIt was described as having a fast onset, a short duration of action, relatively little nausea, and analgesic potency 8 to 10 times higher than morphine.<ref>{{cite journal | vauthors=((Sargent, L. J.)), ((May, E. L.)) | journal=Journal of Medicinal Chemistry | title=Agonists-antagonists derived from desomorphine and metopon | volume=13 | issue=6 | pages=1061–1063 | date= November 1970 | url=https://pubs.acs.org/doi/abs/10.1021/jm00300a009 | issn=0022-2623 | doi=10.1021/jm00300a009}}</ref><ref>{{cite journal | vauthors=((Janssen, P. A. J.)) | journal=British Journal of Anaesthesia | title=A review of the chemical features associated with strong morphine-like activity | volume=34 | issue=4 | pages=260–268 | date= April 1962 | url=https://linkinghub.elsevier.com/retrieve/pii/S0007091217402030 | issn=00070912 | doi=10.1093/bja/34.4.260}}</ref><ref>Bognar R, Makleit S. Neue Methode für die Vorbereitung von dihydro-6-desoxymorphine (A new method for the preparation  of  dihydro-6-desoxymorphinan). Arzneimittelforschung 1958; 6:323–5.</ref> \nConcerns about its dependence and abuse potential stemming from these properties led it to fall out of clinical use. \n\nDesomorphine first emerged in the Russian drug scene around 2003 under the term '''Krokodil'''.<ref>Russian  News  &  Information  Agency NOVOSTI.  Desomorphin.  Hintergrund (Desomorphine. Background). http://de15.rian.ru/onlinenews/20100604/126584668-print.html (accessed December 20, 2011).</ref> The name is a reference to the scaly, green-black skin discoloration frequently noted in its users.<ref name=\"GrundLatypov2013\">{{cite journal|last1=Grund|first1=Jean-Paul C.|last2=Latypov|first2=Alisher|last3=Harris|first3=Magdalena|title=Breaking worse: The emergence of krokodil and excessive injuries among people who inject drugs in Eurasia|journal=International Journal of Drug Policy|volume=24|issue=4|year=2013|pages=265–274|issn=09553959|doi=10.1016/j.drugpo.2013.04.007}}</ref> Its use and prevalence has been attributed to widespread availability of codeine tablets as inexpensive over-the-counter drugs, along with a simple production process that can be done in a kitchen laboratory using iodine, red phosphorus, paint thinner, and hydrochloric acid.<ref name=\"gahr\">{{cite journal|last1=Gahr|first1=Maximilian|last2=Freudenmann|first2=Roland W.|last3=Hiemke|first3=Christoph|last4=Gunst|first4=Ingo M.|last5=Connemann|first5=Bernhard J.|last6=Schönfeldt-Lecuona|first6=Carlos|title=Desomorphine Goes “Crocodile”|journal=Journal of Addictive Diseases|volume=31|issue=4|year=2012|pages=407–412|issn=1055-0887|doi=10.1080/10550887.2012.735570}}</ref>\n\nThe application of krokodil regularly induces immediate damage to blood vessels, muscles, and bone and can induce multiple organ failure.<ref name=\"gahr\" /> These severe complications are, however, caused by the toxic byproducts of the home production process rather than desomorphine itself.<ref name=\"gahr\" />\n\nIt should be noted that the scientific coverage of Krokodil is lacking and most of the knowledge concerning krokodil is based on media coverage. A small number of cases involving krokodil use outside of Russia, including Germany and the United States, have been reported but have failed to be substantiated. As of 2018, the only confirmed reports of krokodil use are from Russia. \n\n==History and culture==\nDesomorphine was first synthesized and patented in the United States in 1932.<ref>{{Citation | vauthors=((Frederick, S. L.)) | title=Morphine derivative and processes for its preparation | url=https://patents.google.com/patent/US1980972A/en}}</ref><ref>{{cite journal | vauthors=((Small, L. F.)), ((Yuen, K. C.)), ((Eilers, L. K.)) | journal=Journal of the American Chemical Society | title=The Catalytic Hydrogenation of the Halogenomorphides: Dihydrodesoxymorphine-D 1 | volume=55 | issue=9 | pages=3863–3870 | date= September 1933 | url=https://pubs.acs.org/doi/abs/10.1021/ja01336a073 | issn=0002-7863 | doi=10.1021/ja01336a073}}</ref> \nIt was originally synthesized with the intention to create an alternative to morphine in terms of tolerance and addiction properties and improve the side effect profile.<ref name=\"howes\">{{cite journal | vauthors=((Eddy, N. B.)), ((Howes, H. A.)) | journal=Journal of Pharmacology and Experimental Therapeutics | title=Studies of Morphine, Codeine and Their Derivatives X. Desoxymorphine-C, Desoxycodeine-C and Their Hydrogenated Derivatives | volume=55 | issue=3 | pages=257–267 | date=1 November 1935 | url=https://jpet.aspetjournals.org/content/55/3/257 | issn=0022-3565}}</ref>\nHowever, desomorphine fell short of these expectations and showed an increased dependence potential compared with morphine.\n\nDesomorphine was used in Switzerland and introduced to the Swiss market in 1940 by the company Hoffman-La Roche, under the registered trade name of '''Permonid'''. It was used predominantly for postoperative pain due to its fast onset of action and reduced the tendency to cause respiratory depression and nausea.<ref name=\"howes\" /><ref name=\"Hackenthal1998\"/>\nToward the end of 1952, Permonid was withdrawn from the market. Notably, the production of Permonid was continued in Switzerland until 1981 due to the idiosyncratic analgesic needs of a single patient in Bern, Switzerland, who suffered from a rare disease.<ref name=\"gahr\" />\n\nIn Russia, krokodil is considered an inexpensive and highly addictive substitute for heroin.<ref name=\"AlvesGrund2015\">{{cite journal|last1=Alves|first1=Emanuele Amorim|last2=Grund|first2=Jean-Paul Cornelis|last3=Afonso|first3=Carlos Manuel|last4=Netto|first4=Annibal Duarte Pereira|last5=Carvalho|first5=Félix|last6=Dinis-Oliveira|first6=Ricardo Jorge|title=The harmful chemistry behind krokodil (desomorphine) synthesis and mechanisms of toxicity|journal=Forensic Science International|volume=249|year=2015|pages=207–213|issn=03790738|doi=10.1016/j.forsciint.2015.02.001}}</ref><ref name=\"shelton\">{{cite journal|last1=Shelton|first1=Megan|last2=Ramirez-Fort|first2=Marigdalia K.|last3=Lee|first3=Kachiu C.|last4=Ladizinski|first4=Barry|title=Krokodil|journal=JAMA Dermatology|volume=151|issue=1|year=2015|pages=32|issn=2168-6068|doi=10.1001/jamadermatol.2014.1025}}</ref> Its name is derived from crocodile (krokodil in Russian) and refers to the scaly, green-black skin discoloration frequently noted in its users.<ref name=\"GrundLatypov2013\">{{cite journal|last1=Grund|first1=Jean-Paul C.|last2=Latypov|first2=Alisher|last3=Harris|first3=Magdalena|title=Breaking worse: The emergence of krokodil and excessive injuries among people who inject drugs in Eurasia|journal=International Journal of Drug Policy|volume=24|issue=4|year=2013|pages=265–274|issn=09553959|doi=10.1016/j.drugpo.2013.04.007}}</ref> Krokodil is produced by synthesizing desomorphine from codeine and combining it with other low-cost, easily obtained additives.<ref name=\"shelton\" /> These additives can include hydrochloric acid, red phosphorus (from matchbook striking surfaces), iodine, gasoline, and paint thinner and have been proposed to underly krokodil's severe skin and systemic effects.<ref name=\"GrundLatypov2013\">{{cite journal|last1=Grund|first1=Jean-Paul C.|last2=Latypov|first2=Alisher|last3=Harris|first3=Magdalena|title=Breaking worse: The emergence of krokodil and excessive injuries among people who inject drugs in Eurasia|journal=International Journal of Drug Policy|volume=24|issue=4|year=2013|pages=265–274|issn=09553959|doi=10.1016/j.drugpo.2013.04.007}}</ref><ref name=\"shelton\" /> This production process is similar to that used to make street methamphetamine.\n\nSince 2003, the prevalence of krokodil use in Russia has been increasing rapidly, presumably as a consequence of its low cost and its high dependence potential.\n\n==Chemistry==\nDesomorphine, a benzylisoquinoline alkaloid, is an opioid of the morphinan class. Dorphine and other molecules of this class contain a polycyclic core of three benzene rings fused in a zig-zag pattern called phenanthrene. A fourth nitrogen-containing ring is fused to the phenanthrene at R<sub>9</sub> and R<sub>13</sub> with the nitrogen member looking at R<sub>17</sub> of the combined structure. This structure is called morphinan. \n\nDesomorphine (along with other morphinans) contains an ether bridge between two of its rings, connecting R<sub>4</sub> and R<sub>5</sub> through an oxygen group. It contains one hydroxy group (OH-), bound at R<sub>3</sub>, and a methyl group located on the nitrogen atom at R<sub>17</sub>. \nIt chemically differs from morphine with regard to the absent secondary hydroxy group at R<sub>6</sub> and the saturated double bond.\n\n==Pharmacology==\n{{pharmacology}}\nhe drug can be made from codeine and iodine derived from over-the-counter medications and red phosphorus from match strikers,<ref>{{cite journal | vauthors=((Savchuk, S. A.)), ((Barsegyan, S. S.)), ((Barsegyan, I. B.)), ((Kolesov, G. M.)) | journal=Journal of Analytical Chemistry | title=Chromatographic study of expert and biological samples containing desomorphine | volume=63 | issue=4 | pages=361–370 | date= April 2008 | url=http://link.springer.com/10.1134/S1061934808040096 | issn=1061-9348 | doi=10.1134/S1061934808040096}}</ref> in a process similar to the manufacturing of methamphetamine from pseudoephedrine. Like methamphetamine, desomorphine made this way is often contaminated with various agents. The street name in Russia for homemade desomorphine is '''krokodil''' (Russian: крокодил, crocodile), possibly related to the chemical name of the precursor α-chlorocodide, or the resemblance of the skin damage caused by the drug to a crocodile's leather.<ref name=\"gahr\"/>\n\nDesomorphine is a morphine analogue where the 6-hydroxyl group and the 7,8 double bond have been reduced. The traditional synthesis of desomorphine starts from α-chlorocodide, which is itself obtained by treating thionyl chloride with codeine. By catalytic reduction, α-chlorocodide gives dihydrodesoxycodeine, which yields desomorphine on demethylation.<ref>{{cite journal | vauthors=((Mosettig, E.)), ((Cohen, F. L.)), ((Small, L. F.)) | journal=Journal of the American Chemical Society | title=Desoxycodeine Studies. III. The Constitution of the So-Called α-Dihydrodesoxycodeine: Bis-Dihydrodesoxycodeine | volume=54 | issue=2 | pages=793–801 | date= February 1932 | url=https://pubs.acs.org/doi/abs/10.1021/ja01341a051 | issn=0002-7863 | doi=10.1021/ja01341a051}}</ref> \n\nLike other opiates, desomorphine exerts its effects by binding to and activating the [[μ-opioid]] [[receptor]] as an [[agonist]]. This occurs due to the way in which opioids functionally mimic the body's natural endorphins. Endorphins are responsible for analgesia (pain reduction), sleepiness, and feelings of pleasure and enjoyment. They can be released in response to pain, strenuous exercise, orgasm, or excitement. This mimicking of natural endorphins results in the drug's [[physical euphoria|euphoric]], [[pain relief|analgesic]] (pain relief), and [[anxiety suppression|anxiolytic]] (anti-anxiety) effects. \n\n==Subjective effects==\n{{effectStub}}\nDue to a lack of anecdotal reports using high purity desomorphine, the following effects are extrapolated from early clinical reports and inferences based on its relation to [[codeine]] and [[morphine]]. Desomorphine is considered to be powerfully euphoric opiate analgesia, with a fast onset and shorter duration that can encourage compulsive usage.\n\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]'''\n*'''[[Effect::Physical euphoria]]''' \n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Cough suppression]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Itchiness]]'''\n*'''[[Effect::Nausea]]''' - Desomorphine produces less nausea than [[morphine]], according to early clinical studies. \n*'''[[Effect::Pain relief]]'''\n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Respiratory depression]]''' - Desomorphine produces less respiratory depression than [[morphine]], according to early clinical studies. \n*'''[[Effect::Skin flushing]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Orgasm suppression]]'''\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Compulsive redosing]]''' - Due to its fast onset and shorter duration of action, this effect is more pronounced than it is for other opiates like morphine.\n*'''[[Effect::Dream potentiation]]'''\n}}\n{{effects/visual|\n\n====Suppressions====\n*'''[[Effect::Double vision]]''' - At high doses, the eyes un-focus and re-focus uncontrollably. This creates a blurred effect and double vision that is present no matter where one focuses their eyes. This can be so intense it becomes impossible to read or drive.\n\n====Hallucinatory States====\n*'''[[Effect::Internal hallucination]]''' - One may experience a state of semi-consciousness and [[hypnagogia]] during heavy dosage nodding which results in dream-like states.[[Lucid_dreaming#Internally_sourced_sensory_input|imagery]]. This is often accompanied by ill-defined [[geometry]].\n\n\n}}\n}}\n\n==Toxicity and harm potential==\n===Toxicity of desomorphine===\nLike most opioids, unadulterated desomorphine does not cause many long-term complications other than dependence and constipation.<ref>Merck Manual of Home Health Handbook – 2nd edition, 2003, p. 2097</ref> Outside of the extremely powerful addiction and physical dependence potential, the harmful or toxic aspects of desomorphine usage are exclusively associated with not taking appropriate precautions in regards to its administration, overdosing and using impure products derived from low-quality black-market self-manufacture.\n\nAnimal studies comparing pure desomorphine to morphine showed it to have increased toxicity, more potent relief of pain, higher levels of sedation, decreased respiration, and increased digestive activity\n\nHeavy dosages of desomorphine can result in [[Respiratory depression|respiratory depression]], leading to fatal or dangerous levels of anoxia (oxygen deprivation). This occurs because the breathing reflex is suppressed by [[agonists|agonism]] of [[µ-opioid receptors]] proportional to the dosage consumed. \n\nDesomorphine can also cause nausea and vomiting; a significant number of deaths attributed to opioid overdose are caused by aspiration of vomit by an unconscious victim. This is when an unconscious or semi-conscious user who is lying on their back vomits into their mouth and unknowingly suffocates. It can be prevented by ensuring that one is lying on their side with their head tilted downwards so that the airways cannot be blocked in the event of vomiting while unconscious (also known as the [[recovery position]]). \n\n===Toxicity of \"krokodil\"===\nIllicitly produced desomorphine is typically far from pure and often contains large amounts of toxic substances as a result of being \"cooked\" and used without any significant effort to remove the byproducts and leftovers from synthesis. Injecting any such mixture can cause serious damage to the skin, blood vessels, bone, and muscles, sometimes requiring limb amputation in long-term users.<ref>{{cite journal | vauthors=((Katselou, M.)), ((Papoutsis, I.)), ((Nikolaou, P.)), ((Spiliopoulou, C.)), ((Athanaselis, S.)) | journal=Life Sciences | title=A “Krokodil” emerges from the murky waters of addiction. Abuse trends of an old drug | volume=102 | issue=2 | pages=81–87 | date= May 2014 | url=https://linkinghub.elsevier.com/retrieve/pii/S0024320514003324 | issn=00243205 | doi=10.1016/j.lfs.2014.03.008}}</ref>\n\nCauses of this damage include iodine, phosphorus, and leftover solvents like gasoline and paint-thinner that are not adequately removed after synthesis. \nStrong acids and bases such as hydrochloric acid and sodium hydroxide are also employed without measuring pH of the final solution. \nFailure to remove insoluble fillers and binding aids from the codeine tablets used as starting material, as well as co-administration with pharmaceuticals such as tropicamide<ref name=\"shelton\" /> and tianeptine<ref>{{cite journal | vauthors=((Haskin, A.)), ((Kim, N.)), ((Aguh, C.)) | journal=JAAD Case Reports | title=A new drug with a nasty bite: A case of krokodil-induced skin necrosis in an intravenous drug user | volume=2 | issue=2 | pages=174–176 | date= March 2016 | url=https://linkinghub.elsevier.com/retrieve/pii/S2352512616000230 | issn=23525126 | doi=10.1016/j.jdcr.2016.02.007}}</ref>, are also cited as possible contributors to the high toxicity observed in users.\n\nThe frequent occurrence of tissue damage and infection among illicit users are what gained the drug its nickname of the \"flesh-eating drug.\" The pure form of the drug itself does not cause this damage. Despite the severe health impacts and short survival times commonly reported, there are also rarer cases of krokodil users more skilled in the manufacturing process who have used the drug for many years without experiencing the tissue damage associated with the impure \"street\" product.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nAs with other opiate-based painkillers, the chronic use of desomorphine can be considered extremely addictive and is capable of causing both physical and psychological dependence. When physical dependence has developed, [[Opioids#Discontinuation|withdrawal symptoms]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of desomorphine develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the euphoric effects growing most quickly. Desomorphine presents cross-tolerance with [[Cross-tolerance::all other [[opioids]]]], meaning that after the consumption of desomorphine all [[opioid]]s will have a reduced effect.\n\n===Overdose===\n\nDepending on drug interactions and numerous other factors, death from overdose can take anywhere from several minutes to several hours. Death usually occurs due to lack of oxygen resulting from the lack of breathing. Many fatalities reported as opiate overdoses are probably caused by interactions with other [[depressants]] such as alcohol or benzodiazepines.<ref>{{cite journal | vauthors=((Darke, S.)), ((Zador, D.)) | journal=Addiction | title=Fatal heroin ‘overdose’: a review | volume=91 | issue=12 | pages=1765–1772 | date= December 1996 | url=http://doi.wiley.com/10.1046/j.1360-0443.1996.911217652.x | issn=09652140 | doi=10.1046/j.1360-0443.1996.911217652.x}}</ref> It should also be noted that since opiates can cause nausea and vomiting, a significant number of deaths attributed to opiate overdose are caused by aspiration of vomit by an unconscious person.\n\nThe risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance.<ref>Why Heroin Relapse Often Ends In Death - Lauren F Friedman (Business Insider) | http://www.businessinsider.com.au/philip-seymour-hoffman-overdose-2014-2</ref> To account for this lack of tolerance, it is safer to only dose a fraction of one's usual [[dosage]] if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.<ref>{{cite journal | vauthors=((Siegel, S.)), ((Hinson, R. E.)), ((Krank, M. D.)), ((McCully, J.)) | journal=Science | title=Heroin “Overdose” Death: Contribution of Drug-Associated Environmental Cues | volume=216 | issue=4544 | pages=436–437 | date=23 April 1982 | url=https://www.science.org/doi/10.1126/science.7200260 | issn=0036-8075 | doi=10.1126/science.7200260}}</ref>\n\nOpiate overdose is usually treated with an [[opioid]] [[antagonist]], such as naloxone (Narcan). This reverses the effects of opioids like desomorphine and causes an immediate return of consciousness but may result in withdrawal symptoms. The half-life of naloxone is shorter than most opioids, so it may have to be administered multiple times until the body has metabolized the opioid.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2M2B]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]] and [[sedation]] caused by each other and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n\n==Legal status==\n{{LegalStub}}\n\n*'''Germany:''' Desomorphine is controlled under BtMG Anlage I, making it illegal to manufacture, import, possess, sell, or transfer it without a license.<ref>{{Citation | title=Anlage I BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html}}</ref>\n*'''Russia:''' Desomorphine is a Schedule I controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 01.10.2012 N 1002 (ред. от 09.08.2019) | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=331879&dst=100084&date=02.12.2019}}</ref>\n*'''Switzerland''': Desomorphine is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United States:''' Desomorphine is a Schedule I substance in the United States. It is illegal to manufacture, buy, possess, or distribute without a DEA license.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric liquid dosing]]\n**[[Safer injection guide]]\n**[[Sharing injection materials]]\n**[[Cotton fever]]\n**[[Naloxone]]\n*[[Opioid]]\n*[[Codeine]]\n*[[Morphine]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Desomorphine Desomorphine (Wikipedia)]\n*[https://erowid.org/chemicals/desomorphine/desomorphine.shtml Desomorphine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3892 Desomorphine (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01531 Desomorphine (DrugBank)]\n\n==Literature==\n\n*Gahr, M., Freudenmann, R. W., Hiemke, C., Gunst, I. M., Connemann, B. J., & Schönfeldt-Lecuona, C. (2012). Desomorphine goes “crocodile”. Journal of Addictive Diseases, 31(4), 407-412. https://doi.org/10.108//10550887.2012.735570\n\n==References==\n{{reflist}}\n\n[[Category:Psychoactive substance]]\n[[Category:Opioid]]\n[[Category:Morphinan]]\n[[Category:Benzofuran]]\n\n{{#set:Featured=true}}"
+}

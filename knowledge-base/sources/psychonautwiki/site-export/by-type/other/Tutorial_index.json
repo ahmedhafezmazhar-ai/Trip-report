@@ -1,0 +1,19 @@
+{
+ "id": "psychonautwiki:27",
+ "type": "other",
+ "title": "Tutorial index",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tutorial_index",
+  "pageid": 27,
+  "last_edited": "2025-07-13T17:14:55Z"
+ },
+ "categories": [
+  "PsychonautWiki"
+ ],
+ "plain_text": "__NOTOC__\n\nThis section is dedicated to providing instructional information regarding a variety of recipes, chemical extraction methods and growing techniques for the preparation of different psychoactive substances. These guides are provided for informational and educational purposes only. For the safety of our community, please ensure that all submissions comply with the Tutorial index guidelines before posting. Articles that involve advanced chemical procedures must include independent third-party validation; otherwise, they will be moved to the Tutorial index draft page until the issue has been resolved.==Preparation==\n\nSee also\n\n*Responsible use\n\nCategory:PsychonautWiki",
+ "wikitext": "<noinclude>__NOTOC__</noinclude>\n{{SubmissionPanel/tutorial}}\nThis section is dedicated to providing instructional information regarding a variety of recipes, chemical extraction methods and growing techniques for the preparation of different [[psychoactive substances]]. These guides are provided for informational and educational purposes only. For the safety of our community, please ensure that all submissions comply with the [[Tutorial index guidelines]] before posting. Articles that involve advanced chemical procedures must include independent third-party validation; otherwise, they will be moved to the [[Draft:Tutorial index|Tutorial index draft]] page until the issue has been resolved.<onlyinclude><includeonly>==Preparation==</includeonly>\n{{:List/tutorials}}\n</onlyinclude>\n===See also===\n*[[Responsible use]]\n\n[[Category:PsychonautWiki]]\n\n{{#set:Featured=true}}"
+}

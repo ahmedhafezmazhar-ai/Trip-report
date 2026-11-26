@@ -1,0 +1,317 @@
+{
+ "id": "psychonautwiki:14817",
+ "type": "substance",
+ "title": "Clonidine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Clonidine",
+  "pageid": 14817,
+  "last_edited": "2026-11-01T01:15:59Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Arylaminoimidazoline",
+  "Depressant",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Clonidine",
+ "substance_box": {
+  "names": {
+   "common": "Catapres, Catapres-TTS, Kapvay, Nexiclon XR",
+   "substitutive": "Clonidine",
+   "systematic": "N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Arylaminoimidazoline"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section.  DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 μg",
+    "light": "50 - 75 μg",
+    "common": "75 - 100 μg",
+    "strong": "100 - 300 μg",
+    "heavy": "300 μg +",
+    "duration": "6 - 8 hours",
+    "onset": "15 - 45 minutes",
+    "peak": "60 - 90 minutes",
+    "offset": "6 - 8 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Catapres",
+    "Catapres-TTS",
+    "Kapvay",
+    "Nexiclon XR"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Arylaminoimidazoline"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "μg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "75"
+   ],
+   "Oral min common dose": [
+    "75"
+   ],
+   "Oral max common dose": [
+    "100"
+   ],
+   "Oral min strong dose": [
+    "100"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "45"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "60"
+   ],
+   "Oral max peak time": [
+    "90"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ],
+   "Oral min offset time": [
+    "6"
+   ],
+   "Oral max offset time": [
+    "8"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Clonidine.svg",
+   "clean": "File:Clonidine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Catapres]], [[common name::Catapres-TTS]], [[common name::Kapvay]], [[common name::Nexiclon XR]]",
+   "clean": "Catapres, Catapres-TTS, Kapvay, Nexiclon XR"
+  },
+  "NameSubstitution": {
+   "raw": "Clonidine",
+   "clean": "Clonidine"
+  },
+  "NameSystematic": {
+   "raw": "N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine",
+   "clean": "N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylaminoimidazoline]]",
+   "clean": "Arylaminoimidazoline"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u> <br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section.  DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::μg]]",
+   "clean": "25 μg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::75]] μg",
+   "clean": "50 - 75 μg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::75]] - [[Oral max common dose::100]] μg",
+   "clean": "75 - 100 μg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::100]] - [[Oral max strong dose::300]] μg",
+   "clean": "100 - 300 μg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] μg +",
+   "clean": "300 μg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::45]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 45 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::60]] - [[Oral max peak time::90]] [[Oral peak time units::minutes]]",
+   "clean": "60 - 90 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::6]] - [[Oral max offset time::8]] [[Oral offset time units::hours]]",
+   "clean": "6 - 8 hours"
+  }
+ },
+ "plain_text": "Clonidine (known by the trade names Catapres, Kapvay, Nexiclon, Clophelin, and others) is a depressant substance of the arylaminoimidazoline class. It is primarily used to treat high blood pressure, but can also be used for a variety of conditions that include attention deficit hyperactivity disorder, anxiety disorders, tic disorders, substance withdrawal, migraine, diarrhea, and certain pain conditions. \n\nDeveloped by Boehringer Ingelheim for its blood pressure effects, clonidine first saw clinical use in 1966. \nAs the first anti-hypertensive agent with a clearly identifiable central site of action, clonidine has been an important pharmacological tool in discovering the role of central α-adrenoceptors in the physiology of central blood pressure regulation.\n\nClonidine is classified as a centrally acting α2 adrenergic agonist and imidazoline receptor agonist.\nIts activity on the α2 receptors in the brainstem inhibits the release of norepinephrine (NE), resulting in decreased sympathetic nervous system tone.\n\nClonidine has several off-label uses. It has been prescribed to treat psychiatric disorders including stress, sleep disorders, and hyperarousal caused by post-traumatic stress disorder, borderline personality disorder, and other anxiety disorders.\n\nHistory and culture\n\nIn the early 1960s, the medicinal chemist Helmut Stähle was tasked by Boehringer Ingelheim with synthesizing a peripherally active a-adrenergic compound that would be useful for nasal decongestion as simple nose drops. A locally acting a-adrenergic vasoconstrictor agent was expected to provide relief from the symptoms of the common cold by shrinking the swollen nasal membranes and producing an unobstructed air passage.\n\nThe synthetic design of clonidine was achieved when Stähle had the idea of substituting two chlorine groups on the phenyl group of the imidazoline structure, which most of the newer decongestive agents at the time were derived from. At that time, a double halogen substitution was still unusual for pharmaceuticals, and the prevailing opinion was that compounds with several halogen atoms would at best be useful as pesticides. Despite this, clonidine was pursued and discovered to have a remarkably high vasoconstrictive and decongestive effect at an unusually low dosage level.\n\nThe decongestive effects were then determined by nasal cavity tests on anesthetized dogs. After the first trial in humans, it became clear that clonidine's decongestant properties were far less interesting than its potent anti-hypertensive effects. The compound was then developed for this new indication and was introduced into therapy in 1966 under the trade name Catapres, where it saw widespread use.\n\nWith the discovery of clonidine, the central a-adrenergic receptors first became known to chemists, pharmacologists and physicians. It has been an important pharmacological tool in researching the role of central α-adrenoceptors in the physiology of central blood pressure regulation and nervous system function.\n\nIn the 2010s, the US Food and Drug Administration (FDA) approved clonidine, both alone or with stimulants, for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric and adult patients. In Australia, clonidine is an accepted but not approved use for ADHD by the TGA.\n\nChemistry\n\nClonidine, or 2-[(2,6-Dichlorophenyl)imino]imidazoline, is a compound of the imidazoline chemical class. Imidazolines are substituted amidines in which the amidine function is incorporated into an imidazoline ring. This portion is connected to an aromatic nucleus by way of a methylene bridge. \n\nAdditionally, two chlorine atoms are substituted in the 2- and 6-positions of the phenyl ring. This addition has the critical effect of making the molecule sufficiently lipophilic to penetrate the blood-brain barrier.\n\nOther compounds of this class include the a-adrenergic agents tolazoline, naphazoline, and phentolamine. The a-adrenergic effects of clonidine and other imidazolidine compounds may be explained on the basis of a structural overlap between clonidine and norepinephrine.\n\nPharmacology\n\nPharmacodynamics\n\nClonidine is an agonist for the α2 adrenergic receptor. When α2 receptors in the brain are stimulated, peripheral vascular resistance decreases, resulting in lowered blood pressure. It has specificity towards the presynaptic α2 receptors in the vasomotor center in the brainstem. This binding decreases presynaptic calcium levels and inhibits the release of norepinephrine (NE). The net effect is a decrease in sympathetic nervous system tone. \n\nThree G-protein coupled α2-receptor subtypes have been identified: α2A, α2B, and α2C. Each subtype has a unique pattern of tissue distribution in the central nervous system and peripheral tissues. The α2A-receptor is widely distributed throughout the central nervous system; it is found in the locus coeruleus, brain stem nuclei, cerebral cortex, septum, hypothalamus, and hippocampus. α2A receptors are also expressed in the kidneys, spleen, thymus, lung and salivary glands. The α2C-receptor is primarily expressed in the central nervous system, including the striatum, olfactory tubercle, hippocampus and cerebral cortex. The α2B receptor is located primarily in the periphery (kidney, liver, lung and heart).\n\nThe α2A- and α2C receptors are located presynaptically and inhibit the released of noradrenaline from sympathetic nerves. Stimulation of these receptors decreases sympathetic tone, resulting in decreases in blood pressure and heart rate. Sedation and analgesia is mediated by centrally located α2A receptors, while peripheral α2B receptors mediate constriction of vascular smooth muscle. α2A receptors also mediate essential components of the analgesic effect of nitrous oxide in the spinal cord. Clonidine stimulates all three α2 receptor subtypes with similar potency.\n\nClonidine also has peripheral α1 agonist activity.\n\nClonidine is also an agonist for the imidazoline I1 receptor. This has been proposed to be responsible for the antihypertensive effects.\n\n{| class=\"wikitable\"\n|-\n! Binding Sites\n! Binding Affinity Ki (nM)\n|-\n| α1A\n| 316.23\n|-\n| α1B\n| 316.23\n|-\n| α1D\n| 125.89\n|-\n| α2A\n| 42.92\n|-\n| α2B\n| 106.31\n|-\n| α2C\n| 233.1\n|}\n\nPharmacokinetics\n\nClonidine is rapidly absorbed from the gastrointestinal tract and has excellent CNS penetration because of lipid solubility. Peak plasma concentrations are reached 3-5 hours after a single oral dose. No known pharmacologically active metabolites exist. Plasma half-life is 12-16 hours, with the antihypertensive effects occurring within 30-60 minutes of ingestion. Clonidine is excreted unchanged in the urine and is metabolized by the liver.\n\nSubjective effects\n\nExperience reports\n\nThere are currently  anecdotal reports which describe the effects of this compound within our experience index.\n\nAdditional experience reports can be found here:\n* Erowid Experience Vaults: Clonidine\n\nToxicity and harm potential\n\nAt therapeutic doses (0.2-0.9 mg/d), clonidine is commonly associated with adverse effects such as dry mouth, sedation, dizziness, and constipation. While generally safe, at toxic doses clonidine can cause serious cardiopulmonary instability and central nervous system (CNS) depression in children and adults. Caution should be used when clonidine is taken with other depressants. \n\nIt is strongly recommended that one use harm reduction practices when using this substance. \n\nLethal dosage\n\nThe oral LD50 for clonidine in mice is 206 mg/kg and for rats, 465 mg/kg. In humans, lethality is rare with a small number of reported deaths. Morbidity, in terms of cardiorespiratory and CNS dysfunction, generally tends to be more severe in young persons than in adults.\n\nOverdose\n\nSymptoms of clonidine overdose include constriction of pupils of the eye, drowsiness, high blood pressure followed by a drop in pressure, irritability, low body temperature, slowed breathing, slowed heartbeat, slowed reflexes, and weakness.\n\nThere are case reports that show naloxone may be a useful antidote in treating clonidine overdoses. However, this is not in widespread clinical use.\n\nTolerance and addiction potential\n\nClonidine is not addictive and has a low potential for abuse. The chronic use of clonidine can produce physical dependence and withdrawal symptoms if one suddenly stops their usage. Clonidine therapy should generally be gradually tapered when discontinuing therapy to avoid rebound hypertension from occurring. \n\nAlthough clonidine is not considered to be addictive, cases of misuse have been documented among certain groups with pre-existing substance use disorders. It is sometimes used in combination with opiates to extend and potentiate their effects. This practice may increase the risk of oversedation and respiratory depression associated with opioid use.\n\nDangerous interactions\n\nLegal status\n\n* Germany: Clonidine is prescription medicine, according to Anlage 1 AMVV.\n*Switzerland: Clonidine is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.\n* United States: Clonidine is only available with a prescription.\n\nSee also\n\n*Responsible use\n*Depressant\n*Adrenaline (Epinephrine)\n*Noradrenaline (Norpinephrine)\n\nExternal links\n\n*Clonidine (Wikipedia)\n*Clonidine (Erowid Vault)\n*Clonidine (Isomer Design)\n*Clonidine (Drugs-Forum)\n\nLiterature\n\n* Stähle, H. (2000). A historical perspective: development of clonidine. Best Practice & Research Clinical Anaesthesiology, 14(2), 237-246. https://doi.org/10.1053/bean.2000.007\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Arylaminoimidazoline",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Clonidine}}\n\n'''Clonidine''' (known by the trade names '''Catapres''', '''Kapvay''', '''Nexiclon''', '''Clophelin''', and others) is a [[psychoactive class::depressant]] substance of the [[chemical class::arylaminoimidazoline]] class. It is primarily used to treat [[increased blood pressure|high blood pressure]], but can also be used for a variety of conditions that include attention deficit hyperactivity disorder, [[anxiety]] disorders, tic disorders, [[drug withdrawal|substance withdrawal]], migraine, [[diarrhea]], and certain pain conditions.<ref>{{cite journal | veditors=((Soni, H.)), ((Brayfield, A.)) | journal=Pharmaceutical Press | title=“Clonidine”. Martindale: The Complete Drug Reference | volume=22 | issue=5 | pages=12–12 | date=13 January 2014 | url=http://rcnpublishing.com/doi/abs/10.7748/en.22.5.12.s13 | issn=1354-5752| doi=10.7748/en.22.5.12.s13 | access-date=28 June 2014}}</ref> \n\nDeveloped by Boehringer Ingelheim for its blood pressure effects, clonidine first saw clinical use in 1966.<ref name=\"Stahle\">{{cite journal | vauthors=((Stähle, H.)) | journal=Best Practice & Research Clinical Anaesthesiology | title=A historical perspective: development of clonidine | volume=14 | issue=2 | pages=237–246 | date= June 2000 | url=https://linkinghub.elsevier.com/retrieve/pii/S152168960090079X | issn=15216896 | doi=10.1053/bean.2000.0079}}</ref> \nAs the first anti-hypertensive agent with a clearly identifiable central site of action, clonidine has been an important pharmacological tool in discovering the role of central α-adrenoceptors in the physiology of central blood pressure regulation.<ref name=\"Stahle\" />\n\nClonidine is classified as a centrally acting α<sub>2</sub> [[adrenergic]] [[agonist]] and imidazoline [[receptor]] [[agonist]].<ref name=\"Stahle\" /><ref name=\"Neil\">{{cite journal | vauthors=((Neil, M. J.)) | journal=Current Clinical Pharmacology | title=Clonidine: clinical pharmacology and therapeutic use in pain management | volume=6 | issue=4 | pages=280–287 | date= November 2011 | issn=2212-3938 | doi=10.2174/157488411798375886}}</ref>\nIts activity on the α<sub>2</sub> receptors in the brainstem inhibits the release of [[norepinephrine]] (NE), resulting in decreased sympathetic nervous system tone.<ref>Shen, Howard (2008). Illustrated Pharmacology Memory Cards: PharMnemonics. Minireview. p. 12. ISBN 1-59541-101-1.</ref>\n\nClonidine has several off-label uses. It has been prescribed to treat psychiatric disorders including stress, sleep disorders, and hyperarousal caused by post-traumatic stress disorder, borderline personality disorder, and other anxiety disorders.<ref>{{cite journal|last1=van der Kolk|first1=BA|title=The drug treatment of post-traumatic stress disorder.|journal=Journal of Affective Disorders|date=September–October 1987|volume=13|issue=2|pages=203–13|doi=10.1016/0165-0327(87)90024-3|pmid=2960712}}</ref><ref>{{cite journal|last1=Sutherland|first1=SM|last2=Davidson|first2=JR|title=Pharmacotherapy for post-traumatic stress disorder.|journal=The Psychiatric Clinics of North America|date=June 1994|volume=17|issue=2|pages=409–23|pmid=7937367}}</ref><ref>{{cite journal|last1=Southwick|first1=SM|last2=Bremner|first2=JD|last3=Rasmusson|first3=A|last4=Morgan CA|first4=3rd|last5=Arnsten|first5=A|last6=Charney|first6=DS|title=Role of norepinephrine in the pathophysiology and treatment of posttraumatic stress disorder.|journal=Biological Psychiatry|date=November 1999|volume=46|issue=9|pages=1192–204|doi=10.1016/S0006-3223(99)00219-X|pmid=10560025}}</ref><ref>{{cite journal|last1=Strawn|first1=JR|last2=Geracioti|first2=TD, Jr|title=Noradrenergic dysfunction and the psychopharmacology of posttraumatic stress disorder.|journal=Depression and Anxiety|date=2008|volume=25|issue=3|pages=260–71|doi=10.1002/da.20292|pmid=17354267}}</ref><ref>{{cite journal|last1=Boehnlein|first1=JK|last2=Kinzie|first2=JD|title=Pharmacologic reduction of CNS noradrenergic activity in PTSD: the case for clonidine and prazosin.|journal=Journal of Psychiatric Practice|date=March 2007|volume=13|issue=2|pages=72–8|doi=10.1097/01.pra.0000265763.79753.c1|pmid=17414682}}</ref><ref>{{cite journal|last1=Huffman|first1=JC|last2=Stern|first2=TA|title=Neuropsychiatric consequences of cardiovascular medications.|journal=Dialogues in Clinical Neuroscience|date=2007|volume=9|issue=1|pages=29–45|pmid=17506224|pmc=3181843}}</ref><ref>{{cite journal|last1=Najjar|first1=F|last2=Weller|first2=RA|last3=Weisbrot|first3=J|last4=Weller|first4=EB|title=Post-traumatic stress disorder and its treatment in children and adolescents.|journal=Current Psychiatry Reports|date=April 2008|volume=10|issue=2|pages=104–8|doi=10.1007/s11920-008-0019-0|pmid=18474199}}</ref><ref>{{cite journal|last1=Ziegenhorn|first1=AA|last2=Roepke|first2=S|last3=Schommer|first3=NC|last4=Merkl|first4=A|last5=Danker-Hopfe|first5=H|last6=Perschel|first6=FH|last7=Heuser|first7=I|last8=Anghelescu|first8=IG|last9=Lammers|first9=CH|title=Clonidine improves hyperarousal in borderline personality disorder with or without comorbid posttraumatic stress disorder: a randomized, double-blind, placebo-controlled trial|journal=Journal of Clinical Psychopharmacology|date=April 2009|volume=29|issue=2|pages=170–3|doi=10.1097/JCP.0b013e31819a4bae|pmid=19512980}}</ref>\n\n==History and culture==\nIn the early 1960s, the medicinal chemist Helmut Stähle was tasked by Boehringer Ingelheim with synthesizing a peripherally active a-adrenergic compound that would be useful for nasal decongestion as simple nose drops. A locally acting a-adrenergic vasoconstrictor agent was expected to provide relief from the symptoms of the common cold by shrinking the swollen nasal membranes and producing an unobstructed air passage.<ref name=\"Stahle\" />\n\nThe synthetic design of clonidine was achieved when Stähle had the idea of substituting two chlorine groups on the phenyl group of the imidazoline structure, which most of the newer decongestive agents at the time were derived from. At that time, a double halogen substitution was still unusual for pharmaceuticals, and the prevailing opinion was that compounds with several halogen atoms would at best be useful as pesticides. Despite this, clonidine was pursued and discovered to have a remarkably high vasoconstrictive and decongestive effect at an unusually low dosage level.<ref name=\"Stahle\" />\n\nThe decongestive effects were then determined by nasal cavity tests on anesthetized dogs. After the first trial in humans, it became clear that clonidine's decongestant properties were far less interesting than its potent anti-hypertensive effects. The compound was then developed for this new indication and was introduced into therapy in 1966 under the trade name '''Catapres''', where it saw widespread use.<ref name=\"Stahle\" />\n\nWith the discovery of clonidine, the central a-adrenergic receptors first became known to chemists, pharmacologists and physicians. It has been an important pharmacological tool in researching the role of central α-adrenoceptors in the physiology of central blood pressure regulation and nervous system function.<ref name=\"Stahle\" />\n\nIn the 2010s, the US Food and Drug Administration (FDA) approved clonidine, both alone or with [[stimulants]], for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric and adult patients. In Australia, clonidine is an accepted but not approved use for ADHD by the TGA.<ref>{{cite book | vauthors=((Rossi, S.)), ((Australasian Society of Clinical and Experimental Pharmacologists and Toxicologists)), ((Pharmaceutical Society of Australia)), ((Royal Australian College of General Practitioners)) | date= 2013 | title=Australian medicines handbook 2013. | publisher=Australian Medicines Handbook | isbn=9780980579093}}</ref>\n\n==Chemistry==\nClonidine, or 2-[(2,6-Dichlorophenyl)imino]imidazoline, is a compound of the imidazoline chemical class. Imidazolines are substituted amidines in which the amidine function is incorporated into an imidazoline ring. This portion is connected to an aromatic nucleus by way of a methylene bridge. \n\nAdditionally, two chlorine atoms are substituted in the 2- and 6-positions of the phenyl ring. This addition has the critical effect of making the molecule sufficiently lipophilic to penetrate the blood-brain barrier.{{citation needed}}\n\nOther compounds of this class include the a-adrenergic agents tolazoline, naphazoline, and phentolamine. The a-adrenergic effects of clonidine and other imidazolidine compounds may be explained on the basis of a structural overlap between clonidine and [[norepinephrine]].\n\n==Pharmacology==\n===Pharmacodynamics===\nClonidine is an [[agonist]] for the α<sub>2</sub> [[adrenaline|adrenergic]] [[receptor]]. When α<sub>2</sub> receptors in the brain are stimulated, peripheral vascular resistance decreases, resulting in lowered blood pressure. It has specificity towards the presynaptic α<sub>2</sub> receptors in the vasomotor center in the brainstem. This binding decreases presynaptic calcium levels and inhibits the release of [[norepinephrine]] (NE). The net effect is a decrease in sympathetic nervous system tone.<ref>{{cite journal | vauthors=((Sullivan, P. A.)), ((De Quattro, V.)), ((Foti, A.)), ((Curzon, G.)) | journal=Hypertension (Dallas, Tex.: 1979) | title=Effects of clonidine on central and peripheral nerve tone in primary hypertension | volume=8 | issue=7 | pages=611–617 | date= July 1986 | issn=0194-911X | doi=10.1161/01.hyp.8.7.611}}</ref> \n\nThree G-protein coupled α2-receptor subtypes have been identified: α<sub>2A</sub>, α<sub>2B</sub>, and α<sub>2C</sub>. Each subtype has a unique pattern of tissue distribution in the central nervous system and peripheral tissues. The α2A-receptor is widely distributed throughout the central nervous system; it is found in the locus coeruleus, brain stem nuclei, cerebral cortex, septum, hypothalamus, and hippocampus. α<sub>2A</sub> receptors are also expressed in the kidneys, spleen, thymus, lung and salivary glands. The α<sub>2C</sub>-receptor is primarily expressed in the central nervous system, including the striatum, olfactory tubercle, hippocampus and cerebral cortex. The α<sub>2B</sub> receptor is located primarily in the periphery (kidney, liver, lung and heart).{{citation needed}}\n\nThe α<sub>2A</sub>- and α<sub>2C</sub> receptors are located presynaptically and inhibit the released of noradrenaline from sympathetic nerves. Stimulation of these receptors decreases sympathetic tone, resulting in decreases in blood pressure and heart rate. Sedation and analgesia is mediated by centrally located α<sub>2A</sub> receptors, while peripheral α<sub>2B</sub> receptors mediate constriction of vascular smooth muscle. α<sub>2A</sub> receptors also mediate essential components of the analgesic effect of nitrous oxide in the spinal cord. Clonidine stimulates all three α<sub>2</sub> receptor subtypes with similar potency.{{citation needed}}\n\nClonidine also has peripheral α<sub>1</sub> agonist activity.{{citation needed}}\n\nClonidine is also an agonist for the imidazoline I<sub>1</sub> receptor.<ref>{{cite journal | vauthors=((Bricca, G.)), ((Greney, H.)), ((Zhang, J.)), ((Dontenwill, M.)), ((Stutzmann, J.)), ((Belcourt, A.)), ((Bousquet, P.)) | journal=European Journal of Pharmacology: Molecular Pharmacology | title=Human brain imidazoline receptors: further characterization with [3H]clonidine | volume=266 | issue=1 | pages=25–33 | date= January 1994 | url=https://linkinghub.elsevier.com/retrieve/pii/0922410694902054 | issn=09224106 | doi=10.1016/0922-4106(94)90205-4}}</ref> This has been proposed to be responsible for the antihypertensive effects.<ref>{{cite journal | vauthors=((Reis, D. J.)), ((Piletz, J. E.)) | journal=The American Journal of Physiology | title=The imidazoline receptor in control of blood pressure by clonidine and allied drugs | volume=273 | issue=5 | pages=R1569-1571 | date= November 1997 | issn=0002-9513 | doi=10.1152/ajpregu.1997.273.5.R1569}}</ref>\n\n{| class=\"wikitable\"\n|-\n! Binding Sites\n! Binding Affinity K<sub>i</sub> (nM)<ref>Roth, BL; Driscol, J (12 January 2011). \"PDSP Ki Database\". Psychoactive Drug Screening Program (PDSP). University of North Carolina at Chapel Hill and the United States National Institute of Mental Health. Archived from the original on 8 November 2013. Retrieved 25 November 2013.</ref>\n|-\n| α<sub>1A</sub>\n| 316.23\n|-\n| α<sub>1B</sub>\n| 316.23\n|-\n| α<sub>1D</sub>\n| 125.89\n|-\n| α<sub>2A</sub>\n| 42.92\n|-\n| α<sub>2B</sub>\n| 106.31\n|-\n| α<sub>2C</sub>\n| 233.1\n|}\n\n===Pharmacokinetics===\nClonidine is rapidly absorbed from the gastrointestinal tract and has excellent CNS penetration because of lipid solubility.{{citation needed}} Peak plasma concentrations are reached 3-5 hours after a single oral dose.{{citation needed}} No known pharmacologically active metabolites exist.{{citation needed}} Plasma half-life is 12-16 hours, with the antihypertensive effects occurring within 30-60 minutes of ingestion. Clonidine is excreted unchanged in the urine and is metabolized by the liver.{{citation needed}}\n\n==Subjective effects==\n\n''{{Preamble/SubjectiveEffects}}''                                                            \n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Clonidine can produce a strong sedative effect, which has been compared to that of [[benzodiazepines]]. Users can become very tired and sleep through prompts to awake.\n*'''[[Effect::Decreased bodily temperature]]'''\n*'''[[Effect::Decreased heart rate]]'''<ref>{{cite journal | vauthors=((Anderson, R. J.)), ((Hart, G. R.)), ((Crumpler, C. P.)), ((Lerman, M. J.)) | journal=Annals of Emergency Medicine | title=Clonidine overdose: report of six cases and review of the literature | volume=10 | issue=2 | pages=107–112 | date= February 1981 | issn=0196-0644 | doi=10.1016/s0196-0644(81)80350-2}}</ref> - In normal use as well as overdose, heartrate is lowered and is directly affected by how much is taken.\n*'''[[Effect::Decreased blood pressure]]''' - Clonidine's sympatholytic effects quickly and effectively lower blood pressure.<ref>{{cite journal | vauthors=((Mitchell, A.)), ((Bührmann, S.)), ((Opazo Saez, A.)), ((Rushentsova, U.)), ((Schäfers, R. F.)), ((Philipp, T.)), ((Nürnberger, J.)) | journal=Cardiovascular Drugs and Therapy | title=Clonidine lowers blood pressure by reducing vascular resistance and cardiac output in young, healthy males | volume=19 | issue=1 | pages=49–55 | date= January 2005 | issn=0920-3206 | doi=10.1007/s10557-005-6890-6}}</ref> Users should take care to avoid standing up too quickly to avoid an overwhelming light-headedness and possible fainting spell. \n*'''[[Effect::Abnormal heartbeat]]''' - This effect has a low likelihood. Caution should be taken if clonidine is taken with other substances that affect heartbeat. Intense physical activity should be avoided while on this substance.\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Constipation]]'''\n*'''[[Effect::Physical fatigue]]''' \n*'''[[Effect::Pupil constriction]]'''\n*'''[[Effect::Dizziness]]''' - This effect can increase the likelihood of falling and injuring oneself.\n*'''Raynaud's Phenomenon''' - Raynaud's Phenomenon occurs when the spasm of arteries results in reduced blood flow to the extremities, causing a pale tone, tingling, coldness, and numbness.\n}}\n|{{effects/cognitive|\n*'''[[Effect::Cognitive fatigue]]'''\n*'''[[Effect::Addiction suppression]]''' - Clonidine has shown efficacy as a treatment for alcohol, opioid, and nicotine substance use disorders.{{citation needed}} It has been shown to block opiate withdrawal symptoms.<ref>{{cite journal | vauthors=((Gold, MarkS.)), ((Redmond, D. E.)), ((Kleber, HerbertD.)) | journal=The Lancet | title=CLONIDINE BLOCKS ACUTE OPIATE-WITHDRAWAL SYMPTOMS | volume=312 | issue=8090 | pages=599–602 | date= September 1978 | url=https://linkinghub.elsevier.com/retrieve/pii/S0140673678928234 | issn=01406736 | doi=10.1016/S0140-6736(78)92823-4}}</ref>\n*'''[[Effect::Anxiety suppression]]''' - Clonidine has mild to moderate anxiolytic effects and is sometimes used clinically to treat anxiety.<ref>{{cite journal | vauthors=((Hoehn-Saric, R.)) | journal=Archives of General Psychiatry | title=Effects of Clonidine on Anxiety Disorders | volume=38 | issue=11 | pages=1278 | date=1 November 1981 | url=http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.1981.01780360094011 | issn=0003-990X | doi=10.1001/archpsyc.1981.01780360094011}}</ref>\n*'''[[Effect::Focus enhancement]]''' - This effect usually occurs at lower doses which are sometimes prescribed for the treatment of ADHD. \n*'''[[Effect::Focus suppression]]''' - This effect usually occurs at higher doses. \n*'''[[Effect::Memory enhancement]]'''\n*'''[[Effect::Thought deceleration]]'''\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory suppression]]''' - Reports describe this effect as a \"hollow\" loss of hearing. It is believed to be a result of lowered blood pressure.\n}}\n{{effects/aftereffects|\n*'''[[Effect::Irritability]]''' - One can feel very agitated and annoyed, especially with more ease. This especially happens when the medicine is suddenly stopped, which is an incorrect practice; clonidine should be [[tapering|tapered]] off of the user.\n*'''[[Effect::Increased heart rate]]''' - This occurs as a rebound effect to clonidine's antihypertensive effects and is typically only prominent following sustained use. \n*'''[[Effect::Increased blood pressure]]''' - This occurs as a rebound effect to clonidine's antihypertensive effects and is typically only prominent following sustained use. \n}}\n}}\n\n===Experience reports===\n\nThere are currently {{#ask:[[Category:Clonidine]][[Category:Experience]] | format=count}} anecdotal reports which describe the effects of this compound within our [[experience index]].\n{{#ask: [[Category:Clonidine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n* [https://erowid.org/experiences/subs/exp_Pharms_Clonidine.shtml Erowid Experience Vaults: Clonidine]\n\n==Toxicity and harm potential==\n\nAt therapeutic doses (0.2-0.9 mg/d), clonidine is commonly associated with adverse effects such as dry mouth, sedation, dizziness, and constipation. While generally safe, at toxic doses clonidine can cause serious cardiopulmonary instability and central nervous system (CNS) depression in children and adults. Caution should be used when clonidine is taken with other [[depressants]]. \n\nIt is strongly recommended that one use [[responsible use|harm reduction practices]] when using this substance. \n\n===Lethal dosage===\nThe oral [[LD50|LD<sub>50</sub>]] for clonidine in mice is 206 mg/kg and for rats, 465 mg/kg.{{citation needed}} In humans, lethality is rare with a small number of reported deaths. Morbidity, in terms of cardiorespiratory and CNS dysfunction, generally tends to be more severe in young persons than in adults.{{citation needed}}\n\n===Overdose===\nSymptoms of clonidine overdose include constriction of pupils of the eye, drowsiness, high blood pressure followed by a drop in pressure, irritability, low body temperature, slowed breathing, slowed heartbeat, slowed reflexes, and weakness.{{citation needed}}\n\nThere are case reports that show [[naloxone]] may be a useful antidote in treating clonidine overdoses. However, this is not in widespread clinical use.<ref>{{cite journal | vauthors=((Niemann, J. T.)), ((Getzug, T.)), ((Murphy, W.)) | journal=Annals of Emergency Medicine | title=Reversal of clonidine toxicity by naloxone | volume=15 | issue=10 | pages=1229–1231 | date= October 1986 | url=https://linkinghub.elsevier.com/retrieve/pii/S0196064486808745 | issn=01960644 | doi=10.1016/S0196-0644(86)80874-5}}</ref>\n\n===Tolerance and addiction potential===\nClonidine is [[Addiction potential::not addictive and has a low potential for abuse]]. The chronic use of clonidine can produce physical dependence and withdrawal symptoms if one suddenly stops their usage. Clonidine therapy should generally be gradually tapered when discontinuing therapy to avoid rebound hypertension from occurring. \n\nAlthough clonidine is not considered to be addictive, cases of misuse have been documented among certain groups with pre-existing substance use disorders. It is sometimes used in combination with [[opiates]] to extend and potentiate their effects.<ref>{{cite journal | vauthors=((Dennison, S. J.)) | journal=The Psychiatric Quarterly | title=Clonidine abuse among opiate addicts | volume=72 | issue=2 | pages=191–195 | date= 2001 | issn=0033-2720 | doi=10.1023/a:1010375727768}}</ref> This practice may increase the risk of oversedation and respiratory depression associated with opioid use.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\n{{LegalStub}}\n* '''Germany:''' Clonidine is prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''Switzerland:''' Clonidine is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.{{citation needed}}\n* '''United States:''' Clonidine is only available with a prescription.<ref>{{Citation | title=CLONIDINE HYDROCHLORIDE TABLETS, USP Rx only | url=https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=091a191f-4380-4960-834c-0618da738403&type=display}}</ref>\n\n==See also==\n*[[Responsible use]]\n*[[Depressant]]\n*[[Adrenaline]] (Epinephrine)\n*[[Noradrenaline]] (Norpinephrine)\n\n==External links==\n*[https://en.wikipedia.org/wiki/Clonidine Clonidine (Wikipedia)]\n*[https://www.erowid.org/pharms/clonidine/ Clonidine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3717 Clonidine (Isomer Design)]\n*[https://drugs-forum.com/wiki/Clonidine Clonidine (Drugs-Forum)]\n\n==Literature==\n* Stähle, H. (2000). A historical perspective: development of clonidine. Best Practice & Research Clinical Anaesthesiology, 14(2), 237-246. https://doi.org/10.1053/bean.2000.007\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Arylaminoimidazoline]]"
+}

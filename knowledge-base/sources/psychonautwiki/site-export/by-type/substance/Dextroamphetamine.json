@@ -1,0 +1,514 @@
+{
+ "id": "psychonautwiki:13204",
+ "type": "substance",
+ "title": "Dextroamphetamine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Dextroamphetamine",
+  "pageid": 13204,
+  "last_edited": "2025-05-02T23:35:27Z"
+ },
+ "categories": [
+  "Amphetamine",
+  "CS1 German-language sources (de)",
+  "Psychoactive substance",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/Dextroamphetamine",
+ "substance_box": {
+  "names": {
+   "common": "Dextroamphetamine, Dexamphetamine, D-amphetamine,Dexedrine, Dex,  Attentin",
+   "substitutive": "D-Amphetamine",
+   "systematic": "(2S)-1-phenylpropan-2-amine"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Phenethylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "20-25-75%+",
+    "threshold": "3.75 mg",
+    "light": "3.75 - 10 mg",
+    "common": "10 - 16 mg",
+    "strong": "16 - 30 mg",
+    "heavy": "30 mg +",
+    "duration": "6 - 8 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "30 - 60 minutes",
+    "peak": "2.5 - 4 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "3 - 6 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "3 mg",
+    "light": "3 - 7.5 mg",
+    "common": "7.5 - 12 mg",
+    "strong": "12 - 21.5 mg",
+    "heavy": "21.5 mg +",
+    "duration": "3 - 6 hours",
+    "onset": "1 - 5 minutes",
+    "comeup": "5 - 15 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "1.5 - 3 hours",
+    "aftereffects": "2 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Dextroamphetamine",
+    "Dexamphetamine",
+    "D-amphetamine",
+    "Dexedrine",
+    "Dex",
+    "Attentin"
+   ],
+   "psychoactive class": [
+    "Stimulant"
+   ],
+   "chemical class": [
+    "Phenethylamine"
+   ],
+   "Oral threshold dose": [
+    "3.75"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "3.75"
+   ],
+   "Oral max light dose": [
+    "10"
+   ],
+   "Oral min common dose": [
+    "10"
+   ],
+   "Oral max common dose": [
+    "16"
+   ],
+   "Oral min strong dose": [
+    "16"
+   ],
+   "Oral max strong dose": [
+    "30"
+   ],
+   "Oral heavy dose": [
+    "30"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "30"
+   ],
+   "Oral max comeup time": [
+    "60"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2.5"
+   ],
+   "Oral max peak time": [
+    "4"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "3"
+   ],
+   "Oral max afterglow time": [
+    "6"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "3"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "3"
+   ],
+   "Insufflated max light dose": [
+    "7.5"
+   ],
+   "Insufflated min common dose": [
+    "7.5"
+   ],
+   "Insufflated max common dose": [
+    "12"
+   ],
+   "Insufflated min strong dose": [
+    "12"
+   ],
+   "Insufflated max strong dose": [
+    "21.5"
+   ],
+   "Insufflated heavy dose": [
+    "21.5"
+   ],
+   "Insufflated min total time": [
+    "3"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "1"
+   ],
+   "Insufflated max onset time": [
+    "5"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "15"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "1"
+   ],
+   "Insufflated max peak time": [
+    "2"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1.5"
+   ],
+   "Insufflated max offset time": [
+    "3"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "2"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Chemical structure of dextroamphetamine",
+   "clean": "Chemical structure of dextroamphetamine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Dextroamphetamine.svg",
+   "clean": "File:Dextroamphetamine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Dextroamphetamine]], [[common name::Dexamphetamine]], [[common name::D-amphetamine]],[[common name::Dexedrine]], [[common name::Dex]], [[common name:: Attentin]]",
+   "clean": "Dextroamphetamine, Dexamphetamine, D-amphetamine,Dexedrine, Dex,  Attentin"
+  },
+  "NameSubstitution": {
+   "raw": "D-Amphetamine",
+   "clean": "D-Amphetamine"
+  },
+  "NameSystematic": {
+   "raw": "(2S)-1-phenylpropan-2-amine",
+   "clean": "(2S)-1-phenylpropan-2-amine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Phenethylamine]]",
+   "clean": "Phenethylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "20-25<ref name=\"chemeurope.com - Amphetamine\">\"{{Citation | title=chemeurope.com - Amphetamine | url=https://www.chemeurope.com/en/encyclopedia/Amphetamine.html}}</ref>-75%+<ref name=\"Drugbank - Amphetamine\">\"{{Citation | title=Drugbank - Amphetamine | url=https://go.drugbank.com/drugs/DB00182}}</ref>",
+   "clean": "20-25-75%+"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::3.75]] [[Oral dose units::mg]]",
+   "clean": "3.75 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::3.75]] - [[Oral max light dose::10]] mg",
+   "clean": "3.75 - 10 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::10]] - [[Oral max common dose::16]] mg",
+   "clean": "10 - 16 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::16]] - [[Oral max strong dose::30]] mg",
+   "clean": "16 - 30 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::30]] mg +",
+   "clean": "30 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::30]] - [[Oral max comeup time::60]] [[Oral comeup time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2.5]] - [[Oral max peak time::4]] [[Oral peak time units::hours]]",
+   "clean": "2.5 - 4 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3]] - [[Oral max afterglow time::6]] [[Oral afterglow time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::3]] [[Insufflated dose units::mg]]",
+   "clean": "3 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::3]] - [[Insufflated max light dose::7.5]] mg",
+   "clean": "3 - 7.5 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::7.5]] - [[Insufflated max common dose::12]] mg",
+   "clean": "7.5 - 12 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::12]] - [[Insufflated max strong dose::21.5]] mg",
+   "clean": "12 - 21.5 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::21.5]] mg +",
+   "clean": "21.5 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::3]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "3 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::1]] - [[Insufflated max onset time::5]] [[Insufflated onset time units::minutes]]",
+   "clean": "1 - 5 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::15]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::1]] - [[Insufflated max peak time::2]] [[Insufflated peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1.5]] - [[Insufflated max offset time::3]] [[Insufflated offset time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::2]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "2 - 4 hours"
+  }
+ },
+ "plain_text": "Dextroamphetamine (also known as Dexamphetamine, Dex, Dexies, and sold under brand names like Adderall, Dexedrine, and Zenzedi) is a central nervous system stimulant and the right-handed enantiomer of amphetamine. It's more potent than its mirror twin, levoamphetamine, especially in stimulating dopamine and norepinephrine activity in the brain.\n\nSubjective effects include stimulation, increased focus, motivation enhancement, appetite suppression, wakefulness, thought acceleration, and euphoria. At lower to moderate doses, it can promote productivity, alertness, and sociability. However, higher doses may induce restlessness, anxiety, compulsive redosing, and over-stimulation. It is classified as a classical stimulant due to its ability to promote mental and physical arousal through increased catecholamine activity.\n\nA notable property of dextroamphetamine is its high potential for abuse and rapid tolerance buildup. Repeated use over short periods can lead to diminished effects, compulsive use patterns, and a pronounced comedown characterized by mental fatigue, irritability, and anhedonia.\n\nRecreational or street amphetamine is usually a racemic mix of both enantiomers, resulting in a broader and less focused effect profile compared to pure dextroamphetamine.\n\nIt is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nDextroamphetamine is the dextrorotary enantiomer of amphetamine, it is typically obtained via the chiral resolution of racemic amphetamine, but can also be synthesized via typically more envolved enantioselective syntheses.\n\nIts physical properties are close to identical to those of (racemic) amphetamine or levoamphetamine and tends to also be handled as its sulfate salt.\n\nHistory and culture\n\nIn 1937 Smith, Kline and French introduced tablets of the dextrorotary enantiomer of amphetamine(at that time sold as Benzedrine)under the tradename Dexedrine.\n\nDangerous interactions\n\nLegal status\n\nInternationally, amphetamine (and its isomers dextroamphetamine and levoamphetamine) are Schedule II controlled substances under the United Nations 1971 Convention on Psychotropic Substances.\n\n*Australia: Dextroamphetamine is a Schedule 8 controlled substance.\n*Austria: Dextroamphetamine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Brazil: Dextroamphetamine is a Class A3 psychoactice substance.\n*Canada: Dextroamphetamine is a Schedule I drug in Canada.\n*France: Dextroamphetamine is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse, as an isomer of amphetamine. It is illegal to possess, buy, sell or manufacture. It is not prescriptible\n*Germany: Dextroamphetamine is controlled under Anlage III BtMG (Narcotics Act, Schedule III). It can only be prescribed on a narcotic prescription form.\n*The Netherlands: Dextroamphetamine is a List I controlled substance.\n*South Korea: Dextromphetamine is prohibited even for medical use in South Korea in compliance with the United Nations Convention on Psychotropic Substances.\n*Sweden: Dextroamphetamine is a List II controlled substance. It can only be prescribed by doctors with specialist competence in child and adolescent psychiatry, psychiatry, forensic psychiatry, neurology or child and adolescent neurology with habilitation.\n*United Kingdom: Amphetamine is a Class B drug in the United Kingdom, without any clarification about isomers.\n*United States: Amphetamine is a Schedule IIN controlled substance in the United States, citing several dextroamphetamine prescription drugs as examples.\n\nSee also\n\n*Responsible use\n*Stimulant\n*Amphetamine\n*Enantiomers\n*Levoamphetamine\n*Amphetamines\n\nExternal links\n\n*Dextroamphetamine (Wikipedia)\n*Dextroamphetamine (Erowid Vault)\n*Dextroamphetamine (DrugBank)\n*Dextroamphetamine (Drugs.com)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Amphetamine\nCategory:Stimulant",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Dextroamphetamine}}\n\n'''Dextroamphetamine''' (also known as ''Dexamphetamine, Dex, Dexies'', and sold under brand names like ''[https://en.wikipedia.org/wiki/Adderall Adderall]'', ''[https://www.webmd.com/drugs/2/drug-1636-9080/dextroamphetamine-sulfate-oral/dextroamphetamine-oral/details Dexedrine]'', and ''[https://zenzedi.com/ Zenzedi]'') is a central nervous system stimulant and the right-handed enantiomer of amphetamine. It's more potent than its mirror twin, [https://en.wikipedia.org/wiki/Levoamphetamine levoamphetamine], especially in stimulating dopamine and [[Noradrenaline|norepinephrine]] activity in the brain.\n\n[[Subjective effects]] include [[stimulation]], increased focus, [[Motivation enhancement|motivation enhancement]], [[Appetite suppression|appetite suppression]], [[wakefulness]], [[Thought acceleration|thought acceleration]], and [[euphoria]]. At lower to moderate doses, it can promote productivity, alertness, and sociability. However, higher doses may induce restlessness, anxiety, compulsive redosing, and over-stimulation. It is classified as a classical stimulant due to its ability to promote mental and physical arousal through increased catecholamine activity.\n\nA notable property of dextroamphetamine is its high potential for abuse and rapid tolerance buildup. Repeated use over short periods can lead to diminished effects, compulsive use patterns, and a pronounced comedown characterized by [https://en.wikipedia.org/wiki/Fatigue#Mental mental fatigue], [[irritability]], and [[anhedonia]].\n\nRecreational or street amphetamine is usually a racemic mix of both enantiomers, resulting in a broader and less focused effect profile compared to pure dextroamphetamine.\n\nIt is highly advised to use [[Harm reduction practices|harm reduction practices]] if using this substance.\n\n==Chemistry==\n{{ChemistryStub}}\nDextroamphetamine is the dextrorotary [[enantiomer]] of [[amphetamine]], it is typically obtained via the chiral resolution of racemic amphetamine, but can also be synthesized via typically more envolved enantioselective syntheses.\n\nIts physical properties are close to identical to those of (racemic) [[amphetamine]] or [[levoamphetamine]] and tends to also be handled as its sulfate salt.\n\n==History and culture==\n{{HistoryStub}}\nIn 1937 Smith, Kline and French introduced tablets of the dextrorotary enantiomer of [[amphetamine]](at that time sold as Benzedrine)under the tradename Dexedrine.\n\n==Dangerous interactions==\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Amphetamines}}\n\n==Legal status==\nInternationally, [[amphetamine]] (and its isomers '''dextroamphetamine''' and [[levoamphetamine]]) are Schedule II controlled substances under the United Nations 1971 Convention on Psychotropic Substances.<ref>{{cite web|url=http://www.emcdda.europa.eu/system/files/attachments/10451/convention_1971_en.pdf|title=CONVENTION ON PSYCHOTROPIC SUBSTANCES 1971|publisher=United Nations|access-date=December 19, 2019}}</ref>\n\n*'''Australia''': Dextroamphetamine is a Schedule 8 controlled substance.<ref>{{cite web|url=https://www.legislation.gov.au/Details/F2019L01471|title=POISONS STANDARD DECEMBER 2019|publisher=Office of Parliamentary Counsel|access-date=December 19, 2019}}</ref>\n*'''Austria''': Dextroamphetamine is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).<ref>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053</ref>\n*'''Brazil''': Dextroamphetamine is a Class A3 psychoactice substance.<ref>https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-784-de-31-de-marco-de-2023-474904992</ref>\n*'''Canada''': Dextroamphetamine is a Schedule I drug in Canada.<ref>Controlled Drugs and Substances Act | http://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-24.html#h-28</ref>\n*'''France''': Dextroamphetamine is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse, as an isomer of amphetamine. It is illegal to possess, buy, sell or manufacture. It is not prescriptible<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': Dextroamphetamine is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'').<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form.\n*'''The Netherlands''': Dextroamphetamine is a List I controlled substance.<ref>https://wetten.overheid.nl/BWBR0001941/2009-07-01</ref>\n*'''South Korea''': Dextromphetamine is prohibited even for medical use in South Korea in compliance with the United Nations Convention on Psychotropic Substances.<ref>https://web.archive.org/web/20160331074842/https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=VI-16&chapter=6&lang=en</ref>\n*'''Sweden''': Dextroamphetamine is a List II controlled substance.<ref>[https://www.lakemedelsverket.se/globalassets/dokument/lagar-och-regler/hslf-fs/lvfs-2011-10-konsoliderad2.pdf Läkemedelsverkets föreskrifter (LVFS 2011:10) om förteckningar över narkotika]</ref> It can only be prescribed by doctors with specialist competence in child and adolescent psychiatry, psychiatry, forensic psychiatry, neurology or child and adolescent neurology with habilitation.<ref>[https://www.lakemedelsverket.se/globalassets/dokument/lagar-och-regler/hslf-fs/hslf-fs-2017-74-konsoliderad.pdf Läkemedelsverkets föreskrifter (HSLF-FS 2017:74) om begränsningar av förordnande och utlämnande av vissa läkemedel]</ref>\n*'''United Kingdom''': [[Amphetamine]] is a Class B drug in the United Kingdom, without any clarification about isomers.<ref>{{Citation  | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2}}</ref>\n*'''United States''': [[Amphetamine]] is a Schedule IIN controlled substance in the United States, citing several '''dextroamphetamine''' prescription drugs as examples.<ref>https://www.deadiversion.usdoj.gov/schedules/</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Stimulant]]\n*[[Amphetamine]]\n*[[Enantiomers]]\n*[[Levoamphetamine]]\n*[[Amphetamines]]\n\n==External links==\n\n*[[wikipedia:Dextroamphetamine|Dextroamphetamine (Wikipedia)]]\n*[https://erowid.org//chemicals/amphetamines/amphetamines.shtml Dextroamphetamine (Erowid Vault)]\n*[https://go.drugbank.com/drugs/DB01576 Dextroamphetamine (DrugBank)]\n*[https://www.drugs.com/mtm/dextroamphetamine.html Dextroamphetamine (Drugs.com)]\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Amphetamine]]\n[[Category:Stimulant]]"
+}

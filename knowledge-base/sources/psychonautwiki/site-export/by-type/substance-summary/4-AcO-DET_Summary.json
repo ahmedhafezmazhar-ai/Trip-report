@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:13634",
+ "type": "substance-summary",
+ "title": "4-AcO-DET/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/4-AcO-DET/Summary",
+  "pageid": 13634,
+  "last_edited": "2017-12-19T08:01:10Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "4-AcO-DET",
+ "plain_text": "",
+ "wikitext": "{{Summary|4-AcO-DET}}"
+}

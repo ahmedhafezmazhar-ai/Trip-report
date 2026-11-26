@@ -1,0 +1,278 @@
+<title>Mazhar Substance Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one review console — sticky header with view tabs, families as stacked bands of chips, a detail drawer on the right (bottom sheet on phones). */
+:root{
+  --bg:#f5f7f6; --surface:#ffffff; --ink:#15211e; --muted:#5b6b66; --line:#dbe3e0;
+  --accent:#0f7a6c; --accent-ink:#ffffff; --chip:#eef3f1;
+  --wrong:#b42318; --wrong-bg:#fde8e6; --choice:#8a5a00; --choice-bg:#fbefd5; --gap:#4b5563; --gap-bg:#eceff2; --tidy:#1d5fa8; --tidy-bg:#e3eefb; --ok:#127a3d; --ok-bg:#dcf3e4;
+  --f-display:"Space Grotesk",system-ui,sans-serif; --f-body:"Inter",system-ui,sans-serif; --f-mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1715; --surface:#16211e; --ink:#e4ece9; --muted:#93a59f; --line:#2a3a35; --accent:#3fbfa9; --accent-ink:#06201b; --chip:#1d2b27;
+  --wrong:#ff8a80; --wrong-bg:#3a1c1a; --choice:#f3c25b; --choice-bg:#3a2e14; --gap:#b7c0ca; --gap-bg:#252c33; --tidy:#8ab8f0; --tidy-bg:#1a2a3d; --ok:#6fd99a; --ok-bg:#163223; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1715; --surface:#16211e; --ink:#e4ece9; --muted:#93a59f; --line:#2a3a35; --accent:#3fbfa9; --accent-ink:#06201b; --chip:#1d2b27;
+  --wrong:#ff8a80; --wrong-bg:#3a1c1a; --choice:#f3c25b; --choice-bg:#3a2e14; --gap:#b7c0ca; --gap-bg:#252c33; --tidy:#8ab8f0; --tidy-bg:#1a2a3d; --ok:#6fd99a; --ok-bg:#163223; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font:14px/1.5 var(--f-body)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+.wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));max-width:1280px;margin:0 auto}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+header .wrap{display:flex;flex-direction:column;gap:10px;padding-block:14px 0}
+.top{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;justify-content:space-between}
+h1{font:700 22px/1.1 var(--f-display);margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px}
+.stats{display:flex;flex-wrap:wrap;gap:6px 16px;font:12px var(--f-mono);color:var(--muted)}
+.stats b{color:var(--ink);font-weight:500}
+.bar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;justify-content:space-between}
+nav{display:flex;gap:2px;overflow-x:auto}
+nav button{font:600 14px var(--f-display);background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:8px 12px 9px;cursor:pointer;white-space:nowrap}
+nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+nav .n{font:500 11px var(--f-mono);background:var(--wrong-bg);color:var(--wrong);border-radius:9px;padding:1px 6px;margin-left:4px}
+.tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding-bottom:8px}
+input[type=search]{font:14px var(--f-body);padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);width:220px;max-width:100%}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.seg button{font:500 12px var(--f-body);background:var(--surface);color:var(--muted);border:0;padding:6px 10px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+button:focus-visible,input:focus-visible,textarea:focus-visible,.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+main .wrap{padding-block:20px 60px;display:flex;flex-direction:column;gap:18px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted);align-items:center}
+.legend i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:1px}
+.fam{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.fam>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:12px 14px;border-left:6px solid var(--fc)}
+.fam>summary::-webkit-details-marker{display:none}
+.fam h2{font:600 17px var(--f-display);margin:0}
+.fam .cnt{font:12px var(--f-mono);color:var(--muted)}
+.fam .chev{margin-left:auto;color:var(--muted);transition:transform .15s}
+.fam[open] .chev{transform:rotate(90deg)}
+.cls{padding:4px 14px 12px 20px;display:flex;flex-direction:column;gap:12px}
+.cls h3{font:500 12px var(--f-mono);color:var(--muted);margin:0 0 6px;letter-spacing:.02em}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:13px var(--f-body);background:var(--chip);color:var(--ink);border:1px solid transparent;border-radius:6px;padding:3px 8px;cursor:pointer;display:inline-flex;align-items:center;gap:5px}
+.chip:hover{border-color:var(--line)}
+.chip .dot{width:7px;height:7px;border-radius:50%;flex:none}
+.chip .tag{font:10px var(--f-mono);color:var(--muted)}
+.chip.moved{border-color:var(--ok);border-style:dashed}
+.chip.dim{opacity:.35}
+.eff{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:760px){.eff{grid-template-columns:minmax(0,1fr)}}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;min-width:0}
+.sense{margin-bottom:10px}
+.sense h3{font:600 14px var(--f-display);margin:6px 0}
+.efx{display:flex;flex-wrap:wrap;gap:4px}
+.efx button{font:12px var(--f-body);background:var(--chip);color:var(--ink);border:1px solid transparent;border-radius:5px;padding:2px 7px;cursor:pointer}
+.efx button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.efx .c{font:10px var(--f-mono);opacity:.7;margin-left:3px}
+.picked{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:10px}
+.hint{color:var(--muted);font-size:13px}
+.res-fam{margin-top:10px}
+.res-fam h4{font:600 13px var(--f-display);margin:0 0 6px;display:flex;align-items:center;gap:6px}
+.issues{display:flex;flex-direction:column;gap:12px}
+.issue{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.issue .hd{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap}
+.issue h3{font:600 16px/1.3 var(--f-display);margin:0;flex:1 1 300px;text-wrap:balance}
+.sev{font:500 11px var(--f-mono);border-radius:4px;padding:2px 7px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
+.sev.wrong{background:var(--wrong-bg);color:var(--wrong)}.sev.choice{background:var(--choice-bg);color:var(--choice)}.sev.gap{background:var(--gap-bg);color:var(--gap)}.sev.tidy{background:var(--tidy-bg);color:var(--tidy)}
+.issue p{margin:0;max-width:75ch}
+.prop{border-left:3px solid var(--accent);padding-left:10px}
+.prop b{font-weight:600}
+.issue details summary{cursor:pointer;color:var(--accent);font-size:13px}
+.issue details .chips{margin-top:8px}
+.act{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.act button{font:600 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:6px;padding:6px 12px;cursor:pointer}
+.act button[aria-pressed="true"].yes{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.act button[aria-pressed="true"].no{background:var(--wrong-bg);border-color:var(--wrong);color:var(--wrong)}
+.act button[aria-pressed="true"].chg{background:var(--choice-bg);border-color:var(--choice);color:var(--choice)}
+textarea{font:13px var(--f-body);width:100%;min-height:54px;border:1px solid var(--line);border-radius:6px;padding:7px 9px;background:var(--bg);color:var(--ink);resize:vertical}
+.saved{font-size:12px;color:var(--muted)}
+.overall{background:var(--surface);border:2px solid var(--accent);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.overall h3{font:600 17px var(--f-display);margin:0}
+.notice{font-size:13px;color:var(--muted);background:var(--chip);border-radius:6px;padding:8px 10px}
+aside{position:fixed;top:0;right:0;bottom:0;width:min(400px,100%);background:var(--surface);border-left:1px solid var(--line);z-index:20;overflow-y:auto;padding:calc(env(safe-area-inset-top,0px) + 18px) max(18px,env(safe-area-inset-right,0px)) calc(env(safe-area-inset-bottom,0px) + 24px) 18px;box-shadow:-8px 0 30px rgba(0,0,0,.15);display:flex;flex-direction:column;gap:12px}
+@media (max-width:600px){aside{top:auto;height:75%;width:100%;border-left:0;border-top:1px solid var(--line);border-radius:14px 14px 0 0;padding-left:max(18px,env(safe-area-inset-left,0px))}}
+aside h2{font:700 20px var(--f-display);margin:0;padding-right:40px;overflow-wrap:anywhere}
+aside .x{position:absolute;top:calc(env(safe-area-inset-top,0px) + 12px);right:max(12px,env(safe-area-inset-right,0px));font:20px var(--f-body);background:none;border:0;color:var(--muted);cursor:pointer;padding:4px 8px}
+@media (max-width:600px){aside .x{top:10px}}
+dl{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 12px;margin:0;font-size:13px}
+dt{color:var(--muted)}dd{margin:0;overflow-wrap:anywhere}
+aside a{color:var(--accent)}
+.efl{font-size:12px;color:var(--muted);line-height:1.6}
+</style>
+
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div>
+        <h1>Mazhar Substance Map</h1>
+        <div class="sub">Every substance from PsychonautWiki, grouped the way the smart map will show them. Check the groupings, then approve or change each issue under Review.</div>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="bar">
+      <nav role="tablist" aria-label="Views">
+        <button role="tab" id="t-family" aria-selected="true" data-v="family">By family</button>
+        <button role="tab" id="t-effect" aria-selected="false" data-v="effect">By effect</button>
+        <button role="tab" id="t-review" aria-selected="false" data-v="review">Review<span class="n" id="opencount"></span></button>
+      </nav>
+      <div class="tools">
+        <input type="search" id="q" placeholder="Find a substance" aria-label="Find a substance">
+        <div class="seg" role="group" aria-label="Which version">
+          <button id="v-now" aria-pressed="true">As it is now</button>
+          <button id="v-fix" aria-pressed="false">With proposed fixes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<main><div class="wrap" id="view"><p class="hint">Loading the substance list…</p></div></main>
+<aside id="drawer" hidden aria-label="Substance details"></aside>
+
+<script>
+const FAMC={Psychedelics:"#7c4dff",Stimulants:"#e0861a",Entactogens:"#e0457b",Depressants:"#2f7fd1",Dissociatives:"#14a3a3",Opioids:"#9b5a2a",Cannabinoids:"#3f9a3a",Deliriants:"#8a8f2a",Hallucinogens:"#b04fc4",Nootropics:"#5b6bd6",Unclassified:"#7d8a86",Other:"#7d8a86",Antipsychotics:"#6b7f99",Antidepressants:"#6b7f99",Anxiolytics:"#6b7f99","Prescription medicines":"#6b7f99",Oneirogens:"#4a9bb0"};
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let D=null, view="family", fixed=false, q="", picked=new Set(), reviews={}, db=null;
+const UNCL={"Flunitrazepam":["Depressants","Benzodiazepine"],"Kava":["Depressants","Kavalactone"],"1,3-Butanediol":["Depressants","Alkanediol"],"Trihexyphenidyl":["Deliriants","Anticholinergic"],"Perazin":["Prescription medicines","Phenothiazine"],"Cocoa":["Stimulants","Xanthine"],"AET":["Entactogens","Tryptamine"],"Blue lotus":["Other","Chemical class not given"],"Grayanotoxin":["Other","Chemical class not given"],"Inhalants":["Other","Chemical class not given"],"Tryptamine (compound)":["Other","Arylethylamine"]};
+const MERGE={"Substituted amphetamines":"Substituted amphetamine","Amphetamine":"Substituted amphetamine","Arylcyclohexylamines":"Arylcyclohexylamine","Indole alkaloids":"Indole alkaloid","Substituted cathinone":"Cathinone","Substituted phenethylamine":"Phenethylamine","substituted piperazine":"Substituted piperazine","1":"Carbamate","cholinergic":"Choline ester"};
+const RX=new Set(["Antipsychotics","Antidepressants","Anxiolytics"]);
+
+function placements(){ // returns [{s,f,c,moved,second}]
+  const out=[];
+  for(const s of D.s){
+    if(!fixed){out.push({s,f:s.f,c:s.c});continue}
+    const iss=s.iss||[];
+    if(iss.includes("preparations")) continue;
+    let f=s.f,c=s.c,moved=false;
+    if(iss.includes("thc-in-stimulants")){f="Cannabinoids";c="Cannabinoid";moved=true}
+    if(iss.includes("opioids-in-depressants")){f="Opioids";moved=true}
+    if(UNCL[s.n]){[f,c]=UNCL[s.n];moved=f!==s.f}
+    if(f==="Unclassified")f="Other";
+    if(RX.has(f)){f="Prescription medicines";moved=true}
+    if(MERGE[c])c=MERGE[c];
+    out.push({s,f,c,moved});
+    for(const a of (s.also||[])){ if(a!==f) out.push({s,f:RX.has(a)?"Prescription medicines":a,c,second:true}) }
+  }
+  return out;
+}
+function match(s){return !q||s.n.toLowerCase().includes(q)}
+function chip(p){
+  const s=p.s, flag=(s.iss||[]).length&&!fixed;
+  const tags=[]; if(s.sh&&s.sh.length)tags.push("Shulgin"); if(p.second)tags.push("also");
+  return `<button class="chip${p.moved?" moved":""}${match(s)?"":" dim"}" data-n="${esc(s.n)}" title="${flag?"Has an open issue":""}">${flag?`<span class="dot" style="background:var(--wrong)"></span>`:""}${esc(s.n)}${tags.length?`<span class="tag">${tags.join(" · ")}</span>`:""}</button>`;
+}
+function renderFamily(){
+  const P=placements(), fams={};
+  for(const p of P){(fams[p.f]??={})[p.c]??=[];fams[p.f][p.c].push(p)}
+  const order=Object.keys(fams).sort((a,b)=>count(fams[b])-count(fams[a]));
+  function count(o){return Object.values(o).reduce((n,a)=>n+a.length,0)}
+  let h=`<div class="legend"><span><i style="background:var(--wrong)"></i>Has an open issue (see Review)</span><span>Shulgin: also in his books</span>${fixed?`<span>Dashed: moved by a proposed fix</span><span>"also": second family</span>`:""}</div>`;
+  if(fixed)h+=`<div class="notice">Preview of the map after every proposed fix. Recipes are removed, misfiled substances are moved, two-family substances show twice, and duplicate class names are merged.</div>`;
+  for(const f of order){
+    const cls=fams[f], keys=Object.keys(cls).sort((a,b)=>a==="Chemical class not given"?1:b==="Chemical class not given"?-1:cls[b].length-cls[a].length);
+    const hit=q?keys.some(k=>cls[k].some(p=>match(p.s))):true;
+    h+=`<details class="fam" style="--fc:${FAMC[f]||"#7d8a86"}" ${q?(hit?"open":""):"open"}><summary><h2>${esc(f)}</h2><span class="cnt">${count(cls)} · ${keys.length} chemical classes</span><span class="chev">›</span></summary><div class="cls">`;
+    for(const k of keys){const arr=cls[k].sort((a,b)=>a.s.n.localeCompare(b.s.n));h+=`<div><h3>${esc(k)} (${arr.length})</h3><div class="chips">${arr.map(chip).join("")}</div></div>`}
+    h+=`</div></details>`;
+  }
+  return h;
+}
+function renderEffect(){
+  const P=placements(), present=new Map(); // substance -> family
+  for(const p of P) if(!p.second) present.set(p.s,p.f);
+  const cnt=new Array(D.e.length).fill(0);
+  for(const s of present.keys()) for(const i of s.e) cnt[i]++;
+  const senses={};
+  D.e.forEach((e,i)=>{if(cnt[i])(senses[e.s]??=[]).push(i)});
+  const sOrder=Object.keys(senses).sort((a,b)=>senses[b].length-senses[a].length);
+  let left=`<div class="panel"><div class="hint" style="margin-bottom:8px">Pick one or more effects. The list shows substances reported to have all of them.</div>`;
+  for(const s of sOrder){
+    const ids=senses[s].sort((a,b)=>cnt[b]-cnt[a]);
+    left+=`<div class="sense"><h3>${esc(s.replace(" effects",""))}</h3><div class="efx">${ids.map(i=>`<button data-e="${i}" aria-pressed="${picked.has(i)}">${esc(D.e[i].n)}<span class="c">${cnt[i]}</span></button>`).join("")}</div></div>`;
+  }
+  left+=`</div>`;
+  let right=`<div class="panel">`;
+  const noE=[...present.keys()].filter(s=>!s.e.length);
+  if(!picked.size){
+    right+=`<p class="hint">No effect picked yet. Try Euphoria, Geometry or Sedation on the left.</p><p class="hint">${noE.length} substances have no effect list, so they can't show in this view yet (see Review).</p>`;
+  }else{
+    const P2=[...picked];
+    right+=`<div class="picked">${P2.map(i=>`<button class="chip" data-e="${i}">${esc(D.e[i].n)} ✕</button>`).join("")}<button class="chip" id="clr">Clear</button></div>`;
+    const hits=[...present.keys()].filter(s=>P2.every(i=>s.e.includes(i))&&match(s));
+    const byF={}; for(const s of hits)(byF[present.get(s)]??=[]).push(s);
+    right+=`<div class="hint">${hits.length} substance${hits.length===1?"":"s"} match.</div>`;
+    for(const f of Object.keys(byF).sort((a,b)=>byF[b].length-byF[a].length)){
+      right+=`<div class="res-fam"><h4><span class="dot" style="width:9px;height:9px;border-radius:50%;background:${FAMC[f]||"#7d8a86"}"></span>${esc(f)} (${byF[f].length})</h4><div class="chips">${byF[f].sort((a,b)=>a.n.localeCompare(b.n)).map(s=>chip({s})).join("")}</div></div>`;
+    }
+  }
+  right+=`</div>`;
+  return `<div class="eff">${left}${right}</div>`;
+}
+const SEV={wrong:"Looks wrong",choice:"Your choice",gap:"Missing data",tidy:"Tidy-up"};
+function renderReview(){
+  const ov=reviews._overall||{};
+  let h=`<div class="notice">${db?"Your answers save as you click, and Claude reads them from here.":"Saving isn't available in this view. Open the page on claude.ai while signed in to save your answers."}</div><div class="issues">`;
+  for(const i of D.issues){
+    const r=reviews[i.id]||{};
+    h+=`<section class="issue" id="i-${i.id}"><div class="hd"><span class="sev ${i.sev}">${SEV[i.sev]}</span><h3>${esc(i.title)}</h3></div><p>${esc(i.detail)}</p><p class="prop"><b>Proposed:</b> ${esc(i.proposal)}</p>`;
+    if(i.items.length)h+=`<details><summary>Show the ${i.items.length} item${i.items.length===1?"":"s"}</summary><div class="chips">${i.items.map(n=>{const s=D.s.find(x=>x.n===n);return s?chip({s}):`<span class="chip" style="cursor:default">${esc(n)}</span>`}).join("")}</div></details>`;
+    h+=`<div class="act" role="group" aria-label="Your answer"><button class="yes" data-i="${i.id}" data-a="approve" aria-pressed="${r.status==="approve"}">Approve</button><button class="chg" data-i="${i.id}" data-a="change" aria-pressed="${r.status==="change"}">Change it</button><button class="no" data-i="${i.id}" data-a="reject" aria-pressed="${r.status==="reject"}">Leave as is</button><span class="saved" id="sv-${i.id}"></span></div><textarea id="note-${i.id}" data-i="${i.id}" placeholder="Note (optional): what to change, or why">${esc(r.note||"")}</textarea></section>`;
+  }
+  h+=`</div><section class="overall"><h3>Approve the substance map</h3><p class="hint">When you're happy with the answers above, approve the whole map. This is what the build will follow.</p><div class="act"><button class="yes" data-i="_overall" data-a="approve" aria-pressed="${ov.status==="approve"}">Approve the map</button><span class="saved" id="sv-_overall"></span></div><textarea id="note-_overall" data-i="_overall" placeholder="Anything else about the map">${esc(ov.note||"")}</textarea></section>`;
+  return h;
+}
+function stats(){
+  const n=D.s.length, fams=new Set(D.s.map(s=>s.f)).size, sh=D.s.filter(s=>s.sh.length).length, open=D.issues.filter(i=>!reviews[i.id]?.status).length;
+  document.getElementById("stats").innerHTML=`<span><b>${n}</b> substances</span><span><b>${fams}</b> families</span><span><b>${D.e.length}</b> effects</span><span><b>${sh}</b> in Shulgin's books</span>`;
+  document.getElementById("opencount").textContent=open?open:"✓";
+}
+function render(){
+  const v=document.getElementById("view");
+  v.innerHTML=view==="family"?renderFamily():view==="effect"?renderEffect():renderReview();
+  stats();
+}
+function openDrawer(n){
+  const s=D.s.find(x=>x.n===n); if(!s)return;
+  const dr=document.getElementById("drawer");
+  const iss=(s.iss||[]).map(id=>D.issues.find(i=>i.id===id)).filter(Boolean);
+  const eff=s.e.map(i=>D.e[i].n);
+  dr.innerHTML=`<button class="x" id="dx" aria-label="Close">✕</button><h2>${esc(s.n)}</h2><dl><dt>Family</dt><dd>${esc(s.f)}${s.also?.length?` (also ${esc(s.also.join(", "))})`:""}</dd><dt>Chemical class</dt><dd>${esc(s.c)}</dd><dt>Dosage data</dt><dd>${s.d?"Yes":"Missing"}</dd><dt>Effects listed</dt><dd>${eff.length||"None"}</dd>${s.sh.length?`<dt>Shulgin</dt><dd>${esc(s.sh.join(", "))}</dd>`:""}<dt>Source</dt><dd><a href="${esc(s.u)}" target="_blank" rel="noopener">PsychonautWiki page</a></dd></dl>${iss.length?`<div><b>Open issues</b><ul style="margin:6px 0 0;padding-left:18px">${iss.map(i=>`<li><a href="#" data-goto="${i.id}">${esc(i.title)}</a></li>`).join("")}</ul></div>`:""}${eff.length?`<div><b>Effects</b><div class="efl">${esc(eff.join(" · "))}</div></div>`:""}`;
+  dr.hidden=false; document.getElementById("dx").focus();
+}
+document.addEventListener("click",e=>{
+  const t=e.target.closest("button,a"); if(!t)return;
+  if(t.dataset.v){view=t.dataset.v;document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b===t));render();return}
+  if(t.id==="v-now"||t.id==="v-fix"){fixed=t.id==="v-fix";document.getElementById("v-now").setAttribute("aria-pressed",!fixed);document.getElementById("v-fix").setAttribute("aria-pressed",fixed);render();return}
+  if(t.id==="dx"){document.getElementById("drawer").hidden=true;return}
+  if(t.dataset.goto){e.preventDefault();document.getElementById("drawer").hidden=true;view="review";document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.v==="review"));render();document.getElementById("i-"+t.dataset.goto)?.scrollIntoView({block:"start"});return}
+  if(t.id==="clr"){picked.clear();render();return}
+  if(t.dataset.e!==undefined){const i=+t.dataset.e;picked.has(i)?picked.delete(i):picked.add(i);render();return}
+  if(t.dataset.a){save(t.dataset.i,{status:t.dataset.a});return}
+  if(t.dataset.n){openDrawer(t.dataset.n)}
+});
+document.addEventListener("keydown",e=>{if(e.key==="Escape")document.getElementById("drawer").hidden=true});
+document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render()});
+let noteT={};
+document.addEventListener("input",e=>{const t=e.target; if(t.tagName==="TEXTAREA"&&t.dataset.i){clearTimeout(noteT[t.dataset.i]);noteT[t.dataset.i]=setTimeout(()=>save(t.dataset.i,{note:t.value}),800)}});
+async function save(id,patch){
+  const cur={...(reviews[id]||{})}, next={...cur,...patch,at:new Date().toISOString()};
+  reviews[id]=next;
+  if(patch.status){document.querySelectorAll(`[data-i="${id}"][data-a]`).forEach(b=>b.setAttribute("aria-pressed",b.dataset.a===patch.status));stats()}
+  const sv=document.getElementById("sv-"+id);
+  if(!db){if(sv)sv.textContent="Not saved: sign in on claude.ai to save";return}
+  if(sv)sv.textContent="Saving…";
+  try{await db.doc("reviews/"+id).set(next);if(sv)sv.textContent="Saved"}
+  catch(err){if(sv)sv.textContent=err?.code==="not_granted"||err?.code==="forbidden"?"You can view this map but not answer":"Couldn't save. Try again."}
+}
+fetch("substance-map-data.json").then(r=>r.json()).then(d=>{D=d;render()}).catch(()=>{document.getElementById("view").innerHTML=`<p class="hint">The substance list couldn't load. Reload the page to try again.</p>`});
+(async()=>{
+  try{
+    db=await window.claude?.use?.("db"); if(!db)return;
+    let done=false; const timer=setTimeout(()=>{done=true},10000);
+    db.collection("reviews").onSnapshot(snap=>{clearTimeout(timer);for(const d of snap.docs){const v=d.data();if(v)reviews[d.id]=v}
+      const a=document.activeElement; if(D&&!(a&&a.tagName==="TEXTAREA"))render(); else if(D)stats()},()=>{clearTimeout(timer)});
+  }catch(_){db=null}
+})();
+</script>

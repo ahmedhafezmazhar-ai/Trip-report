@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19985",
+ "type": "substance-summary",
+ "title": "Gaboxadol/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Gaboxadol/Summary",
+  "pageid": 19985,
+  "last_edited": "2022-02-09T12:08:44Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Gaboxadol",
+ "plain_text": "",
+ "wikitext": "{{Summary|Gaboxadol}}"
+}

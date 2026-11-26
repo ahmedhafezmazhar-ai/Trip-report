@@ -1,0 +1,428 @@
+{
+ "id": "psychonautwiki:13128",
+ "type": "substance",
+ "title": "Phenobarbital",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Phenobarbital",
+  "pageid": 13128,
+  "last_edited": "2025-01-30T23:18:36Z"
+ },
+ "categories": [
+  "Anxiolytics",
+  "Barbiturate",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Phenethylamine",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Phenobarbital",
+ "substance_box": {
+  "names": {
+   "common": "Phenobarbital, Phenobarbitone, Luminal, Phenobarb",
+   "substitutive": "",
+   "systematic": "5-Ethyl-5-phenyl-1,3-diazinane-2,4,6-trione"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Barbiturate"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": false,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": "> x  mg",
+    "duration": "x minutes",
+    "onset": "x seconds",
+    "peak": "x minutes",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "25 mg",
+    "light": "50 - 100 mg",
+    "common": "100 - 150 mg",
+    "strong": "150 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "15 - 60 minutes",
+    "comeup": "1 - 2 hours",
+    "peak": "4 - 6 hours",
+    "offset": "12 - 24 hours",
+    "aftereffects": "1 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Phenobarbital",
+    "Phenobarbitone",
+    "Luminal",
+    "Phenobarb"
+   ],
+   "Psychoactive class": [
+    "Depressant"
+   ],
+   "Chemical class": [
+    "Barbiturate"
+   ],
+   "Oral threshold dose": [
+    "25"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "50"
+   ],
+   "Oral max light dose": [
+    "100"
+   ],
+   "Oral min common dose": [
+    "100"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    ""
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "60"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "1"
+   ],
+   "Oral max comeup time": [
+    "2"
+   ],
+   "Oral comeup time units": [
+    "hours"
+   ],
+   "Oral min peak time": [
+    "4"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "12"
+   ],
+   "Oral max offset time": [
+    "24"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "1"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of phenobarbital.",
+   "clean": "Molecular structure of phenobarbital."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Phenobarbital.svg",
+   "clean": "File:Phenobarbital.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Phenobarbital]], [[common name::Phenobarbitone]], [[common name::Luminal]], [[common name::Phenobarb]]",
+   "clean": "Phenobarbital, Phenobarbitone, Luminal, Phenobarb"
+  },
+  "NameSubstitution": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameSystematic": {
+   "raw": "5-Ethyl-5-phenyl-1,3-diazinane-2,4,6-trione",
+   "clean": "5-Ethyl-5-phenyl-1,3-diazinane-2,4,6-trione"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Chemical class::Barbiturate]]",
+   "clean": "Barbiturate"
+  },
+  "SmokedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "> x  mg",
+   "clean": "> x  mg"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Onset": {
+   "raw": "x seconds",
+   "clean": "x seconds"
+  },
+  "SmokedROA_Peak": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation."
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::25]] [[Oral dose units::mg]]",
+   "clean": "25 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::50]] - [[Oral max light dose::100]] mg",
+   "clean": "50 - 100 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::100]] - [[Oral max common dose::150]] mg",
+   "clean": "100 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::300]] mg",
+   "clean": "150 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::]]  300 mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::60]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 60 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::1]] - [[Oral max comeup time::2]] [[Oral comeup time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::4]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::12]] - [[Oral max offset time::24]] [[Oral offset time units::hours]]",
+   "clean": "12 - 24 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::1]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "1 - 48 hours"
+  }
+ },
+ "plain_text": "Phenobarbital, also known as phenobarbitone in British English and by the brand name Luminal, is a long-acting psychoactive drug of the barbiturate class which produces powerful anxiolytic, hypnotic, muscle relaxant and amnesic effects. Phenobarbital is used medically as an anticonvulsant, and occasionally in the short term treatment of insomnia. Phenobarbital works in a similar fashion to benzodiazepines, however barbiturates bind to a distinct allosteric site on the GABAA receptor.\n\nCompared to other barbiturates such as pentobarbital, phenobarbital has an extremely slow elimination and long duration of action, similar to diazepam, which makes it ideal for the treatment of epilepsy.\n\nPhenobarbital, like most long-acting barbiturates, can be deemed moderately addictive. The abrupt discontinuation of phenobarbital in dependent individuals may be life-threatening and lead to seizures and even death. Phenobarbital drastically enhances the effects of other depressants such as alcohol, and concurrent use may lead to respiratory depression and possibly death.\n\nAccording to many sources, it is substantially more powerful than sister-substances pentobarbital or secobarbital, with a dosage convertion ratio of 1:3 in order to achieve equal depressant effects. The product is nonetheless consumed in very high doses as an anti-epileptic substance, as is also clonazepam, which has largely replaced phenobarbital in this context.\n\nChemistry\n\nPhenobarbital is a drug of the barbiturate class. Barbiturate drugs contain the backbone of barbituric acid. Phenobarbital has a 5-ethyl, 5-phenyl substitution on the 5-position of the barbituric acid backbone which gives it its unique pharmacological effects. Phenobarbital empirical formula is C12H12N2O3 and has a molar mass of 232.235 grams per mole.\n\nPhenobarbital appears as odorless white crystalline powder or colorless crystals. A saturated aqueous solution is acid to litmus (approximately pH 5). Slightly bitter taste. Aqueous solutions of \"phenobarbital\" sodium are not generally stable. The drug is more stable in polyethylene glycol or propylene glycol.\n\nPharmacology\n\nBarbiturates behave similarly to benzodiazepines. Phenobarbital binds to an allosteric site on the GABAA receptor and potentiates the effects of the endogenous ligand, gamma-aminobutyric acid. When barbiturates bind to the GABAA receptor, it causes the ion pore to open for extended periods of time, causing an increase of intracellular chlorine ion concentrations. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of barbiturates on the nervous system. Phenobarbital's biological half life is 53-118 hours. It is metabolized by the liver and excreted by the kidneys and intestines.\n\nPhenobarbital has an oral bioavailability of about 90%. Peak plasma concentrations (Cmax) are reached eight to 12 hours after oral administration. It is one of the longest-acting barbiturates available – it remains in the body for a very long time (half-life of two to seven days) and has very low protein binding (20 to 45%). Phenobarbital is metabolized by the liver, mainly through hydroxylation and glucuronidation, and induces many isozymes of the cytochrome P450 system. Cytochrome P450 2B6 (CYP2B6) is specifically induced by phenobarbital via the CAR/RXR nuclear receptor heterodimer. It is excreted primarily by the kidneys.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: Phenobarbital\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of barbiturates in comparison to other drugs.\nPhenobarbital likely has moderate toxicity relative to dose. However, phenobarbital is potentially respiratory depression when mixed with [[depressants like alcohol or opioids]]. Phenobarbital has a higher risk of death or serious adverse effects associated with concurrent depressant use than other drugs such as benzodiazepines. There have been studies linking the use of barbiturates, particularly phenobarbital, with the development of cancer .\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nPhenobarbital is extremely physically and psychologically addictive. Barbiturate withdrawal is medically serious and can potentially cause a life-threatening withdrawal syndrome that can cause seizures, psychosis, and death. Drugs which lower the seizure threshold such as tramadol and amphetamine should be avoided during withdrawal. \n\nTolerance will develop to the sedative-hypnotic effects of phenobarbital after prolonged use. It is unknown exactly how long it takes for tolerance to reach baseline. Phenobarbital presents cross-tolerance with all barbiturates, meaning that after its consumption all barbiturates will have a reduced effect.\n\nDangerous interactions\n\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be harmless in low doses of each but still increase the potential risk of death. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*Depressants (1,4-Butanediol, 2-methyl-2-butanol, alcohol, barbiturates, GHB/GBL, methaqualone, opioids) - This combination can result in dangerous or even fatal levels of respiratory depression. These substances potentiate the muscle relaxation, sedation and amnesia caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should try to fall asleep in the recovery position or have a friend move them into it.\n*Dissociatives - This combination can lead to an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n*Stimulants -  It is unsafe to combine barbiturates with stimulants due to the risk of excessive intoxication. Stimulants decrease the sedative effect of barbiturates, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of barbiturates will be considerably increased, leading to intensified disinhibition as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of barbiturates per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\nOverdose\n\nBarbiturate overdose may occur when a barbiturate is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as benzodiazepines and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Barbiturate overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly. Barbiturate overdose has an increased frequency of serious adverse effects when compared to other depressants.\n\nSymptoms of a barbiturate overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death.\n\nLegal status\n\nInternationally, phenobarbital is listed in Schedule IV of the UN Convention on Psychotropic Substances.\n\n*Australia: Phenobarbitone is listed in Schedule 4, making it a prescription only medicine.\n*Canada: Phenobarbital is a Schedule IV controlled substance.\n*Germany: Phenobarbital is controlled under Anlage III BtMG (Narcotics Act, Schedule III). It can only be prescribed on a narcotic prescription form, except preparations which contain up to 10% or up to 300&nbsp;mg phenobarbital in each dosage form.\n*Russia: Phenobarbital is a Schedule III controlled substance since 2013. but phenobarbital is also found in the medicines Corvalol or Valocordin, which is dispensed without a doctor’s prescription.\n*Switzerland: Phenobarbital is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*United Kingdom: Phenobarbitone is a Class B controlled substance.\n*United States: Phenobarbital is a Schedule IV controlled substance.\n\nSee also\n\n*Depressants\n*Benzodiazepines\n*GABA\n\nExternal links\n\n*Phenobarbital (Wikipedia)\n*Phenobarbital (Isomer Design)\n*Phenobarbital (DrugBank)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Barbiturate\nCategory:Phenethylamine",
+ "wikitext": "{{headerpanel|{{Warning/Barbiturates}} }}\n{{Distinguish|Pentobarbital}}\n{{SummarySheet}}\n{{SubstanceBox/Phenobarbital}}\n\n'''Phenobarbital''', also known as '''phenobarbitone''' in British English and by the brand name '''Luminal''', is a long-acting psychoactive drug of the [[barbiturate]] class which produces powerful anxiolytic, hypnotic, muscle relaxant and amnesic effects. Phenobarbital is used medically as an [[seizure suppression |anticonvulsant]], and occasionally in the short term treatment of [[insomnia]]. Phenobarbital works in a similar fashion to [[benzodiazepine |benzodiazepines]], however barbiturates bind to a distinct allosteric site on the GABA<sub>A</sub> receptor.\n\nCompared to other barbiturates such as [[pentobarbital]], phenobarbital has an extremely slow elimination and long duration of action, similar to [[diazepam]], which makes it ideal for the treatment of epilepsy.\n\nPhenobarbital, like most long-acting barbiturates, can be deemed moderately addictive. The abrupt discontinuation of phenobarbital in dependent individuals may be life-threatening and lead to [[seizure |seizures]] and even death<ref>{{cite journal | vauthors=((Sarrecchia, C.)), ((Sordillo, P.)), ((Conte, G.)), ((Rocchi, G.)) | journal=Annali Italiani Di Medicina Interna: Organo Ufficiale Della Societa Italiana Di Medicina Interna | title=[Barbiturate withdrawal syndrome: a case associated with the abuse of a headache medication] | volume=13 | issue=4 | pages=237–239 | date= December 1998 | issn=0393-9340}}</ref>. Phenobarbital drastically enhances the effects of other [[depressant |depressants]] such as [[alcohol]], and concurrent use may lead to [[respiratory depression]] and possibly death.\n\nAccording to many sources, it is substantially more powerful than sister-substances pentobarbital or [[secobarbital]]<ref>{{Citation | title=Benzodiazepine Equivalents Conversion Calculator - ClinCalc.com | url=https://clincalc.com/Benzodiazepine/}}</ref>'<ref>{{Citation | title=Benzodiazepine Equivalents | url=https://fpnotebook.com/psych/cd/BnzdzpnEqvlnts.htm}}</ref>'<ref>{{cite journal | vauthors=((Inada, T.)), ((Inagaki, A.)) | journal=Psychiatry and Clinical Neurosciences | title=Psychotropic dose equivalence in Japan: Psychotropic dose equivalence in Japan | volume=69 | issue=8 | pages=440–447 | date= August 2015 | url=https://onlinelibrary.wiley.com/doi/10.1111/pcn.12275 | issn=13231316 | doi=10.1111/pcn.12275}}</ref>, with a dosage convertion ratio of 1:3 in order to achieve equal depressant effects. The product is nonetheless consumed in very high doses as an anti-epileptic substance, as is also [[clonazepam]], which has largely replaced phenobarbital in this context.\n\n==Chemistry==\nPhenobarbital is a drug of the [[barbiturate]] class. Barbiturate drugs contain the backbone of barbituric acid. Phenobarbital has a 5-ethyl, 5-phenyl substitution on the 5-position of the barbituric acid backbone which gives it its unique pharmacological effects. Phenobarbital empirical formula is C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>O<sub>3</sub> and has a molar mass of 232.235 grams per mole.\n\nPhenobarbital appears as odorless white crystalline powder or colorless crystals. A saturated aqueous solution is acid to litmus (approximately pH 5). Slightly bitter taste.<ref>National Toxicology Program, Institute of Environmental Health Sciences, National Institutes of Health (NTP). 1992. National Toxicology Program Chemical Repository Database. Research Triangle Park, North Carolina.</ref> Aqueous solutions of \"phenobarbital\" sodium are not generally stable. The drug is more stable in polyethylene glycol or propylene glycol.<ref>{{cite book | vauthors=((Snow, E. K.)), ((American Society of Health-System Pharmacists)) | date= 2009 | title=AHFS drug information, 2009 | publisher=American Society of Health-System Pharmacists | isbn=9781585282272}}</ref>\n\n==Pharmacology==\nBarbiturates behave similarly to [[benzodiazepine |benzodiazepines]]. Phenobarbital binds to an allosteric site on the GABA<sub>A</sub> receptor and potentiates the effects of the endogenous ligand, [[GABA |gamma-aminobutyric acid]]. When barbiturates bind to the GABA<sub>A</sub> receptor, it causes the ion pore to open for extended periods of time, causing an increase of intracellular chlorine ion concentrations. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of barbiturates on the nervous system. Phenobarbital's biological half life is 53-118 hours. It is metabolized by the liver and excreted by the kidneys and intestines.\n\nPhenobarbital has an oral bioavailability of about 90%. Peak plasma concentrations (C<sub>max</sub>) are reached eight to 12 hours after oral administration. It is one of the longest-acting barbiturates available – it remains in the body for a very long time (half-life of two to seven days) and has very low protein binding (20 to 45%). Phenobarbital is metabolized by the liver, mainly through hydroxylation and glucuronidation, and induces many isozymes of the cytochrome P450 system. Cytochrome P450 2B6 (CYP2B6) is specifically induced by phenobarbital via the CAR/RXR nuclear receptor heterodimer. It is excreted primarily by the kidneys.<ref>{{cite book | vauthors=((Flynn, S.)), ((Babi, M. A.)) | date= 2017 | chapter=Pharmacology and Therapeutics for Dentistry | title=Anticonvulsants | publisher=Elsevier | pages=176–192 | url=https://linkinghub.elsevier.com/retrieve/pii/B9780323393072000126 | doi=10.1016/B978-0-323-39307-2.00012-6 | isbn=9780323393072}}</ref>\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug has the potential to be extremely sedating and often results in an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Motor control loss]]''' \n*'''[[Effect::Muscle relaxation]]\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Decreased blood pressure]]''' - Barbiturates may decrease blood pressure in some individuals and have occasionally been used to reduce intracranial pressure.<ref>{{cite journal | vauthors=((Roberts, I.)), ((Sydenham, E.)) | veditors=((Cochrane Injuries Group)) | journal=Cochrane Database of Systematic Reviews | title=Barbiturates for acute traumatic brain injury | date=12 December 2012 | url=https://doi.wiley.com/10.1002/14651858.CD000033.pub2 | issn=14651858 | doi=10.1002/14651858.CD000033.pub2}}</ref>\n*'''[[Effect::Respiratory depression]] \n*'''[[Effect::Seizure suppression]]'''\n*'''[[Effect::Physical euphoria]]''' - Compared to short-acting barbiturates such as [[pentobarbital]] and [[secobarbital]], this effect is quite weak.\n*'''[[Effect::Decreased libido]]'''\n\n}}\n\n{{effects/visual|\n*'''[[Effect::Acuity suppression]]''' - Like many [[depressant |depressants]], high doses of phenobarbital may cause blurred vision.\n}}\n\n|{{effects/cognitive|\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]''' - Compared to short-acting barbiturates such as [[pentobarbital]] and [[secobarbital]], this effect is quite weak. The feeling itself can be described as an extremely strong feeling of relaxed contentment.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Language suppression]]''' - At higher doses, phenobarbital is known to cause slurred speech.\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Emotion suppression]]''' - Although this compound primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotic]]s.\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n\n}}\n\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://erowid.org/experiences/subs/exp_Barbiturates_Phenobarbital.shtml Erowid Experience Vaults: Phenobarbital]\n\n==Toxicity and harm potential==\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of barbiturates in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\nPhenobarbital likely has [[Toxicity::moderate toxicity]] relative to dose. However, phenobarbital is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]] or [[opioids]]]]. Phenobarbital has a higher risk of death or serious adverse effects associated with concurrent [[depressant]] use than other drugs such as benzodiazepines. There have been studies linking the use of barbiturates, particularly phenobarbital, with the development of cancer <ref>{{cite journal | vauthors=((Friedman, G. D.)), ((Habel, L. A.)) | journal=International Journal of Epidemiology | title=Barbiturates and lung cancer: a re-evaluation | volume=28 | issue=3 | pages=375–379 | date=1 June 1999 | url=https://academic.oup.com/ije/article-lookup/doi/10.1093/ije/28.3.375 | issn=0300-5771 | doi=10.1093/ije/28.3.375}}</ref>.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n\n===Tolerance and addiction potential===\nPhenobarbital is [[Addiction potential::extremely physically and psychologically addictive]]. Barbiturate withdrawal is medically serious and can potentially cause a life-threatening withdrawal syndrome that can cause [[seizure |seizures]], [[psychosis]], and death. Drugs which lower the seizure threshold such as [[tramadol]] and [[amphetamine]] should be avoided during withdrawal. \n\nTolerance will develop to the sedative-hypnotic effects of phenobarbital after prolonged use. It is unknown exactly how long it takes for tolerance to reach baseline. Phenobarbital presents cross-tolerance with all barbiturates, meaning that after its consumption all barbiturates will have a reduced effect.\n\n===Dangerous interactions===\nAlthough many drugs are safe on their own, they can become dangerous and even life-threatening when combined with other substances. The list below contains some common potentially dangerous combinations, but may not include all of them. Certain combinations may be harmless in low doses of each but still increase the potential risk of death. [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption. \n\n*'''[[Depressants]]''' (''[[1,4-Butanediol]], [[2-methyl-2-butanol]], [[alcohol]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination can result in dangerous or even fatal levels of [[respiratory depression]]. These substances potentiate the [[muscle relaxation]], [[sedation]] and [[amnesia]] caused by one another and can lead to unexpected loss of consciousness at high doses. There is also an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should try to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Dissociatives]]''' - This combination can lead to an increased risk of vomiting during unconsciousness and death from the resulting suffocation. If this occurs, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n*'''[[Stimulants]]''' -  It is unsafe to combine barbiturates with [[stimulant]]s due to the risk of excessive intoxication. Stimulants decrease the [[sedation|sedative]] effect of barbiturates, which is the main factor most people consider when determining their level of intoxication. Once the stimulant wears off, the effects of barbiturates will be considerably increased, leading to intensified [[disinhibition]] as well as other effects. If combined, one should strictly limit themselves to only dosing a certain amount of barbiturates per hour. This combination can also potentially result in severe dehydration if hydration is not monitored.\n\n===Overdose===\nBarbiturate overdose may occur when a barbiturate is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as [[benzodiazepine |benzodiazepines]] and [[alcohol]] since they work in a similar fashion, but bind to distinct allosteric sites on the GABA<sub>A</sub> receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABA<sub>A</sub> receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer<ref>{{cite journal | vauthors=((Twyman, R. E.)), ((Rogers, C. J.)), ((Macdonald, R. L.)) | journal=Annals of Neurology | title=Differential regulation of gamma-aminobutyric acid receptor channels by diazepam and phenobarbital | volume=25 | issue=3 | pages=213–220 | date= March 1989 | issn=0364-5134 | doi=10.1002/ana.410250302}}</ref>. Barbiturate overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly. Barbiturate overdose has an increased frequency of serious adverse effects when compared to other depressants.\n\nSymptoms of a barbiturate overdose may include severe [[thought deceleration]], [[language suppression |slurred speech]], [[confusion]], [[delusions]], [[respiratory depression]], coma or death<ref>{{Citation | title=Barbiturate intoxication and overdose: MedlinePlus Medical Encyclopedia | url=https://medlineplus.gov/ency/article/000951.htm}}</ref>.\n\n==Legal status==\nInternationally, phenobarbital is listed in Schedule IV of the UN Convention on Psychotropic Substances.<ref>UN Convention on Psychotropic Substances | https://www.unodc.org/documents/commissions/CND/Int_Drug_Control_Conventions/1971_Schedules/Revision1_2015/ST_CND_1_ADD2_Rev1_e_V1600359.pdf</ref>\n\n*'''Australia''': Phenobarbitone is listed in Schedule 4, making it a prescription only medicine.<ref>Controlled Drugs | http://www.health.nsw.gov.au/pharmaceutical/Documents/poisons-list-alpha.pdf</ref>\n*'''Canada''': Phenobarbital is a Schedule IV controlled substance.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-15.html}}</ref>\n*'''Germany''': Phenobarbital is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'').<ref name=\"BtMG_AnlageIII\">{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 26, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form, except preparations which contain up to 10% or up to 300&nbsp;mg phenobarbital in each dosage form.<ref name=\"BtMG_AnlageIII\"></ref>\n*'''Russia''': Phenobarbital is a Schedule III controlled substance since 2013.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100005&date=02.12.2019}}</ref> but phenobarbital is also found in the medicines [[wikipedia:Corvalol|Corvalol]] or Valocordin, which is dispensed without a doctor’s prescription.<ref>{{Citation | title=Государственный реестр лекарственных средств | url=https://grls.rosminzdrav.ru/Grls_View_v2.aspx?routingGuid=fbbb0394-bac0-4f25-820a-a11fed50bbd7&t=}}</ref>\n*'''Switzerland''': Phenobarbital is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': Phenobarbitone is a Class B controlled substance.<ref>{{Citation | title=Drugs penalties | url=https://www.gov.uk/penalties-drug-possession-dealing}}</ref>\n*'''United States''': Phenobarbital is a Schedule IV controlled substance.<ref> DEA Schedule IV Drugs | https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf</ref>\n\n==See also==\n\n*[[Depressant |Depressants]]\n*[[Benzodiazepine |Benzodiazepines]]\n*[[GABA]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Phenobarbital Phenobarbital (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3991 Phenobarbital (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01174 Phenobarbital (DrugBank)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Barbiturate]]\n[[Category:Phenethylamine]]\n\n{{#set:Featured=true}}"
+}

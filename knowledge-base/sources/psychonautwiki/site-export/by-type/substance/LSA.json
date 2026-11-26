@@ -1,0 +1,962 @@
+{
+ "id": "psychonautwiki:9",
+ "type": "substance",
+ "title": "LSA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/LSA",
+  "pageid": 9,
+  "last_edited": "2025-06-26T14:02:43Z"
+ },
+ "categories": [
+  "Alkaloid",
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Latvian-language sources (lv)",
+  "CS1 Swedish-language sources (sv)",
+  "CS1 Turkish-language sources (tr)",
+  "Entheogen",
+  "Lysergamide",
+  "Psychedelic"
+ ],
+ "substance_box_template": "SubstanceBox/LSA",
+ "substance_box": {
+  "names": {
+   "common": "LSA, Ergine",
+   "substitutive": "d-Lysergic acid amide / d-Lysergamide",
+   "systematic": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Psychedelic",
+   "chemical": "Lysergamide"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "",
+    "light": "",
+    "common": "",
+    "strong": "",
+    "heavy": "",
+    "duration": "5 - 10 hours",
+    "onset": "30  - 180 minutes",
+    "peak": "2 - 7 hours",
+    "offset": "1 - 3 hours",
+    "aftereffects": "3 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "sublingual": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "buccal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "rectal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "transdermal": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "subcutaneous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intramuscular": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "intravenous": {
+    "enabled": false,
+    "caption": "Presumes no tolerance",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "LSA",
+    "Ergine"
+   ],
+   "Psychoactive class": [
+    "Psychedelic"
+   ],
+   "chemical class": [
+    "Lysergamide"
+   ],
+   "Oral min total time": [
+    "5"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "180"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "7"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "3"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "3"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of LSA",
+   "clean": "Molecular structure of LSA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:LSA.svg",
+   "clean": "File:LSA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::LSA]], [[common name::Ergine]]",
+   "clean": "LSA, Ergine"
+  },
+  "NameSubstitution": {
+   "raw": "d-Lysergic acid amide / d-Lysergamide",
+   "clean": "d-Lysergic acid amide / d-Lysergamide"
+  },
+  "NameSystematic": {
+   "raw": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide",
+   "clean": "(8β)-9,10-Didehydro-6-methyl-ergoline-8-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Psychedelic]]",
+   "clean": "Psychedelic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Lysergamide]]",
+   "clean": "Lysergamide"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Light": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Common": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Strong": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Heavy": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::5]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "5 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]]  - [[Oral max onset time::180]] [[Oral onset time units::minutes]]",
+   "clean": "30  - 180 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::7]] [[Oral peak time units::hours]]",
+   "clean": "2 - 7 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::3]] [[Oral offset time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::3]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "3 - 24 hours"
+  },
+  "SublingualROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SublingualROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SublingualROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SublingualROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SublingualROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SublingualROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SublingualROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SublingualROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SublingualROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SublingualROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "Buccal_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "BuccalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "BuccalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "BuccalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "BuccalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "BuccalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "BuccalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "BuccalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "BuccalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "BuccalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "RectalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "RectalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "RectalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "RectalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "RectalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "RectalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "RectalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "RectalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "RectalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "RectalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "TransdermalROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "TransdermalROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "TransdermalROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "TransdermalROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "TransdermalROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "TransdermalROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "TransdermalROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "TransdermalROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "TransdermalROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "TransdermalROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SubcutaneousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SubcutaneousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "SubcutaneousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "SubcutaneousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "SubcutaneousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "SubcutaneousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SubcutaneousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "SubcutaneousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "SubcutaneousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "SubcutaneousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntramuscularROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntramuscularROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntramuscularROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntramuscularROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntramuscularROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntramuscularROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntramuscularROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntramuscularROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntramuscularROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntramuscularROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "IntravenousROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "IntravenousROA_Caption": {
+   "raw": "Presumes no tolerance",
+   "clean": "Presumes no tolerance"
+  },
+  "IntravenousROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "IntravenousROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "IntravenousROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "IntravenousROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "IntravenousROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "IntravenousROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "IntravenousROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "IntravenousROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "Lysergic acid amide (also known as ergine, d-lysergic acid amide, d-lysergamide, and LSA) is a naturally-occurring psychedelic substance of the lysergamide class. \nLSA is an ergot alkaloid and the main psychoactive constituent of morning glory seeds. \nLSA is chemically related to LSD and is said to produce similar effects, although the extent to which it does is unclear.\n\nLSA was first described in 1932 as part of an investigation into the alkaloids found in ergot. In 1947, it was synthesized and tested for human activity by Albert Hofmann. The intramuscular administration of a 500 microgram dose produced a \"tired, dreamy state with an inability to maintain clear thoughts.\"\nIn 1970, LSA was detected as a constituent in Hawaiian baby woodrose seeds, which were being ground up into capsules and sold on the street as \"mescaline\". Today, LSA is typically consumed via morning glory and Hawaiian baby woodrose seeds.\n\nUser reports describe the effects of LSA as primarily sedating and dream-like, with a mild to moderate psychedelic component. The psychedelic effects of LSA occur inconsistently and are not directly comparable to the effects of classical psychedelics like LSD, psilocybin mushrooms, or mescaline. LSA is described as primarily bodily and cognitive with little visual effects. Many users report serious nausea and bodily discomfort (\"body load\") when taking LSA-containing seeds. \n\nLike other psychedelics, LSA is not considered to be addictive. However, adverse reactions such as severe anxiety, paranoia, and psychosis are always possible, particularly among those who are predisposed to psychiatric disorders. It is therefore highly advised to use harm reduction practices if using this substance. \n\nChemistry\n\nLSA, or d-lysergic acid amide, is an organic alkaloid belonging to the lysergamide class. The chemical structure of LSA contains a core structure of lysergic acid with an amine functional group bound to RN. The structure of lysergic acid is composed of a bicyclic hexahydroindole fused to a bicyclic quinoline group (lysergic acid). At carbon 8 of the quinoline, an acetamide group is bound. LSA is additionally substituted at carbon 6 with a methyl group. \n\nLSA is a chiral compound with two stereocenters at R5 and R8. LSA, also called (+)-D-LSA, has an absolute configuration of (5R, 8R). The three other stereoisomers of LSA do not have psychoactive properties. LSA is structurally analogous to LSD, with the exception being that LSA lacks the diethyl substitution of LSD at RN of its carboxamide group. It can be used as a precursor to LSD.\n\nPharmacology\n\nLSA's psychedelic effects are believed to come from its efficacy at the 5-HT2A receptor as a partial agonist. However, the role of these interactions and how they result in the psychedelic experience remains the subject of scientific investigation. \n\nThe notion that LSA is the primary psychedelic constituent in morning glory and Hawaiian baby woodrose seeds has been challenged as the effects of isolated synthetic LSA are reported to be only slightly psychedelic in nature. Therefore, it has been proposed that the overall experience may possibly be produced by a mixture of various lysergamide alkaloids (including iso-LSA and LSH) within these plant materials instead of a single psychoactive compound.\n\nSubjective effects\n\nCombination effects\n\n*Cannabis - Cannabis can immensely intensify the sensory and cognitive effects of LSA. Extreme caution is advised when mixing these substances as it can significantly increase the chances of a negative psychological reaction like anxiety, confusion and psychosis. Those who use this combination are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits in order to avoid a negative reaction.\n*Dissociatives - Dissociatives greatly enhance the cognitive, visuals and general hallucinatory effects of LSA. Dissociative-induced holes, spaces, and voids while under the influence of LSA have significantly more vivid visuals than dissociatives alone, as well as more intense internal hallucinations and correspondingly increased risk of confusion, delusions and psychosis.\n*Alcohol - Alcohol's central depressant effects can be used to reduce some of the anxiety and tension produced by LSA. However, alcohol can cause dehydration, nausea and physical fatigue which can significantly worsen the experience. If using alcohol, it is advised to pace oneself and drink just a fraction of the usual amount.\n*Benzodiazepines - Depending on the dose, benzodiazepines can slightly to completely reduce the intensity of the cognitive, physical and visual effects of an LSA trip. They are very efficient at stopping \"bad trips\" at the cost of amnesia and reduced trip intensity. Caution is advised when acquiring them for this purpose as they are very easy to abuse.\n*Psychedelics - When used in combination with other psychedelics, each substance's physical, cognitive and visual effects intensify and synergize strongly. The synergy between those substances is unpredictable, and for this reason generally not advised. If choosing to combine psychedelics, it is recommended to start with significantly lower dosages than one would take for either substance individually.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: LSA\n\nNatural plant sources\n\nAlthough LSA is illegal in some countries, various seeds which contain it are readily available in many gardening stores. However, the seeds from commercial sources are often coated in some form of seed treatment or fungicide which can result in extreme nausea, bodily discomfort, or (in the case of organomercury compounds) long-term neurological damage and cognitive impairment if ingested. Methods for cleaning or de-coating the seeds are available, but are typically ineffective (organomercury compounds penetrate the entire seed). Therefore it is important to only purchase untreated seeds from reliable, trusted vendors. Heavy metal testing kits can be purchased online to test seed extracts for mercury content prior to ingestion.\n\nMorning glory seeds (MGS)\n\nthumb|right|upright|200px|Morning glory seeds\nThe seeds of many species of morning glory are known to contain lysergamide alkaloids such as LSA. Typical oral doses of morning glory seeds are as follows:\n\n*Threshold: 20 - 50 seeds / 1.5 g\n*Light: 50 - 100 seeds / 1.5 - 3 g\n*Common: 100 - 250 seeds / 3 - 6 g\n*Strong: 250 - 400 seeds / 6 - 10 g\n*Heavy: 400 seeds + / 10 g +\n\nHawaiian baby woodrose seeds (HBWR)\n\nthumb|right|upright|200px|Hawaiian baby woodrose seeds\nHawaiian baby woodrose is a perennial climbing vine that is native to the Indian subcontinent and has since been introduced to numerous areas worldwide including Hawaii, Africa and the Caribbean. Its seeds may be consumed for their various lysergamide alkaloids such as LSA. Typical oral doses for Hawaiian baby woodrose seeds are as follows:\n\n*Threshold: 1 - 3 seeds\n*Light: 3 - 5 seeds\n*Common: 5 - 7 seeds\n*Strong: 7 - 12 seeds\n*Heavy: 12 seeds +\n\nPreparation methods\n\nLSA containing seeds can be prepared using a number of methods. Some of these methods are listed in our tutorial index and include:\n\n*Simple LSA extraction\n*Tincture of extracted LSA\n*Low dose LSA Cold Water Extraction (CWE)\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational LSA use have not been studied in any scientific context and the exact toxic dose is unknown.\n\nAnecdotal evidence suggests that there are no negative health effects attributed to simply trying LSA by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). Independent research should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nVasoconstriction\n\nLSA should not be used regularly for long periods of time. When used repeatedly over a short period of time, LSA's vasoconstrictive effects build up while the psychoactive effects get weaker. A common sign of vasoconstriction build up can be described as a feeling of painful or uncomfortable legs. This happens as a result of an insufficient amount of blood getting to the muscles. The upper leg muscles are the largest, most energy consuming muscles in the body and will feel sore if blood flow to them is lowered even slightly.\n\nWhen HBWR, morning glory seeds or pure LSA seeds are consumed and sore legs are experienced, a break has been reported to be helpful. With LSA it can take up to 3 days of abstinence to get back to vasoconstriction baseline.\n\nDependence and abuse potential\n\nLSA is considered to be non-addictive with a low abuse potential. There are no literature reports of successful attempts to train animals to self-administer LSA, an animal model predictive of abuse liability, indicating that it does not possess the necessary pharmacology to either initiate or maintain dependence. There is virtually no withdrawal syndrome when use is stopped. \n\nTolerance to the effects of LSA forms almost immediately after ingestion. After that, it takes about 7 days for the tolerance to return to baseline (in the absence of further consumption). LSA produces cross-tolerance with all psychedelics, meaning that after the use of LSA all psychedelics will have a reduced effect.\n\nDangerous interactions\n\nOther interactions\n\n*Selective serotonin reuptake inhibitors (SSRIs) - SSRIs are reported to suppress the visual and cognitive effects of LSA.\n*MAOIs - MAO inhibitors, such as passionflower and syrian rue potentiate the visual and introspective effects of psychedelics. It is advised to take caution when combining MAOIs with psychedelics because they can increase the chance of having a bad trip and may dangerously interact with other substances, such as SSRIs and stimulants, as well as some psychedelics such as MDA.\n\nLegal status\n\n*Australia: LSA is illegal to produce, sell, and consume in Australia.\n*Austria: LSA containing seeds are not regulated, thus are legal to possess, produce and sell.\n*Germany: LSA is controlled under the NpSG (New Psychoactive Substances Act) as of July 18, 2019. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized. Plant parts containing LSA are not covered by the law.\n*Latvia: LSA itself is controlled as a structural analog of LSD. However, there is no information about LSA-containing seeds. In Latvia, plants are only illegal if they contain Schedule I controlled substances and LSA is not a Schedule 1 controlled substance.\n*The Netherlands: LSA is illegal. However, Hawaiian Baby Woodrose and Morning Glory seeds are not illegal to consume, sell or posses, like other entheogens.\n*New Zealand: LSA is illegal to consume, sell, and possess. The plants and seeds of morning glory species are legal to possess, cultivate, buy and distribute.\n*Sweden: LSA is being researched by health authorities and there is a risk in near future for LSA to become illegal. \n*Switzerland: As a chemical, LSA can be considered a controlled substance as a defined derivative of Lysergic Acid under Verzeichnis E point 263. It is legal when used for scientific or industrial use.. Plant matter is not illegal.\n*Türkiye: LSA is illegal to consume, sell, and possess.  The plants and seeds of morning glory species are legal to possess, cultivate, buy and distribute.\n*United Kingdom: LSA is a Class A controlled substance and categorized as a precursor to LSD.\n*United States: As a precursor to LSD, LSA is a DEA Schedule III controlled substance. However, seeds containing LSA can be purchased legally on the internet and from gardening stores.\n*Poland: Argyreia nervosa (Hawaiian baby woodrose) and Rivea corymbosa are illegal (I-N) with penalty for posession of up to 3 years in prison. LSA itself is covered by analogue law (VI-NPS) and therefore illegal with posession punishable by fine. Morning glory seeds are legal and openly sold in gargening shops.\n\nSee also\n\n*Responsible use\n*Entheogens\n*Lysergamides\n*Psychedelics\n*LSD\n\nExternal links\n\n*LSA (Wikipedia)\n*LSA (Erowid Vault)\n*LSA (Isomer Design)\n*LSA (Drugs-Forum)\n\nDiscussion\n\n*The Big & Dandy LSA Thread - Second Iteration (Bluelight)\n\nReferences\n\nCategory:Alkaloid\nCategory:Lysergamide\nCategory:Psychedelic\nCategory:Entheogen",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/LSA}}\n\n'''Lysergic acid amide''' (also known as '''ergine''', '''d-lysergic acid amide''', '''d-lysergamide''', and '''LSA''') is a [[naturally-occurring]] [[Psychoactive class::psychedelic]] substance of the [[chemical class::lysergamide]] class. \nLSA is an ergot [[alkaloid]] and the main psychoactive constituent of [[morning glory]] seeds.{{citation needed}} \nLSA is chemically related to [[LSD]] and is said to produce similar effects, although the extent to which it does is unclear.\n\nLSA was first described in 1932 as part of an investigation into the alkaloids found in ergot.<ref>{{cite journal|last1=Smith|first1=Sydney|last2=Timmis|first2=Geoffrey M.|title=The alkaloids of ergot. Part III. Ergine, a new base obtained by the degradation of ergotoxine and ergotinine|journal=Journal of the Chemical Society (Resumed)|year=1932|issue=98|edition=1932|pages=763-766|doi=10.1039/JR9320000763}}</ref> In 1947, it was synthesized and tested for human activity by [[Albert Hofmann]]. The [[intramuscular]] administration of a 500 microgram dose produced a \"tired, dreamy state with an inability to maintain clear thoughts.\"<ref name=\"TiKHAL\">{{cite book|title=TiHKAL: The Continuation|title-link=TiHKAL|last1=Shulgin|first1=Alexander|last2=Shulgin|first2=Ann|author-link1=Alexander Shulgin|year=1997|publisher=Transform Press|location=United States|isbn=0-9630096-9-9|oclc=38503252|chapter-url=https://erowid.org/library/books_online/tihkal/tihkal26.shtml|chapter=#26. LSD-25}}</ref>\nIn 1970, LSA was detected as a constituent in Hawaiian baby woodrose seeds, which were being ground up into capsules and sold on the street as \"mescaline\".<ref>{{cite journal|last1=Miller|first1=Michael D.|title=Isolation and Identification of Lysergic Acid Amide and Isolysergic Acid Amide as the Principal Ergoline Alkaloids in ''Argyreia nervosa'', a Tropical Wood Rose|journal=Journal of the AOAC|year=1970|volume=53|issue=1|pages=123-128|issn=1060-3271|url=https://chemistry.mdma.ch/hiveboard/rhodium/pdf/forensic/lsa.hbwr.jaoac.pdf}}</ref> Today, LSA is typically consumed via [[LSA#Morning_glory_seeds_.28MGS.29|morning glory]] and [[LSA#Hawaiian_baby_woodrose_seeds_.28HBWR.29|Hawaiian baby woodrose]] seeds.<ref>{{cite journal|last1=Borsutzky|first1=M.|last2=Passie|first2=T.|last3=Paetzold|first3=W.|last4=Schneider|first4=U.|title=Hawaiian baby woodrose: (Psycho-) Pharmacological effects of the seeds of Argyreia nervosa. A case-orientated demonstration|journal=Der Nervenarzt|issn=0028-2804|doi=10.1007/s00115-002-1374-4|pmid=12215884|year=2002|volume=73|issue=9|pages=892-896}}</ref>\n\nUser reports describe the effects of LSA as primarily sedating and dream-like, with a mild to moderate psychedelic component. The psychedelic effects of LSA occur inconsistently and are not directly comparable to the effects of classical psychedelics like [[LSD]], [[psilocybin mushrooms]], or [[mescaline]]. LSA is described as primarily bodily and cognitive with little visual effects. Many users report serious [[nausea]] and bodily discomfort (\"body load\") when taking LSA-containing seeds. \n\nLike other [[psychedelics]], LSA is not considered to be addictive.<ref>{{cite journal|last1=Lüscher|first1=Christian|last2=Ungless|first2=Mark A.|title=The Mechanistic Classification of Addictive Drugs|year=2006|journal=PLOS Medicine|volume=3|issue=11|doi=10.1371/journal.pmed.0030437|pmid=17105338|issn=1549-1277}}</ref> However, adverse reactions such as severe [[anxiety]], [[paranoia]], and [[psychosis]] are always possible, particularly among those who are predisposed to psychiatric disorders.<ref>{{cite journal|last=Strassmann|first=Rick|title=Adverse reactions to psychedelic drugs. A review of the literature|journal=Journal of Nervous and Mental Disease|volume=172|issue=10|pages=577–595|doi=10.1097/00005053-198410000-00001|pmid=6384428|year=1984|issn=0022-3018|oclc=1754691}}</ref> It is therefore highly advised to use [[harm reduction practices]] if using this substance. \n\n==Chemistry==\nLSA, or d-lysergic acid amide, is an organic [[alkaloid]] belonging to the [[lysergamide]] class. The chemical structure of LSA contains a core structure of lysergic acid with an amine functional group bound to R<sub>N</sub>. The structure of lysergic acid is composed of a bicyclic hexahydroindole fused to a bicyclic quinoline group (lysergic acid). At carbon 8 of the quinoline, an acetamide group is bound. LSA is additionally substituted at carbon 6 with a methyl group. \n\nLSA is a chiral compound with two stereocenters at R<sub>5</sub> and R<sub>8</sub>. LSA, also called (+)-D-LSA, has an absolute configuration of (5''R'', 8''R''). The three other stereoisomers of LSA do not have psychoactive properties. LSA is structurally analogous to [[LSD]], with the exception being that LSA lacks the diethyl substitution of LSD at R<sub>N</sub> of its carboxamide group. It can be used as a precursor to LSD.\n\n==Pharmacology==\n{{Further|Serotonergic psychedelic}}\nLSA's [[psychedelic]] effects are believed to come from its efficacy at the [[Serotonin#The 5-HT system|5-HT<sub>2A</sub> receptor]] as a [[Agonist#Agonists|partial agonist]]. However, the role of these interactions and how they result in the [[psychedelic]] experience remains the subject of scientific investigation. \n\nThe notion that LSA is the primary [[psychedelic]] constituent in morning glory and Hawaiian baby woodrose seeds has been challenged as the effects of isolated synthetic LSA are reported to be only slightly psychedelic in nature. Therefore, it has been proposed that the overall experience may possibly be produced by a mixture of various [[Lysergamides|lysergamide]] [[alkaloids]] (including iso-LSA and [[LSH]]) within these plant materials instead of a single psychoactive compound.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' - LSA is predominantly sedating; however, this can be setting dependent. For example, when taken in settings with large amounts of stimuli or during physically strenuous activities such as walking, running, climbing or dancing, LSA is capable of becoming stimulating and energetic. In contrast, when taken in calm environments such as darkened rooms with comfortable seating, it tends to be relaxing, sedating. \n*'''[[Effect::Spontaneous bodily sensations]]''' - The \"body high\" of LSA can be described as a mild yet pleasurable and soft tingling sensation. This is largely noticed in high doses and is accompanied by strong waves of [[physical euphoria]] which are usually manifested spontaneously at different unpredictable points throughout the trip but can also maintain a consistent presence. Compared to [[LSD]], the physical effects of [[LSA]] tend to predominate the experience relative to its visual and cognitive effects.\n**'''[[Effect::Perception of bodily heaviness]]''' \n**'''[[Effect::Physical euphoria]]''' - This effect is reported to be more readily able to be produced by LSA than [[LSD]]. However, it can be masked by strong, uncomfortable feelings of nausea and vasoconstriction, particularly when LSA-containing seeds are consumed directly before any extraction has been performed.  \n*'''[[Effect::Motor control loss]]''' - This effect becomes far more present at high doses than lower doses. It can be compared to the loss of motor control experienced with [[alcohol]]-induced inebriation and is strengthened by the [[perception of bodily heaviness]].\n*'''[[Effect::Temperature regulation suppression]]'''{{citation needed}}\n*'''[[Effect::Nausea]]''' - The nauseating effects of LSA is thought to be mostly caused by the other components of the seeds (e.g. morning glory, Hawaiian baby woodrose, etc.) and not LSA itself. Various extraction methods can be used to significantly reduce if not eliminate the nausea that can be produced by this substance. Anecdotal reports also suggest that ginger tea or cannabis may be helpful in counteracting nausea.\n*'''[[Effect::Vasoconstriction]]'''{{citation needed}} - LSA is commonly reported to produce strong and pronounced feelings of vasoconstriction. This varies in its intensity between individuals but is often considered moderately to extremely uncomfortable in comparison to other [[psychedelics]]. This effect is commonly reported to cause joint and limb pains.\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Increased blood pressure]]''' or '''[[Effect::Decreased blood pressure]]'''{{citation needed}} - LSA has been reported as being capable of producing both an increase and a decrease in blood pressure, sometimes alternating at different points in the experience, such as during the [[come up]] or [[offset]], although it is unclear how much of this is dependent on the seeds and variations in [[alkaloid]] contents.  \n*'''[[Effect::Muscle contractions]]''' & '''[[Effect::Muscle relaxation]]'''\n*'''[[Effect::Muscle spasms]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Headaches]]'''{{citation needed}}\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Gustatory enhancement]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Excessive yawning]]'''\n*'''[[Effect::Pupil dilation]]'''\n*'''[[Effect::Photophobia]]'''\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Difficulty urinating]]'''\n}}\n{{effects/visual|\n\nThe visual effects of LSA are mostly present when large doses have been consumed. When compared to [[LSD]] and [[psilocin]], the visual effects of LSA are proportionally mild in comparison to the intensity of its accompanying cognitive and physical effects.\n\n====Enhancements====\n*'''[[Effect::Colour enhancement]]'''\n*'''[[Effect::Pattern recognition enhancement]]'''\n*'''[[Effect::Visual acuity enhancement]]'''\n*'''[[Effect::Frame rate enhancement]]'''\n\n====Distortions====\nThe visual distortions and alterations are significantly more simplistic than open eye distortions found with other [[psychedelics]]. The effects experienced are detailed below: \n*'''[[Effect::Depth perception distortions]]'''\n*'''[[Effect::Drifting]]''' ''([[Drifting#Melting|melting]], [[Drifting#Breathing|breathing]], [[Drifting#Morphing|morphing]] and [[Drifting#Flowing|flowing]])'' - In comparison to other psychedelics, this effect can be described as mild but highly detailed and cartoon-like in appearance. The distortions are fast yet smooth in motion and fleeting in permanence. This is an inconsistently manifested effect with some people never reporting such effects.\n*'''[[Effect::Colour shifting]]'''\n*'''[[Effect::Tracers]]'''\n*'''[[Effect::Scenery slicing]]'''\n*'''[[Effect::Symmetrical texture repetition]]'''\n\n====[[Effect::Geometry]]====\nThe visual geometry produced by LSA can be described as more similar in appearance to that of [[4-AcO-DMT]] and [[ayahuasca]] than [[LSD]] or [[2C-B]]. It can be described through its [[Visual_effects:_Geometry#Variations|variations]] as primarily intricate in complexity, abstract in form, organic in appearance, unstructured in organization, dimly lit, multicolored in scheme, glossy in shading, soft in edges, small in size, slow in speed, smooth in motion, rounded in corners, non-immersive in depth and consistent in intensity. At higher doses, it is significantly more likely to produce [[Effect::8B geometry]] over [[8A geometry]].\n\n====Hallucinatory states====\nLSA is capable of consistently producing a full range of high-level hallucinatory states when it is taken in large doses. However, the doses required to achieve these states are likely to produce very uncomfortable, and potentially dangerous, side effects. These states include:\n \n*'''[[Effect::Transformations]]''' - These are extremely common within LSA and partially follow the content of the user's current thought process.\n*'''[[Effect::Internal hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - Unlike [[LSD]], LSA consistently produces moderate to high level hallucinatory states in high doses. This particular effect can be compared to a [[Lucid Dreaming|lucid dream]] state. The hallucinations are more common within dark environments and can be comprehensively described through their [[Internal_hallucinations#Variations|variations]] as lucid in believability, interactive in style, new experiences in content, controllable and almost exclusively of a personal, religious, spiritual, science-fiction, fantasy, surreal, nonsensical or transcendental nature in their overall theme.\n*'''[[Effect::External hallucination]]''' (''[[effect::autonomous entities]]''; ''[[effect::settings, sceneries, and landscapes]]''; ''[[effect::perspective hallucinations]]'' and ''[[effect::scenarios and plots]]'') - This effect occurs far more rarely and infrequently than with other hallucinogens. However, they can occasionally occur at heavier dosages. They can be described through their [[Visual_effects:_Internal_hallucinations#Variations|variations]] as lucid in believability, autonomous in controllability, and solid in style. \n*'''[[Effect::Peripheral information misinterpretation]]'''\n}}\n\n|{{effects/cognitive|\n\nThe cognitive effects of LSA are described by many as extremely relaxing yet lucid and clear-headed in style when compared to other commonly used psychedelics such as [[LSD]] or [[psilocin]]. Although it is primarily sedating, it can produce fast-paced bursts of thought and stimulation at random intervals.\n\nLSA produces a large number of [[psychedelic]] cognitive effects. The most prominent of these typical effects include:\n\n*'''[[Effect::Analysis enhancement]]''' - This effect is [[Effect::introspection]] dominant.\n*'''[[Effect::Anxiety]]''' or '''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Emotion enhancement]]'''\n*'''[[Effect::Empathy, affection and sociability enhancement]]'''\n*'''[[Effect::Increased music appreciation]]''' - Listening to music can strongly intensify the overall experience.\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Language suppression]]''' - Mild compared to language suppression on classical psychedelics like [[LSD]]. \n*'''[[Effect::Increased sense of humor]]'''\n**'''[[Effect::Laughter fits]]'''\n*'''[[Effect::Memory suppression]]'''\n**'''[[Effect::Ego death]]'''\n*'''[[Effect::Mindfulness]]'''\n*'''[[Effect::Novelty enhancement]]'''\n*'''[[Effect::Rejuvenation]]'''\n*'''[[Effect::Autonomous voice communication]]'''\n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought loops]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Wakefulness]]'''\n\n}}\n{{effects/auditory|\n\n*'''[[Effect::Auditory enhancement]]'''\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucinations]]'''\n\n}}\n{{effects/transpersonal|\n\n*'''[[Effect::Spirituality enhancement]]'''\n*'''[[Effect::Existential self-realization]]''' - This effect is less common and reproducible than it is with classical psychedelics like [[LSD]], [[psilocybin mushrooms]], and [[mescaline]]. \n*'''[[Effect::Unity and interconnectedness]]\n\n}}\n}}\n===Combination effects===\n\n*'''[[Cannabis]]''' - Cannabis can immensely intensify the sensory and cognitive effects of LSA. Extreme caution is advised when mixing these substances as it can significantly increase the chances of a negative psychological reaction like [[anxiety]], [[confusion]] and [[psychosis]]. Those who use this combination are advised to start off with only a fraction of their usual cannabis dose and take long breaks between hits in order to avoid a negative reaction.\n*'''[[Dissociatives]]''' - Dissociatives greatly enhance the cognitive, visuals and general hallucinatory effects of LSA. Dissociative-induced [[Visual_disconnection#Holes.2C_spaces_and_voids|holes, spaces, and voids]] while under the influence of LSA have significantly more vivid visuals than dissociatives alone, as well as more intense [[internal hallucinations]] and correspondingly increased risk of [[confusion]], [[delusions]] and [[psychosis]].\n*'''[[Alcohol]]''' - Alcohol's central depressant effects can be used to reduce some of the anxiety and tension produced by LSA. However, alcohol can cause [[dehydration]], [[nausea]] and [[physical fatigue]] which can significantly worsen the experience. If using alcohol, it is advised to pace oneself and drink just a fraction of the usual amount.\n*'''[[Benzodiazepines]]''' - Depending on the dose, benzodiazepines can slightly to completely reduce the intensity of the cognitive, physical and visual effects of an LSA trip. They are very efficient at stopping [[bad trip|\"bad trips\"]] at the cost of amnesia and reduced trip intensity. Caution is advised when acquiring them for this purpose as they are very easy to abuse.\n*'''[[Psychedelics]]''' - When used in combination with other psychedelics, each substance's physical, cognitive and visual effects intensify and synergize strongly. The synergy between those substances is unpredictable, and for this reason generally not advised. If choosing to combine psychedelics, it is recommended to start with significantly lower dosages than one would take for either substance individually.\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:LSA]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_LSA.shtml Erowid Experience Vaults: LSA]\n\n==Natural plant sources==\n{{main|Morning glory}}\nAlthough LSA is illegal in some countries, various seeds which contain it are readily available in many gardening stores. However, the seeds from commercial sources are often coated in some form of seed treatment or fungicide which can result in extreme nausea, bodily discomfort, or (in the case of organomercury compounds) long-term neurological damage and cognitive impairment if ingested. Methods for cleaning or de-coating the seeds are available, but are typically ineffective (organomercury compounds penetrate the entire seed). Therefore it is important to only purchase untreated seeds from reliable, trusted vendors. Heavy metal testing kits can be purchased online to test seed extracts for mercury content prior to ingestion.\n\n===Morning glory seeds (MGS)===\n{{main|Ipomoea tricolor (botany)}}\n[[File:Lsa_-_morning_glory_seedsgck.jpg|thumb|right|upright|200px|Morning glory seeds]]\nThe seeds of many species of morning glory are known to contain [[lysergamide]] [[alkaloids]] such as LSA.<ref>{{cite journal|last1=Ingram Jr.|first1=Albert L.|title=Morning Glory Seed Reaction|year=1964|journal=JAMA: The Journal of the American Medical Association|issn=0098-7484|doi=10.1001/jama.1964.03070260045019|volume=190|issue=13|pages=1133–1134}}</ref> Typical oral doses of morning glory seeds are as follows:\n\n*'''Threshold:''' ''[[Oral threshold dose::20]] - 50 seeds / 1.5 g''\n*'''Light:''' ''[[Oral min light dose::50]] - [[Oral max light dose::100]] [[Oral dose units::seeds]] / 1.5 - 3 g''\n*'''Common:''' ''[[Oral min common dose::100]] - [[Oral max common dose::250]] seeds / 3 - 6 g''\n*'''Strong:''' ''[[Oral min strong dose::250]] - [[Oral max strong dose::400]] seeds / 6 - 10 g''\n*'''Heavy:''' ''[[Oral heavy dose::400]] seeds + / 10 g +''\n\n===Hawaiian baby woodrose seeds (HBWR)===\n{{main|Argyreia nervosa (botany)}}\n[[File:Hawaiin_baby_woodrose.jpg|thumb|right|upright|200px|Hawaiian baby woodrose seeds]]\nHawaiian baby woodrose is a perennial climbing vine that is native to the Indian subcontinent and has since been introduced to numerous areas worldwide including Hawaii, Africa and the Caribbean. Its seeds may be consumed for their various [[lysergamide|lysergamide alkaloids]] such as LSA.<ref>{{cite journal|last1=Klinke|first1=Helene B.|last2=Müller|last3=Steffenrud|first3=S.|last4=Dahl-Sørensen|first4=R.|title=Two cases of lysergamide intoxication by ingestion of seeds from Hawaiian Baby Woodrose|year=2010|journal=Forensic Science International|volume=197|issue=1–3|pages=e1-e5|issn=0379-0738|doi=10.1016/j.forsciint.2009.11.017}}</ref> Typical oral doses for Hawaiian baby woodrose seeds are as follows:\n\n*'''Threshold:''' ''[[Sublingual threshold dose::1]] - 3 [[Sublingual dose units::seeds]]''\n*'''Light:''' ''[[Sublingual min light dose::3]] - [[Sublingual max light dose::5]] seeds''\n*'''Common:''' ''[[Sublingual min common dose::5]] - [[Sublingual max common dose::7]] seeds''\n*'''Strong:''' ''[[Sublingual min strong dose::7]] - [[Sublingual max strong dose::12]] seeds''\n*'''Heavy:''' ''[[Sublingual heavy dose::12]] seeds +''\n\n===Preparation methods===\nLSA containing seeds can be prepared using a number of methods. Some of these methods are listed in our [[tutorial index]] and include:\n\n*[[Simple LSA extraction]]\n*[[Tincture of extracted LSA]]\n*[[Low dose LSA Cold Water Extraction (CWE)]]\n\n==Toxicity and harm potential==\n{{toxicity}}\n{{Further|Responsible use#Hallucinogens}}\nThe toxicity and long-term health effects of recreational LSA use have not been studied in any scientific context and the exact [[Toxicity::toxic dose is unknown]].\n\nAnecdotal evidence suggests that there are no negative health effects attributed to simply trying LSA by itself at low to moderate doses and using it very sparingly (but nothing can be completely guaranteed). [https://www.google.com/ Independent research] should always be done to ensure that a combination of two or more substances is safe before consumption.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Vasoconstriction===\nLSA should not be used regularly for long periods of time. When used repeatedly over a short period of time, LSA's [[vasoconstriction|vasoconstrictive]] effects build up while the psychoactive effects get weaker. A common sign of vasoconstriction build up can be described as a feeling of painful or uncomfortable legs.<ref>{{cite journal|last1=Iemitsu|first1=M.|last2=Itoh|first2=M.|last3=Fujimoto|first3=T.|last4=Tashiro|first4=M.|last5=Nagatomi|first5=R.|last6=Ohmori|first6=H.|last7=Ishii|first7=K.|journal=Medicine & Science in Sports & Exercise|year=2000|title=Whole-body energy mapping under physical exercise using positron emission tomography|volume=32|issue=12|pages=2067-2070|issn=0195-9131|pmid=11128853|doi=10.1097/00005768-200012000-00016}}</ref> This happens as a result of an insufficient amount of blood getting to the muscles. The upper leg muscles are the largest, most energy consuming muscles in the body and will feel sore if blood flow to them is lowered even slightly.\n\nWhen HBWR, morning glory seeds or pure LSA seeds are consumed and sore legs are experienced, a break has been reported to be helpful. With LSA it can take up to 3 days of abstinence to get back to vasoconstriction baseline.\n\n===Dependence and abuse potential===\nLSA is considered to be [[Addiction potential::non-addictive with a low abuse potential]]. There are no literature reports of successful attempts to train animals to self-administer LSA, an animal model predictive of abuse liability, indicating that it does not possess the necessary pharmacology to either initiate or maintain dependence.{{citation needed}} There is virtually no withdrawal syndrome when use is stopped. \n\nTolerance to the effects of LSA forms [[Time to full tolerance::almost immediately after ingestion]]. After that, it takes about [[Time to zero tolerance::7 days]] for the tolerance to return to baseline (in the absence of further consumption). LSA produces cross-tolerance with all [[psychedelic]]s, meaning that after the use of LSA all psychedelics will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Psychedelics}}\n\n===Other interactions===\n\n*'''[[Selective serotonin reuptake inhibitors]] (SSRIs)''' - SSRIs are reported to suppress the visual and cognitive effects of LSA.\n*'''[[MAOIs]]''' - MAO inhibitors, such as passionflower and [[syrian rue]] potentiate the visual and introspective effects of psychedelics. It is advised to take caution when combining [[MAOI]]s with psychedelics because they can increase the chance of having a [[bad trip]] and may [[MAOI#Interactions|dangerously interact]] with other substances, such as [[SSRIs]] and [[stimulants]], as well as some psychedelics such as [[MDA]].\n\n==Legal status==\n\n*'''Australia''': LSA is illegal to produce, sell, and consume in Australia.{{citation needed}}\n*'''Austria''': LSA containing seeds are not regulated, thus are legal to possess, produce and sell.{{citation needed}}\n*'''Germany''': LSA is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> as of July 18, 2019.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl119s1083.pdf|title=Verordnung zur Änderung der Anlage des Neue-psychoaktive-Stoffe-Gesetzes und von Anlagen des Betäubungsmittelgesetzes|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 27|pages=1083-1094|publication-date=July 17, 2019|access-date=January 1, 2020|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref> Plant parts containing LSA are not covered by the law.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__2.html|title=§ 2 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz [Federal Ministry of Justice and Consumer Protection]|access-date=December 10, 2019|language=de}}</ref>\n*'''Latvia''': LSA itself is controlled as a structural analog of LSD. However, there is no information about LSA-containing seeds. In Latvia, plants are only illegal if they contain Schedule I controlled substances and LSA is not a Schedule 1 controlled substance.<ref>{{cite web|url=http://likumi.lv/doc.php?id=121086|title=Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem|publisher=VSIA Latvijas Vēstnesis|access-date=January 1, 2020|publication-date=November 10, 2005|language=lv}}</ref>\n*'''The Netherlands''': LSA is illegal. However, Hawaiian Baby Woodrose and Morning Glory seeds are not illegal to consume, sell or posses, like other entheogens.{{citation needed}}\n*'''New Zealand''': LSA is illegal to consume, sell, and possess. The plants and seeds of morning glory species are legal to possess, cultivate, buy and distribute.{{citation needed}}\n*'''Sweden''': LSA is being researched by health authorities and there is a risk in near future for LSA to become illegal. <ref>{{cite web|url=https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/andts/vad-vi-gor-inom-andts/narkotika-och-halsofarliga-varor/substanser-under-utredning/|publisher=Folkhälsomyndigheten |access-date=August 15, 2020|language=sv|publication-date=June 17, 2020|title=Substanser under utredning/ yttranden}}</ref>\n*'''Switzerland''': As a chemical, LSA can be considered a controlled substance as a defined derivative of Lysergic Acid under Verzeichnis E point 263. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>. Plant matter is not illegal.\n*'''Türkiye''': LSA is illegal to consume, sell, and possess. <ref>{{cite web|url=https://www.resmigazete.gov.tr/eskiler/2014/01/20140125-3-1.pdf|publisher=Resmi Gazete |access-date=January 16, 2020|language=tr|publication-date=December 16, 2013|title=Karar Sayısı : 2013/5742}}</ref> The plants and seeds of morning glory species are legal to possess, cultivate, buy and distribute.{{citation needed}}\n*'''United Kingdom''': LSA is a Class A controlled substance and categorized as a precursor to [[LSD]].{{citation needed}}\n*'''United States''': As a precursor to LSD, LSA is a DEA Schedule III controlled substance.{{citation needed}} However, seeds containing LSA can be purchased legally on the internet and from gardening stores.\n*'''Poland''': ''Argyreia nervosa'' (Hawaiian baby woodrose) and ''Rivea corymbosa'' are illegal (I-N) with penalty for posession of up to 3 years in prison. LSA itself is covered by analogue law (VI-NPS) and therefore illegal with posession punishable by fine. Morning glory seeds are legal and openly sold in gargening shops.<ref>[https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001139 Announcement of the Minister of Health of 17 June 2024 on the announcement of the uniform text of the regulation of the Minister of Health on the list of psychotropic substances, narcotic drugs and new psychoactive substances]</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Entheogens]]\n*[[Lysergamides]]\n*[[Psychedelics]]\n*[[LSD]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Ergine LSA (Wikipedia)]\n*[http://www.erowid.org/chemicals/lsa/lsa.shtml LSA (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=5309 LSA (Isomer Design)]\n*[https://drugs-forum.com/wiki/LSA LSA (Drugs-Forum)]\n\n===Discussion===\n\n*[http://www.bluelight.org/vb/threads/373027-The-Big-amp-Dandy-HBWR-MGS-LSA-Thread-Second-Iteration The Big & Dandy LSA Thread - Second Iteration (Bluelight)]\n\n==References==\n<references />\n\n[[Category:Alkaloid]]\n[[Category:Lysergamide]]\n[[Category:Psychedelic]]\n[[Category:Entheogen]]\n\n{{#set:Featured=true\n|RN1=\n|RN2=\n|R1=\n|R2=\n|R6=CH₃\n}}"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:11584",
+ "type": "plants-and-fungi",
+ "title": "Chamomile (botany)",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Chamomile_%28botany%29",
+  "pageid": 11584,
+  "last_edited": "2025-11-29T04:22:10Z"
+ },
+ "categories": [
+  "Plant",
+  "Stub"
+ ],
+ "plain_text": "External links\n\n* Chamomile (Wikipedia)\n* Chamomile (Erowid Vault)\n\nCategory:Plant",
+ "wikitext": "{{stub}}\n{{Template:BotanyBox/Chamomile}}\n\n==External links==\n* [https://en.wikipedia.org/wiki/Chamomile Chamomile (Wikipedia)]\n* [https://erowid.org/herbs/chamomile/chamomile.shtml Chamomile (Erowid Vault)]\n\n[[Category:Plant]]"
+}

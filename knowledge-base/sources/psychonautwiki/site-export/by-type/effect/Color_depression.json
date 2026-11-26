@@ -1,0 +1,22 @@
+{
+ "id": "psychonautwiki:16502",
+ "type": "effect",
+ "title": "Color depression",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Color_depression",
+  "pageid": 16502,
+  "last_edited": "2022-10-07T20:06:01Z"
+ },
+ "categories": [
+  "Depression",
+  "Effect",
+  "Sensory",
+  "Visual"
+ ],
+ "plain_text": "200px|thumb|right|Cabin by [[User:Josikins|Josikins - This image serves as an example of a colour depression.]]\n\nColor depression (also known as acquired color blindness) is defined as the experience of colors becoming darker, less saturated, and less distinguishable from one another. During this experience, reds may seem “less red”, greens may seem “less green”, etc and all colours will likely have become much greyer and less distinct to look at than they comparatively would be during everyday sober living. At higher levels, this effect can result in the external environment appearing to be black and white, monochrome, and completely devoid of color.\n\nColor depression is often accompanied by other coinciding effects such as visual acuity suppression and double vision. It is most commonly induced under the influence of heavy dosages of antipsychotic compounds, such as quetiapine, haloperidol, and risperidone.\n\nPsychoactive substances\n\nCompounds within our psychoactive substance index which may cause this effect include:\n\nExperience reports\n\nAnnectdotal reports which describe this effect with our experience index include:\n\nSee also\n\n*Responsible use\n*Subjective effects index\n*Psychedelics - Subjective effects\n*Dissociatives - Subjective effects\n*Deliriants - Subjective effects\n\nExternal links\n\n*Colour blindness (Wikipedia)\n\nReferences\n\nCategory:Sensory \nCategory:Visual \nCategory:Depression \nCategory:Effect",
+ "wikitext": "[[File:Colour suppression.jpg|200px|thumb|right|''Cabin by [[User:Josikins|Josikins]]'' - This image serves as an example of a colour depression.]]\n<onlyinclude>\n'''Color depression''' (also known as '''acquired color blindness'''<ref name=\"APADictionary-acquired-color-blindness\">{{cite journal|title=acquired color blindness|journal=APA Dictionary of Psychology|url=https://dictionary.apa.org/acquired-color-blindness | access-date=20 May 2022}}</ref>) is defined as the experience of colors becoming darker, less saturated, and less distinguishable from one another. During this experience, reds may seem “less red”, greens may seem “less green”, etc and all colours will likely have become much greyer and less distinct to look at than they comparatively would be during everyday sober living. At higher levels, this effect can result in the external environment appearing to be black and white, monochrome, and completely devoid of color.\n\nColor depression is often accompanied by other coinciding effects such as [[Visual acuity suppression|visual acuity suppression]] and [[double vision]]. It is most commonly induced under the influence of [[dosage#heavy|heavy]] [[dosage|dosages]] of [[antipsychotic]]<ref name=\"RichaYazbek2010\">{{cite journal|last1=Richa|first1=Sami|last2=Yazbek|first2=Jean-Claude|title=Ocular Adverse Effects of Common Psychotropic Agents|journal=CNS Drugs|volume=24|issue=6|year=2010|pages=501–526|issn=1172-7047|doi=10.2165/11533180-000000000-00000}}</ref> compounds, such as [[quetiapine]], [[haloperidol]], and [[risperidone]].\n</onlyinclude>\n\n===Psychoactive substances===\nCompounds within our [[psychoactive substance index]] which may cause this effect include:\n{{#ask:[[Category:Psychoactive substance]][[Effect::Color depression]]|format=ul|Columns=2}}\n===Experience reports===\nAnnectdotal reports which describe this effect with our [[experience index]] include:\n{{#ask:[[Category:Experience]][[Effect::Color depression]]|format=ul|Columns=2}}\n===See also===\n\n*[[Responsible use]]\n*[[Subjective effects index]]\n*[[Psychedelics#Subjective_effects|Psychedelics - Subjective effects]]\n*[[Dissociatives#Subjective_effects|Dissociatives - Subjective effects]]\n*[[Deliriants#Subjective_effects|Deliriants - Subjective effects]]\n\n===External links===\n\n*[https://en.wikipedia.org/wiki/Color_blindness Colour blindness (Wikipedia)]\n\n===References===\n<references />\n[[Category:Sensory]] \n[[Category:Visual]] \n[[Category:Depression]] \n[[Category:Effect]]"
+}

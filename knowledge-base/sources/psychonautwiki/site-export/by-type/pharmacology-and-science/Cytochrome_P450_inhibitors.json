@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:17056",
+ "type": "pharmacology-and-science",
+ "title": "Cytochrome P450 inhibitors",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Cytochrome_P450_inhibitors",
+  "pageid": 17056,
+  "last_edited": "2021-10-17T14:17:45Z"
+ },
+ "categories": [
+  "Cytochrome P450 inhibitor",
+  "Pharmacology"
+ ],
+ "plain_text": "Cytochrome P450 inhibitors inhibit the ability of the human body to break down certain substances, potentially increasing the amount of time a substance is active in the body.\n\nIn some cases, this inhibition of how substances are broken down in the body can lead to dangerous adverse effects. Under some conditions, this can be fatal.\n\nReferences\n\nCategory:Pharmacology",
+ "wikitext": "<onlyinclude>{{headerpanel|{{GenericPanel/warning\n| title=Some CYP450 inhibitors are also MAOIs.\n| content=Make sure to check our list of [[MAOI#Interactions|MAOI interactions that can be dangerous]].\n}}}}\n[[Cytochrome P450 inhibitors]] inhibit the ability of the human body to break down certain substances, potentially increasing the amount of time a substance is active in the body.\n\nIn some cases, this inhibition of how substances are broken down in the body can lead to dangerous adverse effects. Under some conditions, this can be fatal.</onlyinclude>\n\n{{List_CYP450_inhibitors}}\n\n==References==\n{{reflist}}\n\n[[Category:Cytochrome P450 inhibitor| ]]\n[[Category:Pharmacology]]"
+}

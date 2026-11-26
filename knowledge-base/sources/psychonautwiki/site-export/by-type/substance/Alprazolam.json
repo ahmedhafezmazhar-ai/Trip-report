@@ -1,0 +1,505 @@
+{
+ "id": "psychonautwiki:4015",
+ "type": "substance",
+ "title": "Alprazolam",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Alprazolam",
+  "pageid": 4015,
+  "last_edited": "2025-03-09T18:35:26Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "Depressant",
+  "Psychoactive substance",
+  "Triazolobenzodiazepine"
+ ],
+ "substance_box_template": "SubstanceBox/Alprazolam",
+ "substance_box": {
+  "names": {
+   "common": "Xanax, Alprazolam, Ksalol",
+   "substitutive": "Alprazolam",
+   "systematic": "8-Chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Benzodiazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "0.10 mg",
+    "light": "0.25 - 0.5 mg",
+    "common": "0.5 - 1.5 mg",
+    "strong": "1.5 - 2 mg",
+    "heavy": "2 mg +",
+    "duration": "6 - 8 hours",
+    "onset": "15 - 30 minutes",
+    "comeup": "50 - 90 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "2 - 4 hours",
+    "aftereffects": "6 - 24 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "inhaled": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "0.05 mg",
+    "light": "0.05 - 0.25 mg",
+    "common": "0.25 - 0.5 mg",
+    "strong": "0.5 - 1 mg",
+    "heavy": "1 mg +",
+    "duration": "4 - 5 hours",
+    "onset": "5 - 10 seconds",
+    "comeup": "5 - 10 minutes",
+    "peak": "1 - 2 hours",
+    "offset": "2 - 3 hours",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Xanax",
+    "Alprazolam",
+    "Ksalol"
+   ],
+   "psychoactive class": [
+    "Depressant"
+   ],
+   "chemical class": [
+    "Benzodiazepine"
+   ],
+   "Oral threshold dose": [
+    "0.10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "0.25"
+   ],
+   "Oral max light dose": [
+    "0.5"
+   ],
+   "Oral min common dose": [
+    "0.5"
+   ],
+   "Oral max common dose": [
+    "1.5"
+   ],
+   "Oral min strong dose": [
+    "1.5"
+   ],
+   "Oral max strong dose": [
+    "2"
+   ],
+   "Oral heavy dose": [
+    "2"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "15"
+   ],
+   "Oral max onset time": [
+    "30"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "50"
+   ],
+   "Oral max comeup time": [
+    "90"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1"
+   ],
+   "Oral max peak time": [
+    "2"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "2"
+   ],
+   "Oral max offset time": [
+    "4"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "6"
+   ],
+   "Oral max afterglow time": [
+    "24"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Inhaled threshold dose": [
+    "0.05"
+   ],
+   "Inhaled dose units": [
+    "mg"
+   ],
+   "Inhaled min light dose": [
+    "0.05"
+   ],
+   "Inhaled max light dose": [
+    "0.25"
+   ],
+   "Inhaled min common dose": [
+    "0.25"
+   ],
+   "Inhaled max common dose": [
+    "0.5"
+   ],
+   "Inhaled min strong dose": [
+    "0.5"
+   ],
+   "Inhaled max strong dose": [
+    "1"
+   ],
+   "Inhaled heavy dose": [
+    "1"
+   ],
+   "Inhaled min total time": [
+    "4"
+   ],
+   "Inhaled max total time": [
+    "5"
+   ],
+   "Inhaled total time units": [
+    "hours"
+   ],
+   "Inhaled min onset time": [
+    "5"
+   ],
+   "Inhaled max onset time": [
+    "10"
+   ],
+   "Inhaled onset time units": [
+    "seconds"
+   ],
+   "Inhaled min comeup time": [
+    "5"
+   ],
+   "Inhaled max comeup time": [
+    "10"
+   ],
+   "Inhaled comeup time units": [
+    "minutes"
+   ],
+   "Inhaled min peak time": [
+    "1"
+   ],
+   "Inhaled max peak time": [
+    "2"
+   ],
+   "Inhaled peak time units": [
+    "hours"
+   ],
+   "Inhaled min offset time": [
+    "2"
+   ],
+   "Inhaled max offset time": [
+    "3"
+   ],
+   "Inhaled offset time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Alprazolam.",
+   "clean": "Molecular structure of Alprazolam."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Alprazolam.svg",
+   "clean": "File:Alprazolam.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Xanax]], [[common name::Alprazolam]], [[common name::Ksalol]]",
+   "clean": "Xanax, Alprazolam, Ksalol"
+  },
+  "NameSubstitution": {
+   "raw": "Alprazolam",
+   "clean": "Alprazolam"
+  },
+  "NameSystematic": {
+   "raw": "8-Chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+   "clean": "8-Chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Benzodiazepine]]",
+   "clean": "Benzodiazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/alprazolam TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::0.10]] [[Oral dose units::mg]]",
+   "clean": "0.10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::0.25]] - [[Oral max light dose::0.5]] mg",
+   "clean": "0.25 - 0.5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::0.5]] - [[Oral max common dose::1.5]] mg",
+   "clean": "0.5 - 1.5 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1.5]] - [[Oral max strong dose::2]] mg",
+   "clean": "1.5 - 2 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2]] mg +",
+   "clean": "2 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::8]] [[Oral total time units::hours]] <ref name=\"doseresponse\">{{cite journal | vauthors=((Reissig)), ((C. J.)), ((Harrison)), ((J. A.)), ((Carter)), ((L. P.)), ((Griffiths)), ((R. R.)) | journal=Psychopharmacology| title=Inhaled vs. oral alprazolam: subjective, behavioral and cognitive effects, and modestly increased abuse potential | date= 2015 | url=https://doi.org/10.1007/s00213-014-3721-0 | doi=10.1007/s00213-014-3721-0}}</ref>",
+   "clean": "6 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::15]] - [[Oral max onset time::30]] [[Oral onset time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::50]] - [[Oral max comeup time::90]] [[Oral comeup time units::minutes]]",
+   "clean": "50 - 90 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1]] - [[Oral max peak time::2]] [[Oral peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::2]] - [[Oral max offset time::4]] [[Oral offset time units::hours]]",
+   "clean": "2 - 4 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::6]] - [[Oral max afterglow time::24]] [[Oral afterglow time units::hours]]",
+   "clean": "6 - 24 hours"
+  },
+  "InhaledROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InhaledROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InhaledROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Threshold": {
+   "raw": "[[Inhaled threshold dose::0.05]] [[Inhaled dose units::mg]]",
+   "clean": "0.05 mg"
+  },
+  "InhaledROA_Light": {
+   "raw": "[[Inhaled min light dose::0.05]] - [[Inhaled max light dose::0.25]] mg",
+   "clean": "0.05 - 0.25 mg"
+  },
+  "InhaledROA_Common": {
+   "raw": "[[Inhaled min common dose::0.25]] - [[Inhaled max common dose::0.5]] mg",
+   "clean": "0.25 - 0.5 mg"
+  },
+  "InhaledROA_Strong": {
+   "raw": "[[Inhaled min strong dose::0.5]] - [[Inhaled max strong dose::1]] mg",
+   "clean": "0.5 - 1 mg"
+  },
+  "InhaledROA_Heavy": {
+   "raw": "[[Inhaled heavy dose::1]] mg +",
+   "clean": "1 mg +"
+  },
+  "InhaledROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InhaledROA_Duration": {
+   "raw": "[[Inhaled min total time::4]] - [[Inhaled max total time::5]] [[Inhaled total time units::hours]] <ref name=\"doseresponse\" />",
+   "clean": "4 - 5 hours"
+  },
+  "InhaledROA_Onset": {
+   "raw": "[[Inhaled min onset time::5]] - [[Inhaled max onset time::10]] [[Inhaled onset time units::seconds]]",
+   "clean": "5 - 10 seconds"
+  },
+  "InhaledROA_Comeup": {
+   "raw": "[[Inhaled min comeup time::5]] - [[Inhaled max comeup time::10]] [[Inhaled comeup time units::minutes]]",
+   "clean": "5 - 10 minutes"
+  },
+  "InhaledROA_Peak": {
+   "raw": "[[Inhaled min peak time::1]] - [[Inhaled max peak time::2]] [[Inhaled peak time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InhaledROA_Offset": {
+   "raw": "[[Inhaled min offset time::2]] - [[Inhaled max offset time::3]] [[Inhaled offset time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "InhaledROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Alprazolam (also known as Xanax) is a depressant substance of the benzodiazepine class. Its characteristic effects include anxiety suppression, sedation, disinhibition, and muscle relaxation. \n\nLike other benzodiazepines, alprazolam binds to specific sites on the GABAA receptor. It is commonly used for the medical treatment of panic disorder, generalized anxiety disorder (GAD), or social anxiety disorder (SAD).\n\nAlprazolam has a fast onset of action and symptomatic relief. 90% of peak effects are achieved within the 1st hour of using in preparation for panic disorder and full peak effects are achieved in 1.5 and 1.6 hours respectively. Peak benefits achieved for GAD may take up to a week.\n\nThe sudden discontinuation of benzodiazepines can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death. It is highly recommended to taper one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.\n\n200px|thumbnail|Xanax (Alprazolam) 2 mg tri-score tablets\n\nChemistry\n\nAlprazolam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R1 and R4. The benzyl ring of alprazolam is substituted at R8 with a chlorine group. Further, the diazepine ring is bonded at R5 to a phenyl ring. Alprazolam also contains a 1-methylated triazole ring fused to and  incorporating R1 and R2 of its diazepine ring. Alprazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nAlprazolam is substituted with a phenyl group at position 6, with a chlorine atom at position 8 and with a methyl group at position 1. It is an analogue of triazolam, the difference between them being the absence of a chlorine atom in the 'ortho' position of the phenyl ring. It is soluble in alcohol and insoluble in water. \n\nPharmacology\n\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter gamma aminobutyric acid (GABA) by acting on its receptors. Alprazolam is a positive allosteric modulator of the gamma-aminobutyric acid (GABA) type A receptor. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the sedating (or calming effects) of alprazolam on the nervous system. The anticonvulsant properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.\n\nAlprazolam causes a marked suppression of the hypothalamic-pituitary-adrenal axis. Administration of alprazolam has been demonstrated to elicit an increase in striatal dopamine concentrations. This results in effects including reduced anxiety, muscle relaxant, antidepressant and anticonvulsant activity. The GABA chemical and receptor system mediates inhibitory or calming effects of alprazolam on the nervous system. Binding of alprazolam to the GABAA receptor, a chloride ion channel, enhances the effects of GABA, a neurotransmitter. When GABA binds the GABAA receptor the channel opens and chloride enters the cell which makes it more resistant to depolarization. Therefore, alprazolam has a depressant effect on synaptic transmission to reduce anxiety.\n\nThe GABAA receptor is made up of 5 subunits out of a possible 19, and GABAA receptors made up of different combinations of subunits have different properties, different locations within the brain, and, importantly, different activities with regard to benzodiazepines. Alprazolam and other triazolobenzodiazepines such as triazolam that have a triazole ring fused to their diazepine ring appear to have antidepressant properties. This is perhaps due to the similarities shared with tricyclic antidepressants, as they have two benzene rings fused to a diazepine ring. The therapeutic properties of alprazolam are similar to other benzodiazepines and include anxiolytic, anticonvulsant, muscle relaxant, hypnotic and amnesic; however, it is used mainly as an anxiolytic.\n\nGiving alprazolam, as compared to lorazepam, has been demonstrated to elicit a statistically significant increase in extracellular dopamine D1 and D2 concentrations in the striatum.\n\nSubjective effects\n\nThe general head space of alprazolam is described by many as one of intense sedation, relaxation, anxiety suppression and decreased inhibition. \n\n                                                                        \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Alprazolam\n\nToxicity and harm potential\n\nthumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.\nAlprazolam has a low toxicity relative to dose.  However, it is potentially respiratory depression when mixed with [[depressants like alcohol, opioids, or barbiturates]]. Resulting in increased respiratory depression via a synergistic effect.\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nThe acute oral LD50 in rats is 331–2171 mg/kg. Other experiments in animals have indicated that cardiopulmonary collapse can occur following massive intravenous doses of alprazolam.\n\nDependence and abuse potential\n\nAlprazolam is extremely physically and psychologically addictive.\n\nTolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7-14 days. However, in certain cases, this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nAlprazolam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect.\n\nOverdose\n\nDiscontinuation\n\nDangerous interactions\n\nLegal status\n\nInternationally, alprazolam is included under the United Nations Convention on Psychotropic Substances as Schedule IV.\n\n*Australia: Alprazolam was originally a Schedule 4 (prescription only) medication; however, as of January 2014, it will become a Schedule 8 medication, subjecting it to more rigorous prescribing requirements.\n*Austria: Alprazolam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).\n*Czechia: Alprazolam is a Schedule IV  (List 7) substance. Sold exclusively with a prescription \"without a blue stripe\" (§ 1, g), 1. of Nařízení vlády č. 463/2013 Sb.) \n*France: Alprazolam is a List I substance and is available for prescription. It is illegal to buy without a prescription.\n*Germany: Alprazolam is controlled under Anlage III BtMG (Narcotics Act, Schedule III) as of August 1, 1986. It can only be prescribed on a narcotic prescription form, except preparations which contain up to 1&nbsp;mg alprazolam in each dosage form.\n*Ireland: Alprazolam is a Schedule 4 medicine.\n*Italy: Alprazolam is a schedule IV drug (Tabella 4) of the \"Testo unico sulla droga (D.P.R. 309/90)\". When prescribed for medical use it falls under Pharmaceuticals section B and E (Tabella medicinali sezione B ed E).\n*Russia: In Russia, since 2013, alprazolam is a Schedule III controlled substance.\n*Sweden: Alprazolam is a prescription drug in List IV (Schedule 4) under the Narcotics Drugs Act (1968).\n*Switzerland: Alprazolam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.\n*Turkey: Alprazolam is a 'green prescription' only substance and illegal when sold or possessed without a prescription.\n*The Netherlands: Alprazolam is a List 2 substance of the Opium Law and is available for prescription.\n*United Kingdom: Alprazolam is classified as a controlled drug and listed under Schedule IV, Part I (CD Benz POM) of the Misuse of Drugs Regulations 2001, allowing possession with a valid prescription. The Misuse of Drugs Act 1971 makes it illegal to possess the drug without a prescription and, for such purposes, it is classified as a Class C drug.\n*United States: Alprazolam is a prescription medication assigned to Schedule IV of the Controlled Substances Act by the DEA.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Depressants\n*Benzodiazepines\n*Diazepam (Valium)\n*Clonazepam (Klonopin)\n\nExternal links\n\n*Alprazolam (Wikipedia)\n*Alprazolam (Erowid Vault)\n*Alprazolam (Isomer Design)\n*Alprazolam (DrugBank)\n*Alprazolam (Drugs.com)\n*Alprazolam (Drugs-Forum)\n\nFurther reading\n\n*The Ashton Manual - Useful information on safe withdrawal from long-term benzodiazepine use and dependence\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Triazolobenzodiazepine",
+ "wikitext": "{{Headerpanel|{{DepressantOD|benzodiazepines}}}}\n{{SummarySheet}}\n{{SubstanceBox/Alprazolam}}\n\n'''Alprazolam''' (also known as '''Xanax''') is a [[psychoactive class::depressant]] substance of the [[Chemical class::benzodiazepine]] class. Its characteristic effects include [[anxiety suppression]], [[sedation]], [[disinhibition]], and [[muscle relaxation]].<ref name=\"Mandroili2008\">{{cite journal | vauthors=((Mandrioli, R.)), ((Mercolini, L.)), ((Raggi, M. A.)) | journal=Current Drug Metabolism | title=Benzodiazepine metabolism: an analytical perspective | volume=9 | issue=8 | pages=827–844 | date= October 2008 | issn=1389-2002 | doi=10.2174/138920008786049258}}</ref> \n\nLike other [[benzodiazepines]], alprazolam binds to specific sites on the [[gamma-amino-butyric acid|GABA<sub>A</sub>]] receptor.<ref>{{cite journal | vauthors=((Nuss, P.)) | journal=Neuropsychiatric Disease and Treatment | title=Anxiety disorders and GABA neurotransmission: a disturbance of modulation | volume=11 | pages=165–175 | date=17 January 2015 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303399/ | issn=1176-6328 | doi=10.2147/NDT.S58841}}</ref> It is commonly used for the medical treatment of panic disorder, generalized anxiety disorder (GAD), or social anxiety disorder (SAD).<ref>FDA approved labeling for Xanax revision 08/23/2011 | http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/018276s045lbl.pdf</ref>\n\nAlprazolam has a fast onset of action and symptomatic relief. 90% of peak effects are achieved within the 1st hour of using in preparation for panic disorder and full peak effects are achieved in 1.5 and 1.6 hours respectively.<ref>{{cite journal | vauthors=((Smith, R. B.)), ((Kroboth, P. D.)), ((Vanderlugt, J. T.)), ((Phillips, J. P.)), ((Juhl, R. P.)) | journal=Psychopharmacology | title=Pharmacokinetics and pharmacodynamics of alprazolam after oral and IV administration | volume=84 | issue=4 | pages=452–456 | date= 1984 | issn=0033-3158 | doi=10.1007/BF00431449}}</ref><ref>{{cite journal | vauthors=((Sheehan, D. V.)), ((Sheehan, K. H.)), ((Raj, B. A.)) | journal=Psychopharmacology Bulletin | title=The speed of onset of action of alprazolam-XR compared to alprazolam-CT in panic disorder | volume=40 | issue=2 | pages=63–81 | date= 2007 | issn=0048-5764}}</ref> Peak benefits achieved for GAD may take up to a week.<ref>{{cite journal | vauthors=((Verster, J. C.)), ((Volkerts, E. R.)) | journal=CNS Drug Reviews | title=Clinical Pharmacology, Clinical Efficacy, and Behavioral Toxicity of Alprazolam: A Review of the Literature | volume=10 | issue=1 | pages=45–76 | date=7 June 2006 | url=https://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2004.tb00003.x | issn=1080563X | doi=10.1111/j.1527-3458.2004.tb00003.x}}</ref>\n\nThe [[Benzodiazepine#Discontinuation|sudden discontinuation of benzodiazepines]] can be potentially dangerous or life-threatening for individuals using regularly for extended periods of time, sometimes resulting in seizures or death.<ref>{{cite journal | vauthors=((Lann, M. A.)), ((Molina, D. K.)) | journal=The American Journal of Forensic Medicine and Pathology | title=A fatal case of benzodiazepine withdrawal | volume=30 | issue=2 | pages=177–179 | date= June 2009 | issn=1533-404X | doi=10.1097/PAF.0b013e3181875aa0}}</ref> It is highly recommended to [[taper]] one's dose by gradually lowering the amount taken each day for a prolonged period of time instead of stopping abruptly.<ref>{{cite journal | vauthors=((Kahan, M.)), ((Wilson, L.)), ((Mailis-Gagnon, A.)), ((Srivastava, A.)) | journal=Canadian Family Physician | title=Canadian guideline for safe and effective use of opioids for chronic noncancer pain. Appendix B-6: Benzodiazepine Tapering | volume=57 | issue=11 | pages=1269–1276 | date= November 2011 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215603/ | issn=0008-350X}}</ref>\n\n[[File:Xanax (alprazolam) 2 mg.jpg|200px|thumbnail|Xanax (Alprazolam) 2 mg tri-score tablets]]\n==Chemistry==\nAlprazolam is a drug of the benzodiazepine class. Benzodiazepine drugs contain a benzene ring fused to a diazepine ring, which is a seven membered ring with the two nitrogen constituents located at R<sub>1</sub> and R<sub>4</sub>. The benzyl ring of alprazolam is substituted at R<sub>8</sub> with a chlorine group. Further, the diazepine ring is bonded at R<sub>5</sub> to a phenyl ring. Alprazolam also contains a 1-methylated triazole ring fused to and  incorporating R<sub>1</sub> and R<sub>2</sub> of its diazepine ring. Alprazolam belongs to a class of benzodiazepines containing this fused triazole ring, called triazolobenzodiazepines, distinguished by the suffix \"-zolam\".\n\nAlprazolam is substituted with a phenyl group at position 6, with a chlorine atom at position 8 and with a methyl group at position 1. It is an analogue of triazolam, the difference between them being the absence of a chlorine atom in the 'ortho' position of the phenyl ring. It is soluble in alcohol and insoluble in water. \n\n==Pharmacology==\nBenzodiazepines produce a variety of effects by binding to the benzodiazepine receptor site and magnifying the efficiency and effects of the neurotransmitter [[GABA|gamma aminobutyric acid (GABA)]] by acting on its [[receptors]].<ref>{{cite journal | vauthors=((Haefely, W.)) | journal=Neuroscience Letters | title=Benzodiazepine interactions with GABA receptors | volume=47 | issue=3 | pages=201–206 | date=29 June 1984 | issn=0304-3940 | doi=10.1016/0304-3940(84)90514-7}}</ref> Alprazolam is a positive allosteric modulator of the gamma-aminobutyric acid (GABA) type A receptor. As this site is the most prolific inhibitory receptor set within the brain, its modulation results in the [[sedating]] (or [[anxiety suppression|calming effects]]) of alprazolam on the nervous system. The [[anticonvulsant]] properties of benzodiazepines may be, in part or entirely, due to binding to voltage-dependent sodium channels rather than benzodiazepine receptors.<ref>{{cite journal | vauthors=((McLean, M. J.)), ((Macdonald, R. L.)) | journal=The Journal of Pharmacology and Experimental Therapeutics | title=Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture | volume=244 | issue=2 | pages=789–795 | date= February 1988 | issn=0022-3565}}</ref>\n\nAlprazolam causes a marked suppression of the hypothalamic-pituitary-adrenal axis. Administration of alprazolam has been demonstrated to elicit an increase in striatal [[dopamine]] concentrations.<ref name=\"Bentue-Ferrer2001\">{{cite journal | vauthors=((Bentué-Ferrer, D.)), ((Reymann, J. M.)), ((Tribut, O.)), ((Allain, H.)), ((Vasar, E.)), ((Bourin, M.)) | journal=European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology | title=Role of dopaminergic and serotonergic systems on behavioral stimulatory effects of low-dose alprazolam and lorazepam | volume=11 | issue=1 | pages=41–50 | date= February 2001 | issn=0924-977X | doi=10.1016/s0924-977x(00)00137-1}}</ref> This results in effects including reduced anxiety, muscle relaxant, antidepressant and anticonvulsant activity. The GABA chemical and receptor system mediates inhibitory or calming effects of alprazolam on the nervous system. Binding of alprazolam to the GABA<sub>A</sub> receptor, a chloride ion channel, enhances the effects of GABA, a neurotransmitter. When GABA binds the GABA<sub>A</sub> receptor the channel opens and chloride enters the cell which makes it more resistant to depolarization. Therefore, alprazolam has a depressant effect on synaptic transmission to reduce anxiety.<ref>{{cite book | vauthors=((Hitchings, A.)), ((Lonsdale, D.)), ((Burrage, D.)), ((Baker, E.)) | date= 2014 | title=Top 100 drugs: clinical pharmacology and practical prescribing | publisher=Churchill Livingstone | isbn=9780702055164}}</ref>\n\nThe GABA<sub>A</sub> receptor is made up of 5 subunits out of a possible 19, and GABA<sub>A</sub> receptors made up of different combinations of subunits have different properties, different locations within the brain, and, importantly, different activities with regard to benzodiazepines. Alprazolam and other triazolobenzodiazepines such as triazolam that have a triazole ring fused to their diazepine ring appear to have antidepressant properties.<ref>{{cite journal | vauthors=((Barbee, J. G.)) | journal=The Journal of Clinical Psychiatry | title=Memory, benzodiazepines, and anxiety: integration of theoretical and clinical perspectives | volume=54 Suppl | pages=86–97; discussion 98-101 | date= October 1993 | issn=0160-6689}}</ref> This is perhaps due to the similarities shared with tricyclic antidepressants, as they have two benzene rings fused to a diazepine ring. The therapeutic properties of alprazolam are similar to other benzodiazepines and include anxiolytic, anticonvulsant, muscle relaxant, hypnotic and amnesic; however, it is used mainly as an anxiolytic.\n\nGiving alprazolam, as compared to lorazepam, has been demonstrated to elicit a statistically significant increase in extracellular dopamine D1 and D2 concentrations in the striatum.<ref name=\"Bentue-Ferrer2001\" />\n\n==Subjective effects==\nThe general head space of alprazolam is described by many as one of intense sedation, relaxation, anxiety suppression and decreased inhibition. \n\n{{Preamble/SubjectiveEffects}}                                                                        \n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]'''{{citation needed}} -  Alprazolam is capable of producing strong sedation and can lead to a lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and need to fight to stay awake. This sleep deprivation increases proportionally to dosage and eventually becomes powerful enough to force the user into a deep state of unconsciousness.\n*'''[[Effect::Perception of bodily heaviness]]''' -  Alprazolam is reported to cause feelings of heaviness in the body. This effect can range from motor impairment and difficulty moving at lower doses to complete lethargy or inability to stand up or move at high doses.\n*'''[[Effect::Appetite enhancement]]'''{{citation needed}} - Some users report that alprazolam is capable of enhancing appetite in a manner similar to [[alcohol]] and that it can have a synergistic effect with [[cannabis]].\n*'''[[Effect::Muscle relaxation]]'''{{citation needed}} - Alprazolam is reported to produce moderate muscle relaxation greater than that of [[alcohol]] but weaker than [[diazepam]] (''Valium'').\n*'''[[Effect::Motor control loss]]'''{{citation needed}} - Alprazolam impairs motor control in a dose-dependent manner similar to [[alcohol]]. Higher doses significantly increase the risk of physical injury via falling over or stumbling into objects. This risk is especially prominent around stairs and slopes.\n*'''[[Effect::Respiratory depression]]'''{{citation needed}}\n*'''[[Effect::Dizziness]]'''{{citation needed}} - Dizziness is sometimes present with higher doses, although generally less than the dizzying effects of alcohol (colloquially known as \"the spins\").\n*'''[[Effect::Seizure suppression]]'''{{citation needed}} - Alprazolam has seizure suppressing properties as a result of its [[GABA|GABA-mediated]] inhibitory effects on the nervous system.  \n*'''[[Effect::Dry mouth]]''' - Although infrequent, Alprazolam is capable of causing a dry mouth in some users. This may make a user drink more water. This is not the same as dehydration, as it is not known to be dangerous.<ref>Elie R, Lamontagne Y (June 1984). \"Alprazolam and diazepam in the treatment of generalized anxiety\". Journal of Clinical Psychopharmacology. 4 (3): 125–9. https://journals.lww.com/psychopharmacology/abstract/1984/06000/alprazolam_and_diazepam_in_the_treatment_of.2.aspx</ref>\n}}\n{{effects/cognitive|\n\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''{{citation needed}}\n*'''[[Effect::Compulsive redosing]]''' - Alprazolam produces [[disinhibition]] which, along with its memory suppressing effects, can easily lead the user to black out and redose continually until their supply runs out or they lose consciousness. This effect can place the user at risk of fatal overdose from respiratory depression if they are consuming it with [[alcohol]] or other [[depressants]].\n*'''[[Effect::Confusion]]''' - Alprazolam can cause confusion at heavy doses. This effect is a result of the drug suppressing basic cognitive functions such as comprehension, memory, and reasoning skills.\n*'''[[Effect::Delusions|Delusions of sobriety]]''' - This is the false belief that one is perfectly sober despite obvious evidence to the contrary such as severe cognitive impairment and an inability to fully communicate with others. It most commonly occurs at heavy dosages.\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Dream suppression]]'''{{citation needed}} - Benzodiazepines like alprazolam generally inhibit REM sleep and suppress the experience of dreaming. Sleep on benzodiazepines is generally reported to be deep and refreshing, although it should be noted that the actual sleep quality is lower which is why the use of benzodiazepines as long-term sleep aids is not advised. \n*'''[[Effect::Emotion suppression]]''' - Although alprazolam primarily suppresses anxiety, it also dulls other emotions in a manner which is distinct but less intensive than that of [[antipsychotics]].\n*'''[[Effect::Euphoria]]''' - A distinct portion of users report feeling a marked sense of emotional well-being and comfort while under the influence of this substance. Because this does not occur regularly or consistently for most users, it is speculated that this effect only manifests among those who have unusually high baseline levels of anxiety.\n*'''[[Effect::Language suppression]]''' - Alprazolam is known to cause slurred speech and difficulty communicating words in a clear fashion.\n*'''[[Effect::Memory suppression]]'''{{citation needed}} - Alprazolam primarily suppresses short-term memory, resulting in forgetfulness, and/or disorganized behaviors.\n**'''[[Effect::Amnesia]]''' - Higher doses of alprazolam can easily lead to complete short-term amnesia (black out) similar to that of high doses of alcohol.\n*'''[[Effect::Motivation suppression]]''' - Due to alprazolam's heavy sedation and lethargy, doing any type of activity that requires moving, or high amounts of effort may be difficult to do, especially at higher doses.\n*'''[[Effect::Sleepiness]]'''\n*'''[[Effect::Thought deceleration]]'''\n}}\n|{{effects/visual|\n\n*'''[[Effect::Visual acuity suppression]]''' - Like many [[depressants]], alprazolam is known to cause blurred or otherwise suppressed visual acuity.\n\n}}\n{{effects/aftereffects|\n\n*'''Rebound [[Effect::anxiety]]''' - Rebound anxiety is a commonly observed effect with [[anxiety suppression|anxiety relieving]] substances like [[benzodiazepines]]. It typically corresponds to the total duration spent under the substance's influence along with the total amount consumed in a given period, an effect which can easily lend itself to cycles of dependence and addiction.\n*'''[[Effect::Dream potentiation]]'''<ref>Goyal, Sarita. \"Drugs and Dreams.\" Indian Journal of Clinical Practice (n.d.): n. pag. Web.  | http://medind.nic.in/iaa/t13/i3/iaat13i3p624.pdf</ref>\n*'''Residual [[Effect::sleepiness]]''' - While benzodiazepines can be used as an effective [[hypnotic|sleep-inducing]] aid, their effects may persist into the morning afterward, which may lead users to feeling \"groggy\" or \"dull\" for up to a few hours. \n*'''[[Effect::Thought deceleration]]''' \n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' \n\n\n}}\n{{effects/paradoxical|\n\nParadoxical reactions to [[benzodiazepines]] such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).<ref>{{cite journal | vauthors=((Saïas, T.)), ((Gallarda, T.)) | journal=L’Encephale | title=[Paradoxical aggressive reactions to benzodiazepine use: a review] | volume=34 | issue=4 | pages=330–336 | date= September 2008 | issn=0013-7006 | doi=10.1016/j.encep.2007.05.005}}</ref><ref>{{cite journal | vauthors=((Paton, C.)) | journal=Psychiatric Bulletin | title=Benzodiazepines and disinhibition: a review | volume=26 | issue=12 | pages=460–462 | date= December 2002 | url=https://www.cambridge.org/core/journals/psychiatric-bulletin/article/benzodiazepines-and-disinhibition-a-review/421AF197362B55EDF004700452BF3BC6 | issn=0955-6036 | doi=10.1192/pb.26.12.460}}</ref> <p>These paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes.<ref>{{cite journal | vauthors=((Bond, A. J.)) | journal=CNS Drugs | title=Drug- Induced Behavioural Disinhibition | volume=9 | issue=1 | pages=41–57 | date=1 January 1998 | url=https://doi.org/10.2165/00023210-199809010-00005 | issn=1179-1934 | doi=10.2165/00023210-199809010-00005}}</ref><ref>{{cite journal | vauthors=((Drummer, O. H.)) | journal=Forensic Science Review | title=Benzodiazepines - Effects on Human Performance and Behavior | volume=14 | issue=1–2 | pages=1–14 | date= February 2002 | issn=1042-7201}}</ref>\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Alprazolam]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Alprazolam.shtml Erowid Experience Vaults: Alprazolam]\n\n==Toxicity and harm potential==\n{{toxicity}}\n[[File:harmchart.png|thumb|right|300px|Radar plot showing relative physical harm, social harm, and dependence of benzodiazepines in comparison to other drugs.<ref>{{cite journal | vauthors=((Nutt, D.)), ((King, L. A.)), ((Saulsbury, W.)), ((Blakemore, C.)) | journal=The Lancet | title=Development of a rational scale to assess the harm of drugs of potential misuse | volume=369 | issue=9566 | pages=1047–1053 | date=24 March 2007 | url=https://www.sciencedirect.com/science/article/pii/S0140673607604644 | issn=0140-6736 | doi=10.1016/S0140-6736(07)60464-4}}</ref>]]\nAlprazolam has a [[Toxicity::low toxicity]] relative to dose.<ref name=\"Mandroili2008\" />  However, it is [[Toxicity::potentially [[respiratory depression|lethal]] when mixed with [[depressants]] like [[alcohol]], [[opioids]], or [[barbiturates]]]]. Resulting in increased [[Respiratory depression|respiratory depression]] via a synergistic effect.<ref>Weaver MF. Prescription Sedative Misuse and Abuse. Yale J Biol Med. 2015 Sep;88(3):247-56. [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553644/ PMC free article]] [[https://pubmed.ncbi.nlm.nih.gov/26339207 PubMed]] </ref>\n\nIt is strongly recommended that one use [[harm reduction practices]] when using this substance.\n\nThe acute oral [[LD50|LD<sub>50</sub>]] in rats is 331–2171 mg/kg. Other experiments in animals have indicated that cardiopulmonary collapse can occur following massive intravenous doses of alprazolam.\n\n===Dependence and abuse potential===\nAlprazolam is [[Addiction potential::extremely physically and psychologically addictive]].\n\nTolerance will develop to the sedative-hypnotic effects [[Time to full tolerance::within a couple of days of continuous use]].<ref>{{cite book | vauthors=((Janicak, P. G.)), ((Marder, S. R.)), ((Pavuluri, M. N.)) | date=25 October 2010 | title=Principles and Practice of Psychopharmacotherapy | publisher=Lippincott Williams & Wilkins | isbn=9781605475653}}</ref> After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7-14 days]]. However, in certain cases, this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.\n\nAlprazolam presents cross-tolerance with [[Cross-tolerance::all [[benzodiazepines]]]], meaning that after its consumption all benzodiazepines will have a reduced effect.\n\n===Overdose===\n{{BenzoOD}}\n\n===Discontinuation===\n{{BenzoDiscontinuation}}\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Depressants}}\n\n==Legal status==\nInternationally, alprazolam is included under the United Nations Convention on Psychotropic Substances as Schedule IV.<ref>List of Psychotropic Substances under International Control | http://www.incb.org/documents/Psychotropics/green_lists/Green_list_ENG_2014_85222_GHB.pdf</ref>\n\n*'''Australia''': Alprazolam was originally a Schedule 4 (prescription only) medication; however, as of January 2014, it will become a Schedule 8 medication, subjecting it to more rigorous prescribing requirements.<ref>Alprazolam to be rescheduled from next year | http://www.australiandoctor.com.au/news/latest-news/alprazolam-to-be-rescheduled-from-next-year</ref>\n*'''Austria''': Alprazolam is legal for medical use under the AMG (Arzneimittelgesetz Österreich) and illegal when sold or possessed without a prescription under the SMG (Suchtmittelgesetz Österreich).{{citation needed}}\n*'''Czechia''': Alprazolam is a Schedule IV <ref>https://eur-lex.europa.eu/resource.html?uri=cellar:6b5e9beb-1d9b-11ea-95ab-01aa75ed71a1.0001.02/DOC_1&format=PDF</ref> (List 7) substance. Sold exclusively with a prescription \"without a blue stripe\" (§ 1, g), 1. of ''Nařízení vlády č. 463/2013 Sb.'') <ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n*'''France''': Alprazolam is a List I substance and is available for prescription.<ref>https://www.vidal.fr/medicaments/gammes/alprazolam-biogaran-11672.html</ref> It is illegal to buy without a prescription.\n*'''Germany''': Alprazolam is controlled under Anlage III BtMG (''Narcotics Act, Schedule III'') as of August 1, 1986.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl186s1099.pdf|title=Zweite Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|access-date=December 26, 2019|language=de}}</ref> It can only be prescribed on a narcotic prescription form, except preparations which contain up to 1&nbsp;mg alprazolam in each dosage form.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html|title=Anlage III BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 26, 2019|language=de}}</ref>\n*'''Ireland''': Alprazolam is a Schedule 4 medicine.<ref>{{Citation | vauthors=((eISB)) | title=Misuse Of Drugs (Amendment) Regulations | url=https://www.irishstatutebook.ie/eli/1993/si/342/made/en/print}}</ref>\n*'''Italy''': Alprazolam is a schedule IV drug (Tabella 4) of the \"Testo unico sulla droga (D.P.R. 309/90)\". When prescribed for medical use it falls under Pharmaceuticals section B and E (Tabella medicinali sezione B ed E).<ref>Tabella IV Sostanze stupefacenti http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_3_file.pdf</ref><ref>Tabella Medicinali D.P.R. 309/90 http://www.salute.gov.it/imgs/C_17_pagineAree_3729_listaFile_itemName_4_file.xls</ref>\n*'''Russia''': In Russia, since 2013, alprazolam is a Schedule III controlled substance.<ref>{{Citation | title=Постановление Правительства РФ от 04.02.2013 N 78 “О внесении изменений в некоторые акты Правительства Российской Федерации” - КонсультантПлюс | url=https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=LAW&n=141744&dst=100005&date=02.12.2019}}</ref>\n*'''Sweden''': Alprazolam is a prescription drug in List IV (Schedule 4) under the Narcotics Drugs Act (1968).<ref>\"Läkemedelsverkets föreskrifter (LVFS 2011:10) om förteckningar över narkotika\" [Medical Products Agency on the lists of drugs] | http://www.lakemedelsverket.se/upload/lvfs/konsoliderade/LVFS_2011_10_konsoliderad_tom_2012_6.pdf</ref>\n*'''Switzerland''': Alprazolam is a controlled substance specifically named under Verzeichnis B. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''Turkey''': Alprazolam is a 'green prescription' only substance<ref>YEŞİL REÇETEYE TABİ İLAÇLAR | https://www.titck.gov.tr/storage/Archive/2019/contentFile/01.04.2019%20SKRS%20Ye%C5%9Fil%20Re%C3%A7eteli%20%C4%B0la%C3%A7lar%20Aktif%20SON%20-%20G%C3%9CNCEL_58b1ff4a-2e1c-4867-bad7-eec855d6162a.pdf</ref> and illegal when sold or possessed without a prescription.{{citation needed}}\n*'''The Netherlands''': Alprazolam is a List 2 substance of the Opium Law<ref>{{Citation|title=Opiumwet, Lijst II (Dutch) | year=2023|url=https://wetten.overheid.nl/BWBR0001941/2023-09-12#BijlageII}}</ref> and is available for prescription.{{citation needed}}\n*'''United Kingdom''': Alprazolam is classified as a controlled drug and listed under Schedule IV, Part I (CD Benz POM) of the Misuse of Drugs Regulations 2001, allowing possession with a valid prescription. The Misuse of Drugs Act 1971 makes it illegal to possess the drug without a prescription and, for such purposes, it is classified as a Class C drug.<ref>{{Citation | title=Drugs licensing | url=https://www.gov.uk/government/collections/drugs-licensing}}</ref>\n*'''United States''': Alprazolam is a prescription medication assigned to Schedule IV of the Controlled Substances Act by the DEA.<ref>DEA, Drug Scheduling | http://www.deadiversion.usdoj.gov/schedules/index.html</ref>\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n*[[Diazepam]] ''(Valium)''\n*[[Clonazepam]] ''(Klonopin)''\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Alprazolam Alprazolam (Wikipedia)]\n*[https://erowid.org/pharms/alprazolam/alprazolam.shtml Alprazolam (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=3001 Alprazolam (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00404 Alprazolam (DrugBank)]\n*[https://www.drugs.com/alprazolam.html Alprazolam (Drugs.com)]\n*[https://drugs-forum.com/wiki/Alprazolam Alprazolam (Drugs-Forum)]\n\n==Further reading==\n\n*[https://www.benzo.org.uk/manual/index.htm The Ashton Manual] - Useful information on safe withdrawal from long-term benzodiazepine use and dependence\n\n==References==\n{{reflist|2}}\n\n[[Category:Psychoactive substance]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Triazolobenzodiazepine]]\n\n{{#set:Featured=true}}"
+}

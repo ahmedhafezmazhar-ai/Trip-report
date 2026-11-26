@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:19874",
+ "type": "substance-summary",
+ "title": "Mebroqualone/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Mebroqualone/Summary",
+  "pageid": 19874,
+  "last_edited": "2022-01-07T00:28:59Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Mebroqualone",
+ "plain_text": "",
+ "wikitext": "{{Summary|Mebroqualone}}"
+}

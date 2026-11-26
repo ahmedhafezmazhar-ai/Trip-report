@@ -1,0 +1,579 @@
+{
+ "id": "psychonautwiki:13072",
+ "type": "substance",
+ "title": "NEP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/NEP",
+  "pageid": 13072,
+  "last_edited": "2026-01-30T10:44:34Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "CS1 German-language sources (de)",
+  "CS1 Japanese-language sources (ja)",
+  "CS1 Swedish-language sources (sv)",
+  "CS1 maint: Extra text",
+  "Cathinone",
+  "Psychoactive substance",
+  "Research chemical",
+  "Stimulant"
+ ],
+ "substance_box_template": "SubstanceBox/NEP",
+ "substance_box": {
+  "names": {
+   "common": "N-Ethylpentedrone, NEP, Ethyl-Pentedrone",
+   "substitutive": "N-Ethyl-(nor)-pentedrone",
+   "systematic": "2-(Ethylamino)-1-phenyl-1-pentanone"
+  },
+  "classes": {
+   "psychoactive": "Stimulant",
+   "chemical": "Cathinone"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 25 mg",
+    "common": "25 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "4 - 6 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "10 mg",
+    "light": "10 - 20 mg",
+    "common": "20 - 40 mg",
+    "strong": "40 - 60 mg",
+    "heavy": "60 mg +",
+    "duration": "1 - 3 hours",
+    "onset": "1 - 8 minutes",
+    "comeup": "5 - 15 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "30 - 90 minutes",
+    "aftereffects": "1 - 4 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "5 mg",
+    "light": "5 - 15 mg",
+    "common": "15 - 30 mg",
+    "strong": "30 - 50 mg",
+    "heavy": "50 mg +",
+    "duration": "1.5 - 3 hours",
+    "onset": "",
+    "peak": "",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "N-Ethylpentedrone",
+    "NEP",
+    "Ethyl-Pentedrone"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "10"
+   ],
+   "Oral max light dose": [
+    "25"
+   ],
+   "Oral min common dose": [
+    "25"
+   ],
+   "Oral max common dose": [
+    "40"
+   ],
+   "Oral min strong dose": [
+    "40"
+   ],
+   "Oral max strong dose": [
+    "60"
+   ],
+   "Oral heavy dose": [
+    "60"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "6"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "10"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "10"
+   ],
+   "Insufflated max light dose": [
+    "20"
+   ],
+   "Insufflated min common dose": [
+    "20"
+   ],
+   "Insufflated max common dose": [
+    "40"
+   ],
+   "Insufflated min strong dose": [
+    "40"
+   ],
+   "Insufflated max strong dose": [
+    "60"
+   ],
+   "Insufflated heavy dose": [
+    "60"
+   ],
+   "Insufflated min total time": [
+    "1"
+   ],
+   "Insufflated max total time": [
+    "3"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "1"
+   ],
+   "Insufflated max onset time": [
+    "8"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "5"
+   ],
+   "Insufflated max comeup time": [
+    "15"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "30"
+   ],
+   "Insufflated max peak time": [
+    "60"
+   ],
+   "Insufflated peak time units": [
+    "minutes"
+   ],
+   "Insufflated min offset time": [
+    "30"
+   ],
+   "Insufflated max offset time": [
+    "90"
+   ],
+   "Insufflated offset time units": [
+    "minutes"
+   ],
+   "Insufflated min afterglow time": [
+    "1"
+   ],
+   "Insufflated max afterglow time": [
+    "4"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "5"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "5"
+   ],
+   "Smoked max light dose": [
+    "15"
+   ],
+   "Smoked min common dose": [
+    "15"
+   ],
+   "Smoked max common dose": [
+    "30"
+   ],
+   "Smoked min strong dose": [
+    "30"
+   ],
+   "Smoked max strong dose": [
+    "50"
+   ],
+   "Smoked heavy dose": [
+    "50"
+   ],
+   "Smoked min total time": [
+    "1.5"
+   ],
+   "Smoked max total time": [
+    "3"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of N-Ethyl-(nor)-pentedrone",
+   "clean": "Molecular structure of N-Ethyl-(nor)-pentedrone"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:N-ethyl-nor-pentedrone.svg",
+   "clean": "File:N-ethyl-nor-pentedrone.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::N-Ethylpentedrone]], [[common name::NEP]], [[common name::Ethyl-Pentedrone]]",
+   "clean": "N-Ethylpentedrone, NEP, Ethyl-Pentedrone"
+  },
+  "NameSubstitution": {
+   "raw": "N-Ethyl-(nor)-pentedrone",
+   "clean": "N-Ethyl-(nor)-pentedrone"
+  },
+  "NameSystematic": {
+   "raw": "2-(Ethylamino)-1-phenyl-1-pentanone",
+   "clean": "2-(Ethylamino)-1-phenyl-1-pentanone"
+  },
+  "EffectClass": {
+   "raw": "[[Stimulant]]",
+   "clean": "Stimulant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Substituted cathinone|Cathinone]]",
+   "clean": "Cathinone"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::10]] - [[Oral max light dose::25]] mg",
+   "clean": "10 - 25 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::25]] - [[Oral max common dose::40]] mg",
+   "clean": "25 - 40 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::40]] - [[Oral max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::6]] [[Oral total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::10]] [[Insufflated dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::10]] - [[Insufflated max light dose::20]] mg",
+   "clean": "10 - 20 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::20]] - [[Insufflated max common dose::40]] mg",
+   "clean": "20 - 40 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::40]] - [[Insufflated max strong dose::60]] mg",
+   "clean": "40 - 60 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "[[Insufflated heavy dose::60]] mg +",
+   "clean": "60 mg +"
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::1]] - [[Insufflated max total time::3]] [[Insufflated total time units::hours]]",
+   "clean": "1 - 3 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::1]] - [[Insufflated max onset time::8]] [[Insufflated onset time units::minutes]]",
+   "clean": "1 - 8 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::5]] - [[Insufflated max comeup time::15]] [[Insufflated comeup time units::minutes]]",
+   "clean": "5 - 15 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::30]] - [[Insufflated max peak time::60]] [[Insufflated peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::30]] - [[Insufflated max offset time::90]] [[Insufflated offset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::1]] - [[Insufflated max afterglow time::4]] [[Insufflated afterglow time units::hours]]",
+   "clean": "1 - 4 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::5]] [[Smoked dose units::mg]]",
+   "clean": "5 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::5]] - [[Smoked max light dose::15]] mg",
+   "clean": "5 - 15 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::15]] - [[Smoked max common dose::30]] mg",
+   "clean": "15 - 30 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::30]] - [[Smoked max strong dose::50]] mg",
+   "clean": "30 - 50 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::50]] mg +",
+   "clean": "50 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1.5]] - [[Smoked max total time::3]] [[Smoked total time units::hours]]",
+   "clean": "1.5 - 3 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Peak": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "N-Ethyl-nor-pentedrone (also known as N-Ethylpentedrone, Ethyl-pentedrone, Ethylpentedrone or more commonly, NEP) is a lesser-known novel stimulant substance of the cathinone class that produces stimulating, euphoric, and mildly entactogenic effects when administered. \n\nThe stimulating effects of NEP are believed to mainly be caused by its activity as a norepinephrine-dopamine reuptake inhibitor (NDRI). The reported entactogenic effects it displays may also be due to its activity as a serotonin reuptake inhibitor or releasing agent in moderate to high doses, although new research has shown very low serotonin reuptake inhibition. NEP  probably acts as a serotonin-norepinephrine-dopamine reuptake inhibitor (SNDRI).\n\nNEP shares a close structural relationship to its parent compound pentedrone, differing by an addition ethyl group on the terminal nitrogen on the carbon chain. This addition reportedly makes it about three times as potent as pentedrone. NEP is also closely related to N-Ethylhexedrone (commonly known as Hexen), and has been reported as producing largely-similar effects. \n\nNEP first became known in the research chemical market during 2016. It is an example of a contemporary designer drug specifically chosen to mimic/replace the functional and structural features of its popular potent and short-lived-type stimulant predecessors, which are sometimes imprecisely referred to as \"bath salts\". \n\nAs with its parent compound pentedrone, very little data exists about the pharmacological properties, metabolism, and toxicity of NEP in humans. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be treated with extreme caution. It is highly advised that one use harm reduction practices if choosing to use this substance.\n\nChemistry\n\nNEP, or N-Ethyl-(nor)-pentedrone, belongs to the cathinone chemical class. It features a phenethylamine core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. Cathinones are beta-ketone analogues of amphetamines. Cathinones refer to a class of molecules which are principally constituted of a phenethylamine core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. They are also known as the beta-ketone (double-bonded oxygen to the β-carbon) analogs of amphetamines. The cathinone backbone can be modified in three different places to create hundreds of possible compounds, which include substituents on the aromatic ring, the alpha carbon, and the amine group.\n\nPharmacology\n\nDue to the lack of research regarding the substance, a lot of the discussion regarding the pharmacology of it is purely based upon its structure and subjective effect similarities to other cathinones such as mephedrone and others. However, a recent study has shown that NEP acts as a potent serotonin-norepinephrine-dopamine reuptake inhibitor (SNDRI) with very poor affinity for SERT. This allows dopamine, serotonin and norepinephrine to accumulate within the brain, resulting in stimulating and euphoric effects. That being said, an interaction with other receptor sites cannot yet be fully ruled out.  \n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: N-Ethylpentedrone\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational NEP use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because NEP has an extremely brief history of human usage. Early anecdotal evidence from people who have tried NEP within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it in a sparing and controlled fashion (but nothing can be completely guaranteed)\n\nIt is strongly recommended that one use harm reduction practices when using this substance.\n\nTolerance and addiction potential\n\nAs with other stimulants, the chronic use of N-ethyl-(nor)-pentedrone can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of NEP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). NEP presents cross-tolerance with all dopaminergic [[stimulants]], meaning that after the consumption of N-ethyl-(nor)-pentedrone all stimulants will have a reduced effect.\n\nPsychosis\n\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis.\n\nDangerous interactions\n\n*Stimulants - NEP can be potentially dangerous in combination with other stimulants as it can increase one's heart rate and blood pressure to dangerous levels.\n\n*MDMA - The neurotoxic effects of MDMA may be increased when combined with amphetamine and other stimulants.\n\n*Cocaine - This combination may increase strain on the heart to dangerous, potentially fatal levels.\n\nSerotonin syndrome risk\n\nLegal status\n\n*Brazil: On September 7, 2018, all cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.\n*China: NEP is a controlled substance.\n*France: As a derivative of cathinone with alkyl substitutions on the nitrogen and R2 position, NEP is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.\n*Germany: NEP is controlled under the NpSG (New Psychoactive Substances Act) as of November 26, 2016. Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.\n*Japan: NEP is a controlled substance.\n*Sweden: NEP is a controlled substance as of November 12, 2019.\n*Switzerland: NEP can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.\n*The Netherlands: NEP is a controlled substance as of July 1, 2025. \n*United Kingdom: NEP is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.\n*United States: NEP is not a controlled substance in the United States but possession or distribution for human use could potentially be prosecuted under the Federal Analogue Act due to its structural and pharmacological similarities to pentedrone.\n*Italy: NEP is a controlled substance in Italy. It was inserted in \"Table 1 of psychotropic substances\" in December 29, 2020.\n\nSee also\n\n*Responsible use\n*Designer drug\n*Stimulant\n*Cathinone\n*Pentedrone\n*N-Ethylhexedrone (Hexen)\n\nExternal links\n\n*N-Ethylpentedrone (Wikipedia)\n*NEP (Isomer Design)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Stimulant\nCategory:Cathinone\nCategory:Research chemical",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/NEP}}\n\n'''N-Ethyl-nor-pentedrone''' (also known as '''N-Ethylpentedrone''', '''Ethyl-pentedrone''', '''Ethylpentedrone''' or more commonly, '''NEP''') is a lesser-known novel [[psychoactive class::stimulant]] substance of the [[chemical class::cathinone]] class that produces [[stimulating]], [[euphoric]], and mildly [[entactogenic]] effects when [[Routes of administration|administered]]. \n\nThe stimulating effects of NEP are believed to mainly be caused by its activity as a [[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (NDRI). The reported entactogenic effects it displays may also be due to its activity as a [[serotonin]] [[reuptake inhibitor]] or [[releasing agent]] in moderate to high doses, although new research has shown very low serotonin reuptake inhibition<ref name=\":0\">{{cite journal | vauthors=((Duart-Castells, L.)), ((Nadal-Gratacós, N.)), ((Muralter, M.)), ((Puster, B.)), ((Berzosa, X.)), ((Estrada-Tejedor, R.)), ((Niello, M.)), ((Bhat, S.)), ((Pubill, D.)), ((Camarasa, J.)), ((Sitte, H. H.)), ((Escubedo, E.)), ((López-Arnau, R.)) | journal=Neuropharmacology | title=Role of amino terminal substitutions in the pharmacological, rewarding and psychostimulant profiles of novel synthetic cathinones | volume=186 | pages=108475 | date= March 2021 | url=https://linkinghub.elsevier.com/retrieve/pii/S0028390821000290 | issn=00283908 | doi=10.1016/j.neuropharm.2021.108475}}</ref>. NEP  probably acts as a [[serotonin]]-[[norepinephrine]]-[[dopamine]] [[reuptake inhibitor]] (SNDRI).\n\nNEP shares a close structural relationship to its parent compound [[pentedrone]], differing by an addition ethyl group on the terminal nitrogen on the carbon chain. This addition reportedly makes it about three times as potent as pentedrone.<ref name=\":0\" /> NEP is also closely related to [[N-Ethylhexedrone]] (commonly known as ''Hexen''), and has been reported as producing largely-similar effects. \n\nNEP first became known in the [[research chemical]] market during 2016. It is an example of a contemporary [[designer drug]] specifically chosen to mimic/replace the functional and structural features of its popular potent and short-lived-type stimulant predecessors, which are sometimes imprecisely referred to as \"bath salts\". \n\nAs with its parent compound [[pentedrone]], very little data exists about the pharmacological properties, metabolism, and toxicity of NEP in humans. Due to its novelty and extremely short history of human usage, all information related to the use of this compound should be treated with extreme caution. It is highly advised that one use [[responsible drug use|harm reduction practices]] if choosing to use this substance.\n\n==Chemistry==\nNEP, or N-Ethyl-(nor)-pentedrone, belongs to the [[Substituted cathinone|cathinone]] chemical class. It features a [[phenethylamine]] core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. Cathinones are beta-ketone analogues of [[amphetamine]]s. Cathinones refer to a class of molecules which are principally constituted of a [[phenethylamine]] core with an alkyl group attached to the alpha carbon and an oxygen group attached to the beta carbon. They are also known as the beta-ketone (double-bonded oxygen to the β-carbon) analogs of [[amphetamine]]s. The cathinone backbone can be modified in three different places to create hundreds of possible compounds, which include substituents on the aromatic ring, the alpha carbon, and the amine group.<ref>{{cite journal | vauthors=((Liu, C.)), ((Jia, W.)), ((Li, T.)), ((Hua, Z.)), ((Qian, Z.)) | journal=Drug Testing and Analysis | title=Identification and analytical characterization of nine synthetic cathinone derivatives N -ethylhexedrone, 4-Cl-pentedrone, 4-Cl- α -EAPP, propylone, N -ethylnorpentylone, 6-MeO-bk-MDMA, α -PiHP, 4-Cl- α -PHP, and 4-F- α -PHP: Identification of nine synthetic cathinones | volume=9 | issue=8 | pages=1162–1171 | date= August 2017 | url=https://onlinelibrary.wiley.com/doi/10.1002/dta.2136 | issn=19427603 | doi=10.1002/dta.2136}}</ref>\n\n==Pharmacology==\nDue to the lack of research regarding the substance, a lot of the discussion regarding the pharmacology of it is purely based upon its structure and subjective effect similarities to other [[Substituted cathinone|cathinone]]s such as [[mephedrone]] and others. However, a recent study has shown that NEP acts as a potent [[Reuptake inhibitor|serotonin-norepinephrine-dopamine reuptake inhibitor]] (SNDRI) with very poor affinity for [[Serotonin|SERT]].<ref name=\":0\" /> This allows dopamine, serotonin and norepinephrine to accumulate within the brain, resulting in [[stimulation|stimulating]] and [[physical euphoria|euphoric]] effects. That being said, an interaction with other receptor sites cannot yet be fully ruled out.  \n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                             \n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Stimulation]]''' - In terms of its effects on the user's physical energy levels, NEP can be considered to be extremely stimulating and energetic. \n*'''[[Effect::Spontaneous tactile sensations]]''' - High doses of NEP result in a pleasurable body high characterized by pleasant tingling.  \n*'''[[Effect::Tactile enhancement]]'''\n*'''[[Effect::Dehydration]]''' - Dry mouth and increased sweating can occur after consuming NEP. Low doses of the substance in question cause minimal dehydration.\n*'''[[Effect::Vasoconstriction]]''' - NEP has been reported as being slightly vasoconstricting.\n*'''[[Effect::Abnormal heartbeat]]''' \n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Increased heart rate]]''' - NEP increases heart rate significantly compared to other stimulants, even at low doses.\n*'''[[Effect::Increased perspiration]]'''\n*'''[[Effect::Appetite suppression]]'''\n*'''[[Effect::Temporary erectile dysfunction]]'''\n*'''[[Effect::Teeth grinding]]''' - This component can be considered to be less intense when compared with that of [[MDMA]].\n\n}}\n|{{effects/cognitive|\n\n*'''[[Effect::Cognitive euphoria]]''' \n*'''[[Effect::Thought acceleration]]'''\n*'''[[Effect::Analysis enhancement]]''' - This effect is mostly present in lower doses when not overshadowed by euphoria.\n*'''[[Effect::Empathy, affection, and sociability enhancement]]''' - These feelings of sociability, love and empathy are much weaker and less sharp than those found on substances such as [[MDMA]] but seem to be present at high doses for some users. The presence of this effect has lead many users to speculate that this compound likely functions as a [[serotonin]] [[reuptake inhibitor]] as well as a [[dopamine]] and [[noradrenaline]] reuptake inhibitor. \n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Focus enhancement]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Disinhibition]]\n*'''[[Effect::Increased libido]]'''\n*'''[[Effect::Increased music appreciation]]'''\n*'''[[Effect::Time distortion]]'''\n*'''[[Effect::Motivation enhancement]]'''\n*'''[[Effect::Compulsive redosing]]'''\n\n}}\n{{effects/aftereffects|\n\nThe effects which occur during the [[offset]] of a [[stimulant]] experience generally feel negative and uncomfortable in comparison to the effects which occurred during its [[peak]]. This is often referred to as a \"comedown\" and occurs because of [[neurotransmitter]] depletion. Its effects commonly include:\n\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Cognitive fatigue]]''' \n*'''[[Effect::Depression]]'''\n*'''[[Effect::Irritability]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Wakefulness]]'''\n\nIt should be noted that many users of this substance report it has relatively smooth [[Durations#Coming down|\"come down\"]] compared to similar cathinone stimulants, so these effects may not be present to as great of a degree.\n\n\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_NEthylpentedrone.shtml Erowid Experience Vaults: N-Ethylpentedrone]\n\n==Toxicity and harm potential==\n{{Further|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational NEP use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because NEP has an extremely brief history of human usage. Early anecdotal evidence from people who have tried NEP within the community suggests that there do not seem to be any negative health effects attributed to simply trying this substance at low to moderate doses by itself and using it in a sparing and controlled fashion (but nothing can be completely guaranteed)\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this substance.\n\n===Tolerance and addiction potential===\nAs with other [[stimulants]], the chronic use of N-ethyl-(nor)-pentedrone can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of NEP [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). NEP presents cross-tolerance with [[Cross-tolerance::all [[dopamine]]rgic [[stimulant]]s]], meaning that after the consumption of N-ethyl-(nor)-pentedrone all [[stimulants]] will have a reduced effect.\n===Psychosis===\n{{Main|Stimulant psychosis}}\nAbuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., [[Paranoia|paranoia]], [[External hallucinations|hallucinations]], or [[Delusions|delusions]]).<ref name=\"Shoptaw2009\">{{cite journal | vauthors=((Shoptaw, S. J.)), ((Kao, U.)), ((Ling, W.)) | veditors=((Cochrane Drugs and Alcohol Group)) | journal=Cochrane Database of Systematic Reviews | title=Treatment for amphetamine psychosis | date=21 January 2009 | url=https://doi.wiley.com/10.1002/14651858.CD003026.pub3 | issn=14651858 | doi=10.1002/14651858.CD003026.pub3}}</ref> A review on treatment for amphetamine, [[dextroamphetamine]], and [[methamphetamine]] abuse-induced psychosis states that about 5–15% of users fail to recover completely.<ref name=\"Shoptaw2009\" /><ref>{{cite book | vauthors=((Hofmann, F. G.)) | date= 1983 | title=A handbook on drug and alcohol abuse: the biomedical aspects | publisher=Oxford University Press | edition=2nd ed | isbn=9780195030563}}</ref> The same review asserts that, based upon at least one trial, [[antipsychotic]] medications effectively resolve the symptoms of acute amphetamine psychosis.<ref name=\"Shoptaw2009\" />\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[Stimulants]]''' - NEP can be potentially dangerous in combination with other [[stimulants]] as it can [[increased heart rate|increase one's heart rate]] and [[increased blood pressure|blood pressure]] to dangerous levels.\n{{DangerousInteractions/Stimulants}}\n*'''[[MDMA]]''' - The neurotoxic effects of MDMA may be increased when combined with [[amphetamine]] and other stimulants.\n\n{{DangerousInteractions/MAOI|nt=dopamine}}\n*'''[[Cocaine]]''' - This combination may increase strain on the heart to dangerous, potentially fatal levels.\n\n====[[Serotonin syndrome]] risk====\n{{DangerousInteractions/SerotoninSyndrome}}\n\n==Legal status==\n\n*'''Brazil''': On September 7, 2018, all cathinone analogues are controlled substances considered illegal to possess, use and distribute. This was made possible due to a blanket ban law appended to Portaria SVS/MS nº 344.<ref>New blanket ban on synthetic illegal drugs is approved (Portuguese) | http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/combate-a-drogas-ilicitas-sinteticas-fica-mais-facil</ref>\n*'''China''': NEP is a controlled substance.{{citation needed}}\n*'''France''': As a derivative of cathinone with alkyl substitutions on the nitrogen and R2 position, NEP is scheduled as a \"stupéfiant\", i.e. a recognized drug of abuse. It is illegal to possess, buy, sell or manufacture.<ref>{{Citation | title=Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants  | url=https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/}}</ref>\n*'''Germany''': NEP is controlled under the NpSG (''New Psychoactive Substances Act'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/anlage.html|title=Anlage NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref> as of November 26, 2016.<ref>{{cite web|url=https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl116s2615.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl116s2615.pdf%27%5D__1576017393518|title=Gesetz zur Bekämpfung der Verbreitung neuer psychoaktiver Stoffe|publisher=Bundesanzeiger Verlag|access-date=December 11, 2019|language=de}}</ref> Production and import with the aim to place it on the market, administration to another person and trading is punishable. Possession is illegal but not penalized.<ref>{{cite web|url=https://www.gesetze-im-internet.de/npsg/__4.html|title=§ 4 NpSG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 11, 2019|language=de}}</ref>\n*'''Japan''': NEP is a controlled substance.<ref>{{cite web|url=https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/dl/meisho.pdf|title=指定薬物一覧|publisher=Ministry of Health, Labour and Welfare|access-date=December 27, 2019|language=ja}}</ref>\n*'''Sweden''': NEP is a controlled substance as of November 12, 2019.<ref>{{cite web|url=https://svenskforfattningssamling.se/sites/default/files/sfs/2019-10/SFS2019-612.pdf|title=Svensk författningssamling: Förordningom ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor|language=sv|access-date=December 27, 2019|publisher=Thomson Förlag}}</ref>\n*'''Switzerland''': NEP can be considered a controlled substance as a defined derivative of Cathinone under Verzeichnis E point 1. It is legal when used for scientific or industrial use.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''The Netherlands:''' NEP is a controlled substance as of July 1, 2025. <ref>{{Citation|title= Bepaalde groepen designerdrugs (ook wel nieuwe psychoactieve stoffen) zijn sinds 1 juli 2025 verboden. Deze stoffen zijn schadelijk. Gebruikers kunnen er gezondheidsproblemen van krijgen en er zelfs door overlijden. | year=2025|url=https://www.rijksoverheid.nl/onderwerpen/drugs/verbod-op-designerdrugs}}</ref>\n*'''United Kingdom''': NEP is a Class B drug in the United Kingdom as a result of the cathinone catch-all clause.<ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2010 | url=https://www.legislation.gov.uk/uksi/2010/1207/made}}</ref>\n*'''United States''': NEP is not a controlled substance in the United States but possession or distribution for human use could potentially be prosecuted under the Federal Analogue Act due to its structural and pharmacological similarities to [[pentedrone]].<ref>{{Citation | title=21 U.S. Code § 813 - Treatment of controlled substance analogues | url=https://www.law.cornell.edu/uscode/text/21/813}}</ref>\n*'''Italy:''' NEP is a controlled substance in Italy. It was inserted in \"Table 1 of psychotropic substances\"<ref>[https://www.salute.gov.it/portale/medicinaliStupefacenti/dettaglioContenutiMedicinaliStupefacenti.jsp?lingua=italiano&id=3729&area=sostanzeStupefacenti&menu=vuoto&tab=1]</ref> in December 29, 2020.\n\n==See also==\n\n*[[Responsible use]]\n*[[Designer drug]]\n*[[Stimulant]]\n*[[Substituted cathinone|Cathinone]]\n*[[Pentedrone]]\n*[[N-Ethylhexedrone]] (''Hexen'')\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/N-Ethylpentedrone N-Ethylpentedrone (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=638 NEP (Isomer Design)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Stimulant]]\n[[Category:Cathinone]]\n[[Category:Research chemical]]\n\n{{#set:Featured=true}}"
+}

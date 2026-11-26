@@ -1,0 +1,680 @@
+{
+ "id": "psychonautwiki:10750",
+ "type": "substance",
+ "title": "PCP",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/PCP",
+  "pageid": 10750,
+  "last_edited": "2026-10-14T01:47:25Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Articles with unsourced statements",
+  "Arylcyclohexylamine",
+  "CS1 German-language sources (de)",
+  "CS1 maint: Extra text",
+  "Dissociative",
+  "Piperidine"
+ ],
+ "substance_box_template": "SubstanceBox/PCP",
+ "substance_box": {
+  "names": {
+   "common": "PCP, Angel Dust,  Sherman, Sernyl, Wet, Dust, Supergrass, Boat, Tic Tac, Zoom",
+   "substitutive": "Phencyclidine",
+   "systematic": "1-(1-phenylcyclohexyl)piperidine"
+  },
+  "classes": {
+   "psychoactive": "Dissociative",
+   "chemical": "Arylcyclohexylamine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "3 - 5 mg",
+    "common": "5 - 10 mg",
+    "strong": "10 - 15 mg",
+    "heavy": "15mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 8 hours",
+    "onset": "30 - 90 minutes",
+    "comeup": "40 - 120 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 4 mg",
+    "common": "4 - 8 mg",
+    "strong": "8 - 12 mg",
+    "heavy": "12 mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 6 hours",
+    "onset": "2 - 20 minutes",
+    "comeup": "20 - 40 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "insufflated": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "1 mg",
+    "light": "2 - 4 mg",
+    "common": "4 - 8 mg",
+    "strong": "8 - 15 mg",
+    "heavy": "15mg+ Heavy doses may result in psychosis and mania.",
+    "duration": "4 - 6 hours",
+    "onset": "3 - 30 minutes",
+    "comeup": "30 - 90 minutes",
+    "peak": "2 - 3 hours",
+    "offset": "1 - 2 hours",
+    "aftereffects": "4 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "PCP",
+    "Angel Dust",
+    "Sherman",
+    "Sernyl",
+    "Wet",
+    "Dust",
+    "Supergrass",
+    "Boat",
+    "Tic Tac",
+    "Zoom"
+   ],
+   "psychoactive class": [
+    "Dissociative"
+   ],
+   "chemical class": [
+    "Arylcyclohexylamine"
+   ],
+   "Oral threshold dose": [
+    "1"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "3"
+   ],
+   "Oral max light dose": [
+    "5"
+   ],
+   "Oral min common dose": [
+    "5"
+   ],
+   "Oral max common dose": [
+    "10"
+   ],
+   "Oral min strong dose": [
+    "10"
+   ],
+   "Oral max strong dose": [
+    "15"
+   ],
+   "Oral min total time": [
+    "4"
+   ],
+   "Oral max total time": [
+    "8"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "90"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min comeup time": [
+    "40"
+   ],
+   "Oral max comeup time": [
+    "120"
+   ],
+   "Oral comeup time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "2"
+   ],
+   "Oral max peak time": [
+    "3"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "1"
+   ],
+   "Oral max offset time": [
+    "2"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "4"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "2"
+   ],
+   "Smoked max light dose": [
+    "4"
+   ],
+   "Smoked min common dose": [
+    "4"
+   ],
+   "Smoked max common dose": [
+    "8"
+   ],
+   "Smoked min strong dose": [
+    "8"
+   ],
+   "Smoked max strong dose": [
+    "12"
+   ],
+   "Smoked min total time": [
+    "4"
+   ],
+   "Smoked max total time": [
+    "6"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "2"
+   ],
+   "Smoked max onset time": [
+    "20"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min comeup time": [
+    "20"
+   ],
+   "Smoked max comeup time": [
+    "40"
+   ],
+   "Smoked comeup time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "2"
+   ],
+   "Smoked max peak time": [
+    "3"
+   ],
+   "Smoked peak time units": [
+    "hours"
+   ],
+   "Smoked min offset time": [
+    "1"
+   ],
+   "Smoked max offset time": [
+    "2"
+   ],
+   "Smoked offset time units": [
+    "hours"
+   ],
+   "Smoked min afterglow time": [
+    "4"
+   ],
+   "Smoked max afterglow time": [
+    "48"
+   ],
+   "Smoked afterglow time units": [
+    "hours"
+   ],
+   "Insufflated threshold dose": [
+    "1"
+   ],
+   "Insufflated dose units": [
+    "mg"
+   ],
+   "Insufflated min light dose": [
+    "2"
+   ],
+   "Insufflated max light dose": [
+    "4"
+   ],
+   "Insufflated min common dose": [
+    "4"
+   ],
+   "Insufflated max common dose": [
+    "8"
+   ],
+   "Insufflated min strong dose": [
+    "8"
+   ],
+   "Insufflated max strong dose": [
+    "15"
+   ],
+   "Insufflated min total time": [
+    "4"
+   ],
+   "Insufflated max total time": [
+    "6"
+   ],
+   "Insufflated total time units": [
+    "hours"
+   ],
+   "Insufflated min onset time": [
+    "3"
+   ],
+   "Insufflated max onset time": [
+    "30"
+   ],
+   "Insufflated onset time units": [
+    "minutes"
+   ],
+   "Insufflated min comeup time": [
+    "30"
+   ],
+   "Insufflated max comeup time": [
+    "90"
+   ],
+   "Insufflated comeup time units": [
+    "minutes"
+   ],
+   "Insufflated min peak time": [
+    "2"
+   ],
+   "Insufflated max peak time": [
+    "3"
+   ],
+   "Insufflated peak time units": [
+    "hours"
+   ],
+   "Insufflated min offset time": [
+    "1"
+   ],
+   "Insufflated max offset time": [
+    "2"
+   ],
+   "Insufflated offset time units": [
+    "hours"
+   ],
+   "Insufflated min afterglow time": [
+    "4"
+   ],
+   "Insufflated max afterglow time": [
+    "48"
+   ],
+   "Insufflated afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Phencyclidine",
+   "clean": "Molecular structure of Phencyclidine"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:PCP.svg",
+   "clean": "File:PCP.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "200px",
+   "clean": "200px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::PCP]], [[common name::Angel Dust]], [[common name:: Sherman]], [[common name::Sernyl]], [[common name::Wet]], [[common name::Dust]], [[common name::Supergrass]], [[common name::Boat]], [[common name::Tic Tac]], [[common name::Zoom]]",
+   "clean": "PCP, Angel Dust,  Sherman, Sernyl, Wet, Dust, Supergrass, Boat, Tic Tac, Zoom"
+  },
+  "NameSubstitution": {
+   "raw": "Phencyclidine",
+   "clean": "Phencyclidine"
+  },
+  "NameSystematic": {
+   "raw": "1-(1-phenylcyclohexyl)piperidine",
+   "clean": "1-(1-phenylcyclohexyl)piperidine"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Dissociative]]",
+   "clean": "Dissociative"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Arylcyclohexylamine]]",
+   "clean": "Arylcyclohexylamine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::1]] [[Oral dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::3]] - [[Oral max light dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::5]] - [[Oral max common dose::10]] mg",
+   "clean": "5 - 10 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::10]] - [[Oral max strong dose::15]] mg",
+   "clean": "10 - 15 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "15mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref>PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "15mg+ Heavy doses may result in psychosis and mania."
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::4]] - [[Oral max total time::8]] [[Oral total time units::hours]]",
+   "clean": "4 - 8 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::90]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "OralROA_Comeup": {
+   "raw": "[[Oral min comeup time::40]] - [[Oral max comeup time::120]] [[Oral comeup time units::minutes]]",
+   "clean": "40 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::2]] - [[Oral max peak time::3]] [[Oral peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::1]] - [[Oral max offset time::2]] [[Oral offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::4]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "[[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::2]] - [[Smoked max light dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::4]] - [[Smoked max common dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::8]] - [[Smoked max strong dose::12]] mg",
+   "clean": "8 - 12 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "12 mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref>PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "12 mg+ Heavy doses may result in psychosis and mania."
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::4]] - [[Smoked max total time::6]] [[Smoked total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::2]] - [[Smoked max onset time::20]] [[Smoked onset time units::minutes]]",
+   "clean": "2 - 20 minutes"
+  },
+  "SmokedROA_Comeup": {
+   "raw": "[[Smoked min comeup time::20]] - [[Smoked max comeup time::40]] [[Smoked comeup time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::2]] - [[Smoked max peak time::3]] [[Smoked peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::1]] - [[Smoked max offset time::2]] [[Smoked offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::4]] - [[Smoked max afterglow time::48]] [[Smoked afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  },
+  "InsufflatedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "InsufflatedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Threshold": {
+   "raw": "[[Insufflated threshold dose::1]] [[Insufflated dose units::mg]]",
+   "clean": "1 mg"
+  },
+  "InsufflatedROA_Light": {
+   "raw": "[[Insufflated min light dose::2]] - [[Insufflated max light dose::4]] mg",
+   "clean": "2 - 4 mg"
+  },
+  "InsufflatedROA_Common": {
+   "raw": "[[Insufflated min common dose::4]] - [[Insufflated max common dose::8]] mg",
+   "clean": "4 - 8 mg"
+  },
+  "InsufflatedROA_Strong": {
+   "raw": "[[Insufflated min strong dose::8]] - [[Insufflated max strong dose::15]] mg",
+   "clean": "8 - 15 mg"
+  },
+  "InsufflatedROA_Heavy": {
+   "raw": "15mg+ <span style=\"color:red\">'''Heavy doses may result in psychosis and mania.'''<ref name=\"psychosis\">3-MeO-PCP Psychosis (PsychonautWiki) | https://psychonautwiki.org/wiki/3-MeO-PCP#Toxicity_and_harm_potential</ref></span>",
+   "clean": "15mg+ Heavy doses may result in psychosis and mania."
+  },
+  "InsufflatedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "InsufflatedROA_Duration": {
+   "raw": "[[Insufflated min total time::4]] - [[Insufflated max total time::6]] [[Insufflated total time units::hours]]",
+   "clean": "4 - 6 hours"
+  },
+  "InsufflatedROA_Onset": {
+   "raw": "[[Insufflated min onset time::3]] - [[Insufflated max onset time::30]] [[Insufflated onset time units::minutes]]",
+   "clean": "3 - 30 minutes"
+  },
+  "InsufflatedROA_Comeup": {
+   "raw": "[[Insufflated min comeup time::30]] - [[Insufflated max comeup time::90]] [[Insufflated comeup time units::minutes]]",
+   "clean": "30 - 90 minutes"
+  },
+  "InsufflatedROA_Peak": {
+   "raw": "[[Insufflated min peak time::2]] - [[Insufflated max peak time::3]] [[Insufflated peak time units::hours]]",
+   "clean": "2 - 3 hours"
+  },
+  "InsufflatedROA_Offset": {
+   "raw": "[[Insufflated min offset time::1]] - [[Insufflated max offset time::2]] [[Insufflated offset time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "InsufflatedROA_Aftereffects": {
+   "raw": "[[Insufflated min afterglow time::4]] - [[Insufflated max afterglow time::48]] [[Insufflated afterglow time units::hours]]",
+   "clean": "4 - 48 hours"
+  }
+ },
+ "plain_text": "Phencyclidine (also known as PCP, Angel Dust, Sherm, and Sernyl) is a classical dissociative substance of the arylcyclohexylamine class. It is one of the oldest and most notorious dissociatives, known for its potent effects and reputation as an established \"street drug\" (along with cocaine and heroin). It produces its effects by blocking the NMDA receptor.\n\nFirst marketed in the 1950s as an anesthetic pharmaceutical drug, PCP was taken off the market in 1965 due to the high rate of hallucinogenic side effects. It emerged as a recreational substance in mid-1967, under the name \"The Peace Pill\". Since this time, a number of synthetic derivatives of PCP (e.g. 3-MeO-PCP, 4-MeO-PCP, MXE) have been sold as dissociative drugs for both recreational and non-medical use.\n\nSubjective effects include motor control loss, pain relief, internal hallucinations, memory suppression, conceptual thinking, euphoria, and depersonalization / dissociation. Routes of administration include oral, smoking, insufflation or injection. The effects are among the most potent and long-lasting in the class. Additionally, PCP is reported to have strong stimulating effects that can promote anxiety and motor activity.\n\nPCP has high abuse potential. Compulsive redosing has been reported, as well as psychological dependence following chronic use (i.e. high dose, repeated administration). Additionally, chronic use has been associated with numerous manifestations of toxicity (see this section for more information). It is highly advised to use harm reduction practices if using this substance.\n\nHistory and culture\n\nAfter being discovered in 1926, PCP was developed as a general anesthetic in the 1950s because it could achieve analgesia and anesthesia with minimal cardiovascular and respiratory suppression. It was marketed under the name Sernyl and began to be used in surgical procedures in 1963.\n\nBy 1967, it was discontinued due to postoperative dysphoria and hallucinations. After 1967, it was limited to veterinary use. Also in the 1960s, PCP began to be illegally manufactured in laboratories and emerged as a popular street drug in San Francisco. In the 1970s, PCP use became widespread.\n\nCommon names\n\nCommon street names for PCP are the peace pill, angel dust, sherm sticks, peeps, crystal joints, rocket fuel, sawgrass, zoom, the sheets, and elephant tranquilizer.\n\nChemistry\n\nPCP, or phencyclidine, is a synthetic dissociative of the arylcyclohexylamine class. PCP contains cyclohexane, a six-member saturated ring, bonded to two additional rings at R1. One of these rings is a piperidine ring, a nitrogenous six member ring, bonded at its nitrogen group. The other ring is an aromatic phenyl ring. PCP is an initialism named from the first letters of the three constituent rings phenyl, cyclohexane and piperidine.\n\nPharmacology\n\nPCP acts as an NMDA receptor antagonist. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the notorious “k-hole.”\n\nUnlike ketamine, PCP also shows appreciable affinity for antagonizing the PCP2 glutamate receptor.  PCP also acts as a sigma-2 agonist and mild serotonin reuptake inhibitor.  It has also been characterized as a potent D2 dopamine agonist but not a dopamine reuptake inhibitor in humans.  This D2 dopamine agonism contributes to the infamous stimulation, euphoria, and mania of PCP.\n\nSubjective effects\n\nPCP is considerably more likely to induce psychosis and mania than other dissociatives and is therefore potentially dangerous even in a proper setting.\n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: PCP\n\nToxicity and harm potential\n\nThe long-term use of PCP may lead to schizophrenia-like psychotic episodes, severe lasting memory loss, disorganized thinking, depression, weight loss, liver abnormalities and rhabdomyolysis (skeletal muscle breakdown).\n\nIt is very strongly recommended that one use extreme caution and harm reduction practices when using this substance. For example,\n\n*Users should avoid taking the drug multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger adverse effects.\n*Users should start with extremely low doses and work their way up as slowly as possible. Volumetric liquid dosing should preferably be used due to the drug's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.\n*Compulsive redosing before one has fully sobered up is not recommended and can result in too high of a dose.\n\nPsychosis\n\nPCP has been reported to cause psychosis and mania at a significantly higher rate than other dissociatives such as ketamine, diphenidine, or MXE. Multiple scientific papers describe states of psychosis, mania, and/or delirium occurring after moderate to large doses of the drug were ingested. \n\nIn one initial human trial, it was reported that one-sixth of the patients who had received anesthetic doses experienced acute psychosis. In some cases, it took up to a week or more to resolve. Similar results (although less severe) were reported during trials using subanesthetic doses of PCP for pain relief. \n\nDue to the risk of psychosis, it is not recommended to combine this substance with other substances, especially stimulants, psychedelics, or other dissociatives like MXE and DXM.\n\nNeurological effects\n\nSome studies found that, like other NMDA receptor antagonists, PCP can cause brain damage called Olney's lesions in rats. Studies conducted on rats showed that high doses of the NMDA receptor antagonist dizocilpine caused reversible vacuoles to form in certain regions of the rats' brains. All studies of Olney's lesions have only been performed on non-human animals and may not apply to humans. \n\nOne unpublished study by Frank Sharp reportedly showed no damage by the NMDA antagonist ketamine (a similar drug) far beyond recreational doses but its validity is controversial since it was never published.\n\nPCP has also been shown to cause schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate levels in the rat brain, which are detectable both in living rats and upon necropsy examination of brain tissue. It also induces symptoms in humans that mimic schizophrenia.\n\nUrinary tract effects\n\nIn terms of its long-term health effects when used repeatedly and excessively for extended periods of time, PCP seems to exhibit almost identical bladder and urinary tract problems to those produced by ketamine.\n\n*Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.\n*Urinary urgency - This can be described as a sudden, compelling need to urinate.\n*Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*Pelvic and bladder pain - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*Hematuria - Hematuria is visible blood in the urine.\n*Incontinence - This is the uncontrolled leakage of urine.\n\nDependence and abuse potential\n\nThe chronic use of PCP can be considered highly addictive with a high potential for adverse side effects such as psychosis. In comparison to other dissociatives, PCP has been reported to be more addictive than MXE, diphenidine, ephenidine, and ketamine. \n\nWhen addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of PCP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). PCP presents cross-tolerance with all dissociative, meaning that after the consumption of PCP, all dissociatives will have a reduced effect.\n\nDangerous interactions\n\n*MXE - There are no reports available about this combination.\n*Caffeine - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*Opioids - PCP can reduce opioid tolerance, increasing the risk of overdose.\n*DOx - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*Amphetamines - This combination can easily lead to hypermanic states.\n*MDMA - This combination can easily lead to hypermanic states.\n*Cocaine - This combination can easily lead to hypermanic states.\n*Alcohol - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*Benzodiazepines - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*SSRIs - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*2C-T-x\n*ΑMT\n*5-MeO-xxT\n*DXM\n*GHB - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*GBL - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*Tramadol\n*MAOIs - Little information exists about this combination.\n\nLegal status\n\nInternationally, PCP is a Schedule II substance under the Convention on Psychotropic Substances.\n\n*Austria - PCP is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).\n*Canada - PCP is controlled under the Controlled Drugs and Substances Act as a Schedule I substance.\n*Czech Republic: PCP is a Schedule II  (List 5) substance. Sold exclusively with a prescription \"marked with a blue stripe running from the lower left corner to the upper right corner\" (§ 1, e), 2. of Nařízení vlády č. 463/2013 Sb.) \n*Germany - PCP is controlled under BtMG Anlage I, making it illegal to manufacture, import, possess, sell, or transfer it without a license.\n*New Zealand - PCP is Schedule I (class A) in New Zealand.\n*Poland - PCP is listed under \"Wykaz środków odurzających i substancji psychotropowych[\" (II-P group) in Poland, and is illegal to posses, sell and manufacture.\n*Portugal - PCP is a Table-II-A substance under Decree-Law 15/93: Anti-Drug Legislation. PCP was decriminalized for personal use by Law 30/2000, but consumption or possession is still prohibited. The substance is liable to be seized and the possessor can be referred to mandatory treatment.\n*Switzerland: - PCP is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.\n*United Kingdom - PCP is controlled under the Misuse of Drugs Act as a Schedule II Class A drug, making it illegal to possess without a prescription.\n*United States - PCP is controlled under the Controlled Substances Act as a Schedule II controlled substance, making it illegal to possess without a prescription.\n\nSee also\n\n*Responsible use\n**Volumetric dosing\n*Dissociative\n*Phencyclidines\n*3-MeO-PCP\n*MXE\n*PCE\n*DXM\n*Ketamine\n\nExternal links\n\n*PCP (Wikipedia)\n*PCP (Erowid Vault)\n*PCP (Isomer Design)\n*PCP (DrugBank)\n*PCP (Drugs.com)\n*PCP (Drugs-Forum)\n\nForums\n\n*PCP (Bluelight)\n\nLiterature\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\nReferences\n\nCategory:Arylcyclohexylamine\nCategory:Piperidine\nCategory:Dissociative",
+ "wikitext": "{{headerpanel|{{Warning/PCP}}}}\n{{SummarySheet}}\n{{SubstanceBox/PCP}}\n'''Phencyclidine''' (also known as '''PCP''', '''Angel Dust''', '''Sherm''', and '''Sernyl''')<ref>PCP Fast Facts | http://www.justice.gov/archive/ndic/pubs4/4440/</ref> is a classical [[psychoactive class::dissociative]] substance of the [[chemical class::arylcyclohexylamine]] class. It is one of the oldest and most notorious dissociatives, known for its potent effects and reputation as an established \"street drug\" (along with [[cocaine]] and [[heroin]]).<ref>{{cite book | vauthors=((Nestler, E. J.)), ((Hyman, S. E.)), ((Malenka, R. C.)) | date= 2009 | title=Molecular neuropharmacology: a foundation for clinical neuroscience | publisher=McGraw-Hill Medical | edition=2nd ed | isbn=9780071481274}}</ref> It produces its effects by [[NMDA receptor antagonist|blocking the NMDA receptor]].<ref>{{cite journal | vauthors=((Kapur, S.)), ((Seeman, P.)) | journal=Molecular Psychiatry | title=NMDA receptor antagonists ketamine and PCP have direct effects on the dopamine D2 and serotonin 5-HT2 receptors—implications for models of schizophrenia | volume=7 | issue=8 | pages=837–844 | date= September 2002 | url=https://www.nature.com/articles/4001093 | issn=1476-5578 | doi=10.1038/sj.mp.4001093}}</ref>\n\nFirst marketed in the 1950s as an anesthetic pharmaceutical drug, PCP was taken off the market in 1965 due to the high rate of [[hallucinogenic]] side effects. It emerged as a recreational substance in mid-1967, under the name \"The Peace Pill\".<ref>\"Peace Pill\". Microgram. Bureau of Drug Abuse Control. Jan 1968. 1(3):p1 (Erowid.org) | https://erowid.org/library/periodicals/microgram/microgram_1968_01_v01n03.pdf</ref><ref>\"Sweet Streetfact's Lowdown on Low Dope Highs!\". Berkeley Tribe, September 10-16, 1971. p12 (Independent Voices) | https://www.jstor.org/stable/community.28033860?seq=12</ref> Since this time, a number of synthetic derivatives of PCP (e.g. [[3-MeO-PCP]], [[4-MeO-PCP]], [[MXE]]) have been sold as dissociative drugs for both recreational and non-medical use.<ref name=\"morris\">{{cite journal | vauthors=((Morris, H.)), ((Wallach, J.)) | journal=Drug Testing and Analysis | title=From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs | volume=6 | issue=7–8 | pages=614–632 | date= August 2014 | issn=1942-7611 | doi=10.1002/dta.1620}}</ref>\n\n[[Subjective effects]] include [[motor control loss]], [[pain relief]], [[internal hallucinations]], [[memory suppression]], [[conceptual thinking]], [[euphoria]], and [[depersonalization]] / [[disconnective effects|dissociation]]. Routes of administration include [[oral]], [[Routes of administration#Smoking|smoking]], [[insufflation]] or [[Routes of administration#Injection|injection]].<ref>{{Citation | vauthors=((Abuse, N. I. on D.)) | year=2019 | title=Hallucinogens DrugFacts | url=https://nida.nih.gov/publications/drugfacts/hallucinogens}}</ref> The effects are among the most potent and long-lasting in the class. Additionally, PCP is reported to have strong [[stimulation|stimulating]] effects that can promote [[anxiety]] and motor activity.\n\nPCP has high abuse potential. [[Compulsive redosing]] has been reported, as well as psychological dependence following chronic use (i.e. high dose, repeated administration). Additionally, chronic use has been associated with numerous manifestations of toxicity (see [[PCP#Toxicity and harm potential|this section]] for more information).{{citation needed}} It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==History and culture==\nAfter being discovered in 1926, PCP was developed as a general anesthetic in the 1950s because it could achieve analgesia and anesthesia with minimal cardiovascular and respiratory suppression. It was marketed under the name Sernyl and began to be used in surgical procedures in 1963.<ref name=\"Journey\">{{cite book | vauthors=((Journey, J. D.)), ((Bentley, T. P.)) | date= 2022 | chapter=StatPearls | title=Phencyclidine Toxicity | publisher=StatPearls Publishing | url=http://www.ncbi.nlm.nih.gov/books/NBK507865/}}</ref>\n\nBy 1967, it was discontinued due to postoperative dysphoria and hallucinations. After 1967, it was limited to veterinary use. Also in the 1960s, PCP began to be illegally manufactured in laboratories and emerged as a popular street drug in San Francisco. In the 1970s, PCP use became widespread.<ref name=\"Journey\" />\n\n===Common names===\nCommon street names for PCP are the peace pill, angel dust, sherm sticks, peeps, crystal joints, rocket fuel, sawgrass, zoom, the sheets, and elephant tranquilizer.<ref name=\"Journey\" />\n\n==Chemistry==\nPCP, or phencyclidine, is a synthetic dissociative of the arylcyclohexylamine class. PCP contains cyclohexane, a six-member saturated ring, bonded to two additional rings at R<sub>1</sub>. One of these rings is a piperidine ring, a nitrogenous six member ring, bonded at its nitrogen group. The other ring is an aromatic phenyl ring. PCP is an initialism named from the first letters of the three constituent rings '''p'''henyl, '''c'''yclohexane and '''p'''iperidine.\n\n==Pharmacology==\n{{Further|NMDA receptor antagonist}}\nPCP acts as an [[NMDA receptor antagonist]]. NMDA receptors allow for electrical signals to pass between neurons in the brain and spinal column; for the signals to pass, the receptor must be open. Dissociatives close the NMDA receptors by blocking them. This disconnection of neurons leads to loss of feeling, difficulty moving, and eventually an almost identical equivalent of the notorious “[http://en.wikipedia.org/wiki/K-hole k-hole].”\n\nUnlike ketamine, PCP also shows appreciable affinity for antagonizing the PCP2 glutamate receptor.<ref>{{cite journal | vauthors=((Rothman, R.)) | title=PCP site 2: A high affinity MK-801-insensitive phencyclidine binding site | date=1 July 1994 | url=https://zenodo.org/record/1258623 | doi=10.1016/0892-0362(94)90022-1}}</ref>  PCP also acts as a sigma-2 agonist and mild serotonin reuptake inhibitor.<ref>{{cite journal | vauthors=((Roth, B. L.)), ((Gibbons, S.)), ((Arunotayanun, W.)), ((Huang, X.-P.)), ((Setola, V.)), ((Treble, R.)), ((Iversen, L.)) | journal=PLoS ONE | title=The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor | volume=8 | issue=3 | pages=e59334 | date=19 March 2013 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602154/ | issn=1932-6203 | doi=10.1371/journal.pone.0059334}}</ref>  It has also been characterized as a potent D2 dopamine agonist but not a dopamine reuptake inhibitor in humans.<ref>{{cite journal | vauthors=((Seeman, P.)), ((Guan, H.-C.)), ((Hirbec, H.)) | journal=Synapse (New York, N.Y.) | title=Dopamine D2High receptors stimulated by phencyclidines, lysergic acid diethylamide, salvinorin A, and modafinil | volume=63 | issue=8 | pages=698–704 | date= August 2009 | issn=1098-2396 | doi=10.1002/syn.20647}}</ref>  This D2 dopamine agonism contributes to the infamous stimulation, euphoria, and mania of PCP.\n\n==Subjective effects==\n{{EffectStub}}\nPCP is considerably more likely to induce [[psychosis]] and [[mania]] than other dissociatives and is therefore potentially dangerous even in a proper setting.\n{{Preamble/SubjectiveEffects}}\n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Neurotoxicity]]''' - PCP acts as a non-competitive NMDA receptor antagonist and monoamine reuptake inhibitor. High doses or chronic administration can induce NMDA antagonist-induced neurotoxicity (often associated with vacuolization or \"Olney's lesions\" in animal rodent models) in the posterior cingulate and retrosplenial cortex, driven by paradoxical cortical disinhibition and excitotoxicity.<ref name=\"Olney1989\">{{cite journal | vauthors = Olney JW, Labruyere J, Price MT | title = Pathomorphological changes induced in cerebrocortical neurons by NMDA receptor antagonists | journal = Science | volume = 244 | issue = 4910 | pages = 1360–1362 | date = June 1989 | pmid = 2660263 | doi = 10.1126/science.2660263 }}</ref><ref name=\"Nakki1995\">{{cite journal | vauthors = Nākki R, Sharp FR, Sagar SM | title = Phencyclidine-induced expression of heat shock protein HSP70 and c-fos in rat brain | journal = Brain Res Mol Brain Res | volume = 29 | issue = 1 | pages = 9–20 | date = March 1995 | pmid = 7783398 | doi = 10.1016/0169-328x(94)00219-s }}</ref>\n*'''[[Effect::Stimulation]]\n*'''[[Effect::Pain relief]]\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Nausea]]'''\n*'''[[Effect::Optical sliding]]'''\n*'''[[Effect::Perception of bodily lightness]]'''\n*'''[[Effect::Physical autonomy]]'''\n*'''[[Effect::Spontaneous physical sensations]]'''\n**'''[[Effect::Physical euphoria]]'''\n*'''[[Effect::Tactile suppression]]'''\n*'''[[Effect::Increased libido]]''' - Notably increased ejaculation strength\n*'''[[Effect::Appetite enhancement]]'''\n*'''[[Effect::Bowel movements]]'''\n\n}}\n{{effects/visual|\n\n====Suppression====\n*'''[[Effect::Double vision]]'''\n*'''[[Effect::Frame rate suppression]]'''\n*'''[[Effect::Pattern recognition suppression]]'''\n*'''[[Effect::Visual acuity suppression]]'''\n\n====Distortions====\n*'''[[Effect::Environmental orbism]]'''\n*'''[[Effect::Perspective distortions]]'''\n*\"'[[Effect::Object Activation]]\"'\n\n====[[Effect::Geometry]]====\n\n====Hallucinatory states====\nAt high doses, PCP can produce a full range of high-level hallucinatory states in a fashion that is less consistent and reproducible than that of many other commonly used [[hallucinogens]]. These effects include:\n\n*'''[[Effect::Internal hallucination]]'''\n*'''[[Effect::External hallucination]]'''\n\n}}\n{{effects/disconnective|\n*'''[[Effect::Cognitive disconnection]]'''\n*'''[[Effect::Physical disconnection]]'''\n*'''[[Effect::Visual Temporal-Spatial-Cognitive Distortion]]''' - PCP has no hole and induces a sense a second is far away but the hour is closer which shift between the vice versa. It produces \"cognizant\" hallucinogenic effects via PCPsite-2 inverse agonism. It is very lucid and realistic and you see shadow people after blinking.\n\n}}\n|{{effects/cognitive|\nThe general head space of PCP is often described as particularly stimulating, euphoric and clear-headed in comparison to that of [[DXM]] and [[ketamine]]. The specific cognitive effects can be broken down into several separate subcomponents which are listed and described below:\n\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Compulsive redosing]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Creativity enhancement]]'''\n*'''[[Effect::Delusion]]'''\n*'''[[Effect::Depersonalization]]\n*'''[[Effect::Derealization]]\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Déjà vu]]'''\n*'''[[Effect::Ego death]]'''\n*'''[[Effect::Ego inflation]]'''\n*'''[[Effect::Feelings of impending doom]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Introspection]]'''\n*'''[[Effect::Mania]]'''\n*'''[[Effect::Memory suppression]]''' \n*'''[[Effect::Psychosis]]''' - This effect is more common on PCP than other dissociatives.<ref name=\"Luisada1978\">{{Citation | vauthors=((Luisada, P. V., M. D.)) | year=1978 | title=“The Phencyclidine Psychosis: Phenomenology and Treatment.” Phencyclidine (PCP) Abuse: An Appraisal. | publisher=National Institute on Drug Abuse | url=https://www.ojp.gov/ncjrs/virtual-library/abstracts/phencyclidine-psychosis-phenomenology-and-treatment-phencyclidine}}</ref><ref name=\"Tasman2015\">{{cite book | vauthors=((Tasman, A.)), ((Kay, J.)), ((Lieberman, J. A.)), ((First, M. B.)), ((Riba, M.)) | date=5 February 2015 | title=Psychiatry | publisher=John Wiley & Sons | isbn=9781118753361}}</ref>\n*'''[[Effect::Suicidal ideation]]'''\n*'''[[Effect::Thought acceleration]]''' & '''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought disorganization]]'''\n*'''[[Effect::Time distortion]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n*'''[[Effect::Auditory suppression]]'''\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:PCP]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_PCP.shtml Erowid Experience Vaults: PCP]\n\n==Toxicity and harm potential==\n{{Further|Responsible use#Hallucinogens}}\nThe long-term use of PCP may lead to schizophrenia-like psychotic episodes, severe lasting memory loss, disorganized thinking, depression, weight loss, liver abnormalities and rhabdomyolysis (skeletal muscle breakdown).<ref name=\"erowid\">{{Citation | title=Erowid PCP (Phencyclidine) Vault : Effects | url=https://www.erowid.org/chemicals/pcp/pcp_effects.shtml}}</ref>\n\nIt is very strongly recommended that one use extreme caution and [[responsible drug use|harm reduction]] practices when using this substance. For example,\n\n*Users should avoid taking the drug multiple days in a row or becoming addicted to it as this increases the risk of severe adverse effects.\n*The recommended dosage range should not be exceeded as high doses can trigger adverse effects.\n*Users should start with extremely low doses and work their way up as slowly as possible. [[Volumetric liquid dosing|Volumetric liquid dosing]] should preferably be used due to the drug's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.\n*[[Compulsive redosing]] before one has fully sobered up is not recommended and can result in too high of a dose.\n\n===Psychosis===\nPCP has been reported to cause [[psychosis]] and mania at a significantly higher rate than other [[dissociative]]s such as [[ketamine]], [[diphenidine]], or [[MXE]]. Multiple scientific papers describe states of psychosis, mania, and/or delirium occurring after moderate to large doses of the drug were ingested. \n\nIn one initial human trial, it was reported that one-sixth of the patients who had received anesthetic doses experienced acute psychosis.<ref name=\"Luisada1978\" /> In some cases, it took up to a week or more to resolve. Similar results (although less severe) were reported during trials using subanesthetic doses of PCP for pain relief.<ref name=\"two\">Tasman, Allan, Jerald Kay, and Jeffrey A. Lieberman. Psychiatry. Chichester: John Wiley & Sons, 2003. Google Books. Wiley. Web. <https://books.google.com/books?id=l2KRBgAAQBAJ&pg=PT4957&lpg=PT4957&dq=Greifenstein+et+al.+1958%29.&source=bl&ots=s5CFdAfMzc&sig=GzsOq_N-V1qtahxyyHnKMJceEj0&hl=en&sa=X&ved=0ahUKEwji0pWTjNLKAhUBaD4KHTfqD0sQ6AEIHDAA#v=onepage&q=Greifenstein%20et%20al.%201958%29.&f=false>.</ref> \n\nDue to the risk of psychosis, it is not recommended to combine this substance with other substances, especially [[stimulant|stimulants]], [[psychedelic|psychedelics]], or other [[dissociative|dissociatives]] like [[MXE]] and [[DXM]].\n\n===Neurological effects===\nSome studies found that, like other [[NMDA receptor antagonist|NMDA receptor antagonists]], PCP can cause brain damage called [https://en.wikipedia.org/wiki/Olney%27s_lesions Olney's lesions] in rats.<ref>{{cite journal | vauthors=((Olney, J. W.)), ((Labruyere, J.)), ((Price, M. T.)) | journal=Science (New York, N.Y.) | title=Pathological changes induced in cerebrocortical neurons by phencyclidine and related drugs | volume=244 | issue=4910 | pages=1360–1362 | date=16 June 1989 | issn=0036-8075 | doi=10.1126/science.2660263}}</ref><ref>{{cite journal | vauthors=((Hargreaves, R. J.)), ((Hill, R. G.)), ((Iversen, L. L.)) | journal=Acta Neurochirurgica. Supplementum | title=Neuroprotective NMDA antagonists: the controversy over their potential for adverse effects on cortical neuronal morphology | volume=60 | pages=15–19 | date= 1994 | doi=10.1007/978-3-7091-9334-1_4}}\n</ref> Studies conducted on rats showed that high doses of the NMDA receptor antagonist dizocilpine caused reversible vacuoles to form in certain regions of the rats' brains. All studies of Olney's lesions have only been performed on non-human animals and may not apply to humans. \n\nOne unpublished study by Frank Sharp reportedly showed no damage by the NMDA antagonist [[ketamine]] (a similar drug) far beyond recreational doses<ref>{{cite book | vauthors=((Grof, S.)) | date= 2010 | title=The ultimate journey: consciousness and the mystery of death | publisher=MAPS | edition=2. ed | isbn=9780966001976}}</ref> but its validity is controversial since it was never published.\n\nPCP has also been shown to cause schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate levels in the rat brain, which are detectable both in living rats and upon necropsy examination of brain tissue.<ref>{{cite journal | vauthors=((Reynolds, L. M.)), ((Cochran, S. M.)), ((Morris, B. J.)), ((Pratt, J. A.)), ((Reynolds, G. P.)) | journal=Schizophrenia Research | title=Chronic phencyclidine administration induces schizophrenia-like changes in N-acetylaspartate and N-acetylaspartylglutamate in rat brain | volume=73 | issue=2–3 | pages=147–152 | date=1 March 2005 | issn=0920-9964 | doi=10.1016/j.schres.2004.02.003}}</ref> It also induces symptoms in humans that mimic schizophrenia.<ref>{{cite journal | vauthors=((Murray, J. B.)) | journal=The Journal of Psychology | title=Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research | volume=136 | issue=3 | pages=319–327 | date= May 2002 | issn=0022-3980 | doi=10.1080/00223980209604159}}</ref>\n\n===Urinary tract effects===\nIn terms of its long-term health effects when used repeatedly and excessively for extended periods of time, PCP seems to exhibit almost identical bladder and urinary tract problems to those produced by [[ketamine]].\n\n*'''Urinary frequency''' - Urinary frequency is the need to empty the bladder every few minutes.\n*'''Urinary urgency''' - This can be described as a sudden, compelling need to urinate.\n*'''Urinary pressure''' - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.\n*'''Pelvic and bladder pain''' - Pain can develop suddenly and severely, particularly as the bladder fills with urine.\n*'''Hematuria''' - Hematuria is visible blood in the urine.\n*'''Incontinence''' - This is the uncontrolled leakage of urine.\n\n===Dependence and abuse potential===\nThe chronic use of PCP can be considered [[Addiction potential::highly addictive with a high potential for adverse side effects such as psychosis]]. In comparison to other [[dissociative]]s, PCP has been reported to be more addictive than [[MXE]], [[diphenidine]], [[ephenidine]], and [[ketamine]]. \n\nWhen addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.\n\nTolerance to many of the effects of PCP develops [[Time to full tolerance::with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). PCP presents cross-tolerance with [[Cross-tolerance::all [[dissociative|dissociatives]]]], meaning that after the consumption of PCP, all [[dissociative|dissociatives]] will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n\n*'''[[UncertainInteraction::MXE]]''' - There are no reports available about this combination.\n*'''[[UncertainInteraction::Caffeine]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[UncertainInteraction::Opioids]]''' - PCP can reduce opioid tolerance, increasing the risk of overdose.\n*'''[[UnsafeInteraction::DOx]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[UnsafeInteraction::Amphetamines]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::MDMA]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::Cocaine]]''' - This combination can easily lead to hypermanic states.\n*'''[[UnsafeInteraction::Alcohol]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[UnsafeInteraction::Benzodiazepines]]''' - Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.\n*'''[[UnsafeInteraction::SSRIs]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::2C-T-x]]'''\n*'''[[DangerousInteraction::ΑMT]]'''\n*'''[[DangerousInteraction::5-MeO-xxT]]'''\n*'''[[DangerousInteraction::DXM]]'''\n*'''[[DangerousInteraction::GHB]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::GBL]]''' - Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.\n*'''[[DangerousInteraction::Tramadol]]'''\n*'''[[DangerousInteraction::MAOIs]]''' - Little information exists about this combination.\n\n==Legal status==\nInternationally, PCP is a Schedule II substance under the Convention on Psychotropic Substances.<ref>{{cite web|archive-url=http://web.archive.org/web/20070302130637/http://www.incb.org/pdf/e/list/green.pdf|url=http://www.incb.org/pdf/e/list/green.pdf|archive-date=March 2, 2007|title=List of psychotropic substances under international control (Green List)|edition=23rd|date=August 2003|publisher=International Narcotics Control Board (INCB)}}</ref>\n\n*'''Austria''' - PCP is illegal to possess, produce and sell under the SMG (Suchtmittelgesetz Österreich).{{Citation needed}}\n*'''Canada''' - PCP is controlled under the Controlled Drugs and Substances Act as a Schedule I substance.<ref>{{Citation | vauthors=((Branch, L. S.)) | year=2022 | title=Consolidated federal laws of Canada, Controlled Drugs and Substances Act | url=https://laws-lois.justice.gc.ca/eng/acts/C-38.8/page-13.html#h-95315}}</ref>\n*'''Czech Republic''': PCP is a Schedule II <ref>https://eur-lex.europa.eu/resource.html?uri=cellar:6b5e9beb-1d9b-11ea-95ab-01aa75ed71a1.0001.02/DOC_1&format=PDF</ref> (List 5) substance. Sold exclusively with a prescription \"marked with a blue stripe running from the lower left corner to the upper right corner\" (§ 1, e), 2. of ''Nařízení vlády č. 463/2013 Sb.'') <ref>https://www.zakonyprolidi.cz/cs/2013-463</ref>\n*'''Germany''' - PCP is controlled under BtMG Anlage I, making it illegal to manufacture, import, possess, sell, or transfer it without a license.<ref>{{Citation | title=Anlage I BtMG - Einzelnorm | url=http://www.gesetze-im-internet.de/btmg_1981/anlage_i.html}}</ref>\n*'''New Zealand''' - PCP is Schedule I (class A) in New Zealand.{{citation needed}}\n*'''Poland''' - PCP is listed under \"Wykaz środków odurzających i substancji psychotropowych[\" (II-P group) in Poland, and is illegal to posses, sell and manufacture.<ref>{Citation | year=2022 | title=Wykaz środków odurzających i substancji psychotropowych | url=https://pl.wikipedia.org/w/index.php?title=Wykaz_%C5%9Brodk%C3%B3w_odurzaj%C4%85cych_i_substancji_psychotropowych&oldid=67226458}}</ref>\n*'''Portugal''' - PCP is a Table-II-A substance under Decree-Law 15/93: Anti-Drug Legislation. PCP was decriminalized for personal use by Law 30/2000, but consumption or possession is still prohibited. The substance is liable to be seized and the possessor can be referred to mandatory treatment.<ref>Decree-Law 15/93: Anti-Drug Legislation <nowiki>https://www.imolin.org/doc/amlid/Portugal_Decree-Law</nowiki> 15 of 1993_Anti-Drug Legislation.pdf#page=35</ref><ref>Decree-Law 15/93: Anti-Drug Legislation https://www.imolin.org/doc/amlid/Portugal_Decree-Law%2015%20of%201993_Anti-Drug%20Legislation.pdf#page=21</ref>\n*'''Switzerland:''' - PCP is a controlled substance specifically named under Verzeichnis A. Medicinal use is permitted.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''' - PCP is controlled under the Misuse of Drugs Act as a Schedule II Class A drug, making it illegal to possess without a prescription.<ref>{{Citation | vauthors=((Participation, E.)) | title=Misuse of Drugs Act 1971 | url=https://www.legislation.gov.uk/ukpga/1971/38/schedule/2}}</ref>\n*'''United States '''- PCP is controlled under the Controlled Substances Act as a Schedule II controlled substance, making it illegal to possess without a prescription.<ref>Drug Enforcement Administration. (2021, August 27). Orange Book. https://www.deadiversion.usdoj.gov/schedules/orangebook/e_cs_sched.pdf#page=11</ref><ref>Drug Enforcement Administration. (2020, March). PHENCYCLIDINE. https://www.deadiversion.usdoj.gov/drug_chem_info/pcp.pdf</ref>\n\n==See also==\n\n*[[Responsible use]]\n**[[Volumetric dosing]]\n*[[Dissociative]]\n*[[Phencyclidines]]\n*[[3-MeO-PCP]]\n*[[MXE]]\n*[[PCE]]\n*[[DXM]]\n*[[Ketamine]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Phencyclidine PCP (Wikipedia)]\n*[https://www.erowid.org/chemicals/pcp/ PCP (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=11011 PCP (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB03575 PCP (DrugBank)]\n*[https://www.drugs.com/illicit/pcp.html PCP (Drugs.com)]\n*[https://drugs-forum.com/wiki/Phencyclidine PCP (Drugs-Forum)]\n\n===Forums===\n\n*[http://www.bluelight.org/vb/threads/316953-The-Big-amp-Dandy-PCP-Thread PCP (Bluelight)]\n\n==Literature==\n\n*Morris, H., & Wallach, J. (2014). From PCP to MXE: A comprehensive review of the non-medical use of dissociative drugs. Drug Testing and Analysis, 6(7–8), 614–632. https://doi.org/10.1002/dta.1620\n\n==References==\n{{reflist|2}}\n\n[[Category:Arylcyclohexylamine]]\n[[Category:Piperidine]]\n[[Category:Dissociative]]\n\n{{#set:Featured=true}}"
+}

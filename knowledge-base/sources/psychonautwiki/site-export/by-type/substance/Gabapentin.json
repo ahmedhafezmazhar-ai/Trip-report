@@ -1,0 +1,316 @@
+{
+ "id": "psychonautwiki:9818",
+ "type": "substance",
+ "title": "Gabapentin",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Gabapentin",
+  "pageid": 9818,
+  "last_edited": "2025-11-29T03:53:20Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Anxiolytics",
+  "Articles with unsourced statements",
+  "Cycloalkylamine",
+  "Depressant",
+  "Gabapentinoid",
+  "Gamma-Amino acid",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Gabapentin",
+ "substance_box": {
+  "names": {
+   "common": "Gabapentin, Neurontin, Gabarone, Gralise",
+   "substitutive": "Gabapentin",
+   "systematic": "1-(Aminomethyl)cyclohexaneacetic acid"
+  },
+  "classes": {
+   "psychoactive": "Depressant",
+   "chemical": "Gabapentinoid"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "27% - 60%",
+    "threshold": "200 mg",
+    "light": "200 - 900 mg",
+    "common": "900 - 1500 mg",
+    "strong": "1500 - 2400 mg",
+    "heavy": "2400 mg +",
+    "duration": "6 - 10 hours",
+    "onset": "30 - 120 minutes",
+    "peak": "120 - 180 minutes",
+    "offset": "",
+    "aftereffects": "",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Gabapentin",
+    "Neurontin",
+    "Gabarone",
+    "Gralise"
+   ],
+   "Oral min bioavailability": [
+    "27"
+   ],
+   "Oral max bioavailability": [
+    "60"
+   ],
+   "Oral threshold dose": [
+    "200"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "200"
+   ],
+   "Oral max light dose": [
+    "900"
+   ],
+   "Oral min common dose": [
+    "900"
+   ],
+   "Oral max common dose": [
+    "1500"
+   ],
+   "Oral min strong dose": [
+    "1500"
+   ],
+   "Oral max strong dose": [
+    "2400"
+   ],
+   "Oral heavy dose": [
+    "2400"
+   ],
+   "Oral min total time": [
+    "6"
+   ],
+   "Oral max total time": [
+    "10"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "30"
+   ],
+   "Oral max onset time": [
+    "120"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "120"
+   ],
+   "Oral max peak time": [
+    "180"
+   ],
+   "Oral peak time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of gabapentin",
+   "clean": "Molecular structure of gabapentin"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Gabapentin.svg",
+   "clean": "File:Gabapentin.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "NameCommon": {
+   "raw": "[[common name::Gabapentin]], [[common name::Neurontin]], [[common name::Gabarone]], [[common name::Gralise]]",
+   "clean": "Gabapentin, Neurontin, Gabarone, Gralise"
+  },
+  "NameSubstitution": {
+   "raw": "Gabapentin",
+   "clean": "Gabapentin"
+  },
+  "NameSystematic": {
+   "raw": "1-(Aminomethyl)cyclohexaneacetic acid",
+   "clean": "1-(Aminomethyl)cyclohexaneacetic acid"
+  },
+  "EffectClass": {
+   "raw": "[[Depressant]]",
+   "clean": "Depressant"
+  },
+  "ChemicalClass": {
+   "raw": "[[Gabapentinoid]]",
+   "clean": "Gabapentinoid"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::27]]% - [[Oral max bioavailability::60]]%<ref name=\"NeurotoninMedScape\">{{Citation | title=Neurontin, Gralise (gabapentin) dosing, indications, interactions, adverse effects, and more | url=https://reference.medscape.com/drug/neurontin-gralise-gabapentin-343011}}</ref>",
+   "clean": "27% - 60%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::200]] [[Oral dose units::mg]]",
+   "clean": "200 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::200]] - [[Oral max light dose::900]] mg",
+   "clean": "200 - 900 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::900]] - [[Oral max common dose::1500]] mg",
+   "clean": "900 - 1500 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::1500]] - [[Oral max strong dose::2400]] mg",
+   "clean": "1500 - 2400 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::2400]] mg +",
+   "clean": "2400 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::6]] - [[Oral max total time::10]] [[Oral total time units::hours]]",
+   "clean": "6 - 10 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::30]] - [[Oral max onset time::120]] [[Oral onset time units::minutes]]",
+   "clean": "30 - 120 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::120]] - [[Oral max peak time::180]] [[Oral peak time units::minutes]]",
+   "clean": "120 - 180 minutes"
+  },
+  "OralROA_Offset": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Aftereffects": {
+   "raw": "",
+   "clean": ""
+  }
+ },
+ "plain_text": "Gabapentin (also known as Neurontin) is a depressant substance of the gabapentinoid class. It is a structural analog of the neurotransmitter GABA and acts by inhibiting certain calcium channels in the brain, namely α2δ subunit-containing voltage-dependent calcium channels (VGCCs).\n\nGabapentin was originally developed to treat epilepsy and is currently FDA approved to treat postherpetic neuralgia in adults and as an adjunctive therapy in the treatment of partial onset seizures. It is often prescribed off-label for restless leg syndrome, social anxiety disorder, panic disorder, and generalized anxiety disorder. \n\nHowever Gabapentin's efficacy in the treatment of anxiety disorders is unclear as the evidence is \"somewhat mixed\". It is recommended as a first line agent for the treatment of neuropathic pain arising from diabetic neuropathy, post-herpetic neuralgia, and central neuropathic pain.\n\nSubjective effects include mild to moderate anxiety suppression, pain relief, and muscle relaxation. Its analgesic and anxiolytic effects provide gabapentin with some recreational potential in a manner that can be compared to a mild benzodiazepine. However, these recreational effects are reported to diminish quickly with repeated usage and are typically reported by those who do not have a tolerance to this compound.\n\nGabapentin is considered to have low abuse potential compared to most recreational depressants. However, chronic use can lead to physical dependence. Additionally, there is a increased risk of fatal overdose when it is combined with other depressants (a somewhat common practice considering its weak effects). It is highly advised to use harm reduction practices if using this substance.\n\nChemistry\n\nGabapentin is a 3,3-disubstituted derivative of GABA. Therefore, it is a GABA analogue, as well as a γ-amino acid. Specifically, it is a derivative of GABA with a pentyl disubstitution at 3 position, hence, the name - gabapentin, in such a way as to form a six-membered ring. After formation of the ring, the amine and carboxylic groups are not in the same relative positions as they are in the GABA:. they are more conformationally constrained.\n\nGabapentin, or 1-(aminomethyl)cyclohexylacetic acid, is an analogue of the neurotransmitter GABA. It contains a cyclohexane ring bound to a methylamino chain CH3NH2. At the same location, R1, the cyclohexane ring is also substituted with an acetic acid group. Gabapentin is structurally analogous to GABA. GABA contains an amino group bound to the terminal carbon of a butanoic acid chain. The structure of gabapentin contains the secondary carbon R3 of the butanoic acid chain in GABA incorporated into an attached cyclohexane ring, converting it into a tertiary carbon while still maintaining the chain.\n\nPharmacology\n\nGabapentin modulates the action of glutamate decarboxylase (GAD) and branched-chain aminotransferase (BCAT), two enzymes involved in GABA biosynthesis. In human and rat studies, gabapentin was found to increase GABA biosynthesis, and to increase non-synaptic GABA neurotransmission in vitro. As the GABA system is the most prolific inhibitory receptor set within the brain, its increase in biosynthesis results in the sedating and anxiolytic (or calming effects) of gabapentin on the nervous system.\n\nAnother study based on magnetic resonance imaging done at 7 Tesla confirms that Gabapentin appears to increase cerebral GABA concentrations acutely, in vivo, by up to 79% from baseline.\n\nGabapentin, as a gabapentinoid, has also been shown to bind to the α2δ-1 subunit of Voltage-Gated Calcium Channels to act as a VGCC blocker, which contributes to its inhibitory, analgesic, and anxiolytic effects. It is uncertain exactly how this method of action contributes to gabapentin's psychoactive effects.\n\nThe bioavailability of gabapentin is relatively low and is inversely proportional to the dose (i.e. higher doses have lower bioavailability than lower doses). The bioavailability of gabapentin is approximately 60%, 47%,\n34%, 33%, and 27% following 900, 1200, 2400, 3600, and 4800 mg/day, given in divided doses of one pill per every 8 hours. Gabapentin is highly lipophilic, making unsaturated fats such as vegetable oil and olive oil significantly boost the total amount of absorption. This means that eating a high fat meal substantially increases gabapentin's bioavailability, due to the fact that unsaturated fats bind to gabapentin to allow for absorption, and that meals slow down and thus increase gabapentin absorption by decreasing gabapentin transporter saturation. \n\nGabapentin transporter saturation occurs when large enough doses of gabapentin are consumed in a short enough period of time to result in the body being unable to absorb any more gabapentin, causing a significant reduction in bioavailability, which largely accounts for the drop in bioavailability seen with increasing doses.\n\nGabapentin is a potent activator of voltage-gated potassium channels KCNQ3 and KCNQ5, even at low nanomolar concentrations. However, this activation is unlikely to be the dominant mechanism of gabapentin's therapeutic effects.\n\nSubjective effects\n\nThe decreasing bioavailability of gabapentin can be lessened by taking lower doses more often instead of higher doses less frequently. As a general rule, using any more than 250-300 mg of gabapentin every 30-45 minutes will result in wasting a significant portion of the total dose of gabapentin, although this number varies depending on the individual. Alkaline environments inhibit the absorption of gabapentin, so lowering the pH of one's stomach using acidic substances (such as soft drinks) will boost bioavailability as well. It is generally not recommended to take antacids 2 hours before or after taking gabapentin, because although not dangerous, it will severely lower the total absorption of gabapentin.\n\n                                                                        \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Gabapentin\n\nToxicity and harm potential\n\n300px|thumbnail|This document, provided with prescription gabapentin, contains detailed information regarding its toxicity and harm potential.\nGABApentin has a low toxicity relative to dose. The most common side effects of gabapentin in adult patients include dizziness, fatigue, drowsiness, weight gain, and peripheral edema (swelling of extremities). Gabapentin may also produce sexual dysfunction in some patients whose symptoms of which may include loss of libido, inability to reach orgasm, and erectile dysfunction. Gabapentin should be used carefully in patients with renal impairment due to possible accumulation and toxicity.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nSuicide\n\nIn 2009, the U.S. Food and Drug Administration issued a warning of an increased risk of depression and suicidal thoughts and behaviors in patients taking gabapentin (along with other anticonvulsant drugs), modifying the packaging insert to reflect this. A 2010 meta-analysis confirmed the increased risk of suicide associated with gabapentin use.\n\nIn 2010, a study conducted by Patorno E, Bohn RL, Wahl PM, et al, found that the use of gabapentin compared to the use of topiramate may be associated with an increase in suicidal acts and or violent deaths.\n\nIt should be noted that in both studies along with others that the patients evaluated had a higher suicide risk and the studies were both limited and imprecise.\n\nLethal dosage\n\nPeople who accidentally or intentionally overdose may experience drowsiness, sedation, blurred vision, slurred speech, somnolence and possibly death (if a very high amount was taken and particularly if combined with alcohol). Serum gabapentin concentrations may be measured to confirm diagnosis.\n\nDependence and abuse potential\n\nGabapentin is not considered psychologically addictive. However, it is possible to develop a physical dependence on the drug. In fact, people can experience withdrawal symptoms for up to 45 days after they stop taking gabapentin. Although gabapentin does give some people a euphoric “high” which can cause abuse, gabapentin abusers do not present with the kind of compulsive, drug-seeking behavior or strong cravings associated with other more common depressants such as opioids, alcohol or benzodiazepines.\n\nTolerance will develop to the anxiolytic effects with prolonged continuous usage. After cessation, the tolerance returns to baseline in 7-14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction.\n\nDangerous interactions\n\n*Opioids - Combining opioids with gabapentin can cause death from respiratory failure.\n*Depressants (GABAergic) - Gabapentin significantly potentiates the effects of alcohol, benzodiazepines and other GABAergics which may lead to blackouts, and dangerous behaviour.\n\nLegal status\n\nGabapentin is a prescription-only medicine and can only be prescribed following a consultation with a doctor.\n\n*Germany: Gabapentin is a prescription medicine, according to Anlage 1 AMVV.\n*Switzerland: Gabapentin is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.\n*United Kingdom: Gabapentin is available as a prescription.\n*United States: Gabapentin is not a scheduled substance but may only be sold with prescription.\n**Exceptions: Gabapentin is a Schedule 5 controlled substance in: Alabama, Kentucky, Michigan, North Dakota, Tennessee, Virginia, and West Virginia. With prescription drug monitoring in: Connecticut, District of Columbia, Indiana, Kansas, Massachusetts, Minnesota, Nebraska, New Jersey, Ohio, Oregon, Utah, and Wyoming.\n\nSee also\n\n*Responsible use\n*Depressants\n*Benzodiazepines\n*GABA\n*Pregabalin\n*Phenibut\n\nExternal links\n\n*Gabapentin (Wikipedia)\n*Gabapentin (Erowid Vault)\n*Gabapentin (Isomer Design)\n*Gabapentin (DrugBank)\n*Gabapentin (Drugs.com)\n*Gabapentin (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Cycloalkylamine\nCategory:Gamma-Amino acid\nCategory:Depressant\nCategory:Anxiolytics\nCategory:Gabapentinoid",
+ "wikitext": "{{headerpanel|{{DepressantOD|gabapentinoids}}}}\n{{SummarySheet}}\n{{SubstanceBox/Gabapentin}}\n'''Gabapentin''' (also known as '''Neurontin''') is a [[psychoactive class::depressant]] substance of the [[chemical class::gabapentinoid]] class. It is a structural analog of the [[neurotransmitter]] [[GABA]] and acts by inhibiting certain calcium channels in the brain, namely α2δ subunit-containing voltage-dependent calcium channels (VGCCs).<ref name=\"CalandreRico-Villademoros2016\">{{cite journal|last1=Calandre|first1=Elena P.|last2=Rico-Villademoros|first2=Fernando|last3=Slim|first3=Mahmoud|title=Alpha2delta ligands, gabapentin, pregabalin and mirogabalin: a review of their clinical pharmacology and therapeutic use|journal=Expert Review of Neurotherapeutics|volume=16|issue=11|year=2016|pages=1263–1277|issn=1473-7175|doi=10.1080/14737175.2016.1202764}}</ref>\n\nGabapentin was originally developed to treat epilepsy and is currently FDA approved to treat postherpetic neuralgia in adults and as an adjunctive therapy in the treatment of partial onset seizures. It is often prescribed off-label for [[restless leg syndrome]], social anxiety disorder, panic disorder, and generalized anxiety disorder.<ref>{{cite book | vauthors=((Schatzberg, A. F.)), ((Cole, J. O.)), ((DeBattista, C.)) | date= 2010 | title=Manual of Clinical Psychopharmacology | publisher=American Psychiatric Pub. | isbn=9781585623778}}</ref><ref>{{cite book | vauthors=((Sobel, S. V.)) | date=5 November 2012 | title=Successful Psychopharmacology: Evidence-Based Treatment Solutions for Achieving Remission | publisher=W. W. Norton & Company | isbn=9780393708578}}</ref><ref>{{cite book | vauthors=((Richards, D.)), ((Aronson, J.)), ((Coleman, J.)), ((Reynolds, D. J.)) | date=10 November 2011 | title=Oxford Handbook of Practical Drug Therapy | publisher=OUP Oxford | isbn=9780199562855}}</ref> \n\nHowever Gabapentin's efficacy in the treatment of anxiety disorders is unclear as the evidence is \"somewhat mixed\".<ref>{{cite journal | vauthors=((Mula, M.)), ((Pini, S.)), ((Cassano, G. B.)) | journal=Journal of Clinical Psychopharmacology | title=The role of anticonvulsant drugs in anxiety disorders: a critical review of the evidence | volume=27 | issue=3 | pages=263–272 | date= June 2007 | issn=0271-0749 | doi=10.1097/jcp.0b013e318059361a}}</ref><ref>{{cite journal | vauthors=((Hamer, A. M.)), ((Haxby, D. G.)), ((McFarland, B. H.)), ((Ketchum, K.)) | journal=Journal of Managed Care Pharmacy | title=Gabapentin Use in a Managed Medicaid Population | volume=8 | issue=4 | pages=266–271 | date= July 2002 | url=https://www.jmcp.org/doi/abs/10.18553/jmcp.2002.8.4.266 | issn=1083-4087 | doi=10.18553/jmcp.2002.8.4.266}}</ref><ref>{{cite journal | vauthors=((Steinman, M. A.)), ((Bero, L. A.)), ((Chren, M.-M.)), ((Landefeld, C. S.)) | journal=Annals of Internal Medicine | title=Narrative Review: The Promotion of Gabapentin: An Analysis of Internal Industry Documents | volume=145 | issue=4 | pages=284–293 | date=15 August 2006 | url=https://www.acpjournals.org/doi/10.7326/0003-4819-145-4-200608150-00008 | issn=0003-4819 | doi=10.7326/0003-4819-145-4-200608150-00008}}</ref><ref>{{cite journal | vauthors=((Wijemanne, S.)), ((Jankovic, J.)) | journal=Sleep Medicine | title=Restless legs syndrome: clinical presentation diagnosis and treatment | volume=16 | issue=6 | pages=678–690 | date=1 June 2015 | url=https://www.sciencedirect.com/science/article/pii/S1389945715006474 | issn=1389-9457 | doi=10.1016/j.sleep.2015.03.002}}</ref> It is recommended as a first line agent for the treatment of neuropathic pain arising from diabetic neuropathy, post-herpetic neuralgia, and central neuropathic pain.<ref>{{cite journal | vauthors=((Attal, N.)), ((Cruccu, G.)), ((Baron, R.)), ((Haanpää, M.)), ((Hansson, P.)), ((Jensen, T. S.)), ((Nurmikko, T.)) | journal=European Journal of Neurology | title=EFNS guidelines on the pharmacological treatment of neuropathic pain: 2010 revision | volume=17 | issue=9 | pages=1113-e88 | date= September 2010 | issn=1468-1331 | doi=10.1111/j.1468-1331.2010.02999.x}}</ref>\n\n[[Subjective effects]] include mild to moderate [[anxiety suppression]], [[pain relief]], and [[muscle relaxation]]. Its analgesic and anxiolytic effects provide gabapentin with some recreational potential in a manner that can be compared to a mild [[benzodiazepine]]. However, these recreational effects are reported to diminish quickly with repeated usage and are typically reported by those who do not have a tolerance to this compound.\n\nGabapentin is considered to have low abuse potential compared to most recreational depressants. However, chronic use can lead to physical dependence. Additionally, there is a increased risk of fatal overdose when it is combined with other [[depressants]] (a somewhat common practice considering its weak effects). It is highly advised to use [[harm reduction practices]] if using this substance.\n\n==Chemistry==\nGabapentin is a 3,3-disubstituted derivative of GABA. Therefore, it is a GABA analogue, as well as a γ-amino acid.<ref>{{cite book | vauthors=((Wyllie, E.)) | date= 2012 | title=Wyllie’s treatment of epilepsy: principles and practice. | isbn=9781451153484}}</ref> Specifically, it is a derivative of GABA with a pentyl disubstitution at 3 position, hence, the name - gaba''pentin'', in such a way as to form a six-membered ring. After formation of the ring, the amine and carboxylic groups are not in the same relative positions as they are in the GABA:.<ref>{{cite book | vauthors=((Sneader, W.)) | date= 2005 | title=Drug Discovery A History | url=https://nbn-resolving.org/urn:nbn:de:101:1-201412158328 | isbn=9780470015520}}</ref> they are more conformationally constrained.<ref>{{cite journal | vauthors=((Levandovskiy, I. A.)), ((Sharapa, D. I.)), ((Shamota, T. V.)), ((Rodionov, V. N.)), ((Shubina, T. E.)) | journal=Future Medicinal Chemistry | title=Conformationally restricted GABA analogs: from rigid carbocycles to cage hydrocarbons | volume=3 | issue=2 | pages=223–241 | date= February 2011 | url=https://www.future-science.com/doi/10.4155/fmc.10.287 | issn=1756-8919 | doi=10.4155/fmc.10.287}}</ref>\n\nGabapentin, or 1-(aminomethyl)cyclohexylacetic acid, is an analogue of the neurotransmitter [[GABA]]. It contains a cyclohexane ring bound to a methylamino chain CH<sub>3</sub>NH<sub>2</sub>. At the same location, R<sub>1</sub>, the cyclohexane ring is also substituted with an acetic acid group. Gabapentin is structurally analogous to GABA. GABA contains an amino group bound to the terminal carbon of a butanoic acid chain. The structure of gabapentin contains the secondary carbon R<sub>3</sub> of the butanoic acid chain in GABA incorporated into an attached cyclohexane ring, converting it into a tertiary carbon while still maintaining the chain.\n\n==Pharmacology==\nGabapentin modulates the action of [[glutamate]] decarboxylase (GAD) and branched-chain aminotransferase (BCAT), two enzymes involved in [[GABA]] biosynthesis. In human and rat studies, gabapentin was found to increase GABA biosynthesis, and to increase non-synaptic GABA neurotransmission in vitro.<ref>{{cite journal | vauthors=((Taylor, C. P.)) | journal=Revue Neurologique | title=Mechanisms of action of gabapentin | volume=153 Suppl 1 | pages=S39-45 | date= 1997 | issn=0035-3787}}</ref> As the GABA system is the most prolific inhibitory receptor set within the brain, its increase in biosynthesis results in the [[sedating]] and [[Anxiety_suppression|anxiolytic]] (or [[Anxiety suppression|calming effects]]) of gabapentin on the nervous system.\n\nAnother study<ref>{{cite journal | vauthors=((Cai, K.)), ((Nanga, R. P.)), ((Lamprou, L.)), ((Schinstine, C.)), ((Elliott, M.)), ((Hariharan, H.)), ((Reddy, R.)), ((Epperson, C. N.)) | journal=Neuropsychopharmacology | title=The Impact of Gabapentin Administration on Brain GABA and Glutamate Concentrations: A 7T 1H-MRS Study | volume=37 | issue=13 | pages=2764–2771 | date= December 2012 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3499716/ | issn=0893-133X | doi=10.1038/npp.2012.142}}</ref> based on magnetic resonance imaging done at 7 Tesla confirms that Gabapentin appears to increase cerebral GABA concentrations acutely, in vivo, by up to 79% from baseline.\n\nGabapentin, as a gabapentinoid, has also been shown to bind to the α2δ-1 subunit of Voltage-Gated Calcium Channels to act as a VGCC blocker, which contributes to its inhibitory, analgesic, and anxiolytic effects.<ref>{{cite journal | vauthors=((Sills, G. J.)) | journal=Current Opinion in Pharmacology | title=The mechanisms of action of gabapentin and pregabalin | volume=6 | issue=1 | pages=108–113 | date= February 2006 | issn=1471-4892 | doi=10.1016/j.coph.2005.11.003}}</ref> It is uncertain exactly how this method of action contributes to gabapentin's psychoactive effects.\n\nThe bioavailability of gabapentin is relatively low and is inversely proportional to the dose (i.e. higher doses have lower bioavailability than lower doses). The bioavailability of gabapentin is approximately 60%, 47%,\n34%, 33%, and 27% following 900, 1200, 2400, 3600, and 4800 mg/day, given in divided doses of one pill per every 8 hours.<ref>Neurontin Clinical Pharmacology Biopharmaceutics Review | http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-397.pdf_Neurontin_BioPharmr.pdf</ref> Gabapentin is highly lipophilic, making unsaturated fats such as vegetable oil and olive oil significantly boost the total amount of absorption. This means that eating a high fat meal substantially increases gabapentin's bioavailability, due to the fact that unsaturated fats bind to gabapentin to allow for absorption, and that meals slow down and thus increase gabapentin absorption by decreasing gabapentin transporter saturation.<ref name=\"NeurotoninMedScape\">{{Citation | title=Neurontin, Gralise (gabapentin) dosing, indications, interactions, adverse effects, and more | url=https://reference.medscape.com/drug/neurontin-gralise-gabapentin-343011}}</ref> \n\nGabapentin transporter saturation occurs when large enough doses of gabapentin are consumed in a short enough period of time to result in the body being unable to absorb any more gabapentin, causing a significant reduction in bioavailability, which largely accounts for the drop in bioavailability seen with increasing doses.\n\nGabapentin is a potent activator of voltage-gated potassium channels KCNQ3 and KCNQ5, even at low nanomolar concentrations. However, this activation is unlikely to be the dominant mechanism of gabapentin's therapeutic effects.<ref>{{cite journal | vauthors=((Manville, R. W.)), ((Abbott, G. W.)) | journal=Molecular Pharmacology | title=Gabapentin Is a Potent Activator of KCNQ3 and KCNQ5 Potassium Channels | volume=94 | issue=4 | pages=1155–1163 | date=1 October 2018 | url=https://molpharm.aspetjournals.org/content/94/4/1155 | issn=0026-895X | doi=10.1124/mol.118.112953}}</ref>\n\n==Subjective effects==\nThe decreasing bioavailability of gabapentin can be lessened by taking lower doses more often instead of higher doses less frequently. As a general rule, using any more than 250-300 mg of gabapentin every 30-45 minutes will result in wasting a significant portion of the total dose of gabapentin, although this number varies depending on the individual. Alkaline environments inhibit the absorption of gabapentin, so lowering the pH of one's stomach using acidic substances (such as soft drinks) will boost bioavailability as well. It is generally not recommended to take antacids 2 hours before or after taking gabapentin, because although not dangerous, it will severely lower the total absorption of gabapentin.<ref>{{Citation | title=gabapentin, Michigan Medicine | url=https://www.uofmhealth.org/health-library/d03182a1}}</ref>\n\n{{Preamble/SubjectiveEffects}}                                                                        \n\n{{effects/base\n\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Gabapentin is typically mildly sedating and can produce a lethargic state. At higher doses, it may lead to a moderately sedated state.\n*'''[[Effect::Appetite enhancement]]''' - Appetite enhancement is not particularly prominent, but is sometimes reported. It can have a synergistic effect when combined with [[cannabis]].\n*'''[[Effect::Muscle relaxation]]''' - Muscle relaxation is present on gabapentin, although not to the extent of [[benzodiazepines]], [[barbiturates]], or [[GHB]].\n*'''[[Effect::Physical euphoria]]''' - Gabapentin is capable of producing weak to moderate states of physical euphoria in some users. However, it is very inconsistent compared to other depressants (e.g. [[benzodiazepines]], [[opioids]], and [[GHB]]) and tolerance builds rapidly. As a result, it is considered to be a poor euphoriant. \n*'''[[Effect::Decreased libido]]''' - Many users note a marked decrease in their sex drive when taking gabapentin. This can happen when it is taken both recreationally or as prescribed.\n*'''[[Effect::Perception of bodily lightness]]''' - Some users report feeling lighter at very high doses.\n*'''[[Effect::Dizziness]]''' - Dizziness is prevalent at higher doses, although many users report that it is not necessarily distressing. However, users should be careful not to slip and fall when walking down slopes or stairs. \n*'''[[Effect::Seizure suppression]]'''{{citation needed}} - Gabapentin is commonly used as an anticonvulsant. It is often combined with other anticonvulsants when used to treat epilepsy and other seizure disorders.\n*'''[[Effect::Pain relief]]''' - Gabapentin is used to control pain, particularly fibromyalgic/neuropathic pain (nerve pain) and [[restless leg syndrome]].{{citation needed}} It is generally considered to be not very effective for the management of acute pain, unlike [[opiates]].\n*'''[[Effect::Muscle twitching]]'''\n*'''[[Effect::Motor control loss]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Cognitive euphoria]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Depersonalization]]''' ''and'' '''[[Effect::Derealization]]''' - At very high doses, gabapentin can induce a mild dissociative state.\n*'''[[Effect::Amnesia]]''' -  Gabapentin induces a substantially lower amount of amnesia compared to other [[GABA |GABAergic]] drugs such as [[Benzodiazepine |benzodiazepines]].\n*'''[[Effect::Sleepiness]]'''\n*'''[[Effect::Suicidal ideation]]'''<ref name=\"Patorno2010\">{{cite journal | vauthors=((Patorno, E.)), ((Bohn, R. L.)), ((Wahl, P. M.)), ((Avorn, J.)), ((Patrick, A. R.)), ((Liu, J.)), ((Schneeweiss, S.)) | journal=JAMA | title=Anticonvulsant medications and the risk of suicide, attempted suicide, or violent death | volume=303 | issue=14 | pages=1401–1409 | date=14 April 2010 | issn=1538-3598 | doi=10.1001/jama.2010.410}}</ref>\n\n}}\n{{effects/visual|\n====Hallucinatory states====\n*'''[[Effect::Internal hallucination]]''' - At higher doses, some users report mild to strong closed eye visuals (CEVs). These can include but are not limited to [[psychedelic]]-like [[geometry]] and landscapes. It has been noted that smoking [[cannabis]] greatly potentiates these effects.\n====Disconnective effects====\n*'''[[Effect::Visual disconnection]]''' - This effect is generally quite mild and appears inconsistently at very high doses. It results in feeling as if one's sense of vision is distant or vague and being viewed through a screen or window. However, it is not capable of higher levels of visual disconnection that produce [[holes, spaces, and voids]] or [[Visual_disconnection#Structures|hallucinatory structures]] in the same way that traditional [[dissociatives]] can.\n\n}}\n}}\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Gabapentin]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Gabapentin.shtml Erowid Experience Vaults: Gabapentin]\n\n==Toxicity and harm potential==\n{{toxicity}}\n[[File:Gabapentin FDA prescription document.jpg|300px|thumbnail|This document, provided with prescription gabapentin, contains detailed information regarding its toxicity and harm potential.]]\nGABApentin has a [[Toxicity::low toxicity]] relative to dose. The most common side effects of gabapentin in adult patients include dizziness, fatigue, drowsiness, weight gain, and peripheral edema (swelling of extremities).<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020235s041,020882s028,021129s027lbl.pdf</ref> Gabapentin may also produce sexual dysfunction in some patients whose symptoms of which may include loss of libido, inability to reach orgasm, and erectile dysfunction.<ref>{{cite book | vauthors=((Aronson, J. K.)) | date=4 March 2014 | title=Side Effects of Drugs Annual: A worldwide yearly survey of new data in adverse drug reactions | publisher=Newnes | isbn=9780444626363}}</ref> Gabapentin should be used carefully in patients with renal impairment due to possible accumulation and toxicity.<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020235s057,020882s041,021129s039lbl.pdf</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Suicide===\nIn 2009, the U.S. Food and Drug Administration issued a warning of an increased risk of depression and suicidal thoughts and behaviors in patients taking gabapentin (along with other [[anticonvulsant]] drugs),<ref>http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm100190.htm</ref> modifying the packaging insert to reflect this. A 2010 meta-analysis confirmed the increased risk of suicide associated with gabapentin use.<ref name=\"Patorno2010\" />\n\nIn 2010, a study conducted by Patorno E, Bohn RL, Wahl PM, et al, found that the use of gabapentin compared to the use of [[topiramate]] may be associated with an increase in suicidal acts and or violent deaths.<ref>{{cite journal | vauthors=((Patorno, E.)), ((Bohn, R. L.)), ((Wahl, P. M.)), ((Avorn, J.)), ((Patrick, A. R.)), ((Liu, J.)), ((Schneeweiss, S.)) | journal=JAMA | title=Anticonvulsant Medications and the Risk of Suicide, Attempted Suicide, or Violent Death | volume=303 | issue=14 | pages=1401–1409 | date=14 April 2010 | url=https://doi.org/10.1001/jama.2010.410 | issn=0098-7484 | doi=10.1001/jama.2010.410}}</ref>\n\nIt should be noted that in both studies along with others that the patients evaluated had a higher suicide risk and the studies were both limited and imprecise.<ref name=\"Patorno2010\" />\n\n===Lethal dosage===\nPeople who accidentally or intentionally overdose may experience drowsiness, sedation, blurred vision, slurred speech, somnolence and possibly death (if a very high amount was taken and particularly if combined with alcohol). Serum gabapentin concentrations may be measured to confirm diagnosis.<ref>R.C. Baselt, Disposition of Toxic Drugs and Chemicals in Man, 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 677–8. ISBN 978-0-9626523-7-0.</ref>\n===Dependence and abuse potential===\nGabapentin is not considered psychologically addictive. However, it is possible to develop a physical dependence on the drug. In fact, people can experience withdrawal symptoms for up to 45 days after they stop taking gabapentin. Although gabapentin does give some people a euphoric “high” which can cause abuse, gabapentin abusers do not present with the kind of compulsive, drug-seeking behavior or strong cravings associated with other more common depressants such as [[opioids]], [[alcohol]] or [[benzodiazepines]].\n\nTolerance will develop to the anxiolytic effects [[Time to full tolerance::with prolonged continuous usage]]. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7-14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction.\n\n===Dangerous interactions===\n\n*'''[[DangerousInteraction::Opioids]]''' - Combining opioids with gabapentin can cause death from respiratory failure.\n*'''[[DangerousInteraction::Depressants]] (GABAergic)''' - Gabapentin significantly potentiates the effects of [[alcohol]], [[benzodiazepines]] and other [[GABA]]ergics which may lead to blackouts, and dangerous behaviour.\n\n==Legal status==\n{{legalStub}}\nGabapentin is a prescription-only medicine and can only be prescribed following a consultation with a doctor.{{citation needed}}\n\n*'''Germany:''' Gabapentin is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=AMVV - Verordnung über die Verschreibungspflicht von Arzneimitteln | url=https://www.gesetze-im-internet.de/amvv/BJNR363210005.html}}</ref>\n*'''Switzerland:''' Gabapentin is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.{{citation needed}}\n*'''United Kingdom''': Gabapentin is available as a prescription.<ref>[https://www.nhs.uk/medicines/baclofen/about-baclofen/ Baclofen: muscle relaxant that relieves muscle spasms - NHS]</ref>\n*'''United States:''' Gabapentin is not a scheduled substance but may only be sold with prescription.<ref>{{cite journal | vauthors=((Peckham, A. M.)), ((Ananickal, M. J.)), ((Sclar, D. A.)) | journal=Risk Management and Healthcare Policy | title=Gabapentin use, abuse, and the US opioid epidemic: the case for reclassification as a controlled substance and the need for pharmacovigilance | volume=11 | pages=109–116 | date=17 August 2018 | url=https://www.dovepress.com/gabapentin-use-abuse-and-the-us-opioid-epidemic-the-case-for-reclassif-peer-reviewed-fulltext-article-RMHP | doi=10.2147/RMHP.S168504}}</ref>\n**'''Exceptions:''' Gabapentin is a Schedule 5 controlled substance in: Alabama, Kentucky, Michigan, North Dakota, Tennessee, Virginia, and West Virginia. With prescription drug monitoring in: Connecticut, District of Columbia, Indiana, Kansas, Massachusetts, Minnesota, Nebraska, New Jersey, Ohio, Oregon, Utah, and Wyoming.<ref>{{cite journal | vauthors=((Collins, S.)) | journal=Pharmacy Today | title=More states make gabapentin a Schedule V Controlled Substance | volume=27 | issue=10 | pages=33 | date= October 2021 | url=https://linkinghub.elsevier.com/retrieve/pii/S1042099121007301 | issn=10420991 | doi=10.1016/j.ptdy.2021.09.016}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Benzodiazepines]]\n*[[GABA]]\n*[[Pregabalin]]\n*[[Phenibut]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/Gabapentin Gabapentin (Wikipedia)]\n*[https://www.erowid.org/pharms/gabapentin/ Gabapentin (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=8697 Gabapentin (Isomer Design)]\n*[https://go.drugbank.com/drugs/DB00996 Gabapentin (DrugBank)]\n*[https://www.drugs.com/gabapentin.html Gabapentin (Drugs.com)]\n*[https://drugs-forum.com/wiki/Gabapentin Gabapentin (Drugs-Forum)]\n\n==References==\n<references />\n\n[[Category:Psychoactive substance]]\n[[Category:Cycloalkylamine]]\n[[Category:Gamma-Amino acid]]\n[[Category:Depressant]]\n[[Category:Anxiolytics]]\n[[Category:Gabapentinoid]]\n\n{{#set:Featured=true}}"
+}

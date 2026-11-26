@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:22216",
+ "type": "substance-summary",
+ "title": "Tizanidine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Tizanidine/Summary",
+  "pageid": 22216,
+  "last_edited": "2024-05-30T23:38:07Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Tizanidine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Tizanidine}}"
+}

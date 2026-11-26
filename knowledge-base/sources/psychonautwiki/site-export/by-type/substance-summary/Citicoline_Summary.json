@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:12156",
+ "type": "substance-summary",
+ "title": "Citicoline/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Citicoline/Summary",
+  "pageid": 12156,
+  "last_edited": "2016-07-03T14:12:28Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Citicoline",
+ "plain_text": "",
+ "wikitext": "{{Summary|Citicoline}}"
+}

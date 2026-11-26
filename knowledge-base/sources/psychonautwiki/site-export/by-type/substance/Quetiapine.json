@@ -1,0 +1,337 @@
+{
+ "id": "psychonautwiki:4499",
+ "type": "substance",
+ "title": "Quetiapine",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Quetiapine",
+  "pageid": 4499,
+  "last_edited": "2024-09-23T18:01:22Z"
+ },
+ "categories": [
+  "All articles with unsourced statements",
+  "Antihistamine",
+  "Antipsychotic",
+  "Articles with unsourced statements",
+  "Depressant",
+  "Piperidine",
+  "Psychoactive substance"
+ ],
+ "substance_box_template": "SubstanceBox/Quetiapine",
+ "substance_box": {
+  "names": {
+   "common": "Quetiapine, Seroquel",
+   "substitutive": "Xeroquel, Ketipinor",
+   "systematic": "2-(2-(4-dibenzo[b,f] [1,4]thiazepine- 11-yl- 1-piperazinyl)ethoxy) ethanol"
+  },
+  "classes": {
+   "psychoactive": "Antipsychotic",
+   "chemical": "Dibenzothiazepine"
+  },
+  "routes_of_administration": {
+   "oral": {
+    "enabled": true,
+    "caption": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit",
+    "collapsed": "false",
+    "bioavailability": "100% - 100%",
+    "threshold": "10 mg",
+    "light": "25 - 50 mg",
+    "common": "50 - 150 mg",
+    "strong": "150 - 300 mg",
+    "heavy": "300 mg +",
+    "duration": "8 - 24 hours",
+    "onset": "20 - 40 minutes",
+    "peak": "1.5 - 6 hours",
+    "offset": "6 - 7 hours",
+    "aftereffects": "24 - 48 hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Quetiapine",
+    "Seroquel"
+   ],
+   "psychoactive class": [
+    "Antipsychotic"
+   ],
+   "chemical class": [
+    "Dibenzothiazepine"
+   ],
+   "Oral min bioavailability": [
+    "100"
+   ],
+   "Oral max bioavailability": [
+    "100"
+   ],
+   "Oral threshold dose": [
+    "10"
+   ],
+   "Oral dose units": [
+    "mg"
+   ],
+   "Oral min light dose": [
+    "25"
+   ],
+   "Oral max light dose": [
+    "50"
+   ],
+   "Oral min common dose": [
+    "50"
+   ],
+   "Oral max common dose": [
+    "150"
+   ],
+   "Oral min strong dose": [
+    "150"
+   ],
+   "Oral max strong dose": [
+    "300"
+   ],
+   "Oral heavy dose": [
+    "300"
+   ],
+   "Oral min total time": [
+    "8"
+   ],
+   "Oral max total time": [
+    "24"
+   ],
+   "Oral total time units": [
+    "hours"
+   ],
+   "Oral min onset time": [
+    "20"
+   ],
+   "Oral max onset time": [
+    "40"
+   ],
+   "Oral onset time units": [
+    "minutes"
+   ],
+   "Oral min peak time": [
+    "1.5"
+   ],
+   "Oral max peak time": [
+    "6"
+   ],
+   "Oral peak time units": [
+    "hours"
+   ],
+   "Oral min offset time": [
+    "6"
+   ],
+   "Oral max offset time": [
+    "7"
+   ],
+   "Oral offset time units": [
+    "hours"
+   ],
+   "Oral min afterglow time": [
+    "24"
+   ],
+   "Oral max afterglow time": [
+    "48"
+   ],
+   "Oral afterglow time units": [
+    "hours"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250PX",
+   "clean": "250PX"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of Quetiapine.",
+   "clean": "Molecular structure of Quetiapine."
+  },
+  "SkeletalImageFile": {
+   "raw": "File:Quetiapine.svg",
+   "clean": "File:Quetiapine.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Quetiapine]], [[common name::Seroquel]]",
+   "clean": "Quetiapine, Seroquel"
+  },
+  "NameSubstitution": {
+   "raw": "Xeroquel, Ketipinor",
+   "clean": "Xeroquel, Ketipinor"
+  },
+  "NameSystematic": {
+   "raw": "2-(2-(4-dibenzo[b,f] [1,4]thiazepine- 11-yl- 1-piperazinyl)ethoxy) ethanol",
+   "clean": "2-(2-(4-dibenzo[b,f] [1,4]thiazepine- 11-yl- 1-piperazinyl)ethoxy) ethanol"
+  },
+  "EffectClass": {
+   "raw": "[[psychoactive class::Antipsychotic]]",
+   "clean": "Antipsychotic"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Dibenzothiazepine]]",
+   "clean": "Dibenzothiazepine"
+  },
+  "OralROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Caption": {
+   "raw": "'''WARNING:''' Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. <u>[[responsible drug use|See responsible use section]].</u><br> '''[[Disclaimer|DISCLAIMER]]:''' PW's [[dosage]] information is gathered from users and [[Network|resources]] for educational purposes only. It is not a recommendation.<br>'''This dosage and duration information has been sourced from [http://drugs.tripsit.me/quetiapine TripSit]'''",
+   "clean": "WARNING: Always start with lower doses due to differences between individual body weight, tolerance, metabolism, and personal sensitivity. See responsible use section. DISCLAIMER: PW's dosage information is gathered from users and resources for educational purposes only. It is not a recommendation.This dosage and duration information has been sourced from TripSit"
+  },
+  "OralROA_Bioavailability": {
+   "raw": "[[Oral min bioavailability::100]]% - [[Oral max bioavailability::100]]%",
+   "clean": "100% - 100%"
+  },
+  "OralROA_Threshold": {
+   "raw": "[[Oral threshold dose::10]] [[Oral dose units::mg]]",
+   "clean": "10 mg"
+  },
+  "OralROA_Light": {
+   "raw": "[[Oral min light dose::25]] - [[Oral max light dose::50]] mg",
+   "clean": "25 - 50 mg"
+  },
+  "OralROA_Common": {
+   "raw": "[[Oral min common dose::50]] - [[Oral max common dose::150]] mg",
+   "clean": "50 - 150 mg"
+  },
+  "OralROA_Strong": {
+   "raw": "[[Oral min strong dose::150]] - [[Oral max strong dose::300]] mg",
+   "clean": "150 - 300 mg"
+  },
+  "OralROA_Heavy": {
+   "raw": "[[Oral heavy dose::300]] mg +",
+   "clean": "300 mg +"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "[[Oral min total time::8]] - [[Oral max total time::24]] [[Oral total time units::hours]]",
+   "clean": "8 - 24 hours"
+  },
+  "OralROA_Onset": {
+   "raw": "[[Oral min onset time::20]] - [[Oral max onset time::40]] [[Oral onset time units::minutes]]",
+   "clean": "20 - 40 minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "[[Oral min peak time::1.5]] - [[Oral max peak time::6]] [[Oral peak time units::hours]]",
+   "clean": "1.5 - 6 hours"
+  },
+  "OralROA_Offset": {
+   "raw": "[[Oral min offset time::6]] - [[Oral max offset time::7]] [[Oral offset time units::hours]]",
+   "clean": "6 - 7 hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "[[Oral min afterglow time::24]] - [[Oral max afterglow time::48]] [[Oral afterglow time units::hours]]",
+   "clean": "24 - 48 hours"
+  }
+ },
+ "plain_text": "Quetiapine (branded as Seroquel, Xeroquel, Ketipinor, Ketilept and Derin) is a short-acting atypical antipsychotic approved for the treatment of schizophrenia, bipolar disorder, and along with an antidepressant to treat major depressive disorder.\n\nQuetiapine was developed by AstraZeneca from 1992-1996 as an improvement from first-generation antipsychotics. It was first approved by the FDA in 1997.\n\nRecreational usage is uncommon, but reports of quetiapine abuse have emerged within the medical literature. This seems to be driven by its sedative and anxiolytic effects (to help with sleep or to 'calm down') rather than by its antipsychotic properties. In addition to oral administration, the drug is sometimes taken intranasally by insufflating pulverized tablets. Some estimate that up to 30% of inmates who were seen for psychiatric services in the Los Angeles County Jail were faking psychotic symptoms in an attempt to obtain quetiapine. It is thought that this drug is more commonly abused in prisons than on the street due to its capacity to be regularly prescribed as a sedative and the unavailability in prison of more commonly abused substances.\n\nHistory and culture\n\nQuetiapine was developed by AstraZeneca from 1992-1996 as an improvement from first-generation antipsychotics. It was first approved by the FDA in 1997.\n\nAnnual sales of Seroquel are approximately $5.7 billion worldwide, with $2.9 billion in the United States. The U.S. patent, which was set to expire in 2011, received a pediatric exclusivity extension which pushed its expiration to March 26, 2012. The patent has already expired in Canada.\n\nThere are now several name brand versions of quetiapine, such as Quepin, Seroquel and Ketipinor.\n\nChemistry\n\nQuetiapine is an atypical antipsychotic drug and dibenzothiazepine derivative. Quetiapine contains a thiazepine ring, a seven-membered ring containing one sulfur and one nitrogen group, located at R1 and R4 respectively. This ring is fused to two benzene rings, thus forming a dibenzothiazepine moiety. Dibenzothiazepine is connected at R11 to the nitrogen group of a piperidine ring at R4.\n\nPiperazine is a six-member unsaturated ring with two nitrogen constituents in the 1,4 positions. This ring is connected at its second nitrogen group to an ethoxyethanol chain. It is connected to R2 of an ethane chain through an oxygen bridge to an ethanol group. This forms the structure of quetiapine. \n\nIt is commonly synthesized by nucleophilic substitution to combine the dibenzothiazepine core with the rest of the structure. Quetiapine is present in its pill form as a fumarate salt.\n\nPharmacology\n\nQuetiapine is a powerful dopaminergic, serotonergic, and adrenergic antagonist, as well as a potent antihistamine with clinically negligible anticholinergic properties. Quetiapine binds strongly to serotonin receptors; the drug acts as partial agonist at 5-HT1A receptors. In terms of its antipsychotic effects, the precise mechanism of action is unknown, but according to the dopamine theory of schizophrenia, antipsychotic effects might be related to the drug’s ability to reduce dopaminergic neurotransmission within the mesolimbic pathway.\n\nSubjective effects\n\nCombination effects\n\n*Cannabis: Cannabis' effects synergise with quetiapine's effects thus increasing the physical effects of the \"high\" while decreasing the cognitive effects. \n*Psychedelics: Due to it being a serotonergic antagonist, quetiapine reduces the effects of psychedelics.\n*Nootropics: Quetiapine decreases the effects of some nootropics, especially the ones digested by the CYP450 3A4 enzyme. \n\nExperience reports\n\nAnecdotal reports which describe the effects of this compound within our experience index include:\n\nAdditional experience reports can be found here:\n\n*Erowid Experience Vaults: Quetiapine\n\nMedical uses\n\n*Schizophrenia: There is tentative evidence of the benefit of quetiapine versus placebo in schizophrenia; however, definitive conclusions are not possible due to the high rate of attrition in trials (greater than 50%) and the lack of data on economic outcomes, social functioning, or quality of life.\n*Bipolar disorder: In those with bipolar disorder, quetiapine is used to treat depressive episodes and acute manic episodes associated with bipolar I disorder.\n*Major depressive disorder: Quetiapine is effective when used by itself and when used along with other medications in major depressive disorder (MDD). However, sedation is often an undesirable side effect.\n*Parkinsons disease: Quetiapine and clozapine are the most widely used medications for the treatment of Parkinson's disease psychosis due to their very low extrapyramidal side effect liability. Owing to the risks associated with clozapine (e.g., agranulocytosis, diabetes mellitus, etc.), clinicians often attempt treatment with quetiapine first, although the evidence to support quetiapine's use for this indication is significantly weaker than that of clozapine.\n*Other: The use of low doses of quetiapine for insomnia, while common, is not recommended; there is little evidence of benefit and concerns regarding adverse effects. It is sometimes used off-label, often as an augmentation agent, to treat conditions such as Tourette syndrome, musical hallucinations and anxiety disorders. It is particularly useful as a tool for forced sedation during bad trips or prolonged unwanted stimulation.\n\nToxicity and harm potential\n\nQuetiapine likely has a low toxicity relative to dose. Although simply trying this substance at a low to moderate dosage is considered as quite safe, there is an emerging controversy regarding quetiapine fatalities. Approximately 10,000 lawsuits against AstraZeneca for problems ranging from slurred speech and chronic insomnia to death have been filed by individuals from civilian populations.\n\nBoth typical and atypical antipsychotics can cause tardive dyskinesia. According to one study, rates are lower with the atypicals at 3.9% as opposed to the typicals at 5.5%. Although quetiapine and clozapine are atypical antipsychotics, switching to these atypicals is an option to minimize symptoms of tardive dyskinesia caused by other atypicals.\n\nWeight gain can be a problem for some, with quetiapine causing more weight gain than other more commonly used antipsychotics.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nLethal dosage\n\nCompared to other antipsychotics, quetiapine has been reported to be relatively safer in overdose. Most instances of acute overdoses result only in sedation, hypotension and tachycardia, but cardiac arrythmia, coma and death have occurred in adults. Quetiapine concentrations within the patients' blood are usually in the 1–10 mg/L range in overdose survivors, while postmortem blood levels of 10–25 mg/L are generally observed in fatal cases.\n\nTolerance and addiction potential\n\nQuitiapine is moderately physically and psychologically addictive.\n\nTolerance will develop to the antipsychotic effects and within a week of continuous use. The tolerance to the amount of sedation will be the most noticeable. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. \n\nThe addictive qualities of quetiapine have not been formally studied and are largely known through anecdotal sources. For example, a letter to the editor that appeared in the January 2007 American Journal of Psychiatry has proposed a “need for additional studies to explore the addiction-potential of quetiapine”. The letter reports that its authors are physicians who work in the Ohio correctional system. They report that “prisoners have threatened legal action and even suicide when presented with discontinuation of quetiapine” and that they have “not seen similar drug-seeking behavior with other second-generation antipsychotics of comparable efficacy”.\n\nWithdrawal symptoms\n\nWithdrawal symptoms reported to occur after discontinuation of quetiapine and other antipsychotics include nausea, emesis, lightheadedness, diaphoresis, dyskinesia, orthostatic hypotension, tachycardia, insomnia, nervousness, dizziness, headache, excessive non-stop crying, and anxiety. According to Eli Lilly internal documents, discontinuation of atypical neuroleptics similar to seroquel can also cause psoriasis, gingivitis and other inflammatory conditions, dyspepsia, headache, high blood sugar and other health conditions unrelated to psychiatric condition.\n\nDangerous interactions\n\n*Depressants (1,4-Butanediol, 2M2B, alcohol, benzodiazepines, barbiturates, GHB/GBL, methaqualone, opioids) - This combination potentiates the muscle relaxation, amnesia, sedation, and respiratory depression caused by one another. At higher doses, it can lead to a sudden, unexpected loss of consciousness along with a dangerous amount of depressed respiration. There is also an increased risk of suffocating on one's vomit while unconscious. If nausea or vomiting occurs before a loss of consciousness, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n\n*Stimulants -  It can be dangerous to combine depressants with stimulants due to the risk of accidental excessive intoxication. Stimulants mask the sedative effect of depressants, which is the main factor most people use to gauge their level of intoxication. Once the stimulant effects wear off, the effects of the depressant will significantly increase, leading to intensified disinhibition, motor control loss, and dangerous black-out states. This combination can also potentially result in severe dehydration if one's fluid intake is not closely monitored. If choosing to combine these substances, one should strictly limit themselves to a pre-set schedule of dosing only a certain amount per hour until a maximum threshold has been reached.\n\n*Dissociatives - This combination can unpredictably potentiate the amnesia, sedation, motor control loss and delusions that can be caused by each other. It may also result in a sudden loss of consciousness accompanied by a dangerous degree of respiratory depression. If nausea or vomiting occurs before consciousness is lost, users should attempt to fall asleep in the recovery position or have a friend move them into it.\n\nLegal status\n\n*Austria: It is available by prescription only and unscheduled.\n*France: It is available by prescription only and unscheduled.\n*Germany: Quetiapine is a prescription medicine, according to Anlage 1 AMVV.\n*Switzerland: Quetiapine is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.\n*United Kingdom: Available by prescription only - unscheduled, but unpopular.\n*United States: Quetiapine (Seroquel) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.\n\nSee also\n\n*Responsible use\n*Depressants\n*Antipsychotics\n\nExternal links\n\n*Quetiapine (Wikipedia)\n*Quetiapine (Erowid Vault)\n*Quetiapine (TiHKAL / Isomer Design)\n*Quetiapine (DrugBank)\n*Quetiapine (Drugs.com)\n*Quetiapine (Drugs-Forum)\n\nReferences\n\nCategory:Psychoactive substance\nCategory:Piperidine\nCategory:Antihistamine\nCategory:Depressant\nCategory:Antipsychotic",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/Quetiapine}}\n'''Quetiapine''' (branded as '''Seroquel''', '''Xeroquel''', '''Ketipinor''', '''Ketilept''' and '''Derin''') is a short-acting atypical [[psychoactive class::antipsychotic]] approved for the treatment of schizophrenia, bipolar disorder, and along with an antidepressant to treat major depressive disorder.\n\nQuetiapine was developed by AstraZeneca from 1992-1996 as an improvement from first-generation antipsychotics. It was first approved by the FDA in 1997.{{citation needed}}\n\nRecreational usage is uncommon, but reports of quetiapine abuse have emerged within the medical literature. This seems to be driven by its [[sedative]] and [[anxiolytic]] effects (to help with sleep or to 'calm down') rather than by its antipsychotic properties.<ref name=\"Pierre2004\">{{cite journal | vauthors=((Pierre, J. M.)), ((Shnayder, I.)), ((Wirshing, D. A.)), ((Wirshing, W. C.)) | journal=American Journal of Psychiatry | title=Intranasal Quetiapine Abuse | volume=161 | issue=9 | pages=1718–1718 | date= September 2004 | url=https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.9.1718 | issn=0002-953X | doi=10.1176/appi.ajp.161.9.1718}}</ref> In addition to oral administration, the drug is sometimes taken intranasally by insufflating pulverized tablets. Some estimate that up to 30% of inmates who were seen for psychiatric services in the Los Angeles County Jail were faking psychotic symptoms in an attempt to obtain quetiapine.<ref name=\"Pierre2004\" /> It is thought that this drug is more commonly abused in prisons than on the street due to its capacity to be regularly prescribed as a sedative and the unavailability in prison of more commonly abused substances.\n\n==History and culture==\nQuetiapine was developed by AstraZeneca from 1992-1996 as an improvement from first-generation antipsychotics. It was first approved by the FDA in 1997.{{citation needed}}\n\nAnnual sales of Seroquel are approximately $5.7 billion worldwide, with $2.9 billion in the United States.<ref>{{Citation | title=SEROQUEL Loss of Exclusivity (LOE). When will the SEROQUEL patents expire, and when will generic SEROQUEL be available? | url=//www.DrugPatentWatch.com/p/tradename/index.php?query=SEROQUEL}}</ref> The U.S. patent,<ref name=\"WarawaPatent\">{{Citation | vauthors=((Warawa, E. J.)), ((Migler, B. M.)) | title=United States Patent: 4879288 - Novel dibenzothiazepine antipsychotic | url=https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=4,879,288.PN.&OS=PN/4,879,288&RS=PN/4,879,288}}</ref> which was set to expire in 2011, received a pediatric exclusivity extension which pushed its expiration to March 26, 2012.<ref name=\"WarawaPatent\" /><ref>Phillip Moeller (2011) Blockbuster Drugs That Will Go Generic Soon | http://money.usnews.com/money/blogs/the-best-life/2011/04/29/blockbuster-drugs-that-will-go-generic-soon</ref> The patent has already expired in Canada.\n\nThere are now several name brand versions of quetiapine, such as Quepin, Seroquel and Ketipinor.<ref>{{Citation | title=Quepin Tablets (Specifar), Drug Reference Encyclopedia | url=https://theodora.com/drugs/quepin_tablets_specifar.html}}</ref>\n\n==Chemistry==\nQuetiapine is an atypical antipsychotic drug and [[chemical class::dibenzothiazepine]] derivative. Quetiapine contains a thiazepine ring, a seven-membered ring containing one sulfur and one nitrogen group, located at R<sub>1</sub> and R<sub>4</sub> respectively. This ring is fused to two benzene rings, thus forming a dibenzothiazepine moiety. Dibenzothiazepine is connected at R<sub>11</sub> to the nitrogen group of a [[piperidine]] ring at R<sub>4</sub>.\n\nPiperazine is a six-member unsaturated ring with two nitrogen constituents in the 1,4 positions. This ring is connected at its second nitrogen group to an ethoxyethanol chain. It is connected to R<sub>2</sub> of an ethane chain through an oxygen bridge to an ethanol group. This forms the structure of quetiapine. \n\nIt is commonly synthesized by nucleophilic substitution to combine the dibenzothiazepine core with the rest of the structure. Quetiapine is present in its pill form as a fumarate salt.\n\n==Pharmacology==\nQuetiapine is a powerful [[dopamine|dopaminergic]], [[serotonin|serotonergic]], and [[adrenergic]] [[antagonist]], as well as a potent [[antihistamine]] with clinically negligible [[anticholinergic]] properties.<ref>http://www1.astrazeneca-us.com/pi/Seroquel.pdf</ref><ref>{{cite journal | vauthors=((Richelson, E.)), ((Souder, T.)) | journal=Life Sciences | title=Binding of antipsychotic drugs to human brain receptors: Focus on newer generation compounds | volume=68 | issue=1 | pages=29–39 | date=24 November 2000 | url=https://www.sciencedirect.com/science/article/pii/S0024320500009115 | issn=0024-3205 | doi=10.1016/S0024-3205(00)00911-5}}</ref><ref>{{cite book | vauthors=((Davis, K. L.)), ((Neuropsychopharmacology, A. C. of)) | date= 2002 | title=Neuropsychopharmacology: The Fifth Generation of Progress : an Official Publication of the American College of Neuropsychopharmacology | publisher=Lippincott Williams & Wilkins | isbn=9780781728379}}</ref><ref>http://www.drugs.com/pro/seroquel.html</ref> Quetiapine binds strongly to serotonin receptors; the drug acts as partial [[agonist]] at 5-HT1A receptors.<ref>{{Citation | title=Mechanism of Action of Quetiapine | publisher=Psychopharmacology Institute | url=https://psychopharmacologyinstitute.com/antipsychotics/quetiapine/mechanism-of-action/}}</ref> In terms of its [[antipsychotic]] effects, the precise mechanism of action is unknown, but according to the dopamine theory of schizophrenia, antipsychotic effects might be related to the drug’s ability to reduce dopaminergic neurotransmission within the mesolimbic pathway.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}                                                                        \n\n{{effects/base\n\n|{{effects/physical|\n\n*'''[[Effect::Sedation]]''' -  In terms of energy level alterations, this drug has the potential to be extremely sedating and often results in an overwhelmingly lethargic state. At higher levels, this causes users to suddenly feel as if they are extremely sleep deprived and have not slept for days, forcing them to sit down and generally feel as if they are constantly on the verge of passing out instead of engaging in physical activities. This sense of sleep deprivation increases proportional to dosage and eventually becomes powerful enough to force a person into complete unconsciousness.\n*'''[[Effect::Perception of bodily heaviness]]'''\n*'''[[Effect::Dizziness]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Motor control loss]]'''\n*'''[[Effect::Headaches]]'''\n*'''[[Effect::Decreased libido]]'''\n*'''[[Effect::Increased blood pressure]]'''\n*'''[[Effect::Appetite enhancement]]'''\n*'''[[Effect::Increased heart rate]]'''\n*'''[[Effect::Orgasm suppression]]'''\n*'''[[Effect::Difficulty urinating]]'''\n*'''[[Effect::Nausea suppression]]'''\n*'''[[Effect::Restless Leg Syndrome]]'''\n\n}}\n|{{effects/cognitive|\nThe general headspace of quetiapine is often described as one of sleepiness, emptiness, apathy, stupor, and catatonia. The specific cognitive effects can be broken down into several components which progressively intensify proportional to dosage.\n\nThe most prominent of these cognitive effects generally include: \n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Emotion suppression]]'''\n*'''[[Effect::Creativity suppression]]'''\n*'''[[Effect::Language suppression]]'''\n*'''[[Effect::Focus suppression]]'''\n*'''[[Effect::Anxiety suppression]]'''\n*'''[[Effect::Disinhibition]]'''\n*'''[[Effect::Motivation suppression]]'''\n*'''[[Effect::Amnesia]]'''\n*'''[[Effect::Dream potentiation]]'''\n*'''[[Effect::Sleepiness]]'''\n\n}}\n{{effects/aftereffects|\n\n*'''[[Effect::Sleepiness|Residual sleepiness]]''' - While quetiapine can be used as an effective [[hypnotic|sleep-inducing]] aid, its effects may persist into the morning afterward, which may lead to users feeling \"groggy\" or \"dull\" for up to a few hours.\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Thought disorganization]]''' \n*'''[[Effect::Irritability]]''' - This effect typically occurs the morning after quetiapine has been taken as a [[hypnotic|sleep-inducing]] aid, and only occurs for a few hours upon awakening.\n\n}}\n}}\n\n===Combination effects===\n\n*'''[[Cannabis]]''': Cannabis' effects synergise with quetiapine's effects thus increasing the physical effects of the \"high\" while decreasing the cognitive effects. <ref>https://www.drugs.com/interactions-check.php?drug_list=1979-0,2758-0</ref>\n*'''[[Psychedelics]]''': Due to it being a [[serotonin|serotonergic]] [[antagonist]], quetiapine reduces the effects of psychedelics.\n*'''[[Nootropics]]''': Quetiapine decreases the effects of some nootropics, especially the ones digested by the CYP450 3A4 enzyme. <ref>https://www.drugs.com/interactions-check.php?drug_list=1979-0,1647-0&types%5B%5D=major&types%5B%5D=minor&types%5B%5D=moderate&types%5B%5D=food&types%5B%5D=therapeutic_duplication&professional=1</ref>\n\n===Experience reports===\nAnecdotal reports which describe the effects of this compound within our [[experience index]] include:\n{{#ask: [[Category:Quetiapine]][[Category:Experience]]|format=ul|Columns=1}}\nAdditional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_Pharms_Quetiapine.shtml Erowid Experience Vaults: Quetiapine]\n\n==Medical uses==\n\n*'''Schizophrenia:''' There is tentative evidence of the benefit of quetiapine versus placebo in schizophrenia; however, definitive conclusions are not possible due to the high rate of attrition in trials (greater than 50%) and the lack of data on economic outcomes, social functioning, or quality of life.<ref>{{cite journal | vauthors=((Srisurapanont, M.)), ((Maneeton, B.)), ((Maneeton, N.)), ((Lankappa, S.)), ((Gandhi, R.)) | veditors=((Cochrane Schizophrenia Group)) | journal=Cochrane Database of Systematic Reviews | title=Quetiapine for schizophrenia | date=19 April 2004 | url=https://doi.wiley.com/10.1002/14651858.CD000967.pub2 | issn=14651858 | doi=10.1002/14651858.CD000967.pub2}}</ref>\n*'''Bipolar disorder:''' In those with bipolar disorder, quetiapine is used to treat depressive episodes and acute manic episodes associated with bipolar I disorder.<ref>{{cite journal | vauthors=((Thase, M. E.)), ((Macfadden, W.)), ((Weisler, R. H.)), ((Chang, W.)), ((Paulsson, B.)), ((Khan, A.)), ((Calabrese, J. R.)) | journal=Journal of Clinical Psychopharmacology | title=Efficacy of Quetiapine Monotherapy in Bipolar I and II Depression: A Double-blind, Placebo-controlled Study (The BOLDER II Study) | volume=26 | issue=6 | pages=600–609 | date= December 2006 | url=https://journals.lww.com/00004714-200612000-00009 | issn=0271-0749 | doi=10.1097/01.jcp.0000248603.76231.b7}}</ref><ref>{{cite book | date= 2013 | title=British national formulary, no 65 (March - September 2013). | publisher=BMJ/Pharmaceutical Press | isbn=9780857110848}}</ref>\n*'''Major depressive disorder:''' Quetiapine is effective when used by itself and when used along with other medications in major depressive disorder (MDD).<ref name=\"Komossa2010\">{{cite journal | vauthors=((Komossa, K.)), ((Depping, A. M.)), ((Gaudchau, A.)), ((Kissling, W.)), ((Leucht, S.)) | veditors=((Cochrane Common Mental Disorders Group)) | journal=Cochrane Database of Systematic Reviews | title=Second-generation antipsychotics for major depressive disorder and dysthymia | date=8 December 2010 | url=https://doi.wiley.com/10.1002/14651858.CD008121.pub2 | issn=14651858 | doi=10.1002/14651858.CD008121.pub2}}</ref><ref>{{cite journal | vauthors=((Spielmans, G. I.)), ((Berman, M. I.)), ((Linardatos, E.)), ((Rosenlicht, N. Z.)), ((Perry, A.)), ((Tsai, A. C.)) | journal=PLOS Medicine | title=Adjunctive Atypical Antipsychotic Treatment for Major Depressive Disorder: A Meta-Analysis of Depression, Quality of Life, and Safety Outcomes | volume=10 | issue=3 | pages=e1001403 | date=12 March 2013 | url=https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001403 | issn=1549-1676 | doi=10.1371/journal.pmed.1001403}}</ref> However, sedation is often an undesirable side effect.<ref name=\"Komossa2010\" />\n*'''Parkinsons disease:''' Quetiapine and clozapine are the most widely used medications for the treatment of Parkinson's disease psychosis due to their very low extrapyramidal side effect liability. Owing to the risks associated with clozapine (e.g., agranulocytosis, diabetes mellitus, etc.), clinicians often attempt treatment with quetiapine first, although the evidence to support quetiapine's use for this indication is significantly weaker than that of clozapine.<ref>{{cite journal | vauthors=((Shotbolt, P.)), ((Samuel, M.)), ((David, A.)) | journal=Therapeutic Advances in Neurological Disorders | title=Quetiapine in the treatment of psychosis in Parkinson’s disease | volume=3 | issue=6 | pages=339–350 | date= November 2010 | url=http://journals.sagepub.com/doi/10.1177/1756285610389656 | issn=1756-2864 | doi=10.1177/1756285610389656}}</ref><ref>{{cite book | vauthors=((Taylor, D.)), ((Paton, C.)), ((Kapur, S.)), ((Taylor, D.)), ((South London and Maudsley NHS Trust)), ((Oxleas NHS Foundation Trust)) | date= 2012 | title=The Maudsley prescribing guidelines in psychiatry | url=http://public.eblib.com/choice/publicfullrecord.aspx?p=849912 | isbn=9780470979693}}</ref>\n*'''Other:''' The use of low doses of quetiapine for insomnia, while common, is not recommended; there is little evidence of benefit and concerns regarding adverse effects.<ref>{{cite journal | vauthors=((Coe, H. V.)), ((Hong, I. S.)) | journal=Annals of Pharmacotherapy | title=Safety of Low Doses of Quetiapine When Used for Insomnia | volume=46 | issue=5 | pages=718–722 | date= May 2012 | url=http://journals.sagepub.com/doi/10.1345/aph.1Q697 | issn=1060-0280 | doi=10.1345/aph.1Q697}}</ref><ref>{{cite book | vauthors=((Maglione, M.)), ((Maher, A. R.)), ((Hu, J.)), ((Wang, Z.)), ((Shanman, R.)), ((Shekelle, P. G.)), ((Roth, B.)), ((Hilton, L.)), ((Suttorp, M. J.)), ((Ewing, B. A.)), ((Motala, A.)), ((Perry, T.)) | date= 2011 | title=Off-Label Use of Atypical Antipsychotics: An Update | publisher=Agency for Healthcare Research and Quality (US) | series=AHRQ Comparative Effectiveness Reviews | url=http://www.ncbi.nlm.nih.gov/books/NBK66081/}}</ref> It is sometimes used off-label, often as an augmentation agent, to treat conditions such as Tourette syndrome,<ref>{{cite journal | vauthors=((Mukaddes, N. M.)), ((Abali, O.)) | journal=Journal of Child and Adolescent Psychopharmacology | title=Quetiapine Treatment of Children and Adolescents with Tourette’s Disorder | volume=13 | issue=3 | pages=295–299 | date= September 2003 | url=https://www.liebertpub.com/doi/abs/10.1089/104454603322572624 | issn=1044-5463 | doi=10.1089/104454603322572624}}</ref> musical hallucinations<ref>{{cite book | vauthors=((Sacks, O.)) | date= 2008 | title=Musicophilia: tales of music and the brain | publisher=Vintage Books | isbn=9781400033539}}</ref> and anxiety disorders.<ref>{{cite journal | vauthors=((Becker, P. M.)) | journal=Current Treatment Options in Neurology | title=Treatment of sleep dysfunction and psychiatric disorders | volume=8 | issue=5 | pages=367–375 | date=1 October 2006 | url=https://doi.org/10.1007/s11940-006-0026-6 | issn=1534-3138 | doi=10.1007/s11940-006-0026-6}}</ref> It is particularly useful as a tool for forced sedation during bad trips or prolonged unwanted stimulation.\n\n==Toxicity and harm potential==\nQuetiapine likely has a [[Toxicity::low toxicity]] relative to dose. Although simply trying this substance at a low to moderate dosage is considered as quite safe, there is an emerging controversy regarding quetiapine fatalities. Approximately 10,000<ref>Questions loom over drug for sleepless vets | http://www.marinecorpstimes.com/article/20100830/NEWS/8300315/Questions-loom-over-drug-for-sleepless-vets</ref> lawsuits<ref>{{Citation | vauthors=((Wilson, D.)) | year=2011 | title=Heart Warning Added to Label on Popular Antipsychotic Drug | url=https://www.nytimes.com/2011/07/19/health/19drug.html}}</ref><ref>Seroquel linked to Deadly Side Effects | http://www.defendingtheconsumer.com/drug-injury-lawyer/seroquel-linked-to-deadly-side-effects/</ref><ref>Seroquel | http://www.resource4thepeople.com/defectivedrugs/seroquel.html</ref> against AstraZeneca for problems ranging from slurred speech and chronic insomnia to death have been filed by individuals from civilian populations.\n\nBoth typical and atypical antipsychotics can cause tardive dyskinesia.<ref name=\"Correll2008\">{{cite journal | vauthors=((Correll, C. U.)), ((Schenk, E. M.)) | journal=Current Opinion in Psychiatry | title=Tardive dyskinesia and new antipsychotics: | volume=21 | issue=2 | pages=151–156 | date= March 2008 | url=http://journals.lww.com/00001504-200803000-00012 | issn=0951-7367 | doi=10.1097/YCO.0b013e3282f53132}}</ref> According to one study, rates are lower with the atypicals at 3.9% as opposed to the typicals at 5.5%.<ref name=\"Correll2008\" /> Although quetiapine and clozapine are atypical antipsychotics, switching to these atypicals is an option to minimize symptoms of tardive dyskinesia caused by other atypicals.<ref>{{cite journal | vauthors=((Aia, P. G.)), ((Revuelta, G. J.)), ((Cloud, L. J.)), ((Factor, S. A.)) | journal=Current Treatment Options in Neurology | title=Tardive Dyskinesia | volume=13 | issue=3 | pages=231–241 | date=1 June 2011 | url=https://doi.org/10.1007/s11940-011-0117-x | issn=1534-3138 | doi=10.1007/s11940-011-0117-x}}</ref>\n\nWeight gain can be a problem for some, with quetiapine causing more weight gain than other more commonly used [[Antipsychotic|antipsychotics]].<ref>{{cite journal | vauthors=((Allison, D. B.)), ((Mentore, J. L.)), ((Heo, M.)), ((Chandler, L. P.)), ((Cappelleri, J. C.)), ((Infante, M. C.)), ((Weiden, P. J.)) | journal=American Journal of Psychiatry | title=Antipsychotic-Induced Weight Gain: A Comprehensive Research Synthesis | volume=156 | issue=11 | pages=1686–1696 | date=1 November 1999 | url=http://ajp.psychiatryonline.org/doi/10.1176/ajp.156.11.1686 | issn=0002-953X | doi=10.1176/ajp.156.11.1686}}</ref>\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Lethal dosage===\nCompared to other antipsychotics, quetiapine has been reported to be relatively safer in overdose.<ref>{{cite journal | vauthors=((Mattoo, S. K.)), ((Shah, R.)), ((Rajagopal, R.)), ((Biswas, P. S.)), ((Singh, S. M.)) | journal=Indian Journal of Psychiatry | title=Quetiapine: Relatively safe in overdose? | volume=51 | issue=2 | pages=139–140 | date= 2009 | url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755169/ | issn=0019-5545 | doi=10.4103/0019-5545.49456}}</ref> Most instances of acute overdoses result only in sedation, hypotension and tachycardia, but cardiac arrythmia, coma and death have occurred in adults. Quetiapine concentrations within the patients' blood are usually in the 1–10 mg/L range in overdose survivors, while postmortem blood levels of 10–25 mg/L are generally observed in fatal cases.<ref>{{cite journal | vauthors=((Fitzgerald, R. L.)) | journal=Clinical Chemistry | title=Disposition of Toxic Drugs and Chemicals in Man, 8th Edition. Randall C. Baselt. Foster City, CA: Biomedical Publications, 2009, 1720 pp, $247.50. ISBN 978-0- 9626523-7-0 | volume=55 | issue=12 | pages=2232–2232 | date=1 December 2009 | url=https://academic.oup.com/clinchem/article/55/12/2232/5629470 | issn=0009-9147 | doi=10.1373/clinchem.2009.133827}}</ref>\n\n===Tolerance and addiction potential===\nQuitiapine is [[Addiction potential::moderately physically and psychologically addictive]].\n\nTolerance will develop to the antipsychotic effects and [[Time to full tolerance::within a week of continuous use]]. The tolerance to the amount of sedation will be the most noticeable. After cessation, the tolerance returns to baseline in [[Time to zero tolerance::7 - 14 days]]. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. \n\nThe addictive qualities of quetiapine have not been formally studied and are largely known through anecdotal sources. For example, a letter to the editor that appeared in the January 2007 American Journal of Psychiatry has proposed a “need for additional studies to explore the addiction-potential of quetiapine”. The letter reports that its authors are physicians who work in the Ohio correctional system. They report that “prisoners have threatened legal action and even suicide when presented with discontinuation of quetiapine” and that they have “not seen similar drug-seeking behavior with other second-generation antipsychotics of comparable efficacy”.\n\n====Withdrawal symptoms====\nWithdrawal symptoms reported to occur after discontinuation of quetiapine and other antipsychotics include nausea, emesis, lightheadedness, diaphoresis, dyskinesia, orthostatic hypotension, tachycardia, insomnia, nervousness, dizziness, headache, excessive non-stop crying, and anxiety.<ref>{{cite journal | vauthors=((Kim, D. R.)), ((Staab, J. P.)) | journal=American Journal of Psychiatry | title=Quetiapine Discontinuation Syndrome | volume=162 | issue=5 | pages=1020–1020 | date= May 2005 | url=https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.162.5.1020 | issn=0002-953X | doi=10.1176/appi.ajp.162.5.1020}}</ref><ref>Reversible withdrawal dyskinesia associated with quetiapine | [http://onlinelibrary.wiley.com/{{cite journal | vauthors=((Michaelides, C.)), ((Thakore-James, M.)), ((Durso, R.)) | journal=Movement Disorders | title=Reversible withdrawal dyskinesia associated with quetiapine | volume=20 | issue=6 | pages=769–770 | date= June 2005 | url=https://onlinelibrary.wiley.com/doi/10.1002/mds.20427 | issn=0885-3185 | doi=10.1002/mds.20427}} http://onlinelibrary.wiley.com/Michaelides,+C.,+Thakore-James,+M.,+Durso,+R.+(June+2005).+%22Reversible+withdrawal+dyskinesia+associated+with+quetiapine%22.+Movement+Disorders.+20+(6):+769–770.+doi:10.1002/mds.20427.+ISSN 0885-3185.]</ref> According to Eli Lilly internal documents, discontinuation of atypical neuroleptics similar to seroquel can also cause psoriasis, gingivitis and other inflammatory conditions, dyspepsia, headache, high blood sugar and other health conditions unrelated to psychiatric condition.<ref>{{Citation | title=Seroquel, Seroquel XR (quetiapine) dosing, indications, interactions, adverse effects, and more | url=https://reference.medscape.com/drug/seroquel-xr-quetiapine-342984#10}}</ref><ref>http://www.medicines.org.uk/emc/medicine/26575/SPC/Quetiapine+25+mg+film-coated+tablets/</ref>\n\n====Dangerous interactions====\n{{DangerousInteractions/Intro}}\n\n*'''[[DangerousInteraction::Depressants]]''' (''[[1,4-Butanediol]], [[2M2B]], [[alcohol]], [[benzodiazepines]], [[barbiturates]], [[GHB]]/[[GBL]], [[methaqualone]], [[opioids]]'') - This combination potentiates the [[muscle relaxation]], [[amnesia]], [[sedation]], and [[respiratory depression]] caused by one another. At higher doses, it can lead to a sudden, unexpected loss of consciousness along with a dangerous amount of depressed respiration. There is also an increased risk of suffocating on one's vomit while unconscious. If [[nausea]] or vomiting occurs before a loss of consciousness, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n\n*'''[[UncertainInteraction::Stimulants]]''' -  It can be dangerous to combine depressants with [[stimulants]] due to the risk of accidental excessive intoxication. Stimulants mask the [[sedation|sedative]] effect of depressants, which is the main factor most people use to gauge their level of intoxication. Once the stimulant effects wear off, the effects of the depressant will significantly increase, leading to intensified [[disinhibition]], [[motor control loss]], and dangerous [[amnesia|black-out states]]. This combination can also potentially result in severe dehydration if one's fluid intake is not closely monitored. If choosing to combine these substances, one should strictly limit themselves to a pre-set schedule of dosing only a certain amount per hour until a maximum threshold has been reached.\n\n*'''[[UncertainInteraction::Dissociatives]]''' - This combination can unpredictably potentiate the [[amnesia]], [[sedation]], [[motor control loss]] and [[delusions]] that can be caused by each other. It may also result in a sudden loss of consciousness accompanied by a dangerous degree of [[respiratory depression]]. If [[nausea]] or vomiting occurs before consciousness is lost, users should attempt to fall asleep in the [[recovery position]] or have a friend move them into it.\n\n==Legal status==\n\n*'''Austria:''' It is available by prescription only and unscheduled.{{citation needed}}\n*'''France:''' It is available by prescription only and unscheduled.{{citation needed}}\n*'''Germany:''' Quetiapine is a prescription medicine, according to Anlage 1 AMVV.<ref>{{Citation | title=Anlage 1 AMVV - Einzelnorm | url=https://www.gesetze-im-internet.de/amvv/anlage_1.html}}</ref>\n*'''Switzerland:''' Quetiapine is listed as a \"Abgabekategorie B\" pharmaceutical, which requires a prescription.{{citation needed}}\n*'''United Kingdom:''' Available by prescription only - unscheduled, but unpopular.{{citation needed}}\n*'''United States:''' Quetiapine (Seroquel) is unscheduled in the United States, but is available by prescription only. This means that sales and distribution are allowed only by those with a license and only to those with a prescription (according to FDA regulations). Possession is not illegal even without a prescription.{{citation needed}}\n\n==See also==\n\n*[[Responsible use]]\n*[[Depressants]]\n*[[Antipsychotics]]\n\n==External links==\n\n*[http://en.wikipedia.org/wiki/Quetiapine Quetiapine (Wikipedia)]\n*[https://www.erowid.org/pharms/quetiapine/ Quetiapine (Erowid Vault)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=8686 Quetiapine (TiHKAL / Isomer Design)]\n*[https://go.drugbank.com/drugs/DB01224 Quetiapine (DrugBank)]\n*[https://www.drugs.com/quetiapine.html Quetiapine (Drugs.com)]\n*[https://drugs-forum.com/wiki/Quetiapine Quetiapine (Drugs-Forum)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n[[Category:Psychoactive substance]]\n[[Category:Piperidine]]\n[[Category:Antihistamine]]\n[[Category:Depressant]]\n[[Category:Antipsychotic]]"
+}

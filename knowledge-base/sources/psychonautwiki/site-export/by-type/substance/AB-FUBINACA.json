@@ -1,0 +1,410 @@
+{
+ "id": "psychonautwiki:7198",
+ "type": "substance",
+ "title": "AB-FUBINACA",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/AB-FUBINACA",
+  "pageid": 7198,
+  "last_edited": "2022-07-23T00:41:36Z"
+ },
+ "categories": [
+  "CS1 German-language sources (de)",
+  "CS1 Polish-language sources (pl)",
+  "Cannabinoid",
+  "Indazolecarboxamide",
+  "Research chemical"
+ ],
+ "substance_box_template": "SubstanceBox/AB-FUBINACA",
+ "substance_box": {
+  "names": {
+   "common": "Ab-fubi",
+   "substitutive": "AB-FUBINACA",
+   "systematic": "N-[(1S)-1-(Aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide"
+  },
+  "classes": {
+   "psychoactive": "Cannabinoid",
+   "chemical": "Indazolecarboxamide"
+  },
+  "routes_of_administration": {
+   "smoked": {
+    "enabled": true,
+    "caption": "",
+    "collapsed": "false",
+    "bioavailability": "",
+    "threshold": "< 1 mg",
+    "light": "1 - 2 mg",
+    "common": "2 - 3 mg",
+    "strong": "3 - 5 mg",
+    "heavy": "5 mg +",
+    "duration": "1 - 2 hours",
+    "onset": "0 - 20 minutes",
+    "peak": "30 - 60 minutes",
+    "offset": "10 - 20 minutes",
+    "aftereffects": "15 - 30 minutes",
+    "timelinefile": "",
+    "timelinewidth": ""
+   },
+   "oral": {
+    "enabled": false,
+    "caption": "",
+    "collapsed": "true",
+    "bioavailability": "",
+    "threshold": "< x mg",
+    "light": "x - x mg",
+    "common": "x - x mg",
+    "strong": "x - x mg",
+    "heavy": ">  mg",
+    "duration": "x - x hours",
+    "onset": "x minutes",
+    "peak": "x hours",
+    "offset": "x hours",
+    "aftereffects": "x hours",
+    "timelinefile": "",
+    "timelinewidth": ""
+   }
+  },
+  "semantic_properties": {
+   "common name": [
+    "Ab-fubi"
+   ],
+   "Psychoactive class": [
+    "Cannabinoid"
+   ],
+   "chemical class": [
+    "Indazolecarboxamide"
+   ],
+   "Smoked threshold dose": [
+    "1"
+   ],
+   "Smoked dose units": [
+    "mg"
+   ],
+   "Smoked min light dose": [
+    "1"
+   ],
+   "Smoked max light dose": [
+    "2"
+   ],
+   "Smoked min common dose": [
+    "2"
+   ],
+   "Smoked max common dose": [
+    "3"
+   ],
+   "Smoked min strong dose": [
+    "3"
+   ],
+   "Smoked max strong dose": [
+    "5"
+   ],
+   "Smoked heavy dose": [
+    "5"
+   ],
+   "Smoked min total time": [
+    "1"
+   ],
+   "Smoked max total time": [
+    "2"
+   ],
+   "Smoked total time units": [
+    "hours"
+   ],
+   "Smoked min onset time": [
+    "0"
+   ],
+   "Smoked max onset time": [
+    "20"
+   ],
+   "Smoked onset time units": [
+    "minutes"
+   ],
+   "Smoked min peak time": [
+    "30"
+   ],
+   "Smoked max peak time": [
+    "60"
+   ],
+   "Smoked peak time units": [
+    "minutes"
+   ],
+   "Smoked min offset time": [
+    "10"
+   ],
+   "Smoked max offset time": [
+    "20"
+   ],
+   "Smoked offset time units": [
+    "minutes"
+   ],
+   "Smoked min afterglow time": [
+    "15"
+   ],
+   "Smoked max afterglow time": [
+    "30"
+   ],
+   "Smoked afterglow time units": [
+    "minutes"
+   ]
+  }
+ },
+ "substance_box_params": {
+  "displayClasses": {
+   "raw": "{{{displayClasses|}}}",
+   "clean": "}"
+  },
+  "MaterialTable_MaxWidth": {
+   "raw": "250px",
+   "clean": "250px"
+  },
+  "MaterialTable_Title": {
+   "raw": "{{PAGENAME}}",
+   "clean": ""
+  },
+  "ModuleSource": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleCombination": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "ModuleStructure": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleNomenclature": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleClassMembership": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "ModuleROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "PhotoImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "PhotoImageCaption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage1_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage2_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_File": {
+   "raw": "",
+   "clean": ""
+  },
+  "CombinationImage3_Width": {
+   "raw": "",
+   "clean": ""
+  },
+  "MolecularStructureCaption": {
+   "raw": "Molecular structure of AB-FUBINACA",
+   "clean": "Molecular structure of AB-FUBINACA"
+  },
+  "SkeletalImageFile": {
+   "raw": "File:AB-FUBINACA.svg",
+   "clean": "File:AB-FUBINACA.svg"
+  },
+  "SkeletalImageWidth": {
+   "raw": "245px",
+   "clean": "245px"
+  },
+  "3DImageFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "3DImageWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "NameCommon": {
+   "raw": "[[common name::Ab-fubi]]",
+   "clean": "Ab-fubi"
+  },
+  "NameSubstitution": {
+   "raw": "AB-FUBINACA",
+   "clean": "AB-FUBINACA"
+  },
+  "NameSystematic": {
+   "raw": "N-[(1S)-1-(Aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+   "clean": "N-[(1S)-1-(Aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide"
+  },
+  "EffectClass": {
+   "raw": "[[Psychoactive class::Cannabinoid]]",
+   "clean": "Cannabinoid"
+  },
+  "ChemicalClass": {
+   "raw": "[[chemical class::Indazolecarboxamide]]",
+   "clean": "Indazolecarboxamide"
+  },
+  "SmokedROA": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "SmokedROA_Collapsed": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "SmokedROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Threshold": {
+   "raw": "< [[Smoked threshold dose::1]] [[Smoked dose units::mg]]",
+   "clean": "< 1 mg"
+  },
+  "SmokedROA_Light": {
+   "raw": "[[Smoked min light dose::1]] - [[Smoked max light dose::2]] mg",
+   "clean": "1 - 2 mg"
+  },
+  "SmokedROA_Common": {
+   "raw": "[[Smoked min common dose::2]] - [[Smoked max common dose::3]] mg",
+   "clean": "2 - 3 mg"
+  },
+  "SmokedROA_Strong": {
+   "raw": "[[Smoked min strong dose::3]] - [[Smoked max strong dose::5]] mg",
+   "clean": "3 - 5 mg"
+  },
+  "SmokedROA_Heavy": {
+   "raw": "[[Smoked heavy dose::5]] mg +",
+   "clean": "5 mg +"
+  },
+  "SmokedROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "SmokedROA_Duration": {
+   "raw": "[[Smoked min total time::1]] - [[Smoked max total time::2]] [[Smoked total time units::hours]]",
+   "clean": "1 - 2 hours"
+  },
+  "SmokedROA_Onset": {
+   "raw": "[[Smoked min onset time::0]] - [[Smoked max onset time::20]] [[Smoked onset time units::minutes]]",
+   "clean": "0 - 20 minutes"
+  },
+  "SmokedROA_Peak": {
+   "raw": "[[Smoked min peak time::30]] - [[Smoked max peak time::60]] [[Smoked peak time units::minutes]]",
+   "clean": "30 - 60 minutes"
+  },
+  "SmokedROA_Offset": {
+   "raw": "[[Smoked min offset time::10]] - [[Smoked max offset time::20]] [[Smoked offset time units::minutes]]",
+   "clean": "10 - 20 minutes"
+  },
+  "SmokedROA_Aftereffects": {
+   "raw": "[[Smoked min afterglow time::15]] - [[Smoked max afterglow time::30]] [[Smoked afterglow time units::minutes]]",
+   "clean": "15 - 30 minutes"
+  },
+  "OralROA": {
+   "raw": "false",
+   "clean": "false"
+  },
+  "OralROA_Collapsed": {
+   "raw": "true",
+   "clean": "true"
+  },
+  "OralROA_Caption": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Bioavailability": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Threshold": {
+   "raw": "< x mg",
+   "clean": "< x mg"
+  },
+  "OralROA_Light": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Common": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Strong": {
+   "raw": "x - x mg",
+   "clean": "x - x mg"
+  },
+  "OralROA_Heavy": {
+   "raw": ">  mg",
+   "clean": ">  mg"
+  },
+  "OralROA_TimelineFile": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_TimelineWidth": {
+   "raw": "",
+   "clean": ""
+  },
+  "OralROA_Duration": {
+   "raw": "x - x hours",
+   "clean": "x - x hours"
+  },
+  "OralROA_Onset": {
+   "raw": "x minutes",
+   "clean": "x minutes"
+  },
+  "OralROA_Peak": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Offset": {
+   "raw": "x hours",
+   "clean": "x hours"
+  },
+  "OralROA_Aftereffects": {
+   "raw": "x hours",
+   "clean": "x hours"
+  }
+ },
+ "plain_text": "AB-FUBINACA is a novel synthetic cannabinoid compound. Members of this group produce cannabis-like effects when administered.\n\nAB-FUBINACA was originally developed by Pfizer in 2009 as an analgesic medication, but was not pursued for human use. Subsequently in 2012, it was discovered as an ingredient in synthetic cannabis blends in Japan along with a related compound AB-PINACA which had not previously been reported.\n\nCannabinoids are commonly smoked or vaporized to achieve a quick onset of effects and rapid offset. AB-FUBINACA is orally active when dissolved in a lipid, which can increase the duration significantly. Like other cannabinoids, it is insoluble in water but dissolves in ethanol and lipids.\n\nUnlike cannabis, the chronic abuse of synthetic cannabinoids has been associated with multiple deaths and more dangerous side effects and higher toxicity. It is strongly discouraged to take this substance for extended periods of time or in high doses.\n\nChemistry\n\nAB-FUBINACA, or N-[(1S)-1-(Aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide, is a synthetic indazolecarboxamide drug as it contains a substituted indazole core. A 4-substituted fluorophenyl group is bound to this indazole core through a methyl group at R1 of the indazole. This indazole is substituted at R3 with a carboxamide group. The terminal amine of this carboxamide is bonded to a substituted propyl chain with an aminocarbonyl group at R1 and a methyl group at R2.\n\nPharmacology\n\nAlthough this substance has not been formally studied, from analysis of the structure, it is presumed that AB-FUBINACA has a similar binding profile to that of other cannabinoids and matches many of the in vivo properties of Δ9-THC. AB-FUBINACA exhibits its range of effects via full agonism of both the CB1 and CB2 cannabinoid receptors, with some selectivity for CB2. However, the role of these interactions and how they result in the cannabinoid high experience continues to remain elusive.\n\nSubjective effects\n\nExperience reports\n\nThere are currently no anecdotal reports which describe the effects of this compound within our experience index. Additional experience reports can be found here:\n\n*Erowid Experience Vaults: AB-FUBINACA\n\nToxicity and harm potential\n\nThe toxicity and long-term health effects of recreational AB-FUBINACA use do not seem to have been studied in any scientific context and the exact toxic dosage is unknown. This is because AB-FUBINACA has very little history of human usage. Anecdotal evidence from people who have tried AB-FUBINACA within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). Informal experiments have shown that overdose will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer large amounts of anxiety or to fall asleep. \n\nIt is worth noting that this compound has been linked to multiple hospitalizations and deaths due to its use.\n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase one's current state of mind and emotions. Also, like THC, prolonged usage of synthetic cannabinoids may increase one's disposition to mental illness and psychosis, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a typical dose), it is important to use proper precautions when dosing to avoid a negative experience.\n\nIt is strongly recommended that one use harm reduction practices when using this drug.\n\nTolerance and addiction potential\n\nAs with other synthetic cannabinoids, the chronic use of AB-FUBINACA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of AB-FUBINACA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). AB-FUBINACA presents cross-tolerance with all cannabinoids, meaning that after the consumption of AB-FUBINACA all cannabinoids will have a reduced effect.\n\nDangerous interactions\n\nLegal status\n\nInternationally, AB-FUBINACA was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.\n\n*China: As of October 2015 AB-FUBINACA is a controlled substance in China.\n*Germany: AB-FUBINACA is controlled under Anlage II BtMG (Narcotics Act, Schedule II) as of December 13, 2014. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.\n*Latvia: AB-FUBINACA is a Schedule I drug.\n*Poland: AB­-FUBINACA is under the II-P group as of March 11, 2021. It is illegal to own, possess, and sell in Poland.\n*Switzerland: AB-FUBINACA is a controlled substance specifically named under Verzeichnis E.\n*United Kingdom: AB-FUBINACA is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import. \n*United States: In January 2014, AB-FUBINACA was designated as a Schedule I controlled substance in the United States.\n\nSee also\n\n*Responsible use\n*Cannabis\n*Cannabinoid\n*THJ-018\n\nExternal links\n\n*AB-FUBINACA (Wikipedia)\n*AB-FUBINACA (Isomer Design)\n\nDiscussion\n\n*AB-FUBINACA (UKCR)\n\nReferences\n\nCategory:Research chemical\nCategory:Indazolecarboxamide\nCategory:Cannabinoid",
+ "wikitext": "{{SummarySheet}}\n{{SubstanceBox/AB-FUBINACA}}\n\n'''AB-FUBINACA''' is a novel synthetic [[Psychoactive class::cannabinoid]] compound. Members of this group produce cannabis-like effects when [[administered]].\n\nAB-FUBINACA was originally developed by Pfizer in 2009 as an [[analgesic]] medication,<ref>{{cite journal | vauthors=((Howlett, A. C.)) | journal=Prostaglandins & Other Lipid Mediators | title=The cannabinoid receptors | volume=68–69 | pages=619–631 | date= August 2002 | issn=1098-8823 | doi=10.1016/s0090-6980(02)00060-6}}</ref> but was not pursued for human use. Subsequently in 2012, it was discovered as an ingredient in synthetic cannabis blends in Japan<ref>{{cite journal | vauthors=((Uchiyama, N.)), ((Matsuda, S.)), ((Wakana, D.)), ((Kikura-Hanajiri, R.)), ((Goda, Y.)) | journal=Forensic Toxicology | title=New cannabimimetic indazole derivatives, N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) and N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA) identified as designer drugs in illegal products | volume=31 | issue=1 | pages=93–100 | date= January 2013 | url=http://link.springer.com/10.1007/s11419-012-0171-4 | issn=1860-8965 | doi=10.1007/s11419-012-0171-4}}</ref> along with a related compound [[AB-PINACA]] which had not previously been reported.\n\nCannabinoids are commonly smoked or vaporized to achieve a quick [[onset]] of effects and rapid [[offset]]. AB-FUBINACA is [[oral]]ly active when dissolved in a lipid, which can increase the duration significantly. Like other [[cannabinoid]]s, it is insoluble in water but dissolves in [[ethanol]] and lipids.\n\nUnlike [[cannabis]], the chronic abuse of [[synthetic cannabinoids]] has been [[Synthetic_cannabinoid#Deaths|associated with multiple deaths]] and [[Synthetic cannabinoid#Harm potential|more dangerous side effects and higher toxicity]]. It is strongly discouraged to take this substance for extended periods of time or in high doses.\n\n==Chemistry==\nAB-FUBINACA, or N-[(1S)-1-(Aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide, is a synthetic [[Chemical class::indazolecarboxamide]] drug as it contains a substituted indazole core. A 4-substituted fluorophenyl group is bound to this indazole core through a methyl group at R<sub>1</sub> of the indazole. This indazole is substituted at R<sub>3</sub> with a carboxamide group. The terminal amine of this carboxamide is bonded to a substituted propyl chain with an aminocarbonyl group at R<sub>1</sub> and a methyl group at R<sub>2</sub>.\n\n==Pharmacology==\nAlthough this substance has not been formally studied, from analysis of the structure, it is presumed that AB-FUBINACA has a similar binding profile to that of other [[cannabinoids]] and matches many of the in vivo properties of [[Δ9-THC]]. AB-FUBINACA exhibits its range of effects via full [[agonism]] of both the [[Cannabinoid#Cannabinoid_receptor_type_1|CB1]] and [[Cannabinoid#Cannabinoid_receptor_type_2|CB2]] [[cannabinoid]] [[receptors]], with some selectivity for CB2. However, the role of these interactions and how they result in the cannabinoid high experience continues to remain elusive.\n\n==Subjective effects==\n{{Preamble/SubjectiveEffects}}\n{{effects/base\n|{{effects/physical|\n*'''[[Effect::Sedation]]''' - Generally, the effects on the user's energy levels are primarily sedating. This encourages one to relax, and (at higher doses) fall asleep. This can be suppressed by simply forcing oneself to engage in physical activities.\n*'''[[Effect::Spontaneous physical sensations]]''' - The \"body high\" of AB-FUBINACA may be described as a warm, soft, pleasurable, all-encompassing tingling sensation that spreads over the body after initial ingestion. It maintains a consistent presence that quickly rises with the onset and hits its limit once the peak has been reached before immediately dissipating. At high doses, this can become uncomfortably intense.\n*'''[[Effect::Motor control loss]]''' - This substance causes a partial to moderate suppression of motor control which intensifies proportional to dose but rarely results in a complete inability to walk and perform basic movements.\n*'''[[Effect::Appetite enhancement]]''' - As with many other cannabinoids, AB-FUBINACA causes an increase in appetite<ref>{{cite book | veditors=((Mechoulam, R.)) | date= 1986 | title=Cannabinoids as therapeutic agents | publisher=CRC Press | isbn=9780849357725}}</ref>, known colloquially as \"the munchies\" in popular American and United Kingdom culture. Clinical studies and survey data have found that cannabis increases food enjoyment and interest in food.<ref name=\"HMW\">{{Citation | year=2001 | title=How Marijuana Works | url=https://science.howstuffworks.com/marijuana.htm}}</ref> This is thought to be due to the way in which endocannabinoids in the hypothalamus activate cannabinoid receptors that are responsible for maintaining food intake.<ref name=\"HMW\"></ref>\n*'''[[Effect::Changes in felt gravity]]''' - AB-FUBINACA can cause vertigo with which the environment appears to be spinning or oscillating. At moderate doses, it can spontaneously induce the sensation of falling, which can be overwhelming and uncomfortable.\n*'''[[Effect::Perception of bodily heaviness]]''' ''or'' '''[[Perception of bodily lightness]]'''\n*'''[[Effect::Dehydration]]'''\n*'''[[Effect::Dry mouth]]'''\n*'''[[Effect::Nausea]]'''\n\n}}\n{{effects/visual|\n*'''[[Effect::Recursion]]'''\n*'''[[Effect::Visual haze]]'''\n*'''[[Effect::Geometry]]'''\n\n}}\n|{{effects/cognitive|\n*'''[[Effect::Anxiety]]'''\n*'''[[Effect::Paranoia]]''' - All cannabinoids are capable of inducing paranoia at high doses or with chronic administration.\n*'''[[Effect::Thought connectivity]]'''\n*'''[[Effect::Thought deceleration]]'''\n*'''[[Effect::Conceptual thinking]]'''\n*'''[[Effect::Analysis suppression]]'''\n*'''[[Effect::Dream suppression]]'''\n*'''[[Effect::Immersion enhancement]]'''\n*'''[[Effect::Psychosis]]''' - The prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to psychosis<ref name=\"Arseneault2018\">{{cite journal | vauthors=((Arseneault, L.)), ((Cannon, M.)), ((Witton, J.)), ((Murray, R. M.)) | journal=The British Journal of Psychiatry | title=Causal association between cannabis and psychosis: examination of the evidence | volume=184 | issue=2 | pages=110–117 | date= February 2004 | url=https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/causal-association-between-cannabis-and-psychosis-examination-of-the-evidence/71BA37D16485F186CE7B6B785E5B69A4 | issn=0007-1250 | doi=10.1192/bjp.184.2.110}}</ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer\">{{cite journal | vauthors=((Every-Palmer, S.)) | journal=Drug and Alcohol Dependence | title=Synthetic cannabinoid JWH-018 and psychosis: An explorative study | volume=117 | issue=2–3 | pages=152–157 | date= September 2011 | url=https://linkinghub.elsevier.com/retrieve/pii/S0376871611000639 | issn=03768716 | doi=10.1016/j.drugalcdep.2011.01.012}}</ref><ref name=\"Schneir2011\">{{cite journal | vauthors=((Schneir, A. B.)), ((Cullen, J.)), ((Ly, B. T.)) | journal=The Journal of Emergency Medicine | title=“Spice” Girls: Synthetic Cannabinoid Intoxication | volume=40 | issue=3 | pages=296–299 | date=1 March 2011 | url=https://www.sciencedirect.com/science/article/pii/S0736467910008802 | issn=0736-4679 | doi=10.1016/j.jemermed.2010.10.014}}</ref><ref name=\"Osterhoudt2010\">{{cite journal | vauthors=((Vearrier, D.)), ((Osterhoudt, K. C.)) | journal=Pediatric Emergency Care | title=A Teenager With Agitation: Higher Than She Should Have Climbed | volume=26 | issue=6 | pages=462–465 | date= June 2010 | url=http://journals.lww.com/00006565-201006000-00016 | issn=0749-5161 | doi=10.1097/PEC.0b013e3181e4f416}}</ref>\n*'''[[Effect::Personal meaning enhancement]]'''\n*'''[[Effect::Increased music appreciation]]'''\n\n}}\n{{effects/auditory|\n*'''[[Effect::Auditory distortion]]'''\n*'''[[Effect::Auditory hallucination]]'''\n}}\n}}\n===Experience reports===\nThere are currently no anecdotal reports which describe the effects of this compound within our [[experience index]]. Additional experience reports can be found here:\n\n*[https://www.erowid.org/experiences/subs/exp_ABFUBINACA.shtml Erowid Experience Vaults: AB-FUBINACA]\n\n==Toxicity and harm potential==\n{{further|Synthetic cannabinoid#Toxicity and harm potential|Research chemicals#Toxicity and harm potential}}\nThe toxicity and long-term health effects of recreational AB-FUBINACA use do not seem to have been studied in any scientific context and the [[Toxicity::exact toxic dosage is unknown]]. This is because AB-FUBINACA has very little history of human usage. Anecdotal evidence from people who have tried AB-FUBINACA within the community suggest that there do not seem to be any negative health effects attributed to simply trying this drug at low to moderate doses by itself and using it sparingly (but nothing can be completely guaranteed). Informal experiments have shown that overdose will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer large amounts of [[anxiety]] or to fall asleep. \n\nIt is worth noting that this compound has been linked to multiple hospitalizations and deaths due to its use.<ref>{{cite journal | vauthors=((Trecki, J.)), ((Gerona, R. R.)), ((Schwartz, M. D.)) | journal=New England Journal of Medicine | title=Synthetic Cannabinoid–Related Illnesses and Deaths | volume=373 | issue=2 | pages=103–107 | date=9 July 2015 | url=https://doi.org/10.1056/NEJMp1505328 | issn=0028-4793 | doi=10.1056/NEJMp1505328}}</ref><ref>{{cite journal | vauthors=((Klavž, J.)), ((Gorenjak, M.)), ((Marinšek, M.)) | journal=Forensic Science International | title=Suicide attempt with a mix of synthetic cannabinoids and synthetic cathinones: Case report of non-fatal intoxication with AB-CHMINACA, AB-FUBINACA, alpha-PHP, alpha-PVP and 4-CMC | volume=265 | pages=121–124 | date= August 2016 | url=https://linkinghub.elsevier.com/retrieve/pii/S0379073816000372 | issn=03790738 | doi=10.1016/j.forsciint.2016.01.018}}</ref>\n\nIt has often been recommended that those with severe pre-existing mental conditions should not ingest these substances due to the way they strongly increase [[emotion enhancement|one's current state of mind and emotions]]. Also, like [[THC]], prolonged usage of synthetic [[cannabinoids]] may increase one's disposition to mental illness and psychosis<ref name=\"Arseneault2018\"></ref>, particularly in vulnerable individuals with risk factors for psychotic illnesses (like a past or family history of schizophrenia).<ref name=\"Every-Palmer\"></ref><ref name=\"Schneir2011\"></ref><ref name=\"Osterhoudt2010\"></ref>\n\nAs synthetic cannabinoids are active in the milligram range (with below 5mg being a typical dose), it is important to [[Dosage|use proper precautions when dosing]] to avoid a negative experience.\n\nIt is strongly recommended that one use [[responsible drug use|harm reduction practices]] when using this drug.\n===Tolerance and addiction potential===\nAs with other synthetic cannabinoids, the chronic use of AB-FUBINACA can be considered [[Addiction potential::moderately addictive with a high potential for abuse]] and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and [[withdrawal effects]] may occur if a person suddenly stops their usage.\n\nTolerance to many of the effects of AB-FUBINACA [[Time to full tolerance::develops with prolonged and repeated use]]. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about [[Time to half tolerance::3 - 7 days]] for the tolerance to be reduced to half and [[Time to zero tolerance::1 - 2 weeks]] to be back at baseline (in the absence of further consumption). AB-FUBINACA presents cross-tolerance with [[Cross-tolerance::all [[cannabinoids]]]], meaning that after the consumption of AB-FUBINACA all cannabinoids will have a reduced effect.\n\n===Dangerous interactions===\n{{DangerousInteractions/Intro}}\n{{DangerousInteractions/Cannabis}}\n\n==Legal status==\nInternationally, AB-FUBINACA was added to the UN Convention on Psychotropic Substances as a Schedule II controlled substance in March 2020.<ref>{{cite web|url=https://www.unodc.org/LSS/Announcement/Details/021820a0-8746-42a4-9ee3-47ce50b30ca3|date=December 2019|title=WHO: World Health Organization recommends 12 NPS for scheduling|access-date=October 16, 2020}}</ref><ref>{{cite web|url=https://www.who.int/news/item/18-03-2020-c-n-d-accepts-all-w-h-o-recommendations-from-42nd-e-c-d-d|title=CND accepts all WHO recommendations on the control of several psychoactive substances from the 42nd ECDD meeting|date=March 18, 2020|publisher=World Health Organization (WHO)|access-date=October 16, 2020}}</ref>\n\n*'''China''': As of October 2015 AB-FUBINACA is a controlled substance in China.<ref>关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | http://www.sfda.gov.cn/WS01/CL0056/130753.html</ref>\n*'''Germany''': AB-FUBINACA is controlled under Anlage II BtMG (''Narcotics Act, Schedule II'')<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/anlage_ii.html|title=Anlage II BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 30, 2019|language=de}}</ref> as of December 13, 2014.<ref>{{cite web|url=http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl114s1999.pdf|title=Achtundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften|publisher=Bundesanzeiger Verlag|work=Bundesgesetzblatt Jahrgang 2014 Teil I Nr. 57|pages=1999-2002|publication-date=December 12, 2014|access-date=December 19, 2019|language=de}}</ref> It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<ref>{{cite web|url=https://www.gesetze-im-internet.de/btmg_1981/__29.html|title=§ 29 BtMG|publisher=Bundesministerium der Justiz und für Verbraucherschutz|access-date=December 19, 2019|language=de}}</ref>\n*'''Latvia''': AB-FUBINACA is a Schedule I drug.<ref>{{Citation | title=Zaudējis spēku - Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem | url=https://likumi.lv/doc.php?id=121086}}</ref>\n*'''Poland''': AB­-FUBINACA is under the II-P group as of March 11, 2021.<ref>{{cite web |url=https://dziennikustaw.gov.pl/DU/rok/2021/pozycja/518 |title=Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych |language=Polish |work=DZIENNIK USTAW 2021 R. POZ. 518 |date=2021-03-22 |deadurl=no }}</ref> It is illegal to own, possess, and sell in Poland.<ref>{{cite web |url=https://dziennikustaw.gov.pl/D2021000051801.pdf |format=PDF |title=Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych |language=Polish |work=DZIENNIK USTAW 2021 R. POZ. 518 |date=2021-03-22 }}</ref>\n*'''Switzerland''': AB-FUBINACA is a controlled substance specifically named under Verzeichnis E.<ref>{{cite web|url=https://www.admin.ch/opc/de/classified-compilation/20101220/index.html|title=Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien|publisher=Bundeskanzlei [Federal Chancellery of Switzerland]|access-date=January 1, 2020|language=de}}</ref>\n*'''United Kingdom''': AB-FUBINACA is a Class B controlled substance under the third-generation synthetic cannabinoids generic definition, which came into effect on December 14, 2016 and is illegal to possess, produce, supply, or import. <ref>{{Citation | title=The Misuse of Drugs Act 1971 (Amendment) Order 2016 | url=https://www.legislation.gov.uk/uksi/2016/1109/made}}</ref>\n*'''United States''': In January 2014, AB-FUBINACA was designated as a Schedule I controlled substance in the United States.<ref>{{cite journal | vauthors=((Behonick, G.)), ((Shanks, K. G.)), ((Firchau, D. J.)), ((Mathur, G.)), ((Lynch, C. F.)), ((Nashelsky, M.)), ((Jaskierny, D. J.)), ((Meroueh, C.)) | journal=Journal of Analytical Toxicology | title=Four postmortem case reports with quantitative detection of the synthetic cannabinoid, 5F-PB-22 | volume=38 | issue=8 | pages=559–562 | date= October 2014 | issn=1945-2403 | doi=10.1093/jat/bku048}}</ref>\n\n==See also==\n\n*[[Responsible use]]\n*[[Cannabis]]\n*[[Cannabinoid]]\n*[[THJ-018]]\n\n==External links==\n\n*[https://en.wikipedia.org/wiki/AB-FUBINACA AB-FUBINACA (Wikipedia)]\n*[https://isomerdesign.com/PiHKAL/explore.php?id=2634 AB-FUBINACA (Isomer Design)]\n\n===Discussion===\n\n*[https://www.ukchemicalresearch.org/Thread-AB-FUBINACA AB-FUBINACA (UKCR)]\n\n==References==\n<references />\n{{#set:Featured=true}}\n[[Category:Research chemical]]\n[[Category:Indazolecarboxamide]]\n[[Category:Cannabinoid]]"
+}

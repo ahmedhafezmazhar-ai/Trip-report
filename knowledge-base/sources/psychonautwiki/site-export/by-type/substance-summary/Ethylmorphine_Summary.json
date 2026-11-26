@@ -1,0 +1,20 @@
+{
+ "id": "psychonautwiki:10907",
+ "type": "substance-summary",
+ "title": "Ethylmorphine/Summary",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Ethylmorphine/Summary",
+  "pageid": 10907,
+  "last_edited": "2015-11-13T07:57:18Z"
+ },
+ "categories": [
+  "Summary"
+ ],
+ "summary_of": "Ethylmorphine",
+ "plain_text": "",
+ "wikitext": "{{Summary|Ethylmorphine}}"
+}

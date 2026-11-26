@@ -1,0 +1,17 @@
+{
+ "id": "psychonautwiki:9698",
+ "type": "other",
+ "title": "Oscarette",
+ "source": {
+  "site": "PsychonautWiki",
+  "dataset": "psychonautwiki_db.zip (psychonautwiki.db, SQLite export provided by Hany, file dated 2026-11-25)",
+  "license": "CC BY-SA 4.0",
+  "imported": "2026-11-25",
+  "url": "https://psychonautwiki.org/wiki/Oscarette",
+  "pageid": 9698,
+  "last_edited": "2015-06-11T01:16:24Z"
+ },
+ "categories": [],
+ "plain_text": "This is a test blog post.",
+ "wikitext": "This is a test blog post."
+}
