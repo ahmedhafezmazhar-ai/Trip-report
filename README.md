@@ -14,6 +14,8 @@ This repository holds the design and the source material gathered so far. The ap
 
 ## Published pages
 
+- New site (v2), on GitHub Pages: https://ahmedhafezmazhar-ai.github.io/Trip-report/v2/ with substance pages (`substance.html`), the trip report writer (`report.html`) and tools (`tools.html`). Its data files in `docs/v2/data/` are built by `python3 tools/build_v2_data.py` from the PsychonautWiki export in the project knowledge base.
+
 - Substance map: https://claude.ai/artifact/HR819smztZeLjFUAFS1L6R
 - Featured FAQs: https://claude.ai/artifact/AsmpUPkQ9p4YUp8TmHt953
 

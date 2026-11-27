@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Write a trip report | Mazhar</title>
+<meta name="description" content="Write a detailed trip report: background, a timeline of the experience, and keywords for what you felt and saw.">
+<meta name="theme-color" content="#0b0716">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<main class="wrap" id="main"><div class="load">Loading…</div></main>
+
+<script src="assets/app.js"></script>
+<script>
+"use strict";
+const { $, $$, esc } = M;
+M.backdrop(); M.chrome("report");
+
+const AGES = ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"];
+const WEIGHTS = ["Under 50 kg", "50-59 kg", "60-69 kg", "70-79 kg", "80-89 kg", "90-99 kg", "100 kg or more"];
+const COUNTS = ["Once", "2-5 times", "6-20 times", "More than 20"];
+const SETTINGS = ["At home", "A friend's home", "Outdoors / nature", "Festival", "Club or party", "Ceremony or retreat", "Other"];
+const TESTED = [["reagent", "Yes, reagent test"], ["lab", "Yes, lab or drug checking service"], ["no", "No"], ["unknown", "Don't know"]];
+const STEPS = ["Substance", "Know first", "About you", "Doses", "Timeline", "Afterwards", "Review"];
+const LVL = ["", "Barely there", "Clear", "Strong", "Overwhelming"];
+
+let R, S, step = 0;
+const blank = (sub) => ({ id: M.uid(), substance: sub || "", status: "draft", created: new Date().toISOString(), updated: new Date().toISOString(), title: "", pen: "", read: false,
+  bg: { adult: false, age: "", past: [], pastText: "", settingType: "", setting: "", sitter: "", weight: "", meds: "", mood: "", intention: "", tested: "" },
+  doses: [{ t: 0, sub: sub || "", amount: "", route: "" }], timeline: [], after: "", summary: "" });
+
+function save() { R.updated = new Date().toISOString(); M.store.saveReport(R); }
+let saveT; function soon() { clearTimeout(saveT); saveT = setTimeout(save, 300); }
+
+/* "1:30" -> 90, "90" -> 90 (minutes), "2h" -> 120 */
+function parseT(v) {
+  v = String(v || "").trim().toLowerCase(); if (!v) return null;
+  let m;
+  if ((m = /^(\d{1,2}):(\d{1,2})$/.exec(v))) return +m[1] * 60 + +m[2];
+  if ((m = /^(\d+(?:\.\d+)?)\s*h/.exec(v))) return Math.round(+m[1] * 60);
+  if ((m = /^(\d+)\s*(m|min)?$/.exec(v))) return +m[1];
+  return null;
+}
+const showT = (t) => (t == null ? "" : `${Math.floor(t / 60)}:${String(t % 60).padStart(2, "0")}`);
+function routeOf() { const r = R.doses[0]?.route; return (S && (S.routes[r] || Object.values(S.routes)[0])) || null; }
+
+/* ---------- shell ---------- */
+function render() {
+  if (step > 0 && !S) step = 0;
+  $("#main").innerHTML = `<div class="page-head"><p class="kicker">Trip report${S ? " · " + esc(S.n) : ""}</p><h1 class="grad">Write about a past trip</h1>
+    <p class="lede">Your report helps other people know what to expect. Saved as you go, on this device only.</p></div>
+    <ol class="steps" aria-label="Steps">${STEPS.map((s, i) => `<li class="${i === step ? "on" : i < step ? "done" : ""}" ${i === step ? 'aria-current="step"' : ""}>${s}</li>`).join("")}</ol>
+    <div id="stepbody"></div>
+    <div class="sticky-actions"><button class="btn" id="back" ${step === 0 ? "hidden" : ""}>Back</button><span></span><button class="btn primary" id="next">${step === STEPS.length - 1 ? "Done" : "Next"}</button></div>`;
+  [stepSubstance, stepKnow, stepAbout, stepDoses, stepTimeline, stepAfter, stepReview][step]();
+  $("#back").onclick = () => { step--; render(); scrollTo(0, 0); };
+  $("#next").onclick = () => { const err = validate(); if (err) { M.toast(err); return; } save(); if (step < STEPS.length - 1) { step++; render(); scrollTo(0, 0); } else location.href = "substance.html?s=" + encodeURIComponent(S.n) + "#reports"; };
+  if (step === STEPS.length - 1) $("#next").textContent = `Back to ${S.n}`;
+}
+function validate() {
+  if (step === 0 && !S) return "Choose the substance first.";
+  if (step === 1 && !R.read) return "Please confirm you've read the safety information.";
+  if (step === 2) { if (!R.bg.adult) return "Trip reports are for adults (18+) only."; if (!R.bg.age) return "Choose your age range."; const iss = M.screen(R.pen); if (iss.length) return iss[0]; }
+  if (step === 4 && !R.timeline.some((e) => e.text.trim())) return "Add at least one moment to the timeline.";
+  if (step === 5) { const iss = M.screen([R.title, R.after, R.summary, R.bg.setting, ...R.timeline.map((e) => e.text)].join(" ")); if (iss.length) return iss[0]; }
+  return "";
+}
+
+/* ---------- 1. substance ---------- */
+function stepSubstance() {
+  $("#stepbody").innerHTML = `<section class="card"><h2>Which substance was it?</h2>
+    <p class="muted">Start typing a name, a street name or a chemical name. If you took more than one, pick the main one. You can add the others on the Doses step.</p>
+    <div class="field"><div><input type="search" id="sub" placeholder="e.g. LSD, mushrooms, MDMA" autocomplete="off" aria-label="Substance" value="${esc(S ? S.n : "")}"></div></div>
+    <div id="picked">${S ? picked() : ""}</div></section>`;
+  M.suggestBox($("#sub"), (s) => { setSub(s); $("#picked").innerHTML = picked(); });
+  if (!S) $("#sub").focus();
+}
+function picked() {
+  const other = S.common.split(",").map((x) => x.trim()).filter((x) => x && x !== S.n).slice(0, 8);
+  return `<div class="alert ok"><div><p><b>${esc(S.n)}</b> · ${esc(S.f)}, ${esc(S.c)}</p>${other.length ? `<p class="small">Also called ${esc(other.join(", "))}. Check this is the one you took. Names can be confusing.</p>` : ""}</div></div>`;
+}
+function setSub(s) {
+  const changed = S && S.n !== s.n; S = s; R.substance = s.n;
+  if (!R.doses[0].sub || changed) R.doses[0].sub = s.n;
+  if (!R.doses[0].route || changed) R.doses[0].route = Object.keys(s.routes)[0] || "";
+}
+
+/* ---------- 2. know first (D5.2) ---------- */
+function stepKnow() {
+  $("#stepbody").innerHTML = `<div class="stack"><section class="card"><h2>Know this first</h2>
+      <p class="muted">Before writing, look over the harm reduction information for ${esc(S.n)}. It also helps you describe your experience in the same terms other reports use.</p>
+      ${S.hasDose ? "" : `<div class="alert warn">${M.WARN_ICON}<div><b>No reliable dose data yet</b> for ${esc(S.n)}. Your report can help others, but treat any amount as an unknown risk.</div></div>`}
+      <h3>Dose and timeline</h3>${M.doseTable(S)}</section>
+    <section class="card"><h2>Combinations to watch</h2>${M.ixList(S, 8)}</section>
+    <section class="card"><h2>Common effects</h2><p class="small muted">Tap any effect to see what it means. You'll pick from the same list on the timeline.</p>
+      <div class="efx">${S.e.slice(0, 30).map((i) => `<span class="k">${M.effTerm(i)}</span>`).join("") || `<span class="muted">No effects listed yet.</span>`}</div>
+      <hr class="sep"><label class="check"><input type="checkbox" id="read" ${R.read ? "checked" : ""}>I've read the safety information for ${esc(S.n)}.</label></section></div>`;
+  $("#read").onchange = (e) => { R.read = e.target.checked; soon(); };
+}
+
+/* ---------- 3. about you (D8.1, D10, D13, D21) ---------- */
+function radios(name, opts, val) { return `<div class="choice" role="radiogroup">${opts.map((o) => { const [v, l] = Array.isArray(o) ? o : [o, o]; return `<label><input type="radio" name="${name}" value="${esc(v)}" ${val === v ? "checked" : ""}>${esc(l)}</label>`; }).join("")}</div>`; }
+function stepAbout() {
+  const b = R.bg;
+  $("#stepbody").innerHTML = `<div class="stack"><section class="card"><h2>About you</h2>
+      <p class="muted">Stay anonymous: use a pen name and no personal details. Age is a range, never exact.</p>
+      <div class="field"><label class="check"><input type="checkbox" id="adult" ${b.adult ? "checked" : ""}>I am 18 or older.</label></div>
+      <div class="field"><label>Age range</label>${radios("age", AGES, b.age)}</div>
+      <div class="field"><label for="pen">Pen name <span class="opt">optional</span></label><input type="text" id="pen" maxlength="40" value="${esc(R.pen)}" placeholder="e.g. quiet_owl"><p class="help">Shown on your report. Leave empty to appear as “Anonymous”.</p></div></section>
+    <section class="card"><h2>Past experience</h2><p class="muted">Which substances have you tried before, and how often? This helps readers compare.</p>
+      <div class="field"><div><input type="search" id="pastadd" placeholder="Add a substance" autocomplete="off" aria-label="Add a past substance"></div></div>
+      <div id="pastlist"></div>
+      <div class="field"><label for="pasttext">Anything else about your experience <span class="opt">optional</span></label><textarea id="pasttext" style="min-height:80px">${esc(b.pastText)}</textarea></div></section>
+    <section class="card"><h2>${M.term("setting", "Setting")} and ${M.term("set", "set")}</h2>
+      <div class="field"><label>Where were you?</label>${radios("stype", SETTINGS, b.settingType)}</div>
+      <div class="field"><label for="setting">Describe the setting <span class="opt">optional</span></label><textarea id="setting" style="min-height:80px" placeholder="Who you were with, the place, music, time of day">${esc(b.setting)}</textarea></div>
+      <div class="field"><label>Was a ${M.term("sitter", "sober sitter")} with you?</label>${radios("sitter", ["Yes", "No", "Not needed"], b.sitter)}</div>
+      <div class="grid2"><div class="field"><label for="mood">Mood going in <span class="opt">optional</span></label><input type="text" id="mood" maxlength="120" value="${esc(b.mood)}" placeholder="e.g. calm, a bit anxious"></div>
+      <div class="field"><label for="intent">Intention <span class="opt">optional</span></label><input type="text" id="intent" maxlength="160" value="${esc(b.intention)}" placeholder="e.g. fun with friends, reflection"></div></div></section>
+    <section class="card"><h2>Health details <span class="opt">all optional</span></h2>
+      <div class="field"><label>Body weight</label>${radios("weight", WEIGHTS, b.weight)}</div>
+      <div class="field"><label for="meds">Medications you take</label><input type="text" id="meds" maxlength="200" value="${esc(b.meds)}" placeholder="e.g. none, sertraline"><p class="help">Medications change how substances act. Check them in the <a href="tools.html#checker" target="_blank">interaction checker</a>.</p></div>
+      <div class="field"><label>Was the substance tested?</label>${radios("tested", TESTED, b.tested)}</div></section></div>`;
+  const bind = (id, fn) => $(id).addEventListener("input", (e) => { fn(e.target.value); soon(); });
+  $("#adult").onchange = (e) => { b.adult = e.target.checked; soon(); };
+  bind("#pen", (v) => (R.pen = v)); bind("#pasttext", (v) => (b.pastText = v)); bind("#setting", (v) => (b.setting = v));
+  bind("#mood", (v) => (b.mood = v)); bind("#intent", (v) => (b.intention = v)); bind("#meds", (v) => (b.meds = v));
+  $$("input[type=radio]").forEach((r) => (r.onchange = () => { const k = { age: "age", stype: "settingType", sitter: "sitter", weight: "weight", tested: "tested" }[r.name]; b[k] = r.value; soon(); }));
+  function past() {
+    $("#pastlist").innerHTML = b.past.length ? `<div class="stack" style="gap:8px;margin-bottom:14px">${b.past.map((p, i) => `<div class="row"><b style="min-width:140px">${esc(p.n)}</b><select data-pc="${i}" aria-label="How often, ${esc(p.n)}">${COUNTS.map((c) => `<option ${p.c === c ? "selected" : ""}>${c}</option>`).join("")}</select><button class="btn sm ghost" data-pr="${i}" aria-label="Remove ${esc(p.n)}">✕</button></div>`).join("")}</div>` : `<p class="small faint">None added. That's fine if this was your first time.</p>`;
+    $$("[data-pc]").forEach((s) => (s.onchange = () => { b.past[+s.dataset.pc].c = s.value; soon(); }));
+    $$("[data-pr]").forEach((x) => (x.onclick = () => { b.past.splice(+x.dataset.pr, 1); past(); soon(); }));
+  }
+  past();
+  M.suggestBox($("#pastadd"), (s) => { if (!b.past.some((p) => p.n === s.n)) b.past.push({ n: s.n, c: COUNTS[0] }); $("#pastadd").value = ""; past(); soon(); });
+}
+
+/* ---------- 4. doses ---------- */
+function stepDoses() {
+  $("#stepbody").innerHTML = `<section class="card"><h2>What you took</h2>
+    <p class="muted">List every dose, including ${M.term("redose", "redoses")} and anything else you took (alcohol, cannabis, medications). Times are ${M.term("tplus", "since your first dose")}.</p>
+    <div id="doses"></div><button class="btn" id="adddose">+ Add another dose</button><div id="mixwarn" style="margin-top:14px"></div></section>`;
+  function draw() {
+    $("#doses").innerHTML = R.doses.map((d, i) => {
+      const s = M.byName.get(d.sub); const routes = s ? Object.keys(s.routes) : [];
+      const allR = [...new Set([...routes, "oral", "sublingual", "insufflated", "smoked", "vaporized", "intravenous", "rectal"])];
+      return `<div class="entry"><div class="grid2">
+        <div class="field"><label for="dt${i}">Time (T+ hours:minutes)</label><input type="text" id="dt${i}" inputmode="numeric" value="${esc(showT(d.t))}" placeholder="0:00" ${i === 0 ? "readonly" : ""}></div>
+        <div class="field"><label for="ds${i}">Substance</label><div><input type="search" id="ds${i}" value="${esc(d.sub)}" autocomplete="off"></div></div>
+        <div class="field"><label for="da${i}">Amount</label><input type="text" id="da${i}" value="${esc(d.amount)}" placeholder="e.g. 100 µg, 2 g dried, 1 tab"></div>
+        <div class="field"><label for="dr${i}">${M.term("route", "Route")}</label><select id="dr${i}"><option value="">Choose</option>${allR.map((r) => `<option value="${r}" ${d.route === r ? "selected" : ""}>${esc(M.routeName(r))}</option>`).join("")}</select></div></div>
+        ${i ? `<button class="btn sm ghost" data-rm="${i}">Remove this dose</button>` : `<p class="small faint">The first dose sets T+0:00.</p>`}</div>`;
+    }).join("");
+    R.doses.forEach((d, i) => {
+      $("#dt" + i).oninput = (e) => { d.t = parseT(e.target.value); soon(); };
+      $("#da" + i).oninput = (e) => { d.amount = e.target.value; soon(); };
+      $("#dr" + i).onchange = (e) => { d.route = e.target.value; soon(); };
+      $("#ds" + i).oninput = (e) => { d.sub = e.target.value; soon(); };
+      M.suggestBox($("#ds" + i), (s) => { d.sub = s.n; const rs = Object.keys(s.routes); if (rs.length && !rs.includes(d.route)) { d.route = rs[0]; $("#dr" + i).value = d.route; } soon(); mix(); });
+    });
+    $$("[data-rm]").forEach((b) => (b.onclick = () => { R.doses.splice(+b.dataset.rm, 1); draw(); mix(); soon(); }));
+  }
+  function mix() {
+    const subs = [...new Set(R.doses.map((d) => d.sub).filter((n) => M.byName.has(n)))];
+    const out = [];
+    for (let i = 0; i < subs.length; i++) for (let j = i + 1; j < subs.length; j++) {
+      const p = M.pair({ kind: "sub", s: M.byName.get(subs[i]) }, { kind: "sub", s: M.byName.get(subs[j]) });
+      if (p.sev !== "none") out.push(`<p><span class="sev ${p.sev}">${M.SEV_LABEL[p.sev]}</span> <b>${esc(subs[i])} + ${esc(subs[j])}</b></p>`);
+    }
+    const sameRe = R.doses.filter((d) => d.sub === S.n).length > 1;
+    $("#mixwarn").innerHTML = (out.length ? `<div class="alert warn">${M.WARN_ICON}<div><p><b>About this combination.</b> Mention it in your report so readers know.</p>${out.join("")}<p><a href="tools.html?with=${encodeURIComponent(subs.join("|"))}#checker" target="_blank">See why in the interaction checker</a></p></div></div>` : "") +
+      (sameRe ? `<div class="alert info">${M.INFO_ICON}<div>You ${M.term("redose", "redosed")}. Say in the timeline how it changed things. It helps others decide.</div></div>` : "");
+  }
+  draw(); mix();
+  $("#adddose").onclick = () => { const last = R.doses[R.doses.length - 1]; R.doses.push({ t: (last.t || 0) + 60, sub: S.n, amount: "", route: R.doses[0].route }); draw(); mix(); soon(); };
+}
+
+/* ---------- 5. timeline (D8.2, D20) ---------- */
+function stepTimeline() {
+  const r = routeOf();
+  $("#stepbody").innerHTML = `<section class="card"><h2>The timeline</h2>
+    <p class="muted">Describe the trip moment by moment, as detailed as you like. For each moment, add keywords for what you felt and saw, with how strong each was (${M.term("intensity", "1 to 4")}).</p>
+    ${r && M.phaseSpans(r) ? `<p class="small muted">Expected for ${esc(S.n)} (${esc(M.routeName(R.doses[0].route || Object.keys(S.routes)[0]))}):</p>${M.timelineBar(r)}` : ""}
+    <div id="tl"></div><button class="btn" id="addent">+ Add a moment</button></section>`;
+  if (!R.timeline.length) R.timeline.push({ id: M.uid(), t: 0, text: "", eff: [] });
+  drawTl();
+  $("#addent").onclick = () => {
+    const last = R.timeline[R.timeline.length - 1];
+    R.timeline.push({ id: M.uid(), t: last && last.t != null ? last.t + 30 : 0, text: "", eff: [] }); drawTl(); soon();
+    const ta = $$("#tl textarea").pop(); ta?.focus();
+  };
+}
+function phaseTag(t) {
+  const p = M.phaseAt(routeOf(), t); if (!p) return "";
+  const key = p.k === "after" ? null : p.k;
+  return `<span class="phase-tag" style="background:${M.PHASE_COL[p.k] || "#8a8fa3"}">${key ? `Likely ${M.term(key, M.GLOSS[key][0].replace(/ \(.*\)/, "").toLowerCase())}` : "After the expected end"}</span>`;
+}
+function drawTl() {
+  $("#tl").innerHTML = R.timeline.map((e, i) => `<div class="entry" data-i="${i}">
+    <div class="entry-head"><label for="tt${i}" class="sr">Time</label><span class="small muted">${M.term("tplus", "T+")}</span><input type="text" id="tt${i}" inputmode="numeric" value="${esc(showT(e.t))}" placeholder="0:30" style="width:110px">
+      <span id="ph${i}">${phaseTag(e.t)}</span><span style="margin-left:auto"></span>${R.timeline.length > 1 ? `<button class="btn sm ghost" data-del="${i}" aria-label="Remove this moment">✕</button>` : ""}</div>
+    <label for="tx${i}" class="sr">What happened</label><textarea id="tx${i}" placeholder="What did you feel, see, think? What was happening around you?">${esc(e.text)}</textarea>
+    <div class="efx" id="ke${i}" style="margin-top:10px">${e.eff.map((x, j) => `<span class="k">${M.effTerm(x.i)}<span class="lvl" aria-label="intensity ${x.k} of 4">${[1, 2, 3, 4].map((n) => `<i class="${n <= x.k ? "on" : ""}"></i>`).join("")}</span> <button class="term" data-rmk="${i}:${j}" aria-label="Remove ${esc(M.EFF[x.i].n)}" style="text-decoration:none">✕</button></span>`).join("")}</div>
+    <button class="btn sm" data-addk="${i}" style="margin-top:10px">+ Keyword: what you felt or saw</button><div id="pk${i}"></div></div>`).join("");
+  R.timeline.forEach((e, i) => {
+    $("#tt" + i).oninput = (ev) => { e.t = parseT(ev.target.value); $("#ph" + i).innerHTML = phaseTag(e.t); soon(); };
+    $("#tx" + i).oninput = (ev) => { e.text = ev.target.value; soon(); };
+  });
+  $$("[data-del]").forEach((b) => (b.onclick = () => { R.timeline.splice(+b.dataset.del, 1); drawTl(); soon(); }));
+  $$("[data-rmk]").forEach((b) => (b.onclick = () => { const [i, j] = b.dataset.rmk.split(":").map(Number); R.timeline[i].eff.splice(j, 1); drawTl(); soon(); }));
+  $$("[data-addk]").forEach((b) => (b.onclick = () => picker(+b.dataset.addk)));
+}
+function picker(i) {
+  const host = $("#pk" + i), e = R.timeline[i];
+  if (host.innerHTML) { host.innerHTML = ""; return; }
+  let chosen = null, lvl = 2;
+  host.innerHTML = `<div class="picker"><label for="kq${i}">Find a keyword</label><input type="search" id="kq${i}" placeholder="e.g. euphoria, colour enhancement, nausea" autocomplete="off">
+    <div class="res" id="kr${i}" role="listbox"></div><div id="kc${i}"></div></div>`;
+  const own = new Set(S.e);
+  function list() {
+    const q = $("#kq" + i).value.trim().toLowerCase().replace(/colour/g, "color").replace(/sensation\b/g, "sensation");
+    let arr = M.EFF.filter((x) => !e.eff.some((y) => y.i === x.i));
+    arr = q ? arr.filter((x) => x.n.toLowerCase().includes(q)) : arr.filter((x) => own.has(x.i));
+    arr.sort((a, b) => (own.has(b.i) - own.has(a.i)) || a.n.localeCompare(b.n));
+    $("#kr" + i).innerHTML = (q ? "" : `<p class="small muted" style="margin:4px 8px">Effects often reported for ${esc(S.n)}. Type to search all ${M.EFF.length}.</p>`) + arr.slice(0, 40).map((x) => `<button type="button" data-k="${x.i}"><b>${esc(x.n)}</b> <span class="small faint">${esc(x.s.replace(/ effects$/, ""))}</span><small>${esc((x.d || "").slice(0, 150))}${x.d && x.d.length > 150 ? "…" : ""}</small></button>`).join("") || `<p class="small muted" style="margin:6px 8px">No keyword by that name. Describe it in your own words in the text above.</p>`;
+    $$("[data-k]", $("#kr" + i)).forEach((b) => (b.onclick = () => choose(+b.dataset.k)));
+  }
+  function choose(k) {
+    chosen = k; const x = M.EFF[k];
+    $("#kc" + i).innerHTML = `<div class="alert info" style="margin-top:10px"><div><p><b>${esc(x.n)}</b></p><p class="small">${esc(x.d || "")} <a href="${esc(x.u)}" target="_blank" rel="noopener">More ↗</a></p>
+      <p style="margin:8px 0 4px"><b>How strong was it?</b></p><div class="lvlpick" role="radiogroup" aria-label="Intensity">${[1, 2, 3, 4].map((n) => `<button type="button" data-l="${n}" aria-pressed="${n === lvl}" title="${LVL[n]}">${n}</button>`).join("")}</div> <span class="small muted" id="ll${i}">${LVL[lvl]}</span>
+      <p style="margin-top:10px"><button class="btn primary sm" type="button" id="kadd${i}">Add keyword</button></p></div></div>`;
+    $$("[data-l]", $("#kc" + i)).forEach((b) => (b.onclick = () => { lvl = +b.dataset.l; $$("[data-l]", $("#kc" + i)).forEach((x) => x.setAttribute("aria-pressed", +x.dataset.l === lvl)); $("#ll" + i).textContent = LVL[lvl]; }));
+    $("#kadd" + i).onclick = () => { e.eff.push({ i: chosen, k: lvl }); soon(); drawTl(); };
+  }
+  $("#kq" + i).oninput = list; list(); $("#kq" + i).focus();
+}
+
+/* ---------- 6. afterwards ---------- */
+function stepAfter() {
+  $("#stepbody").innerHTML = `<section class="card"><h2>Afterwards</h2>
+    <div class="field"><label for="after">${M.term("aftereffects", "After-effects")} and the next days <span class="opt">optional</span></label><textarea id="after" placeholder="Sleep, mood, energy, anything that lingered">${esc(R.after)}</textarea></div>
+    <div class="field"><label for="summary">Looking back <span class="opt">optional</span></label><textarea id="summary" placeholder="What would you tell someone about to try this? What would you do differently?">${esc(R.summary)}</textarea></div>
+    <div class="field"><label for="title">Title</label><input type="text" id="title" maxlength="100" value="${esc(R.title)}" placeholder="e.g. A gentle first time in the forest"></div></section>`;
+  $("#after").oninput = (e) => { R.after = e.target.value; soon(); };
+  $("#summary").oninput = (e) => { R.summary = e.target.value; soon(); };
+  $("#title").oninput = (e) => { R.title = e.target.value; soon(); };
+}
+
+/* ---------- classic report view (D11) ---------- */
+function classic(r) {
+  const s = M.byName.get(r.substance);
+  const route = (s && s.routes[r.doses[0]?.route]) || (s && Object.values(s.routes)[0]);
+  const b = r.bg;
+  const allK = new Map();
+  for (const e of r.timeline) for (const x of e.eff) allK.set(x.i, Math.max(allK.get(x.i) || 0, x.k));
+  const para = (t) => esc(t).split(/\n{2,}/).map((p) => p.replace(/\n/g, "<br>")).join("</p><p>");
+  const bgRows = [["Age range", b.age], ["Body weight", b.weight], ["Setting", [b.settingType, b.setting].filter(Boolean).join(". ")], ["Sober sitter", b.sitter], ["Mood going in", b.mood], ["Intention", b.intention], ["Medications", b.meds], ["Tested", (TESTED.find((t) => t[0] === b.tested) || [])[1]]].filter((x) => x[1]);
+  return `<article class="report">
+    <h1>${esc(r.title || "Untitled report")}</h1>
+    <p class="by">by ${esc(r.pen || "Anonymous")} · ${esc(r.substance)}</p>
+    <table><thead><tr><th>Time</th><th>Amount</th><th>Route</th><th>Substance</th></tr></thead><tbody>
+      ${r.doses.map((d) => `<tr><td>${esc(M.fmtMin(d.t ?? 0))}</td><td>${esc(d.amount || "not given")}</td><td>${esc(d.route ? M.routeName(d.route) : "")}</td><td>${esc(d.sub)}</td></tr>`).join("")}
+      ${b.weight ? `<tr><th colspan="2">Body weight</th><td colspan="2">${esc(b.weight)}</td></tr>` : ""}</tbody></table>
+    <h3>Background</h3>
+    ${bgRows.length ? `<p>${bgRows.map(([k, v]) => `<b>${esc(k)}:</b> ${esc(v)}`).join("<br>")}</p>` : ""}
+    ${b.past.length ? `<p><b>Past experience:</b> ${b.past.map((p) => `${esc(p.n)} (${esc(p.c.toLowerCase())})`).join(", ")}</p>` : `<p><b>Past experience:</b> none listed</p>`}
+    ${b.pastText ? `<p>${para(b.pastText)}</p>` : ""}
+    <h3>The experience</h3>
+    ${r.timeline.filter((e) => e.text.trim() || e.eff.length).sort((a, b) => (a.t ?? 0) - (b.t ?? 0)).map((e) => { const p = route && M.phaseAt(route, e.t); return `<p><span class="ts">${esc(M.fmtMin(e.t ?? 0))}</span>${p ? `<span class="ph">${esc(p.k === "after" ? "after the expected end" : p.label)}</span>` : ""}<br>${para(e.text)}</p>${e.eff.length ? `<p>${e.eff.map((x) => `<span class="kw">${esc(M.EFF[x.i].n)} · ${x.k}/4</span>`).join("")}</p>` : ""}`; }).join("")}
+    ${r.after ? `<h3>After-effects</h3><p>${para(r.after)}</p>` : ""}
+    ${r.summary ? `<h3>Looking back</h3><p>${para(r.summary)}</p>` : ""}
+    ${allK.size ? `<h3>Keywords</h3><p>${[...allK].sort((a, b) => b[1] - a[1]).map(([i, k]) => `<span class="kw">${esc(M.EFF[i].n)} · ${k}/4</span>`).join("")}</p>` : ""}
+    <div class="meta">Written on Mazhar · ${esc(new Date(r.created).toLocaleDateString())} · ${r.status === "published" ? "Published after review" : r.status === "submitted" ? "Sent for review, not yet published" : "Draft, saved only on this device"}.<br>Keywords from PsychonautWiki's Subjective Effect Index (CC BY-SA 4.0). This is one person's experience, not advice.</div>
+  </article>`;
+}
+
+/* ---------- 7. review ---------- */
+function stepReview() {
+  $("#stepbody").innerHTML = `<div class="stack"><section class="card no-print"><h2>Review your report</h2>
+      <p class="muted">This is how readers will see it. Go back to change anything.</p>
+      <div class="row"><button class="btn primary" id="submit" ${R.status === "submitted" ? "disabled" : ""}>${R.status === "submitted" ? "Sent for review" : "Send for review"}</button><button class="btn" id="dl">Download a copy</button><button class="btn" id="print">Print</button><button class="btn ghost" id="del">Delete</button></div>
+      <div id="subnote" style="margin-top:12px">${R.status === "submitted" ? submittedNote() : `<p class="small muted">Before a report is published, it is checked for safety: no buying or selling, no personal details, nothing that suggests a minor, and corrections for dangerous dose or mixing advice.</p>`}</div></section>
+    ${classic(R)}</div>`;
+  $("#submit").onclick = () => {
+    const iss = M.screen([R.title, R.pen, R.after, R.summary, R.bg.setting, R.bg.pastText, ...R.timeline.map((e) => e.text)].join(" "));
+    if (iss.length) { $("#subnote").innerHTML = `<div class="alert warn">${M.WARN_ICON}<div><p><b>Please change this first:</b></p>${iss.map((x) => `<p>${esc(x)}</p>`).join("")}</div></div>`; return; }
+    const btn = $("#submit"); btn.disabled = true; btn.textContent = "Sending…";
+    M.cloud.submitReport(R).then((id) => { R.cloudId = id; R.status = "submitted"; R.submitted = new Date().toISOString(); save(); stepReview(); })
+      .catch(() => { btn.disabled = false; btn.textContent = "Send for review"; $("#subnote").innerHTML = `<div class="alert warn">${M.WARN_ICON}<div><p><b>Couldn't send right now.</b> Your report is still saved on this device. Check your connection and try again.</p></div></div>`; });
+  };
+  $("#dl").onclick = () => {
+    const blob = new Blob([JSON.stringify(R, (k, v) => v, 2)], { type: "application/json" });
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `mazhar-trip-report-${(R.title || R.substance).replace(/[^a-z0-9]+/gi, "-").toLowerCase()}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  };
+  $("#print").onclick = () => print();
+  $("#del").onclick = () => { if (confirm("Delete this report from this device? This can't be undone.")) { M.store.deleteReport(R.id); location.href = "substance.html?s=" + encodeURIComponent(R.substance) + "#reports"; } };
+}
+function submittedNote() {
+  return `<div class="alert ok"><div><p><b>Sent for review.</b> Your report will appear on Mazhar once it has been checked. A copy also stays on this device.</p></div></div>`;
+}
+
+/* ---------- view mode ---------- */
+function viewOnly() {
+  S = M.byName.get(R.substance);
+  $("#main").innerHTML = `<div class="page-head no-print"><p class="kicker">Trip report · ${esc(R.substance)}</p><div class="row"><a class="btn" href="substance.html?s=${encodeURIComponent(R.substance)}#reports">← ${esc(R.substance)}</a>${R.status === "published" ? "" : `<a class="btn primary" href="report.html?id=${encodeURIComponent(R.id)}">Edit</a>`}<button class="btn" onclick="print()">Print</button></div></div>${classic(R)}`;
+  document.title = (R.title || "Trip report") + " | Mazhar";
+}
+
+/* ---------- start (D41) ---------- */
+function start() {
+  $("#main").innerHTML = `<div class="page-head"><p class="kicker">Start a report</p><h1 class="grad">Share your experience</h1><p class="lede">Reports help others know what to expect. They are anonymous, for adults only, and checked before anyone else sees them.</p></div>
+    <div class="grid2"><button class="card" id="past" style="text-align:left;cursor:pointer"><h2>Write about a past trip</h2><p class="muted">Background, a detailed timeline, and keywords for what you felt and saw.</p><span class="btn primary">Start writing</span></button>
+    <div class="card" aria-disabled="true"><h2>Go live now</h2><p class="muted">Log a trip as it happens, with check-ins, an SOS button, an AI companion and human sitters. Coming soon.</p><span class="btn" aria-disabled="true">Coming soon</span></div></div>
+    ${M.store.reports().length ? `<section class="card" style="margin-top:16px"><h2>Your reports on this device</h2>${M.store.reports().map((r) => `<a class="item" href="report.html?id=${encodeURIComponent(r.id)}"><div class="t">${esc(r.title || "Untitled report")} · ${esc(r.substance || "no substance yet")}</div><div class="m">${r.status === "submitted" ? "Waiting for review" : "Draft"} · last changed ${esc(new Date(r.updated).toLocaleString())}</div></a>`).join("")}</section>` : ""}`;
+  $("#past").onclick = () => { R = blank(""); step = 0; render(); };
+}
+
+(async function () {
+  try { await M.load(); } catch (e) { $("#main").innerHTML = `<div class="load">The substance data couldn't load. Reload the page to try again.</div>`; return; }
+  const id = M.param("id"), s = M.param("s"), pub = M.param("pub");
+  if (pub) {
+    let row = null; try { row = await M.cloud.report(pub); } catch (e) {}
+    if (!row) { $("#main").innerHTML = `<div class="page-head"><h1>Report not found</h1><p class="lede">It may not be published yet, or the connection failed. Reload to try again.</p></div>`; return; }
+    R = Object.assign(blank(row.substance), row.body, { id: row.id, status: "published", created: row.created_at });
+    return viewOnly();
+  }
+  if (id) {
+    R = M.store.report(id);
+    if (!R) { $("#main").innerHTML = `<div class="page-head"><h1>Report not found</h1><p class="lede">It may have been deleted, or written on another device. Reports are saved only on the device they were written on.</p><p><a class="btn" href="report.html">Start a new report</a></p></div>`; return; }
+    if (M.param("view")) return viewOnly();
+    S = M.byName.get(R.substance) || null;
+    step = S ? 1 : 0; render(); return;
+  }
+  if (s) {
+    const sub = M.byName.get(s) || M.find(s);
+    R = blank(sub ? sub.n : "");
+    if (sub) setSub(sub);
+    step = 0; render(); return;
+  }
+  start();
+})();
+</script>
+</body>
+</html>

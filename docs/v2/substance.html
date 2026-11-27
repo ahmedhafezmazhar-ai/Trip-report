@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Substance | Mazhar</title>
+<meta name="description" content="What a substance can do: harm reduction information, doses, timeline, interactions, trip reports, and questions and tools.">
+<meta name="theme-color" content="#0b0716">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<main class="wrap" id="main"><div class="load">Loading…</div></main>
+
+<script src="assets/app.js"></script>
+<script>
+"use strict";
+const { $, $$, esc } = M;
+M.backdrop(); M.chrome("map");
+
+const TRIPSIT = { Psychedelics: "Psychedelic_tripsitting", Dissociatives: "Dissociative_tripsitting", Stimulants: "Stimulant_tripsitting", Depressants: "Depressant_tripsitting", Opioids: "Opioid_tripsitting", Cannabinoids: "Cannabinoid_tripsitting", Deliriants: "Deliriant_tripsitting", Entactogens: "Entactogen_tripsitting", Oneirogens: "Oneirogen_tripsitting" };
+const FAMILY_WARN = {
+  Psychedelics: "Psychedelics can bring intense fear, confusion and loss of judgement. Mental health history (psychosis, bipolar disorder) raises the risk. Have a sober sitter for strong doses or anything new.",
+  Dissociatives: "Dissociatives cause numbness, loss of coordination and confusion. Falls, drowning and choking are real risks. Never mix with alcohol or other depressants.",
+  Stimulants: "Stimulants strain the heart and raise body temperature. Redosing is easy and risky. Drink water in moderation, rest, and don't mix with other stimulants.",
+  Depressants: "Depressants slow breathing. Mixing them with each other, with alcohol or with opioids can be fatal. Regular use can cause dangerous withdrawal.",
+  Opioids: "Opioids can stop breathing. Overdose risk is highest after a break (lower tolerance) and when mixed with depressants. Carry naloxone and don't use alone.",
+  Entactogens: "Entactogens raise body temperature and heart rate. Overheating and drinking too much or too little water are the main dangers. Don't mix with antidepressants.",
+  Cannabinoids: "Cannabinoids can cause anxiety, paranoia and racing heart, especially with edibles or strong products. Synthetic cannabinoids are far more dangerous than cannabis.",
+  Deliriants: "Deliriants cause real-seeming hallucinations, confusion and overheating. They are often unpleasant and physically risky. Someone sober must stay with the person.",
+};
+const SUBREDDITS = ["DrugNerds", "harmreduction", "Psychonaut", "microdosing", "researchchemicals"];
+const OWN_SUB = { "LSD": "LSD", "MDMA": "MDMA", "Ketamine": "ketamine", "DMT": "DMT", "Psilocybin mushrooms": "shrooms", "Mescaline": "mescaline", "Ayahuasca": "Ayahuasca", "Kratom": "kratom", "Cannabis": "trees", "2C-B": "2cb", "5-MeO-DMT": "5MeODMT", "Salvia divinorum": "Salvia", "DXM": "dxm", "Phenibut": "phenibut", "Modafinil": "Modafinil", "Ibogaine": "ibogaine", "Kava": "Kava", "Amanita muscaria": "AmanitaMuscaria" };
+
+const FAQ = [
+  { id: "overdose", q: "What are the signs of an overdose, and what do I do?", a: `<p><b>If you are unsure whether someone is overdosing, call emergency services now.</b> It can mean the difference between life and death. Tell them what was taken and roughly when.</p><p>The signs depend on the type of substance:</p><ul>${Object.keys(M.OVERDOSE).filter((k) => k !== "Entactogens").map((k) => `<li><b>${esc(M.OVERDOSE_LABEL[k])}:</b> ${esc(M.OVERDOSE[k])}</li>`).join("")}</ul><p>While you wait: stay with the person, keep them cool if overheating, and if they are unconscious but breathing, put them in the recovery position (question 2).</p>`, src: "Substance_overdose" },
+  { id: "recovery", q: "Someone is unconscious but breathing. How do I put them in the recovery position?", a: `<p>The recovery position stops a person from choking on vomit. This is a common cause of death when depressants are mixed.</p><ol>${M.RECOVERY.map((s) => `<li>${esc(s)}</li>`).join("")}</ol>`, src: "Recovery_position" },
+  { id: "dose", q: "How much should I take?", a: `<p>Start low, especially with anything new to you, and take a light dose first to check how your body reacts. Weigh doses on a milligram scale. Never eyeball a powder. For very potent substances, dissolve a weighed amount in a measured liquid (volumetric dosing).</p><p>If you increase the dose next time, add a third to a half at most. Never double or triple it. Everyone reacts differently, depending on weight, ${M.term("tolerance", "tolerance")}, body chemistry and medications.</p>`, src: "Dosage" },
+  { id: "mix", q: "Is it safe to mix this with other substances or medications?", a: `<p>Many substances that are manageable alone become dangerous together. The two most common fatal patterns are:</p><ul><li><b>Depressants together</b> (alcohol, benzodiazepines, opioids, GHB/GBL, barbiturates). Their effects multiply rather than add up, which can stop breathing.</li><li><b>Serotonergic substances together</b>, or with antidepressants (MAOIs, SSRIs, SNRIs), which can cause serotonin syndrome (question 5).</li></ul><p>Stimulants can also hide how drunk or sedated you are, so you take more than you can handle once they wear off. Check every combination, including prescription medicines, before taking anything.</p>`, src: "Dangerous_combinations" },
+  { id: "serotonin", q: "What is serotonin syndrome, and how do I recognise it?", a: `<p>Serotonin syndrome is a medical emergency caused by too much serotonin activity. It usually comes from mixing serotonergic drugs. Symptoms come on fast, often within minutes:</p><ul><li><b>Mind:</b> agitation, confusion, anxiety, headache, hallucinations.</li><li><b>Body:</b> shivering, heavy sweating, overheating, racing heart, high blood pressure, nausea, diarrhoea.</li><li><b>Muscles:</b> twitching, tremors.</li></ul><p>Common causes include MDMA, amphetamines, cocaine, DXM, tramadol and some psychedelics, especially combined with antidepressants, lithium or St John's wort. If you suspect it, get emergency care immediately.</p>`, src: "Serotonin_syndrome" },
+  { id: "test", q: "How can I test what I have?", a: `<p>Reagent test kits change colour when they touch a substance, which shows what may be present. They cannot show how much is there or how pure it is, and a sample can contain several things. Test anything sold as LSD on blotter for NBOMes, and test for fentanyl where it is a risk. A test result never makes a drug safe.</p><p>Use a tiny scraping on a white ceramic plate, one reagent bottle open at a time, in good light, with gloves.</p>`, src: "Reagent_testing_kits" },
+  { id: "duration", q: "How long will it last, and when is it safe to redose?", a: `<p>${M.term("onset", "Onset")}, ${M.term("peak", "peak")} and ${M.term("duration", "total duration")} vary a lot by substance and route. A slow start often tempts people to ${M.term("redose", "redose")} too early. Redosing before the first dose has peaked is a common cause of overwhelming or dangerous experiences. Wait until you are past the expected peak before deciding.</p>`, src: "Dosage" },
+  { id: "badtrip", q: "I'm having, or someone near me is having, a bad trip. What helps?", a: `<p>A bad trip usually means intense anxiety, paranoia or terror, often with a feeling it will never end. It will end. Things that help:</p><ul><li>Move to a calm, safe, familiar space, with fewer people and less noise.</li><li>Use anchors: familiar music, a trusted voice, simple breathing, a reminder of the time since dosing and that it will pass.</li><li>A sober ${M.term("sitter", "sitter")} stays with the person until all effects have worn off and keeps them from harming themselves or others.</li></ul><p>If there are physical danger signs (question 1 or 5), call emergency services.</p>`, src: "Bad_trip" },
+  { id: "setsetting", q: "How do I prepare: what are set and setting?", a: `<p><b>${M.term("set", "Set")}</b> is your state of mind and body going in: your mood, expectations, stress, and whether you feel well. Substances, especially psychedelics, amplify whatever you bring. Avoid them during hard periods of life.</p><p><b>${M.term("setting", "Setting")}</b> is where you are and who you're with. A place that feels safe, familiar and under your control, with trusted people, makes a difficult experience far less likely. Plan the day, clear your obligations, and have a sober sitter for strong doses or new substances.</p>`, src: "Set_and_setting" },
+  { id: "dependence", q: "Am I becoming dependent, and how do I stop safely?", a: `<p>Signs include needing more for the same effect, feeling unwell when you stop, and using to feel normal. Withdrawal depends on the substance, the dose, how long you've used, and the route.</p><p><b>Do not stop alcohol, benzodiazepines or barbiturates suddenly after regular use.</b> Withdrawal can cause seizures and death, so taper slowly, ideally under medical supervision. For most substances, a gradual taper is safer and easier than stopping all at once. Asking for help is a strength.</p>`, src: "Substance_withdrawal" },
+];
+
+let S, REAGENTS;
+
+function autoFill(id) {
+  const fams = [S.f, ...S.also];
+  switch (id) {
+    case "overdose": {
+      const k = fams.find((f) => M.OVERDOSE[f]);
+      const num = M.emergencyNumber();
+      return (k ? `<p><b>Signs for ${esc(M.OVERDOSE_LABEL[k].toLowerCase())}:</b> ${esc(M.OVERDOSE[k])}</p>` : `<p>${esc(S.n)} is in the ${esc(S.f)} family. Whatever the substance, these are emergencies: not responding, breathing that is slow, noisy or stopped, a seizure, chest pain, or very high body temperature.</p>`) + `<p><a class="btn danger sm" href="tel:${esc(num)}">Call ${esc(num)}</a></p>`;
+    }
+    case "dose": return M.doseTable(S);
+    case "mix": return M.ixList(S, 6) + `<p style="margin-top:10px"><a class="btn sm" href="tools.html?with=${encodeURIComponent(S.n)}#checker">Check a combination with ${esc(S.n)}</a></p>`;
+    case "test": {
+      const names = [S.n, ...S.aka].map((x) => x.toLowerCase());
+      const row = REAGENTS?.rows.find((r) => names.includes(r.s.toLowerCase()));
+      if (!row) return `<p>No reagent colours for ${esc(S.n)} in PsychonautWiki's colour chart. <a href="tools.html#testing">See the drug checking guide</a> for how to test.</p>`;
+      return `<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Reagent</th><th>Expected colour</th></tr></thead><tbody>${REAGENTS.columns.map((c, i) => row.r[i]?.t ? `<tr><td>${esc(c)}</td><td>${row.r[i].c ? `<span class="swatch" style="background:${esc(row.r[i].c)}"></span>` : ""}${esc(row.r[i].t)}</td></tr>` : "").join("")}</tbody></table></div><p class="small faint">Colour swatches are approximate. Compare with the chart in your kit.</p>`;
+    }
+    case "duration": {
+      const r = Object.entries(S.routes).filter(([, r]) => M.phaseSpans(r) || r.duration);
+      return r.length ? r.map(([rn, x]) => `<h3>${esc(M.routeName(rn))}</h3>${M.timelineBar(x)}<p class="small">${[...M.PHASES.map((p) => p[0]), "duration"].filter((k) => x[k]).map((k) => `${M.term(k)}: ${esc(x[k])}`).join(" · ")}</p>`).join("") : `<p>No timeline data for ${esc(S.n)} yet. Assume it may last longer than you expect, and don't redose.</p>`;
+    }
+    case "badtrip": {
+      const f = fams.find((x) => TRIPSIT[x]);
+      return f ? `<p>Tripsitting guidance for ${esc(f.toLowerCase())}: <a href="https://psychonautwiki.org/wiki/${TRIPSIT[f]}" target="_blank" rel="noopener">${esc(TRIPSIT[f].replace(/_/g, " "))} ↗</a></p>` : `<p><a href="https://psychonautwiki.org/wiki/Tripsitting_index" target="_blank" rel="noopener">Tripsitting guides by substance type ↗</a></p>`;
+    }
+    case "dependence": return `${S.dep ? `<p><b>${esc(S.n)}:</b> ${esc(S.dep)}</p>` : `<p>No dependence information for ${esc(S.n)} yet.</p>`}<p><a href="https://psychonautwiki.org/wiki/Addiction_treatment_resources" target="_blank" rel="noopener">Addiction treatment resources ↗</a> · <a href="https://psychonautwiki.org/wiki/Tapering" target="_blank" rel="noopener">Tapering ↗</a></p>`;
+  }
+  return "";
+}
+
+function warningIntro() {
+  const f = [S.f, ...S.also].find((x) => FAMILY_WARN[x]);
+  const deadly = S.ix.filter((x) => x.sev === "dangerous").map((x) => x.with);
+  return `<div class="alert warn" role="note">${M.WARN_ICON}<div>
+    <p><b>Before anything else.</b> ${f ? esc(FAMILY_WARN[f]) : "Little is known about how this substance affects people. Treat it as an unknown risk."}</p>
+    ${deadly.length ? `<p><b>Dangerous with:</b> ${esc([...new Set(deadly)].slice(0, 8).join(", "))}. <a href="#qa" data-go="qa">See combinations</a>.</p>` : ""}
+    ${S.hasDose ? "" : `<p><b>No reliable dose data yet.</b> Start low, don't mix, and don't use alone.</p>`}
+    <p class="small muted">Start low and go slow. Test what you have. Don't use alone. In an emergency, press SOS at the top.</p></div></div>`;
+}
+
+function infoTab() {
+  const groups = {};
+  for (const i of S.e) { const e = M.EFF[i]; (groups[e.s] ||= []).push(i); }
+  return `<div class="stack">
+    ${S.intro ? `<section class="card"><h2>About ${esc(S.n)}</h2><p>${esc(S.intro)}</p><p class="small faint">From PsychonautWiki.</p></section>` : ""}
+    <section class="card"><h2>Dose and timeline</h2><p class="small muted">Tap any underlined word for what it means. Doses assume no ${M.term("tolerance", "tolerance")}.</p>${M.doseTable(S)}</section>
+    <section class="card"><h2>Interactions</h2>${M.ixList(S)}<p style="margin-top:12px"><a class="btn sm" href="tools.html?with=${encodeURIComponent(S.n)}#checker">Open the interaction checker</a></p></section>
+    <section class="card"><h2>Reported effects</h2>${S.e.length ? `<p class="small muted">What people report. Tap an effect for a plain description.</p>` + Object.entries(groups).sort((a, b) => b[1].length - a[1].length).map(([g, arr]) => `<h3>${esc(g.replace(/ effects$/, ""))}</h3><div class="efx">${arr.map((i) => `<span class="k">${M.effTerm(i)}</span>`).join("")}</div>`).join("") : `<p class="muted">Effects for this substance aren't listed yet.</p>`}</section>
+    ${S.dep ? `<section class="card"><h2>Dependence</h2><p>${esc(S.dep)}</p></section>` : ""}
+    ${S.sh.length ? `<section class="card"><h2>In Shulgin's books</h2><p>${esc(S.sh.join(", "))}</p></section>` : ""}
+    <p><a class="btn" href="${esc(S.u)}" target="_blank" rel="noopener">Read the full PsychonautWiki page ↗</a></p>
+  </div>`;
+}
+
+function reportsTab() {
+  const mine = M.store.reports().filter((r) => r.substance === S.n);
+  const own = OWN_SUB[S.n];
+  return `<div class="stack">
+    <section class="card"><p class="kicker">1 · Summary</p><h2>What people report</h2>
+      <p class="muted">A summary appears here once enough trip reports are published on Mazhar, together with what Reddit posts say. There aren't enough yet for ${esc(S.n)}.</p></section>
+    <section class="card"><p class="kicker">2 · Mazhar trip reports</p><h2>Reports written here</h2>
+      <div id="pubreports"><p class="muted">Loading published reports…</p></div>
+      <div class="row" style="margin:6px 0 4px"><a class="btn primary" href="report.html?s=${encodeURIComponent(S.n)}">Write about a past trip</a><button class="btn" disabled title="Coming with live mode">Go live now (coming soon)</button></div>
+      ${mine.length ? `<h3>Your reports on this device</h3>${mine.map((r) => `<a class="item" href="report.html?id=${encodeURIComponent(r.id)}&view=1"><div class="t">${esc(r.title || "Untitled report")}</div><div class="m">${r.status === "submitted" ? "Waiting for review" : "Draft"} · only on this device · ${esc(new Date(r.updated).toLocaleDateString())}</div></a>`).join("")}` : ""}
+    </section>
+    <section class="card"><p class="kicker">3 · Reddit</p><h2>Trip reports from Reddit</h2>
+      <div class="alert info">${M.INFO_ICON}<div><b>What the Reddit community says, not verified.</b> Posts are personal experiences and may contain wrong or risky advice.</div></div>
+      <div id="reddit-confirm"><p>Names can be confusing. Which name should we search for?</p>
+        <div class="choice" id="rnames">${[...new Set([S.n, ...S.common.split(",").map((x) => x.trim()).filter(Boolean).slice(0, 5)])].map((n, i) => `<label><input type="radio" name="rn" value="${esc(n)}" ${i ? "" : "checked"}>${esc(n)}</label>`).join("")}</div>
+        <p style="margin-top:12px"><button class="btn" id="rgo">Yes, show Reddit posts</button></p></div>
+      <div id="reddit-links" hidden></div>
+    </section>
+  </div>`;
+  void own;
+}
+function redditLinks(name) {
+  const q = (extra) => encodeURIComponent(`"${name}"${extra}`);
+  const subs = [...SUBREDDITS.map((s) => [s, false])];
+  if (OWN_SUB[S.n]) subs.unshift([OWN_SUB[S.n], true]);
+  return `<p>Searching for <b>${esc(name)}</b>. <button class="term" id="rchange">Change</button></p>
+  <div class="tbl-wrap"><table class="tbl"><thead><tr><th>Subreddit</th><th>Trip reports</th><th>All posts</th></tr></thead><tbody>
+  ${subs.map(([s, own]) => `<tr><td>r/${esc(s)}${own ? ` <span class="pill">${esc(S.n)}'s own</span>` : ""}</td><td><a href="https://www.reddit.com/r/${s}/search/?q=${own ? encodeURIComponent("trip report") : q(" trip report")}&restrict_sr=1&sort=top" target="_blank" rel="noopener">Open ↗</a></td><td><a href="https://www.reddit.com/r/${s}/search/?q=${own ? encodeURIComponent(name) : q("")}&restrict_sr=1&sort=top" target="_blank" rel="noopener">Open ↗</a></td></tr>`).join("")}
+  </tbody></table></div><p class="small faint">Links open Reddit's own search, so you see every post with its comments and votes.</p>`;
+}
+
+function qaTab() {
+  const votes = M.store.votes();
+  const qs = M.store.questions().filter((q) => q.substances?.includes(S.n));
+  return `<div class="stack">
+    <section class="card"><h2>Featured questions</h2><p class="small muted">Verified answers, not user replies. The part marked “${esc(S.n)}” is filled in from this substance's data.</p>
+      ${FAQ.map((f, i) => { const af = autoFill(f.id); return `<details class="qa" ${i === 0 ? "open" : ""}><summary>${i + 1}. ${esc(f.q)}</summary><div class="body">${f.a}${af ? `<div class="auto"><h4>${esc(S.n)}</h4>${af}</div>` : ""}
+        <div class="votes"><span class="small muted">Helpful?</span><button data-vote="faq-${f.id}" aria-pressed="${votes["faq-" + f.id] === 1}">👍 Yes</button></div>
+        <p class="small faint" style="margin-top:8px">Adapted from PsychonautWiki: <a href="https://psychonautwiki.org/wiki/${f.src}" target="_blank" rel="noopener">${esc(f.src.replace(/_/g, " "))}</a> (CC BY-SA 4.0).</p></div></details>`; }).join("")}
+    </section>
+    <section class="card" id="ask"><h2>Ask a question</h2>
+      <p class="small muted">Use a pen name. No real names, phone numbers or handles. Questions are checked before they appear, and other people reply.</p>
+      <form id="askform" novalidate>
+        <div class="field"><label for="qtext">Your question</label><textarea id="qtext" maxlength="1500" placeholder="e.g. How long should I wait between doses?"></textarea></div>
+        <div id="qcheck"></div>
+        <div class="grid2"><div class="field"><label for="qpen">Pen name</label><input type="text" id="qpen" maxlength="40" placeholder="e.g. quiet_owl"></div>
+        <div class="field"><label class="check" style="margin-top:30px"><input type="checkbox" id="qtag" checked>About ${esc(S.n)}</label></div></div>
+        <button class="btn primary" type="submit">Check and save</button>
+      </form>
+      ${qs.length ? `<h3>Your questions</h3>${qs.map((q) => `<div class="item"><div class="t">${esc(q.text)}</div><div class="m">${esc(q.pen || "Anonymous")} · ${q.cloudId ? "sent, waiting for review" : "waiting for review · only on this device"} <button class="term" data-delq="${esc(q.id)}">Hide</button></div></div>`).join("")}` : ""}
+    </section>
+    <section class="card"><h2>Community questions</h2><div id="pubquestions"><p class="muted">Loading…</p></div>
+    </section>
+    <section class="card"><h2>Tools</h2><div class="grid2">
+      <a class="item" href="tools.html?with=${encodeURIComponent(S.n)}#checker"><div class="t">Interaction checker</div><div class="m">Check ${esc(S.n)} with other substances and medications.</div></a>
+      <a class="item" href="tools.html?s=${encodeURIComponent(S.n)}#testing"><div class="t">Drug checking guide</div><div class="m">Reagent tests and what the colours mean.</div></a>
+      <a class="item" href="tools.html?compare=${encodeURIComponent(S.n)}#research"><div class="t">Research tools</div><div class="m">Filter, compare and export substance data.</div></a>
+      <a class="item" href="tools.html#learn"><div class="t">Learning paths</div><div class="m">Pharmacology, drug classes, harm reduction.</div></a>
+    </div></section>
+  </div>`;
+}
+
+function similarFaq(text) {
+  const w = new Set(text.toLowerCase().match(/[a-z]{4,}/g) || []);
+  const stop = new Set(["what", "when", "much", "should", "take", "with", "this", "that", "have", "does", "will", "from", "about", "there", "safe", "how"]);
+  return FAQ.map((f, i) => ({ i, f, n: (f.q.toLowerCase().match(/[a-z]{4,}/g) || []).filter((x) => w.has(x) && !stop.has(x)).length })).filter((x) => x.n >= 1).sort((a, b) => b.n - a.n).slice(0, 2);
+}
+
+function loadCommunity() {
+  const fmt = (d) => esc(new Date(d).toLocaleDateString());
+  const pr = $("#pubreports");
+  if (pr) M.cloud.reports(S.n).then((rows) => {
+    pr.innerHTML = rows.length ? rows.map((r) => `<a class="item" href="report.html?pub=${encodeURIComponent(r.id)}"><div class="t">${esc(r.title || "Untitled report")}</div><div class="m">${esc(r.pen_name || "Anonymous")} · ${fmt(r.created_at)}</div></a>`).join("")
+      : `<p class="muted">No published reports for ${esc(S.n)} yet. Every report is checked before it is published.</p>`;
+  }).catch(() => { pr.innerHTML = `<p class="muted">Published reports couldn't load. Reload to try again.</p>`; });
+  const pq = $("#pubquestions");
+  if (pq) M.cloud.questions(S.n).then((rows) => {
+    pq.innerHTML = rows.length ? rows.map((q) => `<div class="item"><div class="t">${esc(q.text)}</div><div class="m">${esc(q.pen_name || "Anonymous")} · ${fmt(q.created_at)}</div></div>`).join("")
+      : `<p class="muted">No published questions about ${esc(S.n)} yet.</p>`;
+  }).catch(() => { pq.innerHTML = `<p class="muted">Questions couldn't load. Reload to try again.</p>`; });
+}
+
+function wire() {
+  const tabs = $$(".tabs button"), panels = $$("[role=tabpanel]");
+  function show(id, push) {
+    tabs.forEach((t) => t.setAttribute("aria-selected", t.dataset.tab === id));
+    panels.forEach((p) => (p.hidden = p.id !== "tab-" + id));
+    if (push) history.replaceState(null, "", "#" + id);
+  }
+  tabs.forEach((t) => (t.onclick = () => show(t.dataset.tab, true)));
+  document.addEventListener("click", (e) => {
+    const g = e.target.closest("[data-go]"); if (g) { e.preventDefault(); show(g.dataset.go, true); $(".tabs").scrollIntoView({ behavior: "smooth" }); }
+    const v = e.target.closest("[data-vote]"); if (v) { const r = M.store.vote(v.dataset.vote, 1); v.setAttribute("aria-pressed", r === 1); }
+    const d = e.target.closest("[data-delq]"); if (d) { M.store.deleteQuestion(d.dataset.delq); $("#tab-qa").innerHTML = qaTab(); wireAsk(); loadCommunity(); }
+  });
+  show(["info", "reports", "qa"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "info");
+  $("#rgo").onclick = () => {
+    const n = $("input[name=rn]:checked").value;
+    $("#reddit-confirm").hidden = true; const l = $("#reddit-links"); l.hidden = false; l.innerHTML = redditLinks(n);
+    $("#rchange").onclick = () => { l.hidden = true; $("#reddit-confirm").hidden = false; };
+  };
+  wireAsk(); loadCommunity();
+}
+function wireAsk() {
+  const ta = $("#qtext"), box = $("#qcheck");
+  function check() {
+    const t = ta.value.trim(); let h = "";
+    if (M.EMERGENCY_RX.test(t)) h += `<div class="alert danger">${M.DANGER_ICON}<div><p><b>If this is happening now, don't wait for replies.</b> Call <a href="tel:${esc(M.emergencyNumber())}">${esc(M.emergencyNumber())}</a>.</p><p><button class="btn danger sm" type="button" onclick="M.sos()">Show overdose steps</button></p></div></div>`;
+    const sim = t.length > 12 ? similarFaq(t) : [];
+    if (sim.length) h += `<div class="alert info">${M.INFO_ICON}<div><p><b>This may already be answered:</b></p>${sim.map((x) => `<p><a href="#qa" data-open-faq="${x.i}">${x.i + 1}. ${esc(x.f.q)}</a></p>`).join("")}</div></div>`;
+    box.innerHTML = h;
+    $$("[data-open-faq]", box).forEach((a) => (a.onclick = (e) => { e.preventDefault(); const d = $$("details.qa")[+a.dataset.openFaq]; d.open = true; d.scrollIntoView({ behavior: "smooth", block: "start" }); }));
+  }
+  let tm; ta.addEventListener("input", () => { clearTimeout(tm); tm = setTimeout(check, 250); });
+  $("#askform").onsubmit = (e) => {
+    e.preventDefault(); check();
+    const t = ta.value.trim();
+    if (t.length < 10) { M.toast("Please write a full question."); return; }
+    const issues = M.screen(t + " " + $("#qpen").value);
+    if (issues.length) { box.insertAdjacentHTML("afterbegin", `<div class="alert warn">${M.WARN_ICON}<div><p><b>Please change this before posting:</b></p>${issues.map((i) => `<p>${esc(i)}</p>`).join("")}</div></div>`); return; }
+    const q = { id: M.uid(), text: t, pen: $("#qpen").value.trim(), substances: $("#qtag").checked ? [S.n] : [], created: new Date().toISOString(), status: "pending" };
+    const btn = $("#askform button[type=submit]"); btn.disabled = true;
+    M.cloud.submitQuestion(q).then((cid) => { q.cloudId = cid; M.toast("Sent. It appears here once it has been checked."); })
+      .catch(() => M.toast("Couldn't send right now. Saved on this device, try again later."))
+      .finally(() => { M.store.saveQuestion(q); $("#tab-qa").innerHTML = qaTab(); wireAsk(); loadCommunity(); });
+  };
+}
+
+(async function () {
+  try {
+    await M.load();
+    REAGENTS = (await M.json("data/reagents.json")).data;
+  } catch (e) { $("#main").innerHTML = `<div class="load">The substance data couldn't load. Reload the page to try again.</div>`; return; }
+  const name = M.param("s");
+  S = M.byName.get(name) || M.find(name || "");
+  if (!S) {
+    $("#main").innerHTML = `<div class="page-head"><h1>Find a substance</h1><p class="lede">${name ? `We couldn't find “${esc(name)}”.` : ""} Type a name, a street name, or a chemical name.</p></div><div class="card"><div><input type="search" id="find" placeholder="e.g. LSD, Molly, ketamine" aria-label="Search a substance" autocomplete="off"></div></div>`;
+    M.suggestBox($("#find"), (s) => (location.href = "substance.html?s=" + encodeURIComponent(s.n)));
+    $("#find").focus();
+    return;
+  }
+  document.title = `${S.n} | Mazhar`;
+  const col = M.famColor(S.f);
+  const otherNames = [...new Set(S.common.split(",").map((x) => x.trim()).filter((x) => x && x !== S.n))];
+  $("#main").innerHTML = `<div class="page-head">
+      <p class="kicker"><span class="pill"><i style="background:${col}"></i>${esc(S.f)}</span> <span class="pill">${esc(S.c)}</span>${S.also.map((a) => ` <span class="pill">also ${esc(a)}</span>`).join("")}</p>
+      <h1 class="grad">${esc(S.n)}</h1>
+      ${otherNames.length ? `<p class="muted" style="margin-top:8px">Also called: ${esc(otherNames.slice(0, 10).join(", "))}</p>` : ""}
+      <p class="small faint">Not the one you meant? <a href="substance.html">Search again</a> or <a href="./#${encodeURIComponent(S.n)}">see it on the map</a>.</p>
+    </div>
+    ${warningIntro()}
+    <div class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" data-tab="info" aria-controls="tab-info">Info</button>
+      <button role="tab" data-tab="reports" aria-controls="tab-reports">Trip reports</button>
+      <button role="tab" data-tab="qa" aria-controls="tab-qa">Questions &amp; Tools</button>
+    </div>
+    <div role="tabpanel" id="tab-info">${infoTab()}</div>
+    <div role="tabpanel" id="tab-reports" hidden>${reportsTab()}</div>
+    <div role="tabpanel" id="tab-qa" hidden>${qaTab()}</div>`;
+  wire();
+})();
+</script>
+</body>
+</html>
