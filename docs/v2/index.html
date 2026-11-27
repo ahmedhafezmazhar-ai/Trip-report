@@ -1,0 +1,595 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mazhar Substance Map</title>
+<meta name="description" content="Find any substance and see what it can do. An interactive map of every PsychonautWiki substance, by family and by effect.">
+<meta name="theme-color" content="#0b0716">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  color-scheme:dark;
+  --bg:#0b0716;
+  --panel:rgba(22,13,42,.82);
+  --panel-solid:#170e2c;
+  --line:rgba(205,180,255,.16);
+  --line-strong:rgba(205,180,255,.32);
+  --text:#f4effe;
+  --muted:#beb4d6;
+  --faint:#8d83a8;
+  --accent:#c9a7ff;
+  --warn:#ffb547;
+  --danger:#ff6b6b;
+  --f-display:"Unbounded",system-ui,sans-serif;
+  --f-body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --radius:18px;
+}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;background:transparent;color:var(--text);font:15px/1.5 var(--f-body);-webkit-font-smoothing:antialiased}
+body{min-height:100vh;overflow-x:hidden}
+a{color:var(--accent)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid #fff;outline-offset:2px;border-radius:6px}
+
+/* ---------- psychedelic backdrop ---------- */
+#bg{position:fixed;inset:0;width:100%;height:100%;z-index:-2;filter:blur(36px) saturate(1.4);animation:hue 40s linear infinite}
+@keyframes hue{50%{filter:blur(36px) saturate(1.4) hue-rotate(70deg)}}
+.grain{position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.07;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
+.vignette{position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at center,transparent 50%,rgba(5,2,12,.6) 100%)}
+
+.wrap{max-width:1280px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-left)) 0 max(16px,env(safe-area-inset-right))}
+
+/* ---------- header ---------- */
+header.wrap{padding-top:36px;padding-bottom:18px}
+.brand{display:flex;align-items:center;gap:14px}
+.eye{width:52px;height:52px;flex:none}
+.eye circle{transform-origin:center}
+h1{font:800 clamp(30px,6vw,54px)/1.02 var(--f-display);margin:0;letter-spacing:-.02em;
+  background:linear-gradient(90deg,#ff8ad8,#c9a7ff,#7fe7ff,#a6ff8f,#ffd36b,#ff8ad8);background-size:300% 100%;
+  -webkit-background-clip:text;background-clip:text;color:transparent;animation:flow 14s linear infinite}
+@keyframes flow{to{background-position:300% 0}}
+.kicker{font:600 12px var(--f-body);letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
+.lede{max-width:720px;color:#e9e2fb;text-shadow:0 1px 12px rgba(0,0,0,.5);font-size:16px;margin:14px 0 0}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:10px 16px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.stat b{display:block;font:700 22px var(--f-display);font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+
+/* ---------- toolbar ---------- */
+.toolbar{position:sticky;top:0;z-index:15;padding:10px 0;margin-top:8px}
+.toolbar .inner{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:10px;backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);box-shadow:0 10px 40px rgba(0,0,0,.35)}
+.search{position:relative;flex:1 1 260px;min-width:0}
+.search input{width:100%;height:44px;border-radius:12px;border:1px solid var(--line-strong);background:rgba(255,255,255,.06);color:var(--text);padding:0 14px 0 40px;font-size:16px}
+.search input::placeholder{color:var(--faint)}
+.search svg{position:absolute;left:13px;top:13px;width:18px;height:18px;stroke:var(--muted)}
+.btn{height:44px;border-radius:12px;border:1px solid var(--line-strong);background:rgba(255,255,255,.05);padding:0 14px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:14px;white-space:nowrap;transition:background .2s,border-color .2s,transform .15s}
+.btn:hover{background:rgba(255,255,255,.1)}
+.btn:active{transform:scale(.97)}
+.btn[aria-pressed="true"],.btn[aria-expanded="true"]{background:linear-gradient(135deg,rgba(201,167,255,.35),rgba(127,231,255,.25));border-color:var(--accent)}
+.btn .n{background:var(--accent);color:#1a0f33;border-radius:99px;padding:0 7px;font-size:12px;line-height:18px}
+.seg{display:inline-flex;border:1px solid var(--line-strong);border-radius:12px;overflow:hidden}
+.seg button{height:42px;border:0;background:transparent;padding:0 14px;cursor:pointer;font-weight:600;font-size:14px;color:var(--muted)}
+.seg button[aria-selected="true"]{background:rgba(201,167,255,.22);color:var(--text)}
+
+/* effects picker */
+#effects{margin-top:10px;background:var(--panel-solid);border:1px solid var(--line);border-radius:16px;padding:14px;max-height:min(42vh,420px);overflow:auto}
+@media (max-width:640px){.toolbar{position:static}#effects{max-height:60vh}.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}.stat{padding:8px 10px}.stat b{font-size:18px}.stat span{font-size:11px;line-height:1.2;display:block}}
+#effects[hidden]{display:none}
+.efhead{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+.efhead input{flex:1 1 200px;height:38px;border-radius:10px;border:1px solid var(--line-strong);background:rgba(255,255,255,.06);color:var(--text);padding:0 12px;font-size:15px}
+.efhead p{margin:0;color:var(--muted);font-size:13px;flex-basis:100%}
+.sense h3{font:600 11px var(--f-body);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:12px 0 6px}
+.efx{display:flex;flex-wrap:wrap;gap:6px}
+.efx button{border:1px solid var(--line-strong);background:rgba(255,255,255,.04);border-radius:99px;padding:5px 11px;font-size:13px;cursor:pointer;transition:all .15s}
+.efx button:hover{border-color:var(--accent)}
+.efx button[aria-pressed="true"]{background:var(--accent);color:#1a0f33;border-color:var(--accent);font-weight:600}
+.efx button .c{opacity:.65;margin-left:5px;font-size:11px}
+
+/* ---------- main ---------- */
+main{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:18px;padding:8px 0 30px}
+@media (max-width:920px){main{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}
+.mapcard{position:relative;padding:12px;min-width:0}
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:6px;min-height:34px;padding:2px 4px 8px;font-size:14px}
+.crumbs button{border:0;background:rgba(255,255,255,.06);border-radius:99px;padding:5px 12px;cursor:pointer;font-weight:600}
+.crumbs button:hover{background:rgba(255,255,255,.12)}
+.crumbs .sep{color:var(--faint)}
+.crumbs .here{font-weight:700;padding:5px 4px}
+.maphint{margin-left:auto;color:var(--faint);font-size:12px}
+#map{display:block;width:100%;touch-action:manipulation;user-select:none;-webkit-user-select:none}
+#map .node{cursor:pointer}
+#map circle{transition:opacity .35s}
+#map .leaf.dim{opacity:.1}
+#map .leaf.hit{filter:drop-shadow(0 0 6px var(--glow))}
+#map text{pointer-events:none;fill:#fff;paint-order:stroke;stroke:rgba(10,4,22,.85);stroke-width:3.5px;stroke-linejoin:round;font-family:var(--f-body)}
+#map .lab-fam{font:700 15px var(--f-display)}
+#map .lab-cls{font-weight:700;font-size:13px}
+#map .lab-leaf{font-weight:600;font-size:11.5px}
+#map .cnt{font-weight:500;font-size:11px;fill:#e6dcff}
+.ripple{fill:none;stroke-width:2;pointer-events:none}
+.tip{position:fixed;z-index:30;pointer-events:none;background:#1c1236;border:1px solid var(--line-strong);border-radius:12px;padding:8px 12px;font-size:13px;box-shadow:0 8px 30px rgba(0,0,0,.5);max-width:260px;opacity:0;transform:translateY(4px);transition:opacity .12s,transform .12s}
+.tip.on{opacity:1;transform:none}
+.tip b{display:block;font-size:14px}
+.tip .sw{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:0}
+.tip .m{color:var(--muted)}
+
+/* side panel */
+aside.side{padding:16px;display:flex;flex-direction:column;gap:16px;min-width:0}
+.side h2{font:700 14px var(--f-display);margin:0 0 10px;letter-spacing:.02em}
+.bars{display:flex;flex-direction:column;gap:4px}
+.bar{display:grid;grid-template-columns:12px minmax(0,1fr) auto;gap:8px;align-items:center;border:0;background:transparent;text-align:left;padding:5px 6px;border-radius:10px;cursor:pointer}
+.bar:hover,.bar.on{background:rgba(255,255,255,.07)}
+.bar .sw{width:12px;height:12px;border-radius:4px}
+.bar .nm{font-size:13.5px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar .ct{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.bar .track{grid-column:2/4;height:6px;border-radius:99px;background:rgba(255,255,255,.07);position:relative;overflow:hidden}
+.bar .fill{position:absolute;left:0;top:0;bottom:0;border-radius:99px;width:0;transition:width .9s cubic-bezier(.2,.8,.2,1)}
+.bar .fill.tot{opacity:.3}
+.bar.zero{opacity:.45}
+.filters{display:flex;flex-wrap:wrap;gap:6px}
+.filters .chip{border:1px solid var(--accent);background:rgba(201,167,255,.15);border-radius:99px;padding:4px 10px;font-size:12.5px;cursor:pointer}
+.res{display:flex;flex-direction:column;gap:2px;max-height:420px;overflow:auto;margin:0 -6px;padding:0 6px}
+.res button{display:flex;align-items:center;gap:8px;border:0;background:transparent;text-align:left;padding:6px 8px;border-radius:9px;cursor:pointer;font-size:14px}
+.res button:hover{background:rgba(255,255,255,.08)}
+.res .sw{width:9px;height:9px;border-radius:50%;flex:none}
+.res .tg{margin-left:auto;font-size:11px;color:var(--muted)}
+.hint{color:var(--muted);font-size:13px;margin:0}
+
+/* list view */
+#list{padding:16px}
+#list .fam{border-top:1px solid var(--line);padding:14px 0}
+#list .fam:first-child{border-top:0;padding-top:0}
+#list h2{display:flex;align-items:center;gap:10px;font:700 18px var(--f-display);margin:0 0 8px}
+#list h2 .sw{width:14px;height:14px;border-radius:5px}
+#list h2 small{font:500 13px var(--f-body);color:var(--muted)}
+#list h3{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:10px 0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips button{border:1px solid var(--line-strong);border-left:3px solid var(--c);background:rgba(255,255,255,.04);border-radius:10px;padding:5px 10px;font-size:13.5px;cursor:pointer}
+.chips button:hover{background:rgba(255,255,255,.1)}
+.chips button small{color:var(--muted);margin-left:6px;font-size:11px}
+
+/* ---------- drawer ---------- */
+.scrim{position:fixed;inset:0;background:rgba(5,2,12,.55);z-index:40;opacity:0;pointer-events:none;transition:opacity .25s}
+.scrim.on{opacity:1;pointer-events:auto}
+#drawer{position:fixed;top:0;right:0;bottom:0;width:min(440px,100%);z-index:41;background:var(--panel-solid);border-left:1px solid var(--line-strong);overflow-y:auto;transform:translateX(105%);transition:transform .35s cubic-bezier(.2,.8,.2,1);padding:calc(env(safe-area-inset-top) + 22px) max(20px,env(safe-area-inset-right)) calc(env(safe-area-inset-bottom) + 28px) 22px;box-shadow:-20px 0 60px rgba(0,0,0,.5)}
+#drawer.on{transform:none}
+@media (max-width:640px){#drawer{top:auto;height:86%;width:100%;border-left:0;border-top:1px solid var(--line-strong);border-radius:22px 22px 0 0;transform:translateY(105%)}#drawer.on{transform:none}}
+#drawer .x{position:absolute;top:calc(env(safe-area-inset-top) + 12px);right:12px;width:40px;height:40px;border-radius:50%;border:1px solid var(--line-strong);background:rgba(255,255,255,.06);cursor:pointer;font-size:18px}
+#drawer .fam-tag{display:inline-flex;align-items:center;gap:8px;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+#drawer .fam-tag i{width:10px;height:10px;border-radius:50%}
+#drawer h2{font:800 26px/1.15 var(--f-display);margin:8px 50px 14px 0;overflow-wrap:anywhere}
+.orb{height:6px;border-radius:99px;margin:0 0 18px;background:linear-gradient(90deg,var(--c),transparent);animation:pulse 3s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.5}}
+#drawer dl{display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 14px;margin:0 0 16px;font-size:14px}
+#drawer dt{color:var(--muted)}
+#drawer dd{margin:0;overflow-wrap:anywhere}
+.alert{display:flex;gap:10px;border-radius:12px;padding:10px 12px;font-size:14px;margin:0 0 12px;border:1px solid}
+.alert.warn{background:rgba(255,181,71,.1);border-color:rgba(255,181,71,.45)}
+.alert svg{flex:none;width:18px;height:18px;margin-top:1px}
+.eff-group h4{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:14px 0 6px}
+.eff-group .efx button{cursor:pointer}
+.src{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-weight:600;text-decoration:none;border:1px solid var(--accent);border-radius:12px;padding:10px 14px}
+.src:hover{background:rgba(201,167,255,.12)}
+.hr-note{margin-top:20px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
+
+footer{padding:10px 0 calc(env(safe-area-inset-bottom) + 40px);color:var(--muted);font-size:13px}
+footer .card{padding:16px 18px;display:flex;flex-direction:column;gap:6px}
+
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.load{display:grid;place-items:center;min-height:400px;color:var(--muted)}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+}
+</style>
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="grain" aria-hidden="true"></div>
+<div class="vignette" aria-hidden="true"></div>
+
+<header class="wrap">
+  <div class="brand">
+    <svg class="eye" viewBox="0 0 52 52" aria-hidden="true">
+      <defs><linearGradient id="eg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8ad8"/><stop offset=".5" stop-color="#c9a7ff"/><stop offset="1" stop-color="#7fe7ff"/></linearGradient></defs>
+      <circle cx="26" cy="26" r="24" fill="none" stroke="url(#eg)" stroke-width="2.5"><animate attributeName="r" values="22;24.5;22" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="26" cy="26" r="15" fill="none" stroke="url(#eg)" stroke-width="2" opacity=".7"><animate attributeName="r" values="16;13;16" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="26" cy="26" r="6" fill="url(#eg)"/>
+    </svg>
+    <div>
+      <p class="kicker">Mazhar · harm reduction</p>
+      <h1>Substance Map</h1>
+    </div>
+  </div>
+  <p class="lede">Find any substance and see what it can do. Every substance from PsychonautWiki, grouped by family and chemical class. Tap a bubble to dive in, or pick effects to see which substances cause them.</p>
+  <div class="stats" id="stats" aria-live="polite"></div>
+</header>
+
+<div class="toolbar wrap">
+  <div class="inner">
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" id="q" placeholder="Search a substance, e.g. LSD, ketamine, MDMA" aria-label="Search a substance" autocomplete="off">
+    </div>
+    <button class="btn" id="efbtn" aria-expanded="false" aria-controls="effects">Effects <span class="n" id="efn" hidden></span></button>
+    <button class="btn" id="shbtn" aria-pressed="false" title="Show only compounds Shulgin wrote about">Shulgin</button>
+    <div class="seg" role="tablist" aria-label="View">
+      <button role="tab" id="tab-map" aria-selected="true">Map</button>
+      <button role="tab" id="tab-list" aria-selected="false">List</button>
+    </div>
+  </div>
+  <div id="effects" hidden>
+    <div class="efhead">
+      <input type="search" id="efq" placeholder="Find an effect, e.g. euphoria" aria-label="Find an effect">
+      <button class="btn" id="efclear" style="height:38px">Clear effects</button>
+      <p>Pick one or more. Substances reported to cause all of them light up on the map.</p>
+    </div>
+    <div id="eflist"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <section class="card mapcard" id="mapview" aria-label="Substance map">
+    <nav class="crumbs" id="crumbs" aria-label="Map position"></nav>
+    <div id="mapbox"><div class="load">Loading the map…</div></div>
+  </section>
+  <section class="card" id="list" hidden aria-label="Substance list"></section>
+  <aside class="card side" aria-label="Families and results">
+    <div>
+      <h2>Families</h2>
+      <div class="bars" id="bars"></div>
+    </div>
+    <div id="results"></div>
+  </aside>
+</main>
+
+<footer class="wrap">
+  <div class="card">
+    <div><b>Information, not advice.</b> This map shows what is reported about each substance. It can't tell you what is safe for you. If someone is in danger, call your local emergency number.</div>
+    <div>Substance data from <a href="https://psychonautwiki.org" target="_blank" rel="noopener">PsychonautWiki</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Groupings and edits by the Mazhar project, shared under the same license.</div>
+  </div>
+</footer>
+
+<div class="tip" id="tip" role="status"></div>
+<div class="scrim" id="scrim"></div>
+<div id="drawer" role="dialog" aria-modal="true" aria-labelledby="dh" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+/* ================= backdrop ================= */
+(function(){
+  const c=document.getElementById("bg"), x=c.getContext("2d");
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const blobs=[["#7b3cff",.9],["#ff3fa4",.7],["#00c2d1",.6],["#ff8a00",.45],["#2f5bff",.7],["#7dff6a",.25]];
+  let W,H,t=Math.random()*1000;
+  function size(){W=c.width=Math.max(160,innerWidth/6|0);H=c.height=Math.max(160,innerHeight/6|0)}
+  function draw(){
+    x.globalCompositeOperation="source-over";x.fillStyle="#0b0716";x.fillRect(0,0,W,H);
+    x.globalCompositeOperation="lighter";
+    blobs.forEach(([col,a],i)=>{
+      const px=W*(.5+.42*Math.sin(t*.00011*(i+2)+i*1.7)), py=H*(.5+.42*Math.cos(t*.00013*(i+1.3)+i));
+      const r=Math.max(W,H)*(.38+.12*Math.sin(t*.0002+i));
+      const g=x.createRadialGradient(px,py,0,px,py,r);
+      g.addColorStop(0,col+Math.round(a*0.8*255).toString(16).padStart(2,"0"));g.addColorStop(1,col+"00");
+      x.fillStyle=g;x.fillRect(0,0,W,H);
+    });
+  }
+  function loop(ts){t=ts+5e4;draw();if(!reduce&&!document.hidden)requestAnimationFrame(loop)}
+  size();addEventListener("resize",()=>{size();draw()});
+  document.addEventListener("visibilitychange",()=>{if(!document.hidden&&!reduce)requestAnimationFrame(loop)});
+  reduce?draw():requestAnimationFrame(loop);
+})();
+
+/* ================= data ================= */
+// Family colours: the eight largest families get their own hue; the small ones share a neutral and are told apart by their labels.
+const FAMC={Psychedelics:"#9887ef",Stimulants:"#e76624",Depressants:"#338ced",Opioids:"#eb6263",Dissociatives:"#00a888",Cannabinoids:"#0aac23",Entactogens:"#e24d8b",Nootropics:"#d28e05"};
+const NEUTRAL="#8a8fa3";
+const famColor=f=>FAMC[f]||NEUTRAL;
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+// Approved fixes (design log D44)
+const UNCL={"Flunitrazepam":["Depressants","Benzodiazepine"],"Kava":["Depressants","Kavalactone"],"1,3-Butanediol":["Depressants","Alkanediol"],"Trihexyphenidyl":["Deliriants","Anticholinergic"],"Perazin":["Prescription medicines","Phenothiazine"],"Cocoa":["Stimulants","Xanthine"],"AET":["Entactogens","Tryptamine"],"Blue lotus":["Other","Chemical class not given"],"Grayanotoxin":["Other","Chemical class not given"],"Inhalants":["Other","Chemical class not given"],"Tryptamine (compound)":["Other","Arylethylamine"]};
+const MERGE={"Substituted amphetamines":"Substituted amphetamine","Amphetamine":"Substituted amphetamine","Arylcyclohexylamines":"Arylcyclohexylamine","Indole alkaloids":"Indole alkaloid","Substituted cathinone":"Cathinone","Substituted phenethylamine":"Phenethylamine","substituted piperazine":"Substituted piperazine","1":"Carbamate","cholinergic":"Choline ester"};
+const RX=new Set(["Antipsychotics","Antidepressants","Anxiolytics"]);
+const NOCLASS="Chemical class not given";
+
+let D, SUBS=[], PL=[], EFF=[];
+const state={q:"",effects:new Set(),shulgin:false,view:"map"};
+
+function build(raw){
+  D=raw;
+  for(const s of raw.s){
+    const iss=s.iss||[];
+    if(iss.includes("preparations"))continue;
+    let f=s.f,c=s.c||NOCLASS;
+    if(iss.includes("thc-in-stimulants")){f="Cannabinoids";c="Cannabinoid"}
+    if(iss.includes("opioids-in-depressants"))f="Opioids";
+    if(UNCL[s.n])[f,c]=UNCL[s.n];
+    if(f==="Unclassified")f="Other";
+    if(RX.has(f))f="Prescription medicines";
+    if(MERGE[c])c=MERGE[c];
+    const also=[...new Set((s.also||[]).map(a=>RX.has(a)?"Prescription medicines":a).filter(a=>a!==f))];
+    const sub={n:s.n,f,c,also,u:s.u,sh:s.sh||[],d:s.d,e:s.e||[],key:s.n.toLowerCase()};
+    SUBS.push(sub);
+    PL.push({s:sub,f,c,second:false});
+    for(const a of also)PL.push({s:sub,f:a,c,second:true});
+  }
+  EFF=raw.e.map((e,i)=>({...e,i,count:0}));
+  for(const s of SUBS)for(const i of s.e)EFF[i].count++;
+}
+
+function matches(s){
+  if(state.q&&!s.key.includes(state.q))return false;
+  if(state.shulgin&&!s.sh.length)return false;
+  for(const i of state.effects)if(!s.e.includes(i))return false;
+  return true;
+}
+const filtering=()=>!!(state.q||state.shulgin||state.effects.size);
+
+/* ================= stats ================= */
+function stats(){
+  const fams=new Set(PL.map(p=>p.f)).size;
+  const items=[[SUBS.length,"substances"],[fams,"families"],[EFF.filter(e=>e.count).length,"effects"],[SUBS.filter(s=>s.sh.length).length,"in Shulgin's books"]];
+  const el=document.getElementById("stats");
+  el.innerHTML=items.map(([n,l])=>`<div class="stat"><b data-to="${n}">0</b><span>${l}</span></div>`).join("");
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  el.querySelectorAll("b").forEach(b=>{
+    const to=+b.dataset.to;
+    if(reduce){b.textContent=to;return}
+    const t0=performance.now();
+    (function step(t){const k=Math.min(1,(t-t0)/1400),e=1-Math.pow(1-k,3);b.textContent=Math.round(to*e);if(k<1)requestAnimationFrame(step)})(t0);
+  });
+}
+
+/* ================= map ================= */
+let root, focus, view, svg, gAll, nodeSel, labelSel, W=600, tipEl=document.getElementById("tip");
+
+function hierarchy(){
+  const fams=d3.group(PL,p=>p.f,p=>p.c);
+  const data={name:"All",children:[...fams].map(([f,cls])=>({name:f,type:"fam",children:[...cls].map(([c,arr])=>({name:c,type:"cls",fam:f,children:arr.map(p=>({name:p.s.n,type:"leaf",fam:f,p,value:1}))}))}))};
+  return d3.hierarchy(data).sum(d=>d.value||0).sort((a,b)=>{
+    if(a.data.name===NOCLASS)return 1; if(b.data.name===NOCLASS)return -1;
+    return b.value-a.value||a.data.name.localeCompare(b.data.name)});
+}
+
+function drawMap(){
+  const box=document.getElementById("mapbox");
+  W=Math.max(300,Math.min(box.clientWidth,820));
+  const H=W;
+  root=d3.pack().size([W,H]).padding(d=>d.depth===0?10:d.depth===1?6:2)(hierarchy());
+  focus=focus?root.descendants().find(d=>d.data.name===focus.data.name&&d.depth===focus.depth)||root:root;
+  box.innerHTML="";
+  svg=d3.select(box).append("svg").attr("id","map").attr("width",W).attr("height",H).attr("viewBox",[-W/2,-H/2,W,H]).attr("role","img").attr("aria-label","Bubble map of substances by family and chemical class. Use the List view for a text version.");
+  const defs=svg.append("defs");
+  const families=root.children.map(d=>d.data.name);
+  families.forEach((f,i)=>{
+    const col=d3.color(famColor(f));
+    const g=defs.append("radialGradient").attr("id","fg"+i).attr("cx","35%").attr("cy","30%").attr("r","75%");
+    g.append("stop").attr("offset","0").attr("stop-color",col.brighter(.6)).attr("stop-opacity",.38);
+    g.append("stop").attr("offset","1").attr("stop-color",col.darker(1.4)).attr("stop-opacity",.22);
+  });
+  const fi=f=>families.indexOf(f);
+  svg.on("click",()=>zoom(focus.parent||root));
+  gAll=svg.append("g");
+  nodeSel=gAll.selectAll("circle").data(root.descendants().slice(1)).join("circle")
+    .attr("class",d=>"node "+d.data.type)
+    .attr("fill",d=>d.data.type==="fam"?`url(#fg${fi(d.data.name)})`:d.data.type==="cls"?d3.color(famColor(d.data.fam)).copy({opacity:.16}):famColor(d.data.fam))
+    .attr("stroke",d=>d.data.type==="leaf"?"rgba(10,4,22,.6)":d3.color(famColor(d.data.type==="fam"?d.data.name:d.data.fam)).copy({opacity:d.data.type==="fam"?.85:.45}))
+    .attr("stroke-width",d=>d.data.type==="fam"?1.5:1)
+    .style("--glow",d=>famColor(d.data.fam||d.data.name))
+    .on("mouseenter",(e,d)=>showTip(e,d)).on("mousemove",moveTip).on("mouseleave",hideTip)
+    .on("click",(e,d)=>{e.stopPropagation();hideTip();
+      if(d.data.type==="leaf"){ripple(d);if(focus!==d.parent&&focus!==d.parent.parent&&!(d.parent.children.length===1))zoom(d.parent);openDrawer(d.data.p.s.n,d.data.fam)}
+      else if(focus!==d)zoom(d); else zoom(d.parent)});
+  labelSel=gAll.selectAll("g.lab").data(root.descendants().slice(1)).join("g").attr("class","lab").style("display","none");
+  labelSel.each(function(d){
+    const g=d3.select(this);
+    if(d.data.type==="fam"){g.append("text").attr("class","lab-fam").attr("text-anchor","middle");g.append("text").attr("class","cnt").attr("text-anchor","middle")}
+    else if(d.data.type==="cls"){g.append("text").attr("class","lab-cls").attr("text-anchor","middle");g.append("text").attr("class","cnt").attr("text-anchor","middle")}
+    else g.append("text").attr("class","lab-leaf").attr("text-anchor","middle").attr("dy","0.35em");
+  });
+  // entrance
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  zoomTo([focus.x,focus.y,focus.r*2+8]);
+  if(!reduce&&!drawMap.done){
+    nodeSel.attr("r",0).transition().delay(d=>d.depth*220+Math.random()*250).duration(900).ease(d3.easeElasticOut.amplitude(1).period(.55)).attr("r",d=>d.r*(W/(focus.r*2+8)));
+    drawMap.done=true;
+  }
+  applyFilter();crumbs();
+}
+
+function zoomTo(v){
+  const k=W/v[2]; view=v;
+  nodeSel.attr("transform",d=>`translate(${(d.x-v[0])*k},${(d.y-v[1])*k})`).attr("r",d=>d.r*k);
+  labelSel.attr("transform",d=>`translate(${(d.x-v[0])*k},${(d.y-v[1])*k})`);
+  layoutLabels(k);
+}
+function fit(text,maxW,px){const max=Math.floor(maxW/(px*.58));if(max<3)return"";return text.length>max?text.slice(0,max-1)+"…":text}
+function layoutLabels(k){
+  labelSel.style("display",d=>{
+    const r=d.r*k;
+    if(d.data.type==="leaf")return(d.parent===focus||(focus.depth===1&&d.parent.parent===focus&&d.parent.children.length===1))&&r>11?null:"none";
+    if(d.data.type==="cls"&&d.children.length===1&&d.parent===focus)return "none";
+    return d.parent===focus&&r>18?null:"none";
+  }).each(function(d){
+    const r=d.r*k,g=d3.select(this);
+    if(d.data.type==="leaf"){g.select("text").text(fit(d.data.name,r*1.9,11.5));return}
+    const big=d.data.type==="fam"?15:13, t=g.select("text:first-child"), c=g.select(".cnt");
+    const name=fit(d.data.name,r*1.8,big);
+    const showLabel=d.data.type==="fam"||d.children.length>3||!d.children.some(()=>true);
+    t.text(name).attr("y",d.data.type==="fam"?-2:-r+16+(r>60?6:0));
+    c.text(r>34?`${d.value}`:"").attr("y",d.data.type==="fam"?14:-r+30+(r>60?6:0));
+    if(d.data.type==="cls"&&r<40){t.attr("y",4);c.text("")}
+  });
+}
+function zoom(d){
+  if(!d)return;
+  focus=d;
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const target=[focus.x,focus.y,focus.r*2+8];
+  if(reduce){zoomTo(target);crumbs();return}
+  svg.transition().duration(750).ease(d3.easeCubicInOut).tween("zoom",()=>{const i=d3.interpolateZoom(view,target);return t=>zoomTo(i(t))});
+  crumbs();
+}
+function crumbs(){
+  const el=document.getElementById("crumbs");
+  const path=focus.ancestors().reverse();
+  el.innerHTML=path.map((d,i)=>i===path.length-1?`<span class="here">${esc(i===0?"All families":d.data.name)}</span>`:`<button data-depth="${d.depth}">${esc(i===0?"All families":d.data.name)}</button><span class="sep">›</span>`).join("")+`<span class="maphint">${focus.depth<2?"Tap a bubble to zoom in":"Tap a substance for details"}</span>`;
+  el.querySelectorAll("button").forEach(b=>b.onclick=()=>{let t=focus;while(t.depth>+b.dataset.depth)t=t.parent;zoom(t)});
+  document.querySelectorAll(".bar").forEach(b=>b.classList.toggle("on",focus.depth>=1&&focus.ancestors().some(a=>a.depth===1&&a.data.name===b.dataset.f)));
+}
+function ripple(d){
+  if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;
+  const k=W/view[2];
+  gAll.append("circle").attr("class","ripple").attr("stroke",famColor(d.data.fam))
+    .attr("cx",(d.x-view[0])*k).attr("cy",(d.y-view[1])*k).attr("r",d.r*k)
+    .transition().duration(700).ease(d3.easeCubicOut).attr("r",d.r*k+40).style("opacity",0).remove();
+}
+function showTip(e,d){
+  const t=d.data.type;let h;
+  if(t==="leaf"){const s=d.data.p.s;h=`<b><span class="sw" style="background:${famColor(d.data.fam)}"></span>${esc(s.n)}</b><span class="m">${esc(d.data.fam)} · ${esc(s.c)}</span>${s.sh.length?`<br><span class="m">In Shulgin's books</span>`:""}${d.data.p.second?`<br><span class="m">Also listed under ${esc(s.f)}</span>`:""}`}
+  else if(t==="fam")h=`<b><span class="sw" style="background:${famColor(d.data.name)}"></span>${esc(d.data.name)}</b><span class="m">${d.value} substances · ${d.children.length} chemical classes</span>`;
+  else h=`<b>${esc(d.data.name)}</b><span class="m">${esc(d.data.fam)} · ${d.value} substances</span>`;
+  tipEl.innerHTML=h;tipEl.classList.add("on");moveTip(e);
+}
+function moveTip(e){const x=Math.min(e.clientX+14,innerWidth-tipEl.offsetWidth-8),y=Math.min(e.clientY+14,innerHeight-tipEl.offsetHeight-8);tipEl.style.left=x+"px";tipEl.style.top=y+"px"}
+function hideTip(){tipEl.classList.remove("on")}
+
+/* ================= filters / side panel ================= */
+function applyFilter(){
+  const on=filtering();
+  if(on&&focus&&focus!==root&&root&&!focus.leaves().some(l=>matches(l.data.p.s)))zoom(root);
+  if(nodeSel)nodeSel.filter(".leaf").classed("dim",d=>on&&!matches(d.data.p.s)).classed("hit",d=>on&&matches(d.data.p.s));
+  bars();results();
+  if(state.view==="list")renderList();
+  const n=state.effects.size,b=document.getElementById("efn");b.hidden=!n;b.textContent=n;
+}
+function bars(){
+  const fams=d3.rollups(PL,v=>v.length,p=>p.f).sort((a,b)=>b[1]-a[1]);
+  const max=fams[0][1], on=filtering();
+  const hits=on?d3.rollup(PL.filter(p=>matches(p.s)),v=>v.length,p=>p.f):null;
+  const el=document.getElementById("bars");
+  if(!el.children.length){
+    el.innerHTML=fams.map(([f,n])=>`<button class="bar" data-f="${esc(f)}" aria-label="${esc(f)}"><span class="sw" style="background:${famColor(f)}"></span><span class="nm">${esc(f)}</span><span class="ct"></span><span class="track"><span class="fill tot" style="background:${famColor(f)}"></span><span class="fill hit" style="background:${famColor(f)}"></span></span></button>`).join("");
+    el.querySelectorAll(".bar").forEach(b=>b.onclick=()=>{
+      if(state.view!=="map")setView("map");
+      const d=root.children.find(c=>c.data.name===b.dataset.f);zoom(focus===d?root:d);
+      document.getElementById("mapview").scrollIntoView({behavior:"smooth",block:"nearest"});
+    });
+  }
+  requestAnimationFrame(()=>fams.forEach(([f,n])=>{
+    const b=el.querySelector(`.bar[data-f="${CSS.escape(f)}"]`), h=on?(hits.get(f)||0):n;
+    b.querySelector(".tot").style.width=(on?n/max*100:0)+"%";
+    b.querySelector(".hit").style.width=(h/max*100)+"%";
+    b.querySelector(".ct").textContent=on?`${h} of ${n}`:n;
+    b.classList.toggle("zero",on&&!h);
+  }));
+}
+function results(){
+  const el=document.getElementById("results");
+  if(!filtering()){el.innerHTML=`<h2>How to read it</h2><p class="hint">Each big bubble is a family. Inside are chemical classes, and inside those, single substances. Bar length shows how many substances each family has. A substance that belongs to two families shows in both.</p>`;return}
+  const hits=SUBS.filter(matches).sort((a,b)=>a.n.localeCompare(b.n));
+  const chips=[];
+  if(state.q)chips.push(`<button class="chip" data-clear="q">“${esc(state.q)}” ✕</button>`);
+  if(state.shulgin)chips.push(`<button class="chip" data-clear="sh">Shulgin ✕</button>`);
+  for(const i of state.effects)chips.push(`<button class="chip" data-clear-e="${i}">${esc(EFF[i].n)} ✕</button>`);
+  el.innerHTML=`<h2>${hits.length} match${hits.length===1?"":"es"}</h2><div class="filters" style="margin-bottom:10px">${chips.join("")}</div>`+
+    (hits.length?`<div class="res">${hits.slice(0,200).map(s=>`<button data-open="${esc(s.n)}"><span class="sw" style="background:${famColor(s.f)}"></span>${esc(s.n)}<span class="tg">${esc(s.f)}</span></button>`).join("")}</div>`:`<p class="hint">Nothing matches all of these. Try removing a filter.</p>`);
+}
+
+/* effects picker */
+function renderEffects(){
+  const fq=document.getElementById("efq").value.trim().toLowerCase();
+  const groups=d3.groups(EFF.filter(e=>e.count&&(!fq||e.n.toLowerCase().includes(fq))),e=>e.s).sort((a,b)=>b[1].length-a[1].length);
+  document.getElementById("eflist").innerHTML=groups.length?groups.map(([s,arr])=>`<div class="sense"><h3>${esc(s.replace(/ effects$/,""))}</h3><div class="efx">${arr.sort((a,b)=>b.count-a.count).map(e=>`<button data-e="${e.i}" aria-pressed="${state.effects.has(e.i)}">${esc(e.n)}<span class="c">${e.count}</span></button>`).join("")}</div></div>`).join(""):`<p class="hint">No effect by that name.</p>`;
+}
+
+/* list view */
+function renderList(){
+  const el=document.getElementById("list"), on=filtering();
+  const fams=d3.groups(PL.filter(p=>!on||matches(p.s)),p=>p.f).sort((a,b)=>b[1].length-a[1].length);
+  el.innerHTML=fams.length?fams.map(([f,arr])=>{
+    const cls=d3.groups(arr,p=>p.c).sort((a,b)=>a[0]===NOCLASS?1:b[0]===NOCLASS?-1:b[1].length-a[1].length);
+    return `<section class="fam"><h2><span class="sw" style="background:${famColor(f)}"></span>${esc(f)} <small>${arr.length}</small></h2>${cls.map(([c,ps])=>`<h3>${esc(c)} (${ps.length})</h3><div class="chips">${ps.sort((a,b)=>a.s.n.localeCompare(b.s.n)).map(p=>`<button style="--c:${famColor(f)}" data-open="${esc(p.s.n)}" data-fam="${esc(f)}">${esc(p.s.n)}${p.s.sh.length?"<small>Shulgin</small>":""}${p.second?"<small>also</small>":""}</button>`).join("")}</div>`).join("")}</section>`}).join(""):`<p class="hint">Nothing matches. Try removing a filter.</p>`;
+}
+function setView(v){
+  state.view=v;
+  document.getElementById("tab-map").setAttribute("aria-selected",v==="map");
+  document.getElementById("tab-list").setAttribute("aria-selected",v==="list");
+  document.getElementById("mapview").hidden=v!=="map";
+  document.getElementById("list").hidden=v!=="list";
+  if(v==="list")renderList(); else drawMap();
+}
+
+/* ================= drawer ================= */
+const drawer=document.getElementById("drawer"), scrim=document.getElementById("scrim");
+let lastFocus=null;
+const WARN_ICON=`<svg viewBox="0 0 24 24" fill="none" stroke="#ffb547" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3 2 21h20L12 3z"/><path d="M12 10v5M12 18h.01"/></svg>`;
+function openDrawer(name){
+  const s=SUBS.find(x=>x.n===name); if(!s)return;
+  lastFocus=document.activeElement;
+  const groups=d3.groups(s.e.map(i=>EFF[i]),e=>e.s).sort((a,b)=>b[1].length-a[1].length);
+  const col=famColor(s.f);
+  drawer.innerHTML=`<button class="x" id="dx" aria-label="Close">✕</button>
+    <div class="fam-tag"><i style="background:${col}"></i>${esc(s.f)}${s.also.length?` · also ${esc(s.also.join(", "))}`:""}</div>
+    <h2 id="dh">${esc(s.n)}</h2><div class="orb" style="--c:${col}"></div>
+    ${s.d?"":`<div class="alert warn">${WARN_ICON}<div><b>No reliable dose data yet.</b> Treat any amount as an unknown risk. Start low, don't mix, and don't use alone.</div></div>`}
+    <dl><dt>Family</dt><dd>${esc(s.f)}</dd><dt>Chemical class</dt><dd>${esc(s.c)}</dd>${s.sh.length?`<dt>Shulgin</dt><dd>${esc(s.sh.join(", "))}</dd>`:""}<dt>Effects listed</dt><dd>${s.e.length||"None yet"}</dd></dl>
+    ${s.e.length?`<div class="eff-group">${groups.map(([g,arr])=>`<h4>${esc(g.replace(/ effects$/,""))}</h4><div class="efx">${arr.map(e=>`<button data-e="${e.i}" aria-pressed="${state.effects.has(e.i)}" title="Show substances with this effect">${esc(e.n)}</button>`).join("")}</div>`).join("")}</div>`:`<p class="hint">Effects for this substance aren't listed yet.</p>`}
+    <a class="src" href="${esc(s.u)}" target="_blank" rel="noopener">Read the full PsychonautWiki page ↗</a>
+    <p class="hr-note">Effects are what people report, not a promise. Doses, interactions and your own health change the risk. Never mix substances without checking how they interact.</p>`;
+  drawer.hidden=false;
+  requestAnimationFrame(()=>{drawer.classList.add("on");scrim.classList.add("on")});
+  document.getElementById("dx").focus({preventScroll:true});
+  history.replaceState(null,"","#"+encodeURIComponent(s.n));
+}
+function closeDrawer(){
+  drawer.classList.remove("on");scrim.classList.remove("on");
+  setTimeout(()=>{if(!drawer.classList.contains("on"))drawer.hidden=true},350);
+  history.replaceState(null,"",location.pathname+location.search);
+  lastFocus?.focus?.({preventScroll:true});
+}
+
+/* ================= events ================= */
+let qT;
+document.getElementById("q").addEventListener("input",e=>{clearTimeout(qT);qT=setTimeout(()=>{state.q=e.target.value.trim().toLowerCase();applyFilter()},120)});
+document.getElementById("q").addEventListener("keydown",e=>{if(e.key==="Enter"){const h=SUBS.filter(matches);const exact=h.find(s=>s.key===state.q)||h[0];if(exact)openDrawer(exact.n)}});
+document.getElementById("efbtn").onclick=e=>{const p=document.getElementById("effects"),o=p.hidden;p.hidden=!o;e.currentTarget.setAttribute("aria-expanded",o);if(o){renderEffects();document.getElementById("efq").focus()}};
+document.getElementById("efq").addEventListener("input",renderEffects);
+document.getElementById("efclear").onclick=()=>{state.effects.clear();renderEffects();applyFilter()};
+document.getElementById("shbtn").onclick=e=>{state.shulgin=!state.shulgin;e.currentTarget.setAttribute("aria-pressed",state.shulgin);applyFilter()};
+document.getElementById("tab-map").onclick=()=>setView("map");
+document.getElementById("tab-list").onclick=()=>setView("list");
+scrim.onclick=closeDrawer;
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape"){if(drawer.classList.contains("on"))closeDrawer();else if(focus&&focus.parent)zoom(focus.parent)}
+  if(e.key==="Tab"&&drawer.classList.contains("on")){const f=[...drawer.querySelectorAll("button,a")];if(!f.length)return;const a=f[0],z=f[f.length-1];if(e.shiftKey&&document.activeElement===a){e.preventDefault();z.focus()}else if(!e.shiftKey&&document.activeElement===z){e.preventDefault();a.focus()}}
+});
+document.addEventListener("click",e=>{
+  const t=e.target.closest("button"); if(!t)return;
+  if(t.id==="dx"){closeDrawer();return}
+  if(t.dataset.e!==undefined){const i=+t.dataset.e;state.effects.has(i)?state.effects.delete(i):state.effects.add(i);t.setAttribute("aria-pressed",state.effects.has(i));if(!document.getElementById("effects").hidden)renderEffects();applyFilter();return}
+  if(t.dataset.clear==="q"){state.q="";document.getElementById("q").value="";applyFilter();return}
+  if(t.dataset.clear==="sh"){state.shulgin=false;document.getElementById("shbtn").setAttribute("aria-pressed",false);applyFilter();return}
+  if(t.dataset.clearE!==undefined){state.effects.delete(+t.dataset.clearE);if(!document.getElementById("effects").hidden)renderEffects();applyFilter();return}
+  if(t.dataset.open){
+    const s=SUBS.find(x=>x.n===t.dataset.open);
+    if(state.view==="map"&&s&&root){const leaf=root.leaves().find(l=>l.data.p.s===s&&!l.data.p.second);if(leaf){zoom(leaf.parent);setTimeout(()=>ripple(leaf),760)}}
+    openDrawer(t.dataset.open);
+  }
+});
+let rT;addEventListener("resize",()=>{clearTimeout(rT);rT=setTimeout(()=>{if(state.view==="map"&&root){const w=Math.max(300,Math.min(document.getElementById("mapbox").clientWidth,820));if(Math.abs(w-W)>4)drawMap()}},150)});
+
+/* ================= boot ================= */
+fetch("../design/substance-map/substance-map-data.json").then(r=>{if(!r.ok)throw 0;return r.json()}).then(raw=>{
+  build(raw);stats();drawMap();
+  if(location.hash){const n=decodeURIComponent(location.hash.slice(1));if(SUBS.some(s=>s.n===n))openDrawer(n)}
+}).catch(()=>{document.getElementById("mapbox").innerHTML=`<div class="load">The substance list couldn't load. Reload the page to try again.</div>`});
+</script>
+</body>
+</html>
