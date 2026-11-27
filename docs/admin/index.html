@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Review queue | Mazhar</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0b0716">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../v2/assets/app.css">
+<style>
+  .tabs-admin { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 16px; }
+  .tabs-admin button[aria-pressed="true"] { outline: 2px solid currentColor; }
+  .post { white-space: pre-wrap; overflow-wrap: anywhere; }
+  .post h4 { margin: 12px 0 4px; }
+  .note { width: 100%; min-height: 48px; }
+  .count { opacity: .7; font-weight: 400; }
+</style>
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<main class="wrap" id="main"><div class="load">Loading…</div></main>
+
+<script src="../v2/assets/app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script>
+"use strict";
+const { $, $$, esc } = M;
+M.backdrop && M.backdrop();
+const sb = supabase.createClient(M.cloud.url.replace(/\/rest\/v1\/?$/, ""), M.cloud.key, { auth: { persistSession: true, storageKey: "mazhar.admin" } });
+
+const KINDS = {
+  trip_reports: { label: "Trip reports", cols: "id,substance,title,pen_name,body,status,review_note,created_at,reviewed_at", noteCol: "review_note" },
+  questions: { label: "Questions", cols: "id,text,pen_name,substances,status,review_note,created_at", noteCol: "review_note" },
+  replies: { label: "Replies", cols: "id,question_id,text,pen_name,status,correction,created_at", noteCol: "correction" },
+};
+const STATUSES = ["pending", "escalated", "approved", "rejected"];
+let kind = "trip_reports", status = "pending", me = null;
+
+function head(sub) {
+  return `<div class="page-head"><p class="kicker">Mazhar · moderators</p><h1 class="grad">Review queue</h1>${sub ? `<p class="lede">${sub}</p>` : ""}</div>`;
+}
+
+function loginView(msg) {
+  $("#main").innerHTML = head("Sign in with your moderator account.") + `<section class="card" style="max-width:420px">
+    <form id="login" novalidate>
+      <div class="field"><label for="em">Email</label><input type="email" id="em" autocomplete="username" required></div>
+      <div class="field"><label for="pw">Password</label><input type="password" id="pw" autocomplete="current-password" required></div>
+      ${msg ? `<div class="alert warn">${M.WARN_ICON}<div><p>${esc(msg)}</p></div></div>` : ""}
+      <button class="btn primary" type="submit">Sign in</button>
+    </form></section>`;
+  $("#login").onsubmit = async (e) => {
+    e.preventDefault();
+    const btn = $("#login button"); btn.disabled = true; btn.textContent = "Signing in…";
+    const { error } = await sb.auth.signInWithPassword({ email: $("#em").value.trim(), password: $("#pw").value });
+    if (error) return loginView(error.message === "Invalid login credentials" ? "That email and password don't match." : error.message);
+    boot();
+  };
+}
+
+async function boot() {
+  const { data: { session } } = await sb.auth.getSession();
+  if (!session) return loginView();
+  const { data, error } = await sb.from("moderators").select("email").eq("user_id", session.user.id).maybeSingle();
+  if (error || !data) {
+    await sb.auth.signOut();
+    return loginView(error ? "Couldn't check your account. Try again." : "This account isn't a moderator.");
+  }
+  me = data.email;
+  shell();
+}
+
+function shell() {
+  $("#main").innerHTML = head() + `
+    <div class="row" style="justify-content:space-between"><span class="small muted">Signed in as ${esc(me)}</span><button class="btn sm" id="out">Sign out</button></div>
+    <div class="tabs-admin" id="kinds">${Object.entries(KINDS).map(([k, v]) => `<button class="btn" data-kind="${k}" aria-pressed="${k === kind}">${v.label} <span class="count" data-count="${k}"></span></button>`).join("")}</div>
+    <div class="tabs-admin" id="stats">${STATUSES.map((s) => `<button class="btn sm" data-status="${s}" aria-pressed="${s === status}">${s[0].toUpperCase() + s.slice(1)}</button>`).join("")}</div>
+    <div id="list" class="stack"><div class="load">Loading…</div></div>`;
+  $("#out").onclick = async () => { await sb.auth.signOut(); loginView(); };
+  $("#kinds").onclick = (e) => { const b = e.target.closest("[data-kind]"); if (b) { kind = b.dataset.kind; shell(); } };
+  $("#stats").onclick = (e) => { const b = e.target.closest("[data-status]"); if (b) { status = b.dataset.status; shell(); } };
+  counts(); list();
+}
+
+async function counts() {
+  for (const k of Object.keys(KINDS)) {
+    const { count } = await sb.from(k).select("id", { count: "exact", head: true }).in("status", ["pending", "escalated"]);
+    const el = $(`[data-count="${k}"]`); if (el) el.textContent = count ? `(${count} waiting)` : "";
+  }
+}
+
+function para(t) { return esc(t || "").trim(); }
+function reportBody(r) {
+  const b = r.body || {}, bg = b.bg || {};
+  const doses = (b.doses || []).filter((d) => d.amount || d.sub).map((d) => `${M.fmtMin ? M.fmtMin(d.t || 0) : d.t} · ${d.sub || r.substance} ${d.amount || ""} ${d.route || ""}`);
+  const bgRows = [["Setting", bg.setting], ["Sitter", bg.sitter], ["Mood", bg.mood], ["Intention", bg.intention], ["Medications", bg.meds], ["Tested", bg.tested], ["Past experience", bg.pastText]].filter(([, v]) => v);
+  const tl = (b.timeline || []).filter((e) => (e.text || "").trim()).sort((a, c) => (a.t ?? 0) - (c.t ?? 0));
+  return `<div class="post">
+    ${doses.length ? `<h4>Doses</h4>${doses.map(esc).join("\n")}` : ""}
+    ${bgRows.length ? `<h4>Background</h4>${bgRows.map(([k, v]) => `<b>${esc(k)}:</b> ${para(v)}`).join("\n")}` : ""}
+    ${tl.length ? `<h4>Timeline</h4>${tl.map((e) => `<b>${esc(M.fmtMin ? M.fmtMin(e.t ?? 0) : e.t)}</b> ${para(e.text)}`).join("\n\n")}` : ""}
+    ${b.after ? `<h4>After-effects</h4>${para(b.after)}` : ""}
+    ${b.summary ? `<h4>Looking back</h4>${para(b.summary)}` : ""}
+  </div>`;
+}
+
+function card(r) {
+  const k = KINDS[kind], note = r[k.noteCol] || "";
+  const flags = M.screen ? M.screen([r.title, r.text, r.pen_name, JSON.stringify(r.body || "")].join(" ")) : [];
+  const title = kind === "trip_reports" ? `${esc(r.title || "Untitled report")} · ${esc(r.substance)}` : esc(r.text);
+  return `<section class="card" data-id="${esc(r.id)}">
+    <p class="kicker">${esc(r.pen_name || "Anonymous")} · ${esc(new Date(r.created_at).toLocaleString())} · ${esc(r.status)}${kind === "questions" && r.substances?.length ? ` · ${esc(r.substances.join(", "))}` : ""}</p>
+    <h2 class="post" style="font-size:1.1rem">${title}</h2>
+    ${kind === "trip_reports" ? `<details><summary>Read the full report</summary>${reportBody(r)}</details>` : ""}
+    ${flags.length ? `<div class="alert warn">${M.WARN_ICON}<div><p><b>Automatic checks flagged:</b></p>${flags.map((f) => `<p>${esc(f)}</p>`).join("")}</div></div>` : ""}
+    <div class="field"><label>${kind === "replies" ? "Correction shown with the reply (optional)" : "Note (private, optional)"}</label><textarea class="note" maxlength="1000">${esc(note)}</textarea></div>
+    <div class="row">
+      ${r.status !== "approved" ? `<button class="btn primary sm" data-act="approved">Approve</button>` : ""}
+      ${r.status !== "rejected" ? `<button class="btn sm" data-act="rejected">Reject</button>` : ""}
+      ${r.status !== "escalated" ? `<button class="btn ghost sm" data-act="escalated">Needs a second look</button>` : ""}
+      ${r.status !== "pending" ? `<button class="btn ghost sm" data-act="pending">Back to pending</button>` : ""}
+    </div></section>`;
+}
+
+async function list() {
+  const box = $("#list"), k = KINDS[kind];
+  const { data, error } = await sb.from(kind).select(k.cols).eq("status", status).order("created_at", { ascending: status === "pending" }).limit(100);
+  if (error) { box.innerHTML = `<div class="alert warn">${M.WARN_ICON}<div><p>Couldn't load: ${esc(error.message)}</p></div></div>`; return; }
+  box.innerHTML = data.length ? data.map(card).join("") : `<p class="muted">Nothing ${esc(status)} here.</p>`;
+  box.onclick = async (e) => {
+    const b = e.target.closest("[data-act]"); if (!b) return;
+    const c = b.closest("[data-id]"), id = c.dataset.id, act = b.dataset.act;
+    const patch = { status: act, [k.noteCol]: $(".note", c).value.trim() || null };
+    if (kind === "trip_reports") patch.reviewed_at = new Date().toISOString();
+    $$("button", c).forEach((x) => (x.disabled = true));
+    const { data: upd, error: err } = await sb.from(kind).update(patch).eq("id", id).select("id");
+    if (err || !upd?.length) { M.toast(err ? "Couldn't save: " + err.message : "Couldn't save. Are you still a moderator?"); $$("button", c).forEach((x) => (x.disabled = false)); return; }
+    M.toast({ approved: "Approved and published", rejected: "Rejected", escalated: "Marked for a second look", pending: "Moved back to pending" }[act]);
+    c.remove(); counts();
+    if (!$("[data-id]", box)) box.innerHTML = `<p class="muted">Nothing ${esc(status)} here.</p>`;
+  };
+}
+
+boot();
+</script>
+</body>
+</html>
