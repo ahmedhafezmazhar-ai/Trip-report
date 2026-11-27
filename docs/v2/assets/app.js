@@ -301,6 +301,37 @@ M.store = {
   vote(id, v) { const all = this.votes(); if (all[id] === v) delete all[id]; else all[id] = v; LS.set("votes", all); return all[id]; },
 };
 
+/* ---------- Supabase backend (public URL + publishable key only; row-level security
+   lets visitors submit as "pending" and read only approved rows) ---------- */
+M.cloud = {
+  url: "https://sldpdcqysjmrdznqznvb.supabase.co/rest/v1/",
+  key: "sb_publishable_fYf21K86gkt8xqHyyU3Dnw_I0w3paLU",
+  headers(extra) { return Object.assign({ apikey: this.key, "Content-Type": "application/json" }, extra || {}); },
+  newId() { return (crypto.randomUUID ? crypto.randomUUID() : "10000000-1000-4000-8000-100000000000".replace(/[018]/g, (c) => (c ^ (crypto.getRandomValues(new Uint8Array(1))[0] & (15 >> (c / 4)))).toString(16))); },
+  async insert(table, row) {
+    const r = await fetch(this.url + table, { method: "POST", headers: this.headers({ Prefer: "return=minimal" }), body: JSON.stringify(row) });
+    if (!r.ok) throw new Error((await r.text()) || r.statusText);
+    return true;
+  },
+  async select(table, query) {
+    const r = await fetch(this.url + table + "?" + query, { headers: this.headers() });
+    if (!r.ok) throw new Error((await r.text()) || r.statusText);
+    return r.json();
+  },
+  submitReport(R) {
+    const { status, cloudId, ...body } = R;
+    const id = R.cloudId || this.newId();
+    return this.insert("trip_reports", { id, substance: R.substance, title: (R.title || "").slice(0, 200), pen_name: (R.pen || "").slice(0, 60), body }).then(() => id);
+  },
+  submitQuestion(q) {
+    const id = this.newId();
+    return this.insert("questions", { id, text: q.text, pen_name: (q.pen || "").slice(0, 60), substances: q.substances }).then(() => id);
+  },
+  reports(substance) { return this.select("trip_reports", "select=id,title,pen_name,created_at&order=created_at.desc&substance=eq." + encodeURIComponent(substance)); },
+  report(id) { return this.select("trip_reports", "select=*&id=eq." + encodeURIComponent(id)).then((a) => a[0] || null); },
+  questions(substance) { return this.select("questions", "select=id,text,pen_name,created_at&order=created_at.desc&substances=cs." + encodeURIComponent("{" + JSON.stringify(substance) + "}")); },
+};
+
 /* ---------- interactions ---------- */
 // Medications and other items that appear in PsychonautWiki interaction lists but aren't substances on the map.
 M.MEDS = ["SSRIs", "SNRIs", "MAOIs", "Tricyclic antidepressants", "Lithium", "Bupropion", "Trazodone", "Antipsychotics", "Antihistamines", "Protease inhibitors (e.g. ritonavir)", "Hormonal birth control", "Anticoagulants", "Grapefruit", "St John's wort"];

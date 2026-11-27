@@ -277,7 +277,7 @@ function classic(r) {
     ${r.after ? `<h3>After-effects</h3><p>${para(r.after)}</p>` : ""}
     ${r.summary ? `<h3>Looking back</h3><p>${para(r.summary)}</p>` : ""}
     ${allK.size ? `<h3>Keywords</h3><p>${[...allK].sort((a, b) => b[1] - a[1]).map(([i, k]) => `<span class="kw">${esc(M.EFF[i].n)} · ${k}/4</span>`).join("")}</p>` : ""}
-    <div class="meta">Written on Mazhar · ${esc(new Date(r.created).toLocaleDateString())} · ${r.status === "submitted" ? "Sent for review, not yet published" : "Draft, saved only on this device"}.<br>Keywords from PsychonautWiki's Subjective Effect Index (CC BY-SA 4.0). This is one person's experience, not advice.</div>
+    <div class="meta">Written on Mazhar · ${esc(new Date(r.created).toLocaleDateString())} · ${r.status === "published" ? "Published after review" : r.status === "submitted" ? "Sent for review, not yet published" : "Draft, saved only on this device"}.<br>Keywords from PsychonautWiki's Subjective Effect Index (CC BY-SA 4.0). This is one person's experience, not advice.</div>
   </article>`;
 }
 
@@ -291,7 +291,9 @@ function stepReview() {
   $("#submit").onclick = () => {
     const iss = M.screen([R.title, R.pen, R.after, R.summary, R.bg.setting, R.bg.pastText, ...R.timeline.map((e) => e.text)].join(" "));
     if (iss.length) { $("#subnote").innerHTML = `<div class="alert warn">${M.WARN_ICON}<div><p><b>Please change this first:</b></p>${iss.map((x) => `<p>${esc(x)}</p>`).join("")}</div></div>`; return; }
-    R.status = "submitted"; R.submitted = new Date().toISOString(); save(); stepReview();
+    const btn = $("#submit"); btn.disabled = true; btn.textContent = "Sending…";
+    M.cloud.submitReport(R).then((id) => { R.cloudId = id; R.status = "submitted"; R.submitted = new Date().toISOString(); save(); stepReview(); })
+      .catch(() => { btn.disabled = false; btn.textContent = "Send for review"; $("#subnote").innerHTML = `<div class="alert warn">${M.WARN_ICON}<div><p><b>Couldn't send right now.</b> Your report is still saved on this device. Check your connection and try again.</p></div></div>`; });
   };
   $("#dl").onclick = () => {
     const blob = new Blob([JSON.stringify(R, (k, v) => v, 2)], { type: "application/json" });
@@ -301,13 +303,13 @@ function stepReview() {
   $("#del").onclick = () => { if (confirm("Delete this report from this device? This can't be undone.")) { M.store.deleteReport(R.id); location.href = "substance.html?s=" + encodeURIComponent(R.substance) + "#reports"; } };
 }
 function submittedNote() {
-  return `<div class="alert ok"><div><p><b>Marked as sent for review.</b> Mazhar's review system isn't switched on yet, so your report stays on this device for now. It will be sent as soon as reviews open. Keep a copy with “Download a copy”.</p></div></div>`;
+  return `<div class="alert ok"><div><p><b>Sent for review.</b> Your report will appear on Mazhar once it has been checked. A copy also stays on this device.</p></div></div>`;
 }
 
 /* ---------- view mode ---------- */
 function viewOnly() {
   S = M.byName.get(R.substance);
-  $("#main").innerHTML = `<div class="page-head no-print"><p class="kicker">Trip report · ${esc(R.substance)}</p><div class="row"><a class="btn" href="substance.html?s=${encodeURIComponent(R.substance)}#reports">← ${esc(R.substance)}</a><a class="btn primary" href="report.html?id=${encodeURIComponent(R.id)}">Edit</a><button class="btn" onclick="print()">Print</button></div></div>${classic(R)}`;
+  $("#main").innerHTML = `<div class="page-head no-print"><p class="kicker">Trip report · ${esc(R.substance)}</p><div class="row"><a class="btn" href="substance.html?s=${encodeURIComponent(R.substance)}#reports">← ${esc(R.substance)}</a>${R.status === "published" ? "" : `<a class="btn primary" href="report.html?id=${encodeURIComponent(R.id)}">Edit</a>`}<button class="btn" onclick="print()">Print</button></div></div>${classic(R)}`;
   document.title = (R.title || "Trip report") + " | Mazhar";
 }
 
@@ -322,7 +324,13 @@ function start() {
 
 (async function () {
   try { await M.load(); } catch (e) { $("#main").innerHTML = `<div class="load">The substance data couldn't load. Reload the page to try again.</div>`; return; }
-  const id = M.param("id"), s = M.param("s");
+  const id = M.param("id"), s = M.param("s"), pub = M.param("pub");
+  if (pub) {
+    let row = null; try { row = await M.cloud.report(pub); } catch (e) {}
+    if (!row) { $("#main").innerHTML = `<div class="page-head"><h1>Report not found</h1><p class="lede">It may not be published yet, or the connection failed. Reload to try again.</p></div>`; return; }
+    R = Object.assign(blank(row.substance), row.body, { id: row.id, status: "published", created: row.created_at });
+    return viewOnly();
+  }
   if (id) {
     R = M.store.report(id);
     if (!R) { $("#main").innerHTML = `<div class="page-head"><h1>Report not found</h1><p class="lede">It may have been deleted, or written on another device. Reports are saved only on the device they were written on.</p><p><a class="btn" href="report.html">Start a new report</a></p></div>`; return; }

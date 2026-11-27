@@ -111,7 +111,7 @@ function reportsTab() {
     <section class="card"><p class="kicker">1 · Summary</p><h2>What people report</h2>
       <p class="muted">A summary appears here once enough trip reports are published on Mazhar, together with what Reddit posts say. There aren't enough yet for ${esc(S.n)}.</p></section>
     <section class="card"><p class="kicker">2 · Mazhar trip reports</p><h2>Reports written here</h2>
-      <p class="muted">No published reports for ${esc(S.n)} yet. Every report is checked before it is published.</p>
+      <div id="pubreports"><p class="muted">Loading published reports…</p></div>
       <div class="row" style="margin:6px 0 4px"><a class="btn primary" href="report.html?s=${encodeURIComponent(S.n)}">Write about a past trip</a><button class="btn" disabled title="Coming with live mode">Go live now (coming soon)</button></div>
       ${mine.length ? `<h3>Your reports on this device</h3>${mine.map((r) => `<a class="item" href="report.html?id=${encodeURIComponent(r.id)}&view=1"><div class="t">${esc(r.title || "Untitled report")}</div><div class="m">${r.status === "submitted" ? "Waiting for review" : "Draft"} · only on this device · ${esc(new Date(r.updated).toLocaleDateString())}</div></a>`).join("")}` : ""}
     </section>
@@ -153,8 +153,9 @@ function qaTab() {
         <div class="field"><label class="check" style="margin-top:30px"><input type="checkbox" id="qtag" checked>About ${esc(S.n)}</label></div></div>
         <button class="btn primary" type="submit">Check and save</button>
       </form>
-      ${qs.length ? `<h3>Your questions</h3>${qs.map((q) => `<div class="item"><div class="t">${esc(q.text)}</div><div class="m">${esc(q.pen || "Anonymous")} · waiting for review · only on this device <button class="term" data-delq="${esc(q.id)}">Delete</button></div></div>`).join("")}` : ""}
-      <p class="small faint" style="margin-top:10px">Community questions and replies go live when Mazhar's review system is switched on. Until then, questions are saved only on this device.</p>
+      ${qs.length ? `<h3>Your questions</h3>${qs.map((q) => `<div class="item"><div class="t">${esc(q.text)}</div><div class="m">${esc(q.pen || "Anonymous")} · ${q.cloudId ? "sent, waiting for review" : "waiting for review · only on this device"} <button class="term" data-delq="${esc(q.id)}">Hide</button></div></div>`).join("")}` : ""}
+    </section>
+    <section class="card"><h2>Community questions</h2><div id="pubquestions"><p class="muted">Loading…</p></div>
     </section>
     <section class="card"><h2>Tools</h2><div class="grid2">
       <a class="item" href="tools.html?with=${encodeURIComponent(S.n)}#checker"><div class="t">Interaction checker</div><div class="m">Check ${esc(S.n)} with other substances and medications.</div></a>
@@ -171,6 +172,20 @@ function similarFaq(text) {
   return FAQ.map((f, i) => ({ i, f, n: (f.q.toLowerCase().match(/[a-z]{4,}/g) || []).filter((x) => w.has(x) && !stop.has(x)).length })).filter((x) => x.n >= 1).sort((a, b) => b.n - a.n).slice(0, 2);
 }
 
+function loadCommunity() {
+  const fmt = (d) => esc(new Date(d).toLocaleDateString());
+  const pr = $("#pubreports");
+  if (pr) M.cloud.reports(S.n).then((rows) => {
+    pr.innerHTML = rows.length ? rows.map((r) => `<a class="item" href="report.html?pub=${encodeURIComponent(r.id)}"><div class="t">${esc(r.title || "Untitled report")}</div><div class="m">${esc(r.pen_name || "Anonymous")} · ${fmt(r.created_at)}</div></a>`).join("")
+      : `<p class="muted">No published reports for ${esc(S.n)} yet. Every report is checked before it is published.</p>`;
+  }).catch(() => { pr.innerHTML = `<p class="muted">Published reports couldn't load. Reload to try again.</p>`; });
+  const pq = $("#pubquestions");
+  if (pq) M.cloud.questions(S.n).then((rows) => {
+    pq.innerHTML = rows.length ? rows.map((q) => `<div class="item"><div class="t">${esc(q.text)}</div><div class="m">${esc(q.pen_name || "Anonymous")} · ${fmt(q.created_at)}</div></div>`).join("")
+      : `<p class="muted">No published questions about ${esc(S.n)} yet.</p>`;
+  }).catch(() => { pq.innerHTML = `<p class="muted">Questions couldn't load. Reload to try again.</p>`; });
+}
+
 function wire() {
   const tabs = $$(".tabs button"), panels = $$("[role=tabpanel]");
   function show(id, push) {
@@ -182,7 +197,7 @@ function wire() {
   document.addEventListener("click", (e) => {
     const g = e.target.closest("[data-go]"); if (g) { e.preventDefault(); show(g.dataset.go, true); $(".tabs").scrollIntoView({ behavior: "smooth" }); }
     const v = e.target.closest("[data-vote]"); if (v) { const r = M.store.vote(v.dataset.vote, 1); v.setAttribute("aria-pressed", r === 1); }
-    const d = e.target.closest("[data-delq]"); if (d) { M.store.deleteQuestion(d.dataset.delq); $("#tab-qa").innerHTML = qaTab(); wireAsk(); }
+    const d = e.target.closest("[data-delq]"); if (d) { M.store.deleteQuestion(d.dataset.delq); $("#tab-qa").innerHTML = qaTab(); wireAsk(); loadCommunity(); }
   });
   show(["info", "reports", "qa"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "info");
   $("#rgo").onclick = () => {
@@ -190,7 +205,7 @@ function wire() {
     $("#reddit-confirm").hidden = true; const l = $("#reddit-links"); l.hidden = false; l.innerHTML = redditLinks(n);
     $("#rchange").onclick = () => { l.hidden = true; $("#reddit-confirm").hidden = false; };
   };
-  wireAsk();
+  wireAsk(); loadCommunity();
 }
 function wireAsk() {
   const ta = $("#qtext"), box = $("#qcheck");
@@ -209,9 +224,11 @@ function wireAsk() {
     if (t.length < 10) { M.toast("Please write a full question."); return; }
     const issues = M.screen(t + " " + $("#qpen").value);
     if (issues.length) { box.insertAdjacentHTML("afterbegin", `<div class="alert warn">${M.WARN_ICON}<div><p><b>Please change this before posting:</b></p>${issues.map((i) => `<p>${esc(i)}</p>`).join("")}</div></div>`); return; }
-    M.store.saveQuestion({ id: M.uid(), text: t, pen: $("#qpen").value.trim(), substances: $("#qtag").checked ? [S.n] : [], created: new Date().toISOString(), status: "pending" });
-    M.toast("Saved on this device, waiting for review");
-    $("#tab-qa").innerHTML = qaTab(); wireAsk();
+    const q = { id: M.uid(), text: t, pen: $("#qpen").value.trim(), substances: $("#qtag").checked ? [S.n] : [], created: new Date().toISOString(), status: "pending" };
+    const btn = $("#askform button[type=submit]"); btn.disabled = true;
+    M.cloud.submitQuestion(q).then((cid) => { q.cloudId = cid; M.toast("Sent. It appears here once it has been checked."); })
+      .catch(() => M.toast("Couldn't send right now. Saved on this device, try again later."))
+      .finally(() => { M.store.saveQuestion(q); $("#tab-qa").innerHTML = qaTab(); wireAsk(); loadCommunity(); });
   };
 }
 
