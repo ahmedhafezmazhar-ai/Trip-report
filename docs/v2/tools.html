@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mazhar Tools</title>
+<meta name="description" content="Interaction checker, drug checking guide, research tools and learning paths.">
+<meta name="theme-color" content="#0b0716">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<main class="wrap">
+  <div class="page-head"><p class="kicker">Questions &amp; Tools</p><h1 class="grad">Tools</h1>
+    <p class="lede">Check combinations before you mix, test what you have, compare substances, and learn the basics.</p></div>
+  <div class="tabs" role="tablist" aria-label="Tools">
+    <button role="tab" data-tab="checker" aria-controls="checker">Interaction checker</button>
+    <button role="tab" data-tab="testing" aria-controls="testing">Drug checking</button>
+    <button role="tab" data-tab="research" aria-controls="research">Research</button>
+    <button role="tab" data-tab="learn" aria-controls="learn">Learning paths</button>
+  </div>
+  <section role="tabpanel" id="checker"><div class="load">Loading…</div></section>
+  <section role="tabpanel" id="testing" hidden></section>
+  <section role="tabpanel" id="research" hidden></section>
+  <section role="tabpanel" id="learn" hidden></section>
+</main>
+
+<script src="assets/app.js"></script>
+<script>
+"use strict";
+const { $, $$, esc } = M;
+M.backdrop(); M.chrome("tools");
+
+/* ================= interaction checker (D31a) ================= */
+const picked = [];
+function itemKey(x) { return x.kind + ":" + M.itemName(x); }
+function addItem(x) { if (!picked.some((p) => itemKey(p) === itemKey(x))) picked.push(x); drawChecker(); }
+function checkerShell() {
+  $("#checker").innerHTML = `<div class="stack"><section class="card"><h2>Check a combination</h2>
+    <p class="muted">Add two or more substances or medications. Mazhar shows what PsychonautWiki lists for each pair, plus general rules for whole drug types.</p>
+    <div class="grid2"><div class="field"><label for="cq">Add a substance</label><div><input type="search" id="cq" placeholder="e.g. MDMA, alcohol, ketamine" autocomplete="off"></div></div>
+    <div class="field"><label for="cm">Add a medication or other</label><select id="cm"><option value="">Choose</option>${M.MEDS.map((m) => `<option>${esc(m)}</option>`).join("")}</select></div></div>
+    <div class="efx" id="picked" aria-live="polite"></div></section>
+    <div id="results"></div>
+    <div class="alert info">${M.INFO_ICON}<div><p><b>No result is a green light.</b> “Nothing listed” means PsychonautWiki has no entry for that pair, not that it is safe. Doses, timing and your health all change the risk. Ask a pharmacist or doctor about prescription medicines.</p></div></div></div>`;
+  M.suggestBox($("#cq"), (s) => { addItem({ kind: "sub", s }); $("#cq").value = ""; });
+  $("#cm").onchange = (e) => { if (e.target.value) addItem({ kind: "med", n: e.target.value }); e.target.value = ""; };
+}
+function drawChecker() {
+  $("#picked").innerHTML = picked.length ? picked.map((x, i) => `<span class="k" style="padding:6px 6px 6px 12px">${esc(M.itemName(x))} <button class="btn sm ghost" data-rmi="${i}" aria-label="Remove ${esc(M.itemName(x))}" style="min-height:26px;padding:0 6px">✕</button></span>`).join("") : `<span class="small faint">Nothing added yet.</span>`;
+  $$("[data-rmi]").forEach((b) => (b.onclick = () => { picked.splice(+b.dataset.rmi, 1); drawChecker(); }));
+  const subs = picked.filter((p) => p.kind === "sub").map((p) => p.s.n);
+  if (!$("#checker").hidden) history.replaceState(null, "", (subs.length ? "?with=" + subs.map(encodeURIComponent).join("|") : location.pathname) + "#checker");
+  if (picked.length < 2) { $("#results").innerHTML = picked.length === 1 && picked[0].kind === "sub" ? `<section class="card"><h2>${esc(picked[0].s.n)}: listed interactions</h2>${M.ixList(picked[0].s)}<p class="small muted" style="margin-top:10px">Add another item to check a specific pair.</p></section>` : ""; return; }
+  const pairs = [];
+  for (let i = 0; i < picked.length; i++) for (let j = i + 1; j < picked.length; j++) pairs.push([picked[i], picked[j], M.pair(picked[i], picked[j])]);
+  const rank = { dangerous: 4, unsafe: 3, uncertain: 2, caution: 1, none: 0 };
+  pairs.sort((a, b) => rank[b[2].sev] - rank[a[2].sev]);
+  $("#results").innerHTML = `<section class="card"><h2>Results</h2><div class="stack" style="gap:12px">${pairs.map(([a, b, p]) => `<div class="entry">
+      <div class="row" style="margin-bottom:6px"><span class="sev ${p.sev}">${M.SEV_LABEL[p.sev]}</span><b>${esc(M.itemName(a))} + ${esc(M.itemName(b))}</b></div>
+      ${p.sev !== "none" ? `<p class="small">${esc(M.SEV_TEXT[p.sev] || "")}</p>` : `<p class="small muted">Nothing listed for this pair. That doesn't mean it is safe.</p>`}
+      ${p.items.map((x) => `<p class="small"><span class="sev ${x.sev}">${M.SEV_LABEL[x.sev]}</span> <b>On ${esc(x.from)}'s page, under “${esc(x.target)}”:</b> ${esc(x.why || "No reason given.")}</p>`).join("")}
+      ${p.general.map((g) => `<p class="small"><span class="sev general">General rule</span> ${esc(g.why)}</p>`).join("")}
+    </div>`).join("")}</div>
+    ${pairs.some((p) => p[2].sev === "dangerous") ? `<div class="alert danger" style="margin-top:14px">${M.DANGER_ICON}<div><p><b>If someone has already mixed a dangerous combination</b> and feels unwell, call <a href="tel:${esc(M.emergencyNumber())}">${esc(M.emergencyNumber())}</a>. <button class="btn danger sm" onclick="M.sos()">Emergency steps</button></p></div></div>` : ""}
+    <p class="small faint" style="margin-top:12px">Sources: interaction lists on each PsychonautWiki substance page and the Dangerous combinations page (CC BY-SA 4.0).</p></section>`;
+}
+
+/* ================= drug checking (D31b) ================= */
+const REAGENT_INFO = [
+  ["Marquis", "Amphetamine-type compounds (speed, methamphetamine), MDMA, MDA, MDE, opiates (morphine, codeine, heroin), LSD. A general first test."],
+  ["Mecke", "Heroin and other opiates, LSD, research chemicals."],
+  ["Mandelin", "A wide range of substances. Good second test after Marquis."],
+  ["Simon's", "Tells secondary amines (MDMA, methamphetamine) apart from primary amines (MDA, amphetamine)."],
+  ["Froehde", "Opioids and many phenethylamines and tryptamines."],
+  ["Liebermann", "Many substances, useful to tell similar results apart."],
+  ["Ehrlich", "Indoles: tryptamines (DMT, psilocybin mushrooms) and lysergamides (LSD). Use it on blotters: LSD turns it purple, NBOMes don't."],
+  ["Scott", "Cocaine (also reacts to lidocaine and diphenhydramine, common cutting agents)."],
+  ["Zimmermann", "Benzodiazepines."],
+  ["Dille–Koppanyi", "Barbiturates."],
+];
+let REAGENTS;
+function testing() {
+  const s = M.param("s");
+  $("#testing").innerHTML = `<div class="stack"><section class="card"><h2>How to test</h2>
+    <div class="alert warn">${M.WARN_ICON}<div><b>Reagents show what may be present, not how much or how pure.</b> A sample can contain several things. A test result never makes a drug safe.</div></div>
+    <h3>You need</h3><ul><li>Drug checking reagents</li><li>A white ceramic plate (or a coffee mug)</li><li>A scraper for pills, or scissors for blotters</li><li>Gloves, and baking soda for spills</li><li>Your phone to film the reaction</li></ul>
+    <h3>Steps</h3><ol>
+      <li>Scrape a tiny bit of your pill or powder (or cut a tiny piece of blotter) onto the white plate. Use just enough to see.</li>
+      <li><b>Open only one reagent bottle at a time.</b> Mixed-up caps ruin the reagents.</li>
+      <li>Hold the bottle upside down a few centimetres above the sample and squeeze out one drop. Don't let the dropper touch the sample. Close the bottle.</li>
+      <li>Watch the colour change straight away, and film it. Compare it with the chart that came with your kit.</li>
+      <li>No change within 30 seconds, or a different colour sequence, means it isn't what you expected. Test a fresh sample with another reagent.</li>
+      <li>Wash the plate with soap and water. Store reagents cold and dark.</li></ol>
+    <p class="small muted">Reagents are mostly sulfuric acid. Keep them away from eyes, mouth and skin. Test blotters sold as LSD with Ehrlich (NBOMes are dangerous), and use fentanyl test strips wherever fentanyl is a risk.</p></section>
+    <section class="card"><h2>Which reagent detects what</h2><div class="tbl-wrap"><table class="tbl"><tbody>${REAGENT_INFO.map(([n, d]) => `<tr><th>${esc(n)}</th><td>${esc(d)}</td></tr>`).join("")}</tbody></table></div></section>
+    <section class="card"><h2>Colour chart</h2><p class="small muted">Expected first colour for each substance. Swatches are approximate.</p>
+      <div class="field"><label for="rq">Find a substance</label><input type="search" id="rq" value="${esc(s || "")}" placeholder="e.g. MDMA, 2C-B, ketamine" autocomplete="off"></div>
+      <div class="tbl-wrap"><table class="tbl" id="rtable"></table></div></section>
+    <p class="small faint">Adapted from PsychonautWiki's Reagent testing kits page (CC BY-SA 4.0).</p></div>`;
+  const draw = () => {
+    const q = $("#rq").value.trim().toLowerCase();
+    const sub = q && M.find(q);
+    const names = sub ? [sub.n, ...sub.aka].map((x) => x.toLowerCase()) : [];
+    const rows = REAGENTS.rows.filter((r) => !q || r.s.toLowerCase().includes(q) || names.includes(r.s.toLowerCase()));
+    $("#rtable").innerHTML = `<thead><tr><th>Substance</th>${REAGENTS.columns.map((c) => `<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr><th>${esc(r.s)}</th>${r.r.map((c) => `<td>${c.c ? `<span class="swatch" style="background:${esc(c.c)}"></span>` : ""}${esc(c.t || "–")}</td>`).join("")}</tr>`).join("") || `<tr><td colspan="${REAGENTS.columns.length + 1}" class="muted">No colours listed for that substance.</td></tr>`}</tbody>`;
+  };
+  $("#rq").oninput = draw; draw();
+}
+
+/* ================= research (D31c) ================= */
+const R = { fam: "", dose: false, sh: false, eff: "", cmp: [] };
+const firstRoute = (s) => Object.entries(s.routes)[0] || [null, {}];
+function research() {
+  const fams = [...new Set(M.SUBS.map((s) => s.f))].sort();
+  const c = M.param("compare"); if (c && M.byName.has(c) && !R.cmp.includes(c)) R.cmp.push(c);
+  $("#research").innerHTML = `<div class="stack"><section class="card"><h2>Filter</h2><div class="grid2">
+      <div class="field"><label for="rf">Family</label><select id="rf"><option value="">All families</option>${fams.map((f) => `<option>${esc(f)}</option>`).join("")}</select></div>
+      <div class="field"><label for="re">Has the effect</label><div><input type="search" id="re" list="efl" placeholder="e.g. Euphoria" autocomplete="off"></div><datalist id="efl">${M.EFF.map((e) => `<option value="${esc(e.n)}">`).join("")}</datalist></div></div>
+      <div class="row"><label class="check"><input type="checkbox" id="rd">Has dose data</label><label class="check"><input type="checkbox" id="rs">In Shulgin's books</label></div>
+      <hr class="sep"><div class="row"><b id="rcount"></b><span style="margin-left:auto"></span><button class="btn sm" id="xcsv">Export CSV</button><button class="btn sm" id="xjson">Export JSON</button></div>
+      <p class="small faint">Exports include the source and licence on every row. PsychonautWiki data is CC BY-SA 4.0: credit PsychonautWiki and share adaptations under the same licence.</p>
+      <div class="tbl-wrap" style="max-height:420px;overflow:auto"><table class="tbl" id="rtab"></table></div></section>
+    <section class="card"><h2>Compare</h2><p class="muted">Add up to four substances with “Compare” in the list above, or search here.</p>
+      <div class="field"><div><input type="search" id="rcq" placeholder="Add a substance to compare" autocomplete="off" aria-label="Add a substance to compare"></div></div>
+      <div id="cmp"></div></section></div>`;
+  const rows = () => M.SUBS.filter((s) => (!R.fam || s.f === R.fam || s.also.includes(R.fam)) && (!R.dose || s.hasDose) && (!R.sh || s.sh.length) && (!R.eff || s.e.some((i) => M.EFF[i].n.toLowerCase() === R.eff.toLowerCase())));
+  function table() {
+    const list = rows();
+    $("#rcount").textContent = `${list.length} substance${list.length === 1 ? "" : "s"}`;
+    $("#rtab").innerHTML = `<thead><tr><th>Substance</th><th>Family</th><th>Class</th><th>Common dose</th><th>Duration</th><th></th></tr></thead><tbody>${list.map((s) => { const [rn, r] = firstRoute(s); return `<tr><td><a href="substance.html?s=${encodeURIComponent(s.n)}">${esc(s.n)}</a></td><td>${esc(s.f)}</td><td>${esc(s.c)}</td><td>${esc(r.common || "–")}${rn ? ` <span class="faint small">${esc(rn)}</span>` : ""}</td><td>${esc(r.duration || "–")}</td><td><button class="btn sm" data-cmp="${esc(s.n)}" ${R.cmp.includes(s.n) || R.cmp.length >= 4 ? "disabled" : ""}>Compare</button></td></tr>`; }).join("")}</tbody>`;
+    $$("[data-cmp]").forEach((b) => (b.onclick = () => { R.cmp.push(b.dataset.cmp); table(); compare(); }));
+  }
+  function compare() {
+    const list = R.cmp.map((n) => M.byName.get(n));
+    if (!list.length) { $("#cmp").innerHTML = `<p class="small faint">Nothing to compare yet.</p>`; return; }
+    const shared = list.length > 1 ? list.map((s) => new Set(s.e)).reduce((a, b) => new Set([...a].filter((x) => b.has(x)))) : new Set();
+    const rowsC = [
+      ["Family", (s) => esc(s.f)], ["Chemical class", (s) => esc(s.c)], ["Routes", (s) => esc(Object.keys(s.routes).map(M.routeName).join(", ") || "–")],
+      ["Common dose", (s) => { const [rn, r] = firstRoute(s); return esc(r.common || "–") + (rn ? ` <span class="faint small">${esc(rn)}</span>` : ""); }],
+      ["Onset", (s) => esc(firstRoute(s)[1].onset || "–")], ["Peak", (s) => esc(firstRoute(s)[1].peak || "–")], ["Duration", (s) => esc(firstRoute(s)[1].duration || "–")],
+      ["Effects listed", (s) => s.e.length], ["Dangerous with", (s) => esc([...new Set(s.ix.filter((x) => x.sev === "dangerous").map((x) => x.with))].join(", ") || "None listed")],
+    ];
+    let mix = "";
+    if (list.length > 1) { const p = []; for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) { const r = M.pair({ kind: "sub", s: list[i] }, { kind: "sub", s: list[j] }); p.push(`<span class="sev ${r.sev}">${M.SEV_LABEL[r.sev]}</span> ${esc(list[i].n)} + ${esc(list[j].n)}`); } mix = `<h3>Mixing them</h3><p>${p.join("<br>")}</p><p><a href="tools.html?with=${list.map((s) => encodeURIComponent(s.n)).join("|")}#checker">Details in the interaction checker</a></p>`; }
+    $("#cmp").innerHTML = `<div class="tbl-wrap"><table class="tbl"><thead><tr><th></th>${list.map((s, i) => `<th>${esc(s.n)} <button class="term" data-unc="${i}" aria-label="Remove ${esc(s.n)}">✕</button></th>`).join("")}</tr></thead><tbody>${rowsC.map(([k, f]) => `<tr><th>${k}</th>${list.map((s) => `<td>${f(s)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>
+      ${list.length > 1 ? `<h3>Effects they share (${shared.size})</h3><div class="efx">${[...shared].map((i) => `<span class="k">${M.effTerm(i)}</span>`).join("") || `<span class="muted">None in common.</span>`}</div>` : ""}${mix}`;
+    $$("[data-unc]").forEach((b) => (b.onclick = () => { R.cmp.splice(+b.dataset.unc, 1); table(); compare(); }));
+  }
+  function exportRows() {
+    return rows().map((s) => { const [rn, r] = firstRoute(s); return { name: s.n, family: s.f, also_in: s.also.join("; "), chemical_class: s.c, routes: Object.keys(s.routes).join("; "), first_route: rn || "", threshold: r.threshold || "", light: r.light || "", common: r.common || "", strong: r.strong || "", heavy: r.heavy || "", onset: r.onset || "", peak: r.peak || "", duration: r.duration || "", effects: s.e.map((i) => M.EFF[i].n).join("; "), dangerous_with: [...new Set(s.ix.filter((x) => x.sev === "dangerous").map((x) => x.with))].join("; "), shulgin: s.sh.join("; "), source_url: s.u, source: "PsychonautWiki", license: "CC BY-SA 4.0" }; });
+  }
+  function download(name, text, type) { const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text], { type })); a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000); }
+  $("#xcsv").onclick = () => { const r = exportRows(); if (!r.length) return; const cols = Object.keys(r[0]); const q = (v) => `"${String(v).replace(/"/g, '""')}"`; download("mazhar-substances.csv", [cols.join(","), ...r.map((x) => cols.map((c) => q(x[c])).join(","))].join("\n"), "text/csv"); };
+  $("#xjson").onclick = () => download("mazhar-substances.json", JSON.stringify({ source: "PsychonautWiki (psychonautwiki.org), via Mazhar", license: "CC BY-SA 4.0", exported: new Date().toISOString(), substances: exportRows() }, null, 2), "application/json");
+  $("#rf").onchange = (e) => { R.fam = e.target.value; table(); };
+  $("#re").oninput = (e) => { R.eff = e.target.value.trim(); table(); };
+  $("#rd").onchange = (e) => { R.dose = e.target.checked; table(); };
+  $("#rs").onchange = (e) => { R.sh = e.target.checked; table(); };
+  M.suggestBox($("#rcq"), (s) => { if (!R.cmp.includes(s.n) && R.cmp.length < 4) R.cmp.push(s.n); $("#rcq").value = ""; table(); compare(); });
+  table(); compare();
+}
+
+/* ================= learning paths (D31d) ================= */
+async function learn() {
+  const paths = (await M.json("data/learn.json")).data;
+  const done = M.LS.get("learned", {});
+  $("#learn").innerHTML = `<div class="stack"><p class="muted">Reading lists for students and anyone curious. Each page opens on PsychonautWiki. Tick pages off as you go; your progress stays on this device.</p>
+    ${paths.map((p) => { const n = p.items.filter((x) => done[x.t]).length; return `<section class="card"><div class="row"><h2 style="margin:0">${esc(p.t)}</h2><span class="pill" style="margin-left:auto" id="pc-${p.id}">${n} of ${p.items.length}</span></div><p class="muted" style="margin-top:6px">${esc(p.d)}</p>
+      <ol style="padding-left:20px;margin:0">${p.items.map((x) => `<li style="margin:0 0 12px"><div class="row" style="flex-wrap:nowrap;align-items:flex-start"><input type="checkbox" data-learn="${esc(x.t)}" data-path="${p.id}" ${done[x.t] ? "checked" : ""} aria-label="Mark ${esc(x.t)} as read" style="width:20px;height:20px;accent-color:var(--accent);flex:none;margin-top:3px"><div><a href="${esc(x.u)}" target="_blank" rel="noopener"><b>${esc(x.t)}</b> ↗</a>${x.d ? `<div class="small muted">${esc(x.d)}</div>` : ""}</div></div></li>`).join("")}</ol></section>`; }).join("")}
+    <p class="small faint">Summaries from PsychonautWiki (CC BY-SA 4.0).</p></div>`;
+  $$("[data-learn]").forEach((c) => (c.onchange = () => {
+    if (c.checked) done[c.dataset.learn] = 1; else delete done[c.dataset.learn]; M.LS.set("learned", done);
+    const p = paths.find((x) => x.id === c.dataset.path); $("#pc-" + p.id).textContent = `${p.items.filter((x) => done[x.t]).length} of ${p.items.length}`;
+  }));
+}
+
+/* ================= tabs + boot ================= */
+const built = {};
+function show(id) {
+  $$(".tabs button").forEach((t) => t.setAttribute("aria-selected", t.dataset.tab === id));
+  $$("[role=tabpanel]").forEach((p) => (p.hidden = p.id !== id));
+  if (!built[id]) { built[id] = 1; ({ testing, research, learn }[id] || (() => {}))(); }
+  history.replaceState(null, "", location.search + "#" + id);
+}
+$$(".tabs button").forEach((t) => (t.onclick = () => show(t.dataset.tab)));
+(async function () {
+  try { await M.load(); REAGENTS = (await M.json("data/reagents.json")).data; }
+  catch (e) { $("#checker").innerHTML = `<div class="load">The data couldn't load. Reload the page to try again.</div>`; return; }
+  const first = ["checker", "testing", "research", "learn"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "checker";
+  checkerShell();
+  const w = M.param("with");
+  if (w) for (const n of w.split("|")) { const s = M.byName.get(n) || M.find(n); if (s) picked.push({ kind: "sub", s }); }
+  built.checker = 1; drawChecker();
+  show(first);
+})();
+</script>
+</body>
+</html>

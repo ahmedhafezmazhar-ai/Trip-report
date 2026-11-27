@@ -175,6 +175,9 @@ aside.side{padding:16px;display:flex;flex-direction:column;gap:16px;min-width:0}
 .eff-group .efx button{cursor:pointer}
 .src{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-weight:600;text-decoration:none;border:1px solid var(--accent);border-radius:12px;padding:10px 14px}
 .src:hover{background:rgba(201,167,255,.12)}
+.dactions{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.dactions .src{margin-top:0}
+.dactions .src.main{flex-basis:100%;justify-content:center;background:linear-gradient(135deg,#c9a7ff,#8fd9ff);color:#1a0f33;border-color:transparent}
+.topnav{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.topnav a{color:var(--text);text-decoration:none;font-weight:600;font-size:14px;border:1px solid var(--line-strong);background:var(--panel);border-radius:99px;padding:8px 14px;backdrop-filter:blur(12px)}.topnav a:hover{border-color:var(--accent)}
 .hr-note{margin-top:20px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
 
 footer{padding:10px 0 calc(env(safe-area-inset-bottom) + 40px);color:var(--muted);font-size:13px}
@@ -208,6 +211,7 @@ footer .card{padding:16px 18px;display:flex;flex-direction:column;gap:6px}
   </div>
   <p class="lede">Find any substance and see what it can do. Every substance from PsychonautWiki, grouped by family and chemical class. Tap a bubble to dive in, or pick effects to see which substances cause them.</p>
   <div class="stats" id="stats" aria-live="polite"></div>
+  <nav class="topnav" aria-label="More"><a href="report.html">Write a trip report</a><a href="tools.html#checker">Interaction checker</a><a href="tools.html#testing">Drug checking</a><a href="tools.html#research">Research</a><a href="tools.html#learn">Learning paths</a></nav>
 </header>
 
 <div class="toolbar wrap">
@@ -541,7 +545,7 @@ function openDrawer(name){
     ${s.d?"":`<div class="alert warn">${WARN_ICON}<div><b>No reliable dose data yet.</b> Treat any amount as an unknown risk. Start low, don't mix, and don't use alone.</div></div>`}
     <dl><dt>Family</dt><dd>${esc(s.f)}</dd><dt>Chemical class</dt><dd>${esc(s.c)}</dd>${s.sh.length?`<dt>Shulgin</dt><dd>${esc(s.sh.join(", "))}</dd>`:""}<dt>Effects listed</dt><dd>${s.e.length||"None yet"}</dd></dl>
     ${s.e.length?`<div class="eff-group">${groups.map(([g,arr])=>`<h4>${esc(g.replace(/ effects$/,""))}</h4><div class="efx">${arr.map(e=>`<button data-e="${e.i}" aria-pressed="${state.effects.has(e.i)}" title="Show substances with this effect">${esc(e.n)}</button>`).join("")}</div>`).join("")}</div>`:`<p class="hint">Effects for this substance aren't listed yet.</p>`}
-    <a class="src" href="${esc(s.u)}" target="_blank" rel="noopener">Read the full PsychonautWiki page ↗</a>
+    <div class="dactions"><a class="src main" href="substance.html?s=${encodeURIComponent(s.n)}">Open the full page: info, trip reports, questions</a><a class="src" href="report.html?s=${encodeURIComponent(s.n)}">Write a trip report</a><a class="src" href="tools.html?with=${encodeURIComponent(s.n)}#checker">Check combinations</a><a class="src" href="${esc(s.u)}" target="_blank" rel="noopener">PsychonautWiki page ↗</a></div>
     <p class="hr-note">Effects are what people report, not a promise. Doses, interactions and your own health change the risk. Never mix substances without checking how they interact.</p>`;
   drawer.hidden=false;
   requestAnimationFrame(()=>{drawer.classList.add("on");scrim.classList.add("on")});
@@ -558,7 +562,7 @@ function closeDrawer(){
 /* ================= events ================= */
 let qT;
 document.getElementById("q").addEventListener("input",e=>{clearTimeout(qT);qT=setTimeout(()=>{state.q=e.target.value.trim().toLowerCase();applyFilter()},120)});
-document.getElementById("q").addEventListener("keydown",e=>{if(e.key==="Enter"){const h=SUBS.filter(matches);const exact=h.find(s=>s.key===state.q)||h[0];if(exact)openDrawer(exact.n)}});
+document.getElementById("q").addEventListener("keydown",e=>{if(e.key==="Enter"){clearTimeout(qT);state.q=e.target.value.trim().toLowerCase();applyFilter();const h=SUBS.filter(matches);const exact=h.find(s=>s.key===state.q)||h[0];if(exact)openDrawer(exact.n)}});
 document.getElementById("efbtn").onclick=e=>{const p=document.getElementById("effects"),o=p.hidden;p.hidden=!o;e.currentTarget.setAttribute("aria-expanded",o);if(o){renderEffects();document.getElementById("efq").focus()}};
 document.getElementById("efq").addEventListener("input",renderEffects);
 document.getElementById("efclear").onclick=()=>{state.effects.clear();renderEffects();applyFilter()};
